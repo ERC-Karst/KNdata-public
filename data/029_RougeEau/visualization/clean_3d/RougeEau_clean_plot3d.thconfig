@@ -1,0 +1,2 @@
+source RougeEau_clean_plot3d.th
+export model -o RougeEau_clean_plot3d.3d

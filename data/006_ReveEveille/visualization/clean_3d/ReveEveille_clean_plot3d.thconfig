@@ -1,0 +1,2 @@
+source ReveEveille_clean_plot3d.th
+export model -o ReveEveille_clean_plot3d.3d

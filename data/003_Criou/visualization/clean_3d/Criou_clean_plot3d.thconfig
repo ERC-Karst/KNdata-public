@@ -1,0 +1,2 @@
+source Criou_clean_plot3d.th
+export model -o Criou_clean_plot3d.3d

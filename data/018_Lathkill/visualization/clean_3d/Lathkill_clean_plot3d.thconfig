@@ -1,0 +1,2 @@
+source Lathkill_clean_plot3d.th
+export model -o Lathkill_clean_plot3d.3d

@@ -1,0 +1,2 @@
+source BreznoNaToscu_clean_plot3d.th
+export model -o BreznoNaToscu_clean_plot3d.3d

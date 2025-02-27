@@ -1,0 +1,2 @@
+source SistemPokljuskegaGrebena_clean_plot3d.th
+export model -o SistemPokljuskegaGrebena_clean_plot3d.3d

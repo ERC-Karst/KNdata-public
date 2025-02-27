@@ -1,0 +1,2 @@
+source Cochon_clean_plot3d.th
+export model -o Cochon_clean_plot3d.3d

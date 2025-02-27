@@ -1,0 +1,2 @@
+source NarinesBoeuf_clean_plot3d.th
+export model -o NarinesBoeuf_clean_plot3d.3d

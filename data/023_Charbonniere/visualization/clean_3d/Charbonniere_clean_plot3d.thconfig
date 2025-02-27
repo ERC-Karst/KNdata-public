@@ -1,0 +1,2 @@
+source Charbonniere_clean_plot3d.th
+export model -o Charbonniere_clean_plot3d.3d

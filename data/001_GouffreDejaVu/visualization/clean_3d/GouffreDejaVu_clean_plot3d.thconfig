@@ -1,0 +1,2 @@
+source GouffreDejaVu_clean_plot3d.th
+export model -o GouffreDejaVu_clean_plot3d.3d

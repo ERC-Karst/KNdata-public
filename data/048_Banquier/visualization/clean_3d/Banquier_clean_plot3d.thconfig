@@ -1,0 +1,2 @@
+source Banquier_clean_plot3d.th
+export model -o Banquier_clean_plot3d.3d

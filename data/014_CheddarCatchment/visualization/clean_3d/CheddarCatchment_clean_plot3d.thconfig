@@ -1,0 +1,2 @@
+source CheddarCatchment_clean_plot3d.th
+export model -o CheddarCatchment_clean_plot3d.3d
