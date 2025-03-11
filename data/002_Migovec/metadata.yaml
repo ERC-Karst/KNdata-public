@@ -1,0 +1,23 @@
+number: '002'
+shortname: Migovec
+fullname: System Migovec
+country: Slovenia
+crs: epsg:3912
+rights: CC BY-NC-SA 4.0
+citation: 'ICCC, & JSDPT. (2024). Survey Data for the Tolminski Migovec Cave Exploration
+  project (Version 2024.03.13) [Dataset]. Zenodo. https://doi.org/DOI: 10.5281/ZENODO.108130'
+thanks: .nan
+start_contract: .nan
+end_contract: .nan
+sharing_conditions: .nan
+cave_survey_owner: .nan
+email_correspondant: .nan
+website: .nan
+data_received_date: .nan
+data_received_by: .nan
+original_format: Therion
+units: meter
+geometry: Splays
+status: in github (cleaning in progress)
+correction_type: Manual correction
+last_processing_date: 03 Mar 2025

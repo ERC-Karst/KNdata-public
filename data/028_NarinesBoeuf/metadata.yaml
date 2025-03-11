@@ -1,0 +1,22 @@
+number: 028
+shortname: NarinesBoeuf
+fullname: Gouffre des Narines de Boeufs
+country: Switzerland
+crs: epsg:21781
+rights: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+start_contract: .nan
+end_contract: .nan
+sharing_conditions: .nan
+cave_survey_owner: .nan
+email_correspondant: .nan
+website: .nan
+data_received_date: .nan
+data_received_by: .nan
+original_format: Toporobot
+units: meter
+geometry: LRUD
+status: in github (cleaning in progress)
+correction_type: No correction
+last_processing_date: 03 Mar 2025

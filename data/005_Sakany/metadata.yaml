@@ -1,0 +1,22 @@
+number: '005'
+shortname: Sakany
+fullname: Reseau Sakany
+country: France
+crs: epsg:27573
+rights: unclear. may not be sharable
+citation: Unknown yet
+thanks: .nan
+start_contract: mars 2012
+end_contract: .nan
+sharing_conditions: .nan
+cave_survey_owner: .nan
+email_correspondant: .nan
+website: https://ghtopo.blog4ever.com/reseau-sakany
+data_received_date: .nan
+data_received_by: https://ghtopo.blog4ever.com/reseau-sakany
+original_format: GHTopo
+units: meter
+geometry: LRUD
+status: clean
+correction_type: No correction
+last_processing_date: 03 Mar 2025

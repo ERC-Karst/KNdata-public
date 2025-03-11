@@ -1,0 +1,24 @@
+number: 009
+shortname: Folly
+fullname: Massif du Folly
+country: France
+crs: epsg:32632
+rights: CC BY-NC-SA 4.0
+citation: 'Robert, X. (2021). Base de données Topographiques des systèmes karstiques
+  du massif du Folly (Samoëns, 74, France) (Version v1.0.0) [Dataset]. Zenodo. https://doi.org/DOI:
+  10.5281/ZENODO.4745567'''
+thanks: .nan
+start_contract: .nan
+end_contract: .nan
+sharing_conditions: .nan
+cave_survey_owner: .nan
+email_correspondant: .nan
+website: .nan
+data_received_date: .nan
+data_received_by: .nan
+original_format: Therion
+units: meter
+geometry: .nan
+status: in github (cleaning in progress)
+correction_type: No correction
+last_processing_date: 03 Mar 2025

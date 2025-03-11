@@ -1,0 +1,22 @@
+number: '015'
+shortname: CountyClare
+fullname: The Caves of County Clare
+country: Ireland
+crs: epsg:2157
+rights: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+start_contract: .nan
+end_contract: .nan
+sharing_conditions: .nan
+cave_survey_owner: .nan
+email_correspondant: .nan
+website: .nan
+data_received_date: .nan
+data_received_by: .nan
+original_format: Survex
+units: meter
+geometry: .nan
+status: in github (cleaning in progress)
+correction_type: No correction
+last_processing_date: 03 Mar 2025

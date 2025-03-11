@@ -1,0 +1,28 @@
+number: '007'
+shortname: Tsanfleuron
+fullname: Lapiaz Tsanfleuron
+country: Switzerland
+crs: epsg:21781
+rights: CC BY-NC-SA 4.0
+citation: Groupe de Spéléologie Rhodanien (GSR), Société Spéléologique Genevoise (SSG),
+  Spéléo-Club Jura (SCJ), & Groupe Spéléo Lausanne (GSL). (2024). Base de données
+  topographique des systèmes karstique du lapiaz de Tsanfleuron (Unpublished raw data).
+  [Dataset].
+thanks: 'Thanks to Louis Stahelin for sharing the data with us, and to the GSR (Groupe
+  de Spéléologie Rhodanien), SSG (Société Spéléologique Genevoise), SCJ (Spéléo-Club
+  Jura), and GSL (Groupe Spéléo Lausanne) who explored, surveyed and mapped the conduits,
+  and whithout whom this work would not have been possible. '
+start_contract: .nan
+end_contract: .nan
+sharing_conditions: .nan
+cave_survey_owner: GSR,SSG,SCJ,GSL
+email_correspondant: louis.stahelin@icloud.com
+website: .nan
+data_received_date: .nan
+data_received_by: .nan
+original_format: Visual Topo
+units: meter
+geometry: LRUD
+status: in github (cleaning in progress)
+correction_type: No correction
+last_processing_date: 03 Mar 2025

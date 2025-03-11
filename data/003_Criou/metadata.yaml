@@ -1,0 +1,24 @@
+number: '003'
+shortname: Criou
+fullname: Folly
+country: France
+crs: epsg:27572
+rights: CC BY-NC-SA 4.0
+citation: Robert, X., & Collectif Criou. (2023). Base de données topographiques des
+  systèmes karstiques du massif du Criou (Samoëns, 74, France) (Version 1.0.0) [Dataset].
+  Zenodo. https://doi.org/10.5281/zenodo.10020918'
+thanks: .nan
+start_contract: .nan
+end_contract: .nan
+sharing_conditions: .nan
+cave_survey_owner: .nan
+email_correspondant: .nan
+website: .nan
+data_received_date: .nan
+data_received_by: .nan
+original_format: Therion
+units: meter
+geometry: Splays
+status: in github (cleaning in progress)
+correction_type: No correction
+last_processing_date: 03 Mar 2025
