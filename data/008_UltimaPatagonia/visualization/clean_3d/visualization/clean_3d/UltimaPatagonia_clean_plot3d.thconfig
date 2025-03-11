@@ -1,0 +1,2 @@
+source UltimaPatagonia_clean_plot3d.th
+export model -o UltimaPatagonia_clean_plot3d.3d

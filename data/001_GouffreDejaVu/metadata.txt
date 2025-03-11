@@ -1,0 +1,31 @@
+shortname: GouffreDejaVu
+fullname: "Gouffre D\xE9j\xE0 Vu"
+number: '001'
+rights: CC BY-NC-SA 4.0
+citation: Centre Terre. (2024). Survey Data for the Ultima Patagonia Cave Exploration
+  project [Dataset]. https://github.com/tr1813/ultima-patag
+thanks: .nan
+country: Chile
+crs: local
+original_format: Therion
+units: meter
+geometry: Splays
+status: in github (cleaning in progress)
+correction_type: !!python/object/apply:numpy._core.multiarray.scalar
+- !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AAAAAAAA+H8=
+last_processing_date: 03 Mar 2025
