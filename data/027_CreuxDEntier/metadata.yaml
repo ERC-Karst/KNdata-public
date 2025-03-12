@@ -1,22 +1,56 @@
-number: '027'
-shortname: CreuxDEntier
-fullname: Creux d'entier
-country: Switzerland
-crs: epsg:21781
-rights: CC BY-NC-SA 4.0
-citation: Unknown yet
-thanks: .nan
-start_contract: .nan
-end_contract: .nan
-sharing_conditions: .nan
-cave_survey_owner: .nan
-email_correspondant: .nan
-website: .nan
-data_received_date: .nan
-data_received_by: .nan
-original_format: Toporobot
-units: meter
-geometry: LRUD
-status: in github (cleaning in progress)
-correction_type: No correction
-last_processing_date: 03 Mar 2025
+cave_info:
+  number: '027'
+  short_name: CreuxDEntier
+  length_approx_meter: 1397.0
+  comments: .nan
+  name: Creux d'entier
+  country: Switzerland
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  length_official_meter: .nan
+  length_dataset: .nan
+  denivelation: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+dataset_info:
+  type_dataset: Call for data
+  original_format: Toporobot
+  type: single cave
+  license: CC BY-NC-SA 4.0
+  id_dataset: LS
+  all_data_format: Toporobot, Visual Topo
+  geometry: LRUD
+  units: meter
+  original_filename: Creux d'Entier_01.Text
+  original_encoding: IS0 8859-1
+  crs: epsg:21781
+  other_crs: epsg:21781 (CH 1903 LV03 - Old)
+  translation: .nan
+  contract_file: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  citation: Unknown yet
+  thanks: .nan
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  comments: .nan
+processing:
+  status: in github (cleaning in progress)
+  type_of_correction: No correction
+  last_processing_date: 03 Mar 2025

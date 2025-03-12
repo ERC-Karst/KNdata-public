@@ -1,22 +1,56 @@
-number: 049
-shortname: Cochon
-fullname: Cochon
-country: France
-crs: epsg:2154
-rights: CC BY-NC-SA 4.0
-citation: Unknown yet
-thanks: .nan
-start_contract: .nan
-end_contract: .nan
-sharing_conditions: .nan
-cave_survey_owner: .nan
-email_correspondant: .nan
-website: .nan
-data_received_date: .nan
-data_received_by: .nan
-original_format: Therion
-units: meter
-geometry: LRUD
-status: in github (cleaning in progress)
-correction_type: No correction
-last_processing_date: 03 Mar 2025
+cave_info:
+  number: 049
+  short_name: Cochon
+  length_approx_meter: 4322.0
+  comments: .nan
+  name: Cochon
+  country: France
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  length_official_meter: .nan
+  length_dataset: .nan
+  denivelation: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+dataset_info:
+  type_dataset: Online
+  original_format: Therion
+  type: single cave
+  license: CC BY-NC-SA 4.0
+  id_dataset: K3D
+  all_data_format: Therion
+  geometry: LRUD
+  units: meter
+  original_filename: cochon.thconfig
+  original_encoding: .nan
+  crs: epsg:2154
+  other_crs: epsg:2154 (France?)
+  translation: .nan
+  contract_file: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  citation: Unknown yet
+  thanks: .nan
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  comments: .nan
+processing:
+  status: in github (cleaning in progress)
+  type_of_correction: No correction
+  last_processing_date: 03 Mar 2025

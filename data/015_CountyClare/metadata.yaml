@@ -1,22 +1,64 @@
-number: '015'
-shortname: CountyClare
-fullname: The Caves of County Clare
-country: Ireland
-crs: epsg:2157
-rights: CC BY-NC-SA 4.0
-citation: Unknown yet
-thanks: .nan
-start_contract: .nan
-end_contract: .nan
-sharing_conditions: .nan
-cave_survey_owner: .nan
-email_correspondant: .nan
-website: .nan
-data_received_date: .nan
-data_received_by: .nan
-original_format: Survex
-units: meter
-geometry: .nan
-status: in github (cleaning in progress)
-correction_type: No correction
-last_processing_date: 03 Mar 2025
+cave_info:
+  number: '015'
+  short_name: CountyClare
+  length_approx_meter: 76783.0
+  comments: 'mulitple waring messages when compiling therion: "Forwards and backwards
+    reading do not match, year 1958 magnetic declination used for undated surveys
+
+    - commented fix points with weird values in cullauns folder, and changed the epsg:
+    29903 to 2157 for cullauns in Burren.th'
+  name: The Caves of County Clare
+  country: Ireland
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  length_official_meter: .nan
+  length_dataset: .nan
+  denivelation: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+dataset_info:
+  type_dataset: Online
+  original_format: Survex
+  type: multiple caves
+  license: CC BY-NC-SA 4.0
+  id_dataset: UBSS, CAVE-REGISTRY
+  all_data_format: Survex, .3d
+  geometry: .nan
+  units: meter
+  original_filename: .nan
+  original_encoding: .nan
+  crs: epsg:2157
+  other_crs: epsg:2157 (Ireland)
+  translation: .nan
+  contract_file: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  citation: Unknown yet
+  thanks: .nan
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  comments: 'mulitple waring messages when compiling therion: "Forwards and backwards
+    reading do not match, year 1958 magnetic declination used for undated surveys
+
+    - commented fix points with weird values in cullauns folder, and changed the epsg:
+    29903 to 2157 for cullauns in Burren.th'
+processing:
+  status: in github (cleaning in progress)
+  type_of_correction: No correction
+  last_processing_date: 03 Mar 2025

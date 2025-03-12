@@ -1,22 +1,56 @@
-number: '045'
-shortname: Castleton
-fullname: Castleton
-country: UK
-crs: epsg:27700
-rights: To confirm
-citation: Unknown yet
-thanks: .nan
-start_contract: .nan
-end_contract: .nan
-sharing_conditions: .nan
-cave_survey_owner: .nan
-email_correspondant: .nan
-website: .nan
-data_received_date: .nan
-data_received_by: .nan
-original_format: Survex
-units: meter
-geometry: LRUD/Splays
-status: in github (cleaning in progress)
-correction_type: No correction
-last_processing_date: 03 Mar 2025
+cave_info:
+  number: '045'
+  short_name: Castleton
+  length_approx_meter: 26219.0
+  comments: from Peak District
+  name: Castleton
+  country: UK
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  length_official_meter: .nan
+  length_dataset: .nan
+  denivelation: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+dataset_info:
+  type_dataset: Online
+  original_format: Survex
+  type: multiple caves
+  license: To confirm
+  id_dataset: CAVE-REGISTRY
+  all_data_format: Survex
+  geometry: LRUD/Splays
+  units: meter
+  original_filename: castleton_model.thconfig
+  original_encoding: .nan
+  crs: epsg:27700
+  other_crs: epsg:27700 (England)
+  translation: .nan
+  contract_file: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  citation: Unknown yet
+  thanks: .nan
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  comments: from Peak District
+processing:
+  status: in github (cleaning in progress)
+  type_of_correction: No correction
+  last_processing_date: 03 Mar 2025

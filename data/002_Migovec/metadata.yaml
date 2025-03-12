@@ -1,23 +1,57 @@
-number: '002'
-shortname: Migovec
-fullname: System Migovec
-country: Slovenia
-crs: epsg:3912
-rights: CC BY-NC-SA 4.0
-citation: 'ICCC, & JSDPT. (2024). Survey Data for the Tolminski Migovec Cave Exploration
-  project (Version 2024.03.13) [Dataset]. Zenodo. https://doi.org/DOI: 10.5281/ZENODO.108130'
-thanks: .nan
-start_contract: .nan
-end_contract: .nan
-sharing_conditions: .nan
-cave_survey_owner: .nan
-email_correspondant: .nan
-website: .nan
-data_received_date: .nan
-data_received_by: .nan
-original_format: Therion
-units: meter
-geometry: Splays
-status: in github (cleaning in progress)
-correction_type: Manual correction
-last_processing_date: 03 Mar 2025
+cave_info:
+  number: '002'
+  short_name: Migovec
+  length_approx_meter: 45508.0
+  comments: .nan
+  name: System Migovec
+  country: Slovenia
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  length_official_meter: .nan
+  length_dataset: .nan
+  denivelation: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+dataset_info:
+  type_dataset: Online
+  original_format: Therion
+  type: single cave
+  license: CC BY-NC-SA 4.0
+  id_dataset: GH4
+  all_data_format: Therion
+  geometry: Splays
+  units: meter
+  original_filename: .nan
+  original_encoding: .nan
+  crs: epsg:3912
+  other_crs: epsg:3912 (Slovenia)
+  translation: .nan
+  contract_file: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  citation: 'ICCC, & JSDPT. (2024). Survey Data for the Tolminski Migovec Cave Exploration
+    project (Version 2024.03.13) [Dataset]. Zenodo. https://doi.org/DOI: 10.5281/ZENODO.108130'
+  thanks: .nan
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  comments: .nan
+processing:
+  status: in github (cleaning in progress)
+  type_of_correction: Manual correction
+  last_processing_date: 03 Mar 2025
