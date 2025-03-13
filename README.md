@@ -43,17 +43,13 @@ ID_Cavename
 │   ├───Cavename.sql
 │   └───Cavename_corrections.yaml
 └───visualization (add Gocad, and other visualization??)
-    ├───Cavename_shapefile (todo)
-    │   ├───shots3d.dbf
-    │   ├───shots3d.shp
-    │   ├───shots3d.shx
-    │   ├───stations3d.dbf
-    │   ├───stations3d.shp
-    │   └───stations3d.shx
-    └───clean_3d (to be renamed to Cavename_aven)
-        ├───Cavename_clean_plot3d.3d
-        ├───Cavename_clean_plot3d.th
-        └───Cavename_clean_plot3d.thconfig
+    ├───Cavename_clean.3d   
+    └───Cavename_clean.lox  
+    todo: shapefile (with clean data)
+
+
+
+
 ```
  
 ### Clean data folder content
@@ -65,9 +61,9 @@ ID_Cavename
 Contains the original database stored in a sql format created with Therion, and optionally the correction file when necessary.
 
 ### Visualization folder
-- `shots3d.shp`: Esri line shapefile (todo, add cavename before)
-- `stations3d.shp`: Esri point shapefile
-- `clean.3d`: 3D visualisation of the clean dataset. .3D is the Aven data format. To visualize the file, install [Survex](https://fileexpert.net/engine/go.php?url=https://survex.com/screenshots.htmlhttps:/) (most simple installation) or [Therion](https://fileexpert.net/engine/go.php?url=https://therion.speleo.sk) (more complex).
+<!-- - `shots3d.shp`: Esri line shapefile 
+- `stations3d.shp`: Esri point shapefile -->
+- `Cavename_clean.3d`: 3D visualisation of the clean dataset. .3D is the Aven data format. To visualize the file, install [Survex](https://fileexpert.net/engine/go.php?url=https://survex.com/screenshots.htmlhttps:/) (most simple installation) or [Therion](https://fileexpert.net/engine/go.php?url=https://therion.speleo.sk) (more complex).
 
 
 ### List of dictionnaries attached to the graph:
