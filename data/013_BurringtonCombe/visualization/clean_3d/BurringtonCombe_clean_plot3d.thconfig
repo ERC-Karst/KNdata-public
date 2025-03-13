@@ -1,2 +1,0 @@
-source BurringtonCombe_clean_plot3d.th
-export model -o BurringtonCombe_clean_plot3d.3d

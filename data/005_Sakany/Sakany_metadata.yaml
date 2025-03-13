@@ -1,0 +1,55 @@
+erc-id: '005'
+cavename: Sakany
+cave_info:
+  full_name: Reseau Sakany
+  country: France
+  state: .nan
+  area: Quié
+  locality: Pyrénées
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  length_approx_meter: 6793.0
+  length_official_meter: .nan
+  denivelation: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  comments_cave_info: .nan
+dataset_sharing_info:
+  license: unclear. may not be sharable
+  citation: Unknown yet
+  thanks: .nan
+  start_contract: mars 2012
+  end_contract: .nan
+  cave_survey_owner: .nan
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  contract_file: .nan
+  email_correspondant: .nan
+dataset_info:
+  id_dataset: GTO/KN
+  original_format: GHTopo
+  length_dataset: .nan
+  connected_components: multiple caves
+  geometry: lrud
+  units: meter
+  crs: epsg:27573
+  crs_other: epsg:27573 (France)
+  original_filename: Reseau_Sakany.xtb
+  original_encoding: ANSI
+  all_data_format: GHTopo
+  website: https://ghtopo.blog4ever.com/reseau-sakany
+  comments_dataset: .nan
+processing:
+  status: clean
+  type_of_correction: no correction
+  last_processing_date: 03 Mar 2025

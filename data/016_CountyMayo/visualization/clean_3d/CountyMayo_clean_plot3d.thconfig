@@ -1,2 +1,0 @@
-source CountyMayo_clean_plot3d.th
-export model -o CountyMayo_clean_plot3d.3d

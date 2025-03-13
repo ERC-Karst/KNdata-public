@@ -1,0 +1,63 @@
+edge_flags:
+  add:
+  - - system_migovec.vrtnarija_vilinska.vrtnarija.xanadont.2
+    - system_migovec.vrtnarija_vilinska.vrtnarija.cuckoos_nest.35
+  - - system_migovec.vrtnarija_vilinska.vrtnarija.highway32.12
+    - system_migovec.vrtnarija_vilinska.vrtnarija.gravity.2
+  - - system_migovec.m2m16m18.M16.glory.5
+    - system_migovec.m2m16m18.M16.god.27
+  - - system_migovec.m2m16m18.M16.god.19
+    - system_migovec.m2m16m18.M16.glory.11
+  - - system_migovec.primadona_ubend_mona_tip.mona_tip.mona_tip2.31
+    - system_migovec.primadona_ubend_mona_tip.mona_tip.cloacamaxima.49
+  - - system_migovec.m2m16m18.M16.glory.16
+    - system_migovec.m2m16m18.M16.god.15
+  - - system_migovec.m2m16m18.M16.teotihuacan.13
+    - system_migovec.m2m16m18.M16.god.17
+  - - system_migovec.vrtnarija_vilinska.vrtnarija.keti.8
+    - system_migovec.vrtnarija_vilinska.vrtnarija.intravenus_de_milo.1
+  - - system_migovec.vrtnarija_vilinska.vrtnarija.kill_em_all.12
+    - system_migovec.vrtnarija_vilinska.vrtnarija.metal_aven.10
+  - - system_migovec.vrtnarija_vilinska.vilinska.vilcon.4
+    - system_migovec.vrtnarija_vilinska.vrtnarija.judge.8
+  - - system_migovec.vrtnarija_vilinska.vrtnarija.perfidia.14
+    - system_migovec.vrtnarija_vilinska.vrtnarija.cow.1
+  - - system_migovec.vrtnarija_vilinska.vrtnarija.perfidia.7
+    - system_migovec.vrtnarija_vilinska.vrtnarija.republica.16
+  - - system_migovec.primadona_ubend_mona_tip.primadona.polnoletna.26
+    - system_migovec.primadona_ubend_mona_tip.primadona.milanova.8
+  - - system_migovec.primadona_ubend_mona_tip.primadona.entirely_my_fault.16
+    - system_migovec.primadona_ubend_mona_tip.primadona.karstaway.7
+  - - system_migovec.primadona_ubend_mona_tip.primadona.more_like_welding.3
+    - system_migovec.primadona_ubend_mona_tip.primadona.mfi.3
+  - - system_migovec.primadona_ubend_mona_tip.primadona.TTTr.3
+    - system_migovec.primadona_ubend_mona_tip.primadona.what_a_coincidence.1
+  - - system_migovec.primadona_ubend_mona_tip.primadona.ajdovscina.1
+    - system_migovec.primadona_ubend_mona_tip.primadona.TTTr.8
+  - - system_migovec.primadona_ubend_mona_tip.primadona.milanova.9
+    - system_migovec.primadona_ubend_mona_tip.primadona.polnoletna.26
+  - - system_migovec.primadona_ubend_mona_tip.primadona.poseidon_rift.6
+    - system_migovec.primadona_ubend_mona_tip.primadona.street-wise_hercules.8
+  - - system_migovec.primadona_ubend_mona_tip.primadona.sweet_baby_jesus.22
+    - system_migovec.primadona_ubend_mona_tip.primadona.hallelujah.1
+  - - system_migovec.primadona_ubend_mona_tip.primadona.upotyn.8
+    - system_migovec.primadona_ubend_mona_tip.primadona.plumbers_paradise.24
+  - - system_migovec.primadona_ubend_mona_tip.primadona.plumbers_paradise.25
+    - system_migovec.primadona_ubend_mona_tip.primadona.fenestrator.8
+  - - system_migovec.primadona_ubend_mona_tip.primadona.apple_crumble.22
+    - system_migovec.primadona_ubend_mona_tip.primadona.pov.15
+  - - system_migovec.primadona_ubend_mona_tip.primadona.dejavu.1
+    - system_migovec.primadona_ubend_mona_tip.primadona.zima00.17
+  - - system_migovec.primadona_ubend_mona_tip.primadona.jack_of_hearts.29
+    - system_migovec.primadona_ubend_mona_tip.primadona.smer0.37
+  - - system_migovec.primadona_ubend_mona_tip.primadona.pivnica_resurvey.12
+    - system_migovec.primadona_ubend_mona_tip.primadona.zima00.3
+  rmv:
+  - - system_migovec.vrtnarija_vilinska.vrtnarija.xanadont.2
+    - system_migovec.vrtnarija_vilinska.vrtnarija.xanadont.1
+  - - system_migovec.primadona_ubend_mona_tip.mona_tip.mona_tip2.35
+    - system_migovec.primadona_ubend_mona_tip.mona_tip.cloacamaxima.45
+  - - system_migovec.primadona_ubend_mona_tip.mona_tip.cloacamaxima.45
+    - system_migovec.primadona_ubend_mona_tip.mona_tip.cloacamaxima.46
+  - - system_migovec.primadona_ubend_mona_tip.mona_tip.cloacamaxima.46
+    - system_migovec.primadona_ubend_mona_tip.mona_tip.cloacamaxima.47

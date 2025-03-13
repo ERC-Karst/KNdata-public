@@ -1,0 +1,61 @@
+erc-id: '007'
+cavename: Tsanfleuron
+cave_info:
+  full_name: Lapiaz Tsanfleuron
+  country: Switzerland
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  length_approx_meter: 1519.0
+  length_official_meter: .nan
+  denivelation: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  comments_cave_info: Tenir Louis au courant du travail de Ana
+dataset_sharing_info:
+  license: CC BY-NC-SA 4.0
+  citation: Groupe de Spéléologie Rhodanien (GSR), Société Spéléologique Genevoise
+    (SSG), Spéléo-Club Jura (SCJ), & Groupe Spéléo Lausanne (GSL). (2024). Base de
+    données topographique des systèmes karstique du lapiaz de Tsanfleuron (Unpublished
+    raw data). [Dataset].
+  thanks: 'Thanks to Louis Stahelin for sharing the data with us, and to the GSR (Groupe
+    de Spéléologie Rhodanien), SSG (Société Spéléologique Genevoise), SCJ (Spéléo-Club
+    Jura), and GSL (Groupe Spéléo Lausanne) who explored, surveyed and mapped the
+    conduits, and whithout whom this work would not have been possible. '
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: GSR,SSG,SCJ,GSL
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  contract_file: .nan
+  email_correspondant: louis.stahelin@icloud.com
+dataset_info:
+  id_dataset: LS
+  original_format: Visual Topo
+  length_dataset: .nan
+  connected_components: single cave
+  geometry: lrud
+  units: meter
+  crs: epsg:21781
+  crs_other: epsg:21781 (CH 1903 LV03 - Old)
+  original_filename: .nan
+  original_encoding: .nan
+  all_data_format: Visual Topo
+  website: .nan
+  comments_dataset: .nan
+processing:
+  status: in github (cleaning in progress)
+  type_of_correction: no correction
+  last_processing_date: 03 Mar 2025

@@ -1,2 +1,0 @@
-source Tsanfleuron_clean_plot3d.th
-export model -o Tsanfleuron_clean_plot3d.3d

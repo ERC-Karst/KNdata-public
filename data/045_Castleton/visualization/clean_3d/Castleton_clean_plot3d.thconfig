@@ -1,2 +1,0 @@
-source Castleton_clean_plot3d.th
-export model -o Castleton_clean_plot3d.3d

@@ -1,0 +1,55 @@
+erc-id: '045'
+cavename: Castleton
+cave_info:
+  full_name: Castleton
+  country: UK
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  length_approx_meter: 26219.0
+  length_official_meter: .nan
+  denivelation: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  comments_cave_info: from Peak District
+dataset_sharing_info:
+  license: To confirm
+  citation: Unknown yet
+  thanks: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  contract_file: .nan
+  email_correspondant: .nan
+dataset_info:
+  id_dataset: CAVE-REGISTRY
+  original_format: Survex
+  length_dataset: .nan
+  connected_components: multiple caves
+  geometry: lrud/splays
+  units: meter
+  crs: epsg:27700
+  crs_other: epsg:27700 (England)
+  original_filename: castleton_model.thconfig
+  original_encoding: .nan
+  all_data_format: Survex
+  website: .nan
+  comments_dataset: .nan
+processing:
+  status: in github (cleaning in progress)
+  type_of_correction: no correction
+  last_processing_date: 03 Mar 2025
