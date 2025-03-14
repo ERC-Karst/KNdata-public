@@ -89,7 +89,14 @@ id;fulladdress
 44;BurringtonCombe.Burrington.burrington.swallets.rodsbath.15
 26;BurringtonCombe.Burrington.burrington.swallets.rodsbath.14
 824;BurringtonCombe.Burrington.burrington.swallets.rodsbath.13
+465;BurringtonCombe.Burrington.burrington.swallets.surfacerodsdrunkards.307
 563;BurringtonCombe.Burrington.burrington.swallets.surfacerodsdrunkards.100
+1306;BurringtonCombe.Burrington.burrington.swallets.surfacerodsdrunkards.306
+1419;BurringtonCombe.Burrington.burrington.swallets.surfacerodsdrunkards.305
+921;BurringtonCombe.Burrington.burrington.swallets.surfacerodsdrunkards.304
+822;BurringtonCombe.Burrington.burrington.swallets.surfacerodsdrunkards.303
+107;BurringtonCombe.Burrington.burrington.swallets.surfacerodsdrunkards.302
+633;BurringtonCombe.Burrington.burrington.swallets.surfacerodsdrunkards.400
 649;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.2
 1383;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.3
 1690;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.1
@@ -120,6 +127,10 @@ id;fulladdress
 1359;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.69
 547;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.70
 1016;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.71
+501;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.s01
+830;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.s02
+308;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.s03
+181;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.s04
 1179;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.58
 151;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.59
 45;BurringtonCombe.Burrington.burrington.westtwin.goatchurch.m5
@@ -276,6 +287,17 @@ id;fulladdress
 73;BurringtonCombe.Burrington.burrington.westtwin.sidcot.a.4
 1294;BurringtonCombe.Burrington.burrington.westtwin.sidcot.a.3
 1146;BurringtonCombe.Burrington.burrington.westtwin.sidcot.2
+1017;BurringtonCombe.Burrington.burrington.westtwin.sidcot.1
+1697;BurringtonCombe.Burrington.burrington.westtwin.surface1.se
+265;BurringtonCombe.Burrington.burrington.westtwin.surface1.1
+880;BurringtonCombe.Burrington.burrington.westtwin.surface1.2
+699;BurringtonCombe.Burrington.burrington.westtwin.surface1.3
+1502;BurringtonCombe.Burrington.burrington.westtwin.surface1.4
+1537;BurringtonCombe.Burrington.burrington.westtwin.surface1.5
+99;BurringtonCombe.Burrington.burrington.westtwin.surface1.6
+88;BurringtonCombe.Burrington.burrington.westtwin.surface1.7
+794;BurringtonCombe.Burrington.burrington.westtwin.surface1.8
+125;BurringtonCombe.Burrington.burrington.westtwin.surface1.9
 511;BurringtonCombe.Burrington.burrington.lionels.lh01l
 1831;BurringtonCombe.Burrington.burrington.lionels.lh03a
 1734;BurringtonCombe.Burrington.burrington.lionels.lh01d
@@ -923,6 +945,7 @@ id;fulladdress
 1572;BurringtonCombe.Burrington.BathEnt.1.13
 1668;BurringtonCombe.Burrington.BathEnt.1.6
 662;BurringtonCombe.Burrington.BathEnt.1.7
+1107;BurringtonCombe.Burrington.Bos.14
 820;BurringtonCombe.Burrington.Bos.13
 380;BurringtonCombe.Burrington.Bos.12
 388;BurringtonCombe.Burrington.Bos.11
@@ -1153,6 +1176,7 @@ id;fulladdress
 1582;BurringtonCombe.Burrington.PierresPot.Pierres3downstream.P3D15
 1488;BurringtonCombe.Burrington.PierresPot.Pierres3downstream.P3D17
 1264;BurringtonCombe.Burrington.PierresPot.Pierres3downstream.P3D18
+1304;BurringtonCombe.Burrington.PierresPot.Pierres3downstream.P3D31
 461;BurringtonCombe.Burrington.PierresPot.Pierres3downstream.P3D23
 319;BurringtonCombe.Burrington.PierresPot.Pierres3downstream.P3D24
 585;BurringtonCombe.Burrington.PierresPot.Pierres3downstream.P3D19
@@ -1478,6 +1502,7 @@ id;fulladdress
 555;BurringtonCombe.Burrington.Reads.ZAlley.5.8
 1735;BurringtonCombe.Burrington.Reads.ZAlley.5.6
 70;BurringtonCombe.Burrington.Reads.ZAlley.5.5
+209;BurringtonCombe.Burrington.Reads.ZAlley.5.7
 1124;BurringtonCombe.Burrington.Reads.ZAlley.5.4
 1605;BurringtonCombe.Burrington.Reads.ZAlley.5.3
 1376;BurringtonCombe.Burrington.Reads.ZAlley.5.2
@@ -1526,6 +1551,7 @@ id;fulladdress
 271;BurringtonCombe.Burrington.Reads.Pipe.4.0
 1720;BurringtonCombe.Burrington.Reads.MainChamber.2.3
 1680;BurringtonCombe.Burrington.Reads.MainChamber.2.4
+353;BurringtonCombe.Burrington.Reads.MainChamber.2.2
 1745;BurringtonCombe.Burrington.Reads.MainChamber.2.0
 1234;BurringtonCombe.Burrington.Reads.DryEnt.1.5
 1454;BurringtonCombe.Burrington.Reads.DryEnt.1.4
@@ -1723,8 +1749,10 @@ id;fulladdress
 620;BurringtonCombe.Burrington.Reads.AltJunctTinyBit.83
 1278;BurringtonCombe.Burrington.Reads.AltJunctTinyBit.84
 1379;BurringtonCombe.Burrington.Tween.1
+797;BurringtonCombe.Burrington.Tween.81
 214;BurringtonCombe.Burrington.Tween.83
 1091;BurringtonCombe.Burrington.Tween.84
+1281;BurringtonCombe.Burrington.Tween.82
 223;BurringtonCombe.Burrington.Tween.2
 494;BurringtonCombe.Burrington.Tween.3
 1004;BurringtonCombe.Burrington.Tween.6

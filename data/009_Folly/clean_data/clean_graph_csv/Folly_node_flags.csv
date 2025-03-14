@@ -123,6 +123,9 @@ id;flag
 9645;fix
 4657;ent
 4657;fix
+3339;ent
+5635;ent
+5635;fix
 9942;ent
 9942;con
 9942;fix
@@ -141,6 +144,8 @@ id;flag
 9643;ent
 9643;con
 9643;fix
+3916;ent
+3916;fix
 14015;con
 611;ent
 611;fix
@@ -606,6 +611,9 @@ id;flag
 10195;ent
 10195;con
 10195;fix
+14281;ent
+14281;con
+14281;fix
 3405;fix
 6241;fix
 7881;ent
@@ -907,6 +915,12 @@ id;flag
 9592;ent
 9592;con
 9592;fix
+9005;ent
+9005;con
+9005;fix
+10452;ent
+10452;con
+10452;fix
 10190;ent
 10190;con
 10190;fix
@@ -940,6 +954,15 @@ id;flag
 10180;ent
 10180;con
 10180;fix
+10456;ent
+10456;con
+10456;fix
+505;ent
+505;con
+505;fix
+10203;ent
+10203;con
+10203;fix
 9661;ent
 9661;con
 9661;fix

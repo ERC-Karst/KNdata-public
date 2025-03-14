@@ -228,6 +228,8 @@ id;fulladdress
 75;cochon.cochon.3_5
 147;cochon.cochon.3_6
 855;cochon.cochon.3_7
+329;cochon.cochon.3_8
+569;cochon.cochon.3_9
 354;cochon.cochon.3_10
 381;cochon.cochon.3_11
 317;cochon.cochon.3_12
@@ -250,6 +252,8 @@ id;fulladdress
 595;cochon.cochon.3_34
 802;cochon.cochon.3_35
 737;cochon.cochon.3_36
+268;cochon.cochon.20JC2_1
+226;cochon.cochon.20JC2_2
 47;cochon.cochon.20JC2_3
 185;cochon.cochon.20JC2_4
 393;cochon.cochon.20JC2_5
@@ -701,6 +705,9 @@ id;fulladdress
 360;cochon.cochon.21jc1.16
 512;cochon.cochon.21jc1.17
 154;cochon.cochon.21jc1.18
+27;cochon.cochon.shunt2
+5;cochon.cochon.shunt3
+88;cochon.cochon.shunt4
 31;cochon.cochon.shunt5
 80;cochon.cochon.shunt6
 561;cochon.cochon.shunt7
