@@ -20,7 +20,11 @@ cave_info:
   comments_cave_info: .nan
 dataset_sharing_info:
   license: unclear. may not be sharable
-  citation: Unknown yet
+  citation: 'Groupe de Recherches et d’Activités Spéléologiques de Lourdes. (2024).
+    Base de données topographiques de la grotte Sakany (Version Version of the 25/07/2015)
+    [GHTopo]. Examples de grotte du programme GHTopo. https://ghtopo.blog4ever.com/reseau-sakany
+
+    '
   thanks: .nan
   start_contract: mars 2012
   end_contract: .nan
