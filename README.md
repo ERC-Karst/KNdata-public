@@ -4,7 +4,7 @@ This dataset regroups karst networks graph data.
 
 We processed and cleaned cave survey data collected by cavers around the world. Cave survey were provided in a variety of format, which we trsnformed to Therion project, and then compiled the Therion project into SQL database. From this SQL database, we regroupe the identical stations, and rename the node ids. We then remove the duplicates and surface points, and add or remove links manually by visual inspection in 3D. When available we collecte conduit cross-sectional geometry (splays or left-right-up-down), or other flags.
 
-The final result is a graph dataset, with a list of edges and nodes attributes. We describe bellow the list of files that can be found for each cave. Not all the files may be present.
+<!-- The final result is a graph dataset, with a list of edges and nodes attributes. We describe bellow the list of files that can be found for each cave. Not all the files may be present. -->
 
 
 ## Load the clean datasets in python networkx object with Karstnet
@@ -27,18 +27,7 @@ ID_Cavename
 ├───metadata.yaml
 ├───clean_data
 │   ├───Cavename.s6
-│   ├───Cavename.yaml
-│   └───clean_graph_csv
-│       ├───Cavename_edges.csv
-│       ├───Cavename_edges_flags.csv (optional)
-│       ├───Cavename_edges_comments.csv (optional)
-│       ├───Cavename_node_pos.csv
-│       ├───Cavename_node_fulladdress.csv
-│       ├───Cavename_node_idsql.csv
-│       ├───Cavename_node_csdim.csv (optional)
-│       ├───Cavename_node_splays.csv (optional)
-│       ├───Cavename_node_flags.csv (optional)
-│       └───Cavename_node_comments.csv (optional)
+│   └───Cavename.yaml
 ├───sql_database
 │   ├───Cavename.sql
 │   └───Cavename_corrections.yaml
