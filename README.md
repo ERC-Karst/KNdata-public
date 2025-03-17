@@ -9,7 +9,6 @@ We processed and cleaned cave survey data collected by cavers around the world. 
 
 ## Load the clean datasets in python networkx object with Karstnet
 
-- [import csv](): Load all or part of the edges and nodes attributes. (!!! add the link)
 - [import yaml](): Load all or part of the edges and nodes attributes. (!!! add the link)
 - [import sparse6]():
 

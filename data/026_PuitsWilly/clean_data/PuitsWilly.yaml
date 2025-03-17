@@ -1,4 +1,57 @@
-metadata: {}
+metadata:
+  number: '026'
+  short_name: PuitsWilly
+  status: in github (cleaning in progress)
+  type_of_correction: no correction
+  type_dataset: Call for data
+  original_format: Toporobot
+  length_approx_meter: 110.0
+  connected_components: single cave
+  license: CC BY-NC-SA 4.0
+  id_dataset: LS
+  comments_cave_info: .nan
+  full_name: Puits Willy
+  all_data_format: Toporobot, Visual Topo
+  geometry: lrud
+  units: meter
+  original_filename: Puits Willy_01.Text
+  original_encoding: Mac Roman
+  crs: epsg:32616
+  crs_other: epsg:21781 (CH 1903 LV03 - Old), ?
+  translation: .nan
+  country: Switzerland
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  length_official_meter: .nan
+  length_dataset: .nan
+  denivelation: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  contract_file: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  citation: Unknown yet
+  thanks: .nan
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  comments_dataset: .nan
+  last_processing_date: 03 Mar 2025
 edges:
 - - 10
   - 29
@@ -65,76 +118,6 @@ edges:
 - - 23
   - 4
 node_attributes:
-  fulladdress:
-    10:
-    - PuitsWilly.1.0
-    29:
-    - PuitsWilly.1.1
-    30:
-    - PuitsWilly.1.2
-    0:
-    - PuitsWilly.1.3
-    2:
-    - PuitsWilly.1.4
-    21:
-    - PuitsWilly.1.5
-    14:
-    - PuitsWilly.1.6
-    9:
-    - PuitsWilly.1.7
-    - PuitsWilly.1.8
-    15:
-    - PuitsWilly.1.9
-    28:
-    - PuitsWilly.1.10
-    11:
-    - PuitsWilly.1.11
-    25:
-    - PuitsWilly.1.12
-    32:
-    - PuitsWilly.1.13
-    - PuitsWilly.2.0
-    27:
-    - PuitsWilly.1.14
-    - PuitsWilly.1.15
-    22:
-    - PuitsWilly.1.16
-    1:
-    - PuitsWilly.1.17
-    13:
-    - PuitsWilly.1.18
-    31:
-    - PuitsWilly.1.19
-    24:
-    - PuitsWilly.1.20
-    3:
-    - PuitsWilly.1.21
-    6:
-    - PuitsWilly.1.22
-    8:
-    - PuitsWilly.1.23
-    18:
-    - PuitsWilly.1.24
-    19:
-    - PuitsWilly.1.25
-    12:
-    - PuitsWilly.1.26
-    17:
-    - PuitsWilly.1.27
-    20:
-    - PuitsWilly.1.28
-    26:
-    - PuitsWilly.1.29
-    5:
-    - PuitsWilly.1.30
-    7:
-    - PuitsWilly.1.31
-    16:
-    - PuitsWilly.2.1
-    23:
-    - PuitsWilly.2.2
-    4:
-    - PuitsWilly.2.3
   idsql:
     10:
     - 1
@@ -205,9 +188,170 @@ node_attributes:
     - 35
     4:
     - 36
+  fulladdress:
+    10:
+    - PuitsWilly.1.0
+    29:
+    - PuitsWilly.1.1
+    30:
+    - PuitsWilly.1.2
+    0:
+    - PuitsWilly.1.3
+    2:
+    - PuitsWilly.1.4
+    21:
+    - PuitsWilly.1.5
+    14:
+    - PuitsWilly.1.6
+    9:
+    - PuitsWilly.1.7
+    - PuitsWilly.1.8
+    15:
+    - PuitsWilly.1.9
+    28:
+    - PuitsWilly.1.10
+    11:
+    - PuitsWilly.1.11
+    25:
+    - PuitsWilly.1.12
+    32:
+    - PuitsWilly.1.13
+    - PuitsWilly.2.0
+    27:
+    - PuitsWilly.1.14
+    - PuitsWilly.1.15
+    22:
+    - PuitsWilly.1.16
+    1:
+    - PuitsWilly.1.17
+    13:
+    - PuitsWilly.1.18
+    31:
+    - PuitsWilly.1.19
+    24:
+    - PuitsWilly.1.20
+    3:
+    - PuitsWilly.1.21
+    6:
+    - PuitsWilly.1.22
+    8:
+    - PuitsWilly.1.23
+    18:
+    - PuitsWilly.1.24
+    19:
+    - PuitsWilly.1.25
+    12:
+    - PuitsWilly.1.26
+    17:
+    - PuitsWilly.1.27
+    20:
+    - PuitsWilly.1.28
+    26:
+    - PuitsWilly.1.29
+    5:
+    - PuitsWilly.1.30
+    7:
+    - PuitsWilly.1.31
+    16:
+    - PuitsWilly.2.1
+    23:
+    - PuitsWilly.2.2
+    4:
+    - PuitsWilly.2.3
   flags:
     10:
     - fix
+  csdim:
+    10:
+    - 23.0
+    - 15.0
+    29:
+    - 0.8
+    - 0.8
+    30:
+    - 0.8
+    - 0.8
+    0:
+    - 2.2
+    - 1.8
+    2:
+    - 1.5
+    - 1.2
+    21:
+    - 1.0
+    - 1.6
+    14:
+    - 3.5
+    - 2.8
+    15:
+    - 1.2000000000000002
+    - 1.6
+    28:
+    - 1.2
+    - 1.03
+    11:
+    - 0.6
+    - 1.0
+    25:
+    - 0.7
+    - 0.7
+    22:
+    - 0.7
+    - 1.2
+    1:
+    - 1.5
+    - 1.6
+    13:
+    - 2.3
+    - 2.4
+    31:
+    - 1.2
+    - 1.2
+    24:
+    - 0.5
+    - 1.5
+    3:
+    - 0.6
+    - 1.4
+    6:
+    - 1.65
+    - 2.5
+    8:
+    - 2.7
+    - 2.0
+    18:
+    - 1.8
+    - 1.6
+    19:
+    - 1.7
+    - 2.5
+    12:
+    - 0.8
+    - 1.2
+    17:
+    - 0.7
+    - 0.7
+    20:
+    - 0.5
+    - 0.7
+    26:
+    - 0.8
+    - 1.0
+    5:
+    - 0.6000000000000001
+    - 0.7
+    7:
+    - 0.2
+    - 0.3
+    16:
+    - 1.1
+    - 1.0
+    23:
+    - 1.0
+    - 0.6
+    4:
+    - 0.4
+    - 0.6
   pos:
     10:
     - 578280.0

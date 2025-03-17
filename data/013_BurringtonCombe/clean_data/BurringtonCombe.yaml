@@ -1,4 +1,58 @@
-metadata: {}
+metadata:
+  number: '013'
+  short_name: BurringtonCombe
+  status: in github (cleaning in progress)
+  type_of_correction: no correction
+  type_dataset: Online
+  original_format: Survex
+  length_approx_meter: 5518.0
+  connected_components: multiple caves
+  license: CC BY-NC-SA 4.0
+  id_dataset: UBSS
+  comments_cave_info: Email Atkins to know bout citation. Only .3d available on the
+    website. May have geometry if we can get the .svx files
+  full_name: Burrington Combe Karst Area
+  all_data_format: .3d
+  geometry: none
+  units: meter
+  original_filename: .nan
+  original_encoding: .nan
+  crs: epsg:27700
+  crs_other: epsg:27700 (England)
+  translation: .nan
+  country: UK
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  length_official_meter: .nan
+  length_dataset: .nan
+  denivelation: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  contract_file: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://ubss.org.uk/research/cave_surveys/burrington/
+  email_correspondant: .nan
+  citation: Unknown yet
+  thanks: .nan
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  comments_dataset: .nan
+  last_processing_date: 03 Mar 2025
 edges:
 - - 1104
   - 970

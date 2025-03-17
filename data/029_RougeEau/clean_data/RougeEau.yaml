@@ -1,4 +1,57 @@
-metadata: {}
+metadata:
+  number: 029
+  short_name: RougeEau
+  status: in github (cleaning in progress)
+  type_of_correction: no correction
+  type_dataset: Call for data
+  original_format: Toporobot
+  length_approx_meter: 655.0
+  connected_components: single cave
+  license: CC BY-NC-SA 4.0
+  id_dataset: LS
+  comments_cave_info: .nan
+  full_name: Gouffre de la Rouge-Eau
+  all_data_format: Toporobot, Visual Topo
+  geometry: lrud
+  units: meter
+  original_filename: Rouge-Eau_01.Text
+  original_encoding: Mac Roman
+  crs: epsg:21781
+  crs_other: epsg:21781 (CH 1903 LV03 - Old)
+  translation: .nan
+  country: Switzerland
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  length_official_meter: .nan
+  length_dataset: .nan
+  denivelation: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  contract_file: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  citation: Unknown yet
+  thanks: .nan
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  comments_dataset: .nan
+  last_processing_date: 03 Mar 2025
 edges:
 - - 108
   - 2
@@ -275,303 +328,6 @@ edges:
 - - 5
   - 68
 node_attributes:
-  fulladdress:
-    108:
-    - RougeEau.1.0
-    2:
-    - RougeEau.1.1
-    131:
-    - RougeEau.1.2
-    87:
-    - RougeEau.1.3
-    - RougeEau.4.0
-    63:
-    - RougeEau.1.4
-    16:
-    - RougeEau.1.5
-    119:
-    - RougeEau.1.6
-    72:
-    - RougeEau.1.7
-    128:
-    - RougeEau.1.8
-    - RougeEau.8.0
-    104:
-    - RougeEau.1.9
-    50:
-    - RougeEau.1.10
-    - RougeEau.5.0
-    65:
-    - RougeEau.1.11
-    - RougeEau.19.0
-    96:
-    - RougeEau.1.12
-    99:
-    - RougeEau.1.13
-    126:
-    - RougeEau.1.14
-    9:
-    - RougeEau.1.15
-    112:
-    - RougeEau.1.16
-    61:
-    - RougeEau.1.17
-    - RougeEau.2.0
-    91:
-    - RougeEau.2.1
-    64:
-    - RougeEau.2.2
-    117:
-    - RougeEau.2.3
-    43:
-    - RougeEau.2.4
-    - RougeEau.6.0
-    89:
-    - RougeEau.2.5
-    - RougeEau.6.1
-    44:
-    - RougeEau.2.6
-    135:
-    - RougeEau.2.7
-    116:
-    - RougeEau.2.8
-    32:
-    - RougeEau.2.9
-    - RougeEau.11.0
-    86:
-    - RougeEau.2.10
-    88:
-    - RougeEau.2.11
-    20:
-    - RougeEau.2.12
-    7:
-    - RougeEau.2.13
-    127:
-    - RougeEau.2.14
-    125:
-    - RougeEau.2.15
-    94:
-    - RougeEau.2.16
-    83:
-    - RougeEau.2.17
-    69:
-    - RougeEau.2.18
-    59:
-    - RougeEau.2.19
-    29:
-    - RougeEau.2.20
-    22:
-    - RougeEau.2.21
-    6:
-    - RougeEau.2.22
-    110:
-    - RougeEau.2.23
-    85:
-    - RougeEau.2.24
-    67:
-    - RougeEau.2.25
-    4:
-    - RougeEau.2.26
-    54:
-    - RougeEau.2.27
-    12:
-    - RougeEau.2.28
-    24:
-    - RougeEau.2.29
-    92:
-    - RougeEau.2.30
-    73:
-    - RougeEau.2.31
-    124:
-    - RougeEau.2.32
-    17:
-    - RougeEau.2.33
-    113:
-    - RougeEau.2.34
-    48:
-    - RougeEau.2.35
-    - RougeEau.3.0
-    102:
-    - RougeEau.2.36
-    30:
-    - RougeEau.2.37
-    39:
-    - RougeEau.2.38
-    34:
-    - RougeEau.2.39
-    74:
-    - RougeEau.2.40
-    121:
-    - RougeEau.2.41
-    41:
-    - RougeEau.2.42
-    19:
-    - RougeEau.3.1
-    120:
-    - RougeEau.3.2
-    81:
-    - RougeEau.3.3
-    107:
-    - RougeEau.3.4
-    95:
-    - RougeEau.3.5
-    105:
-    - RougeEau.3.6
-    33:
-    - RougeEau.3.7
-    93:
-    - RougeEau.3.8
-    45:
-    - RougeEau.3.9
-    27:
-    - RougeEau.3.10
-    - RougeEau.7.0
-    118:
-    - RougeEau.3.11
-    55:
-    - RougeEau.4.1
-    51:
-    - RougeEau.4.2
-    79:
-    - RougeEau.5.1
-    109:
-    - RougeEau.7.1
-    37:
-    - RougeEau.8.1
-    - RougeEau.9.0
-    100:
-    - RougeEau.8.2
-    47:
-    - RougeEau.8.3
-    - RougeEau.10.1
-    97:
-    - RougeEau.8.4
-    70:
-    - RougeEau.8.5
-    3:
-    - RougeEau.9.1
-    80:
-    - RougeEau.10.2
-    82:
-    - RougeEau.11.1
-    84:
-    - RougeEau.11.2
-    111:
-    - RougeEau.11.3
-    10:
-    - RougeEau.11.4
-    26:
-    - RougeEau.11.5
-    137:
-    - RougeEau.11.6
-    130:
-    - RougeEau.11.7
-    101:
-    - RougeEau.11.8
-    21:
-    - RougeEau.11.9
-    - RougeEau.12.0
-    62:
-    - RougeEau.11.10
-    - RougeEau.13.0
-    132:
-    - RougeEau.11.11
-    1:
-    - RougeEau.11.12
-    71:
-    - RougeEau.11.13
-    38:
-    - RougeEau.11.14
-    114:
-    - RougeEau.11.15
-    122:
-    - RougeEau.11.16
-    103:
-    - RougeEau.11.17
-    35:
-    - RougeEau.11.18
-    53:
-    - RougeEau.11.19
-    123:
-    - RougeEau.11.20
-    136:
-    - RougeEau.11.21
-    - RougeEau.14.0
-    13:
-    - RougeEau.11.22
-    75:
-    - RougeEau.11.23
-    46:
-    - RougeEau.11.24
-    42:
-    - RougeEau.11.25
-    28:
-    - RougeEau.11.26
-    77:
-    - RougeEau.11.27
-    106:
-    - RougeEau.11.28
-    - RougeEau.15.0
-    11:
-    - RougeEau.11.29
-    76:
-    - RougeEau.11.30
-    - RougeEau.16.0
-    0:
-    - RougeEau.11.31
-    60:
-    - RougeEau.11.32
-    40:
-    - RougeEau.11.33
-    66:
-    - RougeEau.11.34
-    129:
-    - RougeEau.11.35
-    - RougeEau.17.0
-    23:
-    - RougeEau.11.36
-    25:
-    - RougeEau.11.37
-    - RougeEau.18.0
-    56:
-    - RougeEau.11.38
-    134:
-    - RougeEau.11.39
-    133:
-    - RougeEau.11.40
-    57:
-    - RougeEau.12.1
-    115:
-    - RougeEau.12.2
-    78:
-    - RougeEau.13.1
-    98:
-    - RougeEau.14.1
-    49:
-    - RougeEau.15.1
-    52:
-    - RougeEau.16.1
-    36:
-    - RougeEau.17.1
-    31:
-    - RougeEau.18.1
-    58:
-    - RougeEau.18.2
-    18:
-    - RougeEau.18.3
-    90:
-    - RougeEau.19.1
-    14:
-    - RougeEau.19.2
-    8:
-    - RougeEau.19.3
-    15:
-    - RougeEau.19.4
-    5:
-    - RougeEau.19.5
-    - RougeEau.19.6
-    68:
-    - RougeEau.19.7
   idsql:
     108:
     - 1
@@ -869,9 +625,661 @@ node_attributes:
     - 157
     68:
     - 158
+  fulladdress:
+    108:
+    - RougeEau.1.0
+    2:
+    - RougeEau.1.1
+    131:
+    - RougeEau.1.2
+    87:
+    - RougeEau.1.3
+    - RougeEau.4.0
+    63:
+    - RougeEau.1.4
+    16:
+    - RougeEau.1.5
+    119:
+    - RougeEau.1.6
+    72:
+    - RougeEau.1.7
+    128:
+    - RougeEau.1.8
+    - RougeEau.8.0
+    104:
+    - RougeEau.1.9
+    50:
+    - RougeEau.1.10
+    - RougeEau.5.0
+    65:
+    - RougeEau.1.11
+    - RougeEau.19.0
+    96:
+    - RougeEau.1.12
+    99:
+    - RougeEau.1.13
+    126:
+    - RougeEau.1.14
+    9:
+    - RougeEau.1.15
+    112:
+    - RougeEau.1.16
+    61:
+    - RougeEau.1.17
+    - RougeEau.2.0
+    91:
+    - RougeEau.2.1
+    64:
+    - RougeEau.2.2
+    117:
+    - RougeEau.2.3
+    43:
+    - RougeEau.2.4
+    - RougeEau.6.0
+    89:
+    - RougeEau.2.5
+    - RougeEau.6.1
+    44:
+    - RougeEau.2.6
+    135:
+    - RougeEau.2.7
+    116:
+    - RougeEau.2.8
+    32:
+    - RougeEau.2.9
+    - RougeEau.11.0
+    86:
+    - RougeEau.2.10
+    88:
+    - RougeEau.2.11
+    20:
+    - RougeEau.2.12
+    7:
+    - RougeEau.2.13
+    127:
+    - RougeEau.2.14
+    125:
+    - RougeEau.2.15
+    94:
+    - RougeEau.2.16
+    83:
+    - RougeEau.2.17
+    69:
+    - RougeEau.2.18
+    59:
+    - RougeEau.2.19
+    29:
+    - RougeEau.2.20
+    22:
+    - RougeEau.2.21
+    6:
+    - RougeEau.2.22
+    110:
+    - RougeEau.2.23
+    85:
+    - RougeEau.2.24
+    67:
+    - RougeEau.2.25
+    4:
+    - RougeEau.2.26
+    54:
+    - RougeEau.2.27
+    12:
+    - RougeEau.2.28
+    24:
+    - RougeEau.2.29
+    92:
+    - RougeEau.2.30
+    73:
+    - RougeEau.2.31
+    124:
+    - RougeEau.2.32
+    17:
+    - RougeEau.2.33
+    113:
+    - RougeEau.2.34
+    48:
+    - RougeEau.2.35
+    - RougeEau.3.0
+    102:
+    - RougeEau.2.36
+    30:
+    - RougeEau.2.37
+    39:
+    - RougeEau.2.38
+    34:
+    - RougeEau.2.39
+    74:
+    - RougeEau.2.40
+    121:
+    - RougeEau.2.41
+    41:
+    - RougeEau.2.42
+    19:
+    - RougeEau.3.1
+    120:
+    - RougeEau.3.2
+    81:
+    - RougeEau.3.3
+    107:
+    - RougeEau.3.4
+    95:
+    - RougeEau.3.5
+    105:
+    - RougeEau.3.6
+    33:
+    - RougeEau.3.7
+    93:
+    - RougeEau.3.8
+    45:
+    - RougeEau.3.9
+    27:
+    - RougeEau.3.10
+    - RougeEau.7.0
+    118:
+    - RougeEau.3.11
+    55:
+    - RougeEau.4.1
+    51:
+    - RougeEau.4.2
+    79:
+    - RougeEau.5.1
+    109:
+    - RougeEau.7.1
+    37:
+    - RougeEau.8.1
+    - RougeEau.9.0
+    100:
+    - RougeEau.8.2
+    47:
+    - RougeEau.8.3
+    - RougeEau.10.1
+    97:
+    - RougeEau.8.4
+    70:
+    - RougeEau.8.5
+    3:
+    - RougeEau.9.1
+    80:
+    - RougeEau.10.2
+    82:
+    - RougeEau.11.1
+    84:
+    - RougeEau.11.2
+    111:
+    - RougeEau.11.3
+    10:
+    - RougeEau.11.4
+    26:
+    - RougeEau.11.5
+    137:
+    - RougeEau.11.6
+    130:
+    - RougeEau.11.7
+    101:
+    - RougeEau.11.8
+    21:
+    - RougeEau.11.9
+    - RougeEau.12.0
+    62:
+    - RougeEau.11.10
+    - RougeEau.13.0
+    132:
+    - RougeEau.11.11
+    1:
+    - RougeEau.11.12
+    71:
+    - RougeEau.11.13
+    38:
+    - RougeEau.11.14
+    114:
+    - RougeEau.11.15
+    122:
+    - RougeEau.11.16
+    103:
+    - RougeEau.11.17
+    35:
+    - RougeEau.11.18
+    53:
+    - RougeEau.11.19
+    123:
+    - RougeEau.11.20
+    136:
+    - RougeEau.11.21
+    - RougeEau.14.0
+    13:
+    - RougeEau.11.22
+    75:
+    - RougeEau.11.23
+    46:
+    - RougeEau.11.24
+    42:
+    - RougeEau.11.25
+    28:
+    - RougeEau.11.26
+    77:
+    - RougeEau.11.27
+    106:
+    - RougeEau.11.28
+    - RougeEau.15.0
+    11:
+    - RougeEau.11.29
+    76:
+    - RougeEau.11.30
+    - RougeEau.16.0
+    0:
+    - RougeEau.11.31
+    60:
+    - RougeEau.11.32
+    40:
+    - RougeEau.11.33
+    66:
+    - RougeEau.11.34
+    129:
+    - RougeEau.11.35
+    - RougeEau.17.0
+    23:
+    - RougeEau.11.36
+    25:
+    - RougeEau.11.37
+    - RougeEau.18.0
+    56:
+    - RougeEau.11.38
+    134:
+    - RougeEau.11.39
+    133:
+    - RougeEau.11.40
+    57:
+    - RougeEau.12.1
+    115:
+    - RougeEau.12.2
+    78:
+    - RougeEau.13.1
+    98:
+    - RougeEau.14.1
+    49:
+    - RougeEau.15.1
+    52:
+    - RougeEau.16.1
+    36:
+    - RougeEau.17.1
+    31:
+    - RougeEau.18.1
+    58:
+    - RougeEau.18.2
+    18:
+    - RougeEau.18.3
+    90:
+    - RougeEau.19.1
+    14:
+    - RougeEau.19.2
+    8:
+    - RougeEau.19.3
+    15:
+    - RougeEau.19.4
+    5:
+    - RougeEau.19.5
+    - RougeEau.19.6
+    68:
+    - RougeEau.19.7
   flags:
     108:
     - fix
+  csdim:
+    108:
+    - 5.0
+    - 5.5
+    2:
+    - 4.0
+    - 3.0
+    131:
+    - 4.0
+    - 34.0
+    63:
+    - 4.0
+    - 26.0
+    16:
+    - 1.8
+    - 3.0
+    119:
+    - 4.3
+    - 15.5
+    72:
+    - 5.3
+    - 16.0
+    104:
+    - 9.5
+    - 6.0
+    96:
+    - 0.8
+    - 2.1
+    99:
+    - 11.0
+    - 4.2
+    126:
+    - 12.0
+    - 13.0
+    9:
+    - 6.5
+    - 11.0
+    112:
+    - 6.0
+    - 6.0
+    91:
+    - 3.0
+    - 2.0
+    64:
+    - 0.8999999999999999
+    - 0.6
+    117:
+    - 0.5
+    - 0.4
+    44:
+    - 4.0
+    - 16.0
+    135:
+    - 5.0
+    - 30.0
+    116:
+    - 0.7
+    - 3.0
+    86:
+    - 5.0
+    - 8.0
+    88:
+    - 5.0
+    - 5.0
+    20:
+    - 1.0
+    - 2.0
+    7:
+    - 1.5
+    - 3.5
+    127:
+    - 2.0
+    - 3.0
+    125:
+    - 3.0
+    - 11.0
+    94:
+    - 2.0
+    - 3.0
+    83:
+    - 1.5
+    - 4.0
+    69:
+    - 2.0
+    - 3.5
+    59:
+    - 1.5
+    - 1.2
+    29:
+    - 1.5
+    - 2.3
+    22:
+    - 1.5
+    - 1.2
+    6:
+    - 1.0
+    - 1.8
+    110:
+    - 1.0
+    - 2.1
+    85:
+    - 0.5
+    - 2.5
+    67:
+    - 1.5
+    - 3.0
+    4:
+    - 1.5
+    - 3.2
+    54:
+    - 1.4
+    - 2.1
+    12:
+    - 1.8
+    - 3.55
+    24:
+    - 0.8
+    - 1.0
+    92:
+    - 1.5
+    - 2.4
+    73:
+    - 1.0
+    - 2.4
+    124:
+    - 2.0
+    - 2.0
+    17:
+    - 1.0
+    - 1.5999999999999999
+    113:
+    - 1.0
+    - 1.5999999999999999
+    102:
+    - 1.0
+    - 1.0
+    30:
+    - 0.8
+    - 2.0
+    39:
+    - 0.8
+    - 2.0
+    34:
+    - 0.8
+    - 2.0
+    74:
+    - 0.72
+    - 1.7
+    121:
+    - 1.0
+    - 1.0
+    41:
+    - 0.7
+    - 0.9
+    19:
+    - 1.0
+    - 2.5
+    120:
+    - 0.6
+    - 3.0
+    81:
+    - 0.5
+    - 2.2
+    107:
+    - 0.3
+    - 1.8
+    95:
+    - 0.6000000000000001
+    - 2.6
+    105:
+    - 0.6
+    - 2.0
+    33:
+    - 0.5
+    - 1.1
+    93:
+    - 0.6
+    - 1.5
+    45:
+    - 0.7
+    - 8.5
+    118:
+    - 1.0
+    - 1.4
+    55:
+    - 7.0
+    - 30.0
+    51:
+    - 4.0
+    - 5.0
+    79:
+    - 0.5
+    - 1.2
+    109:
+    - 1.5
+    - 1.2
+    100:
+    - 1.0
+    - 1.3
+    97:
+    - 1.8
+    - 6.0
+    70:
+    - 0.7
+    - 3.0
+    3:
+    - 0.6
+    - 1.7
+    80:
+    - 2.0
+    - 2.0
+    82:
+    - 3.0
+    - 4.0
+    84:
+    - 2.0
+    - 3.0
+    111:
+    - 2.0
+    - 5.0
+    10:
+    - 1.5
+    - 3.0
+    26:
+    - 1.8
+    - 2.5
+    137:
+    - 1.5
+    - 1.0
+    130:
+    - 0.4
+    - 2.3
+    101:
+    - 0.6
+    - 2.0
+    132:
+    - 1.0
+    - 4.5
+    1:
+    - 3.75
+    - 3.0
+    71:
+    - 0.5
+    - 1.0
+    38:
+    - 0.5
+    - 1.2
+    114:
+    - 0.55
+    - 4.5
+    122:
+    - 1.5
+    - 8.2
+    103:
+    - 1.0
+    - 2.0
+    35:
+    - 1.0
+    - 2.0
+    53:
+    - 2.0
+    - 5.0
+    123:
+    - 4.5
+    - 2.0
+    13:
+    - 1.2
+    - 3.5
+    75:
+    - 2.0
+    - 1.0
+    46:
+    - 0.6
+    - 1.5
+    42:
+    - 1.2
+    - 4.2
+    28:
+    - 2.0
+    - 3.0
+    77:
+    - 0.6
+    - 0.7
+    11:
+    - 4.5
+    - 2.5
+    0:
+    - 2.0
+    - 2.0
+    60:
+    - 0.5
+    - 1.5
+    40:
+    - 1.8
+    - 4.5
+    66:
+    - 1.0
+    - 1.0
+    23:
+    - 0.7
+    - 1.3
+    56:
+    - 2.0
+    - 2.5
+    134:
+    - 1.0
+    - 2.7
+    133:
+    - 1.9
+    - 1.0
+    57:
+    - 0.8
+    - 1.0
+    115:
+    - 0.7
+    - 1.5
+    78:
+    - 0.3
+    - 0.65
+    98:
+    - 1.0
+    - 3.5
+    49:
+    - 0.6
+    - 0.6
+    52:
+    - 0.30000000000000004
+    - 0.5
+    36:
+    - 0.4
+    - 0.6
+    31:
+    - 5.0
+    - 3.0
+    58:
+    - 1.0
+    - 1.5
+    18:
+    - 1.5
+    - 1.5
+    90:
+    - 1.0
+    - 1.3
+    14:
+    - 0.6
+    - 0.4
+    8:
+    - 1.0
+    - 1.5
+    15:
+    - 3.0
+    - 2.7
+    68:
+    - 0.6000000000000001
+    - 1.0
   pos:
     108:
     - 580720.0

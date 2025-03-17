@@ -1,4 +1,64 @@
-metadata: {}
+metadata:
+  number: '007'
+  short_name: Tsanfleuron
+  status: in github (cleaning in progress)
+  type_of_correction: no correction
+  type_dataset: Call for data
+  original_format: Visual Topo
+  length_approx_meter: 1519.0
+  connected_components: single cave
+  license: CC BY-NC-SA 4.0
+  id_dataset: LS
+  comments_cave_info: Tenir Louis au courant du travail de Ana
+  full_name: Lapiaz Tsanfleuron
+  all_data_format: Visual Topo
+  geometry: lrud
+  units: meter
+  original_filename: .nan
+  original_encoding: .nan
+  crs: epsg:21781
+  crs_other: epsg:21781 (CH 1903 LV03 - Old)
+  translation: .nan
+  country: Switzerland
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  length_official_meter: .nan
+  length_dataset: .nan
+  denivelation: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  contract_file: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: GSR,SSG,SCJ,GSL
+  website: .nan
+  email_correspondant: louis.stahelin@icloud.com
+  citation: "Groupe de Sp\xE9l\xE9ologie Rhodanien (GSR), Soci\xE9t\xE9 Sp\xE9l\xE9\
+    ologique Genevoise (SSG), Sp\xE9l\xE9o-Club Jura (SCJ), & Groupe Sp\xE9l\xE9o\
+    \ Lausanne (GSL). (2024). Base de donn\xE9es topographique des syst\xE8mes karstique\
+    \ du lapiaz de Tsanfleuron (Unpublished raw data). [Dataset]."
+  thanks: "Thanks to Louis Stahelin for sharing the data with us, and to the GSR (Groupe\
+    \ de Sp\xE9l\xE9ologie Rhodanien), SSG (Soci\xE9t\xE9 Sp\xE9l\xE9ologique Genevoise),\
+    \ SCJ (Sp\xE9l\xE9o-Club Jura), and GSL (Groupe Sp\xE9l\xE9o Lausanne) who explored,\
+    \ surveyed and mapped the conduits, and whithout whom this work would not have\
+    \ been possible. "
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  comments_dataset: .nan
+  last_processing_date: 03 Mar 2025
 edges:
 - - 949
   - 104
@@ -8871,94 +8931,6 @@ node_attributes:
     - 1531
     611:
     - 1533
-  flags:
-    653:
-    - ent
-    - fix
-    367:
-    - ent
-    - fix
-    1123:
-    - ent
-    - fix
-    1449:
-    - ent
-    - fix
-    112:
-    - ent
-    - fix
-    1151:
-    - ent
-    - fix
-    531:
-    - ent
-    - fix
-    99:
-    - ent
-    - fix
-    838:
-    - ent
-    - fix
-    1335:
-    - ent
-    - fix
-    1240:
-    - ent
-    - fix
-    994:
-    - ent
-    - fix
-    926:
-    - ent
-    - fix
-    426:
-    - ent
-    - fix
-    911:
-    - ent
-    - fix
-    217:
-    - ent
-    - fix
-    284:
-    - ent
-    - fix
-    983:
-    - ent
-    - fix
-    1416:
-    - ent
-    - fix
-    1349:
-    - ent
-    - fix
-    764:
-    - ent
-    - fix
-    189:
-    - ent
-    - fix
-    1420:
-    - ent
-    - fix
-    76:
-    - ent
-    - fix
-    1283:
-    - ent
-    - fix
-    535:
-    - ent
-    - fix
-    282:
-    - ent
-    - fix
-    1005:
-    - ent
-    - fix
-    862:
-    - ent
-    - fix
   pos:
     949:
     - 585014.83
@@ -14808,3 +14780,91 @@ node_attributes:
     - 585743.53
     - 128665.01
     - 2402.08
+  flags:
+    653:
+    - ent
+    - fix
+    367:
+    - ent
+    - fix
+    1123:
+    - ent
+    - fix
+    1449:
+    - ent
+    - fix
+    112:
+    - ent
+    - fix
+    1151:
+    - ent
+    - fix
+    531:
+    - ent
+    - fix
+    99:
+    - ent
+    - fix
+    838:
+    - ent
+    - fix
+    1335:
+    - ent
+    - fix
+    1240:
+    - ent
+    - fix
+    994:
+    - ent
+    - fix
+    926:
+    - ent
+    - fix
+    426:
+    - ent
+    - fix
+    911:
+    - ent
+    - fix
+    217:
+    - ent
+    - fix
+    284:
+    - ent
+    - fix
+    983:
+    - ent
+    - fix
+    1416:
+    - ent
+    - fix
+    1349:
+    - ent
+    - fix
+    764:
+    - ent
+    - fix
+    189:
+    - ent
+    - fix
+    1420:
+    - ent
+    - fix
+    76:
+    - ent
+    - fix
+    1283:
+    - ent
+    - fix
+    535:
+    - ent
+    - fix
+    282:
+    - ent
+    - fix
+    1005:
+    - ent
+    - fix
+    862:
+    - ent
+    - fix

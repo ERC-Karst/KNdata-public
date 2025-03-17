@@ -1,4 +1,57 @@
-metadata: {}
+metadata:
+  number: 028
+  short_name: NarinesBoeuf
+  status: in github (cleaning in progress)
+  type_of_correction: no correction
+  type_dataset: Call for data
+  original_format: Toporobot
+  length_approx_meter: 675.0
+  connected_components: single cave
+  license: CC BY-NC-SA 4.0
+  id_dataset: LS
+  comments_cave_info: .nan
+  full_name: Gouffre des Narines de Boeufs
+  all_data_format: Toporobot, Visual Topo
+  geometry: lrud
+  units: meter
+  original_filename: Narings2003_01.Text
+  original_encoding: Mac Roman
+  crs: epsg:21781
+  crs_other: epsg:21781 (CH 1903 LV03 - Old)
+  translation: .nan
+  country: Switzerland
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  length_official_meter: .nan
+  length_dataset: .nan
+  denivelation: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  contract_file: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  citation: Unknown yet
+  thanks: .nan
+  sharing_conditions: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  statistical_results: .nan
+  sample_figures: .nan
+  comments_dataset: .nan
+  last_processing_date: 03 Mar 2025
 edges:
 - - 82
   - 0
@@ -265,292 +318,6 @@ edges:
 - - 125
   - 109
 node_attributes:
-  fulladdress:
-    82:
-    - NarinesBoeuf.1.0
-    0:
-    - NarinesBoeuf.1.1
-    131:
-    - NarinesBoeuf.1.2
-    - NarinesBoeuf.6.1
-    9:
-    - NarinesBoeuf.1.3
-    - NarinesBoeuf.1.4
-    92:
-    - NarinesBoeuf.1.5
-    - NarinesBoeuf.1.6
-    96:
-    - NarinesBoeuf.1.7
-    - NarinesBoeuf.4.0
-    - NarinesBoeuf.5.0
-    60:
-    - NarinesBoeuf.1.8
-    30:
-    - NarinesBoeuf.1.9
-    48:
-    - NarinesBoeuf.1.10
-    34:
-    - NarinesBoeuf.1.11
-    29:
-    - NarinesBoeuf.1.12
-    81:
-    - NarinesBoeuf.1.13
-    14:
-    - NarinesBoeuf.1.14
-    - NarinesBoeuf.4.3
-    28:
-    - NarinesBoeuf.1.15
-    115:
-    - NarinesBoeuf.1.16
-    40:
-    - NarinesBoeuf.1.17
-    69:
-    - NarinesBoeuf.1.18
-    38:
-    - NarinesBoeuf.1.19
-    - NarinesBoeuf.11.0
-    33:
-    - NarinesBoeuf.1.20
-    - NarinesBoeuf.3.0
-    50:
-    - NarinesBoeuf.1.21
-    23:
-    - NarinesBoeuf.1.22
-    - NarinesBoeuf.1.23
-    127:
-    - NarinesBoeuf.1.24
-    47:
-    - NarinesBoeuf.1.25
-    - NarinesBoeuf.2.0
-    83:
-    - NarinesBoeuf.1.26
-    106:
-    - NarinesBoeuf.1.27
-    61:
-    - NarinesBoeuf.2.1
-    36:
-    - NarinesBoeuf.3.1
-    97:
-    - NarinesBoeuf.3.2
-    62:
-    - NarinesBoeuf.3.3
-    42:
-    - NarinesBoeuf.3.4
-    31:
-    - NarinesBoeuf.3.5
-    24:
-    - NarinesBoeuf.3.6
-    4:
-    - NarinesBoeuf.4.1
-    87:
-    - NarinesBoeuf.4.2
-    116:
-    - NarinesBoeuf.5.1
-    111:
-    - NarinesBoeuf.5.2
-    77:
-    - NarinesBoeuf.5.3
-    86:
-    - NarinesBoeuf.5.4
-    37:
-    - NarinesBoeuf.5.5
-    1:
-    - NarinesBoeuf.5.6
-    49:
-    - NarinesBoeuf.5.7
-    12:
-    - NarinesBoeuf.5.8
-    16:
-    - NarinesBoeuf.5.9
-    63:
-    - NarinesBoeuf.5.10
-    - NarinesBoeuf.7.0
-    2:
-    - NarinesBoeuf.5.11
-    102:
-    - NarinesBoeuf.5.12
-    113:
-    - NarinesBoeuf.5.13
-    10:
-    - NarinesBoeuf.5.14
-    79:
-    - NarinesBoeuf.6.2
-    - NarinesBoeuf.8.0
-    59:
-    - NarinesBoeuf.6.3
-    100:
-    - NarinesBoeuf.7.1
-    20:
-    - NarinesBoeuf.7.2
-    15:
-    - NarinesBoeuf.8.1
-    70:
-    - NarinesBoeuf.8.2
-    78:
-    - NarinesBoeuf.8.3
-    94:
-    - NarinesBoeuf.8.4
-    74:
-    - NarinesBoeuf.8.5
-    22:
-    - NarinesBoeuf.8.6
-    - NarinesBoeuf.9.0
-    123:
-    - NarinesBoeuf.8.7
-    98:
-    - NarinesBoeuf.8.8
-    71:
-    - NarinesBoeuf.8.9
-    43:
-    - NarinesBoeuf.8.10
-    80:
-    - NarinesBoeuf.8.11
-    53:
-    - NarinesBoeuf.9.1
-    118:
-    - NarinesBoeuf.9.2
-    - NarinesBoeuf.10.0
-    64:
-    - NarinesBoeuf.9.3
-    13:
-    - NarinesBoeuf.9.4
-    117:
-    - NarinesBoeuf.9.5
-    8:
-    - NarinesBoeuf.9.6
-    85:
-    - NarinesBoeuf.10.1
-    3:
-    - NarinesBoeuf.10.2
-    51:
-    - NarinesBoeuf.10.3
-    121:
-    - NarinesBoeuf.10.4
-    105:
-    - NarinesBoeuf.11.1
-    126:
-    - NarinesBoeuf.11.2
-    17:
-    - NarinesBoeuf.11.3
-    112:
-    - NarinesBoeuf.11.4
-    128:
-    - NarinesBoeuf.11.5
-    91:
-    - NarinesBoeuf.11.6
-    18:
-    - NarinesBoeuf.11.7
-    68:
-    - NarinesBoeuf.11.8
-    - NarinesBoeuf.12.0
-    90:
-    - NarinesBoeuf.11.9
-    54:
-    - NarinesBoeuf.11.10
-    130:
-    - NarinesBoeuf.11.11
-    32:
-    - NarinesBoeuf.11.12
-    72:
-    - NarinesBoeuf.11.13
-    65:
-    - NarinesBoeuf.11.14
-    122:
-    - NarinesBoeuf.11.15
-    - NarinesBoeuf.16.0
-    93:
-    - NarinesBoeuf.11.16
-    76:
-    - NarinesBoeuf.11.17
-    107:
-    - NarinesBoeuf.12.1
-    19:
-    - NarinesBoeuf.12.2
-    5:
-    - NarinesBoeuf.12.3
-    55:
-    - NarinesBoeuf.12.4
-    35:
-    - NarinesBoeuf.12.5
-    - NarinesBoeuf.13.0
-    108:
-    - NarinesBoeuf.12.6
-    129:
-    - NarinesBoeuf.12.7
-    119:
-    - NarinesBoeuf.13.1
-    - NarinesBoeuf.17.0
-    26:
-    - NarinesBoeuf.13.2
-    95:
-    - NarinesBoeuf.13.3
-    - NarinesBoeuf.13.4
-    6:
-    - NarinesBoeuf.13.5
-    66:
-    - NarinesBoeuf.13.6
-    103:
-    - NarinesBoeuf.13.7
-    101:
-    - NarinesBoeuf.13.8
-    39:
-    - NarinesBoeuf.13.9
-    120:
-    - NarinesBoeuf.13.10
-    57:
-    - NarinesBoeuf.13.11
-    25:
-    - NarinesBoeuf.13.12
-    45:
-    - NarinesBoeuf.13.13
-    73:
-    - NarinesBoeuf.13.14
-    - NarinesBoeuf.14.0
-    88:
-    - NarinesBoeuf.13.15
-    124:
-    - NarinesBoeuf.13.16
-    84:
-    - NarinesBoeuf.13.17
-    41:
-    - NarinesBoeuf.13.18
-    56:
-    - NarinesBoeuf.13.19
-    67:
-    - NarinesBoeuf.13.20
-    27:
-    - NarinesBoeuf.13.21
-    110:
-    - NarinesBoeuf.13.22
-    75:
-    - NarinesBoeuf.14.1
-    7:
-    - NarinesBoeuf.14.2
-    114:
-    - NarinesBoeuf.14.3
-    - NarinesBoeuf.15.0
-    52:
-    - NarinesBoeuf.14.4
-    58:
-    - NarinesBoeuf.15.1
-    11:
-    - NarinesBoeuf.16.1
-    44:
-    - NarinesBoeuf.16.2
-    104:
-    - NarinesBoeuf.16.3
-    89:
-    - NarinesBoeuf.16.4
-    46:
-    - NarinesBoeuf.16.5
-    21:
-    - NarinesBoeuf.17.1
-    99:
-    - NarinesBoeuf.17.2
-    125:
-    - NarinesBoeuf.17.3
-    109:
-    - NarinesBoeuf.17.4
   idsql:
     82:
     - 1
@@ -837,9 +604,632 @@ node_attributes:
     - 152
     109:
     - 153
+  fulladdress:
+    82:
+    - NarinesBoeuf.1.0
+    0:
+    - NarinesBoeuf.1.1
+    131:
+    - NarinesBoeuf.1.2
+    - NarinesBoeuf.6.1
+    9:
+    - NarinesBoeuf.1.3
+    - NarinesBoeuf.1.4
+    92:
+    - NarinesBoeuf.1.5
+    - NarinesBoeuf.1.6
+    96:
+    - NarinesBoeuf.1.7
+    - NarinesBoeuf.4.0
+    - NarinesBoeuf.5.0
+    60:
+    - NarinesBoeuf.1.8
+    30:
+    - NarinesBoeuf.1.9
+    48:
+    - NarinesBoeuf.1.10
+    34:
+    - NarinesBoeuf.1.11
+    29:
+    - NarinesBoeuf.1.12
+    81:
+    - NarinesBoeuf.1.13
+    14:
+    - NarinesBoeuf.1.14
+    - NarinesBoeuf.4.3
+    28:
+    - NarinesBoeuf.1.15
+    115:
+    - NarinesBoeuf.1.16
+    40:
+    - NarinesBoeuf.1.17
+    69:
+    - NarinesBoeuf.1.18
+    38:
+    - NarinesBoeuf.1.19
+    - NarinesBoeuf.11.0
+    33:
+    - NarinesBoeuf.1.20
+    - NarinesBoeuf.3.0
+    50:
+    - NarinesBoeuf.1.21
+    23:
+    - NarinesBoeuf.1.22
+    - NarinesBoeuf.1.23
+    127:
+    - NarinesBoeuf.1.24
+    47:
+    - NarinesBoeuf.1.25
+    - NarinesBoeuf.2.0
+    83:
+    - NarinesBoeuf.1.26
+    106:
+    - NarinesBoeuf.1.27
+    61:
+    - NarinesBoeuf.2.1
+    36:
+    - NarinesBoeuf.3.1
+    97:
+    - NarinesBoeuf.3.2
+    62:
+    - NarinesBoeuf.3.3
+    42:
+    - NarinesBoeuf.3.4
+    31:
+    - NarinesBoeuf.3.5
+    24:
+    - NarinesBoeuf.3.6
+    4:
+    - NarinesBoeuf.4.1
+    87:
+    - NarinesBoeuf.4.2
+    116:
+    - NarinesBoeuf.5.1
+    111:
+    - NarinesBoeuf.5.2
+    77:
+    - NarinesBoeuf.5.3
+    86:
+    - NarinesBoeuf.5.4
+    37:
+    - NarinesBoeuf.5.5
+    1:
+    - NarinesBoeuf.5.6
+    49:
+    - NarinesBoeuf.5.7
+    12:
+    - NarinesBoeuf.5.8
+    16:
+    - NarinesBoeuf.5.9
+    63:
+    - NarinesBoeuf.5.10
+    - NarinesBoeuf.7.0
+    2:
+    - NarinesBoeuf.5.11
+    102:
+    - NarinesBoeuf.5.12
+    113:
+    - NarinesBoeuf.5.13
+    10:
+    - NarinesBoeuf.5.14
+    79:
+    - NarinesBoeuf.6.2
+    - NarinesBoeuf.8.0
+    59:
+    - NarinesBoeuf.6.3
+    100:
+    - NarinesBoeuf.7.1
+    20:
+    - NarinesBoeuf.7.2
+    15:
+    - NarinesBoeuf.8.1
+    70:
+    - NarinesBoeuf.8.2
+    78:
+    - NarinesBoeuf.8.3
+    94:
+    - NarinesBoeuf.8.4
+    74:
+    - NarinesBoeuf.8.5
+    22:
+    - NarinesBoeuf.8.6
+    - NarinesBoeuf.9.0
+    123:
+    - NarinesBoeuf.8.7
+    98:
+    - NarinesBoeuf.8.8
+    71:
+    - NarinesBoeuf.8.9
+    43:
+    - NarinesBoeuf.8.10
+    80:
+    - NarinesBoeuf.8.11
+    53:
+    - NarinesBoeuf.9.1
+    118:
+    - NarinesBoeuf.9.2
+    - NarinesBoeuf.10.0
+    64:
+    - NarinesBoeuf.9.3
+    13:
+    - NarinesBoeuf.9.4
+    117:
+    - NarinesBoeuf.9.5
+    8:
+    - NarinesBoeuf.9.6
+    85:
+    - NarinesBoeuf.10.1
+    3:
+    - NarinesBoeuf.10.2
+    51:
+    - NarinesBoeuf.10.3
+    121:
+    - NarinesBoeuf.10.4
+    105:
+    - NarinesBoeuf.11.1
+    126:
+    - NarinesBoeuf.11.2
+    17:
+    - NarinesBoeuf.11.3
+    112:
+    - NarinesBoeuf.11.4
+    128:
+    - NarinesBoeuf.11.5
+    91:
+    - NarinesBoeuf.11.6
+    18:
+    - NarinesBoeuf.11.7
+    68:
+    - NarinesBoeuf.11.8
+    - NarinesBoeuf.12.0
+    90:
+    - NarinesBoeuf.11.9
+    54:
+    - NarinesBoeuf.11.10
+    130:
+    - NarinesBoeuf.11.11
+    32:
+    - NarinesBoeuf.11.12
+    72:
+    - NarinesBoeuf.11.13
+    65:
+    - NarinesBoeuf.11.14
+    122:
+    - NarinesBoeuf.11.15
+    - NarinesBoeuf.16.0
+    93:
+    - NarinesBoeuf.11.16
+    76:
+    - NarinesBoeuf.11.17
+    107:
+    - NarinesBoeuf.12.1
+    19:
+    - NarinesBoeuf.12.2
+    5:
+    - NarinesBoeuf.12.3
+    55:
+    - NarinesBoeuf.12.4
+    35:
+    - NarinesBoeuf.12.5
+    - NarinesBoeuf.13.0
+    108:
+    - NarinesBoeuf.12.6
+    129:
+    - NarinesBoeuf.12.7
+    119:
+    - NarinesBoeuf.13.1
+    - NarinesBoeuf.17.0
+    26:
+    - NarinesBoeuf.13.2
+    95:
+    - NarinesBoeuf.13.3
+    - NarinesBoeuf.13.4
+    6:
+    - NarinesBoeuf.13.5
+    66:
+    - NarinesBoeuf.13.6
+    103:
+    - NarinesBoeuf.13.7
+    101:
+    - NarinesBoeuf.13.8
+    39:
+    - NarinesBoeuf.13.9
+    120:
+    - NarinesBoeuf.13.10
+    57:
+    - NarinesBoeuf.13.11
+    25:
+    - NarinesBoeuf.13.12
+    45:
+    - NarinesBoeuf.13.13
+    73:
+    - NarinesBoeuf.13.14
+    - NarinesBoeuf.14.0
+    88:
+    - NarinesBoeuf.13.15
+    124:
+    - NarinesBoeuf.13.16
+    84:
+    - NarinesBoeuf.13.17
+    41:
+    - NarinesBoeuf.13.18
+    56:
+    - NarinesBoeuf.13.19
+    67:
+    - NarinesBoeuf.13.20
+    27:
+    - NarinesBoeuf.13.21
+    110:
+    - NarinesBoeuf.13.22
+    75:
+    - NarinesBoeuf.14.1
+    7:
+    - NarinesBoeuf.14.2
+    114:
+    - NarinesBoeuf.14.3
+    - NarinesBoeuf.15.0
+    52:
+    - NarinesBoeuf.14.4
+    58:
+    - NarinesBoeuf.15.1
+    11:
+    - NarinesBoeuf.16.1
+    44:
+    - NarinesBoeuf.16.2
+    104:
+    - NarinesBoeuf.16.3
+    89:
+    - NarinesBoeuf.16.4
+    46:
+    - NarinesBoeuf.16.5
+    21:
+    - NarinesBoeuf.17.1
+    99:
+    - NarinesBoeuf.17.2
+    125:
+    - NarinesBoeuf.17.3
+    109:
+    - NarinesBoeuf.17.4
   flags:
     82:
     - fix
+  csdim:
+    82:
+    - 1.2
+    - 1.9
+    0:
+    - 4.0
+    - 3.0
+    60:
+    - 5.2
+    - 12.7
+    30:
+    - 5.2
+    - 16.5
+    48:
+    - 6.5
+    - 16.5
+    34:
+    - 6.5
+    - 17.5
+    29:
+    - 6.8
+    - 18.5
+    81:
+    - 6.8
+    - 21.5
+    28:
+    - 6.5
+    - 23.5
+    115:
+    - 6.8
+    - 24.0
+    40:
+    - 7.5
+    - 23.5
+    69:
+    - 7.5
+    - 19.5
+    50:
+    - 7.5
+    - 5.0
+    127:
+    - 4.0
+    - 3.7
+    83:
+    - 6.2
+    - 2.2
+    106:
+    - 0.5
+    - 1.2
+    61:
+    - 2.0
+    - 1.0
+    36:
+    - 1.6
+    - 2.5
+    97:
+    - 1.2
+    - 2.2
+    62:
+    - 1.5
+    - 2.7
+    42:
+    - 1.0
+    - 3.0
+    31:
+    - 0.6
+    - 2.0
+    24:
+    - 0.7
+    - 2.0
+    4:
+    - 10.3
+    - 21.0
+    87:
+    - 5.5
+    - 21.7
+    116:
+    - 2.5
+    - 3.0
+    111:
+    - 2.5
+    - 3.5
+    77:
+    - 2.4
+    - 3.5
+    86:
+    - 2.5
+    - 4.0
+    37:
+    - 2.2
+    - 3.2
+    1:
+    - 1.9
+    - 2.5
+    49:
+    - 1.4
+    - 1.5
+    12:
+    - 0.7
+    - 1.4
+    16:
+    - 1.33
+    - 2.5
+    2:
+    - 1.3
+    - 2.4
+    102:
+    - 0.5
+    - 0.6
+    113:
+    - 0.7
+    - 3.0
+    10:
+    - 0.6
+    - 1.3
+    59:
+    - 4.0
+    - 2.5
+    100:
+    - 1.4
+    - 1.5
+    20:
+    - 0.5
+    - 1.2
+    15:
+    - 0.8
+    - 0.9
+    70:
+    - 1.3
+    - 1.4
+    78:
+    - 0.9
+    - 1.5
+    94:
+    - 1.0
+    - 1.0
+    74:
+    - 1.0
+    - 1.3
+    123:
+    - 2.0
+    - 1.5
+    98:
+    - 1.1
+    - 1.0
+    71:
+    - 2.5
+    - 2.4
+    43:
+    - 1.6
+    - 2.3
+    80:
+    - 0.5
+    - 1.0
+    53:
+    - 1.0
+    - 1.3
+    64:
+    - 0.9
+    - 2.2
+    13:
+    - 0.6
+    - 2.2
+    117:
+    - 1.2
+    - 2.5
+    8:
+    - 2.0
+    - 25.0
+    85:
+    - 1.0
+    - 2.0
+    3:
+    - 0.9
+    - 2.1
+    51:
+    - 1.1
+    - 2.5
+    121:
+    - 1.4
+    - 4.5
+    105:
+    - 5.0
+    - 18.5
+    126:
+    - 1.8
+    - 7.0
+    17:
+    - 1.6
+    - 3.0
+    112:
+    - 2.0
+    - 1.7
+    128:
+    - 0.5
+    - 1.6
+    91:
+    - 1.0
+    - 1.1
+    18:
+    - 1.0
+    - 0.7
+    90:
+    - 2.7
+    - 0.8
+    54:
+    - 2.2
+    - 1.4
+    130:
+    - 1.4
+    - 0.6
+    32:
+    - 1.0
+    - 0.4
+    72:
+    - 1.3
+    - 0.9
+    65:
+    - 0.9
+    - 1.9
+    93:
+    - 1.3
+    - 1.2
+    76:
+    - 0.4
+    - 0.1
+    107:
+    - 7.7
+    - 7.0
+    19:
+    - 3.2
+    - 5.4
+    5:
+    - 2.3
+    - 3.2
+    55:
+    - 1.5
+    - 2.7
+    108:
+    - 2.8
+    - 2.7
+    129:
+    - 2.2
+    - 1.3
+    26:
+    - 0.5
+    - 0.6
+    6:
+    - 0.5
+    - 4.0
+    66:
+    - 0.5
+    - 3.7
+    103:
+    - 0.5
+    - 3.4
+    101:
+    - 0.5
+    - 2.2
+    39:
+    - 0.5
+    - 2.0
+    120:
+    - 0.3
+    - 0.6000000000000001
+    57:
+    - 0.6000000000000001
+    - 0.6
+    25:
+    - 0.7
+    - 1.4
+    45:
+    - 0.7
+    - 0.9
+    88:
+    - 0.4
+    - 1.2999999999999998
+    124:
+    - 0.5
+    - 1.5
+    84:
+    - 0.5
+    - 1.6
+    41:
+    - 0.6000000000000001
+    - 2.1
+    56:
+    - 0.6000000000000001
+    - 1.7999999999999998
+    67:
+    - 0.5
+    - 1.1
+    27:
+    - 0.5
+    - 0.5
+    110:
+    - 0.4
+    - 0.3
+    75:
+    - 0.8
+    - 0.5
+    7:
+    - 0.5
+    - 0.6
+    52:
+    - 0.7999999999999999
+    - 0.7
+    58:
+    - 3.9
+    - 0.8
+    11:
+    - 1.1
+    - 1.5
+    44:
+    - 1.9000000000000001
+    - 1.2999999999999998
+    104:
+    - 1.2999999999999998
+    - 1.6
+    89:
+    - 2.5
+    - 1.8
+    46:
+    - 4.5
+    - 9.0
+    21:
+    - 0.8999999999999999
+    - 0.7
+    99:
+    - 0.6
+    - 0.5
+    125:
+    - 0.8
+    - 3.0999999999999996
+    109:
+    - 1.1
+    - 2.5
   pos:
     82:
     - 579600.0
