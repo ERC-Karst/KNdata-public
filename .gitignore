@@ -9,3 +9,4 @@ plot2d_S0*
 .ipynb_checkpoints/import_pickled_graphs_bis-checkpoint.ipynb
 *.th
 *.thconfig
+*.log
