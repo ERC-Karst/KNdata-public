@@ -17,7 +17,8 @@ cave_info:
   altitude: .nan
   cave_url: .nan
   supplemental_links: .nan
-  comments_cave_info: .nan
+  comments_cave_info: This is a single cave that is part of "Ultima Patagonia cave
+    system"
 dataset_sharing_info:
   license: CC BY-NC-SA 4.0
   citation: Centre Terre. (2024). Survey Data for the Ultima Patagonia Cave Exploration
@@ -45,7 +46,7 @@ dataset_info:
   units: meter
   crs: local
   crs_other: local
-  original_filename: .nan
+  original_filename: GouffreDejaVu.sql
   original_encoding: UTF-8
   all_data_format: Therion
   website: .nan
