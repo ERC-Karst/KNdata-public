@@ -10,3 +10,5 @@ plot2d_S0*
 *.th
 *.thconfig
 *.log
+.DS_Store
+data/.DS_Store
