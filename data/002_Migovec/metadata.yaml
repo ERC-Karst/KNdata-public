@@ -1,0 +1,57 @@
+number: '002'
+short_name: Migovec
+status: clean
+type_of_correction: manual correction
+type_dataset: Online
+original_format: Therion
+original - sql: .nan
+length_approx_meter: 45508.0
+connected_components: single cave
+license: CC BY-NC-SA 4.0
+id_dataset: GH4
+comments_cave_info: .nan
+full_name: System Migovec
+all_data_format: Therion
+geometry: splays
+units: meter
+original_filename: .nan
+original_encoding: .nan
+crs: epsg:3912
+crs_other: epsg:3912 (Slovenia)
+country: Slovenia
+state: Čadrg
+area: .nan
+locality: Tolminske Ravne
+grotto_id: '88328'
+country_cave_id: '6001'
+local_id: .nan
+local_coordinate_system: .nan
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+latitude: 46.25198
+longitude: 13.76394
+altitude: '1854'
+length_official_meter: '45329'
+length_dataset: .nan
+denivelation: '970'
+cave_url: https://grottocenter.org/ui/entrances/88328
+supplemental_links: https://www.katasterjam.si/caves/6001?activeTab=data
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: 'ICCC, & JSDPT. (2024). Survey Data for the Tolminski Migovec Cave Exploration
+  project (Version 2024.03.13) [Dataset]. Zenodo. https://doi.org/DOI: 10.5281/ZENODO.108130'
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 05 May 2025

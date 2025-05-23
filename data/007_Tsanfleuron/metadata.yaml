@@ -1,0 +1,62 @@
+number: '007'
+short_name: Tsanfleuron
+status: clean
+type_of_correction: no correction
+type_dataset: Call for data
+original_format: Visual Topo
+original - sql: .nan
+length_approx_meter: 1519.0
+connected_components: multiple caves
+license: CC BY-NC-SA 4.0
+id_dataset: LS
+comments_cave_info: Tenir Louis au courant du travail de Ana
+full_name: Lapiaz Tsanfleuron
+all_data_format: Visual Topo
+geometry: lrud
+units: meter
+original_filename: .nan
+original_encoding: .nan
+crs: epsg:21781
+crs_other: epsg:21781 (CH 1903 LV03 - Old)
+country: Switzerland
+state: Valais/Wallis
+area: Glacier de Tsanfleuron
+locality: Savièse
+grotto_id: 37275 (G16)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: CH1903/LV03
+local_easting_coordinate: 587320.0
+local_northing_coordinate: 129300.0
+latitude: 46.3149
+longitude: 7.2739
+altitude: '2290'
+length_official_meter: .nan
+length_dataset: .nan
+denivelation: .nan
+cave_url: https://grottocenter.org/ui/entrances/36666
+supplemental_links: http://mdemierre.speleologie.ch/?p=2584
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: GSR,SSG,SCJ,GSL
+website: .nan
+email_correspondant: louis.stahelin@icloud.com
+citation: Groupe de Spéléologie Rhodanien (GSR), Société Spéléologique Genevoise (SSG),
+  Spéléo-Club Jura (SCJ), & Groupe Spéléo Lausanne (GSL). (2024). Base de données
+  topographique des systèmes karstique du lapiaz de Tsanfleuron (Unpublished raw data).
+  [Dataset].
+thanks: 'Thanks to Louis Stahelin for sharing the data with us, and to the GSR (Groupe
+  de Spéléologie Rhodanien), SSG (Société Spéléologique Genevoise), SCJ (Spéléo-Club
+  Jura), and GSL (Groupe Spéléo Lausanne) who explored, surveyed and mapped the conduits,
+  and whithout whom this work would not have been possible. '
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 05 May 2025

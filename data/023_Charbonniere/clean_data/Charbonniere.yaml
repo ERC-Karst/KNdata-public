@@ -1,10 +1,11 @@
 metadata:
   number: '023'
   short_name: Charbonniere
-  status: in github (cleaning in progress)
+  status: clean
   type_of_correction: no correction
   type_dataset: Call for data
   original_format: Toporobot
+  original - sql: .nan
   length_approx_meter: 116.0
   connected_components: single cave
   license: CC BY-NC-SA 4.0
@@ -18,17 +19,19 @@ metadata:
   original_encoding: UTF-8
   crs: epsg:21781
   crs_other: epsg:21781 (CH 1903 LV03 - Old)
-  translation: .nan
   country: Switzerland
-  state: .nan
+  state: Jura
   area: .nan
-  locality: .nan
-  grotto_id: .nan
+  locality: Mettembert
+  grotto_id: /
   country_cave_id: .nan
   local_id: .nan
-  latitude: .nan
-  longitude: .nan
-  altitude: .nan
+  local_coordinate_system: CH1903/LV03
+  local_easting_coordinate: 593875.0
+  local_northing_coordinate: 249600.0
+  latitude: 47.2349
+  longitude: 7.2127
+  altitude: '525'
   length_official_meter: .nan
   length_dataset: .nan
   denivelation: .nan
@@ -51,7 +54,7 @@ metadata:
   statistical_results: .nan
   sample_figures: .nan
   comments_dataset: .nan
-  last_processing_date: 03 Mar 2025
+  last_processing_date: 05 May 2025
 edges:
 - - 1
   - 0
@@ -94,99 +97,6 @@ edges:
 - - 18
   - 13
 node_attributes:
-  idsql:
-    1:
-    - 1
-    0:
-    - 2
-    5:
-    - 3
-    19:
-    - 4
-    8:
-    - 5
-    16:
-    - 6
-    - 7
-    17:
-    - 8
-    11:
-    - 9
-    7:
-    - 10
-    9:
-    - 11
-    4:
-    - 12
-    3:
-    - 13
-    2:
-    - 14
-    20:
-    - 15
-    12:
-    - 16
-    10:
-    - 17
-    15:
-    - 18
-    14:
-    - 19
-    18:
-    - 20
-    - 22
-    6:
-    - 21
-    13:
-    - 23
-  fulladdress:
-    1:
-    - Charbonniere.1.0
-    0:
-    - Charbonniere.1.1
-    5:
-    - Charbonniere.1.2
-    19:
-    - Charbonniere.1.3
-    8:
-    - Charbonniere.1.4
-    16:
-    - Charbonniere.1.5
-    - Charbonniere.1.6
-    17:
-    - Charbonniere.1.7
-    11:
-    - Charbonniere.1.8
-    7:
-    - Charbonniere.1.9
-    9:
-    - Charbonniere.1.10
-    4:
-    - Charbonniere.1.11
-    3:
-    - Charbonniere.1.12
-    2:
-    - Charbonniere.1.13
-    20:
-    - Charbonniere.1.14
-    12:
-    - Charbonniere.1.15
-    10:
-    - Charbonniere.1.16
-    15:
-    - Charbonniere.1.17
-    14:
-    - Charbonniere.1.18
-    18:
-    - Charbonniere.1.19
-    - Charbonniere.2.0
-    6:
-    - Charbonniere.1.20
-    13:
-    - Charbonniere.2.1
-  flags:
-    1:
-    - fix
   csdim:
     1:
     - 4.5
@@ -245,6 +155,55 @@ node_attributes:
     13:
     - 0.6
     - 0.6
+  flags:
+    1:
+    - fix
+    - ent
+  fulladdress:
+    1:
+    - Charbonniere.1.0
+    0:
+    - Charbonniere.1.1
+    5:
+    - Charbonniere.1.2
+    19:
+    - Charbonniere.1.3
+    8:
+    - Charbonniere.1.4
+    16:
+    - Charbonniere.1.5
+    - Charbonniere.1.6
+    17:
+    - Charbonniere.1.7
+    11:
+    - Charbonniere.1.8
+    7:
+    - Charbonniere.1.9
+    9:
+    - Charbonniere.1.10
+    4:
+    - Charbonniere.1.11
+    3:
+    - Charbonniere.1.12
+    2:
+    - Charbonniere.1.13
+    20:
+    - Charbonniere.1.14
+    12:
+    - Charbonniere.1.15
+    10:
+    - Charbonniere.1.16
+    15:
+    - Charbonniere.1.17
+    14:
+    - Charbonniere.1.18
+    18:
+    - Charbonniere.1.19
+    - Charbonniere.2.0
+    6:
+    - Charbonniere.1.20
+    13:
+    - Charbonniere.2.1
   pos:
     1:
     - 593875.0
@@ -330,3 +289,51 @@ node_attributes:
     - 593831.8
     - 249619.78
     - 547.03
+  comments:
+    1:
+    - Entree
+  idsql:
+    1:
+    - 1
+    0:
+    - 2
+    5:
+    - 3
+    19:
+    - 4
+    8:
+    - 5
+    16:
+    - 6
+    - 7
+    17:
+    - 8
+    11:
+    - 9
+    7:
+    - 10
+    9:
+    - 11
+    4:
+    - 12
+    3:
+    - 13
+    2:
+    - 14
+    20:
+    - 15
+    12:
+    - 16
+    10:
+    - 17
+    15:
+    - 18
+    14:
+    - 19
+    18:
+    - 20
+    - 22
+    6:
+    - 21
+    13:
+    - 23

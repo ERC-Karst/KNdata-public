@@ -1,0 +1,56 @@
+number: '023'
+short_name: Charbonniere
+status: clean
+type_of_correction: no correction
+type_dataset: Call for data
+original_format: Toporobot
+original - sql: .nan
+length_approx_meter: 116.0
+connected_components: single cave
+license: CC BY-NC-SA 4.0
+id_dataset: LS
+comments_cave_info: .nan
+full_name: Grotte de la Charbonnière
+all_data_format: Toporobot, Visual Topo
+geometry: lrud
+units: meter
+original_filename: Charbonniere 1_01.Text
+original_encoding: UTF-8
+crs: epsg:21781
+crs_other: epsg:21781 (CH 1903 LV03 - Old)
+country: Switzerland
+state: Jura
+area: .nan
+locality: Mettembert
+grotto_id: /
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: CH1903/LV03
+local_easting_coordinate: 593875.0
+local_northing_coordinate: 249600.0
+latitude: 47.2349
+longitude: 7.2127
+altitude: '525'
+length_official_meter: .nan
+length_dataset: .nan
+denivelation: .nan
+cave_url: .nan
+supplemental_links: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 05 May 2025

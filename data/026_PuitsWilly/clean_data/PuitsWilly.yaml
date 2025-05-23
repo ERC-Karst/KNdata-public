@@ -1,10 +1,11 @@
 metadata:
   number: '026'
   short_name: PuitsWilly
-  status: in github (cleaning in progress)
+  status: clean
   type_of_correction: no correction
   type_dataset: Call for data
   original_format: Toporobot
+  original - sql: .nan
   length_approx_meter: 110.0
   connected_components: single cave
   license: CC BY-NC-SA 4.0
@@ -18,22 +19,24 @@ metadata:
   original_encoding: Mac Roman
   crs: epsg:32616
   crs_other: epsg:21781 (CH 1903 LV03 - Old), ?
-  translation: .nan
   country: Switzerland
-  state: .nan
+  state: Jura
   area: .nan
-  locality: .nan
-  grotto_id: .nan
+  locality: Lajoux JU
+  grotto_id: '37251'
   country_cave_id: .nan
   local_id: .nan
-  latitude: .nan
-  longitude: .nan
-  altitude: .nan
+  local_coordinate_system: CH1903/LV03
+  local_easting_coordinate: 578280.0
+  local_northing_coordinate: 236270.0
+  latitude: 47.2773
+  longitude: 7.1534
+  altitude: '975'
   length_official_meter: .nan
   length_dataset: .nan
   denivelation: .nan
-  cave_url: .nan
-  supplemental_links: .nan
+  cave_url: https://grottocenter.org/ui/entrances/37251
+  supplemental_links: https://www.jura.ch/fr/Autorites/Archeologie-2017/Carte-des-sites/Sites-fouilles-principaux/Lajoux-Le-Puits-Willy.html
   contract_file: .nan
   data_reception_date: .nan
   data_received_by: .nan
@@ -51,7 +54,7 @@ metadata:
   statistical_results: .nan
   sample_figures: .nan
   comments_dataset: .nan
-  last_processing_date: 03 Mar 2025
+  last_processing_date: 05 May 2025
 edges:
 - - 10
   - 29
@@ -83,6 +86,8 @@ edges:
   - 16
 - - 27
   - 22
+- - 16
+  - 23
 - - 22
   - 1
 - - 1
@@ -113,154 +118,9 @@ edges:
   - 5
 - - 5
   - 7
-- - 16
-  - 23
 - - 23
   - 4
 node_attributes:
-  idsql:
-    10:
-    - 1
-    29:
-    - 2
-    30:
-    - 3
-    0:
-    - 4
-    2:
-    - 5
-    21:
-    - 6
-    14:
-    - 7
-    9:
-    - 8
-    - 9
-    15:
-    - 10
-    28:
-    - 11
-    11:
-    - 12
-    25:
-    - 13
-    32:
-    - 14
-    - 33
-    27:
-    - 15
-    - 16
-    22:
-    - 17
-    1:
-    - 18
-    13:
-    - 19
-    31:
-    - 20
-    24:
-    - 21
-    3:
-    - 22
-    6:
-    - 23
-    8:
-    - 24
-    18:
-    - 25
-    19:
-    - 26
-    12:
-    - 27
-    17:
-    - 28
-    20:
-    - 29
-    26:
-    - 30
-    5:
-    - 31
-    7:
-    - 32
-    16:
-    - 34
-    23:
-    - 35
-    4:
-    - 36
-  fulladdress:
-    10:
-    - PuitsWilly.1.0
-    29:
-    - PuitsWilly.1.1
-    30:
-    - PuitsWilly.1.2
-    0:
-    - PuitsWilly.1.3
-    2:
-    - PuitsWilly.1.4
-    21:
-    - PuitsWilly.1.5
-    14:
-    - PuitsWilly.1.6
-    9:
-    - PuitsWilly.1.7
-    - PuitsWilly.1.8
-    15:
-    - PuitsWilly.1.9
-    28:
-    - PuitsWilly.1.10
-    11:
-    - PuitsWilly.1.11
-    25:
-    - PuitsWilly.1.12
-    32:
-    - PuitsWilly.1.13
-    - PuitsWilly.2.0
-    27:
-    - PuitsWilly.1.14
-    - PuitsWilly.1.15
-    22:
-    - PuitsWilly.1.16
-    1:
-    - PuitsWilly.1.17
-    13:
-    - PuitsWilly.1.18
-    31:
-    - PuitsWilly.1.19
-    24:
-    - PuitsWilly.1.20
-    3:
-    - PuitsWilly.1.21
-    6:
-    - PuitsWilly.1.22
-    8:
-    - PuitsWilly.1.23
-    18:
-    - PuitsWilly.1.24
-    19:
-    - PuitsWilly.1.25
-    12:
-    - PuitsWilly.1.26
-    17:
-    - PuitsWilly.1.27
-    20:
-    - PuitsWilly.1.28
-    26:
-    - PuitsWilly.1.29
-    5:
-    - PuitsWilly.1.30
-    7:
-    - PuitsWilly.1.31
-    16:
-    - PuitsWilly.2.1
-    23:
-    - PuitsWilly.2.2
-    4:
-    - PuitsWilly.2.3
-  flags:
-    10:
-    - fix
   csdim:
     10:
     - 23.0
@@ -295,6 +155,9 @@ node_attributes:
     25:
     - 0.7
     - 0.7
+    16:
+    - 1.1
+    - 1.0
     22:
     - 0.7
     - 1.2
@@ -343,15 +206,86 @@ node_attributes:
     7:
     - 0.2
     - 0.3
-    16:
-    - 1.1
-    - 1.0
     23:
     - 1.0
     - 0.6
     4:
     - 0.4
     - 0.6
+  flags:
+    10:
+    - fix
+    - ent
+  fulladdress:
+    10:
+    - PuitsWilly.1.0
+    29:
+    - PuitsWilly.1.1
+    30:
+    - PuitsWilly.1.2
+    0:
+    - PuitsWilly.1.3
+    2:
+    - PuitsWilly.1.4
+    21:
+    - PuitsWilly.1.5
+    14:
+    - PuitsWilly.1.6
+    9:
+    - PuitsWilly.1.7
+    - PuitsWilly.1.8
+    15:
+    - PuitsWilly.1.9
+    28:
+    - PuitsWilly.1.10
+    11:
+    - PuitsWilly.1.11
+    25:
+    - PuitsWilly.1.12
+    32:
+    - PuitsWilly.1.13
+    - PuitsWilly.2.0
+    27:
+    - PuitsWilly.1.14
+    - PuitsWilly.1.15
+    16:
+    - PuitsWilly.2.1
+    22:
+    - PuitsWilly.1.16
+    1:
+    - PuitsWilly.1.17
+    13:
+    - PuitsWilly.1.18
+    31:
+    - PuitsWilly.1.19
+    24:
+    - PuitsWilly.1.20
+    3:
+    - PuitsWilly.1.21
+    6:
+    - PuitsWilly.1.22
+    8:
+    - PuitsWilly.1.23
+    18:
+    - PuitsWilly.1.24
+    19:
+    - PuitsWilly.1.25
+    12:
+    - PuitsWilly.1.26
+    17:
+    - PuitsWilly.1.27
+    20:
+    - PuitsWilly.1.28
+    26:
+    - PuitsWilly.1.29
+    5:
+    - PuitsWilly.1.30
+    7:
+    - PuitsWilly.1.31
+    23:
+    - PuitsWilly.2.2
+    4:
+    - PuitsWilly.2.3
   pos:
     10:
     - 578280.0
@@ -409,6 +343,10 @@ node_attributes:
     - 578272.66
     - 236256.88
     - 940.72
+    16:
+    - 578272.66
+    - 236256.88
+    - 944.97
     22:
     - 578274.83
     - 236256.71
@@ -473,10 +411,6 @@ node_attributes:
     - 578291.55
     - 236235.34
     - 901.49
-    16:
-    - 578272.66
-    - 236256.88
-    - 944.97
     23:
     - 578273.31
     - 236259.25
@@ -485,3 +419,76 @@ node_attributes:
     - 578273.31
     - 236259.25
     - 951.19
+  comments:
+    10:
+    - Entree Fond Doline
+  idsql:
+    10:
+    - 1
+    29:
+    - 2
+    30:
+    - 3
+    0:
+    - 4
+    2:
+    - 5
+    21:
+    - 6
+    14:
+    - 7
+    9:
+    - 8
+    - 9
+    15:
+    - 10
+    28:
+    - 11
+    11:
+    - 12
+    25:
+    - 13
+    32:
+    - 14
+    - 33
+    27:
+    - 15
+    - 16
+    16:
+    - 34
+    22:
+    - 17
+    1:
+    - 18
+    13:
+    - 19
+    31:
+    - 20
+    24:
+    - 21
+    3:
+    - 22
+    6:
+    - 23
+    8:
+    - 24
+    18:
+    - 25
+    19:
+    - 26
+    12:
+    - 27
+    17:
+    - 28
+    20:
+    - 29
+    26:
+    - 30
+    5:
+    - 31
+    7:
+    - 32
+    23:
+    - 35
+    4:
+    - 36

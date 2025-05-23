@@ -1,0 +1,56 @@
+number: '027'
+short_name: CreuxDEntier
+status: clean
+type_of_correction: no correction
+type_dataset: Call for data
+original_format: Toporobot
+original - sql: .nan
+length_approx_meter: 1397.0
+connected_components: single cave
+license: CC BY-NC-SA 4.0
+id_dataset: LS
+comments_cave_info: .nan
+full_name: Creux d'entier
+all_data_format: Toporobot, Visual Topo
+geometry: lrud
+units: meter
+original_filename: Creux d'Entier_01.Text
+original_encoding: IS0 8859-1
+crs: epsg:21781
+crs_other: epsg:21781 (CH 1903 LV03 - Old)
+country: Switzerland
+state: Bern/Berne
+area: .nan
+locality: Petit-Val
+grotto_id: '5496'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: CH1903/LV03
+local_easting_coordinate: 580740.0
+local_northing_coordinate: 236375.0
+latitude: 47.2794
+longitude: 7.185
+altitude: '935'
+length_official_meter: '1730'
+length_dataset: .nan
+denivelation: '159'
+cave_url: https://grottocenter.org/ui/entrances/5496
+supplemental_links: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 05 May 2025

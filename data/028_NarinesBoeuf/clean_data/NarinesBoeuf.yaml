@@ -1,10 +1,11 @@
 metadata:
   number: 028
   short_name: NarinesBoeuf
-  status: in github (cleaning in progress)
+  status: clean
   type_of_correction: no correction
   type_dataset: Call for data
   original_format: Toporobot
+  original - sql: .nan
   length_approx_meter: 675.0
   connected_components: single cave
   license: CC BY-NC-SA 4.0
@@ -18,21 +19,23 @@ metadata:
   original_encoding: Mac Roman
   crs: epsg:21781
   crs_other: epsg:21781 (CH 1903 LV03 - Old)
-  translation: .nan
   country: Switzerland
-  state: .nan
+  state: Jura
   area: .nan
-  locality: .nan
-  grotto_id: .nan
+  locality: Saicourt
+  grotto_id: '5499'
   country_cave_id: .nan
   local_id: .nan
-  latitude: .nan
-  longitude: .nan
-  altitude: .nan
-  length_official_meter: .nan
+  local_coordinate_system: CH1903/LV03
+  local_easting_coordinate: 579600.0
+  local_northing_coordinate: 233250.0
+  latitude: 47.2499
+  longitude: 7.1739
+  altitude: '954'
+  length_official_meter: '635'
   length_dataset: .nan
-  denivelation: .nan
-  cave_url: .nan
+  denivelation: '116'
+  cave_url: https://grottocenter.org/ui/entrances/5499
   supplemental_links: .nan
   contract_file: .nan
   data_reception_date: .nan
@@ -51,7 +54,7 @@ metadata:
   statistical_results: .nan
   sample_figures: .nan
   comments_dataset: .nan
-  last_processing_date: 03 Mar 2025
+  last_processing_date: 05 May 2025
 edges:
 - - 82
   - 0
@@ -63,6 +66,10 @@ edges:
   - 79
 - - 9
   - 92
+- - 79
+  - 59
+- - 79
+  - 15
 - - 92
   - 96
 - - 96
@@ -73,6 +80,10 @@ edges:
   - 116
 - - 60
   - 30
+- - 4
+  - 87
+- - 116
+  - 111
 - - 30
   - 48
 - - 48
@@ -103,10 +114,16 @@ edges:
   - 50
 - - 33
   - 36
+- - 105
+  - 126
 - - 50
   - 23
+- - 36
+  - 97
 - - 23
   - 127
+- - 23
+  - 46
 - - 127
   - 47
 - - 47
@@ -115,8 +132,6 @@ edges:
   - 61
 - - 83
   - 106
-- - 36
-  - 97
 - - 97
   - 62
 - - 62
@@ -125,10 +140,6 @@ edges:
   - 31
 - - 31
   - 24
-- - 4
-  - 87
-- - 116
-  - 111
 - - 111
   - 77
 - - 77
@@ -151,16 +162,12 @@ edges:
   - 100
 - - 2
   - 102
+- - 100
+  - 20
 - - 102
   - 113
 - - 113
   - 10
-- - 79
-  - 59
-- - 79
-  - 15
-- - 100
-  - 20
 - - 15
   - 70
 - - 70
@@ -177,32 +184,30 @@ edges:
   - 53
 - - 123
   - 98
+- - 53
+  - 118
 - - 98
   - 71
 - - 71
   - 43
 - - 43
   - 80
-- - 53
-  - 118
 - - 118
   - 64
 - - 118
   - 85
 - - 64
   - 13
+- - 85
+  - 3
 - - 13
   - 117
 - - 117
   - 8
-- - 85
-  - 3
 - - 3
   - 51
 - - 51
   - 121
-- - 105
-  - 126
 - - 126
   - 17
 - - 17
@@ -221,6 +226,8 @@ edges:
   - 107
 - - 90
   - 54
+- - 107
+  - 19
 - - 54
   - 130
 - - 130
@@ -237,8 +244,8 @@ edges:
   - 11
 - - 93
   - 76
-- - 107
-  - 19
+- - 11
+  - 44
 - - 19
   - 5
 - - 5
@@ -257,6 +264,8 @@ edges:
   - 21
 - - 26
   - 95
+- - 21
+  - 99
 - - 95
   - 6
 - - 6
@@ -283,6 +292,8 @@ edges:
   - 75
 - - 88
   - 124
+- - 75
+  - 7
 - - 124
   - 84
 - - 84
@@ -295,604 +306,30 @@ edges:
   - 27
 - - 27
   - 110
-- - 75
-  - 7
 - - 7
   - 114
 - - 114
   - 52
 - - 114
   - 58
-- - 11
-  - 44
 - - 44
   - 104
 - - 104
   - 89
 - - 89
   - 46
-- - 21
-  - 99
 - - 99
   - 125
 - - 125
   - 109
-node_attributes:
-  idsql:
-    82:
-    - 1
-    0:
-    - 2
-    131:
-    - 3
-    - 57
-    9:
-    - 4
-    - 5
-    92:
-    - 6
-    - 7
-    96:
-    - 8
-    - 38
-    - 42
-    60:
-    - 9
-    30:
-    - 10
-    48:
-    - 11
-    34:
-    - 12
-    29:
-    - 13
-    81:
-    - 14
-    14:
-    - 15
-    - 41
-    28:
-    - 16
-    115:
-    - 17
-    40:
-    - 18
-    69:
-    - 19
-    38:
-    - 20
-    - 87
-    33:
-    - 21
-    - 31
-    50:
-    - 22
-    23:
-    - 23
-    - 24
-    127:
-    - 25
-    47:
-    - 26
-    - 29
-    83:
-    - 27
-    106:
-    - 28
-    61:
-    - 30
-    36:
-    - 32
-    97:
-    - 33
-    62:
-    - 34
-    42:
-    - 35
-    31:
-    - 36
-    24:
-    - 37
-    4:
-    - 39
-    87:
-    - 40
-    116:
-    - 43
-    111:
-    - 44
-    77:
-    - 45
-    86:
-    - 46
-    37:
-    - 47
-    1:
-    - 48
-    49:
-    - 49
-    12:
-    - 50
-    16:
-    - 51
-    63:
-    - 52
-    - 60
-    2:
-    - 53
-    102:
-    - 54
-    113:
-    - 55
-    10:
-    - 56
-    79:
-    - 58
-    - 63
-    59:
-    - 59
-    100:
-    - 61
-    20:
-    - 62
-    15:
-    - 64
-    70:
-    - 65
-    78:
-    - 66
-    94:
-    - 67
-    74:
-    - 68
-    22:
-    - 69
-    - 75
-    123:
-    - 70
-    98:
-    - 71
-    71:
-    - 72
-    43:
-    - 73
-    80:
-    - 74
-    53:
-    - 76
-    118:
-    - 77
-    - 82
-    64:
-    - 78
-    13:
-    - 79
-    117:
-    - 80
-    8:
-    - 81
-    85:
-    - 83
-    3:
-    - 84
-    51:
-    - 85
-    121:
-    - 86
-    105:
-    - 88
-    126:
-    - 89
-    17:
-    - 90
-    112:
-    - 91
-    128:
-    - 92
-    91:
-    - 93
-    18:
-    - 94
-    68:
-    - 95
-    - 105
-    90:
-    - 96
-    54:
-    - 97
-    130:
-    - 98
-    32:
-    - 99
-    72:
-    - 100
-    65:
-    - 101
-    122:
-    - 102
-    - 143
-    93:
-    - 103
-    76:
-    - 104
-    107:
-    - 106
-    19:
-    - 107
-    5:
-    - 108
-    55:
-    - 109
-    35:
-    - 110
-    - 113
-    108:
-    - 111
-    129:
-    - 112
-    119:
-    - 114
-    - 149
-    26:
-    - 115
-    95:
-    - 116
-    - 117
-    6:
-    - 118
-    66:
-    - 119
-    103:
-    - 120
-    101:
-    - 121
-    39:
-    - 122
-    120:
-    - 123
-    57:
-    - 124
-    25:
-    - 125
-    45:
-    - 126
-    73:
-    - 127
-    - 136
-    88:
-    - 128
-    124:
-    - 129
-    84:
-    - 130
-    41:
-    - 131
-    56:
-    - 132
-    67:
-    - 133
-    27:
-    - 134
-    110:
-    - 135
-    75:
-    - 137
-    7:
-    - 138
-    114:
-    - 139
-    - 141
-    52:
-    - 140
-    58:
-    - 142
-    11:
-    - 144
-    44:
-    - 145
-    104:
-    - 146
-    89:
-    - 147
-    46:
-    - 148
-    21:
-    - 150
-    99:
-    - 151
-    125:
-    - 152
-    109:
-    - 153
-  fulladdress:
-    82:
-    - NarinesBoeuf.1.0
-    0:
-    - NarinesBoeuf.1.1
-    131:
-    - NarinesBoeuf.1.2
-    - NarinesBoeuf.6.1
-    9:
-    - NarinesBoeuf.1.3
-    - NarinesBoeuf.1.4
-    92:
-    - NarinesBoeuf.1.5
-    - NarinesBoeuf.1.6
-    96:
-    - NarinesBoeuf.1.7
-    - NarinesBoeuf.4.0
-    - NarinesBoeuf.5.0
-    60:
-    - NarinesBoeuf.1.8
-    30:
-    - NarinesBoeuf.1.9
-    48:
-    - NarinesBoeuf.1.10
-    34:
-    - NarinesBoeuf.1.11
-    29:
-    - NarinesBoeuf.1.12
-    81:
-    - NarinesBoeuf.1.13
-    14:
-    - NarinesBoeuf.1.14
-    - NarinesBoeuf.4.3
-    28:
-    - NarinesBoeuf.1.15
-    115:
-    - NarinesBoeuf.1.16
-    40:
-    - NarinesBoeuf.1.17
-    69:
-    - NarinesBoeuf.1.18
-    38:
-    - NarinesBoeuf.1.19
-    - NarinesBoeuf.11.0
-    33:
-    - NarinesBoeuf.1.20
-    - NarinesBoeuf.3.0
-    50:
-    - NarinesBoeuf.1.21
-    23:
-    - NarinesBoeuf.1.22
-    - NarinesBoeuf.1.23
-    127:
-    - NarinesBoeuf.1.24
-    47:
-    - NarinesBoeuf.1.25
-    - NarinesBoeuf.2.0
-    83:
-    - NarinesBoeuf.1.26
-    106:
-    - NarinesBoeuf.1.27
-    61:
-    - NarinesBoeuf.2.1
-    36:
-    - NarinesBoeuf.3.1
-    97:
-    - NarinesBoeuf.3.2
-    62:
-    - NarinesBoeuf.3.3
-    42:
-    - NarinesBoeuf.3.4
-    31:
-    - NarinesBoeuf.3.5
-    24:
-    - NarinesBoeuf.3.6
-    4:
-    - NarinesBoeuf.4.1
-    87:
-    - NarinesBoeuf.4.2
-    116:
-    - NarinesBoeuf.5.1
-    111:
-    - NarinesBoeuf.5.2
-    77:
-    - NarinesBoeuf.5.3
-    86:
-    - NarinesBoeuf.5.4
-    37:
-    - NarinesBoeuf.5.5
-    1:
-    - NarinesBoeuf.5.6
-    49:
-    - NarinesBoeuf.5.7
-    12:
-    - NarinesBoeuf.5.8
-    16:
-    - NarinesBoeuf.5.9
-    63:
-    - NarinesBoeuf.5.10
-    - NarinesBoeuf.7.0
-    2:
-    - NarinesBoeuf.5.11
-    102:
-    - NarinesBoeuf.5.12
-    113:
-    - NarinesBoeuf.5.13
-    10:
-    - NarinesBoeuf.5.14
-    79:
-    - NarinesBoeuf.6.2
-    - NarinesBoeuf.8.0
-    59:
-    - NarinesBoeuf.6.3
-    100:
-    - NarinesBoeuf.7.1
-    20:
-    - NarinesBoeuf.7.2
-    15:
-    - NarinesBoeuf.8.1
-    70:
-    - NarinesBoeuf.8.2
-    78:
-    - NarinesBoeuf.8.3
-    94:
-    - NarinesBoeuf.8.4
-    74:
-    - NarinesBoeuf.8.5
-    22:
-    - NarinesBoeuf.8.6
-    - NarinesBoeuf.9.0
-    123:
-    - NarinesBoeuf.8.7
-    98:
-    - NarinesBoeuf.8.8
-    71:
-    - NarinesBoeuf.8.9
-    43:
-    - NarinesBoeuf.8.10
-    80:
-    - NarinesBoeuf.8.11
-    53:
-    - NarinesBoeuf.9.1
-    118:
-    - NarinesBoeuf.9.2
-    - NarinesBoeuf.10.0
-    64:
-    - NarinesBoeuf.9.3
-    13:
-    - NarinesBoeuf.9.4
-    117:
-    - NarinesBoeuf.9.5
-    8:
-    - NarinesBoeuf.9.6
-    85:
-    - NarinesBoeuf.10.1
-    3:
-    - NarinesBoeuf.10.2
-    51:
-    - NarinesBoeuf.10.3
-    121:
-    - NarinesBoeuf.10.4
-    105:
-    - NarinesBoeuf.11.1
-    126:
-    - NarinesBoeuf.11.2
-    17:
-    - NarinesBoeuf.11.3
-    112:
-    - NarinesBoeuf.11.4
-    128:
-    - NarinesBoeuf.11.5
-    91:
-    - NarinesBoeuf.11.6
-    18:
-    - NarinesBoeuf.11.7
-    68:
-    - NarinesBoeuf.11.8
-    - NarinesBoeuf.12.0
-    90:
-    - NarinesBoeuf.11.9
-    54:
-    - NarinesBoeuf.11.10
-    130:
-    - NarinesBoeuf.11.11
-    32:
-    - NarinesBoeuf.11.12
-    72:
-    - NarinesBoeuf.11.13
-    65:
-    - NarinesBoeuf.11.14
-    122:
-    - NarinesBoeuf.11.15
-    - NarinesBoeuf.16.0
-    93:
-    - NarinesBoeuf.11.16
-    76:
-    - NarinesBoeuf.11.17
-    107:
-    - NarinesBoeuf.12.1
-    19:
-    - NarinesBoeuf.12.2
-    5:
-    - NarinesBoeuf.12.3
-    55:
-    - NarinesBoeuf.12.4
-    35:
-    - NarinesBoeuf.12.5
-    - NarinesBoeuf.13.0
-    108:
-    - NarinesBoeuf.12.6
-    129:
-    - NarinesBoeuf.12.7
-    119:
-    - NarinesBoeuf.13.1
-    - NarinesBoeuf.17.0
-    26:
-    - NarinesBoeuf.13.2
-    95:
-    - NarinesBoeuf.13.3
-    - NarinesBoeuf.13.4
-    6:
-    - NarinesBoeuf.13.5
-    66:
-    - NarinesBoeuf.13.6
-    103:
-    - NarinesBoeuf.13.7
-    101:
-    - NarinesBoeuf.13.8
-    39:
-    - NarinesBoeuf.13.9
-    120:
-    - NarinesBoeuf.13.10
-    57:
-    - NarinesBoeuf.13.11
-    25:
-    - NarinesBoeuf.13.12
-    45:
-    - NarinesBoeuf.13.13
-    73:
-    - NarinesBoeuf.13.14
-    - NarinesBoeuf.14.0
-    88:
-    - NarinesBoeuf.13.15
-    124:
-    - NarinesBoeuf.13.16
-    84:
-    - NarinesBoeuf.13.17
-    41:
-    - NarinesBoeuf.13.18
-    56:
-    - NarinesBoeuf.13.19
-    67:
-    - NarinesBoeuf.13.20
-    27:
-    - NarinesBoeuf.13.21
-    110:
-    - NarinesBoeuf.13.22
-    75:
-    - NarinesBoeuf.14.1
-    7:
-    - NarinesBoeuf.14.2
-    114:
-    - NarinesBoeuf.14.3
-    - NarinesBoeuf.15.0
-    52:
-    - NarinesBoeuf.14.4
-    58:
-    - NarinesBoeuf.15.1
-    11:
-    - NarinesBoeuf.16.1
-    44:
-    - NarinesBoeuf.16.2
-    104:
-    - NarinesBoeuf.16.3
-    89:
-    - NarinesBoeuf.16.4
-    46:
-    - NarinesBoeuf.16.5
-    21:
-    - NarinesBoeuf.17.1
-    99:
-    - NarinesBoeuf.17.2
-    125:
-    - NarinesBoeuf.17.3
-    109:
-    - NarinesBoeuf.17.4
+edge_attributes:
   flags:
-    82:
-    - fix
+    ? !!python/tuple
+    - 23
+    - 46
+    : - add
+      - add
+node_attributes:
   csdim:
     82:
     - 1.2
@@ -903,6 +340,12 @@ node_attributes:
     60:
     - 5.2
     - 12.7
+    4:
+    - 10.3
+    - 21.0
+    116:
+    - 2.5
+    - 3.0
     30:
     - 5.2
     - 16.5
@@ -921,6 +364,9 @@ node_attributes:
     28:
     - 6.5
     - 23.5
+    87:
+    - 5.5
+    - 21.7
     115:
     - 6.8
     - 24.0
@@ -930,24 +376,27 @@ node_attributes:
     69:
     - 7.5
     - 19.5
+    105:
+    - 5.0
+    - 18.5
     50:
     - 7.5
     - 5.0
+    36:
+    - 1.6
+    - 2.5
     127:
     - 4.0
     - 3.7
     83:
     - 6.2
     - 2.2
-    106:
-    - 0.5
-    - 1.2
     61:
     - 2.0
     - 1.0
-    36:
-    - 1.6
-    - 2.5
+    106:
+    - 0.5
+    - 1.2
     97:
     - 1.2
     - 2.2
@@ -963,15 +412,6 @@ node_attributes:
     24:
     - 0.7
     - 2.0
-    4:
-    - 10.3
-    - 21.0
-    87:
-    - 5.5
-    - 21.7
-    116:
-    - 2.5
-    - 3.0
     111:
     - 2.5
     - 3.5
@@ -999,6 +439,9 @@ node_attributes:
     2:
     - 1.3
     - 2.4
+    100:
+    - 1.4
+    - 1.5
     102:
     - 0.5
     - 0.6
@@ -1011,15 +454,12 @@ node_attributes:
     59:
     - 4.0
     - 2.5
-    100:
-    - 1.4
-    - 1.5
-    20:
-    - 0.5
-    - 1.2
     15:
     - 0.8
     - 0.9
+    20:
+    - 0.5
+    - 1.2
     70:
     - 1.3
     - 1.4
@@ -1035,6 +475,9 @@ node_attributes:
     123:
     - 2.0
     - 1.5
+    53:
+    - 1.0
+    - 1.3
     98:
     - 1.1
     - 1.0
@@ -1047,12 +490,12 @@ node_attributes:
     80:
     - 0.5
     - 1.0
-    53:
-    - 1.0
-    - 1.3
     64:
     - 0.9
     - 2.2
+    85:
+    - 1.0
+    - 2.0
     13:
     - 0.6
     - 2.2
@@ -1062,9 +505,6 @@ node_attributes:
     8:
     - 2.0
     - 25.0
-    85:
-    - 1.0
-    - 2.0
     3:
     - 0.9
     - 2.1
@@ -1074,9 +514,6 @@ node_attributes:
     121:
     - 1.4
     - 4.5
-    105:
-    - 5.0
-    - 18.5
     126:
     - 1.8
     - 7.0
@@ -1098,6 +535,9 @@ node_attributes:
     90:
     - 2.7
     - 0.8
+    107:
+    - 7.7
+    - 7.0
     54:
     - 2.2
     - 1.4
@@ -1116,12 +556,12 @@ node_attributes:
     93:
     - 1.3
     - 1.2
+    11:
+    - 1.1
+    - 1.5
     76:
     - 0.4
     - 0.1
-    107:
-    - 7.7
-    - 7.0
     19:
     - 3.2
     - 5.4
@@ -1140,6 +580,9 @@ node_attributes:
     26:
     - 0.5
     - 0.6
+    21:
+    - 0.8999999999999999
+    - 0.7
     6:
     - 0.5
     - 4.0
@@ -1170,6 +613,9 @@ node_attributes:
     88:
     - 0.4
     - 1.2999999999999998
+    75:
+    - 0.8
+    - 0.5
     124:
     - 0.5
     - 1.5
@@ -1191,9 +637,6 @@ node_attributes:
     110:
     - 0.4
     - 0.3
-    75:
-    - 0.8
-    - 0.5
     7:
     - 0.5
     - 0.6
@@ -1203,9 +646,6 @@ node_attributes:
     58:
     - 3.9
     - 0.8
-    11:
-    - 1.1
-    - 1.5
     44:
     - 1.9000000000000001
     - 1.2999999999999998
@@ -1218,9 +658,6 @@ node_attributes:
     46:
     - 4.5
     - 9.0
-    21:
-    - 0.8999999999999999
-    - 0.7
     99:
     - 0.6
     - 0.5
@@ -1230,6 +667,296 @@ node_attributes:
     109:
     - 1.1
     - 2.5
+  flags:
+    82:
+    - fix
+    - ent
+  fulladdress:
+    82:
+    - NarinesBoeuf.1.0
+    0:
+    - NarinesBoeuf.1.1
+    131:
+    - NarinesBoeuf.1.2
+    - NarinesBoeuf.6.1
+    9:
+    - NarinesBoeuf.1.3
+    - NarinesBoeuf.1.4
+    79:
+    - NarinesBoeuf.6.2
+    - NarinesBoeuf.8.0
+    92:
+    - NarinesBoeuf.1.5
+    - NarinesBoeuf.1.6
+    96:
+    - NarinesBoeuf.1.7
+    - NarinesBoeuf.4.0
+    - NarinesBoeuf.5.0
+    60:
+    - NarinesBoeuf.1.8
+    4:
+    - NarinesBoeuf.4.1
+    116:
+    - NarinesBoeuf.5.1
+    30:
+    - NarinesBoeuf.1.9
+    48:
+    - NarinesBoeuf.1.10
+    34:
+    - NarinesBoeuf.1.11
+    29:
+    - NarinesBoeuf.1.12
+    81:
+    - NarinesBoeuf.1.13
+    14:
+    - NarinesBoeuf.1.14
+    - NarinesBoeuf.4.3
+    28:
+    - NarinesBoeuf.1.15
+    87:
+    - NarinesBoeuf.4.2
+    115:
+    - NarinesBoeuf.1.16
+    40:
+    - NarinesBoeuf.1.17
+    69:
+    - NarinesBoeuf.1.18
+    38:
+    - NarinesBoeuf.1.19
+    - NarinesBoeuf.11.0
+    33:
+    - NarinesBoeuf.1.20
+    - NarinesBoeuf.3.0
+    105:
+    - NarinesBoeuf.11.1
+    50:
+    - NarinesBoeuf.1.21
+    36:
+    - NarinesBoeuf.3.1
+    23:
+    - NarinesBoeuf.1.22
+    - NarinesBoeuf.1.23
+    127:
+    - NarinesBoeuf.1.24
+    47:
+    - NarinesBoeuf.1.25
+    - NarinesBoeuf.2.0
+    83:
+    - NarinesBoeuf.1.26
+    61:
+    - NarinesBoeuf.2.1
+    106:
+    - NarinesBoeuf.1.27
+    97:
+    - NarinesBoeuf.3.2
+    62:
+    - NarinesBoeuf.3.3
+    42:
+    - NarinesBoeuf.3.4
+    31:
+    - NarinesBoeuf.3.5
+    24:
+    - NarinesBoeuf.3.6
+    111:
+    - NarinesBoeuf.5.2
+    77:
+    - NarinesBoeuf.5.3
+    86:
+    - NarinesBoeuf.5.4
+    37:
+    - NarinesBoeuf.5.5
+    1:
+    - NarinesBoeuf.5.6
+    49:
+    - NarinesBoeuf.5.7
+    12:
+    - NarinesBoeuf.5.8
+    16:
+    - NarinesBoeuf.5.9
+    63:
+    - NarinesBoeuf.5.10
+    - NarinesBoeuf.7.0
+    2:
+    - NarinesBoeuf.5.11
+    100:
+    - NarinesBoeuf.7.1
+    102:
+    - NarinesBoeuf.5.12
+    113:
+    - NarinesBoeuf.5.13
+    10:
+    - NarinesBoeuf.5.14
+    59:
+    - NarinesBoeuf.6.3
+    15:
+    - NarinesBoeuf.8.1
+    20:
+    - NarinesBoeuf.7.2
+    70:
+    - NarinesBoeuf.8.2
+    78:
+    - NarinesBoeuf.8.3
+    94:
+    - NarinesBoeuf.8.4
+    74:
+    - NarinesBoeuf.8.5
+    22:
+    - NarinesBoeuf.8.6
+    - NarinesBoeuf.9.0
+    123:
+    - NarinesBoeuf.8.7
+    53:
+    - NarinesBoeuf.9.1
+    98:
+    - NarinesBoeuf.8.8
+    71:
+    - NarinesBoeuf.8.9
+    43:
+    - NarinesBoeuf.8.10
+    80:
+    - NarinesBoeuf.8.11
+    118:
+    - NarinesBoeuf.9.2
+    - NarinesBoeuf.10.0
+    64:
+    - NarinesBoeuf.9.3
+    85:
+    - NarinesBoeuf.10.1
+    13:
+    - NarinesBoeuf.9.4
+    117:
+    - NarinesBoeuf.9.5
+    8:
+    - NarinesBoeuf.9.6
+    3:
+    - NarinesBoeuf.10.2
+    51:
+    - NarinesBoeuf.10.3
+    121:
+    - NarinesBoeuf.10.4
+    126:
+    - NarinesBoeuf.11.2
+    17:
+    - NarinesBoeuf.11.3
+    112:
+    - NarinesBoeuf.11.4
+    128:
+    - NarinesBoeuf.11.5
+    91:
+    - NarinesBoeuf.11.6
+    18:
+    - NarinesBoeuf.11.7
+    68:
+    - NarinesBoeuf.11.8
+    - NarinesBoeuf.12.0
+    90:
+    - NarinesBoeuf.11.9
+    107:
+    - NarinesBoeuf.12.1
+    54:
+    - NarinesBoeuf.11.10
+    130:
+    - NarinesBoeuf.11.11
+    32:
+    - NarinesBoeuf.11.12
+    72:
+    - NarinesBoeuf.11.13
+    65:
+    - NarinesBoeuf.11.14
+    122:
+    - NarinesBoeuf.11.15
+    - NarinesBoeuf.16.0
+    93:
+    - NarinesBoeuf.11.16
+    11:
+    - NarinesBoeuf.16.1
+    76:
+    - NarinesBoeuf.11.17
+    19:
+    - NarinesBoeuf.12.2
+    5:
+    - NarinesBoeuf.12.3
+    55:
+    - NarinesBoeuf.12.4
+    35:
+    - NarinesBoeuf.12.5
+    - NarinesBoeuf.13.0
+    108:
+    - NarinesBoeuf.12.6
+    119:
+    - NarinesBoeuf.13.1
+    - NarinesBoeuf.17.0
+    129:
+    - NarinesBoeuf.12.7
+    26:
+    - NarinesBoeuf.13.2
+    21:
+    - NarinesBoeuf.17.1
+    95:
+    - NarinesBoeuf.13.3
+    - NarinesBoeuf.13.4
+    6:
+    - NarinesBoeuf.13.5
+    66:
+    - NarinesBoeuf.13.6
+    103:
+    - NarinesBoeuf.13.7
+    101:
+    - NarinesBoeuf.13.8
+    39:
+    - NarinesBoeuf.13.9
+    120:
+    - NarinesBoeuf.13.10
+    57:
+    - NarinesBoeuf.13.11
+    25:
+    - NarinesBoeuf.13.12
+    45:
+    - NarinesBoeuf.13.13
+    73:
+    - NarinesBoeuf.13.14
+    - NarinesBoeuf.14.0
+    88:
+    - NarinesBoeuf.13.15
+    75:
+    - NarinesBoeuf.14.1
+    124:
+    - NarinesBoeuf.13.16
+    84:
+    - NarinesBoeuf.13.17
+    41:
+    - NarinesBoeuf.13.18
+    56:
+    - NarinesBoeuf.13.19
+    67:
+    - NarinesBoeuf.13.20
+    27:
+    - NarinesBoeuf.13.21
+    110:
+    - NarinesBoeuf.13.22
+    7:
+    - NarinesBoeuf.14.2
+    114:
+    - NarinesBoeuf.14.3
+    - NarinesBoeuf.15.0
+    52:
+    - NarinesBoeuf.14.4
+    58:
+    - NarinesBoeuf.15.1
+    44:
+    - NarinesBoeuf.16.2
+    104:
+    - NarinesBoeuf.16.3
+    89:
+    - NarinesBoeuf.16.4
+    46:
+    - NarinesBoeuf.16.5
+    99:
+    - NarinesBoeuf.17.2
+    125:
+    - NarinesBoeuf.17.3
+    109:
+    - NarinesBoeuf.17.4
   pos:
     82:
     - 579600.0
@@ -1247,6 +974,10 @@ node_attributes:
     - 579598.86
     - 233250.52
     - 944.05
+    79:
+    - 579605.84
+    - 233242.98
+    - 961.44
     92:
     - 579600.15
     - 233261.5
@@ -1259,6 +990,14 @@ node_attributes:
     - 579619.31
     - 233257.21
     - 916.11
+    4:
+    - 579619.38
+    - 233260.92
+    - 929.74
+    116:
+    - 579613.7
+    - 233261.74
+    - 928.19
     30:
     - 579621.02
     - 233259.13
@@ -1287,6 +1026,10 @@ node_attributes:
     - 579622.44
     - 233265.88
     - 903.37
+    87:
+    - 579621.8
+    - 233264.35
+    - 929.49
     115:
     - 579622.44
     - 233265.88
@@ -1307,10 +1050,18 @@ node_attributes:
     - 579628.1
     - 233282.94
     - 882.96
+    105:
+    - 579629.16
+    - 233278.1
+    - 887.56
     50:
     - 579627.91
     - 233290.59
     - 873.72
+    36:
+    - 579635.87
+    - 233281.53
+    - 884.22
     23:
     - 579630.1
     - 233292.5
@@ -1327,18 +1078,14 @@ node_attributes:
     - 579632.98
     - 233309.92
     - 861.47
-    106:
-    - 579634.26
-    - 233318.49
-    - 868.88
     61:
     - 579631.07
     - 233302.77
     - 853.81
-    36:
-    - 579635.87
-    - 233281.53
-    - 884.22
+    106:
+    - 579634.26
+    - 233318.49
+    - 868.88
     97:
     - 579634.07
     - 233275.14
@@ -1359,18 +1106,6 @@ node_attributes:
     - 579638.89
     - 233267.42
     - 892.38
-    4:
-    - 579619.38
-    - 233260.92
-    - 929.74
-    87:
-    - 579621.8
-    - 233264.35
-    - 929.49
-    116:
-    - 579613.7
-    - 233261.74
-    - 928.19
     111:
     - 579613.7
     - 233261.74
@@ -1411,6 +1146,10 @@ node_attributes:
     - 579615.21
     - 233286.05
     - 889.35
+    100:
+    - 579617.24
+    - 233290.13
+    - 894.0
     102:
     - 579616.89
     - 233289.42
@@ -1423,26 +1162,18 @@ node_attributes:
     - 579617.75
     - 233291.53
     - 881.86
-    79:
-    - 579605.84
-    - 233242.98
-    - 961.44
     59:
     - 579602.16
     - 233232.99
     - 970.53
-    100:
-    - 579617.24
-    - 233290.13
-    - 894.0
-    20:
-    - 579613.39
-    - 233291.21
-    - 894.0
     15:
     - 579605.05
     - 233239.78
     - 961.59
+    20:
+    - 579613.39
+    - 233291.21
+    - 894.0
     70:
     - 579605.05
     - 233239.78
@@ -1467,6 +1198,10 @@ node_attributes:
     - 579605.8
     - 233238.28
     - 933.76
+    53:
+    - 579610.59
+    - 233242.85
+    - 943.61
     98:
     - 579604.52
     - 233238.48
@@ -1483,10 +1218,6 @@ node_attributes:
     - 579607.85
     - 233243.01
     - 920.35
-    53:
-    - 579610.59
-    - 233242.85
-    - 943.61
     118:
     - 579610.43
     - 233244.65
@@ -1495,6 +1226,10 @@ node_attributes:
     - 579611.93
     - 233245.46
     - 942.44
+    85:
+    - 579615.56
+    - 233242.67
+    - 943.02
     13:
     - 579611.66
     - 233248.09
@@ -1507,10 +1242,6 @@ node_attributes:
     - 579618.29
     - 233256.14
     - 936.69
-    85:
-    - 579615.56
-    - 233242.67
-    - 943.02
     3:
     - 579616.47
     - 233244.14
@@ -1523,10 +1254,6 @@ node_attributes:
     - 579620.75
     - 233245.31
     - 942.44
-    105:
-    - 579629.16
-    - 233278.1
-    - 887.56
     126:
     - 579629.16
     - 233278.1
@@ -1559,6 +1286,10 @@ node_attributes:
     - 579640.44
     - 233273.25
     - 914.4
+    107:
+    - 579639.28
+    - 233268.2
+    - 923.47
     54:
     - 579644.17
     - 233273.56
@@ -1587,14 +1318,14 @@ node_attributes:
     - 579640.93
     - 233279.54
     - 904.77
+    11:
+    - 579644.47
+    - 233283.74
+    - 896.94
     76:
     - 579640.74
     - 233281.48
     - 902.63
-    107:
-    - 579639.28
-    - 233268.2
-    - 923.47
     19:
     - 579640.1
     - 233264.83
@@ -1615,18 +1346,22 @@ node_attributes:
     - 579642.06
     - 233253.97
     - 939.35
-    129:
-    - 579637.85
-    - 233253.29
-    - 941.96
     119:
     - 579648.42
     - 233249.66
     - 938.34
+    129:
+    - 579637.85
+    - 233253.29
+    - 941.96
     26:
     - 579649.68
     - 233248.95
     - 939.05
+    21:
+    - 579649.35
+    - 233244.89
+    - 941.86
     95:
     - 579651.24
     - 233248.47
@@ -1675,6 +1410,10 @@ node_attributes:
     - 579668.13
     - 233240.86
     - 931.19
+    75:
+    - 579668.74
+    - 233240.62
+    - 930.52
     124:
     - 579666.7
     - 233239.85
@@ -1703,10 +1442,6 @@ node_attributes:
     - 579666.62
     - 233230.2
     - 925.6
-    75:
-    - 579668.74
-    - 233240.62
-    - 930.52
     7:
     - 579670.81
     - 233241.06
@@ -1723,10 +1458,6 @@ node_attributes:
     - 579674.41
     - 233242.04
     - 926.87
-    11:
-    - 579644.47
-    - 233283.74
-    - 896.94
     44:
     - 579639.27
     - 233285.59
@@ -1743,10 +1474,6 @@ node_attributes:
     - 579633.16
     - 233289.35
     - 893.09
-    21:
-    - 579649.35
-    - 233244.89
-    - 941.86
     99:
     - 579648.39
     - 233245.12
@@ -1759,3 +1486,292 @@ node_attributes:
     - 579641.3
     - 233244.77
     - 942.35
+  comments:
+    82:
+    - Entree
+  idsql:
+    82:
+    - 1
+    0:
+    - 2
+    131:
+    - 3
+    - 57
+    9:
+    - 4
+    - 5
+    79:
+    - 58
+    - 63
+    92:
+    - 6
+    - 7
+    96:
+    - 8
+    - 38
+    - 42
+    60:
+    - 9
+    4:
+    - 39
+    116:
+    - 43
+    30:
+    - 10
+    48:
+    - 11
+    34:
+    - 12
+    29:
+    - 13
+    81:
+    - 14
+    14:
+    - 15
+    - 41
+    28:
+    - 16
+    87:
+    - 40
+    115:
+    - 17
+    40:
+    - 18
+    69:
+    - 19
+    38:
+    - 20
+    - 87
+    33:
+    - 21
+    - 31
+    105:
+    - 88
+    50:
+    - 22
+    36:
+    - 32
+    23:
+    - 23
+    - 24
+    127:
+    - 25
+    47:
+    - 26
+    - 29
+    83:
+    - 27
+    61:
+    - 30
+    106:
+    - 28
+    97:
+    - 33
+    62:
+    - 34
+    42:
+    - 35
+    31:
+    - 36
+    24:
+    - 37
+    111:
+    - 44
+    77:
+    - 45
+    86:
+    - 46
+    37:
+    - 47
+    1:
+    - 48
+    49:
+    - 49
+    12:
+    - 50
+    16:
+    - 51
+    63:
+    - 52
+    - 60
+    2:
+    - 53
+    100:
+    - 61
+    102:
+    - 54
+    113:
+    - 55
+    10:
+    - 56
+    59:
+    - 59
+    15:
+    - 64
+    20:
+    - 62
+    70:
+    - 65
+    78:
+    - 66
+    94:
+    - 67
+    74:
+    - 68
+    22:
+    - 69
+    - 75
+    123:
+    - 70
+    53:
+    - 76
+    98:
+    - 71
+    71:
+    - 72
+    43:
+    - 73
+    80:
+    - 74
+    118:
+    - 77
+    - 82
+    64:
+    - 78
+    85:
+    - 83
+    13:
+    - 79
+    117:
+    - 80
+    8:
+    - 81
+    3:
+    - 84
+    51:
+    - 85
+    121:
+    - 86
+    126:
+    - 89
+    17:
+    - 90
+    112:
+    - 91
+    128:
+    - 92
+    91:
+    - 93
+    18:
+    - 94
+    68:
+    - 95
+    - 105
+    90:
+    - 96
+    107:
+    - 106
+    54:
+    - 97
+    130:
+    - 98
+    32:
+    - 99
+    72:
+    - 100
+    65:
+    - 101
+    122:
+    - 102
+    - 143
+    93:
+    - 103
+    11:
+    - 144
+    76:
+    - 104
+    19:
+    - 107
+    5:
+    - 108
+    55:
+    - 109
+    35:
+    - 110
+    - 113
+    108:
+    - 111
+    119:
+    - 114
+    - 149
+    129:
+    - 112
+    26:
+    - 115
+    21:
+    - 150
+    95:
+    - 116
+    - 117
+    6:
+    - 118
+    66:
+    - 119
+    103:
+    - 120
+    101:
+    - 121
+    39:
+    - 122
+    120:
+    - 123
+    57:
+    - 124
+    25:
+    - 125
+    45:
+    - 126
+    73:
+    - 127
+    - 136
+    88:
+    - 128
+    75:
+    - 137
+    124:
+    - 129
+    84:
+    - 130
+    41:
+    - 131
+    56:
+    - 132
+    67:
+    - 133
+    27:
+    - 134
+    110:
+    - 135
+    7:
+    - 138
+    114:
+    - 139
+    - 141
+    52:
+    - 140
+    58:
+    - 142
+    44:
+    - 145
+    104:
+    - 146
+    89:
+    - 147
+    46:
+    - 148
+    99:
+    - 151
+    125:
+    - 152
+    109:
+    - 153
