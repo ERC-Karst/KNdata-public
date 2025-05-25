@@ -3,22 +3,23 @@ metadata:
   short_name: BreznoNaToscu
   status: clean
   type_of_correction: no correction
-  type_dataset: Call for data
-  original_format: Survex
-  original - sql: .nan
-  length_approx_meter: 1870.0
-  connected_components: single cave
+  last_processing_date: 05 May 2025
   license: CC BY-NC-SA 4.0
+  citation: Unknown yet
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 1870
+  percentage_csidm: 90
+  number_connected_components: 1
+  number_nodes: 361
+  number_edges: 360
+  number_cycles: 0
+  original_format: Survex
   id_dataset: SB
   comments_cave_info: .nan
   full_name: Brezno na Toscu
-  all_data_format: Survex
   geometry: splays
   units: meter
-  original_filename: .nan
-  original_encoding: .nan
-  crs: epsg:3912
-  crs_other: epsg:3912 (Slovenia)
   country: Slovenia
   state: Radovljica
   area: Triglav National Park
@@ -27,17 +28,11 @@ metadata:
   country_cave_id: '3900'
   local_id: .nan
   local_coordinate_system: .nan
-  local_easting_coordinate: .nan
-  local_northing_coordinate: .nan
   latitude: 46.34939
   longitude: 13.8619
   altitude: '1988'
-  length_official_meter: '1870'
-  length_dataset: .nan
-  denivelation: '581'
   cave_url: https://www.katasterjam.si/caves/3900?activeTab=data
   supplemental_links: .nan
-  contract_file: .nan
   data_reception_date: .nan
   data_received_by: .nan
   start_contract: .nan
@@ -45,16 +40,10 @@ metadata:
   cave_survey_owner: .nan
   website: .nan
   email_correspondant: .nan
-  citation: Unknown yet
-  thanks: .nan
-  sharing_conditions: .nan
   rawdata_rights: .nan
   clean_graph_rights: .nan
   anonymised_graph_rights: .nan
-  statistical_results: .nan
-  sample_figures: .nan
   comments_dataset: .nan
-  last_processing_date: 05 May 2025
 edges:
 - - 5
   - 216
@@ -777,6 +766,2469 @@ edges:
 - - 166
   - 246
 node_attributes:
+  idsql:
+    5:
+    - 1
+    216:
+    - 14
+    281:
+    - 45
+    161:
+    - 72
+    244:
+    - 91
+    240:
+    - 97
+    62:
+    - 109
+    198:
+    - 129
+    154:
+    - 152
+    135:
+    - 153
+    156:
+    - 165
+    176:
+    - 168
+    12:
+    - 179
+    163:
+    - 198
+    257:
+    - 219
+    280:
+    - 220
+    149:
+    - 238
+    307:
+    - 256
+    58:
+    - 257
+    290:
+    - 274
+    167:
+    - 293
+    241:
+    - 292
+    229:
+    - 314
+    220:
+    - 323
+    213:
+    - 338
+    201:
+    - 345
+    26:
+    - 354
+    90:
+    - 356
+    263:
+    - 364
+    350:
+    - 372
+    47:
+    - 385
+    182:
+    - 396
+    221:
+    - 403
+    9:
+    - 417
+    144:
+    - 418
+    342:
+    - 426
+    207:
+    - 441
+    346:
+    - 467
+    - 490
+    317:
+    - 495
+    28:
+    - 511
+    308:
+    - 531
+    230:
+    - 552
+    110:
+    - 567
+    217:
+    - 585
+    336:
+    - 616
+    131:
+    - 645
+    114:
+    - 643
+    326:
+    - 663
+    36:
+    - 684
+    168:
+    - 701
+    43:
+    - 702
+    219:
+    - 708
+    139:
+    - 716
+    320:
+    - 723
+    39:
+    - 736
+    118:
+    - 754
+    108:
+    - 778
+    270:
+    - 806
+    204:
+    - 829
+    84:
+    - 849
+    274:
+    - 865
+    197:
+    - 867
+    150:
+    - 886
+    10:
+    - 917
+    277:
+    - 946
+    304:
+    - 966
+    224:
+    - 1053
+    - 1421
+    - 1422
+    282:
+    - 985
+    49:
+    - 1011
+    271:
+    - 1052
+    297:
+    - 1069
+    68:
+    - 1423
+    254:
+    - 1088
+    296:
+    - 1119
+    31:
+    - 1143
+    157:
+    - 1163
+    343:
+    - 1184
+    148:
+    - 1199
+    311:
+    - 1213
+    260:
+    - 1229
+    247:
+    - 1234
+    354:
+    - 1253
+    21:
+    - 1270
+    113:
+    - 1284
+    121:
+    - 1299
+    345:
+    - 1323
+    258:
+    - 1351
+    287:
+    - 1387
+    351:
+    - 1392
+    293:
+    - 1420
+    - 3722
+    99:
+    - 3720
+    265:
+    - 1427
+    299:
+    - 1437
+    88:
+    - 1452
+    294:
+    - 1477
+    74:
+    - 1490
+    70:
+    - 1512
+    115:
+    - 1531
+    200:
+    - 1550
+    152:
+    - 1572
+    83:
+    - 1589
+    57:
+    - 1602
+    119:
+    - 1612
+    302:
+    - 1632
+    193:
+    - 1651
+    34:
+    - 1676
+    266:
+    - 1695
+    301:
+    - 1713
+    3:
+    - 1727
+    38:
+    - 1750
+    104:
+    - 1780
+    85:
+    - 1802
+    86:
+    - 1818
+    178:
+    - 1825
+    172:
+    - 1836
+    72:
+    - 1855
+    175:
+    - 1870
+    16:
+    - 1882
+    283:
+    - 1892
+    117:
+    - 1931
+    81:
+    - 1951
+    347:
+    - 1990
+    - 2012
+    357:
+    - 2016
+    196:
+    - 2027
+    24:
+    - 2028
+    8:
+    - 2029
+    300:
+    - 2041
+    339:
+    - 2052
+    315:
+    - 2053
+    184:
+    - 2063
+    134:
+    - 2084
+    15:
+    - 2097
+    360:
+    - 2111
+    128:
+    - 2119
+    237:
+    - 2124
+    322:
+    - 2133
+    218:
+    - 2143
+    231:
+    - 2144
+    4:
+    - 2158
+    164:
+    - 2171
+    341:
+    - 2185
+    18:
+    - 2187
+    73:
+    - 2201
+    63:
+    - 2215
+    209:
+    - 2216
+    222:
+    - 2238
+    199:
+    - 2336
+    211:
+    - 2255
+    358:
+    - 2277
+    325:
+    - 2290
+    138:
+    - 2301
+    180:
+    - 2302
+    309:
+    - 2321
+    179:
+    - 2335
+    - 2343
+    249:
+    - 2369
+    291:
+    - 2337
+    151:
+    - 2342
+    66:
+    - 2377
+    91:
+    - 2383
+    329:
+    - 2394
+    340:
+    - 2409
+    223:
+    - 2415
+    44:
+    - 2427
+    324:
+    - 2434
+    349:
+    - 2447
+    78:
+    - 2452
+    328:
+    - 2466
+    51:
+    - 2483
+    337:
+    - 2494
+    - 2767
+    272:
+    - 2503
+    285:
+    - 2769
+    79:
+    - 2512
+    187:
+    - 2521
+    316:
+    - 2532
+    319:
+    - 2544
+    76:
+    - 2554
+    234:
+    - 2567
+    82:
+    - 2576
+    40:
+    - 2590
+    158:
+    - 2601
+    160:
+    - 2608
+    46:
+    - 2621
+    - 2855
+    331:
+    - 2635
+    67:
+    - 2871
+    107:
+    - 2646
+    - 2647
+    13:
+    - 2660
+    123:
+    - 2676
+    269:
+    - 2695
+    338:
+    - 2714
+    136:
+    - 2717
+    23:
+    - 2730
+    - 3361
+    112:
+    - 2749
+    60:
+    - 3354
+    239:
+    - 2802
+    289:
+    - 2834
+    159:
+    - 2899
+    181:
+    - 2930
+    14:
+    - 2931
+    122:
+    - 2968
+    146:
+    - 2970
+    278:
+    - 2989
+    71:
+    - 2998
+    56:
+    - 3008
+    185:
+    - 3013
+    250:
+    - 3016
+    171:
+    - 3032
+    261:
+    - 3079
+    276:
+    - 3081
+    189:
+    - 3093
+    92:
+    - 3103
+    27:
+    - 3114
+    95:
+    - 3135
+    245:
+    - 3125
+    - 3362
+    267:
+    - 3132
+    353:
+    - 3369
+    59:
+    - 3148
+    130:
+    - 3164
+    30:
+    - 3176
+    335:
+    - 3187
+    103:
+    - 3200
+    35:
+    - 3215
+    6:
+    - 3226
+    264:
+    - 3242
+    251:
+    - 3263
+    105:
+    - 3279
+    142:
+    - 3295
+    165:
+    - 3302
+    352:
+    - 3315
+    255:
+    - 3333
+    120:
+    - 3347
+    42:
+    - 3348
+    186:
+    - 3391
+    330:
+    - 3401
+    169:
+    - 3409
+    210:
+    - 3418
+    262:
+    - 3441
+    0:
+    - 3451
+    145:
+    - 3460
+    50:
+    - 3468
+    126:
+    - 3478
+    253:
+    - 3488
+    298:
+    - 3499
+    295:
+    - 3512
+    77:
+    - 3513
+    52:
+    - 3530
+    155:
+    - 3540
+    286:
+    - 3549
+    54:
+    - 3557
+    321:
+    - 3566
+    313:
+    - 3574
+    174:
+    - 3575
+    143:
+    - 3609
+    80:
+    - 3639
+    116:
+    - 3675
+    65:
+    - 3651
+    292:
+    - 3691
+    - 3807
+    - 3808
+    273:
+    - 3814
+    233:
+    - 3723
+    192:
+    - 3733
+    312:
+    - 3739
+    332:
+    - 3744
+    7:
+    - 3749
+    93:
+    - 3754
+    327:
+    - 3759
+    310:
+    - 3763
+    191:
+    - 3768
+    29:
+    - 3772
+    100:
+    - 3777
+    1:
+    - 3791
+    48:
+    - 3798
+    125:
+    - 3827
+    96:
+    - 3845
+    212:
+    - 3858
+    61:
+    - 3879
+    205:
+    - 3891
+    64:
+    - 3907
+    214:
+    - 3923
+    242:
+    - 3933
+    147:
+    - 3941
+    203:
+    - 3959
+    323:
+    - 3970
+    129:
+    - 3987
+    69:
+    - 4001
+    314:
+    - 4020
+    133:
+    - 4034
+    355:
+    - 4044
+    202:
+    - 4053
+    111:
+    - 4057
+    41:
+    - 4058
+    303:
+    - 4065
+    132:
+    - 4074
+    20:
+    - 4081
+    19:
+    - 4095
+    359:
+    - 4110
+    275:
+    - 4127
+    235:
+    - 4140
+    284:
+    - 4158
+    215:
+    - 4166
+    33:
+    - 4175
+    106:
+    - 4187
+    305:
+    - 4199
+    183:
+    - 4212
+    170:
+    - 4220
+    188:
+    - 4225
+    194:
+    - 4233
+    89:
+    - 4242
+    32:
+    - 4247
+    55:
+    - 4251
+    208:
+    - 4262
+    109:
+    - 4270
+    37:
+    - 4276
+    2:
+    - 4282
+    206:
+    - 4288
+    195:
+    - 4292
+    162:
+    - 4299
+    97:
+    - 4304
+    177:
+    - 4310
+    140:
+    - 4317
+    232:
+    - 4322
+    268:
+    - 4330
+    248:
+    - 4336
+    243:
+    - 4344
+    102:
+    - 4353
+    288:
+    - 4361
+    45:
+    - 4368
+    53:
+    - 4374
+    124:
+    - 4381
+    356:
+    - 4391
+    141:
+    - 4400
+    25:
+    - 4409
+    22:
+    - 4417
+    252:
+    - 4424
+    225:
+    - 4428
+    137:
+    - 4441
+    259:
+    - 4450
+    - 4546
+    238:
+    - 4460
+    306:
+    - 4545
+    98:
+    - 4477
+    333:
+    - 4483
+    334:
+    - 4496
+    11:
+    - 4512
+    153:
+    - 4515
+    17:
+    - 4544
+    75:
+    - 4547
+    348:
+    - 4548
+    87:
+    - 4549
+    228:
+    - 4550
+    236:
+    - 4551
+    190:
+    - 4570
+    173:
+    - 4593
+    227:
+    - 4605
+    344:
+    - 4625
+    318:
+    - 4641
+    127:
+    - 4674
+    279:
+    - 4655
+    226:
+    - 4687
+    256:
+    - 4707
+    94:
+    - 4737
+    101:
+    - 4717
+    166:
+    - 4750
+    246:
+    - 4759
+  fulladdress:
+    5:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.0
+    216:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.1
+    281:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.2
+    161:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.3
+    244:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.4
+    240:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.5
+    62:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.6
+    198:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.7
+    154:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.8
+    135:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.9
+    156:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.10
+    176:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.11
+    12:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.12
+    163:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.13
+    257:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.14
+    280:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.15
+    149:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.16
+    307:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.17
+    58:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.18
+    290:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.19
+    167:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.21
+    241:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.20
+    229:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.22
+    220:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.23
+    213:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.24
+    201:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.25
+    26:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.26
+    90:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.27
+    263:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.28
+    350:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.29
+    47:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.30
+    182:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.31
+    221:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.32
+    9:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.33
+    144:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.34
+    342:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.35
+    207:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.36
+    346:
+    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.37
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.37
+    317:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.38
+    28:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.39
+    308:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.40
+    230:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.41
+    110:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.42
+    217:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.43
+    336:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.44
+    131:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.46
+    114:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.45
+    326:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.47
+    36:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.48
+    168:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.49
+    43:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.50
+    219:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.51
+    139:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.52
+    320:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.53
+    39:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.54
+    118:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.55
+    108:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.56
+    270:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.57
+    204:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.58
+    84:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.59
+    274:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.60
+    197:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.61
+    150:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.62
+    10:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.63
+    277:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.64
+    304:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.65
+    224:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.69
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.1.69
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.0
+    282:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.66
+    49:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.67
+    271:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.68
+    297:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.70
+    68:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.1
+    254:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.71
+    296:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.72
+    31:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.73
+    157:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.74
+    343:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.75
+    148:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.76
+    311:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.77
+    260:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.78
+    247:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.79
+    354:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.80
+    21:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.81
+    113:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.82
+    121:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.83
+    345:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.84
+    258:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.85
+    287:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.851
+    351:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.86
+    293:
+    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.87
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.1.87
+    99:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.0
+    265:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.2
+    299:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.3
+    88:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.4
+    294:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.5
+    74:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.6
+    70:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.7
+    115:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.8
+    200:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.9
+    152:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.10
+    83:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.11
+    57:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.12
+    119:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.13
+    302:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.14
+    193:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.15
+    34:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.16
+    266:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.17
+    301:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.18
+    3:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.19
+    38:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.20
+    104:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.21
+    85:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.22
+    86:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.23
+    178:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.24
+    172:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.25
+    72:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.26
+    175:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.27
+    16:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.28
+    283:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.29
+    117:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.30
+    81:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.31
+    347:
+    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.32
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.32
+    357:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.33
+    196:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.34
+    24:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.35
+    8:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.36
+    300:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.37
+    339:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.38
+    315:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.39
+    184:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.40
+    134:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.41
+    15:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.42
+    360:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.43
+    128:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.44
+    237:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.45
+    322:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.46
+    218:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.47
+    231:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.48
+    4:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.49
+    164:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.50
+    341:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.51
+    18:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.52
+    73:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.53
+    63:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.54
+    209:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.55
+    222:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.56
+    199:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.64
+    211:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.57
+    358:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.58
+    325:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.59
+    138:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.60
+    180:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.61
+    309:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.62
+    179:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.63
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.63
+    249:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.67
+    291:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.65
+    151:
+    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.66
+    66:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.68
+    91:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.69
+    329:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.70
+    340:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.71
+    223:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.72
+    44:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.73
+    324:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.74
+    349:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.75
+    78:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.76
+    328:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.77
+    51:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.78
+    337:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.79
+    - brezno_na_toscu.2016.20160827_matija_flis_spela_diba_usrana_jama.2.79
+    272:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.80
+    285:
+    - brezno_na_toscu.2016.20160827_matija_flis_spela_diba_usrana_jama.3.0
+    79:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.81
+    187:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.82
+    316:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.83
+    319:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.84
+    76:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.85
+    234:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.86
+    82:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.87
+    40:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.88
+    158:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.89
+    160:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.90
+    46:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.91
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.91
+    331:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.92
+    67:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.101
+    107:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.93
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.93
+    13:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.94
+    123:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.95
+    269:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.96
+    338:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.97
+    136:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.98
+    23:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.99
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.2.99
+    112:
+    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.100
+    60:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.24
+    239:
+    - brezno_na_toscu.2016.20160827_matija_flis_spela_diba_usrana_jama.3.1
+    289:
+    - brezno_na_toscu.2016.20160827_matija_flis_spela_diba_usrana_jama.3.2
+    159:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.102
+    181:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.103
+    14:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.104
+    122:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.105
+    146:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.106
+    278:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.107
+    71:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.108
+    56:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.109
+    185:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.110
+    250:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.111
+    171:
+    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.112
+    261:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.0
+    276:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.1
+    189:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.2
+    92:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.3
+    27:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.4
+    95:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.7
+    245:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.5
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.10.5
+    267:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.6
+    353:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.1
+    59:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.8
+    130:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.9
+    30:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.10
+    335:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.11
+    103:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.12
+    35:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.13
+    6:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.14
+    264:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.15
+    251:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.16
+    105:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.17
+    142:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.18
+    165:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.19
+    352:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.20
+    255:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.21
+    120:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.22
+    42:
+    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.23
+    186:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.2
+    330:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.3
+    169:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.4
+    210:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.5
+    262:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.6
+    0:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.7
+    145:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.8
+    50:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.9
+    126:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.10
+    253:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.11
+    298:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.12
+    295:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.13
+    77:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.14
+    52:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.15
+    155:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.16
+    286:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.17
+    54:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.18
+    321:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.19
+    313:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.20
+    174:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.21
+    143:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.22
+    80:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.23
+    116:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.25
+    65:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.24
+    292:
+    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.26
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.11.26
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.0
+    273:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.1
+    233:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.1
+    192:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.2
+    312:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.3
+    332:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.4
+    7:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.5
+    93:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.6
+    327:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.7
+    310:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.8
+    191:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.9
+    29:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.10
+    100:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.11
+    1:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.12
+    48:
+    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.13
+    125:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.2
+    96:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.3
+    212:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.4
+    61:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.5
+    205:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.6
+    64:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.7
+    214:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.8
+    242:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.9
+    147:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.10
+    203:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.11
+    323:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.12
+    129:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.13
+    69:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.14
+    314:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.15
+    133:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.16
+    355:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.17
+    202:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.18
+    111:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.19
+    41:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.20
+    303:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.21
+    132:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.22
+    20:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.23
+    19:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.24
+    359:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.25
+    275:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.26
+    235:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.27
+    284:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.28
+    215:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.29
+    33:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.30
+    106:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.31
+    305:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.32
+    183:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.33
+    170:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.34
+    188:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.35
+    194:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.36
+    89:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.37
+    32:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.38
+    55:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.39
+    208:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.40
+    109:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.41
+    37:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.42
+    2:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.43
+    206:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.44
+    195:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.45
+    162:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.46
+    97:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.47
+    177:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.48
+    140:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.49
+    232:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.50
+    268:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.51
+    248:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.52
+    243:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.53
+    102:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.54
+    288:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.55
+    45:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.56
+    53:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.57
+    124:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.58
+    356:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.59
+    141:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.60
+    25:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.61
+    22:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.62
+    252:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.63
+    225:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.64
+    137:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.65
+    259:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.66
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.12.66
+    238:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.67
+    306:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.1
+    98:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.68
+    333:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.69
+    334:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.70
+    11:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.71
+    153:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.72
+    17:
+    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.73
+    75:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.2
+    348:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.3
+    87:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.4
+    228:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.5
+    236:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.6
+    190:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.7
+    173:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.8
+    227:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.9
+    344:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.10
+    318:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.11
+    127:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.13
+    279:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.12
+    226:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.14
+    256:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.15
+    94:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.17
+    101:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.16
+    166:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.18
+    246:
+    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.19
+  csdim:
+    5:
+    - 1.26
+    - 1.57
+    216:
+    - 6.32
+    - 19.68
+    281:
+    - 7.23
+    - 19.28
+    161:
+    - 9.89
+    - 14.79
+    244:
+    - 5.06
+    - 1.84
+    240:
+    - 11.98
+    - 14.36
+    62:
+    - 9.17
+    - 36.87
+    198:
+    - 13.56
+    - 26.54
+    135:
+    - 12.13
+    - 9.87
+    156:
+    - 1.11
+    - 0.67
+    176:
+    - 1.08
+    - 2.84
+    12:
+    - 0.79
+    - 8.7
+    163:
+    - 9.59
+    - 14.8
+    280:
+    - 10.59
+    - 16.97
+    149:
+    - 9.36
+    - 9.36
+    307:
+    - 6.71
+    - 4.78
+    290:
+    - 24.18
+    - 11.44
+    167:
+    - 6.27
+    - 10.94
+    229:
+    - 0.32
+    - 3.75
+    220:
+    - 6.08
+    - 6.01
+    213:
+    - 4.13
+    - 2.21
+    201:
+    - 14.28
+    - 5.21
+    26:
+    - 0.43
+    - 0.16
+    90:
+    - 0.87
+    - 5.66
+    263:
+    - 0.52
+    - 1.9
+    350:
+    - 4.79
+    - 3.33
+    47:
+    - 2.2
+    - 3.49
+    182:
+    - 0.49
+    - 1.18
+    221:
+    - 4.07
+    - 6.73
+    144:
+    - 0.31
+    - 2.75
+    342:
+    - 1.52
+    - 2.7
+    207:
+    - 3.86
+    - 7.26
+    346:
+    - 5.27
+    - 6.69
+    317:
+    - 9.05
+    - 7.64
+    28:
+    - 4.44
+    - 2.94
+    308:
+    - 1.97
+    - 5.73
+    230:
+    - 3.69
+    - 1.35
+    110:
+    - 3.68
+    - 6.81
+    217:
+    - 3.47
+    - 3.47
+    336:
+    - 6.05
+    - 7.23
+    131:
+    - 3.82
+    - 4.42
+    326:
+    - 6.88
+    - 5.77
+    36:
+    - 2.91
+    - 8.13
+    43:
+    - 0.46
+    - 2.58
+    219:
+    - 2.11
+    - 5.59
+    139:
+    - 2.76
+    - 4.53
+    320:
+    - 4.72
+    - 6.12
+    39:
+    - 3.53
+    - 6.51
+    118:
+    - 6.46
+    - 10.17
+    108:
+    - 10.04
+    - 7.65
+    270:
+    - 5.29
+    - 9.98
+    204:
+    - 7.45
+    - 4.42
+    84:
+    - 6.67
+    - 4.38
+    274:
+    - 0.1
+    - 2.71
+    197:
+    - 10.75
+    - 37.71
+    150:
+    - 5.87
+    - 25.57
+    10:
+    - 13.41
+    - 12.7
+    277:
+    - 2.58
+    - 2.58
+    304:
+    - 5.33
+    - 10.01
+    224:
+    - 3.72
+    - 3.72
+    282:
+    - 22.24
+    - 12.14
+    49:
+    - 27.47
+    - 8.76
+    297:
+    - 5.67
+    - 16.53
+    68:
+    - 0.35
+    - 0.68
+    254:
+    - 5.22
+    - 10.05
+    296:
+    - 11.17
+    - 12.38
+    31:
+    - 8.19
+    - 21.65
+    157:
+    - 5.59
+    - 3.49
+    343:
+    - 0.69
+    - 2.26
+    148:
+    - 2.32
+    - 2.04
+    311:
+    - 3.52
+    - 4.25
+    260:
+    - 1.17
+    - 1.03
+    247:
+    - 4.3
+    - 3.17
+    354:
+    - 4.99
+    - 1.92
+    21:
+    - 3.97
+    - 2.98
+    113:
+    - 6.86
+    - 5.56
+    121:
+    - 7.05
+    - 11.57
+    345:
+    - 4.11
+    - 25.01
+    258:
+    - 5.03
+    - 5.03
+    351:
+    - 11.89
+    - 34.14
+    265:
+    - 8.63
+    - 2.61
+    299:
+    - 6.33
+    - 4.75
+    88:
+    - 6.42
+    - 5.83
+    294:
+    - 4.58
+    - 6.42
+    74:
+    - 6.7
+    - 6.69
+    70:
+    - 6.95
+    - 5.14
+    115:
+    - 3.44
+    - 8.77
+    200:
+    - 3.02
+    - 11.29
+    152:
+    - 9.38
+    - 7.78
+    83:
+    - 3.3
+    - 7.77
+    57:
+    - 8.0
+    - 5.65
+    119:
+    - 4.57
+    - 12.62
+    302:
+    - 2.93
+    - 5.21
+    193:
+    - 8.49
+    - 6.79
+    34:
+    - 7.54
+    - 8.91
+    266:
+    - 5.32
+    - 7.04
+    301:
+    - 5.0
+    - 5.01
+    3:
+    - 5.58
+    - 10.68
+    38:
+    - 6.82
+    - 6.1
+    104:
+    - 12.15
+    - 3.87
+    85:
+    - 2.72
+    - 7.23
+    86:
+    - 0.99
+    - 5.0
+    178:
+    - 1.87
+    - 1.39
+    172:
+    - 5.68
+    - 7.74
+    72:
+    - 3.69
+    - 9.52
+    175:
+    - 2.16
+    - 0.45
+    16:
+    - 1.18
+    - 3.68
+    283:
+    - 4.32
+    - 17.66
+    117:
+    - 4.89
+    - 23.99
+    81:
+    - 9.67
+    - 47.65
+    347:
+    - 14.58
+    - 23.13
+    357:
+    - 4.76
+    - 4.76
+    8:
+    - 6.86
+    - 16.01
+    300:
+    - 7.83
+    - 13.32
+    315:
+    - 4.84
+    - 14.65
+    184:
+    - 4.55
+    - 18.42
+    134:
+    - 5.36
+    - 9.24
+    15:
+    - 2.42
+    - 12.98
+    360:
+    - 6.01
+    - 3.86
+    128:
+    - 3.8
+    - 2.71
+    237:
+    - 4.33
+    - 2.29
+    322:
+    - 3.74
+    - 4.92
+    231:
+    - 12.55
+    - 20.14
+    4:
+    - 10.0
+    - 15.04
+    164:
+    - 9.3
+    - 12.0
+    341:
+    - 0.99
+    - 0.47
+    18:
+    - 16.57
+    - 13.17
+    73:
+    - 9.02
+    - 62.74
+    209:
+    - 5.35
+    - 5.35
+    222:
+    - 12.69
+    - 13.89
+    211:
+    - 9.25
+    - 15.59
+    358:
+    - 7.7
+    - 20.17
+    325:
+    - 5.39
+    - 5.39
+    180:
+    - 3.13
+    - 2.9
+    309:
+    - 6.63
+    - 2.88
+    179:
+    - 3.79
+    - 7.26
+    249:
+    - 1.76
+    - 0.75
+    291:
+    - 2.39
+    - 1.03
+    66:
+    - 0.89
+    - 0.75
+    91:
+    - 2.62
+    - 3.78
+    329:
+    - 4.82
+    - 2.9
+    340:
+    - 0.45
+    - 3.92
+    223:
+    - 2.87
+    - 10.15
+    44:
+    - 4.53
+    - 1.59
+    324:
+    - 7.71
+    - 3.96
+    349:
+    - 1.13
+    - 4.92
+    78:
+    - 0.74
+    - 9.77
+    328:
+    - 3.47
+    - 13.9
+    51:
+    - 14.6
+    - 6.86
+    337:
+    - 2.92
+    - 2.92
+    272:
+    - 6.19
+    - 3.09
+    285:
+    - 17.91
+    - 5.84
+    79:
+    - 7.3
+    - 6.14
+    187:
+    - 5.55
+    - 7.52
+    316:
+    - 3.38
+    - 9.27
+    319:
+    - 4.75
+    - 5.53
+    76:
+    - 7.62
+    - 3.03
+    234:
+    - 13.48
+    - 3.42
+    82:
+    - 13.59
+    - 3.0
+    40:
+    - 10.29
+    - 5.1
+    158:
+    - 3.61
+    - 7.8
+    160:
+    - 3.46
+    - 10.16
+    46:
+    - 3.25
+    - 3.25
+    331:
+    - 3.76
+    - 6.45
+    67:
+    - 7.2
+    - 4.01
+    107:
+    - 4.29
+    - 11.78
+    13:
+    - 18.54
+    - 16.85
+    123:
+    - 8.7
+    - 21.28
+    269:
+    - 8.05
+    - 45.43
+    338:
+    - 0.8
+    - 2.86
+    136:
+    - 7.71
+    - 14.1
+    23:
+    - 8.15
+    - 8.15
+    112:
+    - 8.53
+    - 24.84
+    60:
+    - 1.12
+    - 1.2
+    239:
+    - 10.4
+    - 7.2
+    289:
+    - 2.14
+    - 5.29
+    159:
+    - 6.24
+    - 7.38
+    14:
+    - 7.54
+    - 7.54
+    146:
+    - 7.9
+    - 4.29
+    278:
+    - 2.06
+    - 1.8
+    71:
+    - 1.53
+    - 2.11
+    56:
+    - 0.35
+    - 0.55
+    185:
+    - 0.19
+    - 0.36
+    250:
+    - 8.02
+    - 12.01
+    171:
+    - 21.81
+    - 25.88
+    261:
+    - 5.48
+    - 4.78
+    189:
+    - 4.55
+    - 5.32
+    92:
+    - 3.44
+    - 3.44
+    27:
+    - 7.67
+    - 8.54
+    95:
+    - 8.72
+    - 26.39
+    245:
+    - 8.96
+    - 8.96
+    353:
+    - 7.5
+    - 21.85
+    59:
+    - 9.56
+    - 12.65
+    130:
+    - 8.97
+    - 9.3
+    30:
+    - 2.77
+    - 2.69
+    335:
+    - 1.83
+    - 1.32
+    103:
+    - 1.94
+    - 3.9
+    35:
+    - 1.08
+    - 1.34
+    6:
+    - 2.49
+    - 8.47
+    264:
+    - 14.01
+    - 5.98
+    251:
+    - 2.49
+    - 7.72
+    105:
+    - 5.61
+    - 1.96
+    142:
+    - 0.93
+    - 1.3
+    165:
+    - 4.11
+    - 2.85
+    352:
+    - 3.31
+    - 8.93
+    255:
+    - 5.56
+    - 3.68
+    42:
+    - 7.66
+    - 10.49
+    186:
+    - 2.92
+    - 4.62
+    330:
+    - 2.68
+    - 2.41
+    169:
+    - 1.95
+    - 4.52
+    210:
+    - 4.06
+    - 2.73
+    262:
+    - 2.18
+    - 3.16
+    0:
+    - 1.34
+    - 2.38
+    145:
+    - 1.13
+    - 2.54
+    50:
+    - 0.91
+    - 1.83
+    126:
+    - 2.64
+    - 1.38
+    253:
+    - 2.63
+    - 5.48
+    298:
+    - 3.06
+    - 2.7
+    77:
+    - 4.39
+    - 2.11
+    52:
+    - 3.53
+    - 2.78
+    155:
+    - 2.64
+    - 1.59
+    286:
+    - 1.55
+    - 1.39
+    54:
+    - 3.06
+    - 1.31
+    321:
+    - 1.89
+    - 1.68
+    174:
+    - 8.69
+    - 8.83
+    143:
+    - 2.82
+    - 2.82
+    80:
+    - 3.37
+    - 2.41
+    116:
+    - 3.63
+    - 10.74
+    65:
+    - 2.61
+    - 7.89
+    292:
+    - 8.27
+    - 8.44
+    273:
+    - 2.27
+    - 5.44
+    233:
+    - 2.55
+    - 5.19
+    192:
+    - 3.16
+    - 1.75
+    312:
+    - 0.47
+    - 0.86
+    332:
+    - 4.3
+    - 3.32
+    7:
+    - 0.65
+    - 0.84
+    93:
+    - 1.71
+    - 2.65
+    327:
+    - 0.96
+    - 1.34
+    310:
+    - 2.22
+    - 4.27
+    191:
+    - 2.28
+    - 0.64
+    29:
+    - 2.57
+    - 11.28
+    100:
+    - 7.3
+    - 30.79
+    1:
+    - 4.05
+    - 5.1
+    48:
+    - 6.74
+    - 3.79
+    125:
+    - 2.02
+    - 8.08
+    96:
+    - 6.13
+    - 7.65
+    212:
+    - 7.3
+    - 12.1
+    61:
+    - 3.92
+    - 2.83
+    205:
+    - 6.65
+    - 3.6
+    64:
+    - 10.07
+    - 6.73
+    214:
+    - 1.25
+    - 4.68
+    242:
+    - 3.32
+    - 3.21
+    147:
+    - 5.0
+    - 6.38
+    203:
+    - 3.64
+    - 5.44
+    323:
+    - 4.85
+    - 6.92
+    129:
+    - 1.54
+    - 7.74
+    69:
+    - 5.15
+    - 7.31
+    314:
+    - 5.49
+    - 6.88
+    133:
+    - 4.68
+    - 4.03
+    355:
+    - 2.68
+    - 4.16
+    202:
+    - 0.52
+    - 5.38
+    41:
+    - 0.63
+    - 3.2
+    303:
+    - 4.95
+    - 6.66
+    132:
+    - 0.79
+    - 3.31
+    20:
+    - 3.73
+    - 8.73
+    19:
+    - 6.4
+    - 11.38
+    359:
+    - 6.09
+    - 14.95
+    275:
+    - 7.51
+    - 6.09
+    235:
+    - 2.89
+    - 11.04
+    284:
+    - 1.37
+    - 5.03
+    215:
+    - 2.58
+    - 1.28
+    33:
+    - 3.98
+    - 4.22
+    106:
+    - 4.43
+    - 5.23
+    305:
+    - 7.1
+    - 3.07
+    183:
+    - 2.78
+    - 3.0
+    170:
+    - 1.55
+    - 1.76
+    188:
+    - 2.26
+    - 3.8
+    194:
+    - 3.0
+    - 1.38
+    89:
+    - 1.23
+    - 2.41
+    32:
+    - 1.62
+    - 2.49
+    55:
+    - 4.21
+    - 6.22
+    208:
+    - 1.81
+    - 13.05
+    109:
+    - 3.09
+    - 0.96
+    37:
+    - 1.73
+    - 3.13
+    2:
+    - 3.45
+    - 3.37
+    206:
+    - 0.33
+    - 2.89
+    195:
+    - 3.03
+    - 1.92
+    162:
+    - 0.95
+    - 1.44
+    97:
+    - 3.86
+    - 3.37
+    177:
+    - 2.93
+    - 4.9
+    140:
+    - 0.79
+    - 2.67
+    232:
+    - 3.88
+    - 3.22
+    268:
+    - 5.6
+    - 6.7
+    248:
+    - 5.49
+    - 8.8
+    243:
+    - 5.82
+    - 3.84
+    102:
+    - 6.02
+    - 4.83
+    288:
+    - 5.21
+    - 1.97
+    45:
+    - 4.09
+    - 4.22
+    53:
+    - 4.22
+    - 3.82
+    124:
+    - 5.37
+    - 3.12
+    356:
+    - 6.84
+    - 5.32
+    141:
+    - 5.75
+    - 3.56
+    25:
+    - 1.99
+    - 4.81
+    22:
+    - 1.69
+    - 3.72
+    252:
+    - 1.89
+    - 1.4
+    225:
+    - 2.18
+    - 4.57
+    137:
+    - 2.45
+    - 6.5
+    259:
+    - 9.45
+    - 9.45
+    238:
+    - 30.81
+    - 23.93
+    98:
+    - 10.21
+    - 2.0
+    333:
+    - 8.03
+    - 9.7
+    334:
+    - 25.2
+    - 25.0
+    11:
+    - 3.56
+    - 2.3
+    153:
+    - 29.68
+    - 18.24
+    236:
+    - 3.27
+    - 4.55
+    190:
+    - 7.23
+    - 6.16
+    173:
+    - 4.18
+    - 6.05
+    227:
+    - 6.96
+    - 9.57
+    344:
+    - 2.01
+    - 2.01
+    318:
+    - 20.07
+    - 5.76
+    127:
+    - 6.93
+    - 4.78
+    279:
+    - 6.43
+    - 9.84
+    226:
+    - 4.66
+    - 4.66
+    256:
+    - 6.29
+    - 5.17
+    94:
+    - 11.49
+    - 8.7
+    101:
+    - 4.97
+    - 4.08
+    166:
+    - 4.17
+    - 1.92
+    246:
+    - 1.05
+    - 1.36
+  flags:
+    5:
+    - ent
+    - fix
   splays:
     5:
     - - 412775.0
@@ -14292,1732 +16744,6 @@ node_attributes:
     - - 412740.16
       - 134197.33
       - 1453.14
-  csdim:
-    5:
-    - 1.26
-    - 1.57
-    216:
-    - 6.32
-    - 19.68
-    281:
-    - 7.23
-    - 19.28
-    161:
-    - 9.89
-    - 14.79
-    244:
-    - 5.06
-    - 1.84
-    240:
-    - 11.98
-    - 14.36
-    62:
-    - 9.17
-    - 36.87
-    198:
-    - 13.56
-    - 26.54
-    135:
-    - 12.13
-    - 9.87
-    156:
-    - 1.11
-    - 0.67
-    176:
-    - 1.08
-    - 2.84
-    12:
-    - 0.79
-    - 8.7
-    163:
-    - 9.59
-    - 14.8
-    280:
-    - 10.59
-    - 16.97
-    149:
-    - 9.36
-    - 9.36
-    307:
-    - 6.71
-    - 4.78
-    290:
-    - 24.18
-    - 11.44
-    167:
-    - 6.27
-    - 10.94
-    229:
-    - 0.32
-    - 3.75
-    220:
-    - 6.08
-    - 6.01
-    213:
-    - 4.13
-    - 2.21
-    201:
-    - 14.28
-    - 5.21
-    26:
-    - 0.43
-    - 0.16
-    90:
-    - 0.87
-    - 5.66
-    263:
-    - 0.52
-    - 1.9
-    350:
-    - 4.79
-    - 3.33
-    47:
-    - 2.2
-    - 3.49
-    182:
-    - 0.49
-    - 1.18
-    221:
-    - 4.07
-    - 6.73
-    144:
-    - 0.31
-    - 2.75
-    342:
-    - 1.52
-    - 2.7
-    207:
-    - 3.86
-    - 7.26
-    346:
-    - 5.27
-    - 6.69
-    317:
-    - 9.05
-    - 7.64
-    28:
-    - 4.44
-    - 2.94
-    308:
-    - 1.97
-    - 5.73
-    230:
-    - 3.69
-    - 1.35
-    110:
-    - 3.68
-    - 6.81
-    217:
-    - 3.47
-    - 3.47
-    336:
-    - 6.05
-    - 7.23
-    131:
-    - 3.82
-    - 4.42
-    326:
-    - 6.88
-    - 5.77
-    36:
-    - 2.91
-    - 8.13
-    43:
-    - 0.46
-    - 2.58
-    219:
-    - 2.11
-    - 5.59
-    139:
-    - 2.76
-    - 4.53
-    320:
-    - 4.72
-    - 6.12
-    39:
-    - 3.53
-    - 6.51
-    118:
-    - 6.46
-    - 10.17
-    108:
-    - 10.04
-    - 7.65
-    270:
-    - 5.29
-    - 9.98
-    204:
-    - 7.45
-    - 4.42
-    84:
-    - 6.67
-    - 4.38
-    274:
-    - 0.1
-    - 2.71
-    197:
-    - 10.75
-    - 37.71
-    150:
-    - 5.87
-    - 25.57
-    10:
-    - 13.41
-    - 12.7
-    277:
-    - 2.58
-    - 2.58
-    304:
-    - 5.33
-    - 10.01
-    224:
-    - 3.72
-    - 3.72
-    282:
-    - 22.24
-    - 12.14
-    49:
-    - 27.47
-    - 8.76
-    297:
-    - 5.67
-    - 16.53
-    68:
-    - 0.35
-    - 0.68
-    254:
-    - 5.22
-    - 10.05
-    296:
-    - 11.17
-    - 12.38
-    31:
-    - 8.19
-    - 21.65
-    157:
-    - 5.59
-    - 3.49
-    343:
-    - 0.69
-    - 2.26
-    148:
-    - 2.32
-    - 2.04
-    311:
-    - 3.52
-    - 4.25
-    260:
-    - 1.17
-    - 1.03
-    247:
-    - 4.3
-    - 3.17
-    354:
-    - 4.99
-    - 1.92
-    21:
-    - 3.97
-    - 2.98
-    113:
-    - 6.86
-    - 5.56
-    121:
-    - 7.05
-    - 11.57
-    345:
-    - 4.11
-    - 25.01
-    258:
-    - 5.03
-    - 5.03
-    351:
-    - 11.89
-    - 34.14
-    265:
-    - 8.63
-    - 2.61
-    299:
-    - 6.33
-    - 4.75
-    88:
-    - 6.42
-    - 5.83
-    294:
-    - 4.58
-    - 6.42
-    74:
-    - 6.7
-    - 6.69
-    70:
-    - 6.95
-    - 5.14
-    115:
-    - 3.44
-    - 8.77
-    200:
-    - 3.02
-    - 11.29
-    152:
-    - 9.38
-    - 7.78
-    83:
-    - 3.3
-    - 7.77
-    57:
-    - 8.0
-    - 5.65
-    119:
-    - 4.57
-    - 12.62
-    302:
-    - 2.93
-    - 5.21
-    193:
-    - 8.49
-    - 6.79
-    34:
-    - 7.54
-    - 8.91
-    266:
-    - 5.32
-    - 7.04
-    301:
-    - 5.0
-    - 5.01
-    3:
-    - 5.58
-    - 10.68
-    38:
-    - 6.82
-    - 6.1
-    104:
-    - 12.15
-    - 3.87
-    85:
-    - 2.72
-    - 7.23
-    86:
-    - 0.99
-    - 5.0
-    178:
-    - 1.87
-    - 1.39
-    172:
-    - 5.68
-    - 7.74
-    72:
-    - 3.69
-    - 9.52
-    175:
-    - 2.16
-    - 0.45
-    16:
-    - 1.18
-    - 3.68
-    283:
-    - 4.32
-    - 17.66
-    117:
-    - 4.89
-    - 23.99
-    81:
-    - 9.67
-    - 47.65
-    347:
-    - 14.58
-    - 23.13
-    357:
-    - 4.76
-    - 4.76
-    8:
-    - 6.86
-    - 16.01
-    300:
-    - 7.83
-    - 13.32
-    315:
-    - 4.84
-    - 14.65
-    184:
-    - 4.55
-    - 18.42
-    134:
-    - 5.36
-    - 9.24
-    15:
-    - 2.42
-    - 12.98
-    360:
-    - 6.01
-    - 3.86
-    128:
-    - 3.8
-    - 2.71
-    237:
-    - 4.33
-    - 2.29
-    322:
-    - 3.74
-    - 4.92
-    231:
-    - 12.55
-    - 20.14
-    4:
-    - 10.0
-    - 15.04
-    164:
-    - 9.3
-    - 12.0
-    341:
-    - 0.99
-    - 0.47
-    18:
-    - 16.57
-    - 13.17
-    73:
-    - 9.02
-    - 62.74
-    209:
-    - 5.35
-    - 5.35
-    222:
-    - 12.69
-    - 13.89
-    211:
-    - 9.25
-    - 15.59
-    358:
-    - 7.7
-    - 20.17
-    325:
-    - 5.39
-    - 5.39
-    180:
-    - 3.13
-    - 2.9
-    309:
-    - 6.63
-    - 2.88
-    179:
-    - 3.79
-    - 7.26
-    249:
-    - 1.76
-    - 0.75
-    291:
-    - 2.39
-    - 1.03
-    66:
-    - 0.89
-    - 0.75
-    91:
-    - 2.62
-    - 3.78
-    329:
-    - 4.82
-    - 2.9
-    340:
-    - 0.45
-    - 3.92
-    223:
-    - 2.87
-    - 10.15
-    44:
-    - 4.53
-    - 1.59
-    324:
-    - 7.71
-    - 3.96
-    349:
-    - 1.13
-    - 4.92
-    78:
-    - 0.74
-    - 9.77
-    328:
-    - 3.47
-    - 13.9
-    51:
-    - 14.6
-    - 6.86
-    337:
-    - 2.92
-    - 2.92
-    272:
-    - 6.19
-    - 3.09
-    285:
-    - 17.91
-    - 5.84
-    79:
-    - 7.3
-    - 6.14
-    187:
-    - 5.55
-    - 7.52
-    316:
-    - 3.38
-    - 9.27
-    319:
-    - 4.75
-    - 5.53
-    76:
-    - 7.62
-    - 3.03
-    234:
-    - 13.48
-    - 3.42
-    82:
-    - 13.59
-    - 3.0
-    40:
-    - 10.29
-    - 5.1
-    158:
-    - 3.61
-    - 7.8
-    160:
-    - 3.46
-    - 10.16
-    46:
-    - 3.25
-    - 3.25
-    331:
-    - 3.76
-    - 6.45
-    67:
-    - 7.2
-    - 4.01
-    107:
-    - 4.29
-    - 11.78
-    13:
-    - 18.54
-    - 16.85
-    123:
-    - 8.7
-    - 21.28
-    269:
-    - 8.05
-    - 45.43
-    338:
-    - 0.8
-    - 2.86
-    136:
-    - 7.71
-    - 14.1
-    23:
-    - 8.15
-    - 8.15
-    112:
-    - 8.53
-    - 24.84
-    60:
-    - 1.12
-    - 1.2
-    239:
-    - 10.4
-    - 7.2
-    289:
-    - 2.14
-    - 5.29
-    159:
-    - 6.24
-    - 7.38
-    14:
-    - 7.54
-    - 7.54
-    146:
-    - 7.9
-    - 4.29
-    278:
-    - 2.06
-    - 1.8
-    71:
-    - 1.53
-    - 2.11
-    56:
-    - 0.35
-    - 0.55
-    185:
-    - 0.19
-    - 0.36
-    250:
-    - 8.02
-    - 12.01
-    171:
-    - 21.81
-    - 25.88
-    261:
-    - 5.48
-    - 4.78
-    189:
-    - 4.55
-    - 5.32
-    92:
-    - 3.44
-    - 3.44
-    27:
-    - 7.67
-    - 8.54
-    95:
-    - 8.72
-    - 26.39
-    245:
-    - 8.96
-    - 8.96
-    353:
-    - 7.5
-    - 21.85
-    59:
-    - 9.56
-    - 12.65
-    130:
-    - 8.97
-    - 9.3
-    30:
-    - 2.77
-    - 2.69
-    335:
-    - 1.83
-    - 1.32
-    103:
-    - 1.94
-    - 3.9
-    35:
-    - 1.08
-    - 1.34
-    6:
-    - 2.49
-    - 8.47
-    264:
-    - 14.01
-    - 5.98
-    251:
-    - 2.49
-    - 7.72
-    105:
-    - 5.61
-    - 1.96
-    142:
-    - 0.93
-    - 1.3
-    165:
-    - 4.11
-    - 2.85
-    352:
-    - 3.31
-    - 8.93
-    255:
-    - 5.56
-    - 3.68
-    42:
-    - 7.66
-    - 10.49
-    186:
-    - 2.92
-    - 4.62
-    330:
-    - 2.68
-    - 2.41
-    169:
-    - 1.95
-    - 4.52
-    210:
-    - 4.06
-    - 2.73
-    262:
-    - 2.18
-    - 3.16
-    0:
-    - 1.34
-    - 2.38
-    145:
-    - 1.13
-    - 2.54
-    50:
-    - 0.91
-    - 1.83
-    126:
-    - 2.64
-    - 1.38
-    253:
-    - 2.63
-    - 5.48
-    298:
-    - 3.06
-    - 2.7
-    77:
-    - 4.39
-    - 2.11
-    52:
-    - 3.53
-    - 2.78
-    155:
-    - 2.64
-    - 1.59
-    286:
-    - 1.55
-    - 1.39
-    54:
-    - 3.06
-    - 1.31
-    321:
-    - 1.89
-    - 1.68
-    174:
-    - 8.69
-    - 8.83
-    143:
-    - 2.82
-    - 2.82
-    80:
-    - 3.37
-    - 2.41
-    116:
-    - 3.63
-    - 10.74
-    65:
-    - 2.61
-    - 7.89
-    292:
-    - 8.27
-    - 8.44
-    273:
-    - 2.27
-    - 5.44
-    233:
-    - 2.55
-    - 5.19
-    192:
-    - 3.16
-    - 1.75
-    312:
-    - 0.47
-    - 0.86
-    332:
-    - 4.3
-    - 3.32
-    7:
-    - 0.65
-    - 0.84
-    93:
-    - 1.71
-    - 2.65
-    327:
-    - 0.96
-    - 1.34
-    310:
-    - 2.22
-    - 4.27
-    191:
-    - 2.28
-    - 0.64
-    29:
-    - 2.57
-    - 11.28
-    100:
-    - 7.3
-    - 30.79
-    1:
-    - 4.05
-    - 5.1
-    48:
-    - 6.74
-    - 3.79
-    125:
-    - 2.02
-    - 8.08
-    96:
-    - 6.13
-    - 7.65
-    212:
-    - 7.3
-    - 12.1
-    61:
-    - 3.92
-    - 2.83
-    205:
-    - 6.65
-    - 3.6
-    64:
-    - 10.07
-    - 6.73
-    214:
-    - 1.25
-    - 4.68
-    242:
-    - 3.32
-    - 3.21
-    147:
-    - 5.0
-    - 6.38
-    203:
-    - 3.64
-    - 5.44
-    323:
-    - 4.85
-    - 6.92
-    129:
-    - 1.54
-    - 7.74
-    69:
-    - 5.15
-    - 7.31
-    314:
-    - 5.49
-    - 6.88
-    133:
-    - 4.68
-    - 4.03
-    355:
-    - 2.68
-    - 4.16
-    202:
-    - 0.52
-    - 5.38
-    41:
-    - 0.63
-    - 3.2
-    303:
-    - 4.95
-    - 6.66
-    132:
-    - 0.79
-    - 3.31
-    20:
-    - 3.73
-    - 8.73
-    19:
-    - 6.4
-    - 11.38
-    359:
-    - 6.09
-    - 14.95
-    275:
-    - 7.51
-    - 6.09
-    235:
-    - 2.89
-    - 11.04
-    284:
-    - 1.37
-    - 5.03
-    215:
-    - 2.58
-    - 1.28
-    33:
-    - 3.98
-    - 4.22
-    106:
-    - 4.43
-    - 5.23
-    305:
-    - 7.1
-    - 3.07
-    183:
-    - 2.78
-    - 3.0
-    170:
-    - 1.55
-    - 1.76
-    188:
-    - 2.26
-    - 3.8
-    194:
-    - 3.0
-    - 1.38
-    89:
-    - 1.23
-    - 2.41
-    32:
-    - 1.62
-    - 2.49
-    55:
-    - 4.21
-    - 6.22
-    208:
-    - 1.81
-    - 13.05
-    109:
-    - 3.09
-    - 0.96
-    37:
-    - 1.73
-    - 3.13
-    2:
-    - 3.45
-    - 3.37
-    206:
-    - 0.33
-    - 2.89
-    195:
-    - 3.03
-    - 1.92
-    162:
-    - 0.95
-    - 1.44
-    97:
-    - 3.86
-    - 3.37
-    177:
-    - 2.93
-    - 4.9
-    140:
-    - 0.79
-    - 2.67
-    232:
-    - 3.88
-    - 3.22
-    268:
-    - 5.6
-    - 6.7
-    248:
-    - 5.49
-    - 8.8
-    243:
-    - 5.82
-    - 3.84
-    102:
-    - 6.02
-    - 4.83
-    288:
-    - 5.21
-    - 1.97
-    45:
-    - 4.09
-    - 4.22
-    53:
-    - 4.22
-    - 3.82
-    124:
-    - 5.37
-    - 3.12
-    356:
-    - 6.84
-    - 5.32
-    141:
-    - 5.75
-    - 3.56
-    25:
-    - 1.99
-    - 4.81
-    22:
-    - 1.69
-    - 3.72
-    252:
-    - 1.89
-    - 1.4
-    225:
-    - 2.18
-    - 4.57
-    137:
-    - 2.45
-    - 6.5
-    259:
-    - 9.45
-    - 9.45
-    238:
-    - 30.81
-    - 23.93
-    98:
-    - 10.21
-    - 2.0
-    333:
-    - 8.03
-    - 9.7
-    334:
-    - 25.2
-    - 25.0
-    11:
-    - 3.56
-    - 2.3
-    153:
-    - 29.68
-    - 18.24
-    236:
-    - 3.27
-    - 4.55
-    190:
-    - 7.23
-    - 6.16
-    173:
-    - 4.18
-    - 6.05
-    227:
-    - 6.96
-    - 9.57
-    344:
-    - 2.01
-    - 2.01
-    318:
-    - 20.07
-    - 5.76
-    127:
-    - 6.93
-    - 4.78
-    279:
-    - 6.43
-    - 9.84
-    226:
-    - 4.66
-    - 4.66
-    256:
-    - 6.29
-    - 5.17
-    94:
-    - 11.49
-    - 8.7
-    101:
-    - 4.97
-    - 4.08
-    166:
-    - 4.17
-    - 1.92
-    246:
-    - 1.05
-    - 1.36
-  flags:
-    5:
-    - ent
-    - fix
-  fulladdress:
-    5:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.0
-    216:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.1
-    281:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.2
-    161:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.3
-    244:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.4
-    240:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.5
-    62:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.6
-    198:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.7
-    154:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.8
-    135:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.9
-    156:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.10
-    176:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.11
-    12:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.12
-    163:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.13
-    257:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.14
-    280:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.15
-    149:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.16
-    307:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.17
-    58:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.18
-    290:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.19
-    167:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.21
-    241:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.20
-    229:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.22
-    220:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.23
-    213:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.24
-    201:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.25
-    26:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.26
-    90:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.27
-    263:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.28
-    350:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.29
-    47:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.30
-    182:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.31
-    221:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.32
-    9:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.33
-    144:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.34
-    342:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.35
-    207:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.36
-    346:
-    - brezno_na_toscu.2015.20150524_spela_flis_vhod.1.37
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.37
-    317:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.38
-    28:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.39
-    308:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.40
-    230:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.41
-    110:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.42
-    217:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.43
-    336:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.44
-    131:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.46
-    114:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.45
-    326:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.47
-    36:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.48
-    168:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.49
-    43:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.50
-    219:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.51
-    139:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.52
-    320:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.53
-    39:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.54
-    118:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.55
-    108:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.56
-    270:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.57
-    204:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.58
-    84:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.59
-    274:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.60
-    197:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.61
-    150:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.62
-    10:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.63
-    277:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.64
-    304:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.65
-    224:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.69
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.1.69
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.0
-    282:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.66
-    49:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.67
-    271:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.68
-    297:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.70
-    68:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.1
-    254:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.71
-    296:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.72
-    31:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.73
-    157:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.74
-    343:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.75
-    148:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.76
-    311:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.77
-    260:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.78
-    247:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.79
-    354:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.80
-    21:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.81
-    113:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.82
-    121:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.83
-    345:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.84
-    258:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.85
-    287:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.851
-    351:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.86
-    293:
-    - brezno_na_toscu.2015.20150607_matija_spela_lotus_diba_dzrjl_na_asteroidih.1.87
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.1.87
-    99:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.0
-    265:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.2
-    299:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.3
-    88:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.4
-    294:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.5
-    74:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.6
-    70:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.7
-    115:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.8
-    200:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.9
-    152:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.10
-    83:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.11
-    57:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.12
-    119:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.13
-    302:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.14
-    193:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.15
-    34:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.16
-    266:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.17
-    301:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.18
-    3:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.19
-    38:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.20
-    104:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.21
-    85:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.22
-    86:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.23
-    178:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.24
-    172:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.25
-    72:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.26
-    175:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.27
-    16:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.28
-    283:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.29
-    117:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.30
-    81:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.31
-    347:
-    - brezno_na_toscu.2015.20150626_spela_diba_lagano.2.32
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.32
-    357:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.33
-    196:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.34
-    24:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.35
-    8:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.36
-    300:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.37
-    339:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.38
-    315:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.39
-    184:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.40
-    134:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.41
-    15:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.42
-    360:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.43
-    128:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.44
-    237:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.45
-    322:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.46
-    218:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.47
-    231:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.48
-    4:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.49
-    164:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.50
-    341:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.51
-    18:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.52
-    73:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.53
-    63:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.54
-    209:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.55
-    222:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.56
-    199:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.64
-    211:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.57
-    358:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.58
-    325:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.59
-    138:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.60
-    180:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.61
-    309:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.62
-    179:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.63
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.63
-    249:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.67
-    291:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.65
-    151:
-    - brezno_na_toscu.2015.20150822_skufca_garmin_diba_do_ozine.2.66
-    66:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.68
-    91:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.69
-    329:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.70
-    340:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.71
-    223:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.72
-    44:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.73
-    324:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.74
-    349:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.75
-    78:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.76
-    328:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.77
-    51:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.78
-    337:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.79
-    - brezno_na_toscu.2016.20160827_matija_flis_spela_diba_usrana_jama.2.79
-    272:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.80
-    285:
-    - brezno_na_toscu.2016.20160827_matija_flis_spela_diba_usrana_jama.3.0
-    79:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.81
-    187:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.82
-    316:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.83
-    319:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.84
-    76:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.85
-    234:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.86
-    82:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.87
-    40:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.88
-    158:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.89
-    160:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.90
-    46:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.91
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.91
-    331:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.92
-    67:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.101
-    107:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_butrus.2.93
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.93
-    13:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.94
-    123:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.95
-    269:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.96
-    338:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.97
-    136:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.98
-    23:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.99
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.2.99
-    112:
-    - brezno_na_toscu.2015.20151024_spela_matija_skufca_diba_pt2.2.100
-    60:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.24
-    239:
-    - brezno_na_toscu.2016.20160827_matija_flis_spela_diba_usrana_jama.3.1
-    289:
-    - brezno_na_toscu.2016.20160827_matija_flis_spela_diba_usrana_jama.3.2
-    159:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.102
-    181:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.103
-    14:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.104
-    122:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.105
-    146:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.106
-    278:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.107
-    71:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.108
-    56:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.109
-    185:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.110
-    250:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.111
-    171:
-    - brezno_na_toscu.2016.20160827_flis_diba_odcepek.2.112
-    261:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.0
-    276:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.1
-    189:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.2
-    92:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.3
-    27:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.4
-    95:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.7
-    245:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.5
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.10.5
-    267:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.6
-    353:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.1
-    59:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.8
-    130:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.9
-    30:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.10
-    335:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.11
-    103:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.12
-    35:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.13
-    6:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.14
-    264:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.15
-    251:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.16
-    105:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.17
-    142:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.18
-    165:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.19
-    352:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.20
-    255:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.21
-    120:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.22
-    42:
-    - brezno_na_toscu.2018.20180616_jure_diba_lambada.10.23
-    186:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.2
-    330:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.3
-    169:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.4
-    210:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.5
-    262:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.6
-    0:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.7
-    145:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.8
-    50:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.9
-    126:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.10
-    253:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.11
-    298:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.12
-    295:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.13
-    77:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.14
-    52:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.15
-    155:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.16
-    286:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.17
-    54:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.18
-    321:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.19
-    313:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.20
-    174:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.21
-    143:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.22
-    80:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.23
-    116:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.25
-    65:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.24
-    292:
-    - brezno_na_toscu.2018.20180624_lojze_jure_diba_skoraj_drzavnost.11.26
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.11.26
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.0
-    273:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.1
-    233:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.1
-    192:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.2
-    312:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.3
-    332:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.4
-    7:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.5
-    93:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.6
-    327:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.7
-    310:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.8
-    191:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.9
-    29:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.10
-    100:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.11
-    1:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.12
-    48:
-    - brezno_na_toscu.2018.20180624_spela_krajnc_vid_strgana_preopremljena_staticna_vrvv.4.13
-    125:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.2
-    96:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.3
-    212:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.4
-    61:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.5
-    205:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.6
-    64:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.7
-    214:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.8
-    242:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.9
-    147:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.10
-    203:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.11
-    323:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.12
-    129:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.13
-    69:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.14
-    314:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.15
-    133:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.16
-    355:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.17
-    202:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.18
-    111:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.19
-    41:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.20
-    303:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.21
-    132:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.22
-    20:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.23
-    19:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.24
-    359:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.25
-    275:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.26
-    235:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.27
-    284:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.28
-    215:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.29
-    33:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.30
-    106:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.31
-    305:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.32
-    183:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.33
-    170:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.34
-    188:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.35
-    194:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.36
-    89:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.37
-    32:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.38
-    55:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.39
-    208:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.40
-    109:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.41
-    37:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.42
-    2:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.43
-    206:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.44
-    195:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.45
-    162:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.46
-    97:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.47
-    177:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.48
-    140:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.49
-    232:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.50
-    268:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.51
-    248:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.52
-    243:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.53
-    102:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.54
-    288:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.55
-    45:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.56
-    53:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.57
-    124:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.58
-    356:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.59
-    141:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.60
-    25:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.61
-    22:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.62
-    252:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.63
-    225:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.64
-    137:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.65
-    259:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.66
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.12.66
-    238:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.67
-    306:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.1
-    98:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.68
-    333:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.69
-    334:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.70
-    11:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.71
-    153:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.72
-    17:
-    - brezno_na_toscu.2018.20181013_jure_dibi_spela_bazen.12.73
-    75:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.2
-    348:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.3
-    87:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.4
-    228:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.5
-    236:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.6
-    190:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.7
-    173:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.8
-    227:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.9
-    344:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.10
-    318:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.11
-    127:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.13
-    279:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.12
-    226:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.14
-    256:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.15
-    94:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.17
-    101:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.16
-    166:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.18
-    246:
-    - brezno_na_toscu.2020.20200919_bnt_fosilci_nad_macjim.13.19
   pos:
     5:
     - 412775.0
@@ -17463,740 +18189,3 @@ node_attributes:
     - 412740.03
     - 134197.33
     - 1453.21
-  idsql:
-    5:
-    - 1
-    216:
-    - 14
-    281:
-    - 45
-    161:
-    - 72
-    244:
-    - 91
-    240:
-    - 97
-    62:
-    - 109
-    198:
-    - 129
-    154:
-    - 152
-    135:
-    - 153
-    156:
-    - 165
-    176:
-    - 168
-    12:
-    - 179
-    163:
-    - 198
-    257:
-    - 219
-    280:
-    - 220
-    149:
-    - 238
-    307:
-    - 256
-    58:
-    - 257
-    290:
-    - 274
-    167:
-    - 293
-    241:
-    - 292
-    229:
-    - 314
-    220:
-    - 323
-    213:
-    - 338
-    201:
-    - 345
-    26:
-    - 354
-    90:
-    - 356
-    263:
-    - 364
-    350:
-    - 372
-    47:
-    - 385
-    182:
-    - 396
-    221:
-    - 403
-    9:
-    - 417
-    144:
-    - 418
-    342:
-    - 426
-    207:
-    - 441
-    346:
-    - 467
-    - 490
-    317:
-    - 495
-    28:
-    - 511
-    308:
-    - 531
-    230:
-    - 552
-    110:
-    - 567
-    217:
-    - 585
-    336:
-    - 616
-    131:
-    - 645
-    114:
-    - 643
-    326:
-    - 663
-    36:
-    - 684
-    168:
-    - 701
-    43:
-    - 702
-    219:
-    - 708
-    139:
-    - 716
-    320:
-    - 723
-    39:
-    - 736
-    118:
-    - 754
-    108:
-    - 778
-    270:
-    - 806
-    204:
-    - 829
-    84:
-    - 849
-    274:
-    - 865
-    197:
-    - 867
-    150:
-    - 886
-    10:
-    - 917
-    277:
-    - 946
-    304:
-    - 966
-    224:
-    - 1053
-    - 1421
-    - 1422
-    282:
-    - 985
-    49:
-    - 1011
-    271:
-    - 1052
-    297:
-    - 1069
-    68:
-    - 1423
-    254:
-    - 1088
-    296:
-    - 1119
-    31:
-    - 1143
-    157:
-    - 1163
-    343:
-    - 1184
-    148:
-    - 1199
-    311:
-    - 1213
-    260:
-    - 1229
-    247:
-    - 1234
-    354:
-    - 1253
-    21:
-    - 1270
-    113:
-    - 1284
-    121:
-    - 1299
-    345:
-    - 1323
-    258:
-    - 1351
-    287:
-    - 1387
-    351:
-    - 1392
-    293:
-    - 1420
-    - 3722
-    99:
-    - 3720
-    265:
-    - 1427
-    299:
-    - 1437
-    88:
-    - 1452
-    294:
-    - 1477
-    74:
-    - 1490
-    70:
-    - 1512
-    115:
-    - 1531
-    200:
-    - 1550
-    152:
-    - 1572
-    83:
-    - 1589
-    57:
-    - 1602
-    119:
-    - 1612
-    302:
-    - 1632
-    193:
-    - 1651
-    34:
-    - 1676
-    266:
-    - 1695
-    301:
-    - 1713
-    3:
-    - 1727
-    38:
-    - 1750
-    104:
-    - 1780
-    85:
-    - 1802
-    86:
-    - 1818
-    178:
-    - 1825
-    172:
-    - 1836
-    72:
-    - 1855
-    175:
-    - 1870
-    16:
-    - 1882
-    283:
-    - 1892
-    117:
-    - 1931
-    81:
-    - 1951
-    347:
-    - 1990
-    - 2012
-    357:
-    - 2016
-    196:
-    - 2027
-    24:
-    - 2028
-    8:
-    - 2029
-    300:
-    - 2041
-    339:
-    - 2052
-    315:
-    - 2053
-    184:
-    - 2063
-    134:
-    - 2084
-    15:
-    - 2097
-    360:
-    - 2111
-    128:
-    - 2119
-    237:
-    - 2124
-    322:
-    - 2133
-    218:
-    - 2143
-    231:
-    - 2144
-    4:
-    - 2158
-    164:
-    - 2171
-    341:
-    - 2185
-    18:
-    - 2187
-    73:
-    - 2201
-    63:
-    - 2215
-    209:
-    - 2216
-    222:
-    - 2238
-    199:
-    - 2336
-    211:
-    - 2255
-    358:
-    - 2277
-    325:
-    - 2290
-    138:
-    - 2301
-    180:
-    - 2302
-    309:
-    - 2321
-    179:
-    - 2335
-    - 2343
-    249:
-    - 2369
-    291:
-    - 2337
-    151:
-    - 2342
-    66:
-    - 2377
-    91:
-    - 2383
-    329:
-    - 2394
-    340:
-    - 2409
-    223:
-    - 2415
-    44:
-    - 2427
-    324:
-    - 2434
-    349:
-    - 2447
-    78:
-    - 2452
-    328:
-    - 2466
-    51:
-    - 2483
-    337:
-    - 2494
-    - 2767
-    272:
-    - 2503
-    285:
-    - 2769
-    79:
-    - 2512
-    187:
-    - 2521
-    316:
-    - 2532
-    319:
-    - 2544
-    76:
-    - 2554
-    234:
-    - 2567
-    82:
-    - 2576
-    40:
-    - 2590
-    158:
-    - 2601
-    160:
-    - 2608
-    46:
-    - 2621
-    - 2855
-    331:
-    - 2635
-    67:
-    - 2871
-    107:
-    - 2646
-    - 2647
-    13:
-    - 2660
-    123:
-    - 2676
-    269:
-    - 2695
-    338:
-    - 2714
-    136:
-    - 2717
-    23:
-    - 2730
-    - 3361
-    112:
-    - 2749
-    60:
-    - 3354
-    239:
-    - 2802
-    289:
-    - 2834
-    159:
-    - 2899
-    181:
-    - 2930
-    14:
-    - 2931
-    122:
-    - 2968
-    146:
-    - 2970
-    278:
-    - 2989
-    71:
-    - 2998
-    56:
-    - 3008
-    185:
-    - 3013
-    250:
-    - 3016
-    171:
-    - 3032
-    261:
-    - 3079
-    276:
-    - 3081
-    189:
-    - 3093
-    92:
-    - 3103
-    27:
-    - 3114
-    95:
-    - 3135
-    245:
-    - 3125
-    - 3362
-    267:
-    - 3132
-    353:
-    - 3369
-    59:
-    - 3148
-    130:
-    - 3164
-    30:
-    - 3176
-    335:
-    - 3187
-    103:
-    - 3200
-    35:
-    - 3215
-    6:
-    - 3226
-    264:
-    - 3242
-    251:
-    - 3263
-    105:
-    - 3279
-    142:
-    - 3295
-    165:
-    - 3302
-    352:
-    - 3315
-    255:
-    - 3333
-    120:
-    - 3347
-    42:
-    - 3348
-    186:
-    - 3391
-    330:
-    - 3401
-    169:
-    - 3409
-    210:
-    - 3418
-    262:
-    - 3441
-    0:
-    - 3451
-    145:
-    - 3460
-    50:
-    - 3468
-    126:
-    - 3478
-    253:
-    - 3488
-    298:
-    - 3499
-    295:
-    - 3512
-    77:
-    - 3513
-    52:
-    - 3530
-    155:
-    - 3540
-    286:
-    - 3549
-    54:
-    - 3557
-    321:
-    - 3566
-    313:
-    - 3574
-    174:
-    - 3575
-    143:
-    - 3609
-    80:
-    - 3639
-    116:
-    - 3675
-    65:
-    - 3651
-    292:
-    - 3691
-    - 3807
-    - 3808
-    273:
-    - 3814
-    233:
-    - 3723
-    192:
-    - 3733
-    312:
-    - 3739
-    332:
-    - 3744
-    7:
-    - 3749
-    93:
-    - 3754
-    327:
-    - 3759
-    310:
-    - 3763
-    191:
-    - 3768
-    29:
-    - 3772
-    100:
-    - 3777
-    1:
-    - 3791
-    48:
-    - 3798
-    125:
-    - 3827
-    96:
-    - 3845
-    212:
-    - 3858
-    61:
-    - 3879
-    205:
-    - 3891
-    64:
-    - 3907
-    214:
-    - 3923
-    242:
-    - 3933
-    147:
-    - 3941
-    203:
-    - 3959
-    323:
-    - 3970
-    129:
-    - 3987
-    69:
-    - 4001
-    314:
-    - 4020
-    133:
-    - 4034
-    355:
-    - 4044
-    202:
-    - 4053
-    111:
-    - 4057
-    41:
-    - 4058
-    303:
-    - 4065
-    132:
-    - 4074
-    20:
-    - 4081
-    19:
-    - 4095
-    359:
-    - 4110
-    275:
-    - 4127
-    235:
-    - 4140
-    284:
-    - 4158
-    215:
-    - 4166
-    33:
-    - 4175
-    106:
-    - 4187
-    305:
-    - 4199
-    183:
-    - 4212
-    170:
-    - 4220
-    188:
-    - 4225
-    194:
-    - 4233
-    89:
-    - 4242
-    32:
-    - 4247
-    55:
-    - 4251
-    208:
-    - 4262
-    109:
-    - 4270
-    37:
-    - 4276
-    2:
-    - 4282
-    206:
-    - 4288
-    195:
-    - 4292
-    162:
-    - 4299
-    97:
-    - 4304
-    177:
-    - 4310
-    140:
-    - 4317
-    232:
-    - 4322
-    268:
-    - 4330
-    248:
-    - 4336
-    243:
-    - 4344
-    102:
-    - 4353
-    288:
-    - 4361
-    45:
-    - 4368
-    53:
-    - 4374
-    124:
-    - 4381
-    356:
-    - 4391
-    141:
-    - 4400
-    25:
-    - 4409
-    22:
-    - 4417
-    252:
-    - 4424
-    225:
-    - 4428
-    137:
-    - 4441
-    259:
-    - 4450
-    - 4546
-    238:
-    - 4460
-    306:
-    - 4545
-    98:
-    - 4477
-    333:
-    - 4483
-    334:
-    - 4496
-    11:
-    - 4512
-    153:
-    - 4515
-    17:
-    - 4544
-    75:
-    - 4547
-    348:
-    - 4548
-    87:
-    - 4549
-    228:
-    - 4550
-    236:
-    - 4551
-    190:
-    - 4570
-    173:
-    - 4593
-    227:
-    - 4605
-    344:
-    - 4625
-    318:
-    - 4641
-    127:
-    - 4674
-    279:
-    - 4655
-    226:
-    - 4687
-    256:
-    - 4707
-    94:
-    - 4737
-    101:
-    - 4717
-    166:
-    - 4750
-    246:
-    - 4759

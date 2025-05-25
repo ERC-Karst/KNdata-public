@@ -1,0 +1,64 @@
+number: 009
+short_name: Folly
+status: in github (cleaning in progress)
+type_of_correction: no correction
+type_dataset: Online
+original_format: Therion
+original - sql: .nan
+length_approx_meter: 85619.0
+connected_components: multiple caves
+license: CC BY-NC-SA 4.0
+id_dataset: GH1
+comments_cave_info: .nan
+full_name: Massif du Folly
+all_data_format: Therion
+geometry: .nan
+units: meter
+original_filename: .nan
+original_encoding: .nan
+crs: epsg:32632
+crs_other: epsg:32632 (WGS84 / UTM zone 32N)
+country: France
+state: .nan
+area: .nan
+locality: Samoens
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+length_official_meter: '80256'
+length_dataset: .nan
+denivelation: '1891'
+cave_url: .nan
+supplemental_links: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: 'Robert, X. (2021). Base de données Topographiques des systèmes karstiques
+  du massif du Folly (Samoëns, 74, France) (Version v1.0.0) [Dataset]. Zenodo. https://doi.org/DOI:
+  10.5281/ZENODO.4745567'''
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 05 May 2025
+percentage_csidm: 10
+number_connected_components: 148
+number_nodes: 13947
+number_edges: 13885
+number_cycles: 86
+total_length: 85619

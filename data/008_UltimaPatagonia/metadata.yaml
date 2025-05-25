@@ -1,0 +1,63 @@
+number: 008
+short_name: UltimaPatagonia
+status: in github (cleaning in progress)
+type_of_correction: no correction
+type_dataset: Call for data
+original_format: Therion
+original - sql: .nan
+length_approx_meter: 39238.0
+connected_components: multiple caves
+license: CC BY-NC-SA 4.0
+id_dataset: GH3
+comments_cave_info: .nan
+full_name: Ultima Patagonia
+all_data_format: Therion
+geometry: .nan
+units: meter
+original_filename: .nan
+original_encoding: UTF-8
+crs: epsg:32718
+crs_other: epsg:32718 (Patagonia)
+country: Chile
+state: .nan
+area: .nan
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+length_official_meter: '39238'
+length_dataset: .nan
+denivelation: .nan
+cave_url: .nan
+supplemental_links: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: Centre Terre. (2024). Survey Data for the Ultima Patagonia Cave Exploration
+  project [Dataset]. https://github.com/tr1813/ultima-patag
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 05 May 2025
+percentage_csidm: 16
+number_connected_components: 107
+number_nodes: 5449
+number_edges: 5400
+number_cycles: 58
+total_length: 38750

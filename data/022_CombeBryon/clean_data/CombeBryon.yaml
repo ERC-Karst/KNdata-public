@@ -3,22 +3,23 @@ metadata:
   short_name: CombeBryon
   status: clean
   type_of_correction: no correction
-  type_dataset: Call for data
-  original_format: Toporobot
-  original - sql: .nan
-  length_approx_meter: 4158.0
-  connected_components: single cave
+  last_processing_date: 05 May 2025
   license: CC BY-NC-SA 4.0
+  citation: Unknown yet
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 4198
+  percentage_csidm: 92
+  number_connected_components: 1
+  number_nodes: 606
+  number_edges: 615
+  number_cycles: 10
+  original_format: Toporobot
   id_dataset: JD
   comments_cave_info: "JD int\xE9ress\xE9 par version therion"
   full_name: "R\xE9seau de la Combe du Bryon"
-  all_data_format: Toporobot, Visual Topo
   geometry: lrud
   units: meter
-  original_filename: Bryon-Reseau.Text
-  original_encoding: CP 437
-  crs: epsg:21781
-  crs_other: epsg:21781 (CH 1903 LV03 - Old)
   country: Switzerland
   state: Vaud
   area: .nan
@@ -27,17 +28,11 @@ metadata:
   country_cave_id: .nan
   local_id: .nan
   local_coordinate_system: .nan
-  local_easting_coordinate: .nan
-  local_northing_coordinate: .nan
   latitude: 46.3719
   longitude: 7.022
   altitude: '1711'
-  length_official_meter: '4614'
-  length_dataset: .nan
-  denivelation: '646'
   cave_url: https://grottocenter.org/ui/caves/75515
   supplemental_links: http://www.speleo-lausanne.ch/06_Activites/Explorations/Vd-alpes/Mayen-Famelon/Bryon/Reseau/_Reseau-Combe-Bryon.htm
-  contract_file: .nan
   data_reception_date: .nan
   data_received_by: .nan
   start_contract: .nan
@@ -45,16 +40,10 @@ metadata:
   cave_survey_owner: .nan
   website: .nan
   email_correspondant: .nan
-  citation: Unknown yet
-  thanks: .nan
-  sharing_conditions: .nan
   rawdata_rights: .nan
   clean_graph_rights: .nan
   anonymised_graph_rights: .nan
-  statistical_results: .nan
-  sample_figures: .nan
   comments_dataset: .nan
-  last_processing_date: 05 May 2025
 edges:
 - - 532
   - 563
@@ -1319,6 +1308,2530 @@ edge_attributes:
     : - add
       - add
 node_attributes:
+  idsql:
+    532:
+    - 1
+    563:
+    - 2
+    322:
+    - 3
+    205:
+    - 4
+    - 6
+    244:
+    - 5
+    319:
+    - 7
+    567:
+    - 8
+    135:
+    - 9
+    396:
+    - 10
+    359:
+    - 11
+    120:
+    - 12
+    102:
+    - 13
+    23:
+    - 14
+    196:
+    - 15
+    434:
+    - 16
+    267:
+    - 17
+    365:
+    - 18
+    1:
+    - 19
+    - 20
+    372:
+    - 21
+    136:
+    - 22
+    541:
+    - 23
+    163:
+    - 24
+    199:
+    - 25
+    536:
+    - 26
+    461:
+    - 27
+    395:
+    - 28
+    71:
+    - 29
+    - 30
+    - 36
+    232:
+    - 31
+    - 32
+    218:
+    - 37
+    - 38
+    175:
+    - 33
+    57:
+    - 34
+    64:
+    - 35
+    588:
+    - 39
+    99:
+    - 40
+    534:
+    - 41
+    145:
+    - 42
+    - 68
+    49:
+    - 43
+    449:
+    - 69
+    327:
+    - 44
+    106:
+    - 45
+    554:
+    - 46
+    113:
+    - 47
+    50:
+    - 48
+    384:
+    - 49
+    363:
+    - 50
+    200:
+    - 51
+    157:
+    - 52
+    523:
+    - 53
+    371:
+    - 54
+    103:
+    - 55
+    63:
+    - 56
+    326:
+    - 57
+    324:
+    - 58
+    75:
+    - 59
+    254:
+    - 60
+    19:
+    - 61
+    524:
+    - 62
+    3:
+    - 63
+    601:
+    - 64
+    - 81
+    100:
+    - 65
+    456:
+    - 82
+    165:
+    - 66
+    494:
+    - 67
+    - 100
+    - 156
+    - 160
+    320:
+    - 101
+    316:
+    - 157
+    455:
+    - 161
+    15:
+    - 70
+    352:
+    - 71
+    374:
+    - 72
+    216:
+    - 73
+    420:
+    - 74
+    - 77
+    339:
+    - 75
+    265:
+    - 78
+    40:
+    - 76
+    533:
+    - 79
+    217:
+    - 80
+    548:
+    - 83
+    451:
+    - 84
+    38:
+    - 85
+    148:
+    - 86
+    193:
+    - 87
+    289:
+    - 88
+    482:
+    - 89
+    - 96
+    60:
+    - 90
+    303:
+    - 97
+    107:
+    - 91
+    28:
+    - 92
+    555:
+    - 93
+    290:
+    - 94
+    174:
+    - 95
+    605:
+    - 98
+    508:
+    - 99
+    284:
+    - 102
+    529:
+    - 103
+    502:
+    - 104
+    585:
+    - 105
+    207:
+    - 106
+    294:
+    - 107
+    361:
+    - 108
+    84:
+    - 109
+    201:
+    - 110
+    424:
+    - 111
+    39:
+    - 112
+    37:
+    - 113
+    155:
+    - 114
+    17:
+    - 115
+    - 116
+    362:
+    - 117
+    338:
+    - 118
+    2:
+    - 119
+    192:
+    - 120
+    381:
+    - 121
+    260:
+    - 122
+    286:
+    - 123
+    277:
+    - 124
+    551:
+    - 125
+    42:
+    - 126
+    274:
+    - 127
+    388:
+    - 128
+    607:
+    - 129
+    423:
+    - 130
+    132:
+    - 131
+    41:
+    - 132
+    347:
+    - 133
+    584:
+    - 134
+    595:
+    - 135
+    130:
+    - 136
+    138:
+    - 137
+    438:
+    - 138
+    412:
+    - 139
+    88:
+    - 140
+    342:
+    - 141
+    565:
+    - 142
+    485:
+    - 143
+    188:
+    - 144
+    228:
+    - 145
+    - 380
+    280:
+    - 146
+    87:
+    - 379
+    186:
+    - 147
+    - 375
+    152:
+    - 148
+    - 150
+    245:
+    - 374
+    467:
+    - 149
+    337:
+    - 151
+    114:
+    - 152
+    296:
+    - 153
+    454:
+    - 154
+    164:
+    - 155
+    104:
+    - 158
+    118:
+    - 159
+    472:
+    - 162
+    - 163
+    83:
+    - 164
+    121:
+    - 165
+    110:
+    - 166
+    65:
+    - 167
+    - 188
+    242:
+    - 168
+    591:
+    - 189
+    443:
+    - 169
+    133:
+    - 170
+    590:
+    - 171
+    377:
+    - 172
+    80:
+    - 173
+    505:
+    - 174
+    158:
+    - 175
+    515:
+    - 176
+    178:
+    - 177
+    483:
+    - 178
+    137:
+    - 179
+    - 180
+    537:
+    - 181
+    545:
+    - 182
+    - 192
+    466:
+    - 183
+    364:
+    - 193
+    59:
+    - 184
+    0:
+    - 185
+    34:
+    - 186
+    54:
+    - 187
+    - 257
+    573:
+    - 190
+    6:
+    - 191
+    606:
+    - 194
+    115:
+    - 195
+    66:
+    - 196
+    609:
+    - 197
+    67:
+    - 198
+    - 241
+    85:
+    - 199
+    79:
+    - 242
+    13:
+    - 200
+    215:
+    - 201
+    517:
+    - 202
+    401:
+    - 203
+    16:
+    - 204
+    487:
+    - 205
+    404:
+    - 206
+    568:
+    - 207
+    255:
+    - 208
+    - 246
+    20:
+    - 209
+    425:
+    - 247
+    522:
+    - 210
+    125:
+    - 211
+    397:
+    - 212
+    18:
+    - 213
+    473:
+    - 214
+    287:
+    - 215
+    538:
+    - 216
+    221:
+    - 217
+    373:
+    - 218
+    610:
+    - 219
+    10:
+    - 220
+    285:
+    - 221
+    475:
+    - 222
+    572:
+    - 223
+    202:
+    - 224
+    29:
+    - 225
+    56:
+    - 226
+    351:
+    - 227
+    571:
+    - 228
+    156:
+    - 229
+    379:
+    - 230
+    464:
+    - 231
+    224:
+    - 232
+    599:
+    - 233
+    499:
+    - 234
+    509:
+    - 235
+    453:
+    - 236
+    234:
+    - 237
+    387:
+    - 238
+    496:
+    - 239
+    463:
+    - 240
+    427:
+    - 243
+    229:
+    - 244
+    225:
+    - 245
+    105:
+    - 248
+    422:
+    - 249
+    - 250
+    375:
+    - 251
+    230:
+    - 252
+    - 253
+    314:
+    - 254
+    526:
+    - 255
+    514:
+    - 256
+    261:
+    - 263
+    - 264
+    134:
+    - 265
+    380:
+    - 266
+    220:
+    - 267
+    333:
+    - 268
+    428:
+    - 269
+    126:
+    - 270
+    367:
+    - 271
+    146:
+    - 272
+    210:
+    - 273
+    36:
+    - 274
+    184:
+    - 275
+    491:
+    - 276
+    266:
+    - 277
+    492:
+    - 278
+    480:
+    - 279
+    546:
+    - 280
+    46:
+    - 281
+    151:
+    - 282
+    - 326
+    279:
+    - 283
+    271:
+    - 325
+    129:
+    - 284
+    600:
+    - 285
+    74:
+    - 286
+    116:
+    - 287
+    349:
+    - 288
+    542:
+    - 289
+    180:
+    - 290
+    238:
+    - 291
+    592:
+    - 292
+    206:
+    - 293
+    - 310
+    77:
+    - 294
+    92:
+    - 311
+    170:
+    - 295
+    - 327
+    488:
+    - 296
+    431:
+    - 328
+    501:
+    - 297
+    78:
+    - 298
+    168:
+    - 299
+    416:
+    - 300
+    185:
+    - 301
+    315:
+    - 302
+    213:
+    - 303
+    98:
+    - 304
+    131:
+    - 305
+    - 653
+    262:
+    - 306
+    273:
+    - 654
+    305:
+    - 307
+    444:
+    - 308
+    558:
+    - 309
+    - 346
+    - 381
+    561:
+    - 347
+    405:
+    - 382
+    142:
+    - 312
+    321:
+    - 313
+    355:
+    - 314
+    465:
+    - 315
+    452:
+    - 316
+    95:
+    - 317
+    408:
+    - 318
+    390:
+    - 319
+    248:
+    - 320
+    489:
+    - 321
+    209:
+    - 322
+    241:
+    - 323
+    96:
+    - 324
+    292:
+    - 329
+    503:
+    - 330
+    122:
+    - 331
+    527:
+    - 332
+    336:
+    - 333
+    181:
+    - 334
+    589:
+    - 335
+    161:
+    - 336
+    356:
+    - 337
+    433:
+    - 338
+    383:
+    - 339
+    240:
+    - 340
+    419:
+    - 341
+    376:
+    - 342
+    468:
+    - 343
+    219:
+    - 344
+    302:
+    - 345
+    108:
+    - 348
+    471:
+    - 349
+    382:
+    - 350
+    141:
+    - 351
+    586:
+    - 352
+    94:
+    - 353
+    159:
+    - 354
+    406:
+    - 355
+    166:
+    - 356
+    604:
+    - 357
+    445:
+    - 358
+    421:
+    - 359
+    437:
+    - 360
+    344:
+    - 361
+    411:
+    - 362
+    5:
+    - 363
+    341:
+    - 364
+    43:
+    - 365
+    259:
+    - 366
+    559:
+    - 367
+    389:
+    - 368
+    127:
+    - 369
+    596:
+    - 370
+    447:
+    - 371
+    - 376
+    226:
+    - 372
+    - 657
+    409:
+    - 377
+    288:
+    - 373
+    212:
+    - 658
+    154:
+    - 378
+    350:
+    - 383
+    309:
+    - 384
+    24:
+    - 385
+    519:
+    - 386
+    476:
+    - 387
+    513:
+    - 388
+    - 449
+    353:
+    - 389
+    417:
+    - 450
+    264:
+    - 390
+    162:
+    - 391
+    553:
+    - 392
+    223:
+    - 393
+    549:
+    - 394
+    27:
+    - 395
+    391:
+    - 396
+    430:
+    - 397
+    47:
+    - 398
+    459:
+    - 399
+    518:
+    - 400
+    470:
+    - 401
+    58:
+    - 402
+    231:
+    - 403
+    530:
+    - 404
+    582:
+    - 405
+    598:
+    - 406
+    117:
+    - 407
+    268:
+    - 408
+    21:
+    - 409
+    510:
+    - 410
+    12:
+    - 411
+    - 474
+    346:
+    - 412
+    72:
+    - 475
+    602:
+    - 413
+    498:
+    - 414
+    587:
+    - 415
+    7:
+    - 416
+    511:
+    - 417
+    69:
+    - 418
+    579:
+    - 419
+    547:
+    - 420
+    457:
+    - 421
+    334:
+    - 422
+    - 473
+    101:
+    - 423
+    317:
+    - 472
+    415:
+    - 424
+    550:
+    - 425
+    446:
+    - 426
+    328:
+    - 427
+    562:
+    - 428
+    70:
+    - 429
+    55:
+    - 430
+    249:
+    - 431
+    448:
+    - 432
+    580:
+    - 433
+    252:
+    - 434
+    246:
+    - 435
+    177:
+    - 436
+    25:
+    - 437
+    276:
+    - 438
+    394:
+    - 439
+    332:
+    - 440
+    486:
+    - 441
+    398:
+    - 442
+    140:
+    - 443
+    90:
+    - 444
+    439:
+    - 445
+    243:
+    - 446
+    429:
+    - 447
+    76:
+    - 448
+    - 509
+    - 555
+    281:
+    - 510
+    30:
+    - 556
+    214:
+    - 451
+    399:
+    - 452
+    331:
+    - 453
+    310:
+    - 454
+    539:
+    - 455
+    392:
+    - 456
+    53:
+    - 457
+    250:
+    - 458
+    413:
+    - 459
+    540:
+    - 460
+    516:
+    - 461
+    402:
+    - 462
+    86:
+    - 463
+    521:
+    - 464
+    147:
+    - 465
+    62:
+    - 466
+    557:
+    - 467
+    190:
+    - 468
+    291:
+    - 469
+    312:
+    - 470
+    211:
+    - 471
+    227:
+    - 476
+    369:
+    - 477
+    4:
+    - 478
+    222:
+    - 479
+    139:
+    - 480
+    311:
+    - 481
+    477:
+    - 482
+    208:
+    - 483
+    204:
+    - 484
+    32:
+    - 485
+    474:
+    - 486
+    577:
+    - 487
+    198:
+    - 488
+    335:
+    - 489
+    173:
+    - 490
+    330:
+    - 491
+    48:
+    - 492
+    410:
+    - 493
+    442:
+    - 494
+    603:
+    - 495
+    35:
+    - 496
+    566:
+    - 497
+    481:
+    - 498
+    506:
+    - 499
+    251:
+    - 500
+    306:
+    - 501
+    297:
+    - 502
+    400:
+    - 503
+    440:
+    - 504
+    578:
+    - 505
+    183:
+    - 506
+    450:
+    - 507
+    531:
+    - 508
+    91:
+    - 511
+    44:
+    - 512
+    253:
+    - 513
+    343:
+    - 514
+    403:
+    - 515
+    51:
+    - 516
+    414:
+    - 517
+    300:
+    - 518
+    581:
+    - 519
+    500:
+    - 520
+    119:
+    - 521
+    358:
+    - 522
+    11:
+    - 523
+    111:
+    - 524
+    182:
+    - 525
+    504:
+    - 526
+    497:
+    - 527
+    282:
+    - 528
+    299:
+    - 529
+    575:
+    - 530
+    8:
+    - 531
+    301:
+    - 532
+    191:
+    - 533
+    360:
+    - 534
+    574:
+    - 535
+    556:
+    - 536
+    308:
+    - 537
+    283:
+    - 538
+    298:
+    - 539
+    263:
+    - 540
+    128:
+    - 541
+    329:
+    - 542
+    247:
+    - 543
+    458:
+    - 544
+    325:
+    - 545
+    153:
+    - 546
+    569:
+    - 547
+    124:
+    - 548
+    304:
+    - 549
+    393:
+    - 550
+    197:
+    - 551
+    564:
+    - 552
+    520:
+    - 553
+    543:
+    - 554
+    583:
+    - 557
+    435:
+    - 558
+    490:
+    - 559
+    - 623
+    189:
+    - 560
+    593:
+    - 624
+    257:
+    - 561
+    195:
+    - 562
+    272:
+    - 563
+    - 652
+    275:
+    - 564
+    179:
+    - 651
+    82:
+    - 565
+    123:
+    - 566
+    386:
+    - 567
+    235:
+    - 568
+    256:
+    - 569
+    370:
+    - 570
+    203:
+    - 571
+    462:
+    - 572
+    525:
+    - 573
+    576:
+    - 574
+    478:
+    - 575
+    597:
+    - 576
+    378:
+    - 577
+    143:
+    - 578
+    426:
+    - 579
+    307:
+    - 580
+    469:
+    - 581
+    348:
+    - 582
+    608:
+    - 583
+    594:
+    - 584
+    495:
+    - 585
+    570:
+    - 586
+    432:
+    - 587
+    169:
+    - 588
+    385:
+    - 589
+    33:
+    - 590
+    97:
+    - 591
+    357:
+    - 592
+    52:
+    - 593
+    172:
+    - 594
+    368:
+    - 595
+    61:
+    - 596
+    258:
+    - 597
+    239:
+    - 598
+    278:
+    - 599
+    31:
+    - 600
+    233:
+    - 601
+    460:
+    - 602
+    418:
+    - 603
+    560:
+    - 604
+    269:
+    - 605
+    - 608
+    493:
+    - 606
+    22:
+    - 609
+    73:
+    - 607
+    236:
+    - 610
+    68:
+    - 611
+    150:
+    - 612
+    26:
+    - 613
+    270:
+    - 614
+    - 615
+    313:
+    - 616
+    - 617
+    81:
+    - 618
+    194:
+    - 619
+    - 620
+    14:
+    - 621
+    479:
+    - 622
+    149:
+    - 625
+    354:
+    - 626
+    552:
+    - 627
+    535:
+    - 628
+    323:
+    - 629
+    176:
+    - 630
+    160:
+    - 631
+    - 638
+    167:
+    - 632
+    528:
+    - 639
+    - 650
+    89:
+    - 633
+    112:
+    - 634
+    366:
+    - 635
+    345:
+    - 636
+    45:
+    - 637
+    171:
+    - 640
+    293:
+    - 641
+    109:
+    - 642
+    544:
+    - 643
+    407:
+    - 644
+    93:
+    - 645
+    - 646
+    187:
+    - 647
+    237:
+    - 648
+    484:
+    - 649
+    318:
+    - 655
+    512:
+    - 656
+    9:
+    - 659
+    441:
+    - 660
+  fulladdress:
+    532:
+    - CombeBryon.1.0
+    563:
+    - CombeBryon.1.1
+    322:
+    - CombeBryon.1.2
+    205:
+    - CombeBryon.1.3
+    - CombeBryon.2.0
+    244:
+    - CombeBryon.1.4
+    319:
+    - CombeBryon.2.1
+    567:
+    - CombeBryon.2.2
+    135:
+    - CombeBryon.2.3
+    396:
+    - CombeBryon.2.4
+    359:
+    - CombeBryon.2.5
+    120:
+    - CombeBryon.2.6
+    102:
+    - CombeBryon.2.7
+    23:
+    - CombeBryon.2.8
+    196:
+    - CombeBryon.2.9
+    434:
+    - CombeBryon.2.10
+    267:
+    - CombeBryon.2.11
+    365:
+    - CombeBryon.2.12
+    1:
+    - CombeBryon.2.13
+    - CombeBryon.2.14
+    372:
+    - CombeBryon.2.15
+    136:
+    - CombeBryon.2.16
+    541:
+    - CombeBryon.2.17
+    163:
+    - CombeBryon.2.18
+    199:
+    - CombeBryon.2.19
+    536:
+    - CombeBryon.2.20
+    461:
+    - CombeBryon.2.21
+    395:
+    - CombeBryon.2.22
+    71:
+    - CombeBryon.2.23
+    - CombeBryon.3.0
+    - CombeBryon.4.0
+    232:
+    - CombeBryon.3.1
+    - CombeBryon.3.2
+    218:
+    - CombeBryon.4.1
+    - CombeBryon.4.2
+    175:
+    - CombeBryon.3.3
+    57:
+    - CombeBryon.3.4
+    64:
+    - CombeBryon.3.5
+    588:
+    - CombeBryon.4.3
+    99:
+    - CombeBryon.4.4
+    534:
+    - CombeBryon.4.5
+    145:
+    - CombeBryon.4.6
+    - CombeBryon.5.0
+    49:
+    - CombeBryon.4.7
+    449:
+    - CombeBryon.5.1
+    327:
+    - CombeBryon.4.8
+    106:
+    - CombeBryon.4.9
+    554:
+    - CombeBryon.4.10
+    113:
+    - CombeBryon.4.11
+    50:
+    - CombeBryon.4.12
+    384:
+    - CombeBryon.4.13
+    363:
+    - CombeBryon.4.14
+    200:
+    - CombeBryon.4.15
+    157:
+    - CombeBryon.4.16
+    523:
+    - CombeBryon.4.17
+    371:
+    - CombeBryon.4.18
+    103:
+    - CombeBryon.4.19
+    63:
+    - CombeBryon.4.20
+    326:
+    - CombeBryon.4.21
+    324:
+    - CombeBryon.4.22
+    75:
+    - CombeBryon.4.23
+    254:
+    - CombeBryon.4.24
+    19:
+    - CombeBryon.4.25
+    524:
+    - CombeBryon.4.26
+    3:
+    - CombeBryon.4.27
+    601:
+    - CombeBryon.4.28
+    - CombeBryon.7.0
+    100:
+    - CombeBryon.4.29
+    456:
+    - CombeBryon.7.1
+    165:
+    - CombeBryon.4.30
+    494:
+    - CombeBryon.4.31
+    - CombeBryon.9.0
+    - CombeBryon.12.0
+    - CombeBryon.13.0
+    320:
+    - CombeBryon.9.1
+    316:
+    - CombeBryon.12.1
+    455:
+    - CombeBryon.13.1
+    15:
+    - CombeBryon.5.2
+    352:
+    - CombeBryon.5.3
+    374:
+    - CombeBryon.5.4
+    216:
+    - CombeBryon.5.5
+    420:
+    - CombeBryon.5.6
+    - CombeBryon.6.0
+    339:
+    - CombeBryon.5.7
+    265:
+    - CombeBryon.6.1
+    40:
+    - CombeBryon.5.8
+    533:
+    - CombeBryon.6.2
+    217:
+    - CombeBryon.6.3
+    548:
+    - CombeBryon.7.2
+    451:
+    - CombeBryon.7.3
+    38:
+    - CombeBryon.7.4
+    148:
+    - CombeBryon.7.5
+    193:
+    - CombeBryon.7.6
+    289:
+    - CombeBryon.7.7
+    482:
+    - CombeBryon.7.8
+    - CombeBryon.8.0
+    60:
+    - CombeBryon.7.9
+    303:
+    - CombeBryon.8.1
+    107:
+    - CombeBryon.7.10
+    28:
+    - CombeBryon.7.11
+    555:
+    - CombeBryon.7.12
+    290:
+    - CombeBryon.7.13
+    174:
+    - CombeBryon.7.14
+    605:
+    - CombeBryon.8.2
+    508:
+    - CombeBryon.8.3
+    284:
+    - CombeBryon.9.2
+    529:
+    - CombeBryon.9.3
+    502:
+    - CombeBryon.9.4
+    585:
+    - CombeBryon.9.5
+    207:
+    - CombeBryon.9.6
+    294:
+    - CombeBryon.9.7
+    361:
+    - CombeBryon.9.8
+    84:
+    - CombeBryon.9.9
+    201:
+    - CombeBryon.9.10
+    424:
+    - CombeBryon.9.11
+    39:
+    - CombeBryon.9.12
+    37:
+    - CombeBryon.9.13
+    155:
+    - CombeBryon.9.14
+    17:
+    - CombeBryon.9.15
+    - CombeBryon.10.0
+    362:
+    - CombeBryon.10.1
+    338:
+    - CombeBryon.10.2
+    2:
+    - CombeBryon.10.3
+    192:
+    - CombeBryon.10.4
+    381:
+    - CombeBryon.10.5
+    260:
+    - CombeBryon.10.6
+    286:
+    - CombeBryon.10.7
+    277:
+    - CombeBryon.10.8
+    551:
+    - CombeBryon.10.9
+    42:
+    - CombeBryon.10.10
+    274:
+    - CombeBryon.10.11
+    388:
+    - CombeBryon.10.12
+    607:
+    - CombeBryon.10.13
+    423:
+    - CombeBryon.10.14
+    132:
+    - CombeBryon.10.15
+    41:
+    - CombeBryon.10.16
+    347:
+    - CombeBryon.10.17
+    584:
+    - CombeBryon.10.18
+    595:
+    - CombeBryon.10.19
+    130:
+    - CombeBryon.10.20
+    138:
+    - CombeBryon.10.21
+    438:
+    - CombeBryon.10.22
+    412:
+    - CombeBryon.10.23
+    88:
+    - CombeBryon.10.24
+    342:
+    - CombeBryon.10.25
+    565:
+    - CombeBryon.10.26
+    485:
+    - CombeBryon.10.27
+    188:
+    - CombeBryon.10.28
+    228:
+    - CombeBryon.10.29
+    - CombeBryon.23.4
+    280:
+    - CombeBryon.10.30
+    87:
+    - CombeBryon.23.3
+    186:
+    - CombeBryon.10.31
+    - CombeBryon.22.29
+    152:
+    - CombeBryon.10.32
+    - CombeBryon.11.0
+    245:
+    - CombeBryon.22.28
+    467:
+    - CombeBryon.10.33
+    337:
+    - CombeBryon.11.1
+    114:
+    - CombeBryon.11.2
+    296:
+    - CombeBryon.11.3
+    454:
+    - CombeBryon.11.4
+    164:
+    - CombeBryon.11.5
+    104:
+    - CombeBryon.12.2
+    118:
+    - CombeBryon.12.3
+    472:
+    - CombeBryon.13.2
+    - CombeBryon.13.3
+    83:
+    - CombeBryon.13.4
+    121:
+    - CombeBryon.13.5
+    110:
+    - CombeBryon.13.6
+    65:
+    - CombeBryon.13.7
+    - CombeBryon.14.0
+    242:
+    - CombeBryon.13.8
+    591:
+    - CombeBryon.14.1
+    443:
+    - CombeBryon.13.9
+    133:
+    - CombeBryon.13.10
+    590:
+    - CombeBryon.13.11
+    377:
+    - CombeBryon.13.12
+    80:
+    - CombeBryon.13.13
+    505:
+    - CombeBryon.13.14
+    158:
+    - CombeBryon.13.15
+    515:
+    - CombeBryon.13.16
+    178:
+    - CombeBryon.13.17
+    483:
+    - CombeBryon.13.18
+    137:
+    - CombeBryon.13.19
+    - CombeBryon.13.20
+    537:
+    - CombeBryon.13.21
+    545:
+    - CombeBryon.13.22
+    - CombeBryon.15.0
+    466:
+    - CombeBryon.13.23
+    364:
+    - CombeBryon.15.1
+    59:
+    - CombeBryon.13.24
+    0:
+    - CombeBryon.13.25
+    34:
+    - CombeBryon.13.26
+    54:
+    - CombeBryon.13.27
+    - CombeBryon.18.0
+    573:
+    - CombeBryon.14.2
+    6:
+    - CombeBryon.14.3
+    606:
+    - CombeBryon.15.2
+    115:
+    - CombeBryon.15.3
+    66:
+    - CombeBryon.15.4
+    609:
+    - CombeBryon.15.5
+    67:
+    - CombeBryon.15.6
+    - CombeBryon.16.0
+    85:
+    - CombeBryon.15.7
+    79:
+    - CombeBryon.16.1
+    13:
+    - CombeBryon.15.8
+    215:
+    - CombeBryon.15.9
+    517:
+    - CombeBryon.15.10
+    401:
+    - CombeBryon.15.11
+    16:
+    - CombeBryon.15.12
+    487:
+    - CombeBryon.15.13
+    404:
+    - CombeBryon.15.14
+    568:
+    - CombeBryon.15.15
+    255:
+    - CombeBryon.15.16
+    - CombeBryon.17.0
+    20:
+    - CombeBryon.15.17
+    425:
+    - CombeBryon.17.1
+    522:
+    - CombeBryon.15.18
+    125:
+    - CombeBryon.15.19
+    397:
+    - CombeBryon.15.20
+    18:
+    - CombeBryon.15.21
+    473:
+    - CombeBryon.15.22
+    287:
+    - CombeBryon.15.23
+    538:
+    - CombeBryon.15.24
+    221:
+    - CombeBryon.15.25
+    373:
+    - CombeBryon.15.26
+    610:
+    - CombeBryon.15.27
+    10:
+    - CombeBryon.15.28
+    285:
+    - CombeBryon.15.29
+    475:
+    - CombeBryon.15.30
+    572:
+    - CombeBryon.15.31
+    202:
+    - CombeBryon.15.32
+    29:
+    - CombeBryon.15.33
+    56:
+    - CombeBryon.15.34
+    351:
+    - CombeBryon.15.35
+    571:
+    - CombeBryon.15.36
+    156:
+    - CombeBryon.15.37
+    379:
+    - CombeBryon.15.38
+    464:
+    - CombeBryon.15.39
+    224:
+    - CombeBryon.15.40
+    599:
+    - CombeBryon.15.41
+    499:
+    - CombeBryon.15.42
+    509:
+    - CombeBryon.15.43
+    453:
+    - CombeBryon.15.44
+    234:
+    - CombeBryon.15.45
+    387:
+    - CombeBryon.15.46
+    496:
+    - CombeBryon.15.47
+    463:
+    - CombeBryon.15.48
+    427:
+    - CombeBryon.16.2
+    229:
+    - CombeBryon.16.3
+    225:
+    - CombeBryon.16.4
+    105:
+    - CombeBryon.17.2
+    422:
+    - CombeBryon.17.3
+    - CombeBryon.17.4
+    375:
+    - CombeBryon.17.5
+    230:
+    - CombeBryon.17.6
+    - CombeBryon.17.7
+    314:
+    - CombeBryon.17.8
+    526:
+    - CombeBryon.17.9
+    514:
+    - CombeBryon.17.10
+    261:
+    - CombeBryon.18.6
+    - CombeBryon.19.0
+    134:
+    - CombeBryon.19.1
+    380:
+    - CombeBryon.19.2
+    220:
+    - CombeBryon.19.3
+    333:
+    - CombeBryon.19.4
+    428:
+    - CombeBryon.19.5
+    126:
+    - CombeBryon.19.6
+    367:
+    - CombeBryon.19.7
+    146:
+    - CombeBryon.19.8
+    210:
+    - CombeBryon.19.9
+    36:
+    - CombeBryon.19.10
+    184:
+    - CombeBryon.19.11
+    491:
+    - CombeBryon.19.12
+    266:
+    - CombeBryon.19.13
+    492:
+    - CombeBryon.19.14
+    480:
+    - CombeBryon.19.15
+    546:
+    - CombeBryon.19.16
+    46:
+    - CombeBryon.19.17
+    151:
+    - CombeBryon.19.18
+    - CombeBryon.20.16
+    279:
+    - CombeBryon.19.19
+    271:
+    - CombeBryon.20.15
+    129:
+    - CombeBryon.19.20
+    600:
+    - CombeBryon.19.21
+    74:
+    - CombeBryon.19.22
+    116:
+    - CombeBryon.19.23
+    349:
+    - CombeBryon.19.24
+    542:
+    - CombeBryon.19.25
+    180:
+    - CombeBryon.19.26
+    238:
+    - CombeBryon.19.27
+    592:
+    - CombeBryon.19.28
+    206:
+    - CombeBryon.19.29
+    - CombeBryon.20.0
+    77:
+    - CombeBryon.19.30
+    92:
+    - CombeBryon.20.1
+    170:
+    - CombeBryon.19.31
+    - CombeBryon.21.0
+    488:
+    - CombeBryon.19.32
+    431:
+    - CombeBryon.21.1
+    501:
+    - CombeBryon.19.33
+    78:
+    - CombeBryon.19.34
+    168:
+    - CombeBryon.19.35
+    416:
+    - CombeBryon.19.36
+    185:
+    - CombeBryon.19.37
+    315:
+    - CombeBryon.19.38
+    213:
+    - CombeBryon.19.39
+    98:
+    - CombeBryon.19.40
+    131:
+    - CombeBryon.19.41
+    - CombeBryon.33.0
+    262:
+    - CombeBryon.19.42
+    273:
+    - CombeBryon.33.1
+    305:
+    - CombeBryon.19.43
+    444:
+    - CombeBryon.19.44
+    558:
+    - CombeBryon.19.45
+    - CombeBryon.22.0
+    - CombeBryon.24.0
+    561:
+    - CombeBryon.22.1
+    405:
+    - CombeBryon.24.1
+    142:
+    - CombeBryon.20.2
+    321:
+    - CombeBryon.20.3
+    355:
+    - CombeBryon.20.4
+    465:
+    - CombeBryon.20.5
+    452:
+    - CombeBryon.20.6
+    95:
+    - CombeBryon.20.7
+    408:
+    - CombeBryon.20.8
+    390:
+    - CombeBryon.20.9
+    248:
+    - CombeBryon.20.10
+    489:
+    - CombeBryon.20.11
+    209:
+    - CombeBryon.20.12
+    241:
+    - CombeBryon.20.13
+    96:
+    - CombeBryon.20.14
+    292:
+    - CombeBryon.21.2
+    503:
+    - CombeBryon.21.3
+    122:
+    - CombeBryon.21.4
+    527:
+    - CombeBryon.21.5
+    336:
+    - CombeBryon.21.6
+    181:
+    - CombeBryon.21.7
+    589:
+    - CombeBryon.21.8
+    161:
+    - CombeBryon.21.9
+    356:
+    - CombeBryon.21.10
+    433:
+    - CombeBryon.21.11
+    383:
+    - CombeBryon.21.12
+    240:
+    - CombeBryon.21.13
+    419:
+    - CombeBryon.21.14
+    376:
+    - CombeBryon.21.15
+    468:
+    - CombeBryon.21.16
+    219:
+    - CombeBryon.21.17
+    302:
+    - CombeBryon.21.18
+    108:
+    - CombeBryon.22.2
+    471:
+    - CombeBryon.22.3
+    382:
+    - CombeBryon.22.4
+    141:
+    - CombeBryon.22.5
+    586:
+    - CombeBryon.22.6
+    94:
+    - CombeBryon.22.7
+    159:
+    - CombeBryon.22.8
+    406:
+    - CombeBryon.22.9
+    166:
+    - CombeBryon.22.10
+    604:
+    - CombeBryon.22.11
+    445:
+    - CombeBryon.22.12
+    421:
+    - CombeBryon.22.13
+    437:
+    - CombeBryon.22.14
+    344:
+    - CombeBryon.22.15
+    411:
+    - CombeBryon.22.16
+    5:
+    - CombeBryon.22.17
+    341:
+    - CombeBryon.22.18
+    43:
+    - CombeBryon.22.19
+    259:
+    - CombeBryon.22.20
+    559:
+    - CombeBryon.22.21
+    389:
+    - CombeBryon.22.22
+    127:
+    - CombeBryon.22.23
+    596:
+    - CombeBryon.22.24
+    447:
+    - CombeBryon.22.25
+    - CombeBryon.23.0
+    226:
+    - CombeBryon.22.26
+    - CombeBryon.34.0
+    409:
+    - CombeBryon.23.1
+    288:
+    - CombeBryon.22.27
+    212:
+    - CombeBryon.34.1
+    154:
+    - CombeBryon.23.2
+    350:
+    - CombeBryon.24.2
+    309:
+    - CombeBryon.24.3
+    24:
+    - CombeBryon.24.4
+    519:
+    - CombeBryon.24.5
+    476:
+    - CombeBryon.24.6
+    513:
+    - CombeBryon.24.7
+    - CombeBryon.25.0
+    353:
+    - CombeBryon.24.8
+    417:
+    - CombeBryon.25.1
+    264:
+    - CombeBryon.24.9
+    162:
+    - CombeBryon.24.10
+    553:
+    - CombeBryon.24.11
+    223:
+    - CombeBryon.24.12
+    549:
+    - CombeBryon.24.13
+    27:
+    - CombeBryon.24.14
+    391:
+    - CombeBryon.24.15
+    430:
+    - CombeBryon.24.16
+    47:
+    - CombeBryon.24.17
+    459:
+    - CombeBryon.24.18
+    518:
+    - CombeBryon.24.19
+    470:
+    - CombeBryon.24.20
+    58:
+    - CombeBryon.24.21
+    231:
+    - CombeBryon.24.22
+    530:
+    - CombeBryon.24.23
+    582:
+    - CombeBryon.24.24
+    598:
+    - CombeBryon.24.25
+    117:
+    - CombeBryon.24.26
+    268:
+    - CombeBryon.24.27
+    21:
+    - CombeBryon.24.28
+    510:
+    - CombeBryon.24.29
+    12:
+    - CombeBryon.24.30
+    - CombeBryon.26.0
+    346:
+    - CombeBryon.24.31
+    72:
+    - CombeBryon.26.1
+    602:
+    - CombeBryon.24.32
+    498:
+    - CombeBryon.24.33
+    587:
+    - CombeBryon.24.34
+    7:
+    - CombeBryon.24.35
+    511:
+    - CombeBryon.24.36
+    69:
+    - CombeBryon.24.37
+    579:
+    - CombeBryon.24.38
+    547:
+    - CombeBryon.24.39
+    457:
+    - CombeBryon.24.40
+    334:
+    - CombeBryon.24.41
+    - CombeBryon.25.24
+    101:
+    - CombeBryon.24.42
+    317:
+    - CombeBryon.25.23
+    415:
+    - CombeBryon.24.43
+    550:
+    - CombeBryon.24.44
+    446:
+    - CombeBryon.24.45
+    328:
+    - CombeBryon.24.46
+    562:
+    - CombeBryon.24.47
+    70:
+    - CombeBryon.24.48
+    55:
+    - CombeBryon.24.49
+    249:
+    - CombeBryon.24.50
+    448:
+    - CombeBryon.24.51
+    580:
+    - CombeBryon.24.52
+    252:
+    - CombeBryon.24.53
+    246:
+    - CombeBryon.24.54
+    177:
+    - CombeBryon.24.55
+    25:
+    - CombeBryon.24.56
+    276:
+    - CombeBryon.24.57
+    394:
+    - CombeBryon.24.58
+    332:
+    - CombeBryon.24.59
+    486:
+    - CombeBryon.24.60
+    398:
+    - CombeBryon.24.61
+    140:
+    - CombeBryon.24.62
+    90:
+    - CombeBryon.24.63
+    439:
+    - CombeBryon.24.64
+    243:
+    - CombeBryon.24.65
+    429:
+    - CombeBryon.24.66
+    76:
+    - CombeBryon.24.67
+    - CombeBryon.27.0
+    - CombeBryon.28.0
+    281:
+    - CombeBryon.27.1
+    30:
+    - CombeBryon.28.1
+    214:
+    - CombeBryon.25.2
+    399:
+    - CombeBryon.25.3
+    331:
+    - CombeBryon.25.4
+    310:
+    - CombeBryon.25.5
+    539:
+    - CombeBryon.25.6
+    392:
+    - CombeBryon.25.7
+    53:
+    - CombeBryon.25.8
+    250:
+    - CombeBryon.25.9
+    413:
+    - CombeBryon.25.10
+    540:
+    - CombeBryon.25.11
+    516:
+    - CombeBryon.25.12
+    402:
+    - CombeBryon.25.13
+    86:
+    - CombeBryon.25.14
+    521:
+    - CombeBryon.25.15
+    147:
+    - CombeBryon.25.16
+    62:
+    - CombeBryon.25.17
+    557:
+    - CombeBryon.25.18
+    190:
+    - CombeBryon.25.19
+    291:
+    - CombeBryon.25.20
+    312:
+    - CombeBryon.25.21
+    211:
+    - CombeBryon.25.22
+    227:
+    - CombeBryon.26.2
+    369:
+    - CombeBryon.26.3
+    4:
+    - CombeBryon.26.4
+    222:
+    - CombeBryon.26.5
+    139:
+    - CombeBryon.26.6
+    311:
+    - CombeBryon.26.7
+    477:
+    - CombeBryon.26.8
+    208:
+    - CombeBryon.26.9
+    204:
+    - CombeBryon.26.10
+    32:
+    - CombeBryon.26.11
+    474:
+    - CombeBryon.26.12
+    577:
+    - CombeBryon.26.13
+    198:
+    - CombeBryon.26.14
+    335:
+    - CombeBryon.26.15
+    173:
+    - CombeBryon.26.16
+    330:
+    - CombeBryon.26.17
+    48:
+    - CombeBryon.26.18
+    410:
+    - CombeBryon.26.19
+    442:
+    - CombeBryon.26.20
+    603:
+    - CombeBryon.26.21
+    35:
+    - CombeBryon.26.22
+    566:
+    - CombeBryon.26.23
+    481:
+    - CombeBryon.26.24
+    506:
+    - CombeBryon.26.25
+    251:
+    - CombeBryon.26.26
+    306:
+    - CombeBryon.26.27
+    297:
+    - CombeBryon.26.28
+    400:
+    - CombeBryon.26.29
+    440:
+    - CombeBryon.26.30
+    578:
+    - CombeBryon.26.31
+    183:
+    - CombeBryon.26.32
+    450:
+    - CombeBryon.26.33
+    531:
+    - CombeBryon.26.34
+    91:
+    - CombeBryon.27.2
+    44:
+    - CombeBryon.27.3
+    253:
+    - CombeBryon.27.4
+    343:
+    - CombeBryon.27.5
+    403:
+    - CombeBryon.27.6
+    51:
+    - CombeBryon.27.7
+    414:
+    - CombeBryon.27.8
+    300:
+    - CombeBryon.27.9
+    581:
+    - CombeBryon.27.10
+    500:
+    - CombeBryon.27.11
+    119:
+    - CombeBryon.27.12
+    358:
+    - CombeBryon.27.13
+    11:
+    - CombeBryon.27.14
+    111:
+    - CombeBryon.27.15
+    182:
+    - CombeBryon.27.16
+    504:
+    - CombeBryon.27.17
+    497:
+    - CombeBryon.27.18
+    282:
+    - CombeBryon.27.19
+    299:
+    - CombeBryon.27.20
+    575:
+    - CombeBryon.27.21
+    8:
+    - CombeBryon.27.22
+    301:
+    - CombeBryon.27.23
+    191:
+    - CombeBryon.27.24
+    360:
+    - CombeBryon.27.25
+    574:
+    - CombeBryon.27.26
+    556:
+    - CombeBryon.27.27
+    308:
+    - CombeBryon.27.28
+    283:
+    - CombeBryon.27.29
+    298:
+    - CombeBryon.27.30
+    263:
+    - CombeBryon.27.31
+    128:
+    - CombeBryon.27.32
+    329:
+    - CombeBryon.27.33
+    247:
+    - CombeBryon.27.34
+    458:
+    - CombeBryon.27.35
+    325:
+    - CombeBryon.27.36
+    153:
+    - CombeBryon.27.37
+    569:
+    - CombeBryon.27.38
+    124:
+    - CombeBryon.27.39
+    304:
+    - CombeBryon.27.40
+    393:
+    - CombeBryon.27.41
+    197:
+    - CombeBryon.27.42
+    564:
+    - CombeBryon.27.43
+    520:
+    - CombeBryon.27.44
+    543:
+    - CombeBryon.27.45
+    583:
+    - CombeBryon.28.2
+    435:
+    - CombeBryon.28.3
+    490:
+    - CombeBryon.28.4
+    - CombeBryon.30.0
+    189:
+    - CombeBryon.28.5
+    593:
+    - CombeBryon.30.1
+    257:
+    - CombeBryon.28.6
+    195:
+    - CombeBryon.28.7
+    272:
+    - CombeBryon.28.8
+    - CombeBryon.32.2
+    275:
+    - CombeBryon.28.9
+    179:
+    - CombeBryon.32.1
+    82:
+    - CombeBryon.28.10
+    123:
+    - CombeBryon.28.11
+    386:
+    - CombeBryon.28.12
+    235:
+    - CombeBryon.28.13
+    256:
+    - CombeBryon.28.14
+    370:
+    - CombeBryon.28.15
+    203:
+    - CombeBryon.28.16
+    462:
+    - CombeBryon.28.17
+    525:
+    - CombeBryon.28.18
+    576:
+    - CombeBryon.28.19
+    478:
+    - CombeBryon.28.20
+    597:
+    - CombeBryon.28.21
+    378:
+    - CombeBryon.28.22
+    143:
+    - CombeBryon.28.23
+    426:
+    - CombeBryon.28.24
+    307:
+    - CombeBryon.28.25
+    469:
+    - CombeBryon.28.26
+    348:
+    - CombeBryon.28.27
+    608:
+    - CombeBryon.28.28
+    594:
+    - CombeBryon.28.29
+    495:
+    - CombeBryon.28.30
+    570:
+    - CombeBryon.28.31
+    432:
+    - CombeBryon.28.32
+    169:
+    - CombeBryon.28.33
+    385:
+    - CombeBryon.28.34
+    33:
+    - CombeBryon.28.35
+    97:
+    - CombeBryon.28.36
+    357:
+    - CombeBryon.28.37
+    52:
+    - CombeBryon.28.38
+    172:
+    - CombeBryon.28.39
+    368:
+    - CombeBryon.28.40
+    61:
+    - CombeBryon.28.41
+    258:
+    - CombeBryon.28.42
+    239:
+    - CombeBryon.28.43
+    278:
+    - CombeBryon.28.44
+    31:
+    - CombeBryon.28.45
+    233:
+    - CombeBryon.28.46
+    460:
+    - CombeBryon.28.47
+    418:
+    - CombeBryon.28.48
+    560:
+    - CombeBryon.28.49
+    269:
+    - CombeBryon.28.50
+    - CombeBryon.29.0
+    493:
+    - CombeBryon.28.51
+    22:
+    - CombeBryon.29.1
+    73:
+    - CombeBryon.28.52
+    236:
+    - CombeBryon.29.2
+    68:
+    - CombeBryon.29.3
+    150:
+    - CombeBryon.29.4
+    26:
+    - CombeBryon.29.5
+    270:
+    - CombeBryon.29.6
+    - CombeBryon.29.7
+    313:
+    - CombeBryon.29.8
+    - CombeBryon.29.9
+    81:
+    - CombeBryon.29.10
+    194:
+    - CombeBryon.29.11
+    - CombeBryon.29.12
+    14:
+    - CombeBryon.29.13
+    479:
+    - CombeBryon.29.14
+    149:
+    - CombeBryon.30.2
+    354:
+    - CombeBryon.30.3
+    552:
+    - CombeBryon.30.4
+    535:
+    - CombeBryon.30.5
+    323:
+    - CombeBryon.30.6
+    176:
+    - CombeBryon.30.7
+    160:
+    - CombeBryon.30.8
+    - CombeBryon.31.0
+    167:
+    - CombeBryon.30.9
+    528:
+    - CombeBryon.31.1
+    - CombeBryon.32.0
+    89:
+    - CombeBryon.30.10
+    112:
+    - CombeBryon.30.11
+    366:
+    - CombeBryon.30.12
+    345:
+    - CombeBryon.30.13
+    45:
+    - CombeBryon.30.14
+    171:
+    - CombeBryon.31.2
+    293:
+    - CombeBryon.31.3
+    109:
+    - CombeBryon.31.4
+    544:
+    - CombeBryon.31.5
+    407:
+    - CombeBryon.31.6
+    93:
+    - CombeBryon.31.7
+    - CombeBryon.31.8
+    187:
+    - CombeBryon.31.9
+    237:
+    - CombeBryon.31.10
+    484:
+    - CombeBryon.31.11
+    318:
+    - CombeBryon.33.2
+    512:
+    - CombeBryon.33.3
+    9:
+    - CombeBryon.34.2
+    441:
+    - CombeBryon.34.3
   csdim:
     532:
     - 0.8
@@ -3018,1268 +5531,17 @@ node_attributes:
     - ent
     261:
     - ent
-  fulladdress:
+  comments:
     532:
-    - CombeBryon.1.0
-    563:
-    - CombeBryon.1.1
-    322:
-    - CombeBryon.1.2
-    205:
-    - CombeBryon.1.3
-    - CombeBryon.2.0
+    - Entree Grotte Tiede
     244:
-    - CombeBryon.1.4
-    319:
-    - CombeBryon.2.1
-    567:
-    - CombeBryon.2.2
-    135:
-    - CombeBryon.2.3
-    396:
-    - CombeBryon.2.4
-    359:
-    - CombeBryon.2.5
-    120:
-    - CombeBryon.2.6
-    102:
-    - CombeBryon.2.7
-    23:
-    - CombeBryon.2.8
-    196:
-    - CombeBryon.2.9
-    434:
-    - CombeBryon.2.10
-    267:
-    - CombeBryon.2.11
-    365:
-    - CombeBryon.2.12
-    1:
-    - CombeBryon.2.13
-    - CombeBryon.2.14
-    372:
-    - CombeBryon.2.15
-    136:
-    - CombeBryon.2.16
-    541:
-    - CombeBryon.2.17
-    163:
-    - CombeBryon.2.18
-    199:
-    - CombeBryon.2.19
-    536:
-    - CombeBryon.2.20
-    461:
-    - CombeBryon.2.21
-    395:
-    - CombeBryon.2.22
-    71:
-    - CombeBryon.2.23
-    - CombeBryon.3.0
-    - CombeBryon.4.0
-    232:
-    - CombeBryon.3.1
-    - CombeBryon.3.2
-    218:
-    - CombeBryon.4.1
-    - CombeBryon.4.2
-    175:
-    - CombeBryon.3.3
-    57:
-    - CombeBryon.3.4
-    64:
-    - CombeBryon.3.5
-    588:
-    - CombeBryon.4.3
-    99:
-    - CombeBryon.4.4
-    534:
-    - CombeBryon.4.5
-    145:
-    - CombeBryon.4.6
-    - CombeBryon.5.0
-    49:
-    - CombeBryon.4.7
-    449:
-    - CombeBryon.5.1
-    327:
-    - CombeBryon.4.8
-    106:
-    - CombeBryon.4.9
-    554:
-    - CombeBryon.4.10
-    113:
-    - CombeBryon.4.11
-    50:
-    - CombeBryon.4.12
-    384:
-    - CombeBryon.4.13
-    363:
-    - CombeBryon.4.14
-    200:
-    - CombeBryon.4.15
-    157:
-    - CombeBryon.4.16
-    523:
-    - CombeBryon.4.17
-    371:
-    - CombeBryon.4.18
-    103:
-    - CombeBryon.4.19
-    63:
-    - CombeBryon.4.20
-    326:
-    - CombeBryon.4.21
-    324:
-    - CombeBryon.4.22
-    75:
-    - CombeBryon.4.23
-    254:
-    - CombeBryon.4.24
-    19:
-    - CombeBryon.4.25
-    524:
-    - CombeBryon.4.26
-    3:
-    - CombeBryon.4.27
-    601:
-    - CombeBryon.4.28
-    - CombeBryon.7.0
-    100:
-    - CombeBryon.4.29
-    456:
-    - CombeBryon.7.1
-    165:
-    - CombeBryon.4.30
-    494:
-    - CombeBryon.4.31
-    - CombeBryon.9.0
-    - CombeBryon.12.0
-    - CombeBryon.13.0
-    320:
-    - CombeBryon.9.1
-    316:
-    - CombeBryon.12.1
-    455:
-    - CombeBryon.13.1
-    15:
-    - CombeBryon.5.2
-    352:
-    - CombeBryon.5.3
-    374:
-    - CombeBryon.5.4
-    216:
-    - CombeBryon.5.5
-    420:
-    - CombeBryon.5.6
-    - CombeBryon.6.0
-    339:
-    - CombeBryon.5.7
-    265:
-    - CombeBryon.6.1
-    40:
-    - CombeBryon.5.8
-    533:
-    - CombeBryon.6.2
-    217:
-    - CombeBryon.6.3
-    548:
-    - CombeBryon.7.2
-    451:
-    - CombeBryon.7.3
-    38:
-    - CombeBryon.7.4
-    148:
-    - CombeBryon.7.5
-    193:
-    - CombeBryon.7.6
-    289:
-    - CombeBryon.7.7
-    482:
-    - CombeBryon.7.8
-    - CombeBryon.8.0
-    60:
-    - CombeBryon.7.9
-    303:
-    - CombeBryon.8.1
-    107:
-    - CombeBryon.7.10
-    28:
-    - CombeBryon.7.11
-    555:
-    - CombeBryon.7.12
-    290:
-    - CombeBryon.7.13
-    174:
-    - CombeBryon.7.14
-    605:
-    - CombeBryon.8.2
-    508:
-    - CombeBryon.8.3
-    284:
-    - CombeBryon.9.2
-    529:
-    - CombeBryon.9.3
-    502:
-    - CombeBryon.9.4
-    585:
-    - CombeBryon.9.5
-    207:
-    - CombeBryon.9.6
-    294:
-    - CombeBryon.9.7
-    361:
-    - CombeBryon.9.8
-    84:
-    - CombeBryon.9.9
-    201:
-    - CombeBryon.9.10
-    424:
-    - CombeBryon.9.11
-    39:
-    - CombeBryon.9.12
-    37:
-    - CombeBryon.9.13
-    155:
-    - CombeBryon.9.14
-    17:
-    - CombeBryon.9.15
-    - CombeBryon.10.0
-    362:
-    - CombeBryon.10.1
-    338:
-    - CombeBryon.10.2
-    2:
-    - CombeBryon.10.3
-    192:
-    - CombeBryon.10.4
-    381:
-    - CombeBryon.10.5
-    260:
-    - CombeBryon.10.6
-    286:
-    - CombeBryon.10.7
-    277:
-    - CombeBryon.10.8
-    551:
-    - CombeBryon.10.9
-    42:
-    - CombeBryon.10.10
-    274:
-    - CombeBryon.10.11
-    388:
-    - CombeBryon.10.12
-    607:
-    - CombeBryon.10.13
-    423:
-    - CombeBryon.10.14
-    132:
-    - CombeBryon.10.15
-    41:
-    - CombeBryon.10.16
-    347:
-    - CombeBryon.10.17
-    584:
-    - CombeBryon.10.18
-    595:
-    - CombeBryon.10.19
-    130:
-    - CombeBryon.10.20
-    138:
-    - CombeBryon.10.21
-    438:
-    - CombeBryon.10.22
-    412:
-    - CombeBryon.10.23
-    88:
-    - CombeBryon.10.24
-    342:
-    - CombeBryon.10.25
-    565:
-    - CombeBryon.10.26
-    485:
-    - CombeBryon.10.27
-    188:
-    - CombeBryon.10.28
-    228:
-    - CombeBryon.10.29
-    - CombeBryon.23.4
-    280:
-    - CombeBryon.10.30
-    87:
-    - CombeBryon.23.3
-    186:
-    - CombeBryon.10.31
-    - CombeBryon.22.29
-    152:
-    - CombeBryon.10.32
-    - CombeBryon.11.0
-    245:
-    - CombeBryon.22.28
-    467:
-    - CombeBryon.10.33
-    337:
-    - CombeBryon.11.1
-    114:
-    - CombeBryon.11.2
-    296:
-    - CombeBryon.11.3
-    454:
-    - CombeBryon.11.4
-    164:
-    - CombeBryon.11.5
-    104:
-    - CombeBryon.12.2
-    118:
-    - CombeBryon.12.3
-    472:
-    - CombeBryon.13.2
-    - CombeBryon.13.3
-    83:
-    - CombeBryon.13.4
-    121:
-    - CombeBryon.13.5
-    110:
-    - CombeBryon.13.6
-    65:
-    - CombeBryon.13.7
-    - CombeBryon.14.0
-    242:
-    - CombeBryon.13.8
-    591:
-    - CombeBryon.14.1
-    443:
-    - CombeBryon.13.9
-    133:
-    - CombeBryon.13.10
-    590:
-    - CombeBryon.13.11
-    377:
-    - CombeBryon.13.12
-    80:
-    - CombeBryon.13.13
-    505:
-    - CombeBryon.13.14
-    158:
-    - CombeBryon.13.15
-    515:
-    - CombeBryon.13.16
-    178:
-    - CombeBryon.13.17
-    483:
-    - CombeBryon.13.18
-    137:
-    - CombeBryon.13.19
-    - CombeBryon.13.20
-    537:
-    - CombeBryon.13.21
-    545:
-    - CombeBryon.13.22
-    - CombeBryon.15.0
-    466:
-    - CombeBryon.13.23
-    364:
-    - CombeBryon.15.1
-    59:
-    - CombeBryon.13.24
-    0:
-    - CombeBryon.13.25
-    34:
-    - CombeBryon.13.26
+    - Entree Grotte Chaude
     54:
-    - CombeBryon.13.27
-    - CombeBryon.18.0
-    573:
-    - CombeBryon.14.2
-    6:
-    - CombeBryon.14.3
-    606:
-    - CombeBryon.15.2
-    115:
-    - CombeBryon.15.3
-    66:
-    - CombeBryon.15.4
-    609:
-    - CombeBryon.15.5
-    67:
-    - CombeBryon.15.6
-    - CombeBryon.16.0
-    85:
-    - CombeBryon.15.7
-    79:
-    - CombeBryon.16.1
-    13:
-    - CombeBryon.15.8
-    215:
-    - CombeBryon.15.9
-    517:
-    - CombeBryon.15.10
-    401:
-    - CombeBryon.15.11
-    16:
-    - CombeBryon.15.12
-    487:
-    - CombeBryon.15.13
-    404:
-    - CombeBryon.15.14
-    568:
-    - CombeBryon.15.15
-    255:
-    - CombeBryon.15.16
-    - CombeBryon.17.0
-    20:
-    - CombeBryon.15.17
-    425:
-    - CombeBryon.17.1
-    522:
-    - CombeBryon.15.18
-    125:
-    - CombeBryon.15.19
-    397:
-    - CombeBryon.15.20
-    18:
-    - CombeBryon.15.21
-    473:
-    - CombeBryon.15.22
-    287:
-    - CombeBryon.15.23
-    538:
-    - CombeBryon.15.24
-    221:
-    - CombeBryon.15.25
-    373:
-    - CombeBryon.15.26
-    610:
-    - CombeBryon.15.27
-    10:
-    - CombeBryon.15.28
-    285:
-    - CombeBryon.15.29
-    475:
-    - CombeBryon.15.30
-    572:
-    - CombeBryon.15.31
-    202:
-    - CombeBryon.15.32
-    29:
-    - CombeBryon.15.33
-    56:
-    - CombeBryon.15.34
-    351:
-    - CombeBryon.15.35
-    571:
-    - CombeBryon.15.36
-    156:
-    - CombeBryon.15.37
-    379:
-    - CombeBryon.15.38
-    464:
-    - CombeBryon.15.39
-    224:
-    - CombeBryon.15.40
-    599:
-    - CombeBryon.15.41
-    499:
-    - CombeBryon.15.42
-    509:
-    - CombeBryon.15.43
-    453:
-    - CombeBryon.15.44
-    234:
-    - CombeBryon.15.45
-    387:
-    - CombeBryon.15.46
-    496:
-    - CombeBryon.15.47
-    463:
-    - CombeBryon.15.48
-    427:
-    - CombeBryon.16.2
-    229:
-    - CombeBryon.16.3
+    - Entree Grotte Froide
     225:
-    - CombeBryon.16.4
-    105:
-    - CombeBryon.17.2
-    422:
-    - CombeBryon.17.3
-    - CombeBryon.17.4
-    375:
-    - CombeBryon.17.5
-    230:
-    - CombeBryon.17.6
-    - CombeBryon.17.7
-    314:
-    - CombeBryon.17.8
-    526:
-    - CombeBryon.17.9
-    514:
-    - CombeBryon.17.10
+    - Entree Boulevard Appenzellois
     261:
-    - CombeBryon.18.6
-    - CombeBryon.19.0
-    134:
-    - CombeBryon.19.1
-    380:
-    - CombeBryon.19.2
-    220:
-    - CombeBryon.19.3
-    333:
-    - CombeBryon.19.4
-    428:
-    - CombeBryon.19.5
-    126:
-    - CombeBryon.19.6
-    367:
-    - CombeBryon.19.7
-    146:
-    - CombeBryon.19.8
-    210:
-    - CombeBryon.19.9
-    36:
-    - CombeBryon.19.10
-    184:
-    - CombeBryon.19.11
-    491:
-    - CombeBryon.19.12
-    266:
-    - CombeBryon.19.13
-    492:
-    - CombeBryon.19.14
-    480:
-    - CombeBryon.19.15
-    546:
-    - CombeBryon.19.16
-    46:
-    - CombeBryon.19.17
-    151:
-    - CombeBryon.19.18
-    - CombeBryon.20.16
-    279:
-    - CombeBryon.19.19
-    271:
-    - CombeBryon.20.15
-    129:
-    - CombeBryon.19.20
-    600:
-    - CombeBryon.19.21
-    74:
-    - CombeBryon.19.22
-    116:
-    - CombeBryon.19.23
-    349:
-    - CombeBryon.19.24
-    542:
-    - CombeBryon.19.25
-    180:
-    - CombeBryon.19.26
-    238:
-    - CombeBryon.19.27
-    592:
-    - CombeBryon.19.28
-    206:
-    - CombeBryon.19.29
-    - CombeBryon.20.0
-    77:
-    - CombeBryon.19.30
-    92:
-    - CombeBryon.20.1
-    170:
-    - CombeBryon.19.31
-    - CombeBryon.21.0
-    488:
-    - CombeBryon.19.32
-    431:
-    - CombeBryon.21.1
-    501:
-    - CombeBryon.19.33
-    78:
-    - CombeBryon.19.34
-    168:
-    - CombeBryon.19.35
-    416:
-    - CombeBryon.19.36
-    185:
-    - CombeBryon.19.37
-    315:
-    - CombeBryon.19.38
-    213:
-    - CombeBryon.19.39
-    98:
-    - CombeBryon.19.40
-    131:
-    - CombeBryon.19.41
-    - CombeBryon.33.0
-    262:
-    - CombeBryon.19.42
-    273:
-    - CombeBryon.33.1
-    305:
-    - CombeBryon.19.43
-    444:
-    - CombeBryon.19.44
-    558:
-    - CombeBryon.19.45
-    - CombeBryon.22.0
-    - CombeBryon.24.0
-    561:
-    - CombeBryon.22.1
-    405:
-    - CombeBryon.24.1
-    142:
-    - CombeBryon.20.2
-    321:
-    - CombeBryon.20.3
-    355:
-    - CombeBryon.20.4
-    465:
-    - CombeBryon.20.5
-    452:
-    - CombeBryon.20.6
-    95:
-    - CombeBryon.20.7
-    408:
-    - CombeBryon.20.8
-    390:
-    - CombeBryon.20.9
-    248:
-    - CombeBryon.20.10
-    489:
-    - CombeBryon.20.11
-    209:
-    - CombeBryon.20.12
-    241:
-    - CombeBryon.20.13
-    96:
-    - CombeBryon.20.14
-    292:
-    - CombeBryon.21.2
-    503:
-    - CombeBryon.21.3
-    122:
-    - CombeBryon.21.4
-    527:
-    - CombeBryon.21.5
-    336:
-    - CombeBryon.21.6
-    181:
-    - CombeBryon.21.7
-    589:
-    - CombeBryon.21.8
-    161:
-    - CombeBryon.21.9
-    356:
-    - CombeBryon.21.10
-    433:
-    - CombeBryon.21.11
-    383:
-    - CombeBryon.21.12
-    240:
-    - CombeBryon.21.13
-    419:
-    - CombeBryon.21.14
-    376:
-    - CombeBryon.21.15
-    468:
-    - CombeBryon.21.16
-    219:
-    - CombeBryon.21.17
-    302:
-    - CombeBryon.21.18
-    108:
-    - CombeBryon.22.2
-    471:
-    - CombeBryon.22.3
-    382:
-    - CombeBryon.22.4
-    141:
-    - CombeBryon.22.5
-    586:
-    - CombeBryon.22.6
-    94:
-    - CombeBryon.22.7
-    159:
-    - CombeBryon.22.8
-    406:
-    - CombeBryon.22.9
-    166:
-    - CombeBryon.22.10
-    604:
-    - CombeBryon.22.11
-    445:
-    - CombeBryon.22.12
-    421:
-    - CombeBryon.22.13
-    437:
-    - CombeBryon.22.14
-    344:
-    - CombeBryon.22.15
-    411:
-    - CombeBryon.22.16
-    5:
-    - CombeBryon.22.17
-    341:
-    - CombeBryon.22.18
-    43:
-    - CombeBryon.22.19
-    259:
-    - CombeBryon.22.20
-    559:
-    - CombeBryon.22.21
-    389:
-    - CombeBryon.22.22
-    127:
-    - CombeBryon.22.23
-    596:
-    - CombeBryon.22.24
-    447:
-    - CombeBryon.22.25
-    - CombeBryon.23.0
-    226:
-    - CombeBryon.22.26
-    - CombeBryon.34.0
-    409:
-    - CombeBryon.23.1
-    288:
-    - CombeBryon.22.27
-    212:
-    - CombeBryon.34.1
-    154:
-    - CombeBryon.23.2
-    350:
-    - CombeBryon.24.2
-    309:
-    - CombeBryon.24.3
-    24:
-    - CombeBryon.24.4
-    519:
-    - CombeBryon.24.5
-    476:
-    - CombeBryon.24.6
-    513:
-    - CombeBryon.24.7
-    - CombeBryon.25.0
-    353:
-    - CombeBryon.24.8
-    417:
-    - CombeBryon.25.1
-    264:
-    - CombeBryon.24.9
-    162:
-    - CombeBryon.24.10
-    553:
-    - CombeBryon.24.11
-    223:
-    - CombeBryon.24.12
-    549:
-    - CombeBryon.24.13
-    27:
-    - CombeBryon.24.14
-    391:
-    - CombeBryon.24.15
-    430:
-    - CombeBryon.24.16
-    47:
-    - CombeBryon.24.17
-    459:
-    - CombeBryon.24.18
-    518:
-    - CombeBryon.24.19
-    470:
-    - CombeBryon.24.20
-    58:
-    - CombeBryon.24.21
-    231:
-    - CombeBryon.24.22
-    530:
-    - CombeBryon.24.23
-    582:
-    - CombeBryon.24.24
-    598:
-    - CombeBryon.24.25
-    117:
-    - CombeBryon.24.26
-    268:
-    - CombeBryon.24.27
-    21:
-    - CombeBryon.24.28
-    510:
-    - CombeBryon.24.29
-    12:
-    - CombeBryon.24.30
-    - CombeBryon.26.0
-    346:
-    - CombeBryon.24.31
-    72:
-    - CombeBryon.26.1
-    602:
-    - CombeBryon.24.32
-    498:
-    - CombeBryon.24.33
-    587:
-    - CombeBryon.24.34
-    7:
-    - CombeBryon.24.35
-    511:
-    - CombeBryon.24.36
-    69:
-    - CombeBryon.24.37
-    579:
-    - CombeBryon.24.38
-    547:
-    - CombeBryon.24.39
-    457:
-    - CombeBryon.24.40
-    334:
-    - CombeBryon.24.41
-    - CombeBryon.25.24
-    101:
-    - CombeBryon.24.42
-    317:
-    - CombeBryon.25.23
-    415:
-    - CombeBryon.24.43
-    550:
-    - CombeBryon.24.44
-    446:
-    - CombeBryon.24.45
-    328:
-    - CombeBryon.24.46
-    562:
-    - CombeBryon.24.47
-    70:
-    - CombeBryon.24.48
-    55:
-    - CombeBryon.24.49
-    249:
-    - CombeBryon.24.50
-    448:
-    - CombeBryon.24.51
-    580:
-    - CombeBryon.24.52
-    252:
-    - CombeBryon.24.53
-    246:
-    - CombeBryon.24.54
-    177:
-    - CombeBryon.24.55
-    25:
-    - CombeBryon.24.56
-    276:
-    - CombeBryon.24.57
-    394:
-    - CombeBryon.24.58
-    332:
-    - CombeBryon.24.59
-    486:
-    - CombeBryon.24.60
-    398:
-    - CombeBryon.24.61
-    140:
-    - CombeBryon.24.62
-    90:
-    - CombeBryon.24.63
-    439:
-    - CombeBryon.24.64
-    243:
-    - CombeBryon.24.65
-    429:
-    - CombeBryon.24.66
-    76:
-    - CombeBryon.24.67
-    - CombeBryon.27.0
-    - CombeBryon.28.0
-    281:
-    - CombeBryon.27.1
-    30:
-    - CombeBryon.28.1
-    214:
-    - CombeBryon.25.2
-    399:
-    - CombeBryon.25.3
-    331:
-    - CombeBryon.25.4
-    310:
-    - CombeBryon.25.5
-    539:
-    - CombeBryon.25.6
-    392:
-    - CombeBryon.25.7
-    53:
-    - CombeBryon.25.8
-    250:
-    - CombeBryon.25.9
-    413:
-    - CombeBryon.25.10
-    540:
-    - CombeBryon.25.11
-    516:
-    - CombeBryon.25.12
-    402:
-    - CombeBryon.25.13
-    86:
-    - CombeBryon.25.14
-    521:
-    - CombeBryon.25.15
-    147:
-    - CombeBryon.25.16
-    62:
-    - CombeBryon.25.17
-    557:
-    - CombeBryon.25.18
-    190:
-    - CombeBryon.25.19
-    291:
-    - CombeBryon.25.20
-    312:
-    - CombeBryon.25.21
-    211:
-    - CombeBryon.25.22
-    227:
-    - CombeBryon.26.2
-    369:
-    - CombeBryon.26.3
-    4:
-    - CombeBryon.26.4
-    222:
-    - CombeBryon.26.5
-    139:
-    - CombeBryon.26.6
-    311:
-    - CombeBryon.26.7
-    477:
-    - CombeBryon.26.8
-    208:
-    - CombeBryon.26.9
-    204:
-    - CombeBryon.26.10
-    32:
-    - CombeBryon.26.11
-    474:
-    - CombeBryon.26.12
-    577:
-    - CombeBryon.26.13
-    198:
-    - CombeBryon.26.14
-    335:
-    - CombeBryon.26.15
-    173:
-    - CombeBryon.26.16
-    330:
-    - CombeBryon.26.17
-    48:
-    - CombeBryon.26.18
-    410:
-    - CombeBryon.26.19
-    442:
-    - CombeBryon.26.20
-    603:
-    - CombeBryon.26.21
-    35:
-    - CombeBryon.26.22
-    566:
-    - CombeBryon.26.23
-    481:
-    - CombeBryon.26.24
-    506:
-    - CombeBryon.26.25
-    251:
-    - CombeBryon.26.26
-    306:
-    - CombeBryon.26.27
-    297:
-    - CombeBryon.26.28
-    400:
-    - CombeBryon.26.29
-    440:
-    - CombeBryon.26.30
-    578:
-    - CombeBryon.26.31
-    183:
-    - CombeBryon.26.32
-    450:
-    - CombeBryon.26.33
-    531:
-    - CombeBryon.26.34
-    91:
-    - CombeBryon.27.2
-    44:
-    - CombeBryon.27.3
-    253:
-    - CombeBryon.27.4
-    343:
-    - CombeBryon.27.5
-    403:
-    - CombeBryon.27.6
-    51:
-    - CombeBryon.27.7
-    414:
-    - CombeBryon.27.8
-    300:
-    - CombeBryon.27.9
-    581:
-    - CombeBryon.27.10
-    500:
-    - CombeBryon.27.11
-    119:
-    - CombeBryon.27.12
-    358:
-    - CombeBryon.27.13
-    11:
-    - CombeBryon.27.14
-    111:
-    - CombeBryon.27.15
-    182:
-    - CombeBryon.27.16
-    504:
-    - CombeBryon.27.17
-    497:
-    - CombeBryon.27.18
-    282:
-    - CombeBryon.27.19
-    299:
-    - CombeBryon.27.20
-    575:
-    - CombeBryon.27.21
-    8:
-    - CombeBryon.27.22
-    301:
-    - CombeBryon.27.23
-    191:
-    - CombeBryon.27.24
-    360:
-    - CombeBryon.27.25
-    574:
-    - CombeBryon.27.26
-    556:
-    - CombeBryon.27.27
-    308:
-    - CombeBryon.27.28
-    283:
-    - CombeBryon.27.29
-    298:
-    - CombeBryon.27.30
-    263:
-    - CombeBryon.27.31
-    128:
-    - CombeBryon.27.32
-    329:
-    - CombeBryon.27.33
-    247:
-    - CombeBryon.27.34
-    458:
-    - CombeBryon.27.35
-    325:
-    - CombeBryon.27.36
-    153:
-    - CombeBryon.27.37
-    569:
-    - CombeBryon.27.38
-    124:
-    - CombeBryon.27.39
-    304:
-    - CombeBryon.27.40
-    393:
-    - CombeBryon.27.41
-    197:
-    - CombeBryon.27.42
-    564:
-    - CombeBryon.27.43
-    520:
-    - CombeBryon.27.44
-    543:
-    - CombeBryon.27.45
-    583:
-    - CombeBryon.28.2
-    435:
-    - CombeBryon.28.3
-    490:
-    - CombeBryon.28.4
-    - CombeBryon.30.0
-    189:
-    - CombeBryon.28.5
-    593:
-    - CombeBryon.30.1
-    257:
-    - CombeBryon.28.6
-    195:
-    - CombeBryon.28.7
-    272:
-    - CombeBryon.28.8
-    - CombeBryon.32.2
-    275:
-    - CombeBryon.28.9
-    179:
-    - CombeBryon.32.1
-    82:
-    - CombeBryon.28.10
-    123:
-    - CombeBryon.28.11
-    386:
-    - CombeBryon.28.12
-    235:
-    - CombeBryon.28.13
-    256:
-    - CombeBryon.28.14
-    370:
-    - CombeBryon.28.15
-    203:
-    - CombeBryon.28.16
-    462:
-    - CombeBryon.28.17
-    525:
-    - CombeBryon.28.18
-    576:
-    - CombeBryon.28.19
-    478:
-    - CombeBryon.28.20
-    597:
-    - CombeBryon.28.21
-    378:
-    - CombeBryon.28.22
-    143:
-    - CombeBryon.28.23
-    426:
-    - CombeBryon.28.24
-    307:
-    - CombeBryon.28.25
-    469:
-    - CombeBryon.28.26
-    348:
-    - CombeBryon.28.27
-    608:
-    - CombeBryon.28.28
-    594:
-    - CombeBryon.28.29
-    495:
-    - CombeBryon.28.30
-    570:
-    - CombeBryon.28.31
-    432:
-    - CombeBryon.28.32
-    169:
-    - CombeBryon.28.33
-    385:
-    - CombeBryon.28.34
-    33:
-    - CombeBryon.28.35
-    97:
-    - CombeBryon.28.36
-    357:
-    - CombeBryon.28.37
-    52:
-    - CombeBryon.28.38
-    172:
-    - CombeBryon.28.39
-    368:
-    - CombeBryon.28.40
-    61:
-    - CombeBryon.28.41
-    258:
-    - CombeBryon.28.42
-    239:
-    - CombeBryon.28.43
-    278:
-    - CombeBryon.28.44
-    31:
-    - CombeBryon.28.45
-    233:
-    - CombeBryon.28.46
-    460:
-    - CombeBryon.28.47
-    418:
-    - CombeBryon.28.48
-    560:
-    - CombeBryon.28.49
-    269:
-    - CombeBryon.28.50
-    - CombeBryon.29.0
-    493:
-    - CombeBryon.28.51
-    22:
-    - CombeBryon.29.1
-    73:
-    - CombeBryon.28.52
-    236:
-    - CombeBryon.29.2
-    68:
-    - CombeBryon.29.3
-    150:
-    - CombeBryon.29.4
-    26:
-    - CombeBryon.29.5
-    270:
-    - CombeBryon.29.6
-    - CombeBryon.29.7
-    313:
-    - CombeBryon.29.8
-    - CombeBryon.29.9
-    81:
-    - CombeBryon.29.10
-    194:
-    - CombeBryon.29.11
-    - CombeBryon.29.12
-    14:
-    - CombeBryon.29.13
-    479:
-    - CombeBryon.29.14
-    149:
-    - CombeBryon.30.2
-    354:
-    - CombeBryon.30.3
-    552:
-    - CombeBryon.30.4
-    535:
-    - CombeBryon.30.5
-    323:
-    - CombeBryon.30.6
-    176:
-    - CombeBryon.30.7
-    160:
-    - CombeBryon.30.8
-    - CombeBryon.31.0
-    167:
-    - CombeBryon.30.9
-    528:
-    - CombeBryon.31.1
-    - CombeBryon.32.0
-    89:
-    - CombeBryon.30.10
-    112:
-    - CombeBryon.30.11
-    366:
-    - CombeBryon.30.12
-    345:
-    - CombeBryon.30.13
-    45:
-    - CombeBryon.30.14
-    171:
-    - CombeBryon.31.2
-    293:
-    - CombeBryon.31.3
-    109:
-    - CombeBryon.31.4
-    544:
-    - CombeBryon.31.5
-    407:
-    - CombeBryon.31.6
-    93:
-    - CombeBryon.31.7
-    - CombeBryon.31.8
-    187:
-    - CombeBryon.31.9
-    237:
-    - CombeBryon.31.10
-    484:
-    - CombeBryon.31.11
-    318:
-    - CombeBryon.33.2
-    512:
-    - CombeBryon.33.3
-    9:
-    - CombeBryon.34.2
-    441:
-    - CombeBryon.34.3
+    - Entree Grotte du Chevrier
   pos:
     532:
     - 567721.0
@@ -6705,1276 +7967,3 @@ node_attributes:
     - 567970.03
     - 135522.45
     - 1619.3
-  comments:
-    532:
-    - Entree Grotte Tiede
-    244:
-    - Entree Grotte Chaude
-    54:
-    - Entree Grotte Froide
-    225:
-    - Entree Boulevard Appenzellois
-    261:
-    - Entree Grotte du Chevrier
-  idsql:
-    532:
-    - 1
-    563:
-    - 2
-    322:
-    - 3
-    205:
-    - 4
-    - 6
-    244:
-    - 5
-    319:
-    - 7
-    567:
-    - 8
-    135:
-    - 9
-    396:
-    - 10
-    359:
-    - 11
-    120:
-    - 12
-    102:
-    - 13
-    23:
-    - 14
-    196:
-    - 15
-    434:
-    - 16
-    267:
-    - 17
-    365:
-    - 18
-    1:
-    - 19
-    - 20
-    372:
-    - 21
-    136:
-    - 22
-    541:
-    - 23
-    163:
-    - 24
-    199:
-    - 25
-    536:
-    - 26
-    461:
-    - 27
-    395:
-    - 28
-    71:
-    - 29
-    - 30
-    - 36
-    232:
-    - 31
-    - 32
-    218:
-    - 37
-    - 38
-    175:
-    - 33
-    57:
-    - 34
-    64:
-    - 35
-    588:
-    - 39
-    99:
-    - 40
-    534:
-    - 41
-    145:
-    - 42
-    - 68
-    49:
-    - 43
-    449:
-    - 69
-    327:
-    - 44
-    106:
-    - 45
-    554:
-    - 46
-    113:
-    - 47
-    50:
-    - 48
-    384:
-    - 49
-    363:
-    - 50
-    200:
-    - 51
-    157:
-    - 52
-    523:
-    - 53
-    371:
-    - 54
-    103:
-    - 55
-    63:
-    - 56
-    326:
-    - 57
-    324:
-    - 58
-    75:
-    - 59
-    254:
-    - 60
-    19:
-    - 61
-    524:
-    - 62
-    3:
-    - 63
-    601:
-    - 64
-    - 81
-    100:
-    - 65
-    456:
-    - 82
-    165:
-    - 66
-    494:
-    - 67
-    - 100
-    - 156
-    - 160
-    320:
-    - 101
-    316:
-    - 157
-    455:
-    - 161
-    15:
-    - 70
-    352:
-    - 71
-    374:
-    - 72
-    216:
-    - 73
-    420:
-    - 74
-    - 77
-    339:
-    - 75
-    265:
-    - 78
-    40:
-    - 76
-    533:
-    - 79
-    217:
-    - 80
-    548:
-    - 83
-    451:
-    - 84
-    38:
-    - 85
-    148:
-    - 86
-    193:
-    - 87
-    289:
-    - 88
-    482:
-    - 89
-    - 96
-    60:
-    - 90
-    303:
-    - 97
-    107:
-    - 91
-    28:
-    - 92
-    555:
-    - 93
-    290:
-    - 94
-    174:
-    - 95
-    605:
-    - 98
-    508:
-    - 99
-    284:
-    - 102
-    529:
-    - 103
-    502:
-    - 104
-    585:
-    - 105
-    207:
-    - 106
-    294:
-    - 107
-    361:
-    - 108
-    84:
-    - 109
-    201:
-    - 110
-    424:
-    - 111
-    39:
-    - 112
-    37:
-    - 113
-    155:
-    - 114
-    17:
-    - 115
-    - 116
-    362:
-    - 117
-    338:
-    - 118
-    2:
-    - 119
-    192:
-    - 120
-    381:
-    - 121
-    260:
-    - 122
-    286:
-    - 123
-    277:
-    - 124
-    551:
-    - 125
-    42:
-    - 126
-    274:
-    - 127
-    388:
-    - 128
-    607:
-    - 129
-    423:
-    - 130
-    132:
-    - 131
-    41:
-    - 132
-    347:
-    - 133
-    584:
-    - 134
-    595:
-    - 135
-    130:
-    - 136
-    138:
-    - 137
-    438:
-    - 138
-    412:
-    - 139
-    88:
-    - 140
-    342:
-    - 141
-    565:
-    - 142
-    485:
-    - 143
-    188:
-    - 144
-    228:
-    - 145
-    - 380
-    280:
-    - 146
-    87:
-    - 379
-    186:
-    - 147
-    - 375
-    152:
-    - 148
-    - 150
-    245:
-    - 374
-    467:
-    - 149
-    337:
-    - 151
-    114:
-    - 152
-    296:
-    - 153
-    454:
-    - 154
-    164:
-    - 155
-    104:
-    - 158
-    118:
-    - 159
-    472:
-    - 162
-    - 163
-    83:
-    - 164
-    121:
-    - 165
-    110:
-    - 166
-    65:
-    - 167
-    - 188
-    242:
-    - 168
-    591:
-    - 189
-    443:
-    - 169
-    133:
-    - 170
-    590:
-    - 171
-    377:
-    - 172
-    80:
-    - 173
-    505:
-    - 174
-    158:
-    - 175
-    515:
-    - 176
-    178:
-    - 177
-    483:
-    - 178
-    137:
-    - 179
-    - 180
-    537:
-    - 181
-    545:
-    - 182
-    - 192
-    466:
-    - 183
-    364:
-    - 193
-    59:
-    - 184
-    0:
-    - 185
-    34:
-    - 186
-    54:
-    - 187
-    - 257
-    573:
-    - 190
-    6:
-    - 191
-    606:
-    - 194
-    115:
-    - 195
-    66:
-    - 196
-    609:
-    - 197
-    67:
-    - 198
-    - 241
-    85:
-    - 199
-    79:
-    - 242
-    13:
-    - 200
-    215:
-    - 201
-    517:
-    - 202
-    401:
-    - 203
-    16:
-    - 204
-    487:
-    - 205
-    404:
-    - 206
-    568:
-    - 207
-    255:
-    - 208
-    - 246
-    20:
-    - 209
-    425:
-    - 247
-    522:
-    - 210
-    125:
-    - 211
-    397:
-    - 212
-    18:
-    - 213
-    473:
-    - 214
-    287:
-    - 215
-    538:
-    - 216
-    221:
-    - 217
-    373:
-    - 218
-    610:
-    - 219
-    10:
-    - 220
-    285:
-    - 221
-    475:
-    - 222
-    572:
-    - 223
-    202:
-    - 224
-    29:
-    - 225
-    56:
-    - 226
-    351:
-    - 227
-    571:
-    - 228
-    156:
-    - 229
-    379:
-    - 230
-    464:
-    - 231
-    224:
-    - 232
-    599:
-    - 233
-    499:
-    - 234
-    509:
-    - 235
-    453:
-    - 236
-    234:
-    - 237
-    387:
-    - 238
-    496:
-    - 239
-    463:
-    - 240
-    427:
-    - 243
-    229:
-    - 244
-    225:
-    - 245
-    105:
-    - 248
-    422:
-    - 249
-    - 250
-    375:
-    - 251
-    230:
-    - 252
-    - 253
-    314:
-    - 254
-    526:
-    - 255
-    514:
-    - 256
-    261:
-    - 263
-    - 264
-    134:
-    - 265
-    380:
-    - 266
-    220:
-    - 267
-    333:
-    - 268
-    428:
-    - 269
-    126:
-    - 270
-    367:
-    - 271
-    146:
-    - 272
-    210:
-    - 273
-    36:
-    - 274
-    184:
-    - 275
-    491:
-    - 276
-    266:
-    - 277
-    492:
-    - 278
-    480:
-    - 279
-    546:
-    - 280
-    46:
-    - 281
-    151:
-    - 282
-    - 326
-    279:
-    - 283
-    271:
-    - 325
-    129:
-    - 284
-    600:
-    - 285
-    74:
-    - 286
-    116:
-    - 287
-    349:
-    - 288
-    542:
-    - 289
-    180:
-    - 290
-    238:
-    - 291
-    592:
-    - 292
-    206:
-    - 293
-    - 310
-    77:
-    - 294
-    92:
-    - 311
-    170:
-    - 295
-    - 327
-    488:
-    - 296
-    431:
-    - 328
-    501:
-    - 297
-    78:
-    - 298
-    168:
-    - 299
-    416:
-    - 300
-    185:
-    - 301
-    315:
-    - 302
-    213:
-    - 303
-    98:
-    - 304
-    131:
-    - 305
-    - 653
-    262:
-    - 306
-    273:
-    - 654
-    305:
-    - 307
-    444:
-    - 308
-    558:
-    - 309
-    - 346
-    - 381
-    561:
-    - 347
-    405:
-    - 382
-    142:
-    - 312
-    321:
-    - 313
-    355:
-    - 314
-    465:
-    - 315
-    452:
-    - 316
-    95:
-    - 317
-    408:
-    - 318
-    390:
-    - 319
-    248:
-    - 320
-    489:
-    - 321
-    209:
-    - 322
-    241:
-    - 323
-    96:
-    - 324
-    292:
-    - 329
-    503:
-    - 330
-    122:
-    - 331
-    527:
-    - 332
-    336:
-    - 333
-    181:
-    - 334
-    589:
-    - 335
-    161:
-    - 336
-    356:
-    - 337
-    433:
-    - 338
-    383:
-    - 339
-    240:
-    - 340
-    419:
-    - 341
-    376:
-    - 342
-    468:
-    - 343
-    219:
-    - 344
-    302:
-    - 345
-    108:
-    - 348
-    471:
-    - 349
-    382:
-    - 350
-    141:
-    - 351
-    586:
-    - 352
-    94:
-    - 353
-    159:
-    - 354
-    406:
-    - 355
-    166:
-    - 356
-    604:
-    - 357
-    445:
-    - 358
-    421:
-    - 359
-    437:
-    - 360
-    344:
-    - 361
-    411:
-    - 362
-    5:
-    - 363
-    341:
-    - 364
-    43:
-    - 365
-    259:
-    - 366
-    559:
-    - 367
-    389:
-    - 368
-    127:
-    - 369
-    596:
-    - 370
-    447:
-    - 371
-    - 376
-    226:
-    - 372
-    - 657
-    409:
-    - 377
-    288:
-    - 373
-    212:
-    - 658
-    154:
-    - 378
-    350:
-    - 383
-    309:
-    - 384
-    24:
-    - 385
-    519:
-    - 386
-    476:
-    - 387
-    513:
-    - 388
-    - 449
-    353:
-    - 389
-    417:
-    - 450
-    264:
-    - 390
-    162:
-    - 391
-    553:
-    - 392
-    223:
-    - 393
-    549:
-    - 394
-    27:
-    - 395
-    391:
-    - 396
-    430:
-    - 397
-    47:
-    - 398
-    459:
-    - 399
-    518:
-    - 400
-    470:
-    - 401
-    58:
-    - 402
-    231:
-    - 403
-    530:
-    - 404
-    582:
-    - 405
-    598:
-    - 406
-    117:
-    - 407
-    268:
-    - 408
-    21:
-    - 409
-    510:
-    - 410
-    12:
-    - 411
-    - 474
-    346:
-    - 412
-    72:
-    - 475
-    602:
-    - 413
-    498:
-    - 414
-    587:
-    - 415
-    7:
-    - 416
-    511:
-    - 417
-    69:
-    - 418
-    579:
-    - 419
-    547:
-    - 420
-    457:
-    - 421
-    334:
-    - 422
-    - 473
-    101:
-    - 423
-    317:
-    - 472
-    415:
-    - 424
-    550:
-    - 425
-    446:
-    - 426
-    328:
-    - 427
-    562:
-    - 428
-    70:
-    - 429
-    55:
-    - 430
-    249:
-    - 431
-    448:
-    - 432
-    580:
-    - 433
-    252:
-    - 434
-    246:
-    - 435
-    177:
-    - 436
-    25:
-    - 437
-    276:
-    - 438
-    394:
-    - 439
-    332:
-    - 440
-    486:
-    - 441
-    398:
-    - 442
-    140:
-    - 443
-    90:
-    - 444
-    439:
-    - 445
-    243:
-    - 446
-    429:
-    - 447
-    76:
-    - 448
-    - 509
-    - 555
-    281:
-    - 510
-    30:
-    - 556
-    214:
-    - 451
-    399:
-    - 452
-    331:
-    - 453
-    310:
-    - 454
-    539:
-    - 455
-    392:
-    - 456
-    53:
-    - 457
-    250:
-    - 458
-    413:
-    - 459
-    540:
-    - 460
-    516:
-    - 461
-    402:
-    - 462
-    86:
-    - 463
-    521:
-    - 464
-    147:
-    - 465
-    62:
-    - 466
-    557:
-    - 467
-    190:
-    - 468
-    291:
-    - 469
-    312:
-    - 470
-    211:
-    - 471
-    227:
-    - 476
-    369:
-    - 477
-    4:
-    - 478
-    222:
-    - 479
-    139:
-    - 480
-    311:
-    - 481
-    477:
-    - 482
-    208:
-    - 483
-    204:
-    - 484
-    32:
-    - 485
-    474:
-    - 486
-    577:
-    - 487
-    198:
-    - 488
-    335:
-    - 489
-    173:
-    - 490
-    330:
-    - 491
-    48:
-    - 492
-    410:
-    - 493
-    442:
-    - 494
-    603:
-    - 495
-    35:
-    - 496
-    566:
-    - 497
-    481:
-    - 498
-    506:
-    - 499
-    251:
-    - 500
-    306:
-    - 501
-    297:
-    - 502
-    400:
-    - 503
-    440:
-    - 504
-    578:
-    - 505
-    183:
-    - 506
-    450:
-    - 507
-    531:
-    - 508
-    91:
-    - 511
-    44:
-    - 512
-    253:
-    - 513
-    343:
-    - 514
-    403:
-    - 515
-    51:
-    - 516
-    414:
-    - 517
-    300:
-    - 518
-    581:
-    - 519
-    500:
-    - 520
-    119:
-    - 521
-    358:
-    - 522
-    11:
-    - 523
-    111:
-    - 524
-    182:
-    - 525
-    504:
-    - 526
-    497:
-    - 527
-    282:
-    - 528
-    299:
-    - 529
-    575:
-    - 530
-    8:
-    - 531
-    301:
-    - 532
-    191:
-    - 533
-    360:
-    - 534
-    574:
-    - 535
-    556:
-    - 536
-    308:
-    - 537
-    283:
-    - 538
-    298:
-    - 539
-    263:
-    - 540
-    128:
-    - 541
-    329:
-    - 542
-    247:
-    - 543
-    458:
-    - 544
-    325:
-    - 545
-    153:
-    - 546
-    569:
-    - 547
-    124:
-    - 548
-    304:
-    - 549
-    393:
-    - 550
-    197:
-    - 551
-    564:
-    - 552
-    520:
-    - 553
-    543:
-    - 554
-    583:
-    - 557
-    435:
-    - 558
-    490:
-    - 559
-    - 623
-    189:
-    - 560
-    593:
-    - 624
-    257:
-    - 561
-    195:
-    - 562
-    272:
-    - 563
-    - 652
-    275:
-    - 564
-    179:
-    - 651
-    82:
-    - 565
-    123:
-    - 566
-    386:
-    - 567
-    235:
-    - 568
-    256:
-    - 569
-    370:
-    - 570
-    203:
-    - 571
-    462:
-    - 572
-    525:
-    - 573
-    576:
-    - 574
-    478:
-    - 575
-    597:
-    - 576
-    378:
-    - 577
-    143:
-    - 578
-    426:
-    - 579
-    307:
-    - 580
-    469:
-    - 581
-    348:
-    - 582
-    608:
-    - 583
-    594:
-    - 584
-    495:
-    - 585
-    570:
-    - 586
-    432:
-    - 587
-    169:
-    - 588
-    385:
-    - 589
-    33:
-    - 590
-    97:
-    - 591
-    357:
-    - 592
-    52:
-    - 593
-    172:
-    - 594
-    368:
-    - 595
-    61:
-    - 596
-    258:
-    - 597
-    239:
-    - 598
-    278:
-    - 599
-    31:
-    - 600
-    233:
-    - 601
-    460:
-    - 602
-    418:
-    - 603
-    560:
-    - 604
-    269:
-    - 605
-    - 608
-    493:
-    - 606
-    22:
-    - 609
-    73:
-    - 607
-    236:
-    - 610
-    68:
-    - 611
-    150:
-    - 612
-    26:
-    - 613
-    270:
-    - 614
-    - 615
-    313:
-    - 616
-    - 617
-    81:
-    - 618
-    194:
-    - 619
-    - 620
-    14:
-    - 621
-    479:
-    - 622
-    149:
-    - 625
-    354:
-    - 626
-    552:
-    - 627
-    535:
-    - 628
-    323:
-    - 629
-    176:
-    - 630
-    160:
-    - 631
-    - 638
-    167:
-    - 632
-    528:
-    - 639
-    - 650
-    89:
-    - 633
-    112:
-    - 634
-    366:
-    - 635
-    345:
-    - 636
-    45:
-    - 637
-    171:
-    - 640
-    293:
-    - 641
-    109:
-    - 642
-    544:
-    - 643
-    407:
-    - 644
-    93:
-    - 645
-    - 646
-    187:
-    - 647
-    237:
-    - 648
-    484:
-    - 649
-    318:
-    - 655
-    512:
-    - 656
-    9:
-    - 659
-    441:
-    - 660

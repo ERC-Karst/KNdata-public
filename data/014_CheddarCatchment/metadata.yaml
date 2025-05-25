@@ -1,0 +1,67 @@
+number: '014'
+short_name: CheddarCatchment
+status: in github (cleaning in progress)
+type_of_correction: no correction
+type_dataset: Call for data
+original_format: Therion
+original - sql: .nan
+length_approx_meter: 27340.0
+connected_components: multiple caves
+license: CC BY-NC-SA 4.0
+id_dataset: UBSS
+comments_cave_info: "Contact UBSS??, coordinate system originall in osgb:ST. traduit\
+  \ en epsg:27700 avec therion.  Data come from version \"CheddarCatchment - Revision\
+  \ 459: /\"\nHad to modify the therion project:\n- missing GoWest.th data. had to\
+  \ comment anything related to this. \n- dates where sometimes not formatted correctly.\
+  \ had to remove space and put . instead\n- there is some lrud in the datasets. should\
+  \ export them when code to do it is ready"
+full_name: Cheddar Catchment
+all_data_format: Therion, Survex, .3d
+geometry: lrud/splays
+units: meter
+original_filename: CheddarCatchment.th
+original_encoding: UTF-8
+crs: epsg:27700
+crs_other: epsg:27700 (England)
+country: UK
+state: .nan
+area: .nan
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+length_official_meter: .nan
+length_dataset: .nan
+denivelation: .nan
+cave_url: .nan
+supplemental_links: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 05 May 2025
+percentage_csidm: 48
+number_connected_components: 116
+number_nodes: 6717
+number_edges: 6674
+number_cycles: 73
+total_length: 27340
