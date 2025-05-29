@@ -5928,2992 +5928,65 @@ node_attributes:
     - 1529
     300:
     - 1530
-  fulladdress:
-    949:
-    - Tsanfleuron.D37_GouffreDuBeutche.a0
-    - Tsanfleuron.D37_GouffreDuBeutche.e0
-    104:
-    - Tsanfleuron.D37_GouffreDuBeutche.a1
-    1439:
-    - Tsanfleuron.D37_GouffreDuBeutche.e1
-    387:
-    - Tsanfleuron.D37_GouffreDuBeutche.a2
-    - Tsanfleuron.D37_GouffreDuBeutche.b0
-    1460:
-    - Tsanfleuron.D37_GouffreDuBeutche.a3
-    1421:
-    - Tsanfleuron.D37_GouffreDuBeutche.b1
-    735:
-    - Tsanfleuron.D37_GouffreDuBeutche.a4
-    7:
-    - Tsanfleuron.D37_GouffreDuBeutche.a5
-    906:
-    - Tsanfleuron.D37_GouffreDuBeutche.a6
-    1366:
-    - Tsanfleuron.D37_GouffreDuBeutche.a7
-    134:
-    - Tsanfleuron.D37_GouffreDuBeutche.a8
-    1434:
-    - Tsanfleuron.D37_GouffreDuBeutche.a9
-    505:
-    - Tsanfleuron.D37_GouffreDuBeutche.a10
-    523:
-    - Tsanfleuron.D37_GouffreDuBeutche.a11
-    1159:
-    - Tsanfleuron.D37_GouffreDuBeutche.a12
-    1302:
-    - Tsanfleuron.D37_GouffreDuBeutche.a13
-    579:
-    - Tsanfleuron.D37_GouffreDuBeutche.a14
-    1069:
-    - Tsanfleuron.D37_GouffreDuBeutche.a15
-    - Tsanfleuron.D37_GouffreDuBeutche.c0
-    220:
-    - Tsanfleuron.D37_GouffreDuBeutche.a16
-    - Tsanfleuron.D37_GouffreDuBeutche.d0
-    181:
-    - Tsanfleuron.D37_GouffreDuBeutche.c1
-    1046:
-    - Tsanfleuron.D37_GouffreDuBeutche.a17
-    733:
-    - Tsanfleuron.D37_GouffreDuBeutche.d1
-    1109:
-    - Tsanfleuron.D37_GouffreDuBeutche.a18
-    722:
-    - Tsanfleuron.D37_GouffreDuBeutche.a19
-    454:
-    - Tsanfleuron.D37_GouffreDuBeutche.a20
+  comments:
     653:
-    - Tsanfleuron.D37_GouffreDuBeutche.a21
-    292:
-    - Tsanfleuron.D37_GouffreDuBeutche.e2
-    1148:
-    - Tsanfleuron.D37_GouffreDuBeutche.e3
-    1326:
-    - Tsanfleuron.D37_GouffreDuBeutche.e4
-    388:
-    - Tsanfleuron.D37_GouffreDuBeutche.e5
-    - Tsanfleuron.D37_GouffreDuBeutche.f0
-    602:
-    - Tsanfleuron.D37_GouffreDuBeutche.e6
-    798:
-    - Tsanfleuron.D37_GouffreDuBeutche.f1
-    - Tsanfleuron.D37_GouffreDuBeutche.g0
-    1270:
-    - Tsanfleuron.D37_GouffreDuBeutche.e7
-    250:
-    - Tsanfleuron.D37_GouffreDuBeutche.e8
-    1102:
-    - Tsanfleuron.D37_GouffreDuBeutche.f2
-    1166:
-    - Tsanfleuron.D37_GouffreDuBeutche.g1
-    1060:
-    - Tsanfleuron.D37_GouffreDuBeutche.f3
-    1303:
-    - Tsanfleuron.D37_GouffreDuBeutche.f4
-    984:
-    - Tsanfleuron.D37_GouffreDuBeutche.f5
-    1179:
-    - Tsanfleuron.D37_GouffreDuBeutche.f6
-    410:
-    - Tsanfleuron.D37_GouffreDuBeutche.f7
-    - Tsanfleuron.D37_GouffreDuBeutche.h0
-    - Tsanfleuron.D37_GouffreDuBeutche.i0
-    4:
-    - Tsanfleuron.D37_GouffreDuBeutche.h1
-    642:
-    - Tsanfleuron.D37_GouffreDuBeutche.i1
-    667:
-    - Tsanfleuron.D37_GouffreDuBeutche.i2
-    971:
-    - Tsanfleuron.D37_GouffreDuBeutche.i3
-    183:
-    - Tsanfleuron.D37_GouffreDuBeutche.i4
-    1351:
-    - Tsanfleuron.D37_GouffreDuBeutche.i5
-    276:
-    - Tsanfleuron.D37_GouffreDuBeutche.i6
-    828:
-    - Tsanfleuron.D37_GouffreDuBeutche.i7
-    627:
-    - Tsanfleuron.D37_GouffreDuBeutche.i8
-    93:
-    - Tsanfleuron.D37_GouffreDuBeutche.i9
-    781:
-    - Tsanfleuron.D37_GouffreDuBeutche.i10
-    1298:
-    - Tsanfleuron.D37_GouffreDuBeutche.i11
-    1448:
-    - Tsanfleuron.D37_GouffreDuBeutche.i12
-    174:
-    - Tsanfleuron.D37_GouffreDuBeutche.i13
-    1323:
-    - Tsanfleuron.D37_GouffreDuBeutche.i14
-    830:
-    - Tsanfleuron.D37_GouffreDuBeutche.i15
-    1007:
-    - Tsanfleuron.D37_GouffreDuBeutche.i16
-    826:
-    - Tsanfleuron.D37_GouffreDuBeutche.i17
-    113:
-    - Tsanfleuron.D37_GouffreDuBeutche.i18
-    348:
-    - Tsanfleuron.D37_GouffreDuBeutche.i19
-    228:
-    - Tsanfleuron.D37_GouffreDuBeutche.i20
-    281:
-    - Tsanfleuron.D37_GouffreDuBeutche.i21
-    128:
-    - Tsanfleuron.D37_GouffreDuBeutche.i22
-    848:
-    - Tsanfleuron.D37_GouffreDuBeutche.i23
-    1309:
-    - Tsanfleuron.D37_GouffreDuBeutche.i24
-    30:
-    - Tsanfleuron.D37_GouffreDuBeutche.i25
-    1264:
-    - Tsanfleuron.D37_GouffreDuBeutche.i26
-    225:
-    - Tsanfleuron.D37_GouffreDuBeutche.i27
-    908:
-    - Tsanfleuron.D37_GouffreDuBeutche.i28
-    507:
-    - Tsanfleuron.D37_GouffreDuBeutche.i29
-    784:
-    - Tsanfleuron.D37_GouffreDuBeutche.i30
-    247:
-    - Tsanfleuron.D37_GouffreDuBeutche.i31
-    1008:
-    - Tsanfleuron.D37_GouffreDuBeutche.i32
-    698:
-    - Tsanfleuron.D37_GouffreDuBeutche.i33
-    1080:
-    - Tsanfleuron.D37_GouffreDuBeutche.i34
-    758:
-    - Tsanfleuron.D37_GouffreDuBeutche.i35
-    1098:
-    - Tsanfleuron.D37_GouffreDuBeutche.i36
-    1254:
-    - Tsanfleuron.D18_GouffreAuFilet.1.0
-    1091:
-    - Tsanfleuron.D18_GouffreAuFilet.1.1
-    39:
-    - Tsanfleuron.D18_GouffreAuFilet.1.2
-    923:
-    - Tsanfleuron.D18_GouffreAuFilet.1.3
-    1394:
-    - Tsanfleuron.D18_GouffreAuFilet.1.4
-    578:
-    - Tsanfleuron.D18_GouffreAuFilet.1.5
-    1400:
-    - Tsanfleuron.D18_GouffreAuFilet.1.6
+    - Entree D37 Gouffre du Beutche
     367:
-    - Tsanfleuron.D18_GouffreAuFilet.1.7
+    - Entree D18 Gouffre au Filet
     1123:
-    - Tsanfleuron.GouffreDuGlacier.top
-    964:
-    - Tsanfleuron.GouffreDuGlacier.bottom
+    - Entree D19 Glacier
     1449:
-    - Tsanfleuron.Edelweiss_Provisoire.1.0
-    669:
-    - Tsanfleuron.Edelweiss_Provisoire.1.1
+    - Entree Edelweiss Provisoire
     112:
-    - Tsanfleuron.G10.0
-    806:
-    - Tsanfleuron.G10.1
-    766:
-    - Tsanfleuron.G10.2
-    384:
-    - Tsanfleuron.G10.3
-    920:
-    - Tsanfleuron.G10.4
-    1461:
-    - Tsanfleuron.G10.10
-    1163:
-    - Tsanfleuron.G10.5
-    361:
-    - Tsanfleuron.G10.6
-    525:
-    - Tsanfleuron.G10.7
-    801:
-    - Tsanfleuron.G10.8
-    868:
-    - Tsanfleuron.G10.9
-    1173:
-    - Tsanfleuron.G10.11
-    1017:
-    - Tsanfleuron.G10.12
+    - Entree G10
     1151:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.0
-    77:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.1
-    656:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.2
-    304:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.3
-    1295:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.4
-    1025:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.5
-    355:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.6
-    205:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.7
-    810:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.8
-    1160:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.9
-    301:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.10
-    479:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.11
-    1076:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.12
-    580:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.13
-    398:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.14
-    692:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.15
-    138:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.16
-    1225:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.17
-    821:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.18
-    555:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.19
-    846:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.20
-    648:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.21
-    1411:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.22
-    526:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.23
-    973:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.24
-    294:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.25
-    202:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.26
-    1174:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.27
-    1117:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.28
-    702:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.29
-    1045:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.30
-    1288:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.31
-    37:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.32
-    834:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.33
-    572:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.34
-    541:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.35
-    909:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.36
-    1042:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.37
-    691:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.38
-    299:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.39
-    320:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.40
-    1199:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.41
-    1454:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.42
-    270:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.43
-    118:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.44
-    272:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.45
-    1211:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.46
-    365:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.47
-    345:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.48
-    422:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.49
-    1108:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.50
-    70:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.51
-    1362:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.52
-    1361:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.53
-    116:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.54
-    655:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.55
-    869:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.56
-    413:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.57
-    1215:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.58
-    444:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.59
-    1258:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.60
-    1037:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.61
-    632:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.62
-    718:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.63
-    746:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.64
-    581:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.65
-    952:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.66
-    650:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.67
-    960:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.68
-    136:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.69
-    595:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.70
-    22:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.71
-    354:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.72
-    771:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.73
-    470:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.74
-    32:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.75
-    208:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.76
-    337:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.77
-    1282:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.78
-    1219:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.79
-    932:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.80
-    264:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.81
-    995:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.82
-    767:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.83
-    1342:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.84
-    1201:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.85
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.86
-    853:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.87
-    278:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.88
-    1106:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.89
-    1063:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.90
-    513:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.91
-    305:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.501
-    379:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.92
-    676:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.93
-    1154:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.94
-    404:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.95
-    1433:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.96
-    164:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.97
-    42:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.98
-    1396:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.99
-    610:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.100
-    817:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.101
-    736:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.102
-    1086:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.103
-    268:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.104
-    59:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.105
-    723:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.106
-    1223:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.107
-    1188:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.108
-    203:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.109
-    750:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.502
-    1369:
-    - Tsanfleuron.G16_GouffreDuCriquetEnrage.503
+    - Entree G16 Gouffre du Cirque Enrage
     531:
-    - Tsanfleuron.G1_Marmites.1
-    377:
-    - Tsanfleuron.G1_Marmites.2
-    823:
-    - Tsanfleuron.G1_Marmites.3
-    1061:
-    - Tsanfleuron.G1_Marmites.tt
-    33:
-    - Tsanfleuron.G1_Marmites.4
-    85:
-    - Tsanfleuron.G1_Marmites.5
-    1234:
-    - Tsanfleuron.G1_Marmites.6
-    3:
-    - Tsanfleuron.G1_Marmites.7
-    558:
-    - Tsanfleuron.G1_Marmites.8
-    675:
-    - Tsanfleuron.G1_Marmites.9
-    710:
-    - Tsanfleuron.G1_Marmites.22
-    1084:
-    - Tsanfleuron.G1_Marmites.9a
-    774:
-    - Tsanfleuron.G1_Marmites.10
-    712:
-    - Tsanfleuron.G1_Marmites.11
-    596:
-    - Tsanfleuron.G1_Marmites.12
-    1430:
-    - Tsanfleuron.G1_Marmites.13
-    229:
-    - Tsanfleuron.G1_Marmites.14
-    1450:
-    - Tsanfleuron.G1_Marmites.14a
-    638:
-    - Tsanfleuron.G1_Marmites.15
-    197:
-    - Tsanfleuron.G1_Marmites.16
-    497:
-    - Tsanfleuron.G1_Marmites.17
-    87:
-    - Tsanfleuron.G1_Marmites.18
-    872:
-    - Tsanfleuron.G1_Marmites.19
-    1067:
-    - Tsanfleuron.G1_Marmites.20
-    34:
-    - Tsanfleuron.G1_Marmites.21
-    1375:
-    - Tsanfleuron.G1_Marmites.23
-    1310:
-    - Tsanfleuron.G1_Marmites.24
-    590:
-    - Tsanfleuron.G1_Marmites.25
-    747:
-    - Tsanfleuron.G1_Marmites.26
-    788:
-    - Tsanfleuron.G1_Marmites.27
-    529:
-    - Tsanfleuron.G1_Marmites.28
-    222:
-    - Tsanfleuron.G1_Marmites.29
-    1249:
-    - Tsanfleuron.G1_Marmites.S2
+    - Entree G1 Marmites
     99:
-    - Tsanfleuron.G2_Sapin.1
-    1406:
-    - Tsanfleuron.G2_Sapin.2
-    239:
-    - Tsanfleuron.G2_Sapin.3
-    1044:
-    - Tsanfleuron.G2_Sapin.4
-    455:
-    - Tsanfleuron.G2_Sapin.5
-    805:
-    - Tsanfleuron.G2_Sapin.6
-    1138:
-    - Tsanfleuron.G2_Sapin.7
-    951:
-    - Tsanfleuron.G2_Sapin.8
-    789:
-    - Tsanfleuron.G2_Sapin.9
-    383:
-    - Tsanfleuron.G2_Sapin.10
-    139:
-    - Tsanfleuron.G2_Sapin.11
-    1019:
-    - Tsanfleuron.G2_Sapin.12
-    1441:
-    - Tsanfleuron.G2_Sapin.13
-    633:
-    - Tsanfleuron.G2_Sapin.14
-    1118:
-    - Tsanfleuron.G2_Sapin.15
-    687:
-    - Tsanfleuron.G2_Sapin.16
-    397:
-    - Tsanfleuron.G2_Sapin.17
-    679:
-    - Tsanfleuron.G2_Sapin.18
-    1090:
-    - Tsanfleuron.G2_Sapin.19
-    1418:
-    - Tsanfleuron.G2_Sapin.20
-    1255:
-    - Tsanfleuron.G2_Sapin.21
-    549:
-    - Tsanfleuron.G2_Sapin.22
-    1292:
-    - Tsanfleuron.G2_Sapin.23
-    252:
-    - Tsanfleuron.G2_Sapin.24
-    626:
-    - Tsanfleuron.G2_Sapin.25
-    860:
-    - Tsanfleuron.G2_Sapin.26
-    825:
-    - Tsanfleuron.G2_Sapin.27
-    910:
-    - Tsanfleuron.G2_Sapin.27a
-    919:
-    - Tsanfleuron.G2_Sapin.28
-    1217:
-    - Tsanfleuron.G2_Sapin.29
-    536:
-    - Tsanfleuron.G2_Sapin.30
-    1358:
-    - Tsanfleuron.G2_Sapin.31
-    1150:
-    - Tsanfleuron.G2_Sapin.32
-    1010:
-    - Tsanfleuron.G2_Sapin.33
+    - Entree G2 Sapin
     838:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.1
-    1027:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.2
-    1107:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.3
-    631:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.4
-    193:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.5
-    360:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.6
-    64:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.7
-    890:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.8
-    731:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.9
-    1363:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.10
-    - Tsanfleuron.G3_GrotteDuPorche_2007.c1
-    1301:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.11
-    1426:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.c2
-    100:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.12
-    818:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.13
-    584:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.14
-    532:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.15
-    254:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.16
-    492:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.17
-    - Tsanfleuron.G3_GrotteDuPorche_2007.a1
-    958:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.18
-    946:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.a2
-    160:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.19
-    1176:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.20
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d1
-    1124:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d2
-    290:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.a3
-    - Tsanfleuron.G3_GrotteDuPorche_2007.b1
-    970:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.a4
-    1024:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.b2
-    495:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.a5
-    310:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.a6
-    1155:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.b3
-    961:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.c3
-    162:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.c4
-    101:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d3
-    979:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d4
-    939:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d5
-    1352:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d6
-    1440:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d7
-    52:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d8
-    464:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d9
-    678:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d10
-    769:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d11
-    28:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d12
-    1081:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d13
-    190:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d14
-    212:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d15
-    167:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d16
-    813:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d17
-    114:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d18
-    1376:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d19
-    1133:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d20
-    520:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d21
-    152:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d22
-    438:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d23
-    15:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d24
-    1033:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d25
-    335:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d26
-    509:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d27
-    671:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d28
-    - Tsanfleuron.G3_GrotteDuPorche_2007.e1
-    603:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d29
-    1374:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.e2
-    210:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d30
-    577:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d31
-    726:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d32
-    658:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d33
-    - Tsanfleuron.G3_GrotteDuPorche_2007.f1
-    344:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d34
-    1315:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.f2
-    287:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d35
-    1446:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d36
-    742:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d37
-    - Tsanfleuron.G3_GrotteDuPorche_2007.g1
-    790:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d38
-    598:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.g2
-    196:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d39
-    778:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.d40
-    199:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.f3
-    137:
-    - Tsanfleuron.G3_GrotteDuPorche_2007.g3
-    380:
-    - Tsanfleuron.G4_G13_Topomasos.1
-    521:
-    - Tsanfleuron.G4_G13_Topomasos.2
-    1131:
-    - Tsanfleuron.G4_G13_Topomasos.3
-    313:
-    - Tsanfleuron.G4_G13_Topomasos.4
-    765:
-    - Tsanfleuron.G4_G13_Topomasos.5
-    246:
-    - Tsanfleuron.G4_G13_Topomasos.6
-    643:
-    - Tsanfleuron.G4_G13_Topomasos.7
-    130:
-    - Tsanfleuron.G4_G13_Topomasos.A1
-    97:
-    - Tsanfleuron.G4_G13_Topomasos.8
-    1135:
-    - Tsanfleuron.G4_G13_Topomasos.9
-    867:
-    - Tsanfleuron.G4_G13_Topomasos.b1
-    1167:
-    - Tsanfleuron.G4_G13_Topomasos.10
-    487:
-    - Tsanfleuron.G4_G13_Topomasos.c1
-    80:
-    - Tsanfleuron.G4_G13_Topomasos.11
-    1312:
-    - Tsanfleuron.G4_G13_Topomasos.d1
-    63:
-    - Tsanfleuron.G4_G13_Topomasos.e1
-    347:
-    - Tsanfleuron.G4_G13_Topomasos.12
-    837:
-    - Tsanfleuron.G4_G13_Topomasos.cc1
-    1233:
-    - Tsanfleuron.G4_G13_Topomasos.13
-    342:
-    - Tsanfleuron.G4_G13_Topomasos.14
-    280:
-    - Tsanfleuron.G4_G13_Topomasos.15
-    315:
-    - Tsanfleuron.G4_G13_Topomasos.16
-    31:
-    - Tsanfleuron.G4_G13_Topomasos.17
-    1165:
-    - Tsanfleuron.G4_G13_Topomasos.f1
-    1359:
-    - Tsanfleuron.G4_G13_Topomasos.18
-    686:
-    - Tsanfleuron.G4_G13_Topomasos.19
-    537:
-    - Tsanfleuron.G4_G13_Topomasos.ff1
-    620:
-    - Tsanfleuron.G4_G13_Topomasos.20
-    770:
-    - Tsanfleuron.G4_G13_Topomasos.21
-    724:
-    - Tsanfleuron.G4_G13_Topomasos.f2
-    327:
-    - Tsanfleuron.G4_G13_Topomasos.22
-    709:
-    - Tsanfleuron.G4_G13_Topomasos.23
-    457:
-    - Tsanfleuron.G4_G13_Topomasos.24
-    560:
-    - Tsanfleuron.G4_G13_Topomasos.25
-    617:
-    - Tsanfleuron.G4_G13_Topomasos.26
-    378:
-    - Tsanfleuron.G4_G13_Topomasos.g1
-    803:
-    - Tsanfleuron.G4_G13_Topomasos.27
-    237:
-    - Tsanfleuron.G4_G13_Topomasos.h1
-    744:
-    - Tsanfleuron.G4_G13_Topomasos.28
-    1261:
-    - Tsanfleuron.G4_G13_Topomasos.29
-    889:
-    - Tsanfleuron.G4_G13_Topomasos.30
-    1228:
-    - Tsanfleuron.G4_G13_Topomasos.31
-    634:
-    - Tsanfleuron.G4_G13_Topomasos.l1
-    1129:
-    - Tsanfleuron.G4_G13_Topomasos.32
-    1052:
-    - Tsanfleuron.G4_G13_Topomasos.33
-    704:
-    - Tsanfleuron.G4_G13_Topomasos.34
-    251:
-    - Tsanfleuron.G4_G13_Topomasos.35
-    261:
-    - Tsanfleuron.G4_G13_Topomasos.i1
-    1242:
-    - Tsanfleuron.G4_G13_Topomasos.36
-    258:
-    - Tsanfleuron.G4_G13_Topomasos.j1
-    855:
-    - Tsanfleuron.G4_G13_Topomasos.37
-    839:
-    - Tsanfleuron.G4_G13_Topomasos.38
-    930:
-    - Tsanfleuron.G4_G13_Topomasos.39
-    234:
-    - Tsanfleuron.G4_G13_Topomasos.o1
-    588:
-    - Tsanfleuron.G4_G13_Topomasos.40
-    534:
-    - Tsanfleuron.G4_G13_Topomasos.41
-    696:
-    - Tsanfleuron.G4_G13_Topomasos.k1
-    286:
-    - Tsanfleuron.G4_G13_Topomasos.42
-    451:
-    - Tsanfleuron.G4_G13_Topomasos.43
-    991:
-    - Tsanfleuron.G4_G13_Topomasos.44
-    783:
-    - Tsanfleuron.G4_G13_Topomasos.45
-    1243:
-    - Tsanfleuron.G4_G13_Topomasos.b2
-    673:
-    - Tsanfleuron.G4_G13_Topomasos.bb1
-    1153:
-    - Tsanfleuron.G4_G13_Topomasos.b3
-    57:
-    - Tsanfleuron.G4_G13_Topomasos.b4
-    1331:
-    - Tsanfleuron.G4_G13_Topomasos.b5
-    1089:
-    - Tsanfleuron.G4_G13_Topomasos.b6
-    5:
-    - Tsanfleuron.G4_G13_Topomasos.bb2
-    870:
-    - Tsanfleuron.G4_G13_Topomasos.bb3
+    - Entree G3 Grotte du Porche
     1335:
-    - Tsanfleuron.G4_G13_Topomasos.bb4
-    999:
-    - Tsanfleuron.G4_G13_Topomasos.c2
-    756:
-    - Tsanfleuron.G4_G13_Topomasos.c3
-    55:
-    - Tsanfleuron.G4_G13_Topomasos.d2
-    569:
-    - Tsanfleuron.G4_G13_Topomasos.d4
-    236:
-    - Tsanfleuron.G4_G13_Topomasos.d3
-    307:
-    - Tsanfleuron.G4_G13_Topomasos.e2
-    437:
-    - Tsanfleuron.G4_G13_Topomasos.g2
-    786:
-    - Tsanfleuron.G4_G13_Topomasos.g3
-    195:
-    - Tsanfleuron.G4_G13_Topomasos.g4
-    639:
-    - Tsanfleuron.G4_G13_Topomasos.g5
-    1200:
-    - Tsanfleuron.G4_G13_Topomasos.h2
-    968:
-    - Tsanfleuron.G4_G13_Topomasos.i2
-    866:
-    - Tsanfleuron.G4_G13_Topomasos.j2
-    1245:
-    - Tsanfleuron.G4_G13_Topomasos.k2
-    48:
-    - Tsanfleuron.G4_G13_Topomasos.k3
+    - Entree G3/G13 Topomasos
     1240:
-    - Tsanfleuron.G59_TordBoyau.1
-    1164:
-    - Tsanfleuron.G59_TordBoyau.2
-    514:
-    - Tsanfleuron.G59_TordBoyau.3
-    243:
-    - Tsanfleuron.G59_TordBoyau.4
-    561:
-    - Tsanfleuron.G59_TordBoyau.5
-    1318:
-    - Tsanfleuron.G59_TordBoyau.6
-    641:
-    - Tsanfleuron.G59_TordBoyau.7
-    358:
-    - Tsanfleuron.G59_TordBoyau.8
-    175:
-    - Tsanfleuron.G59_TordBoyau.9
-    1161:
-    - Tsanfleuron.G59_TordBoyau.10
-    1114:
-    - Tsanfleuron.G59_TordBoyau.11
-    1235:
-    - Tsanfleuron.G59_TordBoyau.12
-    399:
-    - Tsanfleuron.G59_TordBoyau.13
-    35:
-    - Tsanfleuron.G59_TordBoyau.14
-    1324:
-    - Tsanfleuron.G59_TordBoyau.15
-    127:
-    - Tsanfleuron.G59_TordBoyau.16
-    499:
-    - Tsanfleuron.G59_TordBoyau.17
-    1168:
-    - Tsanfleuron.G59_TordBoyau.18
-    993:
-    - Tsanfleuron.G59_TordBoyau.19
-    448:
-    - Tsanfleuron.G59_TordBoyau.20
-    708:
-    - Tsanfleuron.G59_TordBoyau.19a
-    891:
-    - Tsanfleuron.G59_TordBoyau.21
-    1034:
-    - Tsanfleuron.G59_TordBoyau.22
-    326:
-    - Tsanfleuron.G59_TordBoyau.23
-    1419:
-    - Tsanfleuron.G59_TordBoyau.24
-    1126:
-    - Tsanfleuron.G59_TordBoyau.24.1
-    660:
-    - Tsanfleuron.G59_TordBoyau.24.9
-    1382:
-    - Tsanfleuron.G59_TordBoyau.25
-    14:
-    - Tsanfleuron.G59_TordBoyau.26
-    20:
-    - Tsanfleuron.G59_TordBoyau.27
-    1050:
-    - Tsanfleuron.G59_TordBoyau.28
-    1423:
-    - Tsanfleuron.G59_TordBoyau.29
-    997:
-    - Tsanfleuron.G59_TordBoyau.30
-    1230:
-    - Tsanfleuron.G59_TordBoyau.31
-    219:
-    - Tsanfleuron.G59_TordBoyau.32
-    1149:
-    - Tsanfleuron.G59_TordBoyau.33
-    935:
-    - Tsanfleuron.G59_TordBoyau.34
-    1429:
-    - Tsanfleuron.G59_TordBoyau.35
-    1196:
-    - Tsanfleuron.G59_TordBoyau.36
-    1357:
-    - Tsanfleuron.G59_TordBoyau.37
-    402:
-    - Tsanfleuron.G59_TordBoyau.38
-    1347:
-    - Tsanfleuron.G59_TordBoyau.39
-    211:
-    - Tsanfleuron.G59_TordBoyau.40
-    485:
-    - Tsanfleuron.G59_TordBoyau.41
-    568:
-    - Tsanfleuron.G59_TordBoyau.42
+    - Entree G59 Tord Boyau
     994:
-    - Tsanfleuron.G8.0
-    592:
-    - Tsanfleuron.G8.1
-    511:
-    - Tsanfleuron.G8.2
-    874:
-    - Tsanfleuron.G8.3
-    787:
-    - Tsanfleuron.G8.4
-    978:
-    - Tsanfleuron.G8.5
-    123:
-    - Tsanfleuron.G8.6
-    877:
-    - Tsanfleuron.G8.7
-    963:
-    - Tsanfleuron.G8.8
-    496:
-    - Tsanfleuron.G8.10
-    1266:
-    - Tsanfleuron.G8.9
+    - Entree G8
     926:
-    - Tsanfleuron.G90_Tsanfleuron.1
-    38:
-    - Tsanfleuron.G90_Tsanfleuron.2
-    1184:
-    - Tsanfleuron.G90_Tsanfleuron.3
-    289:
-    - Tsanfleuron.G90_Tsanfleuron.4
-    645:
-    - Tsanfleuron.G90_Tsanfleuron.3'
-    232:
-    - Tsanfleuron.G90_Tsanfleuron.5
-    508:
-    - Tsanfleuron.G90_Tsanfleuron.6
-    1018:
-    - Tsanfleuron.G90_Tsanfleuron.7
-    629:
-    - Tsanfleuron.G90_Tsanfleuron.8
-    1412:
-    - Tsanfleuron.G90_Tsanfleuron.15
-    147:
-    - Tsanfleuron.G90_Tsanfleuron.9
-    489:
-    - Tsanfleuron.G90_Tsanfleuron.10
-    934:
-    - Tsanfleuron.G90_Tsanfleuron.11
-    1112:
-    - Tsanfleuron.G90_Tsanfleuron.12
-    9:
-    - Tsanfleuron.G90_Tsanfleuron.13
-    1379:
-    - Tsanfleuron.G90_Tsanfleuron.14
-    319:
-    - Tsanfleuron.G90_Tsanfleuron.16
-    896:
-    - Tsanfleuron.G90_Tsanfleuron.17
-    182:
-    - Tsanfleuron.G90_Tsanfleuron.18
-    1392:
-    - Tsanfleuron.G90_Tsanfleuron.19
-    405:
-    - Tsanfleuron.G90_Tsanfleuron.20
+    - Entree G90 Tsanfleuron
     426:
-    - Tsanfleuron.G9_ScexRouge.1
-    17:
-    - Tsanfleuron.G9_ScexRouge.2
-    1049:
-    - Tsanfleuron.G9_ScexRouge.3
-    1156:
-    - Tsanfleuron.G9_ScexRouge.4
-    1424:
-    - Tsanfleuron.G9_ScexRouge.5
-    171:
-    - Tsanfleuron.G9_ScexRouge.6
-    543:
-    - Tsanfleuron.G9_ScexRouge.7
-    148:
-    - Tsanfleuron.G9_ScexRouge.7'
-    1256:
-    - Tsanfleuron.G9_ScexRouge.a1
-    941:
-    - Tsanfleuron.G9_ScexRouge.8
-    562:
-    - Tsanfleuron.G9_ScexRouge.9
-    414:
-    - Tsanfleuron.G9_ScexRouge.13
-    799:
-    - Tsanfleuron.G9_ScexRouge.10
-    84:
-    - Tsanfleuron.G9_ScexRouge.11
-    318:
-    - Tsanfleuron.G9_ScexRouge.12
-    459:
-    - Tsanfleuron.G9_ScexRouge.14
-    694:
-    - Tsanfleuron.G9_ScexRouge.15
-    179:
-    - Tsanfleuron.G9_ScexRouge.w
-    1068:
-    - Tsanfleuron.G9_ScexRouge.a2
-    900:
-    - Tsanfleuron.G9_ScexRouge.a3
-    1384:
-    - Tsanfleuron.G9_ScexRouge.a4
-    339:
-    - Tsanfleuron.G9_ScexRouge.a5
+    - Entree G9 Scex Rouge
     911:
-    - Tsanfleuron.P30b_Crapaud.1.0
-    500:
-    - Tsanfleuron.P30b_Crapaud.1.1
-    331:
-    - Tsanfleuron.P30b_Crapaud.1.2
-    259:
-    - Tsanfleuron.P30b_Crapaud.1.3
-    96:
-    - Tsanfleuron.P30b_Crapaud.1.4
-    458:
-    - Tsanfleuron.P30b_Crapaud.1.5
-    332:
-    - Tsanfleuron.P30b_Crapaud.1.6
-    1134:
-    - Tsanfleuron.P30b_Crapaud.1.7
-    1175:
-    - Tsanfleuron.P30b_Crapaud.1.8
-    415:
-    - Tsanfleuron.P30b_Crapaud.1.9
-    1012:
-    - Tsanfleuron.P30b_Crapaud.1.10
-    260:
-    - Tsanfleuron.P30b_Crapaud.1.11
-    729:
-    - Tsanfleuron.P30b_Crapaud.1.12
-    122:
-    - Tsanfleuron.P30b_Crapaud.1.13
-    131:
-    - Tsanfleuron.P30b_Crapaud.1.14
-    1380:
-    - Tsanfleuron.P30b_Crapaud.1.15
-    477:
-    - Tsanfleuron.P30b_Crapaud.1.16
-    74:
-    - Tsanfleuron.P30b_Crapaud.1.17
-    - Tsanfleuron.P30b_Crapaud.1.18
-    430:
-    - Tsanfleuron.P30b_Crapaud.1.19
-    306:
-    - Tsanfleuron.P30b_Crapaud.1.20
-    1119:
-    - Tsanfleuron.P30b_Crapaud.1.21
-    463:
-    - Tsanfleuron.P30b_Crapaud.1.22
-    1340:
-    - Tsanfleuron.P30b_Crapaud.1.23
-    599:
-    - Tsanfleuron.P30b_Crapaud.1.24
-    1209:
-    - Tsanfleuron.P30b_Crapaud.1.25
-    102:
-    - Tsanfleuron.P30b_Crapaud.1.26
-    1287:
-    - Tsanfleuron.P30b_Crapaud.1.27
-    695:
-    - Tsanfleuron.P30b_Crapaud.1.28
-    1293:
-    - Tsanfleuron.P30b_Crapaud.1.29
-    1267:
-    - Tsanfleuron.P30b_Crapaud.1.30
-    317:
-    - Tsanfleuron.P30b_Crapaud.1.31
-    649:
-    - Tsanfleuron.P30b_Crapaud.1.32
-    699:
-    - Tsanfleuron.P30b_Crapaud.1.33
-    436:
-    - Tsanfleuron.P30b_Crapaud.1.34
-    1103:
-    - Tsanfleuron.P30b_Crapaud.1.35
-    522:
-    - Tsanfleuron.P30b_Crapaud.1.36
-    854:
-    - Tsanfleuron.P30b_Crapaud.1.37
-    519:
-    - Tsanfleuron.P30b_Crapaud.1.38
-    151:
-    - Tsanfleuron.P30b_Crapaud.1.40
-    - Tsanfleuron.P30b_Crapaud.3.0
-    484:
-    - Tsanfleuron.P30b_Crapaud.1.41
-    408:
-    - Tsanfleuron.P30b_Crapaud.3.1
-    681:
-    - Tsanfleuron.P30b_Crapaud.3.2
-    982:
-    - Tsanfleuron.P30b_Crapaud.3.3
-    998:
-    - Tsanfleuron.P30b_Crapaud.3.4
-    840:
-    - Tsanfleuron.P30b_Crapaud.3.5
-    133:
-    - Tsanfleuron.P30b_Crapaud.3.6
-    990:
-    - Tsanfleuron.P30b_Crapaud.3.7
-    630:
-    - Tsanfleuron.P30b_Crapaud.3.8
-    78:
-    - Tsanfleuron.P30b_Crapaud.3.9
-    462:
-    - Tsanfleuron.P30b_Crapaud.3.10
-    425:
-    - Tsanfleuron.P30b_Crapaud.3.11
-    433:
-    - Tsanfleuron.P30b_Crapaud.3.12
-    905:
-    - Tsanfleuron.P30b_Crapaud.3.13
-    214:
-    - Tsanfleuron.P30b_Crapaud.3.14
-    942:
-    - Tsanfleuron.P30b_Crapaud.3.15
-    1345:
-    - Tsanfleuron.P30b_Crapaud.3.16
-    879:
-    - Tsanfleuron.P30b_Crapaud.3.17
-    363:
-    - Tsanfleuron.P30b_Crapaud.3.18
-    985:
-    - Tsanfleuron.P30b_Crapaud.3.19
-    551:
-    - Tsanfleuron.P30b_Crapaud.3.20
-    677:
-    - Tsanfleuron.P30b_Crapaud.3.21
-    956:
-    - Tsanfleuron.P30b_Crapaud.3.22
-    170:
-    - Tsanfleuron.P30b_Crapaud.3.23
-    835:
-    - Tsanfleuron.P30b_Crapaud.3.24
-    557:
-    - Tsanfleuron.P30b_Crapaud.3.25
-    1383:
-    - Tsanfleuron.P30b_Crapaud.3.26
-    140:
-    - Tsanfleuron.P30b_Crapaud.3.27
-    885:
-    - Tsanfleuron.P30b_Crapaud.3.28
-    244:
-    - Tsanfleuron.P30b_Crapaud.3.29
-    346:
-    - Tsanfleuron.P30b_Crapaud.3.30
-    1284:
-    - Tsanfleuron.P30b_Crapaud.3.31
-    597:
-    - Tsanfleuron.P30b_Crapaud.3.32
-    1015:
-    - Tsanfleuron.P30b_Crapaud.3.33
-    898:
-    - Tsanfleuron.P30b_Crapaud.3.34
-    717:
-    - Tsanfleuron.P30b_Crapaud.3.35
-    486:
-    - Tsanfleuron.P30b_Crapaud.3.36
-    875:
-    - Tsanfleuron.P30b_Crapaud.3.37
-    465:
-    - Tsanfleuron.P30b_Crapaud.3.38
-    24:
-    - Tsanfleuron.P30b_Crapaud.3.39
-    1171:
-    - Tsanfleuron.P30b_Crapaud.3.40
-    1194:
-    - Tsanfleuron.P30b_Crapaud.3.41
-    1191:
-    - Tsanfleuron.P30b_Crapaud.3.42
-    172:
-    - Tsanfleuron.P30b_Crapaud.3.43
-    349:
-    - Tsanfleuron.P30b_Crapaud.3.44
-    1346:
-    - Tsanfleuron.P30b_Crapaud.3.45
-    640:
-    - Tsanfleuron.P30b_Crapaud.3.46
-    1279:
-    - Tsanfleuron.P30b_Crapaud.3.47
-    1085:
-    - Tsanfleuron.P30b_Crapaud.3.48
-    915:
-    - Tsanfleuron.P30b_Crapaud.3.49
-    604:
-    - Tsanfleuron.P30b_Crapaud.3.50
-    340:
-    - Tsanfleuron.P30b_Crapaud.3.51
-    135:
-    - Tsanfleuron.P30b_Crapaud.3.52
-    893:
-    - Tsanfleuron.P30b_Crapaud.3.53
-    1096:
-    - Tsanfleuron.P30b_Crapaud.3.54
-    768:
-    - Tsanfleuron.P30b_Crapaud.3.55
-    1028:
-    - Tsanfleuron.P30b_Crapaud.3.56
-    1299:
-    - Tsanfleuron.P30b_Crapaud.3.57
-    453:
-    - Tsanfleuron.P30b_Crapaud.3.58
-    1100:
-    - Tsanfleuron.P30b_Crapaud.3.59
-    1271:
-    - Tsanfleuron.P30b_Crapaud.3.60
-    156:
-    - Tsanfleuron.P30b_Crapaud.3.61
-    916:
-    - Tsanfleuron.P30b_Crapaud.3.62
-    1056:
-    - Tsanfleuron.P30b_Crapaud.3.63
-    1325:
-    - Tsanfleuron.P30b_Crapaud.3.64
-    933:
-    - Tsanfleuron.P30b_Crapaud.3.65
-    12:
-    - Tsanfleuron.P30b_Crapaud.3.66
-    1388:
-    - Tsanfleuron.P30b_Crapaud.3.67
-    624:
-    - Tsanfleuron.P30b_Crapaud.3.68
-    1205:
-    - Tsanfleuron.P30b_Crapaud.3.69
-    540:
-    - Tsanfleuron.P30b_Crapaud.3.70
-    1398:
-    - Tsanfleuron.P30b_Crapaud.3.71
+    - Entree P30b Crapaud
     217:
-    - Tsanfleuron.P5_Glacier.1
-    480:
-    - Tsanfleuron.P5_Glacier.2
-    665:
-    - Tsanfleuron.P5_Glacier.3
-    1000:
-    - Tsanfleuron.P5_Glacier.4
-    749:
-    - Tsanfleuron.P5_Glacier.5
-    142:
-    - Tsanfleuron.P5_Glacier.6
-    739:
-    - Tsanfleuron.P5_Glacier.7
-    881:
-    - Tsanfleuron.P5_Glacier.7a
-    155:
-    - Tsanfleuron.P5_Glacier.8
-    132:
-    - Tsanfleuron.P5_Glacier.9
-    1158:
-    - Tsanfleuron.P5_Glacier.10
-    1094:
-    - Tsanfleuron.P5_Glacier.11
-    600:
-    - Tsanfleuron.P5_Glacier.12
-    524:
-    - Tsanfleuron.P5_Glacier.13
+    - Entree P5 Glacier
     284:
-    - Tsanfleuron.P96_Kefir.1.0
-    1389:
-    - Tsanfleuron.P96_Kefir.1.1
-    1311:
-    - Tsanfleuron.P96_Kefir.1.2
-    262:
-    - Tsanfleuron.P96_Kefir.2.7
-    827:
-    - Tsanfleuron.P96_Kefir.1.3
-    395:
-    - Tsanfleuron.P96_Kefir.2.0
-    707:
-    - Tsanfleuron.P96_Kefir.2.1
-    1276:
-    - Tsanfleuron.P96_Kefir.2.2
-    1250:
-    - Tsanfleuron.P96_Kefir.2.3
-    776:
-    - Tsanfleuron.P96_Kefir.2.4
-    - Tsanfleuron.P96_Kefir.4.0
-    1030:
-    - Tsanfleuron.P96_Kefir.2.5
-    - Tsanfleuron.P96_Kefir.3.0
-    847:
-    - Tsanfleuron.P96_Kefir.4.1
-    959:
-    - Tsanfleuron.P96_Kefir.2.6
-    849:
-    - Tsanfleuron.P96_Kefir.3.1
-    690:
-    - Tsanfleuron.P96_Kefir.3.2
-    8:
-    - Tsanfleuron.P96_Kefir.3.3
-    772:
-    - Tsanfleuron.P96_Kefir.4.2
-    1353:
-    - Tsanfleuron.P96_Kefir.4.3
-    943:
-    - Tsanfleuron.P96_Kefir.4.4
-    185:
-    - Tsanfleuron.P96_Kefir.4.5
-    504:
-    - Tsanfleuron.P96_Kefir.4.6
-    159:
-    - Tsanfleuron.P96_Kefir.4.7
-    149:
-    - Tsanfleuron.P96_Kefir.4.8
-    948:
-    - Tsanfleuron.P96_Kefir.4.9
-    - Tsanfleuron.P96_Kefir.5.0
-    - Tsanfleuron.P96_Kefir.6.0
-    - Tsanfleuron.P96_Kefir.8.0
-    685:
-    - Tsanfleuron.P96_Kefir.5.1
-    987:
-    - Tsanfleuron.P96_Kefir.6.1
-    1023:
-    - Tsanfleuron.P96_Kefir.8.1
-    1038:
-    - Tsanfleuron.P96_Kefir.5.2
-    589:
-    - Tsanfleuron.P96_Kefir.6.2
-    1304:
-    - Tsanfleuron.P96_Kefir.6.3
-    1:
-    - Tsanfleuron.P96_Kefir.6.4
-    815:
-    - Tsanfleuron.P96_Kefir.6.5
-    - Tsanfleuron.P96_Kefir.7.0
-    - Tsanfleuron.P96_Kefir.9.0
-    819:
-    - Tsanfleuron.P96_Kefir.7.1
-    207:
-    - Tsanfleuron.P96_Kefir.9.1
-    374:
-    - Tsanfleuron.P96_Kefir.7.2
-    530:
-    - Tsanfleuron.P96_Kefir.7.3
-    1348:
-    - Tsanfleuron.P96_Kefir.7.4
-    233:
-    - Tsanfleuron.P96_Kefir.7.5
-    265:
-    - Tsanfleuron.P96_Kefir.7.6
-    1141:
-    - Tsanfleuron.P96_Kefir.7.7
-    381:
-    - Tsanfleuron.P96_Kefir.7.8
-    26:
-    - Tsanfleuron.P96_Kefir.7.9
-    445:
-    - Tsanfleuron.P96_Kefir.8.2
-    230:
-    - Tsanfleuron.P96_Kefir.8.3
-    391:
-    - Tsanfleuron.P96_Kefir.8.4
-    730:
-    - Tsanfleuron.P96_Kefir.8.5
-    476:
-    - Tsanfleuron.P96_Kefir.8.6
-    1343:
-    - Tsanfleuron.P96_Kefir.8.7
-    1339:
-    - Tsanfleuron.P96_Kefir.8.8
-    608:
-    - Tsanfleuron.P96_Kefir.8.9
-    1026:
-    - Tsanfleuron.P96_Kefir.8.10
-    625:
-    - Tsanfleuron.P96_Kefir.a.0
-    491:
-    - Tsanfleuron.P96_Kefir.b.0
-    1373:
-    - Tsanfleuron.P96_Kefir.c.0
-    1350:
-    - Tsanfleuron.P96_Kefir.9.2
-    1377:
-    - Tsanfleuron.P96_Kefir.9.3
-    1443:
-    - Tsanfleuron.P96_Kefir.9.4
-    1344:
-    - Tsanfleuron.P96_Kefir.9.5
-    1231:
-    - Tsanfleuron.P96_Kefir.9.6
-    293:
-    - Tsanfleuron.P96_Kefir.9.7
-    548:
-    - Tsanfleuron.P96_Kefir.9.8
-    1390:
-    - Tsanfleuron.P96_Kefir.9.9
-    1183:
-    - Tsanfleuron.P96_Kefir.9.10
-    1002:
-    - Tsanfleuron.P96_Kefir.9.11
-    330:
-    - Tsanfleuron.P96_Kefir.9.12
-    129:
-    - Tsanfleuron.P96_Kefir.9.13
-    1062:
-    - Tsanfleuron.P96_Kefir.9.14
-    878:
-    - Tsanfleuron.P96_Kefir.9.15
-    257:
-    - Tsanfleuron.P96_Kefir.9.16
-    863:
-    - Tsanfleuron.P96_Kefir.9.17
-    351:
-    - Tsanfleuron.P96_Kefir.9.18
-    796:
-    - Tsanfleuron.P96_Kefir.9.19
-    1095:
-    - Tsanfleuron.P96_Kefir.9.20
-    390:
-    - Tsanfleuron.P96_Kefir.9.21
-    105:
-    - Tsanfleuron.P96_Kefir.9.22
-    279:
-    - Tsanfleuron.P96_Kefir.9.23
-    797:
-    - Tsanfleuron.P96_Kefir.9.24
+    - Entree P96 Kefir
     983:
-    - Tsanfleuron.PuitsJonction.1.0
-    291:
-    - Tsanfleuron.PuitsJonction.1.1
+    - Entree TSX1 Puits Jonction
     1416:
-    - Tsanfleuron.TSX10_TrouStan.1.0
-    955:
-    - Tsanfleuron.TSX10_TrouStan.1.1
-    1204:
-    - Tsanfleuron.TSX10_TrouStan.1.2
-    - Tsanfleuron.TSX10_TrouStan.3.0
-    921:
-    - Tsanfleuron.TSX10_TrouStan.1.3
-    - Tsanfleuron.TSX10_TrouStan.2.0
-    1291:
-    - Tsanfleuron.TSX10_TrouStan.3.1
-    1057:
-    - Tsanfleuron.TSX10_TrouStan.1.4
-    791:
-    - Tsanfleuron.TSX10_TrouStan.2.1
-    223:
-    - Tsanfleuron.TSX10_TrouStan.3.2
+    - Entree TSX10 Trou Stan
     1349:
-    - Tsanfleuron.TSX12_Queute_Tard.1.0
-    1152:
-    - Tsanfleuron.TSX12_Queute_Tard.1.1
-    616:
-    - Tsanfleuron.TSX12_Queute_Tard.1.2
-    1333:
-    - Tsanfleuron.TSX12_Queute_Tard.1.3
-    356:
-    - Tsanfleuron.TSX12_Queute_Tard.1.4
-    546:
-    - Tsanfleuron.TSX12_Queute_Tard.1.5
-    297:
-    - Tsanfleuron.TSX12_Queute_Tard.1.6
-    421:
-    - Tsanfleuron.TSX12_Queute_Tard.1.7
-    903:
-    - Tsanfleuron.TSX12_Queute_Tard.1.8
-    550:
-    - Tsanfleuron.TSX12_Queute_Tard.1.9
-    1451:
-    - Tsanfleuron.TSX12_Queute_Tard.1.10
-    1059:
-    - Tsanfleuron.TSX12_Queute_Tard.1.11
-    1099:
-    - Tsanfleuron.TSX12_Queute_Tard.1.12
-    106:
-    - Tsanfleuron.TSX12_Queute_Tard.1.13
-    488:
-    - Tsanfleuron.TSX12_Queute_Tard.1.14
-    338:
-    - Tsanfleuron.TSX12_Queute_Tard.1.15
-    449:
-    - Tsanfleuron.TSX12_Queute_Tard.1.16
-    1053:
-    - Tsanfleuron.TSX12_Queute_Tard.1.17
-    897:
-    - Tsanfleuron.TSX12_Queute_Tard.1.18
-    - Tsanfleuron.TSX12_Queute_Tard.2.0
-    209:
-    - Tsanfleuron.TSX12_Queute_Tard.1.19
-    745:
-    - Tsanfleuron.TSX12_Queute_Tard.2.1
-    1232:
-    - Tsanfleuron.TSX12_Queute_Tard.1.20
+    - Entree TSX12 Queute Tard
     764:
-    - Tsanfleuron.TSX13_Devertebres.1.0
-    446:
-    - Tsanfleuron.TSX13_Devertebres.1.1
-    - Tsanfleuron.TSX13_Devertebres.2.0
-    328:
-    - Tsanfleuron.TSX13_Devertebres.1.2
-    668:
-    - Tsanfleuron.TSX13_Devertebres.2.1
-    201:
-    - Tsanfleuron.TSX13_Devertebres.1.3
-    517:
-    - Tsanfleuron.TSX13_Devertebres.1.4
-    375:
-    - Tsanfleuron.TSX13_Devertebres.1.5
-    - Tsanfleuron.TSX13_Devertebres.3.0
-    - Tsanfleuron.TSX13_Devertebres.4.0
-    1229:
-    - Tsanfleuron.TSX13_Devertebres.1.6
-    364:
-    - Tsanfleuron.TSX13_Devertebres.3.1
-    269:
-    - Tsanfleuron.TSX13_Devertebres.4.1
-    1336:
-    - Tsanfleuron.TSX13_Devertebres.1.7
-    - Tsanfleuron.TSX13_Devertebres.5.0
-    1218:
-    - Tsanfleuron.TSX13_Devertebres.1.8
-    564:
-    - Tsanfleuron.TSX13_Devertebres.5.1
-    227:
-    - Tsanfleuron.TSX13_Devertebres.1.9
-    1197:
-    - Tsanfleuron.TSX13_Devertebres.1.10
-    58:
-    - Tsanfleuron.TSX13_Devertebres.1.11
-    748:
-    - Tsanfleuron.TSX13_Devertebres.1.12
-    1408:
-    - Tsanfleuron.TSX13_Devertebres.1.13
-    - Tsanfleuron.TSX13_Devertebres.6.0
-    382:
-    - Tsanfleuron.TSX13_Devertebres.1.14
-    1341:
-    - Tsanfleuron.TSX13_Devertebres.6.1
-    392:
-    - Tsanfleuron.TSX13_Devertebres.1.15
-    545:
-    - Tsanfleuron.TSX13_Devertebres.1.16
-    1360:
-    - Tsanfleuron.TSX13_Devertebres.1.17
-    176:
-    - Tsanfleuron.TSX13_Devertebres.1.18
-    887:
-    - Tsanfleuron.TSX13_Devertebres.1.19
-    1425:
-    - Tsanfleuron.TSX13_Devertebres.1.20
-    682:
-    - Tsanfleuron.TSX13_Devertebres.1.21
-    1381:
-    - Tsanfleuron.TSX13_Devertebres.1.22
-    65:
-    - Tsanfleuron.TSX13_Devertebres.1.23
-    1313:
-    - Tsanfleuron.TSX13_Devertebres.1.24
-    1032:
-    - Tsanfleuron.TSX13_Devertebres.1.25
-    864:
-    - Tsanfleuron.TSX13_Devertebres.1.26
-    1403:
-    - Tsanfleuron.TSX13_Devertebres.1.27
-    974:
-    - Tsanfleuron.TSX13_Devertebres.1.28
-    989:
-    - Tsanfleuron.TSX13_Devertebres.1.29
-    533:
-    - Tsanfleuron.TSX13_Devertebres.1.30
-    1332:
-    - Tsanfleuron.TSX13_Devertebres.1.31
-    1147:
-    - Tsanfleuron.TSX13_Devertebres.1.32
-    697:
-    - Tsanfleuron.TSX13_Devertebres.1.33
-    980:
-    - Tsanfleuron.TSX13_Devertebres.1.34
-    1206:
-    - Tsanfleuron.TSX13_Devertebres.1.35
-    538:
-    - Tsanfleuron.TSX13_Devertebres.1.36
-    323:
-    - Tsanfleuron.TSX13_Devertebres.1.37
-    1397:
-    - Tsanfleuron.TSX13_Devertebres.1.38
-    904:
-    - Tsanfleuron.TSX13_Devertebres.1.39
-    369:
-    - Tsanfleuron.TSX13_Devertebres.1.40
-    1385:
-    - Tsanfleuron.TSX13_Devertebres.1.41
-    593:
-    - Tsanfleuron.TSX13_Devertebres.1.42
-    86:
-    - Tsanfleuron.TSX13_Devertebres.1.43
-    1435:
-    - Tsanfleuron.TSX13_Devertebres.7.8
-    651:
-    - Tsanfleuron.TSX13_Devertebres.7.0
-    - Tsanfleuron.TSX13_Devertebres.8.0
-    1399:
-    - Tsanfleuron.TSX13_Devertebres.7.1
-    394:
-    - Tsanfleuron.TSX13_Devertebres.8.1
-    1262:
-    - Tsanfleuron.TSX13_Devertebres.7.2
-    573:
-    - Tsanfleuron.TSX13_Devertebres.7.3
-    41:
-    - Tsanfleuron.TSX13_Devertebres.7.4
-    249:
-    - Tsanfleuron.TSX13_Devertebres.7.5
-    473:
-    - Tsanfleuron.TSX13_Devertebres.7.6
-    1395:
-    - Tsanfleuron.TSX13_Devertebres.7.7
-    325:
-    - Tsanfleuron.TSX13_Devertebres.8.2
-    493:
-    - Tsanfleuron.TSX13_Devertebres.8.3
-    1190:
-    - Tsanfleuron.TSX13_Devertebres.8.4
-    303:
-    - Tsanfleuron.TSX13_Devertebres.8.5
-    62:
-    - Tsanfleuron.TSX13_Devertebres.8.6
-    1307:
-    - Tsanfleuron.TSX13_Devertebres.8.7
-    442:
-    - Tsanfleuron.TSX13_Devertebres.8.8
-    606:
-    - Tsanfleuron.TSX13_Devertebres.8.9
-    832:
-    - Tsanfleuron.TSX13_Devertebres.8.10
-    124:
-    - Tsanfleuron.TSX13_Devertebres.8.11
-    1407:
-    - Tsanfleuron.TSX13_Devertebres.8.12
-    157:
-    - Tsanfleuron.TSX13_Devertebres.8.13
-    1356:
-    - Tsanfleuron.TSX13_Devertebres.8.14
-    836:
-    - Tsanfleuron.TSX13_Devertebres.8.15
-    757:
-    - Tsanfleuron.TSX13_Devertebres.8.16
-    547:
-    - Tsanfleuron.TSX13_Devertebres.8.17
-    582:
-    - Tsanfleuron.TSX13_Devertebres.8.18
-    376:
-    - Tsanfleuron.TSX13_Devertebres.8.19
-    556:
-    - Tsanfleuron.TSX13_Devertebres.8.20
-    719:
-    - Tsanfleuron.TSX13_Devertebres.8.21
-    221:
-    - Tsanfleuron.TSX13_Devertebres.8.22
-    1275:
-    - Tsanfleuron.TSX13_Devertebres.8.23
-    688:
-    - Tsanfleuron.TSX13_Devertebres.8.24
-    372:
-    - Tsanfleuron.TSX13_Devertebres.8.25
-    1213:
-    - Tsanfleuron.TSX13_Devertebres.8.26
-    574:
-    - Tsanfleuron.TSX13_Devertebres.8.27
-    851:
-    - Tsanfleuron.TSX13_Devertebres.8.28
-    1077:
-    - Tsanfleuron.TSX13_Devertebres.8.29
-    503:
-    - Tsanfleuron.TSX13_Devertebres.8.30
-    861:
-    - Tsanfleuron.TSX13_Devertebres.8.31
-    1413:
-    - Tsanfleuron.TSX13_Devertebres.8.32
-    263:
-    - Tsanfleuron.TSX13_Devertebres.8.33
-    844:
-    - Tsanfleuron.TSX13_Devertebres.8.34
+    - Entree TSX13 Devertebres
     189:
-    - Tsanfleuron.TSX14.1.0
-    - Tsanfleuron.TSX14.2.0
-    1445:
-    - Tsanfleuron.TSX14.1.1
-    498:
-    - Tsanfleuron.TSX14.2.1
-    298:
-    - Tsanfleuron.TSX14.1.2
-    1265:
-    - Tsanfleuron.TSX14.1.3
-    1321:
-    - Tsanfleuron.TSX14.1.4
-    1251:
-    - Tsanfleuron.TSX14.1.5
+    - Entree TSX14
     1420:
-    - Tsanfleuron.TSX15.1.0
-    - Tsanfleuron.TSX15.2.0
-    929:
-    - Tsanfleuron.TSX15.1.1
-    754:
-    - Tsanfleuron.TSX15.2.1
-    366:
-    - Tsanfleuron.TSX15.1.2
-    809:
-    - Tsanfleuron.TSX15.1.3
-    661:
-    - Tsanfleuron.TSX15.2.2
-    45:
-    - Tsanfleuron.TSX15.2.3
-    502:
-    - Tsanfleuron.TSX17.a0
-    1145:
-    - Tsanfleuron.TSX17.a1
-    700:
-    - Tsanfleuron.TSX17.a2
-    516:
-    - Tsanfleuron.TSX17.a3
-    69:
-    - Tsanfleuron.TSX17.a4
-    177:
-    - Tsanfleuron.TSX17.a5
-    108:
-    - Tsanfleuron.TSX17.a6
-    1442:
-    - Tsanfleuron.TSX17.a7
-    734:
-    - Tsanfleuron.TSX17.a8
-    56:
-    - Tsanfleuron.TSX17.a9
-    957:
-    - Tsanfleuron.TSX17.a10
-    165:
-    - Tsanfleuron.TSX17.a11
-    186:
-    - Tsanfleuron.TSX17.a12
-    357:
-    - Tsanfleuron.TSX17.a13
-    27:
-    - Tsanfleuron.TSX17.a14
-    71:
-    - Tsanfleuron.TSX17.a15
-    417:
-    - Tsanfleuron.TSX17.a16
-    807:
-    - Tsanfleuron.TSX17.a17
-    618:
-    - Tsanfleuron.TSX17.a18
-    856:
-    - Tsanfleuron.TSX17.a19
-    1367:
-    - Tsanfleuron.TSX17.a20
-    1221:
-    - Tsanfleuron.TSX17.a21
-    1130:
-    - Tsanfleuron.TSX17.a22
-    1444:
-    - Tsanfleuron.TSX17.a23
-    1016:
-    - Tsanfleuron.TSX17.a24
-    333:
-    - Tsanfleuron.TSX17.a25
+    - Entree TSX15
     76:
-    - Tsanfleuron.TSX17.a26
+    - Entree TSX17
     1283:
-    - Tsanfleuron.TSX1_Precoces.1.0
-    899:
-    - Tsanfleuron.TSX1_Precoces.1.1
-    188:
-    - Tsanfleuron.TSX1_Precoces.1.2
-    1093:
-    - Tsanfleuron.TSX1_Precoces.1.3
-    1170:
-    - Tsanfleuron.TSX1_Precoces.1.4
-    324:
-    - Tsanfleuron.TSX1_Precoces.1.5
-    94:
-    - Tsanfleuron.TSX1_Precoces.1.6
-    1087:
-    - Tsanfleuron.TSX1_Precoces.1.7
-    213:
-    - Tsanfleuron.TSX1_Precoces.1.8
-    10:
-    - Tsanfleuron.TSX1_Precoces.1.9
-    944:
-    - Tsanfleuron.TSX1_Precoces.1.10
-    180:
-    - Tsanfleuron.TSX1_Precoces.1.11
-    81:
-    - Tsanfleuron.TSX1_Precoces.1.12
-    115:
-    - Tsanfleuron.TSX1_Precoces.1.13
-    409:
-    - Tsanfleuron.TSX1_Precoces.1.14
-    98:
-    - Tsanfleuron.TSX1_Precoces.1.15
-    66:
-    - Tsanfleuron.TSX1_Precoces.1.16
-    423:
-    - Tsanfleuron.TSX1_Precoces.1.17
-    471:
-    - Tsanfleuron.TSX1_Precoces.1.18
-    1236:
-    - Tsanfleuron.TSX1_Precoces.1.19
-    107:
-    - Tsanfleuron.TSX1_Precoces.1.20
-    1181:
-    - Tsanfleuron.TSX1_Precoces.1.21
-    73:
-    - Tsanfleuron.TSX1_Precoces.1.22
-    1296:
-    - Tsanfleuron.TSX1_Precoces.1.23
-    501:
-    - Tsanfleuron.TSX1_Precoces.1.24
-    738:
-    - Tsanfleuron.TSX1_Precoces.1.25
-    256:
-    - Tsanfleuron.TSX1_Precoces.1.26
-    204:
-    - Tsanfleuron.TSX1_Precoces.1.27
-    1208:
-    - Tsanfleuron.TSX1_Precoces.1.28
-    802:
-    - Tsanfleuron.TSX1_Precoces.3.4
-    637:
-    - Tsanfleuron.TSX1_Precoces.1.29
-    145:
-    - Tsanfleuron.TSX1_Precoces.1.30
-    1286:
-    - Tsanfleuron.TSX1_Precoces.1.31
-    1387:
-    - Tsanfleuron.TSX1_Precoces.1.32
-    752:
-    - Tsanfleuron.TSX1_Precoces.2.0
-    - Tsanfleuron.TSX1_Precoces.3.0
-    - Tsanfleuron.TSX1_Precoces.4.2
-    587:
-    - Tsanfleuron.TSX1_Precoces.2.1
-    1043:
-    - Tsanfleuron.TSX1_Precoces.3.1
-    539:
-    - Tsanfleuron.TSX1_Precoces.4.1
-    231:
-    - Tsanfleuron.TSX1_Precoces.4.3
-    1244:
-    - Tsanfleuron.TSX1_Precoces.2.2
-    894:
-    - Tsanfleuron.TSX1_Precoces.2.3
-    811:
-    - Tsanfleuron.TSX1_Precoces.2.4
-    - Tsanfleuron.TSX1_Precoces.4.0
-    859:
-    - Tsanfleuron.TSX1_Precoces.2.5
-    751:
-    - Tsanfleuron.TSX1_Precoces.2.6
-    285:
-    - Tsanfleuron.TSX1_Precoces.3.2
-    0:
-    - Tsanfleuron.TSX1_Precoces.3.3
-    1457:
-    - Tsanfleuron.TSX1_Precoces.4.4
-    843:
-    - Tsanfleuron.TSX1_Precoces.4.5
-    1162:
-    - Tsanfleuron.TSX1_Precoces.4.6
-    575:
-    - Tsanfleuron.TSX1_Precoces.4.7
-    95:
-    - Tsanfleuron.TSX1_Precoces.4.8
-    780:
-    - Tsanfleuron.TSX1_Precoces.4.9
-    255:
-    - Tsanfleuron.TSX1_Precoces.4.10
-    1368:
-    - Tsanfleuron.TSX1_Precoces.4.11
-    715:
-    - Tsanfleuron.TSX1_Precoces.4.12
-    1259:
-    - Tsanfleuron.TSX1_Precoces.4.13
-    884:
-    - Tsanfleuron.TSX1_Precoces.4.14
-    689:
-    - Tsanfleuron.TSX1_Precoces.4.15
-    490:
-    - Tsanfleuron.TSX1_Precoces.4.16
-    902:
-    - Tsanfleuron.TSX1_Precoces.4.17
-    - Tsanfleuron.TSX1_Precoces.5.0
-    266:
-    - Tsanfleuron.TSX1_Precoces.4.18
-    954:
-    - Tsanfleuron.TSX1_Precoces.5.1
-    60:
-    - Tsanfleuron.TSX1_Precoces.5.2
-    1105:
-    - Tsanfleuron.TSX1_Precoces.5.3
-    321:
-    - Tsanfleuron.TSX1_Precoces.5.4
-    1079:
-    - Tsanfleuron.TSX1_Precoces.5.5
-    119:
-    - Tsanfleuron.TSX1_Precoces.5.6
-    644:
-    - Tsanfleuron.TSX1_Precoces.5.7
-    218:
-    - Tsanfleuron.TSX1_Precoces.5.8
-    1137:
-    - Tsanfleuron.TSX1_Precoces.5.9
-    1428:
-    - Tsanfleuron.TSX1_Precoces.4.19
-    481:
-    - Tsanfleuron.TSX1_Precoces.4.20
-    662:
-    - Tsanfleuron.TSX1_Precoces.4.21
-    628:
-    - Tsanfleuron.TSX1_Precoces.4.22
-    1193:
-    - Tsanfleuron.TSX1_Precoces.4.23
-    1051:
-    - Tsanfleuron.TSX1_Precoces.4.24
-    389:
-    - Tsanfleuron.TSX1_Precoces.4.25
-    808:
-    - Tsanfleuron.TSX1_Precoces.4.26
-    - Tsanfleuron.TSX1_Precoces.6.0
-    583:
-    - Tsanfleuron.TSX1_Precoces.4.27
-    168:
-    - Tsanfleuron.TSX1_Precoces.6.1
-    144:
-    - Tsanfleuron.TSX1_Precoces.4.28
-    1169:
-    - Tsanfleuron.TSX1_Precoces.4.29
-    341:
-    - Tsanfleuron.TSX1_Precoces.4.30
-    794:
-    - Tsanfleuron.TSX1_Precoces.4.31
-    359:
-    - Tsanfleuron.TSX1_Precoces.4.32
-    654:
-    - Tsanfleuron.TSX1_Precoces.4.33
-    1224:
-    - Tsanfleuron.TSX1_Precoces.4.34
-    570:
-    - Tsanfleuron.TSX1_Precoces.4.35
-    1314:
-    - Tsanfleuron.TSX1_Precoces.4.36
-    711:
-    - Tsanfleuron.TSX1_Precoces.4.37
-    842:
-    - Tsanfleuron.TSX1_Precoces.4.38
-    46:
-    - Tsanfleuron.TSX1_Precoces.4.39
-    901:
-    - Tsanfleuron.TSX1_Precoces.4.40
-    111:
-    - Tsanfleuron.TSX1_Precoces.4.41
-    54:
-    - Tsanfleuron.TSX1_Precoces.4.42
-    917:
-    - Tsanfleuron.TSX1_Precoces.4.43
-    109:
-    - Tsanfleuron.TSX1_Precoces.4.44
-    245:
-    - Tsanfleuron.TSX1_Precoces.4.45
-    1438:
-    - Tsanfleuron.TSX1_Precoces.4.46
-    1021:
-    - Tsanfleuron.TSX1_Precoces.4.47
-    741:
-    - Tsanfleuron.TSX1_Precoces.4.48
-    914:
-    - Tsanfleuron.TSX1_Precoces.4.49
-    822:
-    - Tsanfleuron.TSX1_Precoces.4.50
-    824:
-    - Tsanfleuron.TSX1_Precoces.4.51
-    1014:
-    - Tsanfleuron.TSX1_Precoces.4.52
-    362:
-    - Tsanfleuron.TSX1_Precoces.4.53
-    187:
-    - Tsanfleuron.TSX1_Precoces.4.54
-    1157:
-    - Tsanfleuron.TSX1_Precoces.4.55
-    248:
-    - Tsanfleuron.TSX1_Precoces.4.56
-    1247:
-    - Tsanfleuron.TSX1_Precoces.4.57
-    1120:
-    - Tsanfleuron.TSX1_Precoces.4.58
-    441:
-    - Tsanfleuron.TSX1_Precoces.4.59
-    - Tsanfleuron.TSX1_Precoces.7.0
-    1172:
-    - Tsanfleuron.TSX1_Precoces.7.1
-    - Tsanfleuron.TSX1_Precoces.9.0
-    622:
-    - Tsanfleuron.TSX1_Precoces.6.2
-    424:
-    - Tsanfleuron.TSX1_Precoces.6.3
-    1447:
-    - Tsanfleuron.TSX1_Precoces.6.4
-    1189:
-    - Tsanfleuron.TSX1_Precoces.6.5
-    586:
-    - Tsanfleuron.TSX1_Precoces.7.2
-    666:
-    - Tsanfleuron.TSX1_Precoces.9.1
-    936:
-    - Tsanfleuron.TSX1_Precoces.7.3
-    972:
-    - Tsanfleuron.TSX1_Precoces.7.4
-    1386:
-    - Tsanfleuron.TSX1_Precoces.7.5
-    - Tsanfleuron.TSX1_Precoces.8.0
-    1110:
-    - Tsanfleuron.TSX1_Precoces.7.6
-    456:
-    - Tsanfleuron.TSX1_Precoces.8.1
-    1083:
-    - Tsanfleuron.TSX1_Precoces.7.7
-    373:
-    - Tsanfleuron.TSX1_Precoces.8.2
-    277:
-    - Tsanfleuron.TSX1_Precoces.8.3
-    585:
-    - Tsanfleuron.TSX1_Precoces.8.4
-    1456:
-    - Tsanfleuron.TSX1_Precoces.8.5
-    657:
-    - Tsanfleuron.TSX1_Precoces.8.6
-    1257:
-    - Tsanfleuron.TSX1_Precoces.8.7
-    601:
-    - Tsanfleuron.TSX1_Precoces.8.8
-    1198:
-    - Tsanfleuron.TSX1_Precoces.8.9
-    1354:
-    - Tsanfleuron.TSX1_Precoces.8.10
-    986:
-    - Tsanfleuron.TSX1_Precoces.8.11
-    226:
-    - Tsanfleuron.TSX1_Precoces.8.12
-    1202:
-    - Tsanfleuron.TSX1_Precoces.8.13
-    506:
-    - Tsanfleuron.TSX1_Precoces.8.14
-    886:
-    - Tsanfleuron.TSX1_Precoces.8.15
-    1111:
-    - Tsanfleuron.TSX1_Precoces.8.16
-    1013:
-    - Tsanfleuron.TSX1_Precoces.8.17
-    1035:
-    - Tsanfleuron.TSX1_Precoces.8.18
-    544:
-    - Tsanfleuron.TSX1_Precoces.8.19
-    938:
-    - Tsanfleuron.TSX1_Precoces.8.20
-    792:
-    - Tsanfleuron.TSX1_Precoces.8.21
-    253:
-    - Tsanfleuron.TSX1_Precoces.8.22
-    16:
-    - Tsanfleuron.TSX1_Precoces.8.23
-    542:
-    - Tsanfleuron.TSX1_Precoces.8.24
-    1212:
-    - Tsanfleuron.TSX1_Precoces.8.25
-    11:
-    - Tsanfleuron.TSX1_Precoces.8.26
-    659:
-    - Tsanfleuron.TSX1_Precoces.8.27
-    571:
-    - Tsanfleuron.TSX1_Precoces.8.28
-    1082:
-    - Tsanfleuron.TSX1_Precoces.8.29
-    594:
-    - Tsanfleuron.TSX1_Precoces.8.30
-    1186:
-    - Tsanfleuron.TSX1_Precoces.8.31
-    725:
-    - Tsanfleuron.TSX1_Precoces.8.32
-    1074:
-    - Tsanfleuron.TSX1_Precoces.8.33
-    1185:
-    - Tsanfleuron.TSX1_Precoces.8.34
-    1364:
-    - Tsanfleuron.TSX1_Precoces.8.35
-    295:
-    - Tsanfleuron.TSX1_Precoces.8.36
-    336:
-    - Tsanfleuron.TSX1_Precoces.8.37
-    452:
-    - Tsanfleuron.TSX1_Precoces.8.38
-    1237:
-    - Tsanfleuron.TSX1_Precoces.8.39
-    401:
-    - Tsanfleuron.TSX1_Precoces.8.40
-    1092:
-    - Tsanfleuron.TSX1_Precoces.8.41
-    763:
-    - Tsanfleuron.TSX1_Precoces.8.42
+    - Entree TSX1 Precoces
     535:
-    - Tsanfleuron.TSX2.1.0
-    1300:
-    - Tsanfleuron.TSX2.1.1
-    1436:
-    - Tsanfleuron.TSX2.1.2
-    833:
-    - Tsanfleuron.TSX2.1.3
-    - Tsanfleuron.TSX2.3.0
-    440:
-    - Tsanfleuron.TSX2.1.4
-    - Tsanfleuron.TSX2.2.0
-    1078:
-    - Tsanfleuron.TSX2.3.1
-    1073:
-    - Tsanfleuron.TSX2.1.5
-    192:
-    - Tsanfleuron.TSX2.2.1
-    605:
-    - Tsanfleuron.TSX2.1.6
-    1437:
-    - Tsanfleuron.TSX2.2.2
-    1075:
-    - Tsanfleuron.TSX2.2.3
-    1241:
-    - Tsanfleuron.TSX2.2.4
-    2:
-    - Tsanfleuron.TSX2.3.2
-    1203:
-    - Tsanfleuron.TSX2.3.3
-    403:
-    - Tsanfleuron.TSX2.3.4
-    103:
-    - Tsanfleuron.TSX2.3.5
-    913:
-    - Tsanfleuron.TSX2.3.6
-    1327:
-    - Tsanfleuron.TSX2.3.7
-    153:
-    - Tsanfleuron.TSX2.3.8
-    1414:
-    - Tsanfleuron.TSX2.3.9
-    576:
-    - Tsanfleuron.TSX2.3.10
-    - Tsanfleuron.TSX2.4.0
-    432:
-    - Tsanfleuron.TSX2.3.11
-    981:
-    - Tsanfleuron.TSX2.4.1
-    1064:
-    - Tsanfleuron.TSX2.3.12
-    - Tsanfleuron.TSX2.5.0
-    1459:
-    - Tsanfleuron.TSX2.3.13
-    296:
-    - Tsanfleuron.TSX2.5.1
-    716:
-    - Tsanfleuron.TSX2.3.14
-    1263:
-    - Tsanfleuron.TSX2.3.15
-    975:
-    - Tsanfleuron.TSX2.3.16
-    158:
-    - Tsanfleuron.TSX2.3.17
-    992:
-    - Tsanfleuron.TSX2.3.18
-    552:
-    - Tsanfleuron.TSX2.3.19
-    - Tsanfleuron.TSX2.7.0
-    737:
-    - Tsanfleuron.TSX2.3.20
-    647:
-    - Tsanfleuron.TSX2.7.1
-    386:
-    - Tsanfleuron.TSX2.3.21
-    - Tsanfleuron.TSX2.6.0
-    146:
-    - Tsanfleuron.TSX2.3.22
-    1004:
-    - Tsanfleuron.TSX2.6.1
-    672:
-    - Tsanfleuron.TSX2.6.2
-    427:
-    - Tsanfleuron.TSX2.3.23
-    1371:
-    - Tsanfleuron.TSX2.7.2
-    871:
-    - Tsanfleuron.TSX2.7.3
-    814:
-    - Tsanfleuron.TSX2.7.4
-    1180:
-    - Tsanfleuron.TSX2.7.5
-    126:
-    - Tsanfleuron.TSX2.7.6
-    121:
-    - Tsanfleuron.TSX2.7.7
-    1222:
-    - Tsanfleuron.TSX2.7.8
+    - Entree TSX2
     282:
-    - Tsanfleuron.TSX4_CoupeFresard.1.0
-    940:
-    - Tsanfleuron.TSX4_CoupeFresard.1.1
-    275:
-    - Tsanfleuron.TSX4_CoupeFresard.1.2
-    1405:
-    - Tsanfleuron.TSX4_CoupeFresard.1.3
-    760:
-    - Tsanfleuron.TSX4_CoupeFresard.1.4
-    1001:
-    - Tsanfleuron.TSX4_CoupeFresard.1.5
-    804:
-    - Tsanfleuron.TSX4_CoupeFresard.1.6
-    927:
-    - Tsanfleuron.TSX4_CoupeFresard.1.7
-    314:
-    - Tsanfleuron.TSX4_CoupeFresard.1.8
-    515:
-    - Tsanfleuron.TSX4_CoupeFresard.1.9
-    353:
-    - Tsanfleuron.TSX4_CoupeFresard.1.10
-    1268:
-    - Tsanfleuron.TSX4_CoupeFresard.1.11
-    1187:
-    - Tsanfleuron.TSX4_CoupeFresard.1.12
-    829:
-    - Tsanfleuron.TSX4_CoupeFresard.1.13
-    241:
-    - Tsanfleuron.TSX4_CoupeFresard.1.14
-    636:
-    - Tsanfleuron.TSX4_CoupeFresard.1.15
-    419:
-    - Tsanfleuron.TSX4_CoupeFresard.2.5
-    370:
-    - Tsanfleuron.TSX4_CoupeFresard.2.0
-    - Tsanfleuron.TSX4_CoupeFresard.3.0
-    - Tsanfleuron.TSX4_CoupeFresard.9.0
-    - Tsanfleuron.TSX4_CoupeFresard.10.0
-    1058:
-    - Tsanfleuron.TSX4_CoupeFresard.2.1
-    865:
-    - Tsanfleuron.TSX4_CoupeFresard.3.1
-    - Tsanfleuron.TSX4_CoupeFresard.4.0
-    1036:
-    - Tsanfleuron.TSX4_CoupeFresard.9.1
-    309:
-    - Tsanfleuron.TSX4_CoupeFresard.10.1
-    947:
-    - Tsanfleuron.TSX4_CoupeFresard.2.2
-    619:
-    - Tsanfleuron.TSX4_CoupeFresard.2.3
-    882:
-    - Tsanfleuron.TSX4_CoupeFresard.2.4
-    271:
-    - Tsanfleuron.TSX4_CoupeFresard.3.2
-    976:
-    - Tsanfleuron.TSX4_CoupeFresard.4.1
-    1020:
-    - Tsanfleuron.TSX4_CoupeFresard.3.3
-    - Tsanfleuron.TSX4_CoupeFresard.5.0
-    - Tsanfleuron.TSX4_CoupeFresard.6.0
-    334:
-    - Tsanfleuron.TSX4_CoupeFresard.3.4
-    - Tsanfleuron.TSX4_CoupeFresard.7.0
-    161:
-    - Tsanfleuron.TSX4_CoupeFresard.4.3
-    1192:
-    - Tsanfleuron.TSX4_CoupeFresard.5.1
-    559:
-    - Tsanfleuron.TSX4_CoupeFresard.6.1
-    1142:
-    - Tsanfleuron.TSX4_CoupeFresard.3.5
-    612:
-    - Tsanfleuron.TSX4_CoupeFresard.7.1
-    150:
-    - Tsanfleuron.TSX4_CoupeFresard.3.6
-    1422:
-    - Tsanfleuron.TSX4_CoupeFresard.3.7
-    1410:
-    - Tsanfleuron.TSX4_CoupeFresard.4.2
-    701:
-    - Tsanfleuron.TSX4_CoupeFresard.6.2
-    29:
-    - Tsanfleuron.TSX4_CoupeFresard.6.3
-    1031:
-    - Tsanfleuron.TSX4_CoupeFresard.6.4
-    49:
-    - Tsanfleuron.TSX4_CoupeFresard.6.5
-    1253:
-    - Tsanfleuron.TSX4_CoupeFresard.6.6
-    816:
-    - Tsanfleuron.TSX4_CoupeFresard.6.7
-    1452:
-    - Tsanfleuron.TSX4_CoupeFresard.6.8
-    635:
-    - Tsanfleuron.TSX4_CoupeFresard.6.9
-    1453:
-    - Tsanfleuron.TSX4_CoupeFresard.7.2
-    1048:
-    - Tsanfleuron.TSX4_CoupeFresard.7.3
-    1322:
-    - Tsanfleuron.TSX4_CoupeFresard.7.4
-    461:
-    - Tsanfleuron.TSX4_CoupeFresard.7.5
-    607:
-    - Tsanfleuron.TSX4_CoupeFresard.7.6
-    173:
-    - Tsanfleuron.TSX4_CoupeFresard.7.7
-    1260:
-    - Tsanfleuron.TSX4_CoupeFresard.7.8
-    416:
-    - Tsanfleuron.TSX4_CoupeFresard.7.9
-    53:
-    - Tsanfleuron.TSX4_CoupeFresard.7.10
-    92:
-    - Tsanfleuron.TSX4_CoupeFresard.7.11
-    393:
-    - Tsanfleuron.TSX4_CoupeFresard.7.12
-    343:
-    - Tsanfleuron.TSX4_CoupeFresard.7.13
-    288:
-    - Tsanfleuron.TSX4_CoupeFresard.7.14
-    740:
-    - Tsanfleuron.TSX4_CoupeFresard.7.15
-    143:
-    - Tsanfleuron.TSX4_CoupeFresard.7.16
-    777:
-    - Tsanfleuron.TSX4_CoupeFresard.7.17
-    50:
-    - Tsanfleuron.TSX4_CoupeFresard.7.18
-    322:
-    - Tsanfleuron.TSX4_CoupeFresard.7.19
-    235:
-    - Tsanfleuron.TSX4_CoupeFresard.7.20
-    1210:
-    - Tsanfleuron.TSX4_CoupeFresard.7.21
-    621:
-    - Tsanfleuron.TSX4_CoupeFresard.7.22
-    238:
-    - Tsanfleuron.TSX4_CoupeFresard.7.23
-    468:
-    - Tsanfleuron.TSX4_CoupeFresard.7.24
-    466:
-    - Tsanfleuron.TSX4_CoupeFresard.7.25
-    40:
-    - Tsanfleuron.TSX4_CoupeFresard.7.26
-    1319:
-    - Tsanfleuron.TSX4_CoupeFresard.7.27
-    460:
-    - Tsanfleuron.TSX4_CoupeFresard.7.28
-    613:
-    - Tsanfleuron.TSX4_CoupeFresard.7.29
-    1214:
-    - Tsanfleuron.TSX4_CoupeFresard.7.30
-    - Tsanfleuron.TSX4_CoupeFresard.8.0
-    1140:
-    - Tsanfleuron.TSX4_CoupeFresard.7.31
-    755:
-    - Tsanfleuron.TSX4_CoupeFresard.8.1
-    800:
-    - Tsanfleuron.TSX4_CoupeFresard.7.32
-    472:
-    - Tsanfleuron.TSX4_CoupeFresard.7.33
-    1143:
-    - Tsanfleuron.TSX4_CoupeFresard.7.34
-    720:
-    - Tsanfleuron.TSX4_CoupeFresard.7.35
-    945:
-    - Tsanfleuron.TSX4_CoupeFresard.7.36
-    1104:
-    - Tsanfleuron.TSX4_CoupeFresard.7.37
-    1320:
-    - Tsanfleuron.TSX4_CoupeFresard.7.38
-    518:
-    - Tsanfleuron.TSX4_CoupeFresard.7.39
-    1146:
-    - Tsanfleuron.TSX4_CoupeFresard.7.40
-    1334:
-    - Tsanfleuron.TSX4_CoupeFresard.7.41
-    1022:
-    - Tsanfleuron.TSX4_CoupeFresard.7.42
-    1136:
-    - Tsanfleuron.TSX4_CoupeFresard.7.43
-    1308:
-    - Tsanfleuron.TSX4_CoupeFresard.10.2
-    494:
-    - Tsanfleuron.TSX4_CoupeFresard.10.3
-    812:
-    - Tsanfleuron.TSX4_CoupeFresard.10.4
-    - Tsanfleuron.TSX4_CoupeFresard.12.0
-    567:
-    - Tsanfleuron.TSX4_CoupeFresard.10.5
-    302:
-    - Tsanfleuron.TSX4_CoupeFresard.12.1
-    1040:
-    - Tsanfleuron.TSX4_CoupeFresard.10.6
-    1393:
-    - Tsanfleuron.TSX4_CoupeFresard.10.7
-    273:
-    - Tsanfleuron.TSX4_CoupeFresard.10.8
-    - Tsanfleuron.TSX4_CoupeFresard.11.0
-    1071:
-    - Tsanfleuron.TSX4_CoupeFresard.10.9
-    184:
-    - Tsanfleuron.TSX4_CoupeFresard.11.1
-    977:
-    - Tsanfleuron.TSX4_CoupeFresard.12.2
+    - Entree TSX4 Trou Coupe Fresard
     1005:
-    - Tsanfleuron.TSX9_Acouphene.1.0
-    67:
-    - Tsanfleuron.TSX9_Acouphene.1.1
-    1306:
-    - Tsanfleuron.TSX9_Acouphene.1.2
-    918:
-    - Tsanfleuron.TSX9_Acouphene.1.3
-    795:
-    - Tsanfleuron.TSX9_Acouphene.1.4
-    110:
-    - Tsanfleuron.TSX9_Acouphene.1.5
-    - Tsanfleuron.TSX9_Acouphene.2.0
-    206:
-    - Tsanfleuron.TSX9_Acouphene.1.6
-    1417:
-    - Tsanfleuron.TSX9_Acouphene.2.1
-    782:
-    - Tsanfleuron.TSX9_Acouphene.1.7
-    - Tsanfleuron.TSX9_Acouphene.3.0
-    680:
-    - Tsanfleuron.TSX9_Acouphene.1.8
-    1281:
-    - Tsanfleuron.TSX9_Acouphene.3.1
-    75:
-    - Tsanfleuron.TSX9_Acouphene.1.9
-    - Tsanfleuron.TSX9_Acouphene.4.0
-    1227:
-    - Tsanfleuron.TSX9_Acouphene.1.10
-    79:
-    - Tsanfleuron.TSX9_Acouphene.4.1
-    779:
-    - Tsanfleuron.TSX9_Acouphene.1.11
-    670:
-    - Tsanfleuron.TSX9_Acouphene.1.12
-    1144:
-    - Tsanfleuron.TSX9_Acouphene.1.13
-    683:
-    - Tsanfleuron.TSX9_Acouphene.1.14
-    1066:
-    - Tsanfleuron.TSX9_Acouphene.1.15
-    1248:
-    - Tsanfleuron.TSX9_Acouphene.1.16
-    125:
-    - Tsanfleuron.TSX9_Acouphene.1.17
-    922:
-    - Tsanfleuron.TSX9_Acouphene.1.18
-    61:
-    - Tsanfleuron.TSX9_Acouphene.1.19
-    431:
-    - Tsanfleuron.TSX9_Acouphene.2.2
-    439:
-    - Tsanfleuron.TSX9_Acouphene.2.3
-    6:
-    - Tsanfleuron.TSX9_Acouphene.2.4
-    274:
-    - Tsanfleuron.TSX9_Acouphene.2.5
-    1127:
-    - Tsanfleuron.TSX9_Acouphene.2.6
-    51:
-    - Tsanfleuron.TSX9_Acouphene.3.2
-    1088:
-    - Tsanfleuron.TSX9_Acouphene.3.3
-    1003:
-    - Tsanfleuron.TSX9_Acouphene.3.4
-    1055:
-    - Tsanfleuron.TSX9_Acouphene.3.5
-    83:
-    - Tsanfleuron.TSX9_Acouphene.4.2
+    - Entree TSX9 Acouphene
     862:
-    - Tsanfleuron.TZ99_Transpirateur.1.0
-    1269:
-    - Tsanfleuron.TZ99_Transpirateur.1.1
-    68:
-    - Tsanfleuron.TZ99_Transpirateur.1.2
-    1280:
-    - Tsanfleuron.TZ99_Transpirateur.1.3
-    907:
-    - Tsanfleuron.TZ99_Transpirateur.1.4
-    1305:
-    - Tsanfleuron.TZ99_Transpirateur.1.5
-    663:
-    - Tsanfleuron.TZ99_Transpirateur.1.6
-    1290:
-    - Tsanfleuron.TZ99_Transpirateur.1.7
-    311:
-    - Tsanfleuron.TZ99_Transpirateur.1.8
-    178:
-    - Tsanfleuron.TZ99_Transpirateur.1.9
-    1317:
-    - Tsanfleuron.TZ99_Transpirateur.1.10
-    1329:
-    - Tsanfleuron.TZ99_Transpirateur.1.11
-    240:
-    - Tsanfleuron.TZ99_Transpirateur.1.12
-    1065:
-    - Tsanfleuron.TZ99_Transpirateur.1.13
-    1370:
-    - Tsanfleuron.TZ99_Transpirateur.1.14
-    308:
-    - Tsanfleuron.TZ99_Transpirateur.1.15
-    242:
-    - Tsanfleuron.TZ99_Transpirateur.1.16
-    1289:
-    - Tsanfleuron.TZ99_Transpirateur.1.17
-    609:
-    - Tsanfleuron.TZ99_Transpirateur.1.18
-    407:
-    - Tsanfleuron.TZ99_Transpirateur.1.19
-    1113:
-    - Tsanfleuron.TZ99_Transpirateur.1.20
-    1409:
-    - Tsanfleuron.TZ99_Transpirateur.1.21
-    892:
-    - Tsanfleuron.TZ99_Transpirateur.1.22
-    880:
-    - Tsanfleuron.TZ99_Transpirateur.1.23
-    1378:
-    - Tsanfleuron.TZ99_Transpirateur.1.24
-    623:
-    - Tsanfleuron.TZ99_Transpirateur.1.25
-    36:
-    - Tsanfleuron.TZ99_Transpirateur.1.26
-    1252:
-    - Tsanfleuron.TZ99_Transpirateur.1.27
-    512:
-    - Tsanfleuron.TZ99_Transpirateur.1.28
-    969:
-    - Tsanfleuron.TZ99_Transpirateur.1.29
-    166:
-    - Tsanfleuron.TZ99_Transpirateur.1.30
-    - Tsanfleuron.TZ99_Transpirateur.1.31
-    483:
-    - Tsanfleuron.TZ99_Transpirateur.1.32
-    1274:
-    - Tsanfleuron.TZ99_Transpirateur.1.33
-    925:
-    - Tsanfleuron.TZ99_Transpirateur.1.34
-    965:
-    - Tsanfleuron.TZ99_Transpirateur.1.35
-    43:
-    - Tsanfleuron.TZ99_Transpirateur.1.36
-    91:
-    - Tsanfleuron.TZ99_Transpirateur.1.37
-    44:
-    - Tsanfleuron.TZ99_Transpirateur.1.38
-    1139:
-    - Tsanfleuron.TZ99_Transpirateur.1.39
-    924:
-    - Tsanfleuron.TZ99_Transpirateur.1.40
-    312:
-    - Tsanfleuron.TZ99_Transpirateur.1.41
-    88:
-    - Tsanfleuron.TZ99_Transpirateur.1.42
-    434:
-    - Tsanfleuron.TZ99_Transpirateur.1.43
-    475:
-    - Tsanfleuron.TZ99_Transpirateur.1.44
-    1404:
-    - Tsanfleuron.TZ99_Transpirateur.1.45
-    352:
-    - Tsanfleuron.TZ99_Transpirateur.1.46
-    215:
-    - Tsanfleuron.TZ99_Transpirateur.1.47
-    191:
-    - Tsanfleuron.TZ99_Transpirateur.1.48
-    - Tsanfleuron.TZ99_Transpirateur.6.0
-    1316:
-    - Tsanfleuron.TZ99_Transpirateur.1.49
-    224:
-    - Tsanfleuron.TZ99_Transpirateur.5.10
-    1178:
-    - Tsanfleuron.TZ99_Transpirateur.6.1
-    1458:
-    - Tsanfleuron.TZ99_Transpirateur.1.50
-    937:
-    - Tsanfleuron.TZ99_Transpirateur.1.51
-    - Tsanfleuron.TZ99_Transpirateur.2.0
-    1115:
-    - Tsanfleuron.TZ99_Transpirateur.1.52
-    1226:
-    - Tsanfleuron.TZ99_Transpirateur.2.1
-    47:
-    - Tsanfleuron.TZ99_Transpirateur.1.53
-    350:
-    - Tsanfleuron.TZ99_Transpirateur.1.54
-    714:
-    - Tsanfleuron.TZ99_Transpirateur.1.55
-    728:
-    - Tsanfleuron.TZ99_Transpirateur.1.56
-    1431:
-    - Tsanfleuron.TZ99_Transpirateur.1.57
-    1432:
-    - Tsanfleuron.TZ99_Transpirateur.1.58
-    82:
-    - Tsanfleuron.TZ99_Transpirateur.2.2
-    21:
-    - Tsanfleuron.TZ99_Transpirateur.2.3
-    1039:
-    - Tsanfleuron.TZ99_Transpirateur.2.4
-    1047:
-    - Tsanfleuron.TZ99_Transpirateur.2.5
-    429:
-    - Tsanfleuron.TZ99_Transpirateur.2.6
-    90:
-    - Tsanfleuron.TZ99_Transpirateur.2.7
-    1072:
-    - Tsanfleuron.TZ99_Transpirateur.2.8
-    1355:
-    - Tsanfleuron.TZ99_Transpirateur.2.9
-    1041:
-    - Tsanfleuron.TZ99_Transpirateur.2.10
-    966:
-    - Tsanfleuron.TZ99_Transpirateur.2.11
-    120:
-    - Tsanfleuron.TZ99_Transpirateur.2.12
-    773:
-    - Tsanfleuron.TZ99_Transpirateur.2.13
-    732:
-    - Tsanfleuron.TZ99_Transpirateur.2.14
-    1177:
-    - Tsanfleuron.TZ99_Transpirateur.2.15
-    1238:
-    - Tsanfleuron.TZ99_Transpirateur.2.16
-    163:
-    - Tsanfleuron.TZ99_Transpirateur.3.0
-    - Tsanfleuron.TZ99_Transpirateur.5.0
-    1011:
-    - Tsanfleuron.TZ99_Transpirateur.3.1
-    13:
-    - Tsanfleuron.TZ99_Transpirateur.5.1
-    154:
-    - Tsanfleuron.TZ99_Transpirateur.3.2
-    329:
-    - Tsanfleuron.TZ99_Transpirateur.3.3
-    450:
-    - Tsanfleuron.TZ99_Transpirateur.3.4
-    565:
-    - Tsanfleuron.TZ99_Transpirateur.3.5
-    831:
-    - Tsanfleuron.TZ99_Transpirateur.3.14
-    1195:
-    - Tsanfleuron.TZ99_Transpirateur.3.6
-    713:
-    - Tsanfleuron.TZ99_Transpirateur.3.7
-    652:
-    - Tsanfleuron.TZ99_Transpirateur.3.8
-    - Tsanfleuron.TZ99_Transpirateur.4.0
-    1391:
-    - Tsanfleuron.TZ99_Transpirateur.3.9
-    1101:
-    - Tsanfleuron.TZ99_Transpirateur.4.1
-    1239:
-    - Tsanfleuron.TZ99_Transpirateur.3.10
-    1132:
-    - Tsanfleuron.TZ99_Transpirateur.3.11
-    563:
-    - Tsanfleuron.TZ99_Transpirateur.3.12
-    1338:
-    - Tsanfleuron.TZ99_Transpirateur.3.13
-    727:
-    - Tsanfleuron.TZ99_Transpirateur.4.2
-    762:
-    - Tsanfleuron.TZ99_Transpirateur.4.3
-    554:
-    - Tsanfleuron.TZ99_Transpirateur.4.4
-    1122:
-    - Tsanfleuron.TZ99_Transpirateur.4.5
-    435:
-    - Tsanfleuron.TZ99_Transpirateur.4.6
-    615:
-    - Tsanfleuron.TZ99_Transpirateur.4.7
-    591:
-    - Tsanfleuron.TZ99_Transpirateur.4.8
-    785:
-    - Tsanfleuron.TZ99_Transpirateur.4.9
-    474:
-    - Tsanfleuron.TZ99_Transpirateur.5.2
-    411:
-    - Tsanfleuron.TZ99_Transpirateur.5.3
-    216:
-    - Tsanfleuron.TZ99_Transpirateur.5.4
-    1207:
-    - Tsanfleuron.TZ99_Transpirateur.5.5
-    316:
-    - Tsanfleuron.TZ99_Transpirateur.5.6
-    194:
-    - Tsanfleuron.TZ99_Transpirateur.5.7
-    1297:
-    - Tsanfleuron.TZ99_Transpirateur.5.8
-    684:
-    - Tsanfleuron.TZ99_Transpirateur.5.9
-    469:
-    - Tsanfleuron.TZ99_Transpirateur.6.2
-    19:
-    - Tsanfleuron.TZ99_Transpirateur.6.3
-    89:
-    - Tsanfleuron.TZ99_Transpirateur.6.4
-    1427:
-    - Tsanfleuron.TZ99_Transpirateur.6.5
-    400:
-    - Tsanfleuron.TZ99_Transpirateur.6.6
-    1070:
-    - Tsanfleuron.TZ99_Transpirateur.6.7
-    467:
-    - Tsanfleuron.TZ99_Transpirateur.6.8
-    852:
-    - Tsanfleuron.TZ99_Transpirateur.6.9
-    962:
-    - Tsanfleuron.TZ99_Transpirateur.6.10
-    1006:
-    - Tsanfleuron.TZ99_Transpirateur.6.11
-    883:
-    - Tsanfleuron.TZ99_Transpirateur.6.12
-    1285:
-    - Tsanfleuron.TZ99_Transpirateur.6.13
-    72:
-    - Tsanfleuron.TZ99_Transpirateur.6.14
-    988:
-    - Tsanfleuron.TZ99_Transpirateur.6.15
-    418:
-    - Tsanfleuron.TZ99_Transpirateur.6.16
-    1216:
-    - Tsanfleuron.TZ99_Transpirateur.6.17
-    1116:
-    - Tsanfleuron.TZ99_Transpirateur.6.18
-    931:
-    - Tsanfleuron.TZ99_Transpirateur.6.19
-    406:
-    - Tsanfleuron.TZ99_Transpirateur.6.20
-    1401:
-    - Tsanfleuron.TZ99_Transpirateur.6.21
-    420:
-    - Tsanfleuron.TZ99_Transpirateur.6.22
-    967:
-    - Tsanfleuron.TZ99_Transpirateur.6.23
-    566:
-    - Tsanfleuron.TZ99_Transpirateur.6.24
-    1273:
-    - Tsanfleuron.TZ99_Transpirateur.6.25
-    412:
-    - Tsanfleuron.TZ99_Transpirateur.6.26
-    169:
-    - Tsanfleuron.TZ99_Transpirateur.6.27
-    693:
-    - Tsanfleuron.TZ99_Transpirateur.6.28
-    527:
-    - Tsanfleuron.TZ99_Transpirateur.6.29
-    721:
-    - Tsanfleuron.TZ99_Transpirateur.6.30
-    841:
-    - Tsanfleuron.TZ99_Transpirateur.6.31
-    928:
-    - Tsanfleuron.TZ99_Transpirateur.6.32
-    876:
-    - Tsanfleuron.TZ99_Transpirateur.6.33
-    1372:
-    - Tsanfleuron.TZ99_Transpirateur.6.34
-    753:
-    - Tsanfleuron.TZ99_Transpirateur.6.35
-    - Tsanfleuron.TZ99_Transpirateur.7.0
-    1128:
-    - Tsanfleuron.TZ99_Transpirateur.6.36
-    553:
-    - Tsanfleuron.TZ99_Transpirateur.7.1
-    368:
-    - Tsanfleuron.TZ99_Transpirateur.6.37
-    706:
-    - Tsanfleuron.TZ99_Transpirateur.6.38
-    1009:
-    - Tsanfleuron.TZ99_Transpirateur.6.39
-    478:
-    - Tsanfleuron.TZ99_Transpirateur.6.40
-    1337:
-    - Tsanfleuron.TZ99_Transpirateur.6.41
-    1220:
-    - Tsanfleuron.TZ99_Transpirateur.6.42
-    443:
-    - Tsanfleuron.TZ99_Transpirateur.6.43
-    371:
-    - Tsanfleuron.TZ99_Transpirateur.6.44
-    23:
-    - Tsanfleuron.TZ99_Transpirateur.6.45
-    873:
-    - Tsanfleuron.TZ99_Transpirateur.6.46
-    759:
-    - Tsanfleuron.TZ99_Transpirateur.6.47
-    1415:
-    - Tsanfleuron.TZ99_Transpirateur.6.48
-    950:
-    - Tsanfleuron.TZ99_Transpirateur.6.49
-    267:
-    - Tsanfleuron.TZ99_Transpirateur.6.50
-    25:
-    - Tsanfleuron.TZ99_Transpirateur.6.51
-    703:
-    - Tsanfleuron.TZ99_Transpirateur.6.52
-    1182:
-    - Tsanfleuron.TZ99_Transpirateur.9.13
-    775:
-    - Tsanfleuron.TZ99_Transpirateur.7.2
-    283:
-    - Tsanfleuron.TZ99_Transpirateur.7.3
-    528:
-    - Tsanfleuron.TZ99_Transpirateur.7.4
-    141:
-    - Tsanfleuron.TZ99_Transpirateur.7.5
-    1330:
-    - Tsanfleuron.TZ99_Transpirateur.7.6
-    1121:
-    - Tsanfleuron.TZ99_Transpirateur.10.12
-    1455:
-    - Tsanfleuron.TZ99_Transpirateur.8.0
-    - Tsanfleuron.TZ99_Transpirateur.9.0
-    1277:
-    - Tsanfleuron.TZ99_Transpirateur.8.1
-    953:
-    - Tsanfleuron.TZ99_Transpirateur.9.1
-    396:
-    - Tsanfleuron.TZ99_Transpirateur.8.2
-    1272:
-    - Tsanfleuron.TZ99_Transpirateur.8.3
-    705:
-    - Tsanfleuron.TZ99_Transpirateur.8.4
-    482:
-    - Tsanfleuron.TZ99_Transpirateur.8.5
-    895:
-    - Tsanfleuron.TZ99_Transpirateur.8.6
-    888:
-    - Tsanfleuron.TZ99_Transpirateur.8.7
-    761:
-    - Tsanfleuron.TZ99_Transpirateur.8.8
-    1125:
-    - Tsanfleuron.TZ99_Transpirateur.8.9
-    117:
-    - Tsanfleuron.TZ99_Transpirateur.8.10
-    1054:
-    - Tsanfleuron.TZ99_Transpirateur.8.11
-    1365:
-    - Tsanfleuron.TZ99_Transpirateur.8.12
-    793:
-    - Tsanfleuron.TZ99_Transpirateur.9.2
-    18:
-    - Tsanfleuron.TZ99_Transpirateur.9.3
-    1402:
-    - Tsanfleuron.TZ99_Transpirateur.9.4
-    1278:
-    - Tsanfleuron.TZ99_Transpirateur.9.5
-    428:
-    - Tsanfleuron.TZ99_Transpirateur.9.6
-    646:
-    - Tsanfleuron.TZ99_Transpirateur.9.7
-    845:
-    - Tsanfleuron.TZ99_Transpirateur.9.8
-    743:
-    - Tsanfleuron.TZ99_Transpirateur.9.9
-    820:
-    - Tsanfleuron.TZ99_Transpirateur.9.10
-    850:
-    - Tsanfleuron.TZ99_Transpirateur.9.11
-    614:
-    - Tsanfleuron.TZ99_Transpirateur.9.12
-    447:
-    - Tsanfleuron.TZ99_Transpirateur.10.0
-    - Tsanfleuron.TZ99_Transpirateur.11.0
-    510:
-    - Tsanfleuron.TZ99_Transpirateur.10.1
-    611:
-    - Tsanfleuron.TZ99_Transpirateur.11.1
-    912:
-    - Tsanfleuron.TZ99_Transpirateur.10.2
-    1294:
-    - Tsanfleuron.TZ99_Transpirateur.10.3
-    674:
-    - Tsanfleuron.TZ99_Transpirateur.10.4
-    385:
-    - Tsanfleuron.TZ99_Transpirateur.10.5
-    1328:
-    - Tsanfleuron.TZ99_Transpirateur.10.6
-    1097:
-    - Tsanfleuron.TZ99_Transpirateur.10.7
-    1246:
-    - Tsanfleuron.TZ99_Transpirateur.10.8
-    200:
-    - Tsanfleuron.TZ99_Transpirateur.10.9
-    198:
-    - Tsanfleuron.TZ99_Transpirateur.10.10
-    300:
-    - Tsanfleuron.TZ99_Transpirateur.10.11
+    - Entree TZ99 Transpirateur
   flags:
     653:
     - ent
@@ -9002,65 +6075,6 @@ node_attributes:
     862:
     - ent
     - fix
-  comments:
-    653:
-    - Entree D37 Gouffre du Beutche
-    367:
-    - Entree D18 Gouffre au Filet
-    1123:
-    - Entree D19 Glacier
-    1449:
-    - Entree Edelweiss Provisoire
-    112:
-    - Entree G10
-    1151:
-    - Entree G16 Gouffre du Cirque Enrage
-    531:
-    - Entree G1 Marmites
-    99:
-    - Entree G2 Sapin
-    838:
-    - Entree G3 Grotte du Porche
-    1335:
-    - Entree G3/G13 Topomasos
-    1240:
-    - Entree G59 Tord Boyau
-    994:
-    - Entree G8
-    926:
-    - Entree G90 Tsanfleuron
-    426:
-    - Entree G9 Scex Rouge
-    911:
-    - Entree P30b Crapaud
-    217:
-    - Entree P5 Glacier
-    284:
-    - Entree P96 Kefir
-    983:
-    - Entree TSX1 Puits Jonction
-    1416:
-    - Entree TSX10 Trou Stan
-    1349:
-    - Entree TSX12 Queute Tard
-    764:
-    - Entree TSX13 Devertebres
-    189:
-    - Entree TSX14
-    1420:
-    - Entree TSX15
-    76:
-    - Entree TSX17
-    1283:
-    - Entree TSX1 Precoces
-    535:
-    - Entree TSX2
-    282:
-    - Entree TSX4 Trou Coupe Fresard
-    1005:
-    - Entree TSX9 Acouphene
-    862:
-    - Entree TZ99 Transpirateur
   pos:
     949:
     - 585014.83
@@ -14890,3 +11904,2989 @@ node_attributes:
     - 585749.86
     - 128659.84
     - 2391.55
+  fulladdress:
+    949:
+    - Tsanfleuron.D37_GouffreDuBeutche.a0
+    - Tsanfleuron.D37_GouffreDuBeutche.e0
+    104:
+    - Tsanfleuron.D37_GouffreDuBeutche.a1
+    1439:
+    - Tsanfleuron.D37_GouffreDuBeutche.e1
+    387:
+    - Tsanfleuron.D37_GouffreDuBeutche.a2
+    - Tsanfleuron.D37_GouffreDuBeutche.b0
+    1460:
+    - Tsanfleuron.D37_GouffreDuBeutche.a3
+    1421:
+    - Tsanfleuron.D37_GouffreDuBeutche.b1
+    735:
+    - Tsanfleuron.D37_GouffreDuBeutche.a4
+    7:
+    - Tsanfleuron.D37_GouffreDuBeutche.a5
+    906:
+    - Tsanfleuron.D37_GouffreDuBeutche.a6
+    1366:
+    - Tsanfleuron.D37_GouffreDuBeutche.a7
+    134:
+    - Tsanfleuron.D37_GouffreDuBeutche.a8
+    1434:
+    - Tsanfleuron.D37_GouffreDuBeutche.a9
+    505:
+    - Tsanfleuron.D37_GouffreDuBeutche.a10
+    523:
+    - Tsanfleuron.D37_GouffreDuBeutche.a11
+    1159:
+    - Tsanfleuron.D37_GouffreDuBeutche.a12
+    1302:
+    - Tsanfleuron.D37_GouffreDuBeutche.a13
+    579:
+    - Tsanfleuron.D37_GouffreDuBeutche.a14
+    1069:
+    - Tsanfleuron.D37_GouffreDuBeutche.a15
+    - Tsanfleuron.D37_GouffreDuBeutche.c0
+    220:
+    - Tsanfleuron.D37_GouffreDuBeutche.a16
+    - Tsanfleuron.D37_GouffreDuBeutche.d0
+    181:
+    - Tsanfleuron.D37_GouffreDuBeutche.c1
+    1046:
+    - Tsanfleuron.D37_GouffreDuBeutche.a17
+    733:
+    - Tsanfleuron.D37_GouffreDuBeutche.d1
+    1109:
+    - Tsanfleuron.D37_GouffreDuBeutche.a18
+    722:
+    - Tsanfleuron.D37_GouffreDuBeutche.a19
+    454:
+    - Tsanfleuron.D37_GouffreDuBeutche.a20
+    653:
+    - Tsanfleuron.D37_GouffreDuBeutche.a21
+    292:
+    - Tsanfleuron.D37_GouffreDuBeutche.e2
+    1148:
+    - Tsanfleuron.D37_GouffreDuBeutche.e3
+    1326:
+    - Tsanfleuron.D37_GouffreDuBeutche.e4
+    388:
+    - Tsanfleuron.D37_GouffreDuBeutche.e5
+    - Tsanfleuron.D37_GouffreDuBeutche.f0
+    602:
+    - Tsanfleuron.D37_GouffreDuBeutche.e6
+    798:
+    - Tsanfleuron.D37_GouffreDuBeutche.f1
+    - Tsanfleuron.D37_GouffreDuBeutche.g0
+    1270:
+    - Tsanfleuron.D37_GouffreDuBeutche.e7
+    250:
+    - Tsanfleuron.D37_GouffreDuBeutche.e8
+    1102:
+    - Tsanfleuron.D37_GouffreDuBeutche.f2
+    1166:
+    - Tsanfleuron.D37_GouffreDuBeutche.g1
+    1060:
+    - Tsanfleuron.D37_GouffreDuBeutche.f3
+    1303:
+    - Tsanfleuron.D37_GouffreDuBeutche.f4
+    984:
+    - Tsanfleuron.D37_GouffreDuBeutche.f5
+    1179:
+    - Tsanfleuron.D37_GouffreDuBeutche.f6
+    410:
+    - Tsanfleuron.D37_GouffreDuBeutche.f7
+    - Tsanfleuron.D37_GouffreDuBeutche.h0
+    - Tsanfleuron.D37_GouffreDuBeutche.i0
+    4:
+    - Tsanfleuron.D37_GouffreDuBeutche.h1
+    642:
+    - Tsanfleuron.D37_GouffreDuBeutche.i1
+    667:
+    - Tsanfleuron.D37_GouffreDuBeutche.i2
+    971:
+    - Tsanfleuron.D37_GouffreDuBeutche.i3
+    183:
+    - Tsanfleuron.D37_GouffreDuBeutche.i4
+    1351:
+    - Tsanfleuron.D37_GouffreDuBeutche.i5
+    276:
+    - Tsanfleuron.D37_GouffreDuBeutche.i6
+    828:
+    - Tsanfleuron.D37_GouffreDuBeutche.i7
+    627:
+    - Tsanfleuron.D37_GouffreDuBeutche.i8
+    93:
+    - Tsanfleuron.D37_GouffreDuBeutche.i9
+    781:
+    - Tsanfleuron.D37_GouffreDuBeutche.i10
+    1298:
+    - Tsanfleuron.D37_GouffreDuBeutche.i11
+    1448:
+    - Tsanfleuron.D37_GouffreDuBeutche.i12
+    174:
+    - Tsanfleuron.D37_GouffreDuBeutche.i13
+    1323:
+    - Tsanfleuron.D37_GouffreDuBeutche.i14
+    830:
+    - Tsanfleuron.D37_GouffreDuBeutche.i15
+    1007:
+    - Tsanfleuron.D37_GouffreDuBeutche.i16
+    826:
+    - Tsanfleuron.D37_GouffreDuBeutche.i17
+    113:
+    - Tsanfleuron.D37_GouffreDuBeutche.i18
+    348:
+    - Tsanfleuron.D37_GouffreDuBeutche.i19
+    228:
+    - Tsanfleuron.D37_GouffreDuBeutche.i20
+    281:
+    - Tsanfleuron.D37_GouffreDuBeutche.i21
+    128:
+    - Tsanfleuron.D37_GouffreDuBeutche.i22
+    848:
+    - Tsanfleuron.D37_GouffreDuBeutche.i23
+    1309:
+    - Tsanfleuron.D37_GouffreDuBeutche.i24
+    30:
+    - Tsanfleuron.D37_GouffreDuBeutche.i25
+    1264:
+    - Tsanfleuron.D37_GouffreDuBeutche.i26
+    225:
+    - Tsanfleuron.D37_GouffreDuBeutche.i27
+    908:
+    - Tsanfleuron.D37_GouffreDuBeutche.i28
+    507:
+    - Tsanfleuron.D37_GouffreDuBeutche.i29
+    784:
+    - Tsanfleuron.D37_GouffreDuBeutche.i30
+    247:
+    - Tsanfleuron.D37_GouffreDuBeutche.i31
+    1008:
+    - Tsanfleuron.D37_GouffreDuBeutche.i32
+    698:
+    - Tsanfleuron.D37_GouffreDuBeutche.i33
+    1080:
+    - Tsanfleuron.D37_GouffreDuBeutche.i34
+    758:
+    - Tsanfleuron.D37_GouffreDuBeutche.i35
+    1098:
+    - Tsanfleuron.D37_GouffreDuBeutche.i36
+    1254:
+    - Tsanfleuron.D18_GouffreAuFilet.1.0
+    1091:
+    - Tsanfleuron.D18_GouffreAuFilet.1.1
+    39:
+    - Tsanfleuron.D18_GouffreAuFilet.1.2
+    923:
+    - Tsanfleuron.D18_GouffreAuFilet.1.3
+    1394:
+    - Tsanfleuron.D18_GouffreAuFilet.1.4
+    578:
+    - Tsanfleuron.D18_GouffreAuFilet.1.5
+    1400:
+    - Tsanfleuron.D18_GouffreAuFilet.1.6
+    367:
+    - Tsanfleuron.D18_GouffreAuFilet.1.7
+    1123:
+    - Tsanfleuron.GouffreDuGlacier.top
+    964:
+    - Tsanfleuron.GouffreDuGlacier.bottom
+    1449:
+    - Tsanfleuron.Edelweiss_Provisoire.1.0
+    669:
+    - Tsanfleuron.Edelweiss_Provisoire.1.1
+    112:
+    - Tsanfleuron.G10.0
+    806:
+    - Tsanfleuron.G10.1
+    766:
+    - Tsanfleuron.G10.2
+    384:
+    - Tsanfleuron.G10.3
+    920:
+    - Tsanfleuron.G10.4
+    1461:
+    - Tsanfleuron.G10.10
+    1163:
+    - Tsanfleuron.G10.5
+    361:
+    - Tsanfleuron.G10.6
+    525:
+    - Tsanfleuron.G10.7
+    801:
+    - Tsanfleuron.G10.8
+    868:
+    - Tsanfleuron.G10.9
+    1173:
+    - Tsanfleuron.G10.11
+    1017:
+    - Tsanfleuron.G10.12
+    1151:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.0
+    77:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.1
+    656:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.2
+    304:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.3
+    1295:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.4
+    1025:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.5
+    355:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.6
+    205:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.7
+    810:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.8
+    1160:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.9
+    301:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.10
+    479:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.11
+    1076:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.12
+    580:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.13
+    398:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.14
+    692:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.15
+    138:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.16
+    1225:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.17
+    821:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.18
+    555:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.19
+    846:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.20
+    648:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.21
+    1411:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.22
+    526:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.23
+    973:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.24
+    294:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.25
+    202:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.26
+    1174:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.27
+    1117:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.28
+    702:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.29
+    1045:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.30
+    1288:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.31
+    37:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.32
+    834:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.33
+    572:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.34
+    541:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.35
+    909:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.36
+    1042:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.37
+    691:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.38
+    299:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.39
+    320:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.40
+    1199:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.41
+    1454:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.42
+    270:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.43
+    118:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.44
+    272:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.45
+    1211:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.46
+    365:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.47
+    345:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.48
+    422:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.49
+    1108:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.50
+    70:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.51
+    1362:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.52
+    1361:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.53
+    116:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.54
+    655:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.55
+    869:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.56
+    413:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.57
+    1215:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.58
+    444:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.59
+    1258:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.60
+    1037:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.61
+    632:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.62
+    718:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.63
+    746:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.64
+    581:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.65
+    952:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.66
+    650:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.67
+    960:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.68
+    136:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.69
+    595:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.70
+    22:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.71
+    354:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.72
+    771:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.73
+    470:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.74
+    32:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.75
+    208:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.76
+    337:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.77
+    1282:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.78
+    1219:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.79
+    932:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.80
+    264:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.81
+    995:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.82
+    767:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.83
+    1342:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.84
+    1201:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.85
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.86
+    853:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.87
+    278:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.88
+    1106:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.89
+    1063:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.90
+    513:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.91
+    305:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.501
+    379:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.92
+    676:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.93
+    1154:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.94
+    404:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.95
+    1433:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.96
+    164:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.97
+    42:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.98
+    1396:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.99
+    610:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.100
+    817:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.101
+    736:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.102
+    1086:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.103
+    268:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.104
+    59:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.105
+    723:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.106
+    1223:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.107
+    1188:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.108
+    203:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.109
+    750:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.502
+    1369:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.503
+    531:
+    - Tsanfleuron.G1_Marmites.1
+    377:
+    - Tsanfleuron.G1_Marmites.2
+    823:
+    - Tsanfleuron.G1_Marmites.3
+    1061:
+    - Tsanfleuron.G1_Marmites.tt
+    33:
+    - Tsanfleuron.G1_Marmites.4
+    85:
+    - Tsanfleuron.G1_Marmites.5
+    1234:
+    - Tsanfleuron.G1_Marmites.6
+    3:
+    - Tsanfleuron.G1_Marmites.7
+    558:
+    - Tsanfleuron.G1_Marmites.8
+    675:
+    - Tsanfleuron.G1_Marmites.9
+    710:
+    - Tsanfleuron.G1_Marmites.22
+    1084:
+    - Tsanfleuron.G1_Marmites.9a
+    774:
+    - Tsanfleuron.G1_Marmites.10
+    712:
+    - Tsanfleuron.G1_Marmites.11
+    596:
+    - Tsanfleuron.G1_Marmites.12
+    1430:
+    - Tsanfleuron.G1_Marmites.13
+    229:
+    - Tsanfleuron.G1_Marmites.14
+    1450:
+    - Tsanfleuron.G1_Marmites.14a
+    638:
+    - Tsanfleuron.G1_Marmites.15
+    197:
+    - Tsanfleuron.G1_Marmites.16
+    497:
+    - Tsanfleuron.G1_Marmites.17
+    87:
+    - Tsanfleuron.G1_Marmites.18
+    872:
+    - Tsanfleuron.G1_Marmites.19
+    1067:
+    - Tsanfleuron.G1_Marmites.20
+    34:
+    - Tsanfleuron.G1_Marmites.21
+    1375:
+    - Tsanfleuron.G1_Marmites.23
+    1310:
+    - Tsanfleuron.G1_Marmites.24
+    590:
+    - Tsanfleuron.G1_Marmites.25
+    747:
+    - Tsanfleuron.G1_Marmites.26
+    788:
+    - Tsanfleuron.G1_Marmites.27
+    529:
+    - Tsanfleuron.G1_Marmites.28
+    222:
+    - Tsanfleuron.G1_Marmites.29
+    1249:
+    - Tsanfleuron.G1_Marmites.S2
+    99:
+    - Tsanfleuron.G2_Sapin.1
+    1406:
+    - Tsanfleuron.G2_Sapin.2
+    239:
+    - Tsanfleuron.G2_Sapin.3
+    1044:
+    - Tsanfleuron.G2_Sapin.4
+    455:
+    - Tsanfleuron.G2_Sapin.5
+    805:
+    - Tsanfleuron.G2_Sapin.6
+    1138:
+    - Tsanfleuron.G2_Sapin.7
+    951:
+    - Tsanfleuron.G2_Sapin.8
+    789:
+    - Tsanfleuron.G2_Sapin.9
+    383:
+    - Tsanfleuron.G2_Sapin.10
+    139:
+    - Tsanfleuron.G2_Sapin.11
+    1019:
+    - Tsanfleuron.G2_Sapin.12
+    1441:
+    - Tsanfleuron.G2_Sapin.13
+    633:
+    - Tsanfleuron.G2_Sapin.14
+    1118:
+    - Tsanfleuron.G2_Sapin.15
+    687:
+    - Tsanfleuron.G2_Sapin.16
+    397:
+    - Tsanfleuron.G2_Sapin.17
+    679:
+    - Tsanfleuron.G2_Sapin.18
+    1090:
+    - Tsanfleuron.G2_Sapin.19
+    1418:
+    - Tsanfleuron.G2_Sapin.20
+    1255:
+    - Tsanfleuron.G2_Sapin.21
+    549:
+    - Tsanfleuron.G2_Sapin.22
+    1292:
+    - Tsanfleuron.G2_Sapin.23
+    252:
+    - Tsanfleuron.G2_Sapin.24
+    626:
+    - Tsanfleuron.G2_Sapin.25
+    860:
+    - Tsanfleuron.G2_Sapin.26
+    825:
+    - Tsanfleuron.G2_Sapin.27
+    910:
+    - Tsanfleuron.G2_Sapin.27a
+    919:
+    - Tsanfleuron.G2_Sapin.28
+    1217:
+    - Tsanfleuron.G2_Sapin.29
+    536:
+    - Tsanfleuron.G2_Sapin.30
+    1358:
+    - Tsanfleuron.G2_Sapin.31
+    1150:
+    - Tsanfleuron.G2_Sapin.32
+    1010:
+    - Tsanfleuron.G2_Sapin.33
+    838:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.1
+    1027:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.2
+    1107:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.3
+    631:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.4
+    193:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.5
+    360:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.6
+    64:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.7
+    890:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.8
+    731:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.9
+    1363:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.10
+    - Tsanfleuron.G3_GrotteDuPorche_2007.c1
+    1301:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.11
+    1426:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.c2
+    100:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.12
+    818:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.13
+    584:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.14
+    532:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.15
+    254:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.16
+    492:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.17
+    - Tsanfleuron.G3_GrotteDuPorche_2007.a1
+    958:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.18
+    946:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.a2
+    160:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.19
+    1176:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.20
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d1
+    1124:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d2
+    290:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.a3
+    - Tsanfleuron.G3_GrotteDuPorche_2007.b1
+    970:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.a4
+    1024:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.b2
+    495:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.a5
+    310:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.a6
+    1155:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.b3
+    961:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.c3
+    162:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.c4
+    101:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d3
+    979:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d4
+    939:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d5
+    1352:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d6
+    1440:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d7
+    52:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d8
+    464:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d9
+    678:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d10
+    769:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d11
+    28:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d12
+    1081:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d13
+    190:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d14
+    212:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d15
+    167:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d16
+    813:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d17
+    114:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d18
+    1376:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d19
+    1133:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d20
+    520:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d21
+    152:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d22
+    438:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d23
+    15:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d24
+    1033:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d25
+    335:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d26
+    509:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d27
+    671:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d28
+    - Tsanfleuron.G3_GrotteDuPorche_2007.e1
+    603:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d29
+    1374:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.e2
+    210:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d30
+    577:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d31
+    726:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d32
+    658:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d33
+    - Tsanfleuron.G3_GrotteDuPorche_2007.f1
+    344:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d34
+    1315:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.f2
+    287:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d35
+    1446:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d36
+    742:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d37
+    - Tsanfleuron.G3_GrotteDuPorche_2007.g1
+    790:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d38
+    598:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.g2
+    196:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d39
+    778:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.d40
+    199:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.f3
+    137:
+    - Tsanfleuron.G3_GrotteDuPorche_2007.g3
+    380:
+    - Tsanfleuron.G4_G13_Topomasos.1
+    521:
+    - Tsanfleuron.G4_G13_Topomasos.2
+    1131:
+    - Tsanfleuron.G4_G13_Topomasos.3
+    313:
+    - Tsanfleuron.G4_G13_Topomasos.4
+    765:
+    - Tsanfleuron.G4_G13_Topomasos.5
+    246:
+    - Tsanfleuron.G4_G13_Topomasos.6
+    643:
+    - Tsanfleuron.G4_G13_Topomasos.7
+    130:
+    - Tsanfleuron.G4_G13_Topomasos.A1
+    97:
+    - Tsanfleuron.G4_G13_Topomasos.8
+    1135:
+    - Tsanfleuron.G4_G13_Topomasos.9
+    867:
+    - Tsanfleuron.G4_G13_Topomasos.b1
+    1167:
+    - Tsanfleuron.G4_G13_Topomasos.10
+    487:
+    - Tsanfleuron.G4_G13_Topomasos.c1
+    80:
+    - Tsanfleuron.G4_G13_Topomasos.11
+    1312:
+    - Tsanfleuron.G4_G13_Topomasos.d1
+    63:
+    - Tsanfleuron.G4_G13_Topomasos.e1
+    347:
+    - Tsanfleuron.G4_G13_Topomasos.12
+    837:
+    - Tsanfleuron.G4_G13_Topomasos.cc1
+    1233:
+    - Tsanfleuron.G4_G13_Topomasos.13
+    342:
+    - Tsanfleuron.G4_G13_Topomasos.14
+    280:
+    - Tsanfleuron.G4_G13_Topomasos.15
+    315:
+    - Tsanfleuron.G4_G13_Topomasos.16
+    31:
+    - Tsanfleuron.G4_G13_Topomasos.17
+    1165:
+    - Tsanfleuron.G4_G13_Topomasos.f1
+    1359:
+    - Tsanfleuron.G4_G13_Topomasos.18
+    686:
+    - Tsanfleuron.G4_G13_Topomasos.19
+    537:
+    - Tsanfleuron.G4_G13_Topomasos.ff1
+    620:
+    - Tsanfleuron.G4_G13_Topomasos.20
+    770:
+    - Tsanfleuron.G4_G13_Topomasos.21
+    724:
+    - Tsanfleuron.G4_G13_Topomasos.f2
+    327:
+    - Tsanfleuron.G4_G13_Topomasos.22
+    709:
+    - Tsanfleuron.G4_G13_Topomasos.23
+    457:
+    - Tsanfleuron.G4_G13_Topomasos.24
+    560:
+    - Tsanfleuron.G4_G13_Topomasos.25
+    617:
+    - Tsanfleuron.G4_G13_Topomasos.26
+    378:
+    - Tsanfleuron.G4_G13_Topomasos.g1
+    803:
+    - Tsanfleuron.G4_G13_Topomasos.27
+    237:
+    - Tsanfleuron.G4_G13_Topomasos.h1
+    744:
+    - Tsanfleuron.G4_G13_Topomasos.28
+    1261:
+    - Tsanfleuron.G4_G13_Topomasos.29
+    889:
+    - Tsanfleuron.G4_G13_Topomasos.30
+    1228:
+    - Tsanfleuron.G4_G13_Topomasos.31
+    634:
+    - Tsanfleuron.G4_G13_Topomasos.l1
+    1129:
+    - Tsanfleuron.G4_G13_Topomasos.32
+    1052:
+    - Tsanfleuron.G4_G13_Topomasos.33
+    704:
+    - Tsanfleuron.G4_G13_Topomasos.34
+    251:
+    - Tsanfleuron.G4_G13_Topomasos.35
+    261:
+    - Tsanfleuron.G4_G13_Topomasos.i1
+    1242:
+    - Tsanfleuron.G4_G13_Topomasos.36
+    258:
+    - Tsanfleuron.G4_G13_Topomasos.j1
+    855:
+    - Tsanfleuron.G4_G13_Topomasos.37
+    839:
+    - Tsanfleuron.G4_G13_Topomasos.38
+    930:
+    - Tsanfleuron.G4_G13_Topomasos.39
+    234:
+    - Tsanfleuron.G4_G13_Topomasos.o1
+    588:
+    - Tsanfleuron.G4_G13_Topomasos.40
+    534:
+    - Tsanfleuron.G4_G13_Topomasos.41
+    696:
+    - Tsanfleuron.G4_G13_Topomasos.k1
+    286:
+    - Tsanfleuron.G4_G13_Topomasos.42
+    451:
+    - Tsanfleuron.G4_G13_Topomasos.43
+    991:
+    - Tsanfleuron.G4_G13_Topomasos.44
+    783:
+    - Tsanfleuron.G4_G13_Topomasos.45
+    1243:
+    - Tsanfleuron.G4_G13_Topomasos.b2
+    673:
+    - Tsanfleuron.G4_G13_Topomasos.bb1
+    1153:
+    - Tsanfleuron.G4_G13_Topomasos.b3
+    57:
+    - Tsanfleuron.G4_G13_Topomasos.b4
+    1331:
+    - Tsanfleuron.G4_G13_Topomasos.b5
+    1089:
+    - Tsanfleuron.G4_G13_Topomasos.b6
+    5:
+    - Tsanfleuron.G4_G13_Topomasos.bb2
+    870:
+    - Tsanfleuron.G4_G13_Topomasos.bb3
+    1335:
+    - Tsanfleuron.G4_G13_Topomasos.bb4
+    999:
+    - Tsanfleuron.G4_G13_Topomasos.c2
+    756:
+    - Tsanfleuron.G4_G13_Topomasos.c3
+    55:
+    - Tsanfleuron.G4_G13_Topomasos.d2
+    569:
+    - Tsanfleuron.G4_G13_Topomasos.d4
+    236:
+    - Tsanfleuron.G4_G13_Topomasos.d3
+    307:
+    - Tsanfleuron.G4_G13_Topomasos.e2
+    437:
+    - Tsanfleuron.G4_G13_Topomasos.g2
+    786:
+    - Tsanfleuron.G4_G13_Topomasos.g3
+    195:
+    - Tsanfleuron.G4_G13_Topomasos.g4
+    639:
+    - Tsanfleuron.G4_G13_Topomasos.g5
+    1200:
+    - Tsanfleuron.G4_G13_Topomasos.h2
+    968:
+    - Tsanfleuron.G4_G13_Topomasos.i2
+    866:
+    - Tsanfleuron.G4_G13_Topomasos.j2
+    1245:
+    - Tsanfleuron.G4_G13_Topomasos.k2
+    48:
+    - Tsanfleuron.G4_G13_Topomasos.k3
+    1240:
+    - Tsanfleuron.G59_TordBoyau.1
+    1164:
+    - Tsanfleuron.G59_TordBoyau.2
+    514:
+    - Tsanfleuron.G59_TordBoyau.3
+    243:
+    - Tsanfleuron.G59_TordBoyau.4
+    561:
+    - Tsanfleuron.G59_TordBoyau.5
+    1318:
+    - Tsanfleuron.G59_TordBoyau.6
+    641:
+    - Tsanfleuron.G59_TordBoyau.7
+    358:
+    - Tsanfleuron.G59_TordBoyau.8
+    175:
+    - Tsanfleuron.G59_TordBoyau.9
+    1161:
+    - Tsanfleuron.G59_TordBoyau.10
+    1114:
+    - Tsanfleuron.G59_TordBoyau.11
+    1235:
+    - Tsanfleuron.G59_TordBoyau.12
+    399:
+    - Tsanfleuron.G59_TordBoyau.13
+    35:
+    - Tsanfleuron.G59_TordBoyau.14
+    1324:
+    - Tsanfleuron.G59_TordBoyau.15
+    127:
+    - Tsanfleuron.G59_TordBoyau.16
+    499:
+    - Tsanfleuron.G59_TordBoyau.17
+    1168:
+    - Tsanfleuron.G59_TordBoyau.18
+    993:
+    - Tsanfleuron.G59_TordBoyau.19
+    448:
+    - Tsanfleuron.G59_TordBoyau.20
+    708:
+    - Tsanfleuron.G59_TordBoyau.19a
+    891:
+    - Tsanfleuron.G59_TordBoyau.21
+    1034:
+    - Tsanfleuron.G59_TordBoyau.22
+    326:
+    - Tsanfleuron.G59_TordBoyau.23
+    1419:
+    - Tsanfleuron.G59_TordBoyau.24
+    1126:
+    - Tsanfleuron.G59_TordBoyau.24.1
+    660:
+    - Tsanfleuron.G59_TordBoyau.24.9
+    1382:
+    - Tsanfleuron.G59_TordBoyau.25
+    14:
+    - Tsanfleuron.G59_TordBoyau.26
+    20:
+    - Tsanfleuron.G59_TordBoyau.27
+    1050:
+    - Tsanfleuron.G59_TordBoyau.28
+    1423:
+    - Tsanfleuron.G59_TordBoyau.29
+    997:
+    - Tsanfleuron.G59_TordBoyau.30
+    1230:
+    - Tsanfleuron.G59_TordBoyau.31
+    219:
+    - Tsanfleuron.G59_TordBoyau.32
+    1149:
+    - Tsanfleuron.G59_TordBoyau.33
+    935:
+    - Tsanfleuron.G59_TordBoyau.34
+    1429:
+    - Tsanfleuron.G59_TordBoyau.35
+    1196:
+    - Tsanfleuron.G59_TordBoyau.36
+    1357:
+    - Tsanfleuron.G59_TordBoyau.37
+    402:
+    - Tsanfleuron.G59_TordBoyau.38
+    1347:
+    - Tsanfleuron.G59_TordBoyau.39
+    211:
+    - Tsanfleuron.G59_TordBoyau.40
+    485:
+    - Tsanfleuron.G59_TordBoyau.41
+    568:
+    - Tsanfleuron.G59_TordBoyau.42
+    994:
+    - Tsanfleuron.G8.0
+    592:
+    - Tsanfleuron.G8.1
+    511:
+    - Tsanfleuron.G8.2
+    874:
+    - Tsanfleuron.G8.3
+    787:
+    - Tsanfleuron.G8.4
+    978:
+    - Tsanfleuron.G8.5
+    123:
+    - Tsanfleuron.G8.6
+    877:
+    - Tsanfleuron.G8.7
+    963:
+    - Tsanfleuron.G8.8
+    496:
+    - Tsanfleuron.G8.10
+    1266:
+    - Tsanfleuron.G8.9
+    926:
+    - Tsanfleuron.G90_Tsanfleuron.1
+    38:
+    - Tsanfleuron.G90_Tsanfleuron.2
+    1184:
+    - Tsanfleuron.G90_Tsanfleuron.3
+    289:
+    - Tsanfleuron.G90_Tsanfleuron.4
+    645:
+    - Tsanfleuron.G90_Tsanfleuron.3'
+    232:
+    - Tsanfleuron.G90_Tsanfleuron.5
+    508:
+    - Tsanfleuron.G90_Tsanfleuron.6
+    1018:
+    - Tsanfleuron.G90_Tsanfleuron.7
+    629:
+    - Tsanfleuron.G90_Tsanfleuron.8
+    1412:
+    - Tsanfleuron.G90_Tsanfleuron.15
+    147:
+    - Tsanfleuron.G90_Tsanfleuron.9
+    489:
+    - Tsanfleuron.G90_Tsanfleuron.10
+    934:
+    - Tsanfleuron.G90_Tsanfleuron.11
+    1112:
+    - Tsanfleuron.G90_Tsanfleuron.12
+    9:
+    - Tsanfleuron.G90_Tsanfleuron.13
+    1379:
+    - Tsanfleuron.G90_Tsanfleuron.14
+    319:
+    - Tsanfleuron.G90_Tsanfleuron.16
+    896:
+    - Tsanfleuron.G90_Tsanfleuron.17
+    182:
+    - Tsanfleuron.G90_Tsanfleuron.18
+    1392:
+    - Tsanfleuron.G90_Tsanfleuron.19
+    405:
+    - Tsanfleuron.G90_Tsanfleuron.20
+    426:
+    - Tsanfleuron.G9_ScexRouge.1
+    17:
+    - Tsanfleuron.G9_ScexRouge.2
+    1049:
+    - Tsanfleuron.G9_ScexRouge.3
+    1156:
+    - Tsanfleuron.G9_ScexRouge.4
+    1424:
+    - Tsanfleuron.G9_ScexRouge.5
+    171:
+    - Tsanfleuron.G9_ScexRouge.6
+    543:
+    - Tsanfleuron.G9_ScexRouge.7
+    148:
+    - Tsanfleuron.G9_ScexRouge.7'
+    1256:
+    - Tsanfleuron.G9_ScexRouge.a1
+    941:
+    - Tsanfleuron.G9_ScexRouge.8
+    562:
+    - Tsanfleuron.G9_ScexRouge.9
+    414:
+    - Tsanfleuron.G9_ScexRouge.13
+    799:
+    - Tsanfleuron.G9_ScexRouge.10
+    84:
+    - Tsanfleuron.G9_ScexRouge.11
+    318:
+    - Tsanfleuron.G9_ScexRouge.12
+    459:
+    - Tsanfleuron.G9_ScexRouge.14
+    694:
+    - Tsanfleuron.G9_ScexRouge.15
+    179:
+    - Tsanfleuron.G9_ScexRouge.w
+    1068:
+    - Tsanfleuron.G9_ScexRouge.a2
+    900:
+    - Tsanfleuron.G9_ScexRouge.a3
+    1384:
+    - Tsanfleuron.G9_ScexRouge.a4
+    339:
+    - Tsanfleuron.G9_ScexRouge.a5
+    911:
+    - Tsanfleuron.P30b_Crapaud.1.0
+    500:
+    - Tsanfleuron.P30b_Crapaud.1.1
+    331:
+    - Tsanfleuron.P30b_Crapaud.1.2
+    259:
+    - Tsanfleuron.P30b_Crapaud.1.3
+    96:
+    - Tsanfleuron.P30b_Crapaud.1.4
+    458:
+    - Tsanfleuron.P30b_Crapaud.1.5
+    332:
+    - Tsanfleuron.P30b_Crapaud.1.6
+    1134:
+    - Tsanfleuron.P30b_Crapaud.1.7
+    1175:
+    - Tsanfleuron.P30b_Crapaud.1.8
+    415:
+    - Tsanfleuron.P30b_Crapaud.1.9
+    1012:
+    - Tsanfleuron.P30b_Crapaud.1.10
+    260:
+    - Tsanfleuron.P30b_Crapaud.1.11
+    729:
+    - Tsanfleuron.P30b_Crapaud.1.12
+    122:
+    - Tsanfleuron.P30b_Crapaud.1.13
+    131:
+    - Tsanfleuron.P30b_Crapaud.1.14
+    1380:
+    - Tsanfleuron.P30b_Crapaud.1.15
+    477:
+    - Tsanfleuron.P30b_Crapaud.1.16
+    74:
+    - Tsanfleuron.P30b_Crapaud.1.17
+    - Tsanfleuron.P30b_Crapaud.1.18
+    430:
+    - Tsanfleuron.P30b_Crapaud.1.19
+    306:
+    - Tsanfleuron.P30b_Crapaud.1.20
+    1119:
+    - Tsanfleuron.P30b_Crapaud.1.21
+    463:
+    - Tsanfleuron.P30b_Crapaud.1.22
+    1340:
+    - Tsanfleuron.P30b_Crapaud.1.23
+    599:
+    - Tsanfleuron.P30b_Crapaud.1.24
+    1209:
+    - Tsanfleuron.P30b_Crapaud.1.25
+    102:
+    - Tsanfleuron.P30b_Crapaud.1.26
+    1287:
+    - Tsanfleuron.P30b_Crapaud.1.27
+    695:
+    - Tsanfleuron.P30b_Crapaud.1.28
+    1293:
+    - Tsanfleuron.P30b_Crapaud.1.29
+    1267:
+    - Tsanfleuron.P30b_Crapaud.1.30
+    317:
+    - Tsanfleuron.P30b_Crapaud.1.31
+    649:
+    - Tsanfleuron.P30b_Crapaud.1.32
+    699:
+    - Tsanfleuron.P30b_Crapaud.1.33
+    436:
+    - Tsanfleuron.P30b_Crapaud.1.34
+    1103:
+    - Tsanfleuron.P30b_Crapaud.1.35
+    522:
+    - Tsanfleuron.P30b_Crapaud.1.36
+    854:
+    - Tsanfleuron.P30b_Crapaud.1.37
+    519:
+    - Tsanfleuron.P30b_Crapaud.1.38
+    151:
+    - Tsanfleuron.P30b_Crapaud.1.40
+    - Tsanfleuron.P30b_Crapaud.3.0
+    484:
+    - Tsanfleuron.P30b_Crapaud.1.41
+    408:
+    - Tsanfleuron.P30b_Crapaud.3.1
+    681:
+    - Tsanfleuron.P30b_Crapaud.3.2
+    982:
+    - Tsanfleuron.P30b_Crapaud.3.3
+    998:
+    - Tsanfleuron.P30b_Crapaud.3.4
+    840:
+    - Tsanfleuron.P30b_Crapaud.3.5
+    133:
+    - Tsanfleuron.P30b_Crapaud.3.6
+    990:
+    - Tsanfleuron.P30b_Crapaud.3.7
+    630:
+    - Tsanfleuron.P30b_Crapaud.3.8
+    78:
+    - Tsanfleuron.P30b_Crapaud.3.9
+    462:
+    - Tsanfleuron.P30b_Crapaud.3.10
+    425:
+    - Tsanfleuron.P30b_Crapaud.3.11
+    433:
+    - Tsanfleuron.P30b_Crapaud.3.12
+    905:
+    - Tsanfleuron.P30b_Crapaud.3.13
+    214:
+    - Tsanfleuron.P30b_Crapaud.3.14
+    942:
+    - Tsanfleuron.P30b_Crapaud.3.15
+    1345:
+    - Tsanfleuron.P30b_Crapaud.3.16
+    879:
+    - Tsanfleuron.P30b_Crapaud.3.17
+    363:
+    - Tsanfleuron.P30b_Crapaud.3.18
+    985:
+    - Tsanfleuron.P30b_Crapaud.3.19
+    551:
+    - Tsanfleuron.P30b_Crapaud.3.20
+    677:
+    - Tsanfleuron.P30b_Crapaud.3.21
+    956:
+    - Tsanfleuron.P30b_Crapaud.3.22
+    170:
+    - Tsanfleuron.P30b_Crapaud.3.23
+    835:
+    - Tsanfleuron.P30b_Crapaud.3.24
+    557:
+    - Tsanfleuron.P30b_Crapaud.3.25
+    1383:
+    - Tsanfleuron.P30b_Crapaud.3.26
+    140:
+    - Tsanfleuron.P30b_Crapaud.3.27
+    885:
+    - Tsanfleuron.P30b_Crapaud.3.28
+    244:
+    - Tsanfleuron.P30b_Crapaud.3.29
+    346:
+    - Tsanfleuron.P30b_Crapaud.3.30
+    1284:
+    - Tsanfleuron.P30b_Crapaud.3.31
+    597:
+    - Tsanfleuron.P30b_Crapaud.3.32
+    1015:
+    - Tsanfleuron.P30b_Crapaud.3.33
+    898:
+    - Tsanfleuron.P30b_Crapaud.3.34
+    717:
+    - Tsanfleuron.P30b_Crapaud.3.35
+    486:
+    - Tsanfleuron.P30b_Crapaud.3.36
+    875:
+    - Tsanfleuron.P30b_Crapaud.3.37
+    465:
+    - Tsanfleuron.P30b_Crapaud.3.38
+    24:
+    - Tsanfleuron.P30b_Crapaud.3.39
+    1171:
+    - Tsanfleuron.P30b_Crapaud.3.40
+    1194:
+    - Tsanfleuron.P30b_Crapaud.3.41
+    1191:
+    - Tsanfleuron.P30b_Crapaud.3.42
+    172:
+    - Tsanfleuron.P30b_Crapaud.3.43
+    349:
+    - Tsanfleuron.P30b_Crapaud.3.44
+    1346:
+    - Tsanfleuron.P30b_Crapaud.3.45
+    640:
+    - Tsanfleuron.P30b_Crapaud.3.46
+    1279:
+    - Tsanfleuron.P30b_Crapaud.3.47
+    1085:
+    - Tsanfleuron.P30b_Crapaud.3.48
+    915:
+    - Tsanfleuron.P30b_Crapaud.3.49
+    604:
+    - Tsanfleuron.P30b_Crapaud.3.50
+    340:
+    - Tsanfleuron.P30b_Crapaud.3.51
+    135:
+    - Tsanfleuron.P30b_Crapaud.3.52
+    893:
+    - Tsanfleuron.P30b_Crapaud.3.53
+    1096:
+    - Tsanfleuron.P30b_Crapaud.3.54
+    768:
+    - Tsanfleuron.P30b_Crapaud.3.55
+    1028:
+    - Tsanfleuron.P30b_Crapaud.3.56
+    1299:
+    - Tsanfleuron.P30b_Crapaud.3.57
+    453:
+    - Tsanfleuron.P30b_Crapaud.3.58
+    1100:
+    - Tsanfleuron.P30b_Crapaud.3.59
+    1271:
+    - Tsanfleuron.P30b_Crapaud.3.60
+    156:
+    - Tsanfleuron.P30b_Crapaud.3.61
+    916:
+    - Tsanfleuron.P30b_Crapaud.3.62
+    1056:
+    - Tsanfleuron.P30b_Crapaud.3.63
+    1325:
+    - Tsanfleuron.P30b_Crapaud.3.64
+    933:
+    - Tsanfleuron.P30b_Crapaud.3.65
+    12:
+    - Tsanfleuron.P30b_Crapaud.3.66
+    1388:
+    - Tsanfleuron.P30b_Crapaud.3.67
+    624:
+    - Tsanfleuron.P30b_Crapaud.3.68
+    1205:
+    - Tsanfleuron.P30b_Crapaud.3.69
+    540:
+    - Tsanfleuron.P30b_Crapaud.3.70
+    1398:
+    - Tsanfleuron.P30b_Crapaud.3.71
+    217:
+    - Tsanfleuron.P5_Glacier.1
+    480:
+    - Tsanfleuron.P5_Glacier.2
+    665:
+    - Tsanfleuron.P5_Glacier.3
+    1000:
+    - Tsanfleuron.P5_Glacier.4
+    749:
+    - Tsanfleuron.P5_Glacier.5
+    142:
+    - Tsanfleuron.P5_Glacier.6
+    739:
+    - Tsanfleuron.P5_Glacier.7
+    881:
+    - Tsanfleuron.P5_Glacier.7a
+    155:
+    - Tsanfleuron.P5_Glacier.8
+    132:
+    - Tsanfleuron.P5_Glacier.9
+    1158:
+    - Tsanfleuron.P5_Glacier.10
+    1094:
+    - Tsanfleuron.P5_Glacier.11
+    600:
+    - Tsanfleuron.P5_Glacier.12
+    524:
+    - Tsanfleuron.P5_Glacier.13
+    284:
+    - Tsanfleuron.P96_Kefir.1.0
+    1389:
+    - Tsanfleuron.P96_Kefir.1.1
+    1311:
+    - Tsanfleuron.P96_Kefir.1.2
+    262:
+    - Tsanfleuron.P96_Kefir.2.7
+    827:
+    - Tsanfleuron.P96_Kefir.1.3
+    395:
+    - Tsanfleuron.P96_Kefir.2.0
+    707:
+    - Tsanfleuron.P96_Kefir.2.1
+    1276:
+    - Tsanfleuron.P96_Kefir.2.2
+    1250:
+    - Tsanfleuron.P96_Kefir.2.3
+    776:
+    - Tsanfleuron.P96_Kefir.2.4
+    - Tsanfleuron.P96_Kefir.4.0
+    1030:
+    - Tsanfleuron.P96_Kefir.2.5
+    - Tsanfleuron.P96_Kefir.3.0
+    847:
+    - Tsanfleuron.P96_Kefir.4.1
+    959:
+    - Tsanfleuron.P96_Kefir.2.6
+    849:
+    - Tsanfleuron.P96_Kefir.3.1
+    690:
+    - Tsanfleuron.P96_Kefir.3.2
+    8:
+    - Tsanfleuron.P96_Kefir.3.3
+    772:
+    - Tsanfleuron.P96_Kefir.4.2
+    1353:
+    - Tsanfleuron.P96_Kefir.4.3
+    943:
+    - Tsanfleuron.P96_Kefir.4.4
+    185:
+    - Tsanfleuron.P96_Kefir.4.5
+    504:
+    - Tsanfleuron.P96_Kefir.4.6
+    159:
+    - Tsanfleuron.P96_Kefir.4.7
+    149:
+    - Tsanfleuron.P96_Kefir.4.8
+    948:
+    - Tsanfleuron.P96_Kefir.4.9
+    - Tsanfleuron.P96_Kefir.5.0
+    - Tsanfleuron.P96_Kefir.6.0
+    - Tsanfleuron.P96_Kefir.8.0
+    685:
+    - Tsanfleuron.P96_Kefir.5.1
+    987:
+    - Tsanfleuron.P96_Kefir.6.1
+    1023:
+    - Tsanfleuron.P96_Kefir.8.1
+    1038:
+    - Tsanfleuron.P96_Kefir.5.2
+    589:
+    - Tsanfleuron.P96_Kefir.6.2
+    1304:
+    - Tsanfleuron.P96_Kefir.6.3
+    1:
+    - Tsanfleuron.P96_Kefir.6.4
+    815:
+    - Tsanfleuron.P96_Kefir.6.5
+    - Tsanfleuron.P96_Kefir.7.0
+    - Tsanfleuron.P96_Kefir.9.0
+    819:
+    - Tsanfleuron.P96_Kefir.7.1
+    207:
+    - Tsanfleuron.P96_Kefir.9.1
+    374:
+    - Tsanfleuron.P96_Kefir.7.2
+    530:
+    - Tsanfleuron.P96_Kefir.7.3
+    1348:
+    - Tsanfleuron.P96_Kefir.7.4
+    233:
+    - Tsanfleuron.P96_Kefir.7.5
+    265:
+    - Tsanfleuron.P96_Kefir.7.6
+    1141:
+    - Tsanfleuron.P96_Kefir.7.7
+    381:
+    - Tsanfleuron.P96_Kefir.7.8
+    26:
+    - Tsanfleuron.P96_Kefir.7.9
+    445:
+    - Tsanfleuron.P96_Kefir.8.2
+    230:
+    - Tsanfleuron.P96_Kefir.8.3
+    391:
+    - Tsanfleuron.P96_Kefir.8.4
+    730:
+    - Tsanfleuron.P96_Kefir.8.5
+    476:
+    - Tsanfleuron.P96_Kefir.8.6
+    1343:
+    - Tsanfleuron.P96_Kefir.8.7
+    1339:
+    - Tsanfleuron.P96_Kefir.8.8
+    608:
+    - Tsanfleuron.P96_Kefir.8.9
+    1026:
+    - Tsanfleuron.P96_Kefir.8.10
+    625:
+    - Tsanfleuron.P96_Kefir.a.0
+    491:
+    - Tsanfleuron.P96_Kefir.b.0
+    1373:
+    - Tsanfleuron.P96_Kefir.c.0
+    1350:
+    - Tsanfleuron.P96_Kefir.9.2
+    1377:
+    - Tsanfleuron.P96_Kefir.9.3
+    1443:
+    - Tsanfleuron.P96_Kefir.9.4
+    1344:
+    - Tsanfleuron.P96_Kefir.9.5
+    1231:
+    - Tsanfleuron.P96_Kefir.9.6
+    293:
+    - Tsanfleuron.P96_Kefir.9.7
+    548:
+    - Tsanfleuron.P96_Kefir.9.8
+    1390:
+    - Tsanfleuron.P96_Kefir.9.9
+    1183:
+    - Tsanfleuron.P96_Kefir.9.10
+    1002:
+    - Tsanfleuron.P96_Kefir.9.11
+    330:
+    - Tsanfleuron.P96_Kefir.9.12
+    129:
+    - Tsanfleuron.P96_Kefir.9.13
+    1062:
+    - Tsanfleuron.P96_Kefir.9.14
+    878:
+    - Tsanfleuron.P96_Kefir.9.15
+    257:
+    - Tsanfleuron.P96_Kefir.9.16
+    863:
+    - Tsanfleuron.P96_Kefir.9.17
+    351:
+    - Tsanfleuron.P96_Kefir.9.18
+    796:
+    - Tsanfleuron.P96_Kefir.9.19
+    1095:
+    - Tsanfleuron.P96_Kefir.9.20
+    390:
+    - Tsanfleuron.P96_Kefir.9.21
+    105:
+    - Tsanfleuron.P96_Kefir.9.22
+    279:
+    - Tsanfleuron.P96_Kefir.9.23
+    797:
+    - Tsanfleuron.P96_Kefir.9.24
+    983:
+    - Tsanfleuron.PuitsJonction.1.0
+    291:
+    - Tsanfleuron.PuitsJonction.1.1
+    1416:
+    - Tsanfleuron.TSX10_TrouStan.1.0
+    955:
+    - Tsanfleuron.TSX10_TrouStan.1.1
+    1204:
+    - Tsanfleuron.TSX10_TrouStan.1.2
+    - Tsanfleuron.TSX10_TrouStan.3.0
+    921:
+    - Tsanfleuron.TSX10_TrouStan.1.3
+    - Tsanfleuron.TSX10_TrouStan.2.0
+    1291:
+    - Tsanfleuron.TSX10_TrouStan.3.1
+    1057:
+    - Tsanfleuron.TSX10_TrouStan.1.4
+    791:
+    - Tsanfleuron.TSX10_TrouStan.2.1
+    223:
+    - Tsanfleuron.TSX10_TrouStan.3.2
+    1349:
+    - Tsanfleuron.TSX12_Queute_Tard.1.0
+    1152:
+    - Tsanfleuron.TSX12_Queute_Tard.1.1
+    616:
+    - Tsanfleuron.TSX12_Queute_Tard.1.2
+    1333:
+    - Tsanfleuron.TSX12_Queute_Tard.1.3
+    356:
+    - Tsanfleuron.TSX12_Queute_Tard.1.4
+    546:
+    - Tsanfleuron.TSX12_Queute_Tard.1.5
+    297:
+    - Tsanfleuron.TSX12_Queute_Tard.1.6
+    421:
+    - Tsanfleuron.TSX12_Queute_Tard.1.7
+    903:
+    - Tsanfleuron.TSX12_Queute_Tard.1.8
+    550:
+    - Tsanfleuron.TSX12_Queute_Tard.1.9
+    1451:
+    - Tsanfleuron.TSX12_Queute_Tard.1.10
+    1059:
+    - Tsanfleuron.TSX12_Queute_Tard.1.11
+    1099:
+    - Tsanfleuron.TSX12_Queute_Tard.1.12
+    106:
+    - Tsanfleuron.TSX12_Queute_Tard.1.13
+    488:
+    - Tsanfleuron.TSX12_Queute_Tard.1.14
+    338:
+    - Tsanfleuron.TSX12_Queute_Tard.1.15
+    449:
+    - Tsanfleuron.TSX12_Queute_Tard.1.16
+    1053:
+    - Tsanfleuron.TSX12_Queute_Tard.1.17
+    897:
+    - Tsanfleuron.TSX12_Queute_Tard.1.18
+    - Tsanfleuron.TSX12_Queute_Tard.2.0
+    209:
+    - Tsanfleuron.TSX12_Queute_Tard.1.19
+    745:
+    - Tsanfleuron.TSX12_Queute_Tard.2.1
+    1232:
+    - Tsanfleuron.TSX12_Queute_Tard.1.20
+    764:
+    - Tsanfleuron.TSX13_Devertebres.1.0
+    446:
+    - Tsanfleuron.TSX13_Devertebres.1.1
+    - Tsanfleuron.TSX13_Devertebres.2.0
+    328:
+    - Tsanfleuron.TSX13_Devertebres.1.2
+    668:
+    - Tsanfleuron.TSX13_Devertebres.2.1
+    201:
+    - Tsanfleuron.TSX13_Devertebres.1.3
+    517:
+    - Tsanfleuron.TSX13_Devertebres.1.4
+    375:
+    - Tsanfleuron.TSX13_Devertebres.1.5
+    - Tsanfleuron.TSX13_Devertebres.3.0
+    - Tsanfleuron.TSX13_Devertebres.4.0
+    1229:
+    - Tsanfleuron.TSX13_Devertebres.1.6
+    364:
+    - Tsanfleuron.TSX13_Devertebres.3.1
+    269:
+    - Tsanfleuron.TSX13_Devertebres.4.1
+    1336:
+    - Tsanfleuron.TSX13_Devertebres.1.7
+    - Tsanfleuron.TSX13_Devertebres.5.0
+    1218:
+    - Tsanfleuron.TSX13_Devertebres.1.8
+    564:
+    - Tsanfleuron.TSX13_Devertebres.5.1
+    227:
+    - Tsanfleuron.TSX13_Devertebres.1.9
+    1197:
+    - Tsanfleuron.TSX13_Devertebres.1.10
+    58:
+    - Tsanfleuron.TSX13_Devertebres.1.11
+    748:
+    - Tsanfleuron.TSX13_Devertebres.1.12
+    1408:
+    - Tsanfleuron.TSX13_Devertebres.1.13
+    - Tsanfleuron.TSX13_Devertebres.6.0
+    382:
+    - Tsanfleuron.TSX13_Devertebres.1.14
+    1341:
+    - Tsanfleuron.TSX13_Devertebres.6.1
+    392:
+    - Tsanfleuron.TSX13_Devertebres.1.15
+    545:
+    - Tsanfleuron.TSX13_Devertebres.1.16
+    1360:
+    - Tsanfleuron.TSX13_Devertebres.1.17
+    176:
+    - Tsanfleuron.TSX13_Devertebres.1.18
+    887:
+    - Tsanfleuron.TSX13_Devertebres.1.19
+    1425:
+    - Tsanfleuron.TSX13_Devertebres.1.20
+    682:
+    - Tsanfleuron.TSX13_Devertebres.1.21
+    1381:
+    - Tsanfleuron.TSX13_Devertebres.1.22
+    65:
+    - Tsanfleuron.TSX13_Devertebres.1.23
+    1313:
+    - Tsanfleuron.TSX13_Devertebres.1.24
+    1032:
+    - Tsanfleuron.TSX13_Devertebres.1.25
+    864:
+    - Tsanfleuron.TSX13_Devertebres.1.26
+    1403:
+    - Tsanfleuron.TSX13_Devertebres.1.27
+    974:
+    - Tsanfleuron.TSX13_Devertebres.1.28
+    989:
+    - Tsanfleuron.TSX13_Devertebres.1.29
+    533:
+    - Tsanfleuron.TSX13_Devertebres.1.30
+    1332:
+    - Tsanfleuron.TSX13_Devertebres.1.31
+    1147:
+    - Tsanfleuron.TSX13_Devertebres.1.32
+    697:
+    - Tsanfleuron.TSX13_Devertebres.1.33
+    980:
+    - Tsanfleuron.TSX13_Devertebres.1.34
+    1206:
+    - Tsanfleuron.TSX13_Devertebres.1.35
+    538:
+    - Tsanfleuron.TSX13_Devertebres.1.36
+    323:
+    - Tsanfleuron.TSX13_Devertebres.1.37
+    1397:
+    - Tsanfleuron.TSX13_Devertebres.1.38
+    904:
+    - Tsanfleuron.TSX13_Devertebres.1.39
+    369:
+    - Tsanfleuron.TSX13_Devertebres.1.40
+    1385:
+    - Tsanfleuron.TSX13_Devertebres.1.41
+    593:
+    - Tsanfleuron.TSX13_Devertebres.1.42
+    86:
+    - Tsanfleuron.TSX13_Devertebres.1.43
+    1435:
+    - Tsanfleuron.TSX13_Devertebres.7.8
+    651:
+    - Tsanfleuron.TSX13_Devertebres.7.0
+    - Tsanfleuron.TSX13_Devertebres.8.0
+    1399:
+    - Tsanfleuron.TSX13_Devertebres.7.1
+    394:
+    - Tsanfleuron.TSX13_Devertebres.8.1
+    1262:
+    - Tsanfleuron.TSX13_Devertebres.7.2
+    573:
+    - Tsanfleuron.TSX13_Devertebres.7.3
+    41:
+    - Tsanfleuron.TSX13_Devertebres.7.4
+    249:
+    - Tsanfleuron.TSX13_Devertebres.7.5
+    473:
+    - Tsanfleuron.TSX13_Devertebres.7.6
+    1395:
+    - Tsanfleuron.TSX13_Devertebres.7.7
+    325:
+    - Tsanfleuron.TSX13_Devertebres.8.2
+    493:
+    - Tsanfleuron.TSX13_Devertebres.8.3
+    1190:
+    - Tsanfleuron.TSX13_Devertebres.8.4
+    303:
+    - Tsanfleuron.TSX13_Devertebres.8.5
+    62:
+    - Tsanfleuron.TSX13_Devertebres.8.6
+    1307:
+    - Tsanfleuron.TSX13_Devertebres.8.7
+    442:
+    - Tsanfleuron.TSX13_Devertebres.8.8
+    606:
+    - Tsanfleuron.TSX13_Devertebres.8.9
+    832:
+    - Tsanfleuron.TSX13_Devertebres.8.10
+    124:
+    - Tsanfleuron.TSX13_Devertebres.8.11
+    1407:
+    - Tsanfleuron.TSX13_Devertebres.8.12
+    157:
+    - Tsanfleuron.TSX13_Devertebres.8.13
+    1356:
+    - Tsanfleuron.TSX13_Devertebres.8.14
+    836:
+    - Tsanfleuron.TSX13_Devertebres.8.15
+    757:
+    - Tsanfleuron.TSX13_Devertebres.8.16
+    547:
+    - Tsanfleuron.TSX13_Devertebres.8.17
+    582:
+    - Tsanfleuron.TSX13_Devertebres.8.18
+    376:
+    - Tsanfleuron.TSX13_Devertebres.8.19
+    556:
+    - Tsanfleuron.TSX13_Devertebres.8.20
+    719:
+    - Tsanfleuron.TSX13_Devertebres.8.21
+    221:
+    - Tsanfleuron.TSX13_Devertebres.8.22
+    1275:
+    - Tsanfleuron.TSX13_Devertebres.8.23
+    688:
+    - Tsanfleuron.TSX13_Devertebres.8.24
+    372:
+    - Tsanfleuron.TSX13_Devertebres.8.25
+    1213:
+    - Tsanfleuron.TSX13_Devertebres.8.26
+    574:
+    - Tsanfleuron.TSX13_Devertebres.8.27
+    851:
+    - Tsanfleuron.TSX13_Devertebres.8.28
+    1077:
+    - Tsanfleuron.TSX13_Devertebres.8.29
+    503:
+    - Tsanfleuron.TSX13_Devertebres.8.30
+    861:
+    - Tsanfleuron.TSX13_Devertebres.8.31
+    1413:
+    - Tsanfleuron.TSX13_Devertebres.8.32
+    263:
+    - Tsanfleuron.TSX13_Devertebres.8.33
+    844:
+    - Tsanfleuron.TSX13_Devertebres.8.34
+    189:
+    - Tsanfleuron.TSX14.1.0
+    - Tsanfleuron.TSX14.2.0
+    1445:
+    - Tsanfleuron.TSX14.1.1
+    498:
+    - Tsanfleuron.TSX14.2.1
+    298:
+    - Tsanfleuron.TSX14.1.2
+    1265:
+    - Tsanfleuron.TSX14.1.3
+    1321:
+    - Tsanfleuron.TSX14.1.4
+    1251:
+    - Tsanfleuron.TSX14.1.5
+    1420:
+    - Tsanfleuron.TSX15.1.0
+    - Tsanfleuron.TSX15.2.0
+    929:
+    - Tsanfleuron.TSX15.1.1
+    754:
+    - Tsanfleuron.TSX15.2.1
+    366:
+    - Tsanfleuron.TSX15.1.2
+    809:
+    - Tsanfleuron.TSX15.1.3
+    661:
+    - Tsanfleuron.TSX15.2.2
+    45:
+    - Tsanfleuron.TSX15.2.3
+    502:
+    - Tsanfleuron.TSX17.a0
+    1145:
+    - Tsanfleuron.TSX17.a1
+    700:
+    - Tsanfleuron.TSX17.a2
+    516:
+    - Tsanfleuron.TSX17.a3
+    69:
+    - Tsanfleuron.TSX17.a4
+    177:
+    - Tsanfleuron.TSX17.a5
+    108:
+    - Tsanfleuron.TSX17.a6
+    1442:
+    - Tsanfleuron.TSX17.a7
+    734:
+    - Tsanfleuron.TSX17.a8
+    56:
+    - Tsanfleuron.TSX17.a9
+    957:
+    - Tsanfleuron.TSX17.a10
+    165:
+    - Tsanfleuron.TSX17.a11
+    186:
+    - Tsanfleuron.TSX17.a12
+    357:
+    - Tsanfleuron.TSX17.a13
+    27:
+    - Tsanfleuron.TSX17.a14
+    71:
+    - Tsanfleuron.TSX17.a15
+    417:
+    - Tsanfleuron.TSX17.a16
+    807:
+    - Tsanfleuron.TSX17.a17
+    618:
+    - Tsanfleuron.TSX17.a18
+    856:
+    - Tsanfleuron.TSX17.a19
+    1367:
+    - Tsanfleuron.TSX17.a20
+    1221:
+    - Tsanfleuron.TSX17.a21
+    1130:
+    - Tsanfleuron.TSX17.a22
+    1444:
+    - Tsanfleuron.TSX17.a23
+    1016:
+    - Tsanfleuron.TSX17.a24
+    333:
+    - Tsanfleuron.TSX17.a25
+    76:
+    - Tsanfleuron.TSX17.a26
+    1283:
+    - Tsanfleuron.TSX1_Precoces.1.0
+    899:
+    - Tsanfleuron.TSX1_Precoces.1.1
+    188:
+    - Tsanfleuron.TSX1_Precoces.1.2
+    1093:
+    - Tsanfleuron.TSX1_Precoces.1.3
+    1170:
+    - Tsanfleuron.TSX1_Precoces.1.4
+    324:
+    - Tsanfleuron.TSX1_Precoces.1.5
+    94:
+    - Tsanfleuron.TSX1_Precoces.1.6
+    1087:
+    - Tsanfleuron.TSX1_Precoces.1.7
+    213:
+    - Tsanfleuron.TSX1_Precoces.1.8
+    10:
+    - Tsanfleuron.TSX1_Precoces.1.9
+    944:
+    - Tsanfleuron.TSX1_Precoces.1.10
+    180:
+    - Tsanfleuron.TSX1_Precoces.1.11
+    81:
+    - Tsanfleuron.TSX1_Precoces.1.12
+    115:
+    - Tsanfleuron.TSX1_Precoces.1.13
+    409:
+    - Tsanfleuron.TSX1_Precoces.1.14
+    98:
+    - Tsanfleuron.TSX1_Precoces.1.15
+    66:
+    - Tsanfleuron.TSX1_Precoces.1.16
+    423:
+    - Tsanfleuron.TSX1_Precoces.1.17
+    471:
+    - Tsanfleuron.TSX1_Precoces.1.18
+    1236:
+    - Tsanfleuron.TSX1_Precoces.1.19
+    107:
+    - Tsanfleuron.TSX1_Precoces.1.20
+    1181:
+    - Tsanfleuron.TSX1_Precoces.1.21
+    73:
+    - Tsanfleuron.TSX1_Precoces.1.22
+    1296:
+    - Tsanfleuron.TSX1_Precoces.1.23
+    501:
+    - Tsanfleuron.TSX1_Precoces.1.24
+    738:
+    - Tsanfleuron.TSX1_Precoces.1.25
+    256:
+    - Tsanfleuron.TSX1_Precoces.1.26
+    204:
+    - Tsanfleuron.TSX1_Precoces.1.27
+    1208:
+    - Tsanfleuron.TSX1_Precoces.1.28
+    802:
+    - Tsanfleuron.TSX1_Precoces.3.4
+    637:
+    - Tsanfleuron.TSX1_Precoces.1.29
+    145:
+    - Tsanfleuron.TSX1_Precoces.1.30
+    1286:
+    - Tsanfleuron.TSX1_Precoces.1.31
+    1387:
+    - Tsanfleuron.TSX1_Precoces.1.32
+    752:
+    - Tsanfleuron.TSX1_Precoces.2.0
+    - Tsanfleuron.TSX1_Precoces.3.0
+    - Tsanfleuron.TSX1_Precoces.4.2
+    587:
+    - Tsanfleuron.TSX1_Precoces.2.1
+    1043:
+    - Tsanfleuron.TSX1_Precoces.3.1
+    539:
+    - Tsanfleuron.TSX1_Precoces.4.1
+    231:
+    - Tsanfleuron.TSX1_Precoces.4.3
+    1244:
+    - Tsanfleuron.TSX1_Precoces.2.2
+    894:
+    - Tsanfleuron.TSX1_Precoces.2.3
+    811:
+    - Tsanfleuron.TSX1_Precoces.2.4
+    - Tsanfleuron.TSX1_Precoces.4.0
+    859:
+    - Tsanfleuron.TSX1_Precoces.2.5
+    751:
+    - Tsanfleuron.TSX1_Precoces.2.6
+    285:
+    - Tsanfleuron.TSX1_Precoces.3.2
+    0:
+    - Tsanfleuron.TSX1_Precoces.3.3
+    1457:
+    - Tsanfleuron.TSX1_Precoces.4.4
+    843:
+    - Tsanfleuron.TSX1_Precoces.4.5
+    1162:
+    - Tsanfleuron.TSX1_Precoces.4.6
+    575:
+    - Tsanfleuron.TSX1_Precoces.4.7
+    95:
+    - Tsanfleuron.TSX1_Precoces.4.8
+    780:
+    - Tsanfleuron.TSX1_Precoces.4.9
+    255:
+    - Tsanfleuron.TSX1_Precoces.4.10
+    1368:
+    - Tsanfleuron.TSX1_Precoces.4.11
+    715:
+    - Tsanfleuron.TSX1_Precoces.4.12
+    1259:
+    - Tsanfleuron.TSX1_Precoces.4.13
+    884:
+    - Tsanfleuron.TSX1_Precoces.4.14
+    689:
+    - Tsanfleuron.TSX1_Precoces.4.15
+    490:
+    - Tsanfleuron.TSX1_Precoces.4.16
+    902:
+    - Tsanfleuron.TSX1_Precoces.4.17
+    - Tsanfleuron.TSX1_Precoces.5.0
+    266:
+    - Tsanfleuron.TSX1_Precoces.4.18
+    954:
+    - Tsanfleuron.TSX1_Precoces.5.1
+    60:
+    - Tsanfleuron.TSX1_Precoces.5.2
+    1105:
+    - Tsanfleuron.TSX1_Precoces.5.3
+    321:
+    - Tsanfleuron.TSX1_Precoces.5.4
+    1079:
+    - Tsanfleuron.TSX1_Precoces.5.5
+    119:
+    - Tsanfleuron.TSX1_Precoces.5.6
+    644:
+    - Tsanfleuron.TSX1_Precoces.5.7
+    218:
+    - Tsanfleuron.TSX1_Precoces.5.8
+    1137:
+    - Tsanfleuron.TSX1_Precoces.5.9
+    1428:
+    - Tsanfleuron.TSX1_Precoces.4.19
+    481:
+    - Tsanfleuron.TSX1_Precoces.4.20
+    662:
+    - Tsanfleuron.TSX1_Precoces.4.21
+    628:
+    - Tsanfleuron.TSX1_Precoces.4.22
+    1193:
+    - Tsanfleuron.TSX1_Precoces.4.23
+    1051:
+    - Tsanfleuron.TSX1_Precoces.4.24
+    389:
+    - Tsanfleuron.TSX1_Precoces.4.25
+    808:
+    - Tsanfleuron.TSX1_Precoces.4.26
+    - Tsanfleuron.TSX1_Precoces.6.0
+    583:
+    - Tsanfleuron.TSX1_Precoces.4.27
+    168:
+    - Tsanfleuron.TSX1_Precoces.6.1
+    144:
+    - Tsanfleuron.TSX1_Precoces.4.28
+    1169:
+    - Tsanfleuron.TSX1_Precoces.4.29
+    341:
+    - Tsanfleuron.TSX1_Precoces.4.30
+    794:
+    - Tsanfleuron.TSX1_Precoces.4.31
+    359:
+    - Tsanfleuron.TSX1_Precoces.4.32
+    654:
+    - Tsanfleuron.TSX1_Precoces.4.33
+    1224:
+    - Tsanfleuron.TSX1_Precoces.4.34
+    570:
+    - Tsanfleuron.TSX1_Precoces.4.35
+    1314:
+    - Tsanfleuron.TSX1_Precoces.4.36
+    711:
+    - Tsanfleuron.TSX1_Precoces.4.37
+    842:
+    - Tsanfleuron.TSX1_Precoces.4.38
+    46:
+    - Tsanfleuron.TSX1_Precoces.4.39
+    901:
+    - Tsanfleuron.TSX1_Precoces.4.40
+    111:
+    - Tsanfleuron.TSX1_Precoces.4.41
+    54:
+    - Tsanfleuron.TSX1_Precoces.4.42
+    917:
+    - Tsanfleuron.TSX1_Precoces.4.43
+    109:
+    - Tsanfleuron.TSX1_Precoces.4.44
+    245:
+    - Tsanfleuron.TSX1_Precoces.4.45
+    1438:
+    - Tsanfleuron.TSX1_Precoces.4.46
+    1021:
+    - Tsanfleuron.TSX1_Precoces.4.47
+    741:
+    - Tsanfleuron.TSX1_Precoces.4.48
+    914:
+    - Tsanfleuron.TSX1_Precoces.4.49
+    822:
+    - Tsanfleuron.TSX1_Precoces.4.50
+    824:
+    - Tsanfleuron.TSX1_Precoces.4.51
+    1014:
+    - Tsanfleuron.TSX1_Precoces.4.52
+    362:
+    - Tsanfleuron.TSX1_Precoces.4.53
+    187:
+    - Tsanfleuron.TSX1_Precoces.4.54
+    1157:
+    - Tsanfleuron.TSX1_Precoces.4.55
+    248:
+    - Tsanfleuron.TSX1_Precoces.4.56
+    1247:
+    - Tsanfleuron.TSX1_Precoces.4.57
+    1120:
+    - Tsanfleuron.TSX1_Precoces.4.58
+    441:
+    - Tsanfleuron.TSX1_Precoces.4.59
+    - Tsanfleuron.TSX1_Precoces.7.0
+    1172:
+    - Tsanfleuron.TSX1_Precoces.7.1
+    - Tsanfleuron.TSX1_Precoces.9.0
+    622:
+    - Tsanfleuron.TSX1_Precoces.6.2
+    424:
+    - Tsanfleuron.TSX1_Precoces.6.3
+    1447:
+    - Tsanfleuron.TSX1_Precoces.6.4
+    1189:
+    - Tsanfleuron.TSX1_Precoces.6.5
+    586:
+    - Tsanfleuron.TSX1_Precoces.7.2
+    666:
+    - Tsanfleuron.TSX1_Precoces.9.1
+    936:
+    - Tsanfleuron.TSX1_Precoces.7.3
+    972:
+    - Tsanfleuron.TSX1_Precoces.7.4
+    1386:
+    - Tsanfleuron.TSX1_Precoces.7.5
+    - Tsanfleuron.TSX1_Precoces.8.0
+    1110:
+    - Tsanfleuron.TSX1_Precoces.7.6
+    456:
+    - Tsanfleuron.TSX1_Precoces.8.1
+    1083:
+    - Tsanfleuron.TSX1_Precoces.7.7
+    373:
+    - Tsanfleuron.TSX1_Precoces.8.2
+    277:
+    - Tsanfleuron.TSX1_Precoces.8.3
+    585:
+    - Tsanfleuron.TSX1_Precoces.8.4
+    1456:
+    - Tsanfleuron.TSX1_Precoces.8.5
+    657:
+    - Tsanfleuron.TSX1_Precoces.8.6
+    1257:
+    - Tsanfleuron.TSX1_Precoces.8.7
+    601:
+    - Tsanfleuron.TSX1_Precoces.8.8
+    1198:
+    - Tsanfleuron.TSX1_Precoces.8.9
+    1354:
+    - Tsanfleuron.TSX1_Precoces.8.10
+    986:
+    - Tsanfleuron.TSX1_Precoces.8.11
+    226:
+    - Tsanfleuron.TSX1_Precoces.8.12
+    1202:
+    - Tsanfleuron.TSX1_Precoces.8.13
+    506:
+    - Tsanfleuron.TSX1_Precoces.8.14
+    886:
+    - Tsanfleuron.TSX1_Precoces.8.15
+    1111:
+    - Tsanfleuron.TSX1_Precoces.8.16
+    1013:
+    - Tsanfleuron.TSX1_Precoces.8.17
+    1035:
+    - Tsanfleuron.TSX1_Precoces.8.18
+    544:
+    - Tsanfleuron.TSX1_Precoces.8.19
+    938:
+    - Tsanfleuron.TSX1_Precoces.8.20
+    792:
+    - Tsanfleuron.TSX1_Precoces.8.21
+    253:
+    - Tsanfleuron.TSX1_Precoces.8.22
+    16:
+    - Tsanfleuron.TSX1_Precoces.8.23
+    542:
+    - Tsanfleuron.TSX1_Precoces.8.24
+    1212:
+    - Tsanfleuron.TSX1_Precoces.8.25
+    11:
+    - Tsanfleuron.TSX1_Precoces.8.26
+    659:
+    - Tsanfleuron.TSX1_Precoces.8.27
+    571:
+    - Tsanfleuron.TSX1_Precoces.8.28
+    1082:
+    - Tsanfleuron.TSX1_Precoces.8.29
+    594:
+    - Tsanfleuron.TSX1_Precoces.8.30
+    1186:
+    - Tsanfleuron.TSX1_Precoces.8.31
+    725:
+    - Tsanfleuron.TSX1_Precoces.8.32
+    1074:
+    - Tsanfleuron.TSX1_Precoces.8.33
+    1185:
+    - Tsanfleuron.TSX1_Precoces.8.34
+    1364:
+    - Tsanfleuron.TSX1_Precoces.8.35
+    295:
+    - Tsanfleuron.TSX1_Precoces.8.36
+    336:
+    - Tsanfleuron.TSX1_Precoces.8.37
+    452:
+    - Tsanfleuron.TSX1_Precoces.8.38
+    1237:
+    - Tsanfleuron.TSX1_Precoces.8.39
+    401:
+    - Tsanfleuron.TSX1_Precoces.8.40
+    1092:
+    - Tsanfleuron.TSX1_Precoces.8.41
+    763:
+    - Tsanfleuron.TSX1_Precoces.8.42
+    535:
+    - Tsanfleuron.TSX2.1.0
+    1300:
+    - Tsanfleuron.TSX2.1.1
+    1436:
+    - Tsanfleuron.TSX2.1.2
+    833:
+    - Tsanfleuron.TSX2.1.3
+    - Tsanfleuron.TSX2.3.0
+    440:
+    - Tsanfleuron.TSX2.1.4
+    - Tsanfleuron.TSX2.2.0
+    1078:
+    - Tsanfleuron.TSX2.3.1
+    1073:
+    - Tsanfleuron.TSX2.1.5
+    192:
+    - Tsanfleuron.TSX2.2.1
+    605:
+    - Tsanfleuron.TSX2.1.6
+    1437:
+    - Tsanfleuron.TSX2.2.2
+    1075:
+    - Tsanfleuron.TSX2.2.3
+    1241:
+    - Tsanfleuron.TSX2.2.4
+    2:
+    - Tsanfleuron.TSX2.3.2
+    1203:
+    - Tsanfleuron.TSX2.3.3
+    403:
+    - Tsanfleuron.TSX2.3.4
+    103:
+    - Tsanfleuron.TSX2.3.5
+    913:
+    - Tsanfleuron.TSX2.3.6
+    1327:
+    - Tsanfleuron.TSX2.3.7
+    153:
+    - Tsanfleuron.TSX2.3.8
+    1414:
+    - Tsanfleuron.TSX2.3.9
+    576:
+    - Tsanfleuron.TSX2.3.10
+    - Tsanfleuron.TSX2.4.0
+    432:
+    - Tsanfleuron.TSX2.3.11
+    981:
+    - Tsanfleuron.TSX2.4.1
+    1064:
+    - Tsanfleuron.TSX2.3.12
+    - Tsanfleuron.TSX2.5.0
+    1459:
+    - Tsanfleuron.TSX2.3.13
+    296:
+    - Tsanfleuron.TSX2.5.1
+    716:
+    - Tsanfleuron.TSX2.3.14
+    1263:
+    - Tsanfleuron.TSX2.3.15
+    975:
+    - Tsanfleuron.TSX2.3.16
+    158:
+    - Tsanfleuron.TSX2.3.17
+    992:
+    - Tsanfleuron.TSX2.3.18
+    552:
+    - Tsanfleuron.TSX2.3.19
+    - Tsanfleuron.TSX2.7.0
+    737:
+    - Tsanfleuron.TSX2.3.20
+    647:
+    - Tsanfleuron.TSX2.7.1
+    386:
+    - Tsanfleuron.TSX2.3.21
+    - Tsanfleuron.TSX2.6.0
+    146:
+    - Tsanfleuron.TSX2.3.22
+    1004:
+    - Tsanfleuron.TSX2.6.1
+    672:
+    - Tsanfleuron.TSX2.6.2
+    427:
+    - Tsanfleuron.TSX2.3.23
+    1371:
+    - Tsanfleuron.TSX2.7.2
+    871:
+    - Tsanfleuron.TSX2.7.3
+    814:
+    - Tsanfleuron.TSX2.7.4
+    1180:
+    - Tsanfleuron.TSX2.7.5
+    126:
+    - Tsanfleuron.TSX2.7.6
+    121:
+    - Tsanfleuron.TSX2.7.7
+    1222:
+    - Tsanfleuron.TSX2.7.8
+    282:
+    - Tsanfleuron.TSX4_CoupeFresard.1.0
+    940:
+    - Tsanfleuron.TSX4_CoupeFresard.1.1
+    275:
+    - Tsanfleuron.TSX4_CoupeFresard.1.2
+    1405:
+    - Tsanfleuron.TSX4_CoupeFresard.1.3
+    760:
+    - Tsanfleuron.TSX4_CoupeFresard.1.4
+    1001:
+    - Tsanfleuron.TSX4_CoupeFresard.1.5
+    804:
+    - Tsanfleuron.TSX4_CoupeFresard.1.6
+    927:
+    - Tsanfleuron.TSX4_CoupeFresard.1.7
+    314:
+    - Tsanfleuron.TSX4_CoupeFresard.1.8
+    515:
+    - Tsanfleuron.TSX4_CoupeFresard.1.9
+    353:
+    - Tsanfleuron.TSX4_CoupeFresard.1.10
+    1268:
+    - Tsanfleuron.TSX4_CoupeFresard.1.11
+    1187:
+    - Tsanfleuron.TSX4_CoupeFresard.1.12
+    829:
+    - Tsanfleuron.TSX4_CoupeFresard.1.13
+    241:
+    - Tsanfleuron.TSX4_CoupeFresard.1.14
+    636:
+    - Tsanfleuron.TSX4_CoupeFresard.1.15
+    419:
+    - Tsanfleuron.TSX4_CoupeFresard.2.5
+    370:
+    - Tsanfleuron.TSX4_CoupeFresard.2.0
+    - Tsanfleuron.TSX4_CoupeFresard.3.0
+    - Tsanfleuron.TSX4_CoupeFresard.9.0
+    - Tsanfleuron.TSX4_CoupeFresard.10.0
+    1058:
+    - Tsanfleuron.TSX4_CoupeFresard.2.1
+    865:
+    - Tsanfleuron.TSX4_CoupeFresard.3.1
+    - Tsanfleuron.TSX4_CoupeFresard.4.0
+    1036:
+    - Tsanfleuron.TSX4_CoupeFresard.9.1
+    309:
+    - Tsanfleuron.TSX4_CoupeFresard.10.1
+    947:
+    - Tsanfleuron.TSX4_CoupeFresard.2.2
+    619:
+    - Tsanfleuron.TSX4_CoupeFresard.2.3
+    882:
+    - Tsanfleuron.TSX4_CoupeFresard.2.4
+    271:
+    - Tsanfleuron.TSX4_CoupeFresard.3.2
+    976:
+    - Tsanfleuron.TSX4_CoupeFresard.4.1
+    1020:
+    - Tsanfleuron.TSX4_CoupeFresard.3.3
+    - Tsanfleuron.TSX4_CoupeFresard.5.0
+    - Tsanfleuron.TSX4_CoupeFresard.6.0
+    334:
+    - Tsanfleuron.TSX4_CoupeFresard.3.4
+    - Tsanfleuron.TSX4_CoupeFresard.7.0
+    161:
+    - Tsanfleuron.TSX4_CoupeFresard.4.3
+    1192:
+    - Tsanfleuron.TSX4_CoupeFresard.5.1
+    559:
+    - Tsanfleuron.TSX4_CoupeFresard.6.1
+    1142:
+    - Tsanfleuron.TSX4_CoupeFresard.3.5
+    612:
+    - Tsanfleuron.TSX4_CoupeFresard.7.1
+    150:
+    - Tsanfleuron.TSX4_CoupeFresard.3.6
+    1422:
+    - Tsanfleuron.TSX4_CoupeFresard.3.7
+    1410:
+    - Tsanfleuron.TSX4_CoupeFresard.4.2
+    701:
+    - Tsanfleuron.TSX4_CoupeFresard.6.2
+    29:
+    - Tsanfleuron.TSX4_CoupeFresard.6.3
+    1031:
+    - Tsanfleuron.TSX4_CoupeFresard.6.4
+    49:
+    - Tsanfleuron.TSX4_CoupeFresard.6.5
+    1253:
+    - Tsanfleuron.TSX4_CoupeFresard.6.6
+    816:
+    - Tsanfleuron.TSX4_CoupeFresard.6.7
+    1452:
+    - Tsanfleuron.TSX4_CoupeFresard.6.8
+    635:
+    - Tsanfleuron.TSX4_CoupeFresard.6.9
+    1453:
+    - Tsanfleuron.TSX4_CoupeFresard.7.2
+    1048:
+    - Tsanfleuron.TSX4_CoupeFresard.7.3
+    1322:
+    - Tsanfleuron.TSX4_CoupeFresard.7.4
+    461:
+    - Tsanfleuron.TSX4_CoupeFresard.7.5
+    607:
+    - Tsanfleuron.TSX4_CoupeFresard.7.6
+    173:
+    - Tsanfleuron.TSX4_CoupeFresard.7.7
+    1260:
+    - Tsanfleuron.TSX4_CoupeFresard.7.8
+    416:
+    - Tsanfleuron.TSX4_CoupeFresard.7.9
+    53:
+    - Tsanfleuron.TSX4_CoupeFresard.7.10
+    92:
+    - Tsanfleuron.TSX4_CoupeFresard.7.11
+    393:
+    - Tsanfleuron.TSX4_CoupeFresard.7.12
+    343:
+    - Tsanfleuron.TSX4_CoupeFresard.7.13
+    288:
+    - Tsanfleuron.TSX4_CoupeFresard.7.14
+    740:
+    - Tsanfleuron.TSX4_CoupeFresard.7.15
+    143:
+    - Tsanfleuron.TSX4_CoupeFresard.7.16
+    777:
+    - Tsanfleuron.TSX4_CoupeFresard.7.17
+    50:
+    - Tsanfleuron.TSX4_CoupeFresard.7.18
+    322:
+    - Tsanfleuron.TSX4_CoupeFresard.7.19
+    235:
+    - Tsanfleuron.TSX4_CoupeFresard.7.20
+    1210:
+    - Tsanfleuron.TSX4_CoupeFresard.7.21
+    621:
+    - Tsanfleuron.TSX4_CoupeFresard.7.22
+    238:
+    - Tsanfleuron.TSX4_CoupeFresard.7.23
+    468:
+    - Tsanfleuron.TSX4_CoupeFresard.7.24
+    466:
+    - Tsanfleuron.TSX4_CoupeFresard.7.25
+    40:
+    - Tsanfleuron.TSX4_CoupeFresard.7.26
+    1319:
+    - Tsanfleuron.TSX4_CoupeFresard.7.27
+    460:
+    - Tsanfleuron.TSX4_CoupeFresard.7.28
+    613:
+    - Tsanfleuron.TSX4_CoupeFresard.7.29
+    1214:
+    - Tsanfleuron.TSX4_CoupeFresard.7.30
+    - Tsanfleuron.TSX4_CoupeFresard.8.0
+    1140:
+    - Tsanfleuron.TSX4_CoupeFresard.7.31
+    755:
+    - Tsanfleuron.TSX4_CoupeFresard.8.1
+    800:
+    - Tsanfleuron.TSX4_CoupeFresard.7.32
+    472:
+    - Tsanfleuron.TSX4_CoupeFresard.7.33
+    1143:
+    - Tsanfleuron.TSX4_CoupeFresard.7.34
+    720:
+    - Tsanfleuron.TSX4_CoupeFresard.7.35
+    945:
+    - Tsanfleuron.TSX4_CoupeFresard.7.36
+    1104:
+    - Tsanfleuron.TSX4_CoupeFresard.7.37
+    1320:
+    - Tsanfleuron.TSX4_CoupeFresard.7.38
+    518:
+    - Tsanfleuron.TSX4_CoupeFresard.7.39
+    1146:
+    - Tsanfleuron.TSX4_CoupeFresard.7.40
+    1334:
+    - Tsanfleuron.TSX4_CoupeFresard.7.41
+    1022:
+    - Tsanfleuron.TSX4_CoupeFresard.7.42
+    1136:
+    - Tsanfleuron.TSX4_CoupeFresard.7.43
+    1308:
+    - Tsanfleuron.TSX4_CoupeFresard.10.2
+    494:
+    - Tsanfleuron.TSX4_CoupeFresard.10.3
+    812:
+    - Tsanfleuron.TSX4_CoupeFresard.10.4
+    - Tsanfleuron.TSX4_CoupeFresard.12.0
+    567:
+    - Tsanfleuron.TSX4_CoupeFresard.10.5
+    302:
+    - Tsanfleuron.TSX4_CoupeFresard.12.1
+    1040:
+    - Tsanfleuron.TSX4_CoupeFresard.10.6
+    1393:
+    - Tsanfleuron.TSX4_CoupeFresard.10.7
+    273:
+    - Tsanfleuron.TSX4_CoupeFresard.10.8
+    - Tsanfleuron.TSX4_CoupeFresard.11.0
+    1071:
+    - Tsanfleuron.TSX4_CoupeFresard.10.9
+    184:
+    - Tsanfleuron.TSX4_CoupeFresard.11.1
+    977:
+    - Tsanfleuron.TSX4_CoupeFresard.12.2
+    1005:
+    - Tsanfleuron.TSX9_Acouphene.1.0
+    67:
+    - Tsanfleuron.TSX9_Acouphene.1.1
+    1306:
+    - Tsanfleuron.TSX9_Acouphene.1.2
+    918:
+    - Tsanfleuron.TSX9_Acouphene.1.3
+    795:
+    - Tsanfleuron.TSX9_Acouphene.1.4
+    110:
+    - Tsanfleuron.TSX9_Acouphene.1.5
+    - Tsanfleuron.TSX9_Acouphene.2.0
+    206:
+    - Tsanfleuron.TSX9_Acouphene.1.6
+    1417:
+    - Tsanfleuron.TSX9_Acouphene.2.1
+    782:
+    - Tsanfleuron.TSX9_Acouphene.1.7
+    - Tsanfleuron.TSX9_Acouphene.3.0
+    680:
+    - Tsanfleuron.TSX9_Acouphene.1.8
+    1281:
+    - Tsanfleuron.TSX9_Acouphene.3.1
+    75:
+    - Tsanfleuron.TSX9_Acouphene.1.9
+    - Tsanfleuron.TSX9_Acouphene.4.0
+    1227:
+    - Tsanfleuron.TSX9_Acouphene.1.10
+    79:
+    - Tsanfleuron.TSX9_Acouphene.4.1
+    779:
+    - Tsanfleuron.TSX9_Acouphene.1.11
+    670:
+    - Tsanfleuron.TSX9_Acouphene.1.12
+    1144:
+    - Tsanfleuron.TSX9_Acouphene.1.13
+    683:
+    - Tsanfleuron.TSX9_Acouphene.1.14
+    1066:
+    - Tsanfleuron.TSX9_Acouphene.1.15
+    1248:
+    - Tsanfleuron.TSX9_Acouphene.1.16
+    125:
+    - Tsanfleuron.TSX9_Acouphene.1.17
+    922:
+    - Tsanfleuron.TSX9_Acouphene.1.18
+    61:
+    - Tsanfleuron.TSX9_Acouphene.1.19
+    431:
+    - Tsanfleuron.TSX9_Acouphene.2.2
+    439:
+    - Tsanfleuron.TSX9_Acouphene.2.3
+    6:
+    - Tsanfleuron.TSX9_Acouphene.2.4
+    274:
+    - Tsanfleuron.TSX9_Acouphene.2.5
+    1127:
+    - Tsanfleuron.TSX9_Acouphene.2.6
+    51:
+    - Tsanfleuron.TSX9_Acouphene.3.2
+    1088:
+    - Tsanfleuron.TSX9_Acouphene.3.3
+    1003:
+    - Tsanfleuron.TSX9_Acouphene.3.4
+    1055:
+    - Tsanfleuron.TSX9_Acouphene.3.5
+    83:
+    - Tsanfleuron.TSX9_Acouphene.4.2
+    862:
+    - Tsanfleuron.TZ99_Transpirateur.1.0
+    1269:
+    - Tsanfleuron.TZ99_Transpirateur.1.1
+    68:
+    - Tsanfleuron.TZ99_Transpirateur.1.2
+    1280:
+    - Tsanfleuron.TZ99_Transpirateur.1.3
+    907:
+    - Tsanfleuron.TZ99_Transpirateur.1.4
+    1305:
+    - Tsanfleuron.TZ99_Transpirateur.1.5
+    663:
+    - Tsanfleuron.TZ99_Transpirateur.1.6
+    1290:
+    - Tsanfleuron.TZ99_Transpirateur.1.7
+    311:
+    - Tsanfleuron.TZ99_Transpirateur.1.8
+    178:
+    - Tsanfleuron.TZ99_Transpirateur.1.9
+    1317:
+    - Tsanfleuron.TZ99_Transpirateur.1.10
+    1329:
+    - Tsanfleuron.TZ99_Transpirateur.1.11
+    240:
+    - Tsanfleuron.TZ99_Transpirateur.1.12
+    1065:
+    - Tsanfleuron.TZ99_Transpirateur.1.13
+    1370:
+    - Tsanfleuron.TZ99_Transpirateur.1.14
+    308:
+    - Tsanfleuron.TZ99_Transpirateur.1.15
+    242:
+    - Tsanfleuron.TZ99_Transpirateur.1.16
+    1289:
+    - Tsanfleuron.TZ99_Transpirateur.1.17
+    609:
+    - Tsanfleuron.TZ99_Transpirateur.1.18
+    407:
+    - Tsanfleuron.TZ99_Transpirateur.1.19
+    1113:
+    - Tsanfleuron.TZ99_Transpirateur.1.20
+    1409:
+    - Tsanfleuron.TZ99_Transpirateur.1.21
+    892:
+    - Tsanfleuron.TZ99_Transpirateur.1.22
+    880:
+    - Tsanfleuron.TZ99_Transpirateur.1.23
+    1378:
+    - Tsanfleuron.TZ99_Transpirateur.1.24
+    623:
+    - Tsanfleuron.TZ99_Transpirateur.1.25
+    36:
+    - Tsanfleuron.TZ99_Transpirateur.1.26
+    1252:
+    - Tsanfleuron.TZ99_Transpirateur.1.27
+    512:
+    - Tsanfleuron.TZ99_Transpirateur.1.28
+    969:
+    - Tsanfleuron.TZ99_Transpirateur.1.29
+    166:
+    - Tsanfleuron.TZ99_Transpirateur.1.30
+    - Tsanfleuron.TZ99_Transpirateur.1.31
+    483:
+    - Tsanfleuron.TZ99_Transpirateur.1.32
+    1274:
+    - Tsanfleuron.TZ99_Transpirateur.1.33
+    925:
+    - Tsanfleuron.TZ99_Transpirateur.1.34
+    965:
+    - Tsanfleuron.TZ99_Transpirateur.1.35
+    43:
+    - Tsanfleuron.TZ99_Transpirateur.1.36
+    91:
+    - Tsanfleuron.TZ99_Transpirateur.1.37
+    44:
+    - Tsanfleuron.TZ99_Transpirateur.1.38
+    1139:
+    - Tsanfleuron.TZ99_Transpirateur.1.39
+    924:
+    - Tsanfleuron.TZ99_Transpirateur.1.40
+    312:
+    - Tsanfleuron.TZ99_Transpirateur.1.41
+    88:
+    - Tsanfleuron.TZ99_Transpirateur.1.42
+    434:
+    - Tsanfleuron.TZ99_Transpirateur.1.43
+    475:
+    - Tsanfleuron.TZ99_Transpirateur.1.44
+    1404:
+    - Tsanfleuron.TZ99_Transpirateur.1.45
+    352:
+    - Tsanfleuron.TZ99_Transpirateur.1.46
+    215:
+    - Tsanfleuron.TZ99_Transpirateur.1.47
+    191:
+    - Tsanfleuron.TZ99_Transpirateur.1.48
+    - Tsanfleuron.TZ99_Transpirateur.6.0
+    1316:
+    - Tsanfleuron.TZ99_Transpirateur.1.49
+    224:
+    - Tsanfleuron.TZ99_Transpirateur.5.10
+    1178:
+    - Tsanfleuron.TZ99_Transpirateur.6.1
+    1458:
+    - Tsanfleuron.TZ99_Transpirateur.1.50
+    937:
+    - Tsanfleuron.TZ99_Transpirateur.1.51
+    - Tsanfleuron.TZ99_Transpirateur.2.0
+    1115:
+    - Tsanfleuron.TZ99_Transpirateur.1.52
+    1226:
+    - Tsanfleuron.TZ99_Transpirateur.2.1
+    47:
+    - Tsanfleuron.TZ99_Transpirateur.1.53
+    350:
+    - Tsanfleuron.TZ99_Transpirateur.1.54
+    714:
+    - Tsanfleuron.TZ99_Transpirateur.1.55
+    728:
+    - Tsanfleuron.TZ99_Transpirateur.1.56
+    1431:
+    - Tsanfleuron.TZ99_Transpirateur.1.57
+    1432:
+    - Tsanfleuron.TZ99_Transpirateur.1.58
+    82:
+    - Tsanfleuron.TZ99_Transpirateur.2.2
+    21:
+    - Tsanfleuron.TZ99_Transpirateur.2.3
+    1039:
+    - Tsanfleuron.TZ99_Transpirateur.2.4
+    1047:
+    - Tsanfleuron.TZ99_Transpirateur.2.5
+    429:
+    - Tsanfleuron.TZ99_Transpirateur.2.6
+    90:
+    - Tsanfleuron.TZ99_Transpirateur.2.7
+    1072:
+    - Tsanfleuron.TZ99_Transpirateur.2.8
+    1355:
+    - Tsanfleuron.TZ99_Transpirateur.2.9
+    1041:
+    - Tsanfleuron.TZ99_Transpirateur.2.10
+    966:
+    - Tsanfleuron.TZ99_Transpirateur.2.11
+    120:
+    - Tsanfleuron.TZ99_Transpirateur.2.12
+    773:
+    - Tsanfleuron.TZ99_Transpirateur.2.13
+    732:
+    - Tsanfleuron.TZ99_Transpirateur.2.14
+    1177:
+    - Tsanfleuron.TZ99_Transpirateur.2.15
+    1238:
+    - Tsanfleuron.TZ99_Transpirateur.2.16
+    163:
+    - Tsanfleuron.TZ99_Transpirateur.3.0
+    - Tsanfleuron.TZ99_Transpirateur.5.0
+    1011:
+    - Tsanfleuron.TZ99_Transpirateur.3.1
+    13:
+    - Tsanfleuron.TZ99_Transpirateur.5.1
+    154:
+    - Tsanfleuron.TZ99_Transpirateur.3.2
+    329:
+    - Tsanfleuron.TZ99_Transpirateur.3.3
+    450:
+    - Tsanfleuron.TZ99_Transpirateur.3.4
+    565:
+    - Tsanfleuron.TZ99_Transpirateur.3.5
+    831:
+    - Tsanfleuron.TZ99_Transpirateur.3.14
+    1195:
+    - Tsanfleuron.TZ99_Transpirateur.3.6
+    713:
+    - Tsanfleuron.TZ99_Transpirateur.3.7
+    652:
+    - Tsanfleuron.TZ99_Transpirateur.3.8
+    - Tsanfleuron.TZ99_Transpirateur.4.0
+    1391:
+    - Tsanfleuron.TZ99_Transpirateur.3.9
+    1101:
+    - Tsanfleuron.TZ99_Transpirateur.4.1
+    1239:
+    - Tsanfleuron.TZ99_Transpirateur.3.10
+    1132:
+    - Tsanfleuron.TZ99_Transpirateur.3.11
+    563:
+    - Tsanfleuron.TZ99_Transpirateur.3.12
+    1338:
+    - Tsanfleuron.TZ99_Transpirateur.3.13
+    727:
+    - Tsanfleuron.TZ99_Transpirateur.4.2
+    762:
+    - Tsanfleuron.TZ99_Transpirateur.4.3
+    554:
+    - Tsanfleuron.TZ99_Transpirateur.4.4
+    1122:
+    - Tsanfleuron.TZ99_Transpirateur.4.5
+    435:
+    - Tsanfleuron.TZ99_Transpirateur.4.6
+    615:
+    - Tsanfleuron.TZ99_Transpirateur.4.7
+    591:
+    - Tsanfleuron.TZ99_Transpirateur.4.8
+    785:
+    - Tsanfleuron.TZ99_Transpirateur.4.9
+    474:
+    - Tsanfleuron.TZ99_Transpirateur.5.2
+    411:
+    - Tsanfleuron.TZ99_Transpirateur.5.3
+    216:
+    - Tsanfleuron.TZ99_Transpirateur.5.4
+    1207:
+    - Tsanfleuron.TZ99_Transpirateur.5.5
+    316:
+    - Tsanfleuron.TZ99_Transpirateur.5.6
+    194:
+    - Tsanfleuron.TZ99_Transpirateur.5.7
+    1297:
+    - Tsanfleuron.TZ99_Transpirateur.5.8
+    684:
+    - Tsanfleuron.TZ99_Transpirateur.5.9
+    469:
+    - Tsanfleuron.TZ99_Transpirateur.6.2
+    19:
+    - Tsanfleuron.TZ99_Transpirateur.6.3
+    89:
+    - Tsanfleuron.TZ99_Transpirateur.6.4
+    1427:
+    - Tsanfleuron.TZ99_Transpirateur.6.5
+    400:
+    - Tsanfleuron.TZ99_Transpirateur.6.6
+    1070:
+    - Tsanfleuron.TZ99_Transpirateur.6.7
+    467:
+    - Tsanfleuron.TZ99_Transpirateur.6.8
+    852:
+    - Tsanfleuron.TZ99_Transpirateur.6.9
+    962:
+    - Tsanfleuron.TZ99_Transpirateur.6.10
+    1006:
+    - Tsanfleuron.TZ99_Transpirateur.6.11
+    883:
+    - Tsanfleuron.TZ99_Transpirateur.6.12
+    1285:
+    - Tsanfleuron.TZ99_Transpirateur.6.13
+    72:
+    - Tsanfleuron.TZ99_Transpirateur.6.14
+    988:
+    - Tsanfleuron.TZ99_Transpirateur.6.15
+    418:
+    - Tsanfleuron.TZ99_Transpirateur.6.16
+    1216:
+    - Tsanfleuron.TZ99_Transpirateur.6.17
+    1116:
+    - Tsanfleuron.TZ99_Transpirateur.6.18
+    931:
+    - Tsanfleuron.TZ99_Transpirateur.6.19
+    406:
+    - Tsanfleuron.TZ99_Transpirateur.6.20
+    1401:
+    - Tsanfleuron.TZ99_Transpirateur.6.21
+    420:
+    - Tsanfleuron.TZ99_Transpirateur.6.22
+    967:
+    - Tsanfleuron.TZ99_Transpirateur.6.23
+    566:
+    - Tsanfleuron.TZ99_Transpirateur.6.24
+    1273:
+    - Tsanfleuron.TZ99_Transpirateur.6.25
+    412:
+    - Tsanfleuron.TZ99_Transpirateur.6.26
+    169:
+    - Tsanfleuron.TZ99_Transpirateur.6.27
+    693:
+    - Tsanfleuron.TZ99_Transpirateur.6.28
+    527:
+    - Tsanfleuron.TZ99_Transpirateur.6.29
+    721:
+    - Tsanfleuron.TZ99_Transpirateur.6.30
+    841:
+    - Tsanfleuron.TZ99_Transpirateur.6.31
+    928:
+    - Tsanfleuron.TZ99_Transpirateur.6.32
+    876:
+    - Tsanfleuron.TZ99_Transpirateur.6.33
+    1372:
+    - Tsanfleuron.TZ99_Transpirateur.6.34
+    753:
+    - Tsanfleuron.TZ99_Transpirateur.6.35
+    - Tsanfleuron.TZ99_Transpirateur.7.0
+    1128:
+    - Tsanfleuron.TZ99_Transpirateur.6.36
+    553:
+    - Tsanfleuron.TZ99_Transpirateur.7.1
+    368:
+    - Tsanfleuron.TZ99_Transpirateur.6.37
+    706:
+    - Tsanfleuron.TZ99_Transpirateur.6.38
+    1009:
+    - Tsanfleuron.TZ99_Transpirateur.6.39
+    478:
+    - Tsanfleuron.TZ99_Transpirateur.6.40
+    1337:
+    - Tsanfleuron.TZ99_Transpirateur.6.41
+    1220:
+    - Tsanfleuron.TZ99_Transpirateur.6.42
+    443:
+    - Tsanfleuron.TZ99_Transpirateur.6.43
+    371:
+    - Tsanfleuron.TZ99_Transpirateur.6.44
+    23:
+    - Tsanfleuron.TZ99_Transpirateur.6.45
+    873:
+    - Tsanfleuron.TZ99_Transpirateur.6.46
+    759:
+    - Tsanfleuron.TZ99_Transpirateur.6.47
+    1415:
+    - Tsanfleuron.TZ99_Transpirateur.6.48
+    950:
+    - Tsanfleuron.TZ99_Transpirateur.6.49
+    267:
+    - Tsanfleuron.TZ99_Transpirateur.6.50
+    25:
+    - Tsanfleuron.TZ99_Transpirateur.6.51
+    703:
+    - Tsanfleuron.TZ99_Transpirateur.6.52
+    1182:
+    - Tsanfleuron.TZ99_Transpirateur.9.13
+    775:
+    - Tsanfleuron.TZ99_Transpirateur.7.2
+    283:
+    - Tsanfleuron.TZ99_Transpirateur.7.3
+    528:
+    - Tsanfleuron.TZ99_Transpirateur.7.4
+    141:
+    - Tsanfleuron.TZ99_Transpirateur.7.5
+    1330:
+    - Tsanfleuron.TZ99_Transpirateur.7.6
+    1121:
+    - Tsanfleuron.TZ99_Transpirateur.10.12
+    1455:
+    - Tsanfleuron.TZ99_Transpirateur.8.0
+    - Tsanfleuron.TZ99_Transpirateur.9.0
+    1277:
+    - Tsanfleuron.TZ99_Transpirateur.8.1
+    953:
+    - Tsanfleuron.TZ99_Transpirateur.9.1
+    396:
+    - Tsanfleuron.TZ99_Transpirateur.8.2
+    1272:
+    - Tsanfleuron.TZ99_Transpirateur.8.3
+    705:
+    - Tsanfleuron.TZ99_Transpirateur.8.4
+    482:
+    - Tsanfleuron.TZ99_Transpirateur.8.5
+    895:
+    - Tsanfleuron.TZ99_Transpirateur.8.6
+    888:
+    - Tsanfleuron.TZ99_Transpirateur.8.7
+    761:
+    - Tsanfleuron.TZ99_Transpirateur.8.8
+    1125:
+    - Tsanfleuron.TZ99_Transpirateur.8.9
+    117:
+    - Tsanfleuron.TZ99_Transpirateur.8.10
+    1054:
+    - Tsanfleuron.TZ99_Transpirateur.8.11
+    1365:
+    - Tsanfleuron.TZ99_Transpirateur.8.12
+    793:
+    - Tsanfleuron.TZ99_Transpirateur.9.2
+    18:
+    - Tsanfleuron.TZ99_Transpirateur.9.3
+    1402:
+    - Tsanfleuron.TZ99_Transpirateur.9.4
+    1278:
+    - Tsanfleuron.TZ99_Transpirateur.9.5
+    428:
+    - Tsanfleuron.TZ99_Transpirateur.9.6
+    646:
+    - Tsanfleuron.TZ99_Transpirateur.9.7
+    845:
+    - Tsanfleuron.TZ99_Transpirateur.9.8
+    743:
+    - Tsanfleuron.TZ99_Transpirateur.9.9
+    820:
+    - Tsanfleuron.TZ99_Transpirateur.9.10
+    850:
+    - Tsanfleuron.TZ99_Transpirateur.9.11
+    614:
+    - Tsanfleuron.TZ99_Transpirateur.9.12
+    447:
+    - Tsanfleuron.TZ99_Transpirateur.10.0
+    - Tsanfleuron.TZ99_Transpirateur.11.0
+    510:
+    - Tsanfleuron.TZ99_Transpirateur.10.1
+    611:
+    - Tsanfleuron.TZ99_Transpirateur.11.1
+    912:
+    - Tsanfleuron.TZ99_Transpirateur.10.2
+    1294:
+    - Tsanfleuron.TZ99_Transpirateur.10.3
+    674:
+    - Tsanfleuron.TZ99_Transpirateur.10.4
+    385:
+    - Tsanfleuron.TZ99_Transpirateur.10.5
+    1328:
+    - Tsanfleuron.TZ99_Transpirateur.10.6
+    1097:
+    - Tsanfleuron.TZ99_Transpirateur.10.7
+    1246:
+    - Tsanfleuron.TZ99_Transpirateur.10.8
+    200:
+    - Tsanfleuron.TZ99_Transpirateur.10.9
+    198:
+    - Tsanfleuron.TZ99_Transpirateur.10.10
+    300:
+    - Tsanfleuron.TZ99_Transpirateur.10.11

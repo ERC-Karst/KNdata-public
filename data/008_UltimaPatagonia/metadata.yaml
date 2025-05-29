@@ -19,22 +19,23 @@ original_encoding: UTF-8
 crs: epsg:32718
 crs_other: epsg:32718 (Patagonia)
 country: Chile
-state: .nan
-area: .nan
-locality: .nan
-grotto_id: .nan
+state: Región de Magallanes y de la Antártica Chilena
+area: Natales
+locality: Archipielago Madre de Dios
+grotto_id: 64835 (Condors) / 65033 (Détente) / 65042 (Lobos) / 65017 (Passoire) /
+  65016 (Ptit Creux) / 65011 (Comète
 country_cave_id: .nan
 local_id: .nan
-local_coordinate_system: .nan
+local_coordinate_system: Local ?
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
-altitude: .nan
+latitude: -50.2946
+longitude: -75.2895
+altitude: '141'
 length_official_meter: '39238'
 length_dataset: .nan
 denivelation: .nan
-cave_url: .nan
+cave_url: https://grottocenter.org/ui/entrances/64835
 supplemental_links: .nan
 contract_file: .nan
 data_reception_date: .nan

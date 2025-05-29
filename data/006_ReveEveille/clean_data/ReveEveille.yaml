@@ -201,708 +201,6 @@ edges:
 - - 55
   - 24
 node_attributes:
-  idsql:
-    66:
-    - 1
-    3:
-    - 3
-    74:
-    - 31
-    17:
-    - 57
-    11:
-    - 76
-    6:
-    - 113
-    7:
-    - 135
-    57:
-    - 155
-    - 930
-    2:
-    - 918
-    73:
-    - 172
-    - 931
-    48:
-    - 181
-    37:
-    - 932
-    68:
-    - 196
-    1:
-    - 209
-    22:
-    - 229
-    0:
-    - 244
-    43:
-    - 259
-    29:
-    - 276
-    32:
-    - 292
-    54:
-    - 307
-    47:
-    - 328
-    56:
-    - 347
-    8:
-    - 381
-    34:
-    - 394
-    42:
-    - 411
-    13:
-    - 428
-    28:
-    - 443
-    33:
-    - 458
-    21:
-    - 483
-    10:
-    - 498
-    41:
-    - 515
-    4:
-    - 537
-    70:
-    - 556
-    5:
-    - 571
-    67:
-    - 591
-    58:
-    - 622
-    50:
-    - 637
-    26:
-    - 648
-    9:
-    - 658
-    69:
-    - 683
-    23:
-    - 694
-    25:
-    - 716
-    38:
-    - 725
-    71:
-    - 734
-    53:
-    - 749
-    62:
-    - 761
-    39:
-    - 779
-    46:
-    - 786
-    65:
-    - 795
-    20:
-    - 808
-    59:
-    - 821
-    44:
-    - 856
-    49:
-    - 864
-    60:
-    - 878
-    72:
-    - 892
-    16:
-    - 907
-    31:
-    - 941
-    52:
-    - 951
-    27:
-    - 970
-    77:
-    - 986
-    30:
-    - 999
-    63:
-    - 1022
-    36:
-    - 1049
-    12:
-    - 1070
-    35:
-    - 1086
-    75:
-    - 1093
-    61:
-    - 1112
-    45:
-    - 1136
-    76:
-    - 1142
-    15:
-    - 1160
-    18:
-    - 1177
-    14:
-    - 1189
-    19:
-    - 1195
-    40:
-    - 1200
-    51:
-    - 1210
-    64:
-    - 1227
-    55:
-    - 1238
-    24:
-    - 1248
-  fulladdress:
-    66:
-    - ReveEveille.CPF.0
-    3:
-    - ReveEveille.CPF.1
-    74:
-    - ReveEveille.CPF.2
-    17:
-    - ReveEveille.CPF.3
-    11:
-    - ReveEveille.CPF.4
-    6:
-    - ReveEveille.CPF.5
-    7:
-    - ReveEveille.CPF.6
-    57:
-    - ReveEveille.CPF.7
-    - ReveEveille.cpff.48
-    2:
-    - ReveEveille.cpff.47
-    73:
-    - ReveEveille.cpff.0
-    - ReveEveille.Suite.0
-    48:
-    - ReveEveille.cpff.1
-    37:
-    - ReveEveille.Suite.1
-    68:
-    - ReveEveille.cpff.2
-    1:
-    - ReveEveille.cpff.3
-    22:
-    - ReveEveille.cpff.4
-    0:
-    - ReveEveille.cpff.5
-    43:
-    - ReveEveille.cpff.6
-    29:
-    - ReveEveille.cpff.7
-    32:
-    - ReveEveille.cpff.8
-    54:
-    - ReveEveille.cpff.9
-    47:
-    - ReveEveille.cpff.10
-    56:
-    - ReveEveille.cpff.11
-    8:
-    - ReveEveille.cpff.12
-    34:
-    - ReveEveille.cpff.13
-    42:
-    - ReveEveille.cpff.14
-    13:
-    - ReveEveille.cpff.15
-    28:
-    - ReveEveille.cpff.16
-    33:
-    - ReveEveille.cpff.17
-    21:
-    - ReveEveille.cpff.18
-    10:
-    - ReveEveille.cpff.19
-    41:
-    - ReveEveille.cpff.20
-    4:
-    - ReveEveille.cpff.21
-    70:
-    - ReveEveille.cpff.22
-    5:
-    - ReveEveille.cpff.23
-    67:
-    - ReveEveille.cpff.24
-    58:
-    - ReveEveille.cpff.25
-    50:
-    - ReveEveille.cpff.26
-    26:
-    - ReveEveille.cpff.27
-    9:
-    - ReveEveille.cpff.29
-    69:
-    - ReveEveille.cpff.30
-    23:
-    - ReveEveille.cpff.31
-    25:
-    - ReveEveille.cpff.32
-    38:
-    - ReveEveille.cpff.33
-    71:
-    - ReveEveille.cpff.34
-    53:
-    - ReveEveille.cpff.35
-    62:
-    - ReveEveille.cpff.36
-    39:
-    - ReveEveille.cpff.37
-    46:
-    - ReveEveille.cpff.38
-    65:
-    - ReveEveille.cpff.39
-    20:
-    - ReveEveille.cpff.40
-    59:
-    - ReveEveille.cpff.41
-    44:
-    - ReveEveille.cpff.42
-    49:
-    - ReveEveille.cpff.43
-    60:
-    - ReveEveille.cpff.44
-    72:
-    - ReveEveille.cpff.45
-    16:
-    - ReveEveille.cpff.46
-    31:
-    - ReveEveille.Suite.2
-    52:
-    - ReveEveille.Suite.3
-    27:
-    - ReveEveille.Suite.4
-    77:
-    - ReveEveille.Suite.5
-    30:
-    - ReveEveille.Suite.6
-    63:
-    - ReveEveille.Suite.7
-    36:
-    - ReveEveille.Suite.8
-    12:
-    - ReveEveille.Suite.9
-    35:
-    - ReveEveille.Suite.10
-    75:
-    - ReveEveille.Suite.11
-    61:
-    - ReveEveille.Suite.12
-    45:
-    - ReveEveille.Suite.13
-    76:
-    - ReveEveille.Suite.14
-    15:
-    - ReveEveille.Suite.15
-    18:
-    - ReveEveille.Suite.16
-    14:
-    - ReveEveille.Suite.17
-    19:
-    - ReveEveille.Suite.18
-    40:
-    - ReveEveille.Suite.19
-    51:
-    - ReveEveille.Suite.21
-    64:
-    - ReveEveille.Suite.22
-    55:
-    - ReveEveille.Suite.23
-    24:
-    - ReveEveille.Suite.24
-  csdim:
-    66:
-    - 0.03
-    - 0.17
-    3:
-    - 2.9
-    - 8.7
-    74:
-    - 5.23
-    - 6.44
-    17:
-    - 6.11
-    - 7.96
-    11:
-    - 7.31
-    - 11.49
-    6:
-    - 6.0
-    - 6.63
-    7:
-    - 6.48
-    - 7.58
-    57:
-    - 15.23
-    - 6.58
-    2:
-    - 3.93
-    - 2.05
-    73:
-    - 1.84
-    - 5.11
-    48:
-    - 1.39
-    - 6.54
-    37:
-    - 3.23
-    - 2.91
-    68:
-    - 7.09
-    - 1.88
-    1:
-    - 4.95
-    - 2.1
-    22:
-    - 7.7
-    - 3.12
-    0:
-    - 2.43
-    - 2.76
-    43:
-    - 3.63
-    - 1.48
-    29:
-    - 8.13
-    - 1.86
-    32:
-    - 2.86
-    - 1.55
-    54:
-    - 8.46
-    - 2.35
-    47:
-    - 6.4
-    - 2.72
-    56:
-    - 4.31
-    - 4.33
-    8:
-    - 2.96
-    - 2.76
-    34:
-    - 4.92
-    - 3.67
-    42:
-    - 4.47
-    - 3.08
-    13:
-    - 6.04
-    - 3.12
-    28:
-    - 3.39
-    - 3.56
-    33:
-    - 6.1
-    - 4.03
-    21:
-    - 4.07
-    - 2.85
-    10:
-    - 6.66
-    - 5.95
-    41:
-    - 6.08
-    - 4.52
-    4:
-    - 4.38
-    - 4.09
-    70:
-    - 4.71
-    - 6.4
-    5:
-    - 7.61
-    - 9.93
-    67:
-    - 6.07
-    - 6.41
-    58:
-    - 3.4
-    - 2.26
-    50:
-    - 1.96
-    - 8.41
-    26:
-    - 2.55
-    - 4.13
-    9:
-    - 6.89
-    - 8.02
-    69:
-    - 3.87
-    - 4.2
-    23:
-    - 3.86
-    - 4.05
-    25:
-    - 1.83
-    - 2.59
-    38:
-    - 2.59
-    - 5.4
-    71:
-    - 4.58
-    - 4.09
-    53:
-    - 3.28
-    - 3.38
-    62:
-    - 4.23
-    - 2.63
-    39:
-    - 1.43
-    - 2.6
-    46:
-    - 3.9
-    - 3.52
-    65:
-    - 6.06
-    - 1.18
-    20:
-    - 11.25
-    - 1.27
-    59:
-    - 4.25
-    - 2.39
-    44:
-    - 1.97
-    - 1.03
-    49:
-    - 1.72
-    - 1.2
-    60:
-    - 3.98
-    - 5.51
-    72:
-    - 3.69
-    - 3.76
-    16:
-    - 2.52
-    - 1.7
-    31:
-    - 5.07
-    - 0.66
-    52:
-    - 9.48
-    - 1.64
-    27:
-    - 7.03
-    - 1.02
-    77:
-    - 5.56
-    - 2.01
-    30:
-    - 10.22
-    - 10.48
-    63:
-    - 8.2
-    - 5.58
-    36:
-    - 7.37
-    - 5.22
-    12:
-    - 7.39
-    - 3.56
-    35:
-    - 2.67
-    - 1.35
-    75:
-    - 5.1
-    - 2.88
-    61:
-    - 7.28
-    - 4.77
-    45:
-    - 5.28
-    - 1.85
-    76:
-    - 4.55
-    - 22.61
-    15:
-    - 7.15
-    - 7.15
-    18:
-    - 12.04
-    - 2.95
-    14:
-    - 2.54
-    - 2.81
-    19:
-    - 0.91
-    - 1.12
-    40:
-    - 22.57
-    - 7.72
-    51:
-    - 13.17
-    - 4.4
-    64:
-    - 5.96
-    - 1.37
-    55:
-    - 6.18
-    - 2.0
-  flags:
-    66:
-    - ent
-    - fix
-    11:
-    - inl
-    73:
-    - str
-    48:
-    - str
-    37:
-    - str
-    68:
-    - str
-    1:
-    - str
-    22:
-    - inl
-    - str
-    0:
-    - str
-    43:
-    - str
-    29:
-    - str
-    32:
-    - str
-    54:
-    - str
-    47:
-    - str
-    56:
-    - str
-    8:
-    - str
-    34:
-    - str
-    42:
-    - str
-    13:
-    - str
-    28:
-    - str
-    33:
-    - str
-    21:
-    - str
-    10:
-    - str
-    41:
-    - str
-    4:
-    - str
-    70:
-    - str
-    5:
-    - con
-    - str
-    67:
-    - str
-    58:
-    - str
-    50:
-    - str
-    26:
-    - str
-    9:
-    - str
-    69:
-    - inl
-    - str
-    23:
-    - str
-    25:
-    - str
-    38:
-    - str
-    71:
-    - str
-    53:
-    - str
-    62:
-    - str
-    39:
-    - str
-    46:
-    - inl
-    - str
-    65:
-    - str
-    20:
-    - str
-    59:
-    - str
-    44:
-    - str
-    49:
-    - str
-    60:
-    - str
-    72:
-    - str
-    31:
-    - str
-    52:
-    - str
-    27:
-    - str
-    77:
-    - str
-    30:
-    - str
-    63:
-    - str
-    36:
-    - str
-    12:
-    - con
-    - str
-    35:
-    - str
-    75:
-    - str
-    61:
-    - str
-    45:
-    - str
-    76:
-    - wtf
-    15:
-    - str
-    18:
-    - oul
-    - str
-    14:
-    - str
-    19:
-    - str
-    40:
-    - str
-    51:
-    - str
-    64:
-    - str
-    55:
-    - str
-    24:
-    - smp
-    - str
-  comments:
-    66:
-    - Entree
   splays:
     66:
     - - 488605.88
@@ -4485,6 +3783,549 @@ node_attributes:
     - - 488545.54
       - 4454215.34
       - 20.97
+  idsql:
+    66:
+    - 1
+    3:
+    - 3
+    74:
+    - 31
+    17:
+    - 57
+    11:
+    - 76
+    6:
+    - 113
+    7:
+    - 135
+    57:
+    - 155
+    - 930
+    2:
+    - 918
+    73:
+    - 172
+    - 931
+    48:
+    - 181
+    37:
+    - 932
+    68:
+    - 196
+    1:
+    - 209
+    22:
+    - 229
+    0:
+    - 244
+    43:
+    - 259
+    29:
+    - 276
+    32:
+    - 292
+    54:
+    - 307
+    47:
+    - 328
+    56:
+    - 347
+    8:
+    - 381
+    34:
+    - 394
+    42:
+    - 411
+    13:
+    - 428
+    28:
+    - 443
+    33:
+    - 458
+    21:
+    - 483
+    10:
+    - 498
+    41:
+    - 515
+    4:
+    - 537
+    70:
+    - 556
+    5:
+    - 571
+    67:
+    - 591
+    58:
+    - 622
+    50:
+    - 637
+    26:
+    - 648
+    9:
+    - 658
+    69:
+    - 683
+    23:
+    - 694
+    25:
+    - 716
+    38:
+    - 725
+    71:
+    - 734
+    53:
+    - 749
+    62:
+    - 761
+    39:
+    - 779
+    46:
+    - 786
+    65:
+    - 795
+    20:
+    - 808
+    59:
+    - 821
+    44:
+    - 856
+    49:
+    - 864
+    60:
+    - 878
+    72:
+    - 892
+    16:
+    - 907
+    31:
+    - 941
+    52:
+    - 951
+    27:
+    - 970
+    77:
+    - 986
+    30:
+    - 999
+    63:
+    - 1022
+    36:
+    - 1049
+    12:
+    - 1070
+    35:
+    - 1086
+    75:
+    - 1093
+    61:
+    - 1112
+    45:
+    - 1136
+    76:
+    - 1142
+    15:
+    - 1160
+    18:
+    - 1177
+    14:
+    - 1189
+    19:
+    - 1195
+    40:
+    - 1200
+    51:
+    - 1210
+    64:
+    - 1227
+    55:
+    - 1238
+    24:
+    - 1248
+  csdim:
+    66:
+    - 0.03
+    - 0.17
+    3:
+    - 2.9
+    - 8.7
+    74:
+    - 5.23
+    - 6.44
+    17:
+    - 6.11
+    - 7.96
+    11:
+    - 7.31
+    - 11.49
+    6:
+    - 6.0
+    - 6.63
+    7:
+    - 6.48
+    - 7.58
+    57:
+    - 15.23
+    - 6.58
+    2:
+    - 3.93
+    - 2.05
+    73:
+    - 1.84
+    - 5.11
+    48:
+    - 1.39
+    - 6.54
+    37:
+    - 3.23
+    - 2.91
+    68:
+    - 7.09
+    - 1.88
+    1:
+    - 4.95
+    - 2.1
+    22:
+    - 7.7
+    - 3.12
+    0:
+    - 2.43
+    - 2.76
+    43:
+    - 3.63
+    - 1.48
+    29:
+    - 8.13
+    - 1.86
+    32:
+    - 2.86
+    - 1.55
+    54:
+    - 8.46
+    - 2.35
+    47:
+    - 6.4
+    - 2.72
+    56:
+    - 4.31
+    - 4.33
+    8:
+    - 2.96
+    - 2.76
+    34:
+    - 4.92
+    - 3.67
+    42:
+    - 4.47
+    - 3.08
+    13:
+    - 6.04
+    - 3.12
+    28:
+    - 3.39
+    - 3.56
+    33:
+    - 6.1
+    - 4.03
+    21:
+    - 4.07
+    - 2.85
+    10:
+    - 6.66
+    - 5.95
+    41:
+    - 6.08
+    - 4.52
+    4:
+    - 4.38
+    - 4.09
+    70:
+    - 4.71
+    - 6.4
+    5:
+    - 7.61
+    - 9.93
+    67:
+    - 6.07
+    - 6.41
+    58:
+    - 3.4
+    - 2.26
+    50:
+    - 1.96
+    - 8.41
+    26:
+    - 2.55
+    - 4.13
+    9:
+    - 6.89
+    - 8.02
+    69:
+    - 3.87
+    - 4.2
+    23:
+    - 3.86
+    - 4.05
+    25:
+    - 1.83
+    - 2.59
+    38:
+    - 2.59
+    - 5.4
+    71:
+    - 4.58
+    - 4.09
+    53:
+    - 3.28
+    - 3.38
+    62:
+    - 4.23
+    - 2.63
+    39:
+    - 1.43
+    - 2.6
+    46:
+    - 3.9
+    - 3.52
+    65:
+    - 6.06
+    - 1.18
+    20:
+    - 11.25
+    - 1.27
+    59:
+    - 4.25
+    - 2.39
+    44:
+    - 1.97
+    - 1.03
+    49:
+    - 1.72
+    - 1.2
+    60:
+    - 3.98
+    - 5.51
+    72:
+    - 3.69
+    - 3.76
+    16:
+    - 2.52
+    - 1.7
+    31:
+    - 5.07
+    - 0.66
+    52:
+    - 9.48
+    - 1.64
+    27:
+    - 7.03
+    - 1.02
+    77:
+    - 5.56
+    - 2.01
+    30:
+    - 10.22
+    - 10.48
+    63:
+    - 8.2
+    - 5.58
+    36:
+    - 7.37
+    - 5.22
+    12:
+    - 7.39
+    - 3.56
+    35:
+    - 2.67
+    - 1.35
+    75:
+    - 5.1
+    - 2.88
+    61:
+    - 7.28
+    - 4.77
+    45:
+    - 5.28
+    - 1.85
+    76:
+    - 4.55
+    - 22.61
+    15:
+    - 7.15
+    - 7.15
+    18:
+    - 12.04
+    - 2.95
+    14:
+    - 2.54
+    - 2.81
+    19:
+    - 0.91
+    - 1.12
+    40:
+    - 22.57
+    - 7.72
+    51:
+    - 13.17
+    - 4.4
+    64:
+    - 5.96
+    - 1.37
+    55:
+    - 6.18
+    - 2.0
+  comments:
+    66:
+    - Entree
+  flags:
+    66:
+    - ent
+    - fix
+    11:
+    - inl
+    73:
+    - str
+    48:
+    - str
+    37:
+    - str
+    68:
+    - str
+    1:
+    - str
+    22:
+    - inl
+    - str
+    0:
+    - str
+    43:
+    - str
+    29:
+    - str
+    32:
+    - str
+    54:
+    - str
+    47:
+    - str
+    56:
+    - str
+    8:
+    - str
+    34:
+    - str
+    42:
+    - str
+    13:
+    - str
+    28:
+    - str
+    33:
+    - str
+    21:
+    - str
+    10:
+    - str
+    41:
+    - str
+    4:
+    - str
+    70:
+    - str
+    5:
+    - con
+    - str
+    67:
+    - str
+    58:
+    - str
+    50:
+    - str
+    26:
+    - str
+    9:
+    - str
+    69:
+    - inl
+    - str
+    23:
+    - str
+    25:
+    - str
+    38:
+    - str
+    71:
+    - str
+    53:
+    - str
+    62:
+    - str
+    39:
+    - str
+    46:
+    - inl
+    - str
+    65:
+    - str
+    20:
+    - str
+    59:
+    - str
+    44:
+    - str
+    49:
+    - str
+    60:
+    - str
+    72:
+    - str
+    31:
+    - str
+    52:
+    - str
+    27:
+    - str
+    77:
+    - str
+    30:
+    - str
+    63:
+    - str
+    36:
+    - str
+    12:
+    - con
+    - str
+    35:
+    - str
+    75:
+    - str
+    61:
+    - str
+    45:
+    - str
+    76:
+    - wtf
+    15:
+    - str
+    18:
+    - oul
+    - str
+    14:
+    - str
+    19:
+    - str
+    40:
+    - str
+    51:
+    - str
+    64:
+    - str
+    55:
+    - str
+    24:
+    - smp
+    - str
   pos:
     66:
     - 488605.0
@@ -4798,3 +4639,162 @@ node_attributes:
     - 488539.47
     - 4454216.64
     - 20.5
+  fulladdress:
+    66:
+    - ReveEveille.CPF.0
+    3:
+    - ReveEveille.CPF.1
+    74:
+    - ReveEveille.CPF.2
+    17:
+    - ReveEveille.CPF.3
+    11:
+    - ReveEveille.CPF.4
+    6:
+    - ReveEveille.CPF.5
+    7:
+    - ReveEveille.CPF.6
+    57:
+    - ReveEveille.CPF.7
+    - ReveEveille.cpff.48
+    2:
+    - ReveEveille.cpff.47
+    73:
+    - ReveEveille.cpff.0
+    - ReveEveille.Suite.0
+    48:
+    - ReveEveille.cpff.1
+    37:
+    - ReveEveille.Suite.1
+    68:
+    - ReveEveille.cpff.2
+    1:
+    - ReveEveille.cpff.3
+    22:
+    - ReveEveille.cpff.4
+    0:
+    - ReveEveille.cpff.5
+    43:
+    - ReveEveille.cpff.6
+    29:
+    - ReveEveille.cpff.7
+    32:
+    - ReveEveille.cpff.8
+    54:
+    - ReveEveille.cpff.9
+    47:
+    - ReveEveille.cpff.10
+    56:
+    - ReveEveille.cpff.11
+    8:
+    - ReveEveille.cpff.12
+    34:
+    - ReveEveille.cpff.13
+    42:
+    - ReveEveille.cpff.14
+    13:
+    - ReveEveille.cpff.15
+    28:
+    - ReveEveille.cpff.16
+    33:
+    - ReveEveille.cpff.17
+    21:
+    - ReveEveille.cpff.18
+    10:
+    - ReveEveille.cpff.19
+    41:
+    - ReveEveille.cpff.20
+    4:
+    - ReveEveille.cpff.21
+    70:
+    - ReveEveille.cpff.22
+    5:
+    - ReveEveille.cpff.23
+    67:
+    - ReveEveille.cpff.24
+    58:
+    - ReveEveille.cpff.25
+    50:
+    - ReveEveille.cpff.26
+    26:
+    - ReveEveille.cpff.27
+    9:
+    - ReveEveille.cpff.29
+    69:
+    - ReveEveille.cpff.30
+    23:
+    - ReveEveille.cpff.31
+    25:
+    - ReveEveille.cpff.32
+    38:
+    - ReveEveille.cpff.33
+    71:
+    - ReveEveille.cpff.34
+    53:
+    - ReveEveille.cpff.35
+    62:
+    - ReveEveille.cpff.36
+    39:
+    - ReveEveille.cpff.37
+    46:
+    - ReveEveille.cpff.38
+    65:
+    - ReveEveille.cpff.39
+    20:
+    - ReveEveille.cpff.40
+    59:
+    - ReveEveille.cpff.41
+    44:
+    - ReveEveille.cpff.42
+    49:
+    - ReveEveille.cpff.43
+    60:
+    - ReveEveille.cpff.44
+    72:
+    - ReveEveille.cpff.45
+    16:
+    - ReveEveille.cpff.46
+    31:
+    - ReveEveille.Suite.2
+    52:
+    - ReveEveille.Suite.3
+    27:
+    - ReveEveille.Suite.4
+    77:
+    - ReveEveille.Suite.5
+    30:
+    - ReveEveille.Suite.6
+    63:
+    - ReveEveille.Suite.7
+    36:
+    - ReveEveille.Suite.8
+    12:
+    - ReveEveille.Suite.9
+    35:
+    - ReveEveille.Suite.10
+    75:
+    - ReveEveille.Suite.11
+    61:
+    - ReveEveille.Suite.12
+    45:
+    - ReveEveille.Suite.13
+    76:
+    - ReveEveille.Suite.14
+    15:
+    - ReveEveille.Suite.15
+    18:
+    - ReveEveille.Suite.16
+    14:
+    - ReveEveille.Suite.17
+    19:
+    - ReveEveille.Suite.18
+    40:
+    - ReveEveille.Suite.19
+    51:
+    - ReveEveille.Suite.21
+    64:
+    - ReveEveille.Suite.22
+    55:
+    - ReveEveille.Suite.23
+    24:
+    - ReveEveille.Suite.24

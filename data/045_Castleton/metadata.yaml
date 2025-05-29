@@ -34,8 +34,8 @@ altitude: .nan
 length_official_meter: .nan
 length_dataset: .nan
 denivelation: .nan
-cave_url: .nan
-supplemental_links: .nan
+cave_url: https://peakdistrictcaving.info/home/the-caves/castleton
+supplemental_links: https://peakdistrictcaving.info/home/the-caves/castleton/peak-cavern
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan

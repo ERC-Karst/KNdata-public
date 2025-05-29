@@ -1,6 +1,6 @@
 number: '010'
 short_name: PlaninaPoljana
-status: in github (cleaning in progress)
+status: clean
 type_of_correction: no correction
 type_dataset: Call for data
 original_format: Survex
@@ -19,22 +19,22 @@ original_encoding: .nan
 crs: epsg:3912
 crs_other: epsg:3912 (Slovenia)
 country: Slovenia
-state: .nan
-area: .nan
-locality: .nan
-grotto_id: .nan
-country_cave_id: .nan
+state: Radovljica
+area: Veliki Raskovec
+locality: Polje
+grotto_id: /
+country_cave_id: 13488 (Prašni dol) / 13465 (Mravlji dol) / 14664 (Dlvn) / 15323 (Koala)
 local_id: .nan
-local_coordinate_system: .nan
-local_easting_coordinate: .nan
-local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
-altitude: .nan
+local_coordinate_system: EPSG:3912
+local_easting_coordinate: 414021.0
+local_northing_coordinate: 123207.0
+latitude: 46.1451
+longitude: 13.5248
+altitude: '1256'
 length_official_meter: .nan
 length_dataset: .nan
 denivelation: .nan
-cave_url: .nan
+cave_url: https://www.katasterjam.si/caves/13488
 supplemental_links: .nan
 contract_file: .nan
 data_reception_date: .nan
@@ -54,9 +54,9 @@ statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
 last_processing_date: 05 May 2025
-percentage_csidm: 87
-number_connected_components: 102
-number_nodes: 5405
-number_edges: 5329
-number_cycles: 26
-total_length: 25513
+percentage_csidm: 89
+number_connected_components: 95
+number_nodes: 5284
+number_edges: 5241
+number_cycles: 52
+total_length: 26101

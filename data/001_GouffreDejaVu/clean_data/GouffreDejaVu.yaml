@@ -112,246 +112,6 @@ edges:
 - - 2
   - 23
 node_attributes:
-  idsql:
-    17:
-    - 1
-    27:
-    - 5
-    5:
-    - 8
-    24:
-    - 16
-    6:
-    - 29
-    8:
-    - 39
-    30:
-    - 52
-    1:
-    - 46
-    15:
-    - 57
-    25:
-    - 63
-    18:
-    - 70
-    29:
-    - 76
-    13:
-    - 83
-    28:
-    - 89
-    31:
-    - 96
-    32:
-    - 106
-    12:
-    - 111
-    10:
-    - 117
-    21:
-    - 124
-    4:
-    - 132
-    7:
-    - 142
-    20:
-    - 152
-    19:
-    - 159
-    11:
-    - 167
-    9:
-    - 174
-    16:
-    - 179
-    22:
-    - 193
-    14:
-    - 201
-    0:
-    - 208
-    3:
-    - 213
-    26:
-    - 220
-    2:
-    - 225
-    23:
-    - 235
-  fulladdress:
-    17:
-    - GouffreDejaVu.1
-    27:
-    - GouffreDejaVu.2
-    5:
-    - GouffreDejaVu.3
-    24:
-    - GouffreDejaVu.4
-    6:
-    - GouffreDejaVu.5
-    8:
-    - GouffreDejaVu.6
-    30:
-    - GouffreDejaVu.8
-    1:
-    - GouffreDejaVu.7
-    15:
-    - GouffreDejaVu.9
-    25:
-    - GouffreDejaVu.10
-    18:
-    - GouffreDejaVu.11
-    29:
-    - GouffreDejaVu.12
-    13:
-    - GouffreDejaVu.13
-    28:
-    - GouffreDejaVu.14
-    31:
-    - GouffreDejaVu.15
-    32:
-    - GouffreDejaVu.16
-    12:
-    - GouffreDejaVu.17
-    10:
-    - GouffreDejaVu.18
-    21:
-    - GouffreDejaVu.19
-    4:
-    - GouffreDejaVu.20
-    7:
-    - GouffreDejaVu.21
-    20:
-    - GouffreDejaVu.22
-    19:
-    - GouffreDejaVu.23
-    11:
-    - GouffreDejaVu.24
-    9:
-    - GouffreDejaVu.25
-    16:
-    - GouffreDejaVu.26
-    22:
-    - GouffreDejaVu.27
-    14:
-    - GouffreDejaVu.28
-    0:
-    - GouffreDejaVu.29
-    3:
-    - GouffreDejaVu.31
-    26:
-    - GouffreDejaVu.32
-    2:
-    - GouffreDejaVu.33
-    23:
-    - GouffreDejaVu.34
-  csdim:
-    17:
-    - 2.31
-    - 1.1
-    27:
-    - 2.27
-    - 2.4
-    5:
-    - 4.18
-    - 6.9
-    24:
-    - 10.25
-    - 6.38
-    6:
-    - 4.01
-    - 4.01
-    8:
-    - 2.9
-    - 2.5
-    30:
-    - 5.03
-    - 2.35
-    1:
-    - 5.53
-    - 1.15
-    15:
-    - 0.6
-    - 1.21
-    25:
-    - 3.55
-    - 0.82
-    18:
-    - 2.37
-    - 1.01
-    29:
-    - 1.11
-    - 0.98
-    13:
-    - 2.34
-    - 1.62
-    28:
-    - 2.25
-    - 0.97
-    31:
-    - 2.55
-    - 1.49
-    32:
-    - 3.13
-    - 1.15
-    12:
-    - 5.43
-    - 1.93
-    10:
-    - 1.75
-    - 1.33
-    21:
-    - 0.78
-    - 3.91
-    4:
-    - 1.73
-    - 4.16
-    7:
-    - 2.94
-    - 3.41
-    20:
-    - 2.37
-    - 2.21
-    19:
-    - 6.37
-    - 3.97
-    11:
-    - 1.08
-    - 1.18
-    9:
-    - 0.55
-    - 0.94
-    16:
-    - 3.68
-    - 7.45
-    22:
-    - 0.98
-    - 5.6
-    14:
-    - 0.84
-    - 2.3
-    0:
-    - 1.07
-    - 3.28
-    3:
-    - 0.78
-    - 2.82
-    26:
-    - 0.44
-    - 2.08
-    2:
-    - 8.87
-    - 6.12
-    23:
-    - 6.41
-    - 24.25
-  flags:
-    17:
-    - ent
-  comments:
-    17:
-    - Entree
   splays:
     17:
     - - 0.56
@@ -1034,6 +794,179 @@ node_attributes:
     - - -32.18
       - -54.53
       - -22.81
+  idsql:
+    17:
+    - 1
+    27:
+    - 5
+    5:
+    - 8
+    24:
+    - 16
+    6:
+    - 29
+    8:
+    - 39
+    30:
+    - 52
+    1:
+    - 46
+    15:
+    - 57
+    25:
+    - 63
+    18:
+    - 70
+    29:
+    - 76
+    13:
+    - 83
+    28:
+    - 89
+    31:
+    - 96
+    32:
+    - 106
+    12:
+    - 111
+    10:
+    - 117
+    21:
+    - 124
+    4:
+    - 132
+    7:
+    - 142
+    20:
+    - 152
+    19:
+    - 159
+    11:
+    - 167
+    9:
+    - 174
+    16:
+    - 179
+    22:
+    - 193
+    14:
+    - 201
+    0:
+    - 208
+    3:
+    - 213
+    26:
+    - 220
+    2:
+    - 225
+    23:
+    - 235
+  csdim:
+    17:
+    - 2.31
+    - 1.1
+    27:
+    - 2.27
+    - 2.4
+    5:
+    - 4.18
+    - 6.9
+    24:
+    - 10.25
+    - 6.38
+    6:
+    - 4.01
+    - 4.01
+    8:
+    - 2.9
+    - 2.5
+    30:
+    - 5.03
+    - 2.35
+    1:
+    - 5.53
+    - 1.15
+    15:
+    - 0.6
+    - 1.21
+    25:
+    - 3.55
+    - 0.82
+    18:
+    - 2.37
+    - 1.01
+    29:
+    - 1.11
+    - 0.98
+    13:
+    - 2.34
+    - 1.62
+    28:
+    - 2.25
+    - 0.97
+    31:
+    - 2.55
+    - 1.49
+    32:
+    - 3.13
+    - 1.15
+    12:
+    - 5.43
+    - 1.93
+    10:
+    - 1.75
+    - 1.33
+    21:
+    - 0.78
+    - 3.91
+    4:
+    - 1.73
+    - 4.16
+    7:
+    - 2.94
+    - 3.41
+    20:
+    - 2.37
+    - 2.21
+    19:
+    - 6.37
+    - 3.97
+    11:
+    - 1.08
+    - 1.18
+    9:
+    - 0.55
+    - 0.94
+    16:
+    - 3.68
+    - 7.45
+    22:
+    - 0.98
+    - 5.6
+    14:
+    - 0.84
+    - 2.3
+    0:
+    - 1.07
+    - 3.28
+    3:
+    - 0.78
+    - 2.82
+    26:
+    - 0.44
+    - 2.08
+    2:
+    - 8.87
+    - 6.12
+    23:
+    - 6.41
+    - 24.25
+  comments:
+    17:
+    - Entree
+  flags:
+    17:
+    - ent
   pos:
     17:
     - 0.0
@@ -1167,3 +1100,70 @@ node_attributes:
     - -33.41
     - -54.5
     - -23.05
+  fulladdress:
+    17:
+    - GouffreDejaVu.1
+    27:
+    - GouffreDejaVu.2
+    5:
+    - GouffreDejaVu.3
+    24:
+    - GouffreDejaVu.4
+    6:
+    - GouffreDejaVu.5
+    8:
+    - GouffreDejaVu.6
+    30:
+    - GouffreDejaVu.8
+    1:
+    - GouffreDejaVu.7
+    15:
+    - GouffreDejaVu.9
+    25:
+    - GouffreDejaVu.10
+    18:
+    - GouffreDejaVu.11
+    29:
+    - GouffreDejaVu.12
+    13:
+    - GouffreDejaVu.13
+    28:
+    - GouffreDejaVu.14
+    31:
+    - GouffreDejaVu.15
+    32:
+    - GouffreDejaVu.16
+    12:
+    - GouffreDejaVu.17
+    10:
+    - GouffreDejaVu.18
+    21:
+    - GouffreDejaVu.19
+    4:
+    - GouffreDejaVu.20
+    7:
+    - GouffreDejaVu.21
+    20:
+    - GouffreDejaVu.22
+    19:
+    - GouffreDejaVu.23
+    11:
+    - GouffreDejaVu.24
+    9:
+    - GouffreDejaVu.25
+    16:
+    - GouffreDejaVu.26
+    22:
+    - GouffreDejaVu.27
+    14:
+    - GouffreDejaVu.28
+    0:
+    - GouffreDejaVu.29
+    3:
+    - GouffreDejaVu.31
+    26:
+    - GouffreDejaVu.32
+    2:
+    - GouffreDejaVu.33
+    23:
+    - GouffreDejaVu.34

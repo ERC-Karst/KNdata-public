@@ -56,8 +56,8 @@ sample_figures: .nan
 comments_dataset: .nan
 last_processing_date: 05 May 2025
 percentage_csidm: 10
-number_connected_components: 4
-number_nodes: 6933
-number_edges: 6969
-number_cycles: 40
-total_length: 45231
+number_connected_components: 2
+number_nodes: 6925
+number_edges: 6965
+number_cycles: 42
+total_length: 45229

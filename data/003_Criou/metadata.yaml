@@ -20,22 +20,22 @@ original_encoding: .nan
 crs: epsg:27572
 crs_other: epsg:27572 (France)
 country: France
-state: .nan
-area: .nan
-locality: .nan
-grotto_id: .nan
+state: Auvergne-Rhône-Alpes
+area: Haute-Savoie
+locality: Samoëns
+grotto_id: '75501'
 country_cave_id: .nan
 local_id: .nan
-local_coordinate_system: .nan
+local_coordinate_system: Local
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
-altitude: .nan
-length_official_meter: .nan
+latitude: 46.0889
+longitude: 6.7705
+altitude: '1880'
+length_official_meter: '13000 (Mirolda) '
 length_dataset: .nan
-denivelation: .nan
-cave_url: .nan
+denivelation: 1733 (Mirolda)
+cave_url: https://grottocenter.org/ui/caves/75501
 supplemental_links: .nan
 contract_file: .nan
 data_reception_date: .nan
@@ -58,8 +58,8 @@ sample_figures: .nan
 comments_dataset: .nan
 last_processing_date: 05 May 2025
 percentage_csidm: 28
-number_connected_components: 27
-number_nodes: 5116
-number_edges: 5109
-number_cycles: 20
-total_length: 31915
+number_connected_components: 20
+number_nodes: 5085
+number_edges: 5090
+number_cycles: 25
+total_length: 33387
