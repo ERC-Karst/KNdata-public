@@ -1,0 +1,63 @@
+number: '033'
+short_name: WestKingsdale
+status: bug 2th
+type_of_correction: no correction
+type_dataset: Online
+original_format: Survex
+original_to_sql: .nan
+length_approx_meter: 13734.0
+connected_components: multiple caves
+license: To confirm
+id_dataset: CAVE-REGISTRY
+comments_cave_info: From cave registy. org - in NorthernEngland folder
+full_name: West Kingsdale
+other_names: .nan
+all_data_format: Survex
+geometry: .nan
+units: meter
+original_filename: .nan
+original_encoding: .nan
+crs: osgb:sd
+crs_other: OSGB:SD
+country: UK
+state: .nan
+area: .nan
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+length_official_meter: .nan
+length_dataset: .nan
+denivelation: .nan
+cave_url: .nan
+supplemental_links: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 05 May 2025
+percentage_csidm: 0
+number_connected_components: 22
+number_nodes: 4249
+number_edges: 4245
+number_cycles: 18
+total_length: 19342
