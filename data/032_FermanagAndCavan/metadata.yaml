@@ -1,6 +1,6 @@
 number: '032'
 short_name: FermanagAndCavan
-status: in progress
+status: in github (cleaning in progress)
 type_of_correction: no correction
 type_dataset: Online
 original_format: Survex
@@ -17,7 +17,9 @@ geometry: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: epsg:29903
+crs_clean_dataset: EPSG:32629
+crs_original_dataset: epsg:29903
+crs_check: .nan
 crs_other: .nan
 country: Ireland
 state: .nan
@@ -54,10 +56,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 83
 number_connected_components: 1
 number_nodes: 278
 number_edges: 280
 number_cycles: 3
-total_length: 1232
+total_length: 1231

@@ -1,6 +1,6 @@
 number: '031'
 short_name: DYO
-status: in progress
+status: in github (cleaning in progress)
 type_of_correction: no correction
 type_dataset: Online
 original_format: Survex
@@ -17,8 +17,9 @@ geometry: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: .nan
-crs_other: .nan
+crs: epsg:27700
+crs_check: .nan
+crs_other: ??
 country: UK
 state: .nan
 area: .nan
@@ -54,10 +55,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 0
 number_connected_components: 1
-number_nodes: 2273
-number_edges: 2285
+number_nodes: 2263
+number_edges: 2275
 number_cycles: 13
-total_length: 17659
+total_length: 17620
