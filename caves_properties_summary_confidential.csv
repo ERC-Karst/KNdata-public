@@ -1,0 +1,41 @@
+number;short_name;status;type_of_correction;last_processing_date;total_length;percentage_csidm;number_connected_components;number_nodes;number_edges;number_cycles;country;latitude;longitude;altitude;license;citation;thanks
+C001;Poteu;in github (cleaning in progress);no correction;05 May 2025;5517;92;1;853;862;10;Switzerland;;;;To confirm;Unknown yet;
+C002;FeesVD;in github (cleaning in progress);no correction;05 May 2025;36304;85;1;5441;5594;154;Switzerland;;;;To confirm;Unknown yet;
+C003;FeesVS;in github (cleaning in progress);no correction;05 May 2025;3515;91;1;558;560;3;Switzerland;;;;To confirm;Unknown yet;
+C004;GrandCor;in github (cleaning in progress);no correction;05 May 2025;4697;91;4;892;890;2;Switzerland;;;;To confirm;Unknown yet;
+C005;Bouillon;in github (cleaning in progress);no correction;05 May 2025;3781;0;1;723;722;0;Switzerland;;;;To confirm;Unknown yet;
+C006;DiableRouge;in github (cleaning in progress);no correction;05 May 2025;493;50;1;83;82;0;France;;;;unclear. may not be sharable;Unknown yet;
+C007;Escargots;clean;no correction;05 May 2025;682;82;2;156;158;4;France;42.9611;0.3999;810;unclear. may not be sharable;Unknown yet;
+C008;Artigaleou;clean;no correction;05 May 2025;1180;92;1;228;233;6;France;;;;unclear. may not be sharable;Unknown yet;
+C009;Espelugues;clean;no correction;05 May 2025;237;89;1;38;38;1;France;43.0959;-0.0607;420;unclear. may not be sharable;Unknown yet;
+C010;Sarrazins;in github (cleaning in progress);no correction;05 May 2025;687;94;2;150;149;1;France;;;;unclear. may not be sharable;Unknown yet;
+C012;Labastide;clean;no correction;05 May 2025;1507;94;1;197;200;4;France;;;;unclear. may not be sharable;Unknown yet;
+C013;Monachou;clean;no correction;05 May 2025;673;78;1;261;269;9;France;42.9286;0.3673;700;unclear. may not be sharable;Unknown yet;
+C014;Bedat;clean;no correction;05 May 2025;4025;67;1;480;488;9;France;;;;unclear. may not be sharable;Unknown yet;
+C015;Cardal;clean;no correction;05 May 2025;884;82;1;174;181;8;France;42.735;0.0998;2130;unclear. may not be sharable;Unknown yet;
+C016;Loup;clean;no correction;05 May 2025;560;92;2;140;138;0;France;43.0961;-0.0678;400;unclear. may not be sharable;Unknown yet;
+C017;PicDuJer;in github (cleaning in progress);no correction;05 May 2025;2630;46;1;294;310;17;France;;;;unclear but probabl not sharable;;
+C018;Tunnel;clean;no correction;05 May 2025;920;92;1;251;255;5;France;;;;unclear. may not be sharable;Unknown yet;
+C021;Carbonniere;clean;no correction;05 May 2025;2665;80;1;427;434;8;France;;;;unclear. may not be sharable;Unknown yet;
+C022;RoyReineFou;in github (cleaning in progress);no correction;05 May 2025;5602;75;3;1303;1308;8;France;;;;unclear. may not be sharable;Unknown yet;
+C024;TuteMurguette;in github (cleaning in progress);no correction;05 May 2025;550;96;1;127;126;0;France;;;;unclear. may not be sharable;Unknown yet;
+C028;OxBelHa;in github (cleaning in progress);semi-automatic correction;06 Jun 2025;370057;0;1;33083;34016;934;Mexico;;;;Confidential - results only can be published;"QRSS (Quintana Roo Speleological Survey), GEO (Grupo de Exploración Ox Bel Ha), MCEP (Mexico Cave Exploration Project), & CINDAQ (El Centro Investigador del Sistema Acuífero de Quintana Roo). (2024). Ox Bel Ha cave survey data (Version 1998 - 2024) [Private dataset; Compass ESRI Shapefiles]. provided by James G. Coke.
+";Thanks to Jim Coke for sharing the data with us and for spending so much time preparing and explaining the data to us.Thanks also to all the cavers/divers who explored and mapped the cave system over the years (list in appendix).
+C029;Longirod;in github (cleaning in progress);no correction;05 May 2025;5151;90;1;642;644;3;Switzerland;;;;To confirm;Unknown yet;
+C031;Baerwies;in github (cleaning in progress);no correction;05 May 2025;6976;0;37;1119;1099;17;Austria;;;;To confirm;Unknown yet;
+C032;DachsteinMammutHoehle;in github (cleaning in progress);no correction;05 May 2025;66761;0;353;11352;11156;157;Austria;;;;To confirm;Unknown yet;
+C033;Hirschgruben;in github (cleaning in progress);no correction;05 May 2025;5566;0;55;1208;1164;11;Austria;;;;To confirm;Unknown yet;
+C034;Steinbockschacht;in github (cleaning in progress);no correction;05 May 2025;2775;0;6;401;402;7;Austria;;;;To confirm;Unknown yet;
+C037;Vallorbe;in github (cleaning in progress);no correction;05 May 2025;6983;76;3;890;911;24;Switzerland;;;;To confirm;Unknown yet;
+C038;Covatannaz;in github (cleaning in progress);no correction;05 May 2025;5159;92;2;769;772;5;Switzerland;;;;To confirm;Unknown yet;
+C039;BlueSpringIndiana;in github (cleaning in progress);no correction;05 May 2025;33488;0;1;2838;2849;12;USA;;;;unclear. may not be sharable;Unknown yet;
+C040;BlueSpringTennessee;in github (cleaning in progress);no correction;05 May 2025;50780;0;1;3830;3897;68;USA;;;;unclear. may not be sharable;Unknown yet;
+C045;Ceberi;clean;no correction;05 May 2025;7175;93;4;882;887;9;France;;;;unclear. may not be sharable;Unknown yet;
+C048;Ratasse;bug compiling therion;no correction;05 May 2025;3598;97;1;693;694;2;France;;;;unclear. may not be sharable;Unknown yet;
+C053;Carlsbad;in github (cleaning in progress);no correction;05 May 2025;253069;74;1;10575;11580;1006;USA;;;;Confidential - results only can be published;Unknown yet;
+C058;Jewel;in github (cleaning in progress);no correction;05 May 2025;271345;68;1;30922;30921;0;USA;;;;Confidential - results only can be published;Unknown yet;
+C063;Wind;in github (cleaning in progress);no correction;05 May 2025;271709;77;1;51266;54121;2856;USA;;;;Confidential - results only can be published;Unknown yet;
+C064;Lechugilla;in github (cleaning in progress);no correction;05 May 2025;262995;79;12;40198;43577;3391;USA;;;;Confidential - results only can be published;Unknown yet;
+C068;CuevaGuerta;in github (cleaning in progress);no correction;05 May 2025;23806;89;19;3310;3382;91;Spain;;;;TBD;TBD;TBD
+C069;HohlaubA1A3;to process;no correction;05 May 2025;1681;89;1;277;279;3;Switzerland;;;;To confirm;Groupe Spéléo Porrentruy (GSP), 2024, Holaub G3 & A3 & A1, archives internes, état fin 2024.;Thanks to Florian Hof for spending the time preparing and sharing the data with us. Thanks to all the cavers who explored, surveyed, and mapped the cave and without whom this analysis would not have been possible.
+C070;HohlaubG3;to process;no correction;05 May 2025;1400;89;1;272;272;1;Switzerland;;;;To confirm;Groupe Spéléo Porrentruy (GSP), 2024, Holaub G3 & A3 & A1, archives internes, état fin 2024.;Thanks to Florian Hof for spending the time preparing and sharing the data with us. Thanks to all the cavers who explored, surveyed, and mapped the cave and without whom this analysis would not have been possible.
