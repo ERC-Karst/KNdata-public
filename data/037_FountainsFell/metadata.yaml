@@ -1,10 +1,10 @@
 number: '037'
 short_name: FountainsFell
-status: in progress
+status: in github (cleaning in progress)
 type_of_correction: no correction
 type_dataset: Online
 original_format: Survex
-original_to_sql: .nan
+original_to_sql: svx --> .3d --> therion --> sql
 length_approx_meter: 8052.0
 connected_components: multiple caves
 license: To confirm
@@ -17,7 +17,9 @@ geometry: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: .nan
+crs_clean_dataset: EPSG:32630
+crs_original_dataset: OSGB:SD
+crs_check: verified from svx file and on qgis
 crs_other: .nan
 country: UK
 state: .nan
@@ -54,7 +56,7 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 0
 number_connected_components: 18
 number_nodes: 5349

@@ -1,22 +1,25 @@
 number: '011'
 short_name: BreznoNaToscu
 status: clean
-type_of_correction: no correction
+type_of_correction: manual correction
 type_dataset: Call for data
 original_format: Survex
-original - sql: .nan
+original_to_sql: svx --> .3d --> therion --> sql
 length_approx_meter: 1870.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: SB
 comments_cave_info: .nan
 full_name: Brezno na Toscu
+other_names: .nan
 all_data_format: Survex
 geometry: splays
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: epsg:3912
+crs_clean_dataset: .nan
+crs_original_dataset: epsg:3912
+crs_check: .nan
 crs_other: epsg:3912 (Slovenia)
 country: Slovenia
 state: Radovljica
@@ -53,7 +56,7 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 90
 number_connected_components: 1
 number_nodes: 361

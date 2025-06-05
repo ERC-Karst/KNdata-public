@@ -4,7 +4,7 @@ status: in github (cleaning in progress)
 type_of_correction: no correction
 type_dataset: Online
 original_format: Survex
-original_to_sql: .nan
+original_to_sql: svx --> .3d --> therion --> sql
 length_approx_meter: 1232.0
 connected_components: single cave
 license: To confirm
@@ -19,7 +19,7 @@ original_filename: .nan
 original_encoding: .nan
 crs_clean_dataset: EPSG:32629
 crs_original_dataset: epsg:29903
-crs_check: .nan
+crs_check: verified from svx file and on qgis
 crs_other: .nan
 country: Ireland
 state: .nan

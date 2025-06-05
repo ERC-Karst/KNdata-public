@@ -1,10 +1,10 @@
 number: '042'
 short_name: DowProv
-status: in progress
+status: in github (cleaning in progress)
 type_of_correction: no correction
 type_dataset: Online
 original_format: Survex
-original_to_sql: .nan
+original_to_sql: svx --> .3d --> therion --> sql
 length_approx_meter: 2597.0
 connected_components: single cave
 license: To confirm
@@ -17,9 +17,10 @@ geometry: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: .nan
-crs_check: could not find info
-crs_other: ??
+crs_clean_dataset: EPSG:32630
+crs_original_dataset: OSGB:SD
+crs_check: verified from svx file and on qgis
+crs_other: .nan
 country: UK
 state: .nan
 area: .nan
@@ -30,8 +31,8 @@ local_id: .nan
 local_coordinate_system: .nan
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
+latitude: 54.1645
+longitude: -2.027533
 altitude: .nan
 length_official_meter: .nan
 length_dataset: .nan

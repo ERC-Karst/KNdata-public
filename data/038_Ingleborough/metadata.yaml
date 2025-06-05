@@ -1,10 +1,10 @@
 number: 038
 short_name: Ingleborough
-status: in progress
+status: in github (cleaning in progress)
 type_of_correction: no correction
 type_dataset: Online
 original_format: Survex
-original_to_sql: .nan
+original_to_sql: svx --> .3d --> therion --> sql
 length_approx_meter: 8125.0
 connected_components: multiple caves
 license: To confirm
@@ -17,7 +17,9 @@ geometry: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: epsg:27700
+crs_clean_dataset: EPSG:32630
+crs_original_dataset: epsg:27700
+crs_check: verified from svx file and on qgis
 crs_other: .nan
 country: UK
 state: .nan

@@ -1,10 +1,10 @@
 number: '014'
 short_name: CheddarCatchment
-status: in github (cleaning in progress)
-type_of_correction: no correction
+status: clean
+type_of_correction: manual correction
 type_dataset: Call for data
 original_format: Therion
-original - sql: .nan
+original_to_sql: therion --> .3d --> therion --> sql
 length_approx_meter: 27340.0
 connected_components: multiple caves
 license: CC BY-NC-SA 4.0
@@ -16,12 +16,15 @@ comments_cave_info: "Contact UBSS??, coordinate system originall in osgb:ST. tra
   \ had to remove space and put . instead\n- there is some lrud in the datasets. should\
   \ export them when code to do it is ready"
 full_name: Cheddar Catchment
+other_names: .nan
 all_data_format: Therion, Survex, .3d
 geometry: lrud/splays
 units: meter
 original_filename: CheddarCatchment.th
 original_encoding: UTF-8
-crs: epsg:27700
+crs_clean_dataset: EPSG:32630
+crs_original_dataset: osgb:sd
+crs_check: .nan
 crs_other: epsg:27700 (England)
 country: UK
 state: England
@@ -58,10 +61,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 49
-number_connected_components: 62
+number_connected_components: 54
 number_nodes: 6649
-number_edges: 6677
-number_cycles: 90
-total_length: 27361
+number_edges: 6687
+number_cycles: 92
+total_length: 27418

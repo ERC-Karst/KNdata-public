@@ -1,10 +1,10 @@
 number: '043'
 short_name: HaggBeck
-status: in progress
+status: in github (cleaning in progress)
 type_of_correction: no correction
 type_dataset: Online
 original_format: Survex
-original_to_sql: .nan
+original_to_sql: svx --> .3d --> therion --> sql
 length_approx_meter: 3300.0
 connected_components: multiple caves
 license: To confirm
@@ -17,7 +17,8 @@ geometry: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: .nan
+crs_clean_dataset: .nan
+crs_original_dataset: .nan
 crs_check: .nan
 crs_other: .nan
 country: UK

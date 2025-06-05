@@ -1,10 +1,10 @@
 number: '035'
 short_name: EastKingsdale
-status: in progress
+status: in github (cleaning in progress)
 type_of_correction: no correction
 type_dataset: Online
 original_format: Survex
-original_to_sql: .nan
+original_to_sql: svx --> .3d --> therion --> sql
 length_approx_meter: 27000.0
 connected_components: multiple caves
 license: To confirm
@@ -17,7 +17,9 @@ geometry: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: .nan
+crs_clean_dataset: EPSG:32630
+crs_original_dataset: OSGB:SD
+crs_check: based on EastKingsdale and verified on qgis
 crs_other: .nan
 country: UK
 state: .nan
@@ -54,10 +56,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 0
 number_connected_components: 2
 number_nodes: 231
 number_edges: 229
 number_cycles: 0
-total_length: 1033
+total_length: 1035

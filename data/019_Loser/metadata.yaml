@@ -1,0 +1,65 @@
+number: 019
+short_name: Loser
+status: in github (cleaning in progress)
+type_of_correction: no correction
+type_dataset: Call for data 2
+original_format: Survex
+original_to_sql: svx --> .3d --> therion -->sql (used the svx in the kataster folder)
+length_approx_meter: 353425.0
+connected_components: multiple caves
+license: To confirm
+id_dataset: Julian Todd
+comments_cave_info: .nan
+full_name: Loser Plateau
+other_names: .nan
+all_data_format: .3d, Survex
+geometry: .nan
+units: meter
+original_filename: .nan
+original_encoding: .nan
+crs_clean_dataset: EPSG:32633
+crs_original_dataset: EPSG:32633
+crs_check: verified from svx file and on qgis
+crs_other: .nan
+country: Austria
+state: .nan
+area: .nan
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+length_official_meter: .nan
+length_dataset: .nan
+denivelation: .nan
+cave_url: .nan
+supplemental_links: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 06 Jun 2025
+percentage_csidm: 4
+number_connected_components: 438
+number_nodes: 55555
+number_edges: 56633
+number_cycles: 1516
+total_length: 365165
