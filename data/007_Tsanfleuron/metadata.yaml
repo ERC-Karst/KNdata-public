@@ -1,22 +1,25 @@
 number: '007'
 short_name: Tsanfleuron
 status: clean
-type_of_correction: no correction
+type_of_correction: manual correction
 type_dataset: Call for data
 original_format: Visual Topo
-original - sql: .nan
+original_to_sql: .nan
 length_approx_meter: 1519.0
 connected_components: multiple caves
 license: CC BY-NC-SA 4.0
 id_dataset: LS
 comments_cave_info: Tenir Louis au courant du travail de Ana
 full_name: Lapiaz Tsanfleuron
+other_names: .nan
 all_data_format: Visual Topo
 geometry: lrud
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: epsg:21781
+crs_original_dataset: epsg:21781
+crs_clean_dataset: .nan
+crs_check: .nan
 crs_other: epsg:21781 (CH 1903 LV03 - Old)
 country: Switzerland
 state: Valais/Wallis
@@ -59,8 +62,8 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
-percentage_csidm: 0
+last_processing_date: 06 Jun 2025
+percentage_csidm: 99
 number_connected_components: 29
 number_nodes: 1457
 number_edges: 1436
