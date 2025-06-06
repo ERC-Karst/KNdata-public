@@ -1,0 +1,65 @@
+number: '020'
+short_name: Vanoise
+status: .nan
+type_of_correction: .nan
+type_dataset: .nan
+original_format: therion
+original_to_sql: therion --> 3d --> therion --> 3d
+length_approx_meter: .nan
+connected_components: .nan
+license: CC BY-NC-SA 4.0
+id_dataset: .nan
+comments_cave_info: .nan
+full_name: Gouffres de la Vanoise
+other_names: .nan
+all_data_format: Therion
+geometry: splays
+units: meter
+original_filename: .nan
+original_encoding: .nan
+crs_original_dataset: epsg:32632
+crs_clean_dataset: epsg:32632
+crs_check: .nan
+crs_other: .nan
+country: France
+state: .nan
+area: Massif de la Vanoise
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+length_official_meter: .nan
+length_dataset: .nan
+denivelation: .nan
+cave_url: .nan
+supplemental_links: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: .nan
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 06 Jun 2025
+percentage_csidm: 83
+number_connected_components: 11
+number_nodes: 608
+number_edges: 603
+number_cycles: 6
+total_length: 2551
