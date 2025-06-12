@@ -2,6 +2,13 @@
 
 This dataset regroups karst networks graph data.
 
+All the datasets are under the CC-BY-NC-SA licence. By using those cave datasets, you are acknowledging that:
+1. you will always cite and/or thank the cave data owners (information availabe in each data folder (readme))
+2. if you share the data, you need to share it under the same conditions, with the appropriate acknoledgement information
+3. the data cannot be used for commercial purpose
+
+
+
 We processed and cleaned cave survey data collected by cavers around the world. Cave survey were provided in a variety of format, which we trsnformed to Therion project, and then compiled the Therion project into SQL database. From this SQL database, we regroupe the identical stations, and rename the node ids. We then remove the duplicates and surface points, and add or remove links manually by visual inspection in 3D. When available we collecte conduit cross-sectional geometry (splays or left-right-up-down), or other flags.
 
 <!-- The final result is a graph dataset, with a list of edges and nodes attributes. We describe bellow the list of files that can be found for each cave. Not all the files may be present. -->
