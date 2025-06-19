@@ -1,40 +1,44 @@
 number: '047'
 short_name: Seefeldhoele
-status: in github (cleaning in progress)
-type_of_correction: no correction
-type_dataset: Call for data
+status: clean
+type_of_correction: manual correction
 original_format: Toporobot
-original - sql: .nan
+type_dataset: Call for data
+original_to_sql: TEXT --> tr2th --> therion -->  sql
 length_approx_meter: 2200.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: HOF
 comments_cave_info: .nan
 full_name: Seefeldhoele
+other_names: .nan
 all_data_format: Toporobot
 geometry: lrud
+verify_geometry_export: .nan
 units: meter
-original_filename: G06H01_18.Text
+original_filename: G06H01_18corr.Text
 original_encoding: UTF-8
-crs: epsg:21781
+crs_original_dataset: epsg:21781
+crs_clean_dataset: .nan
+crs_check: .nan
 crs_other: epsg:21781 (CH 1903 LV03 - Old)
 country: Switzerland
-state: .nan
-area: .nan
-locality: .nan
-grotto_id: .nan
+state: Berne
+area: Oberland bernois
+locality: Beatenberg
+grotto_id: /
 country_cave_id: .nan
 local_id: .nan
-local_coordinate_system: .nan
-local_easting_coordinate: .nan
-local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
-altitude: .nan
+local_coordinate_system: CH1903/LV03
+local_easting_coordinate: '630202.3'
+local_northing_coordinate: '178538.1'
+latitude: 46.7573
+longitude: 7.8339
+altitude: '1792'
 length_official_meter: .nan
 length_dataset: .nan
 denivelation: .nan
-cave_url: .nan
+cave_url: https://www.showcaves.com/english/ch/caves/Seefeld.html
 supplemental_links: .nan
 contract_file: .nan
 data_reception_date: .nan
@@ -53,10 +57,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 61
-number_connected_components: 2
+number_connected_components: 1
 number_nodes: 748
-number_edges: 883
-number_cycles: 137
-total_length: 2204
+number_edges: 899
+number_cycles: 152
+total_length: 2240

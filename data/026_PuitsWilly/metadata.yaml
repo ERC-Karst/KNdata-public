@@ -2,21 +2,25 @@ number: '026'
 short_name: PuitsWilly
 status: clean
 type_of_correction: no correction
-type_dataset: Call for data
 original_format: Toporobot
-original - sql: .nan
+type_dataset: Call for data
+original_to_sql: TEXT --> tr2th --> therion -->  sql
 length_approx_meter: 110.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: LS
 comments_cave_info: .nan
 full_name: Puits Willy
+other_names: .nan
 all_data_format: Toporobot, Visual Topo
 geometry: lrud
+verify_geometry_export: .nan
 units: meter
-original_filename: Puits Willy_01.Text
+original_filename: Puits_Willy_01_utf8.Text
 original_encoding: Mac Roman
-crs: epsg:32616
+crs_original_dataset: epsg:32616
+crs_clean_dataset: .nan
+crs_check: .nan
 crs_other: epsg:21781 (CH 1903 LV03 - Old), ?
 country: Switzerland
 state: Jura
@@ -26,8 +30,8 @@ grotto_id: '37251'
 country_cave_id: .nan
 local_id: .nan
 local_coordinate_system: CH1903/LV03
-local_easting_coordinate: 578280.0
-local_northing_coordinate: 236270.0
+local_easting_coordinate: '578280'
+local_northing_coordinate: '236270'
 latitude: 47.2773
 longitude: 7.1534
 altitude: '975'
@@ -53,7 +57,7 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 90
 number_connected_components: 1
 number_nodes: 33

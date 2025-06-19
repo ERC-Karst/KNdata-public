@@ -2,23 +2,28 @@ number: '017'
 short_name: LittleNeathRiver
 status: in github (cleaning in progress)
 type_of_correction: no correction
-type_dataset: Online
 original_format: Survex
-original - sql: .nan
+type_dataset: Online
+original_to_sql: svx --> .3d --> therion --> sql
 length_approx_meter: 8548.0
 connected_components: multiple caves
 license: CC BY-NC-SA 4.0
-id_dataset: UBSS, CAVE-REGISTRY
+id_dataset: UBSS/CAVE-REGISTRY
+todo: .nan
 comments_cave_info: coordinate system originall in osgb:SN. traduit en epsg:27700
   avec therion
 full_name: The Little Neath River Cave
+other_names: .nan
 all_data_format: .3d
 geometry: splays
+verify_geometry_export: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: epsg:27700
-crs_other: epsg:27700 (England)
+crs_original_dataset: OSGB:SN
+crs_clean_dataset: EPSG:32630
+crs_check: verified on qgis
+crs_other: .nan
 country: UK
 state: .nan
 area: .nan
@@ -54,10 +59,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 0
 number_connected_components: 6
 number_nodes: 907
 number_edges: 913
 number_cycles: 12
-total_length: 8548
+total_length: 8547

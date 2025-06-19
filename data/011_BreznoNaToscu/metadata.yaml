@@ -2,8 +2,8 @@ number: '011'
 short_name: BreznoNaToscu
 status: clean
 type_of_correction: manual correction
-type_dataset: Call for data
 original_format: Survex
+type_dataset: Call for data
 original_to_sql: svx --> .3d --> therion --> sql
 length_approx_meter: 1870.0
 connected_components: single cave
@@ -14,11 +14,12 @@ full_name: Brezno na Toscu
 other_names: .nan
 all_data_format: Survex
 geometry: splays
+verify_geometry_export: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs_clean_dataset: .nan
 crs_original_dataset: epsg:3912
+crs_clean_dataset: .nan
 crs_check: .nan
 crs_other: epsg:3912 (Slovenia)
 country: Slovenia

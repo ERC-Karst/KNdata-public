@@ -1,10 +1,10 @@
 number: '003'
 short_name: Criou
-status: in github (cleaning in progress)
-type_of_correction: no correction
-type_dataset: Online
+status: clean
+type_of_correction: manual correction
 original_format: Therion
-original - sql: .nan
+type_dataset: Online
+original_to_sql: therion --> 3d --> therion --> 3d
 length_approx_meter: 31915.0
 connected_components: multiple caves
 license: CC BY-NC-SA 4.0
@@ -12,12 +12,16 @@ id_dataset: GH2
 comments_cave_info: This system contains multiple connected components, because it
   is composed of different caves
 full_name: Folly
+other_names: .nan
 all_data_format: Therion
 geometry: splays
+verify_geometry_export: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: epsg:27572
+crs_original_dataset: epsg:2154
+crs_clean_dataset: epsg:25832
+crs_check: verified on qgis
 crs_other: epsg:27572 (France)
 country: France
 state: Auvergne-Rhône-Alpes
@@ -26,7 +30,7 @@ locality: Samoëns
 grotto_id: '75501'
 country_cave_id: .nan
 local_id: .nan
-local_coordinate_system: Local
+local_coordinate_system: epsg:25832
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
 latitude: 46.0889
@@ -56,10 +60,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 28
-number_connected_components: 20
+number_connected_components: 19
 number_nodes: 5085
-number_edges: 5090
-number_cycles: 25
-total_length: 33387
+number_edges: 5092
+number_cycles: 26
+total_length: 33425

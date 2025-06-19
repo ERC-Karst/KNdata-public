@@ -2,22 +2,27 @@ number: '045'
 short_name: Castleton
 status: in github (cleaning in progress)
 type_of_correction: no correction
+original_format: Therion
 type_dataset: Online
-original_format: Survex
-original - sql: .nan
+original_to_sql: .nan
 length_approx_meter: 26219.0
 connected_components: multiple caves
 license: To confirm
 id_dataset: CAVE-REGISTRY
+todo: .nan
 comments_cave_info: from Peak District
 full_name: Castleton
+other_names: .nan
 all_data_format: Survex
 geometry: lrud/splays
+verify_geometry_export: lrud present in project and not exported
 units: meter
 original_filename: castleton_model.thconfig
 original_encoding: .nan
-crs: epsg:27700
-crs_other: epsg:27700 (England)
+crs_original_dataset: OBSG:SK
+crs_clean_dataset: epsg:32630
+crs_check: not sure this is correct
+crs_other: .nan
 country: UK
 state: .nan
 area: .nan
@@ -53,10 +58,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 45
 number_connected_components: 42
-number_nodes: 6077
-number_edges: 6073
+number_nodes: 6076
+number_edges: 6072
 number_cycles: 38
-total_length: 26219
+total_length: 26216

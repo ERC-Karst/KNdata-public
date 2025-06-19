@@ -1,22 +1,27 @@
 number: 018
 short_name: Lathkill
-status: in github (cleaning in progress)
+status: ready for cleaning
 type_of_correction: no correction
-type_dataset: Online
 original_format: Survex
-original - sql: .nan
+type_dataset: Online
+original_to_sql: 'svx --> .3d --> therion -->sql '
 length_approx_meter: 10111.0
 connected_components: multiple caves
 license: CC BY-NC-SA 4.0
-id_dataset: UBSS, CAVE-REGISTRY
+id_dataset: UBSS/CAVE-REGISTRY
+todo: 'check if there is any lrud '
 comments_cave_info: initially OSGB:SK
 full_name: The River Lathkill Catchment Area
+other_names: .nan
 all_data_format: Survex, .3d
 geometry: .nan
+verify_geometry_export: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: epsg:27700
+crs_original_dataset: epsg:27700
+crs_clean_dataset: EPSG:32630
+crs_check: .nan
 crs_other: epsg:27700 (England)
 country: UK
 state: .nan
@@ -53,7 +58,7 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 0
 number_connected_components: 15
 number_nodes: 1409

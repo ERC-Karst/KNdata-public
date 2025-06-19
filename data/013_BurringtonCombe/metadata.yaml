@@ -1,10 +1,10 @@
 number: '013'
 short_name: BurringtonCombe
 status: clean
-type_of_correction: no correction
-type_dataset: Online
+type_of_correction: manual correction
 original_format: Survex
-original - sql: .nan
+original_to_sql: 3d --> therion --> sql
+todo: .nan
 length_approx_meter: 5518.0
 connected_components: multiple caves
 license: CC BY-NC-SA 4.0
@@ -12,12 +12,17 @@ id_dataset: UBSS
 comments_cave_info: Email Atkins to know bout citation. Only .3d available on the
   website. May have geometry if we can get the .svx files
 full_name: Burrington Combe Karst Area
+other_names: .nan
+type_dataset: Online
 all_data_format: .3d
 geometry: none
+verify_geometry_export: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: epsg:27700
+crs_original_dataset: epsg:27700
+crs_clean_dataset: .nan
+crs_check: .nan
 crs_other: epsg:27700 (England)
 country: UK
 state: England
@@ -56,10 +61,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
-percentage_csidm: 0
-number_connected_components: 14
+last_processing_date: 06 Jun 2025
+percentage_csidm: 32
+number_connected_components: 15
 number_nodes: 1759
-number_edges: 1820
+number_edges: 1819
 number_cycles: 75
-total_length: 5459
+total_length: 5341

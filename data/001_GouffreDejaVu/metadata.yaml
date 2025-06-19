@@ -2,21 +2,25 @@ number: '001'
 short_name: GouffreDejaVu
 status: clean
 type_of_correction: no correction
-type_dataset: Call for data
 original_format: Therion
-original - sql: .nan
+type_dataset: Call for data
+original_to_sql: .nan
 length_approx_meter: 150.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: GH3
 comments_cave_info: This is a single cave that is part of "Ultima Patagonia cave system"
 full_name: Gouffre Déjà Vu
+other_names: .nan
 all_data_format: Therion
 geometry: splays
+verify_geometry_export: .nan
 units: meter
 original_filename: GouffreDejaVu.sql
 original_encoding: UTF-8
-crs: local
+crs_original_dataset: local
+crs_clean_dataset: .nan
+crs_check: .nan
 crs_other: local
 country: Chile
 state: .nan
@@ -54,7 +58,7 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 100
 number_connected_components: 1
 number_nodes: 33

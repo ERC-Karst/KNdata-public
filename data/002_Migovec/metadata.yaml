@@ -2,21 +2,26 @@ number: '002'
 short_name: Migovec
 status: clean
 type_of_correction: manual correction
-type_dataset: Online
 original_format: Therion
-original - sql: .nan
+original_to_sql: therion --> 3d --> therion --> 3d --> sql
+todo: problem export .3d check with tanguy
 length_approx_meter: 45508.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: GH4
 comments_cave_info: .nan
 full_name: System Migovec
+other_names: .nan
+type_dataset: Online
 all_data_format: Therion
 geometry: splays
+verify_geometry_export: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs: epsg:3912
+crs_original_dataset: epsg:3912
+crs_clean_dataset: epsg:32633
+crs_check: verified on qgis
 crs_other: epsg:3912 (Slovenia)
 country: Slovenia
 state: Čadrg
@@ -54,10 +59,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
-percentage_csidm: 10
-number_connected_components: 2
-number_nodes: 6925
-number_edges: 6965
-number_cycles: 42
-total_length: 45229
+last_processing_date: 06 Jun 2025
+percentage_csidm: 13
+number_connected_components: 5
+number_nodes: 7165
+number_edges: 7204
+number_cycles: 44
+total_length: 46325

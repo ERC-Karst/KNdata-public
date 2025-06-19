@@ -1,41 +1,46 @@
 number: 009
 short_name: Folly
-status: in github (cleaning in progress)
-type_of_correction: no correction
-type_dataset: Online
+status: clean
+type_of_correction: manual correction
 original_format: Therion
-original - sql: .nan
+original_to_sql: therion --> 3d --> therion --> 3d --> sql
+todo: .nan
 length_approx_meter: 85619.0
 connected_components: multiple caves
 license: CC BY-NC-SA 4.0
 id_dataset: GH1
-comments_cave_info: .nan
+comments_cave_info: Synclinal Jean Bernard + Systeme Combe des Puaires +Systeme Mirolda
 full_name: Massif du Folly
+other_names: .nan
+type_dataset: Online
 all_data_format: Therion
-geometry: .nan
+geometry: lrud/splays
+verify_geometry_export: lrud not exported from therion project
 units: meter
-original_filename: .nan
+original_filename: '-'
 original_encoding: .nan
-crs: epsg:32632
-crs_other: epsg:32632 (WGS84 / UTM zone 32N)
+crs_original_dataset: epsg:32632
+crs_clean_dataset: epsg:32632
+crs_check: verified on qgis
+crs_other: .nan
 country: France
-state: .nan
-area: .nan
-locality: Samoens
-grotto_id: .nan
+state: Auvergne-Rhône-Alpes
+area: Haute-Savoie
+locality: Samoëns
+grotto_id: 75262 (Jean-Bernard)
 country_cave_id: .nan
 local_id: .nan
-local_coordinate_system: .nan
+local_coordinate_system: Local
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
-altitude: .nan
+latitude: 46.1022
+longitude: 6.7796
+altitude: '1836'
 length_official_meter: '80256'
 length_dataset: .nan
 denivelation: '1891'
-cave_url: .nan
-supplemental_links: .nan
+cave_url: https://grottocenter.org/ui/caves/75262
+supplemental_links: https://groupe-speleo-vulcain.com/explorations/explorations-a-samoens/topographies-du-synclinal-du-jean-bernard-samoens-france/
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -55,10 +60,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 10
-number_connected_components: 148
-number_nodes: 13947
-number_edges: 13885
-number_cycles: 86
-total_length: 85619
+number_connected_components: 129
+number_nodes: 13902
+number_edges: 13864
+number_cycles: 91
+total_length: 90997

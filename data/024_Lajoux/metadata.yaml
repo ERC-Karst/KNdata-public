@@ -1,0 +1,68 @@
+number: '024'
+short_name: Lajoux
+status: ready for cleaning
+type_of_correction: no correction
+original_format: Visual Topo
+original_to_sql: visual topo --> vtopo2th --> therion --> sql
+todo: ask tanguy to fix issues with the @ and " in vtopo2th. For now, lajoux is out
+  of the loop for visual topo translation
+length_approx_meter: 450.0
+connected_components: single cave
+license: CC BY-NC-SA 4.0
+id_dataset: LS
+comments_cave_info: .nan
+full_name: Gouffre de Lajoux
+other_names: .nan
+type_dataset: Call for data
+all_data_format: Visual Topo
+geometry: lrud
+verify_geometry_export: .nan
+units: meter
+original_filename: Lajoux_utf8.tro
+original_encoding: IS0 8859-1
+crs_original_dataset: epsg:21781
+crs_clean_dataset: epsg:32632
+crs_check: from file and verified on qgis
+crs_other: .nan
+country: Switzerland
+state: .nan
+area: .nan
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+length_official_meter: .nan
+length_dataset: .nan
+denivelation: .nan
+cave_url: .nan
+supplemental_links: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 06 Jun 2025
+percentage_csidm: 95
+number_connected_components: 1
+number_nodes: 327
+number_edges: 326
+number_cycles: 0
+total_length: 1305

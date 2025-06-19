@@ -2,8 +2,8 @@ number: '007'
 short_name: Tsanfleuron
 status: clean
 type_of_correction: manual correction
-type_dataset: Call for data
 original_format: Visual Topo
+type_dataset: Call for data
 original_to_sql: .nan
 length_approx_meter: 1519.0
 connected_components: multiple caves
@@ -14,6 +14,7 @@ full_name: Lapiaz Tsanfleuron
 other_names: .nan
 all_data_format: Visual Topo
 geometry: lrud
+verify_geometry_export: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
@@ -29,8 +30,8 @@ grotto_id: 37275 (G16)
 country_cave_id: .nan
 local_id: .nan
 local_coordinate_system: CH1903/LV03
-local_easting_coordinate: 587320.0
-local_northing_coordinate: 129300.0
+local_easting_coordinate: '587320'
+local_northing_coordinate: '129300'
 latitude: 46.3149
 longitude: 7.2739
 altitude: '2290'

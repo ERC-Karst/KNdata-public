@@ -1,9 +1,9 @@
 number: 039
 short_name: DunaldMill
-status: in github (cleaning in progress)
-type_of_correction: no correction
-type_dataset: Online
+status: clean
+type_of_correction: automatic correction
 original_format: Survex
+type_dataset: Online
 original_to_sql: svx --> .3d --> therion --> sql
 length_approx_meter: 260.0
 connected_components: single cave
@@ -14,31 +14,32 @@ full_name: Morecambe Bay
 other_names: .nan
 all_data_format: Survex
 geometry: .nan
+verify_geometry_export: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs_clean_dataset: EPSG:32630
 crs_original_dataset: epsg:27700
+crs_clean_dataset: EPSG:32630
 crs_check: based on guess, verified on QGIS
 crs_other: .nan
 country: UK
-state: .nan
-area: .nan
-locality: .nan
-grotto_id: .nan
-country_cave_id: .nan
+state: Lancashire
+area: Morecambe Bay
+locality: Nether Kellet
+grotto_id: /
+country_cave_id: SD51596762 (North Cavern Caves)
 local_id: .nan
-local_coordinate_system: .nan
-local_easting_coordinate: .nan
-local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
-altitude: .nan
-length_official_meter: .nan
+local_coordinate_system: EPSG:27700
+local_easting_coordinate: '351592'
+local_northing_coordinate: '467615'
+latitude: 54.1021
+longitude: -2.7417
+altitude: '86'
+length_official_meter: '329'
 length_dataset: .nan
 denivelation: .nan
-cave_url: .nan
-supplemental_links: .nan
+cave_url: https://northerncaves.co.uk/caves/details.php?id=2070
+supplemental_links: http://cavemaps.org/cavePages/Morecambe%20Bay__Dunald%20Mill%20Hole.htm
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -59,7 +60,7 @@ comments_dataset: .nan
 last_processing_date: 06 Jun 2025
 percentage_csidm: 0
 number_connected_components: 1
-number_nodes: 495
-number_edges: 494
+number_nodes: 62
+number_edges: 61
 number_cycles: 0
-total_length: 1358
+total_length: 260

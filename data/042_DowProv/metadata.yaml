@@ -1,9 +1,9 @@
 number: '042'
 short_name: DowProv
-status: in github (cleaning in progress)
+status: clean
 type_of_correction: no correction
-type_dataset: Online
 original_format: Survex
+type_dataset: Online
 original_to_sql: svx --> .3d --> therion --> sql
 length_approx_meter: 2597.0
 connected_components: single cave
@@ -11,34 +11,35 @@ license: To confirm
 id_dataset: CAVE-REGISTRY
 comments_cave_info: .nan
 full_name: Dow Prov
-other_names: .nan
+other_names: Dow Cave and Providence Pot
 all_data_format: Survex
 geometry: .nan
+verify_geometry_export: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
-crs_clean_dataset: EPSG:32630
 crs_original_dataset: OSGB:SD
+crs_clean_dataset: EPSG:32630
 crs_check: verified from svx file and on qgis
 crs_other: .nan
 country: UK
-state: .nan
-area: .nan
-locality: .nan
-grotto_id: .nan
+state: England
+area: North Yorkshire
+locality: Kettlewell
+grotto_id: 31672 (Dow) 31677 (Providence)
 country_cave_id: .nan
 local_id: .nan
-local_coordinate_system: .nan
-local_easting_coordinate: .nan
-local_northing_coordinate: .nan
+local_coordinate_system: OSGB:SD
+local_easting_coordinate: '99213'
+local_northing_coordinate: '72887'
 latitude: 54.1645
 longitude: -2.027533
-altitude: .nan
+altitude: '400'
 length_official_meter: .nan
 length_dataset: .nan
 denivelation: .nan
-cave_url: .nan
-supplemental_links: .nan
+cave_url: https://grottocenter.org/ui/entrances/31672
+supplemental_links: https://grottocenter.org/ui/entrances/31677
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan

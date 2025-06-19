@@ -1,22 +1,27 @@
 number: '022'
 short_name: CombeBryon
 status: clean
-type_of_correction: no correction
-type_dataset: Call for data
+type_of_correction: manual correction
 original_format: Toporobot
-original - sql: .nan
+original_to_sql: TEXT --> tr2th --> therion -->  sql
+todo: .nan
 length_approx_meter: 4158.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: JD
 comments_cave_info: JD intéressé par version therion
 full_name: Réseau de la Combe du Bryon
+other_names: .nan
+type_dataset: Call for data
 all_data_format: Toporobot, Visual Topo
 geometry: lrud
+verify_geometry_export: .nan
 units: meter
-original_filename: Bryon-Reseau.Text
+original_filename: Bryon-Reseau_utf8.Text
 original_encoding: CP 437
-crs: epsg:21781
+crs_original_dataset: epsg:21781
+crs_clean_dataset: .nan
+crs_check: .nan
 crs_other: epsg:21781 (CH 1903 LV03 - Old)
 country: Switzerland
 state: Vaud
@@ -53,8 +58,8 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
-percentage_csidm: 92
+last_processing_date: 06 Jun 2025
+percentage_csidm: 99
 number_connected_components: 1
 number_nodes: 606
 number_edges: 615

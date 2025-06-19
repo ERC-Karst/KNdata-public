@@ -1,23 +1,28 @@
 number: 048
 short_name: Banquier
 status: clean
-type_of_correction: no correction
-type_dataset: Online
+type_of_correction: manual correction
 original_format: Therion
-original - sql: .nan
+original_to_sql: therion --> 3d --> therion --> 3d --> sql
+todo: create code to export lrud from th project
 length_approx_meter: 12732.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: K3D
 comments_cave_info: .nan
 full_name: Cavité Banquier
+other_names: .nan
+type_dataset: Online
 all_data_format: Therion
 geometry: lrud/splays
+verify_geometry_export: lrud not exported from therion project
 units: meter
 original_filename: grotte_du_banquier.thconfig
 original_encoding: .nan
-crs: epsg:2154
-crs_other: epsg:2154 (France?)
+crs_original_dataset: epsg:2154
+crs_clean_dataset: epsg:32631
+crs_check: verified on qgis
+crs_other: .nan
 country: France
 state: Hérault
 area: Causse du Larzac
@@ -26,8 +31,8 @@ grotto_id: '955'
 country_cave_id: .nan
 local_id: .nan
 local_coordinate_system: EPSG:2154
-local_easting_coordinate: 731721.41
-local_northing_coordinate: 6298295.92
+local_easting_coordinate: '731721.41'
+local_northing_coordinate: '6298295.92'
 latitude: 43.7831
 longitude: 3.3933
 altitude: '460'
@@ -53,10 +58,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 17
 number_connected_components: 2
-number_nodes: 2055
-number_edges: 2066
+number_nodes: 2057
+number_edges: 2068
 number_cycles: 13
-total_length: 12732
+total_length: 12726

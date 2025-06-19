@@ -1,22 +1,26 @@
 number: '027'
 short_name: CreuxDEntier
 status: clean
-type_of_correction: no correction
-type_dataset: Call for data
+type_of_correction: manual correction
 original_format: Toporobot
-original - sql: .nan
+type_dataset: Call for data
+original_to_sql: TEXT --> tr2th --> therion -->  sql
 length_approx_meter: 1397.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: LS
 comments_cave_info: .nan
 full_name: Creux d'entier
+other_names: .nan
 all_data_format: Toporobot, Visual Topo
 geometry: lrud
+verify_geometry_export: .nan
 units: meter
-original_filename: Creux d'Entier_01.Text
+original_filename: Creux_dEntier_01_utf8.Text
 original_encoding: IS0 8859-1
-crs: epsg:21781
+crs_original_dataset: epsg:21781
+crs_clean_dataset: .nan
+crs_check: .nan
 crs_other: epsg:21781 (CH 1903 LV03 - Old)
 country: Switzerland
 state: Bern/Berne
@@ -26,8 +30,8 @@ grotto_id: '5496'
 country_cave_id: .nan
 local_id: .nan
 local_coordinate_system: CH1903/LV03
-local_easting_coordinate: 580740.0
-local_northing_coordinate: 236375.0
+local_easting_coordinate: '580740'
+local_northing_coordinate: '236375'
 latitude: 47.2794
 longitude: 7.185
 altitude: '935'
@@ -53,7 +57,7 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 90
 number_connected_components: 1
 number_nodes: 282

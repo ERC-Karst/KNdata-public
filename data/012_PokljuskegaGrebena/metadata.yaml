@@ -1,0 +1,69 @@
+number: '012'
+short_name: PokljuskegaGrebena
+status: clean
+type_of_correction: semi-automatic correction
+original_format: Survex
+type_dataset: Call for data
+original_to_sql: svx --> .3d --> therion --> sql
+length_approx_meter: 19710.0
+connected_components: multiple caves
+license: CC BY-NC-SA 4.0
+id_dataset: SB
+comments_cave_info: .nan
+full_name: Sistem pokljuskega grebena
+other_names: .nan
+all_data_format: Survex
+geometry: splays
+verify_geometry_export: .nan
+units: meter
+original_filename: .nan
+original_encoding: .nan
+crs_original_dataset: epsg:3912
+crs_clean_dataset: .nan
+crs_check: .nan
+crs_other: epsg:3912 (Slovenia)
+country: Slovenia
+state: Radovljica
+area: Bohinjska Srednja vas
+locality: Srednja vas v Bohinju
+grotto_id: /
+country_cave_id: 10904 (Trubarjev dah) 10905 (Platonovo šepetanje) 10396 (Evklidova
+  piščal) 11902 (Romeo)
+local_id: .nan
+local_coordinate_system: 'ESPG:3912 / Local '
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+latitude: 46.36131
+longitude: 13.90389
+altitude: 1,853
+length_official_meter: 9584 (Trubarjev dah) 2352 (Platonovo šepetanje) 2453 (Evklidova
+  piščal) 1550 (Romeo)
+length_dataset: .nan
+denivelation: 643 (Trubarjev dah) 569 (Platonovo šepetanje) 429 (Evklidova piščal)
+  454 (Romeo)
+cave_url: https://www.katasterjam.si/caves/10904?activeTab=data
+supplemental_links: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+last_processing_date: 06 Jun 2025
+percentage_csidm: 77
+number_connected_components: 3
+number_nodes: 2771
+number_edges: 2788
+number_cycles: 20
+total_length: 13366

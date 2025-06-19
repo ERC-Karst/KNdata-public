@@ -1,10 +1,10 @@
 number: '054'
 short_name: Koytendag
-status: .nan
-type_of_correction: .nan
-type_dataset: Call for data 2
+status: clean
+type_of_correction: manual correction
 original_format: Therion
-original_to_sql: .nan
+type_dataset: Call for data 2
+original_to_sql: therion --> 3d --> therion --> 3d
 length_approx_meter: .nan
 connected_components: multiple caves
 license: CC BY-NC-SA 4.0
@@ -14,31 +14,32 @@ full_name: Koyten Dag
 other_names: Köýtendag
 all_data_format: Therion
 geometry: splays
+verify_geometry_export: .nan
 units: meter
 original_filename: .nan
 original_encoding: .nan
 crs_original_dataset: EPSG:32642
-crs_clean_dataset: EPSG:32642
+crs_clean_dataset: epsg:32642
 crs_check: .nan
 crs_other: .nan
 country: Turkmenistan
-state: .nan
-area: .nan
-locality: .nan
-grotto_id: .nan
+state: Lebap welaýaty
+area: Rodnik
+locality: Imeni Stalina
+grotto_id: 121121 (Ahmethan) / 121114 (Suw-Oyuk)
 country_cave_id: .nan
 local_id: .nan
-local_coordinate_system: .nan
+local_coordinate_system: Local
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
-altitude: .nan
+latitude: 37.9454
+longitude: 66.6539
+altitude: '1300'
 length_official_meter: .nan
 length_dataset: .nan
 denivelation: .nan
-cave_url: .nan
-supplemental_links: .nan
+cave_url: https://blog.crei.ffspeleo.fr/?p=1322
+supplemental_links: https://www.philippe-crochet.com/nouveautes/details/486/expedition-speleo-turkmenistan-avril-2024
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -58,8 +59,8 @@ sample_figures: .nan
 comments_dataset: .nan
 last_processing_date: 06 Jun 2025
 percentage_csidm: 82
-number_connected_components: 23
-number_nodes: 1380
-number_edges: 1405
-number_cycles: 48
-total_length: 19476
+number_connected_components: 20
+number_nodes: 1385
+number_edges: 1416
+number_cycles: 51
+total_length: 19527

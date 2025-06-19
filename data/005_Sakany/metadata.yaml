@@ -1,22 +1,26 @@
 number: '005'
 short_name: Sakany
 status: clean
-type_of_correction: no correction
-type_dataset: Online
+type_of_correction: manual correction
 original_format: GHTopo
-original - sql: .nan
+type_dataset: Online
+original_to_sql: ghtopo --> TEXT --> tr2th --> therion -->  sql
 length_approx_meter: 6793.0
 connected_components: multiple caves
 license: unclear. may not be sharable
 id_dataset: GTO/KN
 comments_cave_info: .nan
 full_name: Reseau Sakany
+other_names: .nan
 all_data_format: GHTopo
 geometry: lrud
+verify_geometry_export: .nan
 units: meter
-original_filename: Reseau_Sakany.xtb
+original_filename: Reseau_Sakany_tr.Text
 original_encoding: ANSI
-crs: epsg:27573
+crs_original_dataset: epsg:27572
+crs_clean_dataset: .nan
+crs_check: based on info in xtb file
 crs_other: epsg:27573 (France)
 country: France
 state: Occitanie
@@ -25,7 +29,7 @@ locality: Quié
 grotto_id: '75318'
 country_cave_id: .nan
 local_id: .nan
-local_coordinate_system: Local
+local_coordinate_system: EPSG:27573
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
 latitude: 42.8359
@@ -57,10 +61,10 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 05 May 2025
+last_processing_date: 06 Jun 2025
 percentage_csidm: 82
 number_connected_components: 11
 number_nodes: 1770
-number_edges: 1804
-number_cycles: 45
-total_length: 6780
+number_edges: 1809
+number_cycles: 50
+total_length: 6786

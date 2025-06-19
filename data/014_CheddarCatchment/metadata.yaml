@@ -2,8 +2,8 @@ number: '014'
 short_name: CheddarCatchment
 status: clean
 type_of_correction: manual correction
-type_dataset: Call for data
 original_format: Therion
+type_dataset: Call for data
 original_to_sql: therion --> .3d --> therion --> sql
 length_approx_meter: 27340.0
 connected_components: multiple caves
@@ -19,11 +19,12 @@ full_name: Cheddar Catchment
 other_names: .nan
 all_data_format: Therion, Survex, .3d
 geometry: lrud/splays
+verify_geometry_export: .nan
 units: meter
 original_filename: CheddarCatchment.th
 original_encoding: UTF-8
-crs_clean_dataset: EPSG:32630
 crs_original_dataset: osgb:sd
+crs_clean_dataset: EPSG:32630
 crs_check: .nan
 crs_other: epsg:27700 (England)
 country: UK
