@@ -25,7 +25,7 @@ C028;OxBelHa;clean;semi-automatic correction;06 Jun 2025;370057;0;1;33083;34016;
 ";Thanks to Jim Coke for sharing the data with us and for spending so much time preparing and explaining the data to us.Thanks also to all the cavers/divers who explored and mapped the cave system over the years (list in appendix).
 C029;Longirod;clean;no correction;06 Jun 2025;5151;90;1;642;644;3;Switzerland;46.5297;6.2307;1350;To confirm;Unknown yet;
 C031;Baerwies;ready for cleaning;no correction;06 Jun 2025;7223;1;37;1170;1150;17;Austria;;;;To confirm;Unknown yet;
-C032;DachsteinMammutHoehle;ready for cleaning;no correction;06 Jun 2025;66861;11;358;11384;11183;157;Austria;47.5353;13.7097;;To confirm;Unknown yet;
+C032;DachsteinMammutHoehle;ready for cleaning;no correction;07 Jul 2025;66861;11;358;11384;11183;157;Austria;47.5353;13.7097;;To confirm;Unknown yet;
 C033;Hirschgruben;ready for cleaning;no correction;06 Jun 2025;5596;30;55;1218;1174;11;Austria;;;;To confirm;Unknown yet;
 C034;Steinbockschacht;ready for cleaning;no correction;06 Jun 2025;2851;0;6;416;417;7;Austria;;;2022;To confirm;Unknown yet;
 C035;TrockenesLoch;in progress;no correction;06 Jun 2025;4366;0;29;814;803;18;Austria;;;;To confirm;Unknown yet;
@@ -46,7 +46,7 @@ C059;Fulfords;ready for cleaning;no correction;06 Jun 2025;1643;0;3;265;274;12;U
 C060;Tonion;ready for cleaning;no correction;06 Jun 2025;18361;0;1;3067;3152;86;Austria;;;;To confirm;Unknown yet;
 C061;Burgunder;ready for cleaning;no correction;06 Jun 2025;22762;62;144;4592;4525;77;Austria;;;;To confirm;Unknown yet;
 C061;BurgunderSchacht;ready for cleaning;no correction;06 Jun 2025;22762;0;144;4592;4525;77;Austria;;;;To confirm;Unknown yet;
-C063;Wind;clean;no correction;06 Jun 2025;271709;77;1;51266;54121;2856;USA;;;;Confidential - results only can be published;Unknown yet;
+C063;Wind;clean;no correction;06 Jun 2025;271709;0;1;51266;54121;2856;USA;;;;Confidential - results only can be published;Unknown yet;
 C064;Lechugilla;in github (cleaning in progress);no correction;05 May 2025;262995;79;12;40198;43577;3391;USA;;;;Confidential - results only can be published;Unknown yet;
 C068;CuevaGuerta;clean;manual correction;06 Jun 2025;24011;89;1;3300;3405;106;Spain;43.1239;-6.0588;;TBD;TBD;TBD
 C069;HohlaubA1A3;clean;no correction;06 Jun 2025;1681;89;1;277;279;3;Switzerland;1685.0;46.7806;7.9131;To confirm;Groupe Spéléo Porrentruy (GSP), 2024, Holaub G3 & A3 & A1, archives internes, état fin 2024.;Thanks to Florian Hof for spending the time preparing and sharing the data with us. Thanks to all the cavers who explored, surveyed, and mapped the cave and without whom this analysis would not have been possible.
@@ -55,3 +55,5 @@ C071;SacActun;ready for cleaning;no correction;06 Jun 2025;356871;0;26;38523;386
 C072;Duerrenstein32;ready for cleaning;no correction;06 Jun 2025;5095;0;11;777;774;8;Austria;;;;To confirm;Unknown yet;
 C073;Duerrenstein211;ready for cleaning;no correction;06 Jun 2025;1064;0;29;192;163;0;Austria;;;;To confirm;Unknown yet;
 C074;Duerrenstein273;ready for cleaning;no correction;06 Jun 2025;1217;0;13;268;260;5;Austria;;;;To confirm;Unknown yet;
+C075;FoussoubieEvent;ready for cleaning;no correction;06 Jun 2025;2621;97;1;321;323;3;France;;;;Confidential - not to be published;Unknown yet;
+C076;FoussoubieGoule;ready for cleaning;no correction;06 Jun 2025;20231;98;1;2306;2341;36;France;;;;Confidential - not to be published;Unknown yet;
