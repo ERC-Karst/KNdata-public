@@ -1,6 +1,7 @@
 number: 048
 short_name: Banquier
 status: clean
+issues: .nan
 type_of_correction: manual correction
 original_format: Therion
 original_to_sql: therion --> 3d --> therion --> 3d --> sql
@@ -10,6 +11,7 @@ connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: K3D
 comments_cave_info: .nan
+comments_cleaning: .nan
 full_name: Cavité Banquier
 other_names: .nan
 type_dataset: Online
@@ -17,7 +19,7 @@ all_data_format: Therion
 geometry: lrud/splays
 verify_geometry_export: lrud not exported from therion project
 units: meter
-original_filename: grotte_du_banquier.thconfig
+original_filename: '-'
 original_encoding: .nan
 crs_original_dataset: epsg:2154
 crs_clean_dataset: epsg:32631
@@ -33,7 +35,8 @@ local_id: .nan
 local_coordinate_system: EPSG:2154
 local_easting_coordinate: '731721.41'
 local_northing_coordinate: '6298295.92'
-latitude: 43.7831
+'share_coordinates ': public
+latitude: '43.7831'
 longitude: 3.3933
 altitude: '460'
 length_official_meter: '12679'
@@ -41,6 +44,13 @@ length_dataset: .nan
 denivelation: .nan
 cave_url: https://grottocenter.org/ui/entrances/955
 supplemental_links: https://larzacexploceladon.fr/lizmap/index.php/view/media/getMedia?repository=cavites&project=cavites&path=media%2Ftopo_pdf%2FBanquier+FINAL.pdf
+geology: limestone / sandstone
+facies: 'limestone / sandstone : hettangien'
+speleogenesis: unknown
+speleogenesis additional context: .nan
+fracturation: medium
+deformation: unknown
+deformation additional context: .nan
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -58,7 +68,8 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 17
 number_connected_components: 2
 number_nodes: 2057

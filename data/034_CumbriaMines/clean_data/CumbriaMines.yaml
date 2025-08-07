@@ -3,12 +3,12 @@ metadata:
   short_name: CumbriaMines
   status: clean
   type_of_correction: manual correction
-  last_processing_date: 06 Jun 2025
+  last_processing_date: 07 Jul 2025
   license: To confirm
   citation: Unknown yet
   thanks: .nan
   sharing_conditions: .nan
-  total_length: 739
+  total_length: 738
   percentage_csidm: 68
   number_connected_components: 1
   number_nodes: 102
@@ -45,5642 +45,5642 @@ metadata:
   anonymised_graph_rights: .nan
   comments_dataset: .nan
 edges:
-- - 67
-  - 56
-- - 97
-  - 18
-- - 56
-  - 43
-- - 43
-  - 35
-- - 35
-  - 57
-- - 57
-  - 85
-- - 85
-  - 40
-- - 40
-  - 27
-- - 27
-  - 102
-- - 102
-  - 68
-- - 68
-  - 33
-- - 68
-  - 30
-- - 33
-  - 80
-- - 80
-  - 54
-- - 54
-  - 37
-- - 37
-  - 12
-- - 12
-  - 70
-- - 70
-  - 19
-- - 70
-  - 20
-- - 19
-  - 28
-- - 28
-  - 55
-- - 55
-  - 31
-- - 55
-  - 8
-- - 31
-  - 42
 - - 42
-  - 14
-- - 14
-  - 24
-- - 24
-  - 7
-- - 24
-  - 21
-- - 7
-  - 41
-- - 41
-  - 2
-- - 2
-  - 92
-- - 92
-  - 99
-- - 99
   - 87
+- - 21
+  - 79
 - - 87
-  - 75
-- - 75
-  - 44
-- - 75
-  - 66
-- - 44
-  - 47
-- - 44
-  - 73
-- - 47
   - 22
 - - 22
-  - 74
-- - 74
-  - 49
-- - 49
-  - 17
-- - 17
-  - 84
-- - 84
-  - 90
-- - 90
-  - 15
-- - 15
+  - 10
+- - 10
+  - 46
+- - 46
+  - 97
+- - 97
+  - 102
+- - 102
+  - 33
+- - 33
+  - 8
+- - 8
+  - 11
+- - 11
+  - 4
+- - 11
+  - 14
+- - 4
+  - 60
+- - 60
+  - 73
+- - 73
+  - 65
+- - 65
+  - 94
+- - 94
+  - 27
+- - 27
+  - 16
+- - 27
+  - 39
+- - 16
+  - 41
+- - 41
+  - 13
+- - 13
+  - 95
+- - 13
+  - 89
+- - 95
   - 96
 - - 96
-  - 39
-- - 39
-  - 72
-- - 39
-  - 9
-- - 72
-  - 16
-- - 9
-  - 38
-- - 16
-  - 48
-- - 38
-  - 88
-- - 88
-  - 101
-- - 101
+  - 34
+- - 34
+  - 90
+- - 90
+  - 29
+- - 90
+  - 20
+- - 29
+  - 15
+- - 15
+  - 85
+- - 85
+  - 18
+- - 18
+  - 77
+- - 77
+  - 36
+- - 36
+  - 28
+- - 28
+  - 3
+- - 28
+  - 56
+- - 3
+  - 1
+- - 3
+  - 93
+- - 1
+  - 78
+- - 78
+  - 64
+- - 64
+  - 24
+- - 24
   - 23
 - - 23
-  - 69
-- - 69
+  - 71
+- - 71
+  - 80
+- - 80
+  - 83
+- - 83
+  - 101
+- - 101
+  - 72
+- - 72
+  - 81
+- - 72
+  - 68
+- - 81
+  - 44
+- - 68
+  - 74
+- - 44
+  - 51
+- - 74
+  - 47
+- - 47
   - 61
-- - 69
-  - 59
 - - 61
+  - 32
+- - 32
+  - 7
+- - 7
+  - 75
+- - 7
+  - 70
+- - 75
+  - 54
+- - 54
+  - 6
+- - 6
+  - 59
+- - 59
+  - 53
+- - 53
+  - 84
+- - 84
+  - 25
+- - 25
+  - 30
+- - 30
+  - 86
+- - 86
+  - 98
+- - 98
+  - 2
+- - 2
+  - 91
+- - 2
+  - 52
+- - 91
+  - 12
+- - 91
+  - 88
+- - 91
+  - 49
+- - 52
+  - 50
+- - 52
+  - 62
+- - 12
+  - 0
+- - 0
+  - 43
+- - 43
+  - 45
+- - 45
+  - 55
+- - 45
+  - 38
+- - 55
+  - 57
+- - 55
+  - 37
+- - 38
+  - 66
+- - 57
+  - 100
+- - 37
+  - 63
+- - 100
+  - 79
+- - 51
+  - 48
+- - 48
+  - 9
+- - 63
   - 82
 - - 82
   - 26
+- - 82
+  - 31
 - - 26
-  - 79
-- - 79
-  - 52
-- - 52
-  - 83
-- - 83
-  - 100
-- - 100
-  - 3
-- - 3
-  - 45
-- - 45
-  - 4
-- - 4
-  - 93
-- - 93
-  - 86
-- - 93
-  - 29
-- - 86
-  - 34
-- - 86
-  - 98
-- - 86
-  - 53
-- - 29
-  - 89
-- - 29
-  - 65
-- - 34
-  - 1
-- - 1
-  - 81
-- - 81
-  - 58
-- - 58
-  - 50
-- - 58
-  - 0
-- - 50
-  - 25
-- - 50
-  - 51
-- - 0
-  - 63
-- - 25
-  - 6
-- - 51
-  - 76
-- - 6
-  - 18
-- - 48
-  - 10
-- - 10
-  - 95
-- - 76
-  - 62
-- - 62
-  - 46
-- - 62
-  - 77
-- - 46
-  - 60
-- - 77
-  - 64
-- - 64
+  - 17
+- - 31
+  - 40
+- - 40
   - 5
-- - 63
-  - 94
-- - 63
-  - 11
-- - 11
-  - 78
-- - 78
-  - 71
-- - 71
-  - 13
-- - 71
-  - 91
-- - 65
-  - 32
+- - 66
+  - 92
+- - 66
+  - 19
+- - 19
+  - 35
+- - 35
+  - 76
+- - 76
+  - 99
+- - 76
+  - 67
+- - 62
+  - 69
 edge_attributes:
   flags:
     ? !!python/tuple
-    - 39
-    - 9
+    - 72
+    - 68
     : - add
       - add
 node_attributes:
+  comments:
+    42:
+    - Open Crator
+    21:
+    - Gate Portal
   flags:
-    67:
-    - fix
-    - ent
-    97:
-    - fix
-    - ent
-    56:
-    - fix
-    43:
-    - fix
-    35:
-    - fix
-    57:
-    - fix
-    85:
-    - fix
-    40:
-    - fix
-    27:
-    - fix
-    102:
-    - fix
-    68:
-    - fix
-    33:
-    - fix
-    30:
-    - fix
-    80:
-    - fix
-    54:
-    - fix
-    37:
-    - fix
-    12:
-    - fix
-    70:
-    - fix
-    19:
-    - fix
-    20:
-    - fix
-    28:
-    - fix
-    55:
-    - fix
-    31:
-    - fix
-    8:
-    - fix
     42:
     - fix
-    14:
-    - fix
-    24:
-    - fix
-    7:
-    - fix
+    - ent
     21:
     - fix
-    41:
-    - fix
-    2:
-    - fix
-    92:
-    - fix
-    99:
-    - fix
+    - ent
     87:
-    - fix
-    75:
-    - fix
-    44:
-    - fix
-    66:
-    - fix
-    47:
-    - fix
-    73:
     - fix
     22:
     - fix
-    74:
-    - fix
-    49:
-    - fix
-    17:
-    - fix
-    84:
-    - fix
-    90:
-    - fix
-    15:
-    - fix
-    96:
-    - fix
-    39:
-    - fix
-    72:
-    - fix
-    9:
-    - fix
-    16:
-    - fix
-    38:
-    - fix
-    88:
-    - fix
-    101:
-    - fix
-    23:
-    - fix
-    69:
-    - fix
-    61:
-    - fix
-    59:
-    - fix
-    82:
-    - fix
-    26:
-    - fix
-    79:
-    - fix
-    52:
-    - fix
-    83:
-    - fix
-    100:
-    - fix
-    3:
-    - fix
-    45:
-    - fix
-    4:
-    - fix
-    93:
-    - fix
-    86:
-    - fix
-    29:
-    - fix
-    34:
-    - fix
-    98:
-    - fix
-    53:
-    - fix
-    1:
-    - fix
-    81:
-    - fix
-    58:
-    - fix
-    50:
-    - fix
-    0:
-    - fix
-    25:
-    - fix
-    51:
-    - fix
-    6:
-    - fix
-    18:
-    - fix
-    48:
-    - fix
     10:
-    - fix
-    95:
-    - fix
-    76:
-    - fix
-    62:
     - fix
     46:
     - fix
-    77:
+    97:
     - fix
-    60:
+    102:
     - fix
-    64:
+    33:
     - fix
-    5:
-    - fix
-    63:
-    - fix
-    94:
+    8:
     - fix
     11:
     - fix
-    78:
+    4:
     - fix
-    71:
+    14:
+    - fix
+    60:
+    - fix
+    73:
+    - fix
+    65:
+    - fix
+    94:
+    - fix
+    27:
+    - fix
+    16:
+    - fix
+    39:
+    - fix
+    41:
     - fix
     13:
     - fix
-    91:
+    95:
     - fix
     89:
     - fix
-    65:
+    96:
+    - fix
+    34:
+    - fix
+    90:
+    - fix
+    29:
+    - fix
+    20:
+    - fix
+    15:
+    - fix
+    85:
+    - fix
+    18:
+    - fix
+    77:
+    - fix
+    36:
+    - fix
+    28:
+    - fix
+    3:
+    - fix
+    56:
+    - fix
+    1:
+    - fix
+    93:
+    - fix
+    78:
+    - fix
+    64:
+    - fix
+    24:
+    - fix
+    23:
+    - fix
+    71:
+    - fix
+    80:
+    - fix
+    83:
+    - fix
+    101:
+    - fix
+    72:
+    - fix
+    81:
+    - fix
+    68:
+    - fix
+    44:
+    - fix
+    74:
+    - fix
+    47:
+    - fix
+    61:
     - fix
     32:
     - fix
-  csdim:
-    67:
-    - 14.16
-    - 6.31
-    56:
-    - 6.11
-    - 2.94
+    7:
+    - fix
+    75:
+    - fix
+    70:
+    - fix
+    54:
+    - fix
+    6:
+    - fix
+    59:
+    - fix
+    53:
+    - fix
+    84:
+    - fix
+    25:
+    - fix
+    30:
+    - fix
+    86:
+    - fix
+    98:
+    - fix
+    2:
+    - fix
+    91:
+    - fix
+    52:
+    - fix
+    12:
+    - fix
+    88:
+    - fix
+    49:
+    - fix
+    0:
+    - fix
     43:
+    - fix
+    45:
+    - fix
+    55:
+    - fix
+    38:
+    - fix
+    57:
+    - fix
+    37:
+    - fix
+    100:
+    - fix
+    79:
+    - fix
+    51:
+    - fix
+    48:
+    - fix
+    9:
+    - fix
+    63:
+    - fix
+    82:
+    - fix
+    26:
+    - fix
+    31:
+    - fix
+    17:
+    - fix
+    40:
+    - fix
+    5:
+    - fix
+    66:
+    - fix
+    92:
+    - fix
+    19:
+    - fix
+    35:
+    - fix
+    76:
+    - fix
+    99:
+    - fix
+    67:
+    - fix
+    50:
+    - fix
+    62:
+    - fix
+    69:
+    - fix
+  csdim:
+    42:
+    - 14.16
+    - 6.29
+    87:
+    - 6.09
+    - 3.06
+    22:
     - 7.77
     - 7.44
-    35:
+    10:
     - 2.77
     - 5.73
-    57:
+    46:
     - 10.33
-    - 7.94
-    85:
-    - 4.7
-    - 3.67
-    40:
-    - 7.44
-    - 5.44
-    27:
-    - 2.92
-    - 11.05
+    - 7.95
+    97:
+    - 4.68
+    - 3.7
     102:
+    - 7.43
+    - 5.46
+    33:
+    - 2.92
+    - 11.06
+    8:
     - 6.21
     - 11.59
-    68:
+    11:
     - 4.0
     - 4.0
-    33:
+    4:
     - 15.72
-    - 10.14
-    80:
-    - 5.68
+    - 10.05
+    60:
+    - 5.66
     - 15.79
-    54:
-    - 4.23
-    - 11.05
-    37:
+    73:
+    - 4.24
+    - 11.02
+    65:
     - 5.21
     - 10.69
-    12:
-    - 1.21
+    94:
+    - 1.22
     - 2.69
-    70:
+    27:
     - 2.61
     - 2.61
-    19:
+    16:
     - 16.9
-    - 6.81
-    20:
+    - 6.8
+    39:
     - 0.54
     - 1.07
-    28:
+    41:
     - 16.85
-    - 20.55
-    55:
+    - 20.56
+    13:
     - 7.57
     - 7.57
-    31:
+    95:
     - 4.77
-    - 3.93
-    42:
+    - 3.92
+    96:
     - 4.96
     - 2.19
-    14:
-    - 5.9
-    - 8.28
-    24:
+    34:
+    - 5.89
+    - 8.29
+    90:
     - 3.15
     - 3.15
-    7:
-    - 1.09
+    29:
+    - 1.08
     - 4.0
-    41:
-    - 0.49
+    15:
+    - 0.48
     - 6.35
-    2:
+    85:
     - 1.02
     - 0.66
-    92:
+    18:
     - 9.03
     - 1.88
-    99:
-    - 7.25
+    77:
+    - 7.24
     - 1.77
-    87:
+    36:
     - 5.6
     - 1.76
-    75:
-    - 3.27
-    - 3.27
-    44:
+    28:
+    - 3.28
+    - 3.28
+    3:
     - 3.57
     - 3.57
-    47:
-    - 8.39
+    1:
+    - 8.4
     - 1.75
-    22:
+    78:
     - 9.11
     - 1.68
-    74:
+    64:
     - 9.39
     - 1.65
-    49:
-    - 10.24
-    - 1.53
-    17:
+    24:
+    - 10.25
+    - 1.51
+    23:
     - 10.47
     - 1.82
-    84:
+    71:
     - 9.49
-    - 1.75
-    90:
+    - 1.76
+    80:
     - 5.04
     - 1.86
-    15:
+    83:
     - 6.34
     - 2.1
-    96:
-    - 7.22
-    - 1.75
-    39:
+    101:
+    - 7.23
+    - 1.74
+    72:
     - 6.71
     - 9.42
-    72:
+    81:
     - 6.03
     - 6.03
-    16:
+    44:
     - 11.09
     - 9.46
-    38:
+    74:
     - 9.04
     - 14.54
-    88:
-    - 3.23
+    47:
+    - 3.24
     - 4.61
-    101:
-    - 24.66
-    - 11.13
-    23:
-    - 16.23
-    - 11.13
-    69:
-    - 6.63
-    - 6.63
     61:
-    - 9.18
-    - 17.65
-    82:
+    - 24.66
+    - 11.14
+    32:
+    - 16.22
+    - 11.11
+    7:
+    - 6.63
+    - 6.63
+    75:
+    - 9.17
+    - 17.66
+    54:
     - 20.25
     - 10.91
-    26:
-    - 9.24
-    - 11.46
-    79:
+    6:
+    - 9.26
+    - 11.45
+    59:
     - 4.58
     - 14.7
-    52:
-    - 18.24
+    53:
+    - 18.25
     - 13.74
-    83:
+    84:
     - 4.17
     - 18.3
-    100:
-    - 2.27
+    25:
+    - 2.29
     - 12.36
-    45:
-    - 3.9
-    - 9.25
-    4:
-    - 11.54
-    - 12.5
-    93:
-    - 3.44
-    - 3.44
     86:
+    - 3.91
+    - 9.25
+    98:
+    - 11.81
+    - 12.28
+    2:
+    - 3.44
+    - 3.44
+    91:
     - 2.77
     - 2.77
-    29:
+    52:
     - 2.79
     - 2.79
-    34:
+    12:
     - 5.14
     - 1.63
-    1:
+    0:
     - 8.32
     - 3.0
-    81:
+    43:
     - 9.99
-    - 2.72
-    48:
+    - 2.74
+    51:
     - 3.77
     - 2.25
-    10:
+    48:
     - 0.27
     - 1.56
-    95:
-    - 1.28
+    9:
+    - 1.27
     - 1.78
-    78:
+    35:
     - 9.27
     - 1.91
-    71:
+    76:
     - 5.77
     - 5.77
-    65:
-    - 20.24
+    62:
+    - 20.25
     - 12.78
   fulladdress:
-    67:
-    - cumbriamines.conistoncoppermines.toplevel1.1
-    97:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.entrance
-    56:
-    - cumbriamines.conistoncoppermines.toplevel1.2
-    43:
-    - cumbriamines.conistoncoppermines.toplevel1.3
-    35:
-    - cumbriamines.conistoncoppermines.toplevel1.4
-    57:
-    - cumbriamines.conistoncoppermines.toplevel1.5
-    85:
-    - cumbriamines.conistoncoppermines.toplevel1.6
-    40:
-    - cumbriamines.conistoncoppermines.toplevel1.7
-    27:
-    - cumbriamines.conistoncoppermines.toplevel1.8
-    102:
-    - cumbriamines.conistoncoppermines.toplevel1.9
-    68:
-    - cumbriamines.conistoncoppermines.toplevel1.10
-    33:
-    - cumbriamines.conistoncoppermines.toplevel1.12
-    30:
-    - cumbriamines.conistoncoppermines.toplevel1.11
-    80:
-    - cumbriamines.conistoncoppermines.toplevel1.13
-    54:
-    - cumbriamines.conistoncoppermines.toplevel1.14
-    37:
-    - cumbriamines.conistoncoppermines.toplevel1.15
-    12:
-    - cumbriamines.conistoncoppermines.toplevel1.16
-    70:
-    - cumbriamines.conistoncoppermines.toplevel1.17
-    19:
-    - cumbriamines.conistoncoppermines.toplevel1.19
-    20:
-    - cumbriamines.conistoncoppermines.toplevel1.18
-    28:
-    - cumbriamines.conistoncoppermines.toplevel1.20
-    55:
-    - cumbriamines.conistoncoppermines.toplevel1.21
-    31:
-    - cumbriamines.conistoncoppermines.toplevel1.23
-    8:
-    - cumbriamines.conistoncoppermines.toplevel1.22
     42:
-    - cumbriamines.conistoncoppermines.toplevel1.24
-    14:
-    - cumbriamines.conistoncoppermines.toplevel1.25
-    24:
-    - cumbriamines.conistoncoppermines.toplevel1.26
-    7:
-    - cumbriamines.conistoncoppermines.toplevel1.28
+    - cumbriamines.conistoncoppermines.toplevel1.1
     21:
-    - cumbriamines.conistoncoppermines.toplevel1.27
-    41:
-    - cumbriamines.conistoncoppermines.toplevel1.29
-    2:
-    - cumbriamines.conistoncoppermines.toplevel1.30
-    92:
-    - cumbriamines.conistoncoppermines.toplevel1.31
-    99:
-    - cumbriamines.conistoncoppermines.toplevel1.32
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.entrance
     87:
-    - cumbriamines.conistoncoppermines.toplevel1.33
-    75:
-    - cumbriamines.conistoncoppermines.toplevel1.34
-    44:
-    - cumbriamines.conistoncoppermines.toplevel1.36
-    66:
-    - cumbriamines.conistoncoppermines.toplevel1.35
-    47:
-    - cumbriamines.conistoncoppermines.toplevel1.38
-    73:
-    - cumbriamines.conistoncoppermines.toplevel1.37
+    - cumbriamines.conistoncoppermines.toplevel1.2
     22:
-    - cumbriamines.conistoncoppermines.toplevel1.39
-    74:
-    - cumbriamines.conistoncoppermines.toplevel1.40
-    49:
-    - cumbriamines.conistoncoppermines.toplevel1.41
-    17:
-    - cumbriamines.conistoncoppermines.toplevel1.42
-    84:
-    - cumbriamines.conistoncoppermines.toplevel1.43
-    90:
-    - cumbriamines.conistoncoppermines.toplevel1.44
-    15:
-    - cumbriamines.conistoncoppermines.toplevel1.45
-    96:
-    - cumbriamines.conistoncoppermines.toplevel1.46
-    39:
-    - cumbriamines.conistoncoppermines.toplevel1.47
-    72:
-    - cumbriamines.conistoncoppermines.toplevel1.48
-    9:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.48
-    16:
-    - cumbriamines.conistoncoppermines.toplevel1.49
-    38:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.47
-    88:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.46
-    101:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.45
-    23:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.44
-    69:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.42
-    61:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.41
-    59:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.43
-    82:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.40
-    26:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.39
-    79:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.38
-    52:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.37
-    83:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.36
-    100:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.35
-    3:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.34
-    45:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.33
-    4:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.32
-    93:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.27
-    86:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.24
-    29:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.28
-    34:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.23
-    98:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.25
-    53:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.26
-    1:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.22
-    81:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.21
-    58:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.14
-    50:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.7
-    0:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.15
-    25:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.6
-    51:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.8
-    6:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.5
-    18:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.4
-    48:
-    - cumbriamines.conistoncoppermines.toplevel1.50
+    - cumbriamines.conistoncoppermines.toplevel1.3
     10:
-    - cumbriamines.conistoncoppermines.toplevel1.51
-    95:
-    - cumbriamines.conistoncoppermines.toplevel1.52
-    76:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.9
-    62:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.10
+    - cumbriamines.conistoncoppermines.toplevel1.4
     46:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.11
-    77:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.12
+    - cumbriamines.conistoncoppermines.toplevel1.5
+    97:
+    - cumbriamines.conistoncoppermines.toplevel1.6
+    102:
+    - cumbriamines.conistoncoppermines.toplevel1.7
+    33:
+    - cumbriamines.conistoncoppermines.toplevel1.8
+    8:
+    - cumbriamines.conistoncoppermines.toplevel1.9
+    11:
+    - cumbriamines.conistoncoppermines.toplevel1.10
+    4:
+    - cumbriamines.conistoncoppermines.toplevel1.12
+    14:
+    - cumbriamines.conistoncoppermines.toplevel1.11
     60:
-    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.x
+    - cumbriamines.conistoncoppermines.toplevel1.13
+    73:
+    - cumbriamines.conistoncoppermines.toplevel1.14
+    65:
+    - cumbriamines.conistoncoppermines.toplevel1.15
+    94:
+    - cumbriamines.conistoncoppermines.toplevel1.16
+    27:
+    - cumbriamines.conistoncoppermines.toplevel1.17
+    16:
+    - cumbriamines.conistoncoppermines.toplevel1.19
+    39:
+    - cumbriamines.conistoncoppermines.toplevel1.18
+    41:
+    - cumbriamines.conistoncoppermines.toplevel1.20
+    13:
+    - cumbriamines.conistoncoppermines.toplevel1.21
+    95:
+    - cumbriamines.conistoncoppermines.toplevel1.23
+    89:
+    - cumbriamines.conistoncoppermines.toplevel1.22
+    96:
+    - cumbriamines.conistoncoppermines.toplevel1.24
+    34:
+    - cumbriamines.conistoncoppermines.toplevel1.25
+    90:
+    - cumbriamines.conistoncoppermines.toplevel1.26
+    29:
+    - cumbriamines.conistoncoppermines.toplevel1.28
+    20:
+    - cumbriamines.conistoncoppermines.toplevel1.27
+    15:
+    - cumbriamines.conistoncoppermines.toplevel1.29
+    85:
+    - cumbriamines.conistoncoppermines.toplevel1.30
+    18:
+    - cumbriamines.conistoncoppermines.toplevel1.31
+    77:
+    - cumbriamines.conistoncoppermines.toplevel1.32
+    36:
+    - cumbriamines.conistoncoppermines.toplevel1.33
+    28:
+    - cumbriamines.conistoncoppermines.toplevel1.34
+    3:
+    - cumbriamines.conistoncoppermines.toplevel1.36
+    56:
+    - cumbriamines.conistoncoppermines.toplevel1.35
+    1:
+    - cumbriamines.conistoncoppermines.toplevel1.38
+    93:
+    - cumbriamines.conistoncoppermines.toplevel1.37
+    78:
+    - cumbriamines.conistoncoppermines.toplevel1.39
     64:
+    - cumbriamines.conistoncoppermines.toplevel1.40
+    24:
+    - cumbriamines.conistoncoppermines.toplevel1.41
+    23:
+    - cumbriamines.conistoncoppermines.toplevel1.42
+    71:
+    - cumbriamines.conistoncoppermines.toplevel1.43
+    80:
+    - cumbriamines.conistoncoppermines.toplevel1.44
+    83:
+    - cumbriamines.conistoncoppermines.toplevel1.45
+    101:
+    - cumbriamines.conistoncoppermines.toplevel1.46
+    72:
+    - cumbriamines.conistoncoppermines.toplevel1.47
+    81:
+    - cumbriamines.conistoncoppermines.toplevel1.48
+    68:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.48
+    44:
+    - cumbriamines.conistoncoppermines.toplevel1.49
+    74:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.47
+    47:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.46
+    61:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.45
+    32:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.44
+    7:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.42
+    75:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.41
+    70:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.43
+    54:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.40
+    6:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.39
+    59:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.38
+    53:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.37
+    84:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.36
+    25:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.35
+    30:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.34
+    86:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.33
+    98:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.32
+    2:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.27
+    91:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.24
+    52:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.28
+    12:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.23
+    88:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.25
+    49:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.26
+    0:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.22
+    43:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.21
+    45:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.14
+    55:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.7
+    38:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.15
+    57:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.6
+    37:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.8
+    100:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.5
+    79:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.4
+    51:
+    - cumbriamines.conistoncoppermines.toplevel1.50
+    48:
+    - cumbriamines.conistoncoppermines.toplevel1.51
+    9:
+    - cumbriamines.conistoncoppermines.toplevel1.52
+    63:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.9
+    82:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.10
+    26:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.11
+    31:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.12
+    17:
+    - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.x
+    40:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.13
     5:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.x2
-    63:
+    66:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.16
-    94:
+    92:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.17
-    11:
+    19:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.18
-    78:
+    35:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.19
-    71:
+    76:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.20
-    13:
+    99:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.20a
-    91:
+    67:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.20b
-    89:
+    50:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.29
-    65:
+    62:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.30
-    32:
+    69:
     - cumbriamines.conistoncoppermines.leverswatermineandbrowstopetotoplevel.31
-  splays:
-    67:
-    - - 882348.19
-      - 6041990.47
-      - 419.23
-    - - 882341.17
-      - 6041999.73
-      - 425.22
-    - - 882340.67
-      - 6041999.12
-      - 425.1
-    - - 882342.11
-      - 6041997.98
-      - 425.09
-    - - 882344.17
-      - 6041997.14
-      - 424.37
-    - - 882341.13
-      - 6041999.51
-      - 424.05
-    - - 882349.54
-      - 6041989.5
-      - 420.93
-    - - 882351.06
-      - 6041990.39
-      - 423.81
-    - - 882350.94
-      - 6041990.6
-      - 427.01
-    - - 882347.16
-      - 6041991.88
-      - 419.19
-    - - 882344.09
-      - 6041995.4
-      - 422.43
-    - - 882344.12
-      - 6041995.37
-      - 422.41
-    - - 882344.05
-      - 6041995.4
-      - 422.45
-    56:
-    - - 882344.33
-      - 6041995.57
-      - 422.4
-    - - 882347.72
-      - 6041990.82
-      - 419.85
-    - - 882344.9
-      - 6041996.27
-      - 422.16
-    - - 882344.74
-      - 6041996.07
-      - 420.9
-    - - 882343.69
-      - 6041995.34
-      - 421.03
-    - - 882350.49
-      - 6041992.44
-      - 422.51
-    - - 882345.05
-      - 6041993.9
-      - 422.41
-    - - 882345.82
-      - 6041992.21
-      - 421.47
-    43:
-    - - 882352.9
-      - 6041984.7
-      - 416.61
-    - - 882349.36
-      - 6041989.0
-      - 421.17
-    - - 882349.39
-      - 6041988.96
-      - 424.32
-    - - 882349.65
-      - 6041991.9
-      - 420.59
-    - - 882346.81
-      - 6041990.43
-      - 420.13
-    - - 882347.29
-      - 6041988.66
-      - 419.81
-    35:
-    - - 882348.67
-      - 6041988.4
-      - 418.6
-    - - 882349.19
-      - 6041988.17
-      - 423.38
-    - - 882347.6
-      - 6041987.26
-      - 417.06
-    - - 882348.73
-      - 6041987.77
-      - 417.08
-    - - 882347.25
-      - 6041988.74
-      - 419.8
-    - - 882350.34
-      - 6041987.28
-      - 422.21
-    57:
-    - - 882352.51
-      - 6041985.13
-      - 419.61
-    - - 882352.51
-      - 6041984.95
-      - 418.45
-    - - 882353.12
-      - 6041985.79
-      - 418.33
-    - - 882353.03
-      - 6041985.71
-      - 421.17
-    - - 882353.03
-      - 6041985.26
-      - 422.48
-    - - 882360.99
-      - 6041979.35
-      - 428.05
-    - - 882354.52
-      - 6041983.96
-      - 424.09
-    85:
-    - - 882357.77
-      - 6041982.02
-      - 422.84
-    - - 882358.03
-      - 6041981.69
-      - 424.27
-    - - 882358.45
-      - 6041982.71
-      - 423.38
-    - - 882357.31
-      - 6041983.87
-      - 422.86
-    - - 882358.08
-      - 6041982.41
-      - 421.29
-    - - 882357.46
-      - 6041981.92
-      - 421.48
-    - - 882359.13
-      - 6041981.32
-      - 426.36
-    - - 882358.62
-      - 6041982.81
-      - 429.12
-    - - 882358.82
-      - 6041980.21
-      - 422.32
-    - - 882360.1
-      - 6041979.74
-      - 421.47
-    40:
-    - - 882358.2
-      - 6041980.75
-      - 421.32
-    - - 882358.44
-      - 6041980.79
-      - 420.69
-    - - 882358.88
-      - 6041981.23
-      - 420.2
-    - - 882359.51
-      - 6041981.34
-      - 422.32
-    - - 882361.11
-      - 6041979.26
-      - 425.55
-    - - 882364.88
-      - 6041977.09
-      - 425.0
-    - - 882363.44
-      - 6041977.21
-      - 420.57
-    - - 882362.52
-      - 6041978.25
-      - 419.98
-    - - 882363.91
-      - 6041976.45
-      - 420.29
-    27:
-    - - 882360.57
-      - 6041978.63
-      - 416.79
-    - - 882360.83
-      - 6041978.58
-      - 417.65
-    - - 882361.43
-      - 6041978.52
-      - 420.23
-    - - 882361.55
-      - 6041979.24
-      - 418.15
-    - - 882362.35
-      - 6041978.77
-      - 425.21
-    - - 882360.91
-      - 6041978.97
-      - 415.27
-    - - 882360.35
-      - 6041978.51
-      - 415.27
-    - - 882362.58
-      - 6041976.09
-      - 413.96
-    102:
-    - - 882364.67
-      - 6041975.8
-      - 422.6
-    - - 882361.65
-      - 6041975.78
-      - 414.35
-    - - 882361.68
-      - 6041975.74
-      - 414.35
-    - - 882361.26
-      - 6041975.76
-      - 413.14
-    - - 882361.99
-      - 6041976.25
-      - 412.88
-    - - 882363.4
-      - 6041977.36
-      - 419.86
-    - - 882363.28
-      - 6041977.33
-      - 422.14
-    - - 882362.23
-      - 6041976.28
-      - 416.92
-    - - 882362.3
-      - 6041974.22
-      - 412.34
-    - - 882360.53
-      - 6041971.03
-      - 410.87
-    - - 882361.48
-      - 6041974.42
-      - 412.02
-    68:
-    - - 882361.82
-      - 6041973.49
-      - 410.36
-    - - 882361.45
-      - 6041973.3
-      - 408.85
-    - - 882360.91
-      - 6041972.28
-      - 408.9
-    - - 882360.26
-      - 6041975.21
-      - 410.2
-    - - 882359.54
-      - 6041975.28
-      - 409.06
-    - - 882363.84
-      - 6041973.59
-      - 415.48
-    - - 882362.4
-      - 6041973.35
-      - 411.76
-    - - 882361.86
-      - 6041972.67
-      - 412.64
-    - - 882367.67
-      - 6041972.87
-      - 422.05
-    - - 882358.61
-      - 6041976.12
-      - 408.54
-    33:
-    - - 882367.37
-      - 6041973.46
-      - 421.95
-    - - 882364.57
-      - 6041970.93
-      - 411.88
-    - - 882365.14
-      - 6041971.77
-      - 414.13
-    - - 882367.05
-      - 6041973.66
-      - 420.16
-    - - 882368.7
-      - 6041971.06
-      - 419.6
-    - - 882364.41
-      - 6041973.24
-      - 415.24
-    - - 882364.26
-      - 6041970.15
-      - 408.96
-    - - 882363.85
-      - 6041970.05
-      - 408.82
-    - - 882364.34
-      - 6041970.68
-      - 410.82
-    - - 882363.88
-      - 6041970.24
-      - 410.65
-    - - 882377.01
-      - 6041962.24
-      - 407.92
-    - - 882370.91
-      - 6041965.42
-      - 410.56
-    80:
-    - - 882366.8
-      - 6041967.03
-      - 409.98
-    - - 882370.75
-      - 6041968.81
-      - 421.8
-    - - 882367.68
-      - 6041972.69
-      - 419.86
-    - - 882366.85
-      - 6041966.47
-      - 406.14
-    - - 882365.94
-      - 6041973.7
-      - 421.01
-    - - 882365.82
-      - 6041971.43
-      - 413.21
-    - - 882367.03
-      - 6041969.48
-      - 408.98
-    - - 882365.6
-      - 6041969.25
-      - 409.02
-    - - 882364.39
-      - 6041968.4
-      - 408.22
-    - - 882370.42
-      - 6041965.26
-      - 413.32
-    54:
-    - - 882366.0
-      - 6041971.63
-      - 410.91
-    - - 882368.39
-      - 6041971.32
-      - 419.79
-    - - 882366.64
-      - 6041972.03
-      - 409.18
-    - - 882366.24
-      - 6041972.05
-      - 407.69
-    - - 882365.55
-      - 6041971.39
-      - 408.01
-    - - 882367.41
-      - 6041972.51
-      - 412.67
-    - - 882367.37
-      - 6041971.31
-      - 413.37
-    - - 882366.06
-      - 6041967.96
-      - 411.25
-    - - 882369.2
-      - 6041968.54
-      - 418.32
-    37:
-    - - 882364.61
-      - 6041975.36
-      - 410.78
-    - - 882365.24
-      - 6041976.33
-      - 412.99
-    - - 882363.96
-      - 6041975.49
-      - 406.23
-    - - 882363.32
-      - 6041974.66
-      - 405.1
-    - - 882364.13
-      - 6041975.09
-      - 405.05
-    - - 882363.18
-      - 6041977.03
-      - 406.41
-    - - 882364.1
-      - 6041976.64
-      - 410.06
-    - - 882366.32
-      - 6041975.02
-      - 414.34
-    - - 882362.72
-      - 6041977.02
-      - 404.67
-    - - 882362.47
-      - 6041976.32
-      - 404.22
-    - - 882362.31
-      - 6041977.3
-      - 403.22
-    - - 882363.18
-      - 6041976.57
-      - 404.18
-    - - 882361.81
-      - 6041977.95
-      - 403.01
-    12:
-    - - 882362.62
-      - 6041978.91
-      - 403.01
-    - - 882361.42
-      - 6041977.83
-      - 401.31
-    - - 882361.91
-      - 6041978.19
-      - 401.28
-    - - 882362.23
-      - 6041978.21
-      - 405.0
-    - - 882362.23
-      - 6041979.36
-      - 405.69
-    - - 882361.89
-      - 6041980.12
-      - 409.08
-    - - 882362.63
-      - 6041977.57
-      - 404.72
-    - - 882361.82
-      - 6041975.55
-      - 400.64
-    - - 882361.98
-      - 6041977.33
-      - 403.09
-    70:
-    - - 882359.2
-      - 6041981.34
-      - 403.08
-    - - 882360.38
-      - 6041981.68
-      - 403.14
-    - - 882360.05
-      - 6041982.15
-      - 406.7
-    - - 882360.79
-      - 6041982.29
-      - 404.85
-    - - 882359.6
-      - 6041984.53
-      - 406.05
-    - - 882358.85
-      - 6041984.2
-      - 404.8
-    - - 882359.44
-      - 6041985.2
-      - 404.34
-    - - 882358.51
-      - 6041984.84
-      - 402.79
-    19:
-    - - 882359.42
-      - 6041985.86
-      - 406.83
-    - - 882358.74
-      - 6041985.4
-      - 402.57
-    - - 882358.05
-      - 6041985.22
-      - 402.69
-    - - 882358.41
-      - 6041985.21
-      - 404.08
-    - - 882358.82
-      - 6041985.45
-      - 405.44
-    - - 882359.14
-      - 6041989.86
-      - 410.76
-    - - 882357.98
-      - 6041987.67
-      - 405.73
-    - - 882356.94
-      - 6041996.28
-      - 407.11
-    - - 882359.77
-      - 6041982.84
-      - 406.24
-    - - 882360.39
-      - 6041979.6
-      - 407.1
-    - - 882358.71
-      - 6041981.89
-      - 403.11
-    - - 882357.0
-      - 6041988.35
-      - 402.17
-    - - 882357.47
-      - 6041989.65
-      - 401.96
-    - - 882356.89
-      - 6041993.5
-      - 407.2
-    - - 882358.41
-      - 6041990.79
-      - 409.7
-    20:
-    - - 882364.04
-      - 6041986.55
-      - 403.64
-    - - 882364.23
-      - 6041986.57
-      - 404.1
-    - - 882364.42
-      - 6041986.17
-      - 403.04
-    28:
-    - - 882357.15
-      - 6041991.73
-      - 408.64
-    - - 882356.16
-      - 6041990.03
-      - 402.55
-    - - 882356.15
-      - 6041989.59
-      - 401.23
-    - - 882356.88
-      - 6041989.82
-      - 400.97
-    - - 882359.33
-      - 6041989.59
-      - 412.56
-    - - 882355.79
-      - 6041995.14
-      - 410.01
-    - - 882359.21
-      - 6041987.44
-      - 408.24
-    - - 882354.5
-      - 6041993.26
-      - 399.9
-    - - 882350.17
-      - 6042002.17
-      - 397.52
-    - - 882355.24
-      - 6041994.78
-      - 402.64
-    - - 882354.03
-      - 6041995.76
-      - 404.08
-    - - 882353.92
-      - 6041999.52
-      - 408.17
-    - - 882354.7
-      - 6041998.26
-      - 410.82
-    - - 882351.73
-      - 6041995.95
-      - 392.37
-    - - 882352.0
-      - 6041997.65
-      - 394.06
-    - - 882351.54
-      - 6041998.22
-      - 395.66
-    - - 882352.51
-      - 6041996.87
-      - 398.98
-    - - 882353.77
-      - 6041995.78
-      - 402.7
-    55:
-    - - 882350.37
-      - 6042002.75
-      - 397.21
-    - - 882350.46
-      - 6042002.29
-      - 398.23
-    - - 882351.2
-      - 6042002.1
-      - 398.63
-    - - 882351.7
-      - 6041999.42
-      - 408.95
-    - - 882349.59
-      - 6042001.35
-      - 398.74
-    - - 882350.03
-      - 6041999.65
-      - 404.39
-    - - 882350.28
-      - 6042000.1
-      - 404.75
-    - - 882351.31
-      - 6041999.71
-      - 408.1
-    - - 882350.82
-      - 6041999.34
-      - 405.38
-    - - 882346.42
-      - 6041989.84
-      - 399.46
-    - - 882346.43
-      - 6041989.86
-      - 399.46
-    - - 882346.51
-      - 6041989.99
-      - 399.32
-    - - 882346.45
-      - 6041989.94
-      - 399.38
-    31:
-    - - 882352.0
-      - 6042003.5
-      - 397.33
-    - - 882352.05
-      - 6042003.22
-      - 398.28
-    - - 882351.67
-      - 6042005.25
-      - 398.89
-    - - 882351.38
-      - 6042004.42
-      - 399.73
-    - - 882351.99
-      - 6042003.37
-      - 399.59
-    - - 882354.61
-      - 6042002.56
-      - 398.04
-    - - 882358.23
-      - 6042001.21
-      - 398.06
-    - - 882355.01
-      - 6042003.01
-      - 399.33
-    - - 882351.67
-      - 6042008.21
-      - 397.21
-    - - 882352.22
-      - 6042007.65
-      - 398.83
-    - - 882352.42
-      - 6042008.26
-      - 396.93
-    - - 882352.45
-      - 6042006.26
-      - 398.02
-    42:
-    - - 882353.36
-      - 6042010.1
-      - 398.06
-    - - 882353.12
-      - 6042010.3
-      - 398.75
-    - - 882353.21
-      - 6042010.29
-      - 397.14
-    - - 882352.45
-      - 6042010.15
-      - 396.91
-    - - 882353.66
-      - 6042012.13
-      - 398.15
-    - - 882352.59
-      - 6042013.58
-      - 396.81
-    - - 882353.29
-      - 6042012.31
-      - 398.39
-    - - 882353.71
-      - 6042014.93
-      - 397.7
-    14:
-    - - 882353.12
-      - 6042014.92
-      - 403.46
-    - - 882353.76
-      - 6042014.93
-      - 403.54
-    - - 882353.71
-      - 6042014.75
-      - 403.67
-    - - 882353.81
-      - 6042014.68
-      - 403.74
-    - - 882353.45
-      - 6042014.46
-      - 395.76
-    - - 882352.54
-      - 6042014.56
-      - 394.88
-    - - 882353.05
-      - 6042015.03
-      - 394.61
-    - - 882352.65
-      - 6042014.62
-      - 397.1
-    - - 882353.25
-      - 6042014.32
-      - 398.37
-    - - 882353.19
-      - 6042014.58
-      - 398.36
-    - - 882354.89
-      - 6042013.18
-      - 399.24
-    - - 882355.26
-      - 6042013.58
-      - 403.4
-    - - 882358.02
-      - 6042011.43
-      - 405.15
-    - - 882354.36
-      - 6042014.76
-      - 398.98
-    - - 882353.86
-      - 6042014.19
-      - 398.98
-    - - 882353.78
-      - 6042013.58
-      - 397.85
-    - - 882353.96
-      - 6042013.2
-      - 396.81
-    24:
-    - - 882350.25
-      - 6042017.67
-      - 398.63
-    - - 882350.3
-      - 6042017.41
-      - 392.36
-    - - 882349.88
-      - 6042016.9
-      - 391.05
-    - - 882350.35
-      - 6042017.16
-      - 391.09
-    - - 882349.14
-      - 6042018.39
-      - 396.97
-    - - 882348.25
-      - 6042019.0
-      - 394.67
-    - - 882347.63
-      - 6042019.46
-      - 393.78
-    - - 882348.29
-      - 6042019.48
-      - 392.71
-    - - 882348.1
-      - 6042018.6
-      - 392.54
-    - - 882348.03
-      - 6042018.46
-      - 390.29
-    - - 882348.86
-      - 6042018.88
-      - 390.62
-    - - 882347.29
-      - 6042018.91
-      - 388.93
-    7:
-    - - 882344.4
-      - 6042022.47
-      - 386.49
-    - - 882344.43
-      - 6042022.76
-      - 384.59
-    - - 882344.0
-      - 6042021.76
-      - 384.52
-    - - 882344.3
-      - 6042021.74
-      - 383.63
-    - - 882344.45
-      - 6042021.98
-      - 383.59
-    - - 882345.35
-      - 6042021.6
-      - 387.53
-    41:
-    - - 882343.48
-      - 6042022.61
-      - 378.93
-    - - 882343.94
-      - 6042022.46
-      - 385.63
-    - - 882344.03
-      - 6042022.15
-      - 383.76
-    2:
-    - - 882343.76
-      - 6042022.93
-      - 379.29
-    - - 882343.33
-      - 6042023.02
-      - 379.83
-    - - 882343.19
-      - 6042022.06
-      - 379.36
-    - - 882344.19
-      - 6042022.45
-      - 379.54
-    92:
-    - - 882337.48
-      - 6042027.01
-      - 379.68
-    - - 882337.52
-      - 6042028.15
-      - 378.4
-    - - 882338.08
-      - 6042028.64
-      - 378.94
-    - - 882337.77
-      - 6042028.02
-      - 380.3
-    - - 882337.48
-      - 6042027.0
-      - 380.14
-    - - 882337.68
-      - 6042026.88
-      - 378.55
-    - - 882336.09
-      - 6042029.98
-      - 379.85
-    - - 882335.1
-      - 6042028.24
-      - 380.15
-    - - 882333.82
-      - 6042028.72
-      - 378.61
-    - - 882334.23
-      - 6042029.71
-      - 378.59
-    - - 882331.6
-      - 6042029.41
-      - 380.06
-    - - 882329.37
-      - 6042030.48
-      - 378.61
-    99:
-    - - 882331.65
-      - 6042029.75
-      - 380.26
-    - - 882331.63
-      - 6042029.55
-      - 378.54
-    - - 882331.8
-      - 6042030.48
-      - 378.91
-    - - 882329.21
-      - 6042031.46
-      - 379.8
-    - - 882327.73
-      - 6042031.46
-      - 380.36
-    - - 882325.01
-      - 6042032.69
-      - 378.64
-    87:
-    - - 882320.1
-      - 6042034.84
-      - 378.75
-    - - 882319.75
-      - 6042033.98
-      - 378.81
-    - - 882319.86
-      - 6042034.02
-      - 380.3
-    - - 882320.11
-      - 6042034.81
-      - 380.39
-    - - 882315.17
-      - 6042035.93
-      - 379.16
-    - - 882315.1
-      - 6042037.1
-      - 379.77
-    - - 882317.55
-      - 6042035.69
-      - 378.74
-    75:
-    - - 882315.14
-      - 6042035.75
-      - 380.02
-    - - 882315.39
-      - 6042036.33
-      - 380.38
-    - - 882314.94
-      - 6042035.81
-      - 379.23
-    - - 882315.37
-      - 6042036.81
-      - 379.3
-    - - 882313.19
-      - 6042036.27
-      - 380.01
-    - - 882314.1
-      - 6042035.72
-      - 380.5
-    - - 882311.74
-      - 6042036.75
-      - 380.65
-    - - 882311.77
-      - 6042038.11
-      - 380.76
-    - - 882310.75
-      - 6042037.4
-      - 380.35
-    - - 882312.67
-      - 6042034.31
-      - 379.99
-    - - 882309.5
-      - 6042038.39
-      - 380.48
-    - - 882309.47
-      - 6042038.37
-      - 380.48
-    - - 882309.53
-      - 6042038.35
-      - 380.51
-    44:
-    - - 882309.7
-      - 6042034.22
-      - 380.25
-    - - 882309.95
-      - 6042033.52
-      - 380.26
-    - - 882309.63
-      - 6042033.44
-      - 381.79
-    - - 882309.52
-      - 6042031.34
-      - 382.91
-    - - 882311.34
-      - 6042031.52
-      - 383.09
-    - - 882311.61
-      - 6042030.07
-      - 385.94
-    - - 882313.81
-      - 6042029.91
-      - 386.48
-    - - 882312.52
-      - 6042032.95
-      - 383.08
-    - - 882311.91
-      - 6042034.02
-      - 381.54
-    - - 882311.54
-      - 6042035.42
-      - 380.74
-    - - 882310.3
-      - 6042033.48
-      - 380.72
-    - - 882311.62
-      - 6042033.82
-      - 380.53
-    - - 882311.78
-      - 6042034.84
-      - 380.68
-    - - 882312.48
-      - 6042035.31
-      - 379.9
-    - - 882310.62
-      - 6042033.74
-      - 380.42
-    - - 882313.49
-      - 6042030.39
-      - 385.55
-    - - 882313.32
-      - 6042030.52
-      - 385.32
-    - - 882313.71
-      - 6042030.19
-      - 385.91
-    - - 882313.8
-      - 6042029.98
-      - 386.16
-    47:
-    - - 882306.63
-      - 6042032.34
-      - 380.68
-    - - 882306.53
-      - 6042033.08
-      - 380.58
-    - - 882306.94
-      - 6042033.01
-      - 379.5
-    - - 882306.85
-      - 6042033.08
-      - 379.51
-    - - 882306.98
-      - 6042032.53
-      - 379.54
-    - - 882305.52
-      - 6042031.88
-      - 379.9
-    - - 882304.92
-      - 6042032.12
-      - 380.69
-    - - 882298.64
-      - 6042031.34
-      - 379.83
-    - - 882298.59
-      - 6042031.34
-      - 379.86
-    22:
-    - - 882299.03
-      - 6042030.84
-      - 378.99
-    - - 882298.71
-      - 6042031.03
-      - 380.58
-    - - 882299.54
-      - 6042030.31
-      - 379.23
-    - - 882299.34
-      - 6042030.48
-      - 380.56
-    - - 882297.88
-      - 6042028.5
-      - 379.95
-    - - 882295.51
-      - 6042026.01
-      - 380.78
-    - - 882293.62
-      - 6042024.77
-      - 379.97
-    - - 882293.62
-      - 6042022.8
-      - 379.48
-    - - 882293.46
-      - 6042023.23
-      - 380.64
-    - - 882297.15
-      - 6042029.51
-      - 379.22
-    74:
-    - - 882289.22
-      - 6042019.81
-      - 380.18
-    - - 882289.28
-      - 6042019.76
-      - 379.23
-    - - 882290.1
-      - 6042019.26
-      - 379.15
-    - - 882289.91
-      - 6042019.37
-      - 380.73
-    - - 882289.36
-      - 6042019.7
-      - 380.81
-    - - 882288.06
-      - 6042018.06
-      - 380.09
-    - - 882288.21
-      - 6042016.55
-      - 379.24
-    - - 882287.26
-      - 6042015.9
-      - 380.72
-    - - 882285.58
-      - 6042014.95
-      - 379.41
-    - - 882286.3
-      - 6042014.57
-      - 379.9
-    - - 882287.27
-      - 6042016.08
-      - 379.23
-    - - 882284.04
-      - 6042012.83
-      - 380.65
-    - - 882283.86
-      - 6042012.64
-      - 380.71
-    - - 882283.73
-      - 6042012.49
-      - 380.71
-    - - 882283.86
-      - 6042012.64
-      - 380.69
-    49:
-    - - 882283.47
-      - 6042012.67
-      - 379.37
-    - - 882284.09
-      - 6042011.95
-      - 379.31
-    - - 882284.35
-      - 6042011.76
-      - 380.35
-    - - 882284.16
-      - 6042011.87
-      - 380.98
-    - - 882283.85
-      - 6042012.15
-      - 381.07
-    - - 882281.52
-      - 6042009.29
-      - 379.38
-    - - 882280.65
-      - 6042009.99
-      - 379.5
-    - - 882281.41
-      - 6042009.34
-      - 380.83
-    - - 882276.42
-      - 6042005.67
-      - 379.75
-    - - 882276.81
-      - 6042006.01
-      - 379.59
-    - - 882278.9
-      - 6042006.91
-      - 379.99
-    - - 882277.96
-      - 6042006.31
-      - 381.23
-    - - 882276.57
-      - 6042005.22
-      - 380.54
-    - - 882276.58
-      - 6042005.29
-      - 380.56
-    17:
-    - - 882276.5
-      - 6042005.19
-      - 379.5
-    - - 882276.75
-      - 6042005.19
-      - 381.18
-    - - 882277.54
-      - 6042004.73
-      - 381.11
-    - - 882277.68
-      - 6042004.69
-      - 380.97
-    - - 882277.79
-      - 6042004.62
-      - 380.42
-    - - 882277.55
-      - 6042004.71
-      - 379.59
-    - - 882276.65
-      - 6042005.39
-      - 379.46
-    - - 882275.3
-      - 6042001.37
-      - 380.4
-    - - 882274.44
-      - 6042001.1
-      - 379.85
-    - - 882274.02
-      - 6042001.63
-      - 379.51
-    - - 882273.22
-      - 6042000.63
-      - 381.25
-    - - 882275.36
-      - 6042003.14
-      - 381.15
-    - - 882273.45
-      - 6042000.68
-      - 379.54
-    - - 882271.69
-      - 6041998.19
-      - 380.89
-    - - 882271.74
-      - 6041998.18
-      - 380.96
-    - - 882270.8
-      - 6041996.81
-      - 380.99
-    84:
-    - - 882272.01
-      - 6041998.0
-      - 380.39
-    - - 882271.72
-      - 6041998.4
-      - 379.61
-    - - 882271.46
-      - 6041998.49
-      - 381.27
-    - - 882270.95
-      - 6041999.14
-      - 381.04
-    - - 882271.04
-      - 6041999.39
-      - 379.66
-    - - 882271.6
-      - 6041998.6
-      - 379.56
-    - - 882269.22
-      - 6041996.08
-      - 379.78
-    - - 882270.26
-      - 6041995.4
-      - 379.64
-    - - 882269.05
-      - 6041994.65
-      - 381.09
-    - - 882266.95
-      - 6041990.65
-      - 379.73
-    - - 882269.51
-      - 6041995.25
-      - 381.34
-    90:
-    - - 882265.23
-      - 6041989.85
-      - 380.76
-    - - 882265.75
-      - 6041989.22
-      - 379.75
-    - - 882265.09
-      - 6041989.76
-      - 379.8
-    - - 882265.82
-      - 6041989.13
-      - 381.39
-    - - 882265.32
-      - 6041989.38
-      - 381.46
-    - - 882263.65
-      - 6041987.61
-      - 381.01
-    - - 882262.94
-      - 6041986.82
-      - 380.11
-    - - 882262.5
-      - 6041985.58
-      - 381.54
-    15:
-    - - 882263.71
-      - 6041985.4
-      - 381.18
-    - - 882262.71
-      - 6041985.49
-      - 381.82
-    - - 882263.5
-      - 6041985.28
-      - 381.79
-    - - 882262.6
-      - 6041985.72
-      - 379.96
-    - - 882263.5
-      - 6041985.33
-      - 379.94
-    - - 882262.21
-      - 6041983.15
-      - 381.69
-    - - 882262.08
-      - 6041982.48
-      - 380.26
-    - - 882261.38
-      - 6041983.47
-      - 380.12
-    - - 882260.38
-      - 6041981.18
-      - 381.59
-    - - 882260.13
-      - 6041980.95
-      - 380.19
-    - - 882262.02
-      - 6041984.72
-      - 381.37
-    - - 882262.02
-      - 6041982.33
-      - 380.27
-    - - 882261.86
-      - 6041982.48
-      - 381.71
-    - - 882259.74
-      - 6041980.45
-      - 380.25
-    - - 882260.97
-      - 6041982.18
-      - 381.8
-    - - 882261.42
-      - 6041983.66
-      - 380.33
-    - - 882262.25
-      - 6041982.82
-      - 380.18
-    96:
-    - - 882260.01
-      - 6041981.03
-      - 380.1
-    - - 882259.93
-      - 6041980.81
-      - 381.77
-    - - 882259.56
-      - 6041981.41
-      - 381.88
-    - - 882259.04
-      - 6041981.3
-      - 380.24
-    - - 882257.93
-      - 6041980.03
-      - 380.74
-    - - 882258.22
-      - 6041978.24
-      - 381.29
-    - - 882258.28
-      - 6041979.12
-      - 381.82
-    - - 882256.7
-      - 6041978.48
-      - 380.37
-    - - 882257.77
-      - 6041978.06
-      - 380.43
-    - - 882255.02
-      - 6041975.76
-      - 381.68
-    - - 882258.13
-      - 6041979.77
-      - 381.47
-    39:
-    - - 882257.2
-      - 6041977.54
-      - 381.86
-    - - 882256.64
-      - 6041978.01
-      - 381.91
-    - - 882256.33
-      - 6041978.21
-      - 380.33
-    - - 882256.43
-      - 6041978.25
-      - 381.32
-    - - 882257.15
-      - 6041977.4
-      - 380.36
-    - - 882255.7
-      - 6041975.96
-      - 383.57
-    - - 882255.74
-      - 6041975.45
-      - 382.38
-    - - 882252.76
-      - 6041977.71
-      - 380.2
-    - - 882252.9
-      - 6041969.83
-      - 374.18
-    - - 882254.86
-      - 6041970.51
-      - 376.89
-    - - 882255.56
-      - 6041973.01
-      - 378.83
-    - - 882255.78
-      - 6041974.49
-      - 379.68
-    - - 882256.6
-      - 6041973.29
-      - 381.42
-    - - 882256.67
-      - 6041968.87
-      - 381.87
-    - - 882255.4
-      - 6041971.01
-      - 375.81
-    - - 882256.69
-      - 6041975.86
-      - 379.89
-    - - 882256.62
-      - 6041975.91
-      - 379.88
-    - - 882256.09
-      - 6041976.63
-      - 380.12
-    72:
-    - - 882254.3
-      - 6041979.3
-      - 382.01
-    - - 882258.4
-      - 6041981.39
-      - 391.67
-    - - 882251.55
-      - 6041977.61
-      - 377.41
-    - - 882250.9
-      - 6041979.89
-      - 379.41
-    - - 882253.85
-      - 6041976.5
-      - 378.16
-    - - 882255.58
-      - 6041974.8
-      - 376.9
-    - - 882253.52
-      - 6041984.15
-      - 388.65
-    - - 882255.41
-      - 6041981.95
-      - 389.55
-    - - 882257.07
-      - 6041977.68
-      - 387.23
-    - - 882260.91
-      - 6041976.55
-      - 388.7
-    - - 882257.99
-      - 6041975.8
-      - 385.63
-    - - 882257.61
-      - 6041976.74
-      - 383.19
-    - - 882257.45
-      - 6041977.0
-      - 381.99
-    - - 882258.54
-      - 6041974.56
-      - 381.59
-    - - 882255.54
-      - 6041976.05
-      - 381.97
-    - - 882254.75
-      - 6041977.24
-      - 379.79
-    - - 882253.77
-      - 6041977.89
-      - 380.38
-    - - 882252.76
-      - 6041978.64
-      - 380.25
-    - - 882251.2
-      - 6041980.38
-      - 380.18
-    - - 882250.29
-      - 6041986.27
-      - 384.82
-    - - 882253.07
-      - 6041986.42
-      - 387.68
-    - - 882252.98
-      - 6041982.47
-      - 384.13
-    - - 882254.29
-      - 6041982.78
-      - 388.89
-    - - 882258.4
-      - 6041973.07
-      - 380.34
-    - - 882249.21
-      - 6041978.72
-      - 375.36
-    - - 882249.5
-      - 6041984.1
-      - 382.81
-    16:
-    - - 882250.93
-      - 6041983.99
-      - 383.26
-    - - 882254.42
-      - 6041984.95
-      - 387.84
-    - - 882250.6
-      - 6041984.81
-      - 384.94
-    - - 882248.84
-      - 6041983.98
-      - 381.34
-    - - 882249.9
-      - 6041984.2
-      - 381.5
-    - - 882249.22
-      - 6041982.21
-      - 381.05
-    - - 882250.48
-      - 6041983.22
-      - 381.43
-    - - 882252.91
-      - 6041984.62
-      - 385.83
-    - - 882254.64
-      - 6041982.31
-      - 389.03
-    - - 882252.4
-      - 6041983.17
-      - 384.53
-    - - 882250.7
-      - 6041982.64
-      - 384.84
-    - - 882249.87
-      - 6041989.47
-      - 383.24
-    - - 882249.17
-      - 6041988.32
-      - 380.82
-    - - 882249.32
-      - 6041989.69
-      - 382.11
-    - - 882248.55
-      - 6041989.67
-      - 382.39
-    - - 882247.4
-      - 6041991.37
-      - 380.45
-    - - 882249.12
-      - 6041988.64
-      - 381.41
-    - - 882248.31
-      - 6041986.69
-      - 381.0
-    - - 882249.61
-      - 6041987.09
-      - 380.89
-    38:
-    - - 882253.93
-      - 6041970.58
-      - 376.11
-    - - 882254.47
-      - 6041970.35
-      - 377.05
-    - - 882253.89
-      - 6041971.67
-      - 377.13
-    - - 882253.55
-      - 6041972.25
-      - 376.34
-    - - 882252.6
-      - 6041970.6
-      - 374.85
-    - - 882252.99
-      - 6041969.94
-      - 374.18
-    - - 882251.65
-      - 6041971.39
-      - 373.31
-    - - 882252.43
-      - 6041971.59
-      - 373.48
-    - - 882252.04
-      - 6041970.15
-      - 372.05
-    - - 882253.71
-      - 6041971.19
-      - 373.59
-    - - 882252.15
-      - 6041972.75
-      - 373.78
-    - - 882253.9
-      - 6041975.14
-      - 376.96
-    - - 882253.8
-      - 6041973.79
-      - 376.98
-    - - 882254.81
-      - 6041973.1
-      - 377.71
-    - - 882255.34
-      - 6041972.12
-      - 378.19
-    - - 882258.08
-      - 6041975.0
-      - 380.45
-    - - 882257.55
-      - 6041972.28
-      - 378.63
-    - - 882256.12
-      - 6041972.51
-      - 376.55
-    - - 882255.81
-      - 6041971.02
-      - 377.91
-    - - 882257.89
-      - 6041971.62
-      - 382.96
-    - - 882260.54
-      - 6041973.87
-      - 386.96
-    - - 882259.59
-      - 6041973.73
-      - 386.58
-    - - 882257.93
-      - 6041973.93
-      - 382.19
-    - - 882257.52
-      - 6041975.76
-      - 382.13
-    - - 882257.41
-      - 6041977.09
-      - 381.26
-    - - 882257.69
-      - 6041972.15
-      - 379.1
-    - - 882255.73
-      - 6041976.2
-      - 379.4
-    - - 882256.96
-      - 6041977.82
-      - 382.11
-    - - 882255.75
-      - 6041973.02
-      - 376.54
-    - - 882253.44
-      - 6041972.07
-      - 376.08
-    - - 882255.14
-      - 6041970.67
-      - 377.64
-    - - 882255.53
-      - 6041971.25
-      - 374.69
-    88:
-    - - 882252.21
-      - 6041969.9
-      - 371.04
-    - - 882254.31
-      - 6041968.7
-      - 370.05
-    - - 882253.24
-      - 6041969.63
-      - 370.04
-    - - 882252.32
-      - 6041970.12
-      - 371.06
-    - - 882252.41
-      - 6041970.6
-      - 371.03
-    - - 882252.39
-      - 6041970.78
-      - 370.85
-    - - 882252.3
-      - 6041970.07
-      - 371.6
-    - - 882253.12
-      - 6041970.35
-      - 372.44
-    - - 882254.87
-      - 6041970.59
-      - 374.97
-    - - 882252.59
-      - 6041971.12
-      - 373.34
-    - - 882253.14
-      - 6041972.03
-      - 373.41
-    - - 882251.92
-      - 6041971.83
-      - 372.77
-    - - 882250.23
-      - 6041971.32
-      - 371.0
-    - - 882250.34
-      - 6041970.76
-      - 370.53
-    - - 882250.87
-      - 6041971.02
-      - 370.71
-    - - 882248.98
-      - 6041970.34
-      - 368.78
-    - - 882250.12
-      - 6041969.66
-      - 369.75
-    - - 882250.3
-      - 6041970.06
-      - 369.54
-    - - 882250.07
-      - 6041970.09
-      - 370.51
-    - - 882251.67
-      - 6041972.02
-      - 371.9
-    - - 882251.1
-      - 6041970.72
-      - 371.5
-    - - 882251.61
-      - 6041970.99
-      - 370.93
-    - - 882251.9
-      - 6041971.36
-      - 371.41
-    - - 882252.35
-      - 6041971.71
-      - 372.14
-    - - 882252.78
-      - 6041971.87
-      - 372.79
-    - - 882253.04
-      - 6041972.12
-      - 373.45
-    - - 882252.9
-      - 6041970.93
-      - 371.96
-    - - 882252.29
-      - 6041970.96
-      - 370.94
-    - - 882251.16
-      - 6041970.16
-      - 371.72
-    - - 882251.38
-      - 6041970.37
-      - 372.47
-    - - 882251.16
-      - 6041970.12
-      - 370.68
-    101:
-    - - 882250.13
-      - 6041974.64
-      - 366.51
-    - - 882257.16
-      - 6041966.66
-      - 368.81
-    - - 882258.82
-      - 6041966.19
-      - 368.74
-    - - 882259.0
-      - 6041966.52
-      - 369.71
-    - - 882259.18
-      - 6041966.88
-      - 370.39
-    - - 882259.64
-      - 6041967.45
-      - 372.78
-    - - 882256.85
-      - 6041969.06
-      - 371.36
-    - - 882258.29
-      - 6041968.6
-      - 372.01
-    - - 882257.31
-      - 6041967.59
-      - 369.66
-    - - 882254.59
-      - 6041968.55
-      - 369.28
-    - - 882255.38
-      - 6041969.08
-      - 368.69
-    - - 882256.21
-      - 6041967.89
-      - 367.84
-    - - 882256.79
-      - 6041966.53
-      - 366.71
-    - - 882256.71
-      - 6041965.94
-      - 367.06
-    - - 882259.96
-      - 6041966.91
-      - 368.35
-    - - 882256.88
-      - 6041965.08
-      - 365.35
-    - - 882257.77
-      - 6041964.97
-      - 365.28
-    - - 882256.75
-      - 6041964.86
-      - 364.41
-    - - 882262.93
-      - 6041965.61
-      - 374.93
-    - - 882264.02
-      - 6041966.34
-      - 377.33
-    - - 882262.14
-      - 6041967.12
-      - 376.01
-    - - 882269.15
-      - 6041962.98
-      - 378.9
-    - - 882267.97
-      - 6041962.97
-      - 374.51
-    - - 882259.59
-      - 6041965.82
-      - 368.63
-    - - 882261.18
-      - 6041967.54
-      - 375.4
-    - - 882259.88
-      - 6041966.85
-      - 367.17
-    - - 882260.91
-      - 6041964.14
-      - 367.75
-    - - 882260.55
-      - 6041964.2
-      - 367.14
-    - - 882261.64
-      - 6041964.93
-      - 367.73
-    - - 882262.6
-      - 6041964.19
-      - 368.58
-    - - 882262.99
-      - 6041963.67
-      - 369.32
-    - - 882261.42
-      - 6041964.52
-      - 369.19
-    - - 882261.66
-      - 6041964.87
-      - 370.02
-    - - 882262.78
-      - 6041964.8
-      - 371.22
-    - - 882265.57
-      - 6041964.52
-      - 371.52
-    - - 882263.2
-      - 6041965.69
-      - 369.43
-    - - 882265.94
-      - 6041963.65
-      - 370.03
-    - - 882269.76
-      - 6041958.06
-      - 371.18
-    23:
-    - - 882267.73
-      - 6041958.43
-      - 370.49
-    - - 882267.78
-      - 6041958.19
-      - 369.31
-    - - 882268.95
-      - 6041958.91
-      - 369.15
-    - - 882269.84
-      - 6041959.69
-      - 369.28
-    - - 882268.47
-      - 6041957.94
-      - 371.34
-    - - 882268.65
-      - 6041958.24
-      - 373.18
-    - - 882268.68
-      - 6041958.29
-      - 373.19
-    - - 882269.2
-      - 6041958.53
-      - 374.71
-    - - 882270.14
-      - 6041958.58
-      - 376.86
-    - - 882271.42
-      - 6041958.75
-      - 380.22
-    - - 882273.83
-      - 6041958.93
-      - 387.12
-    - - 882270.91
-      - 6041959.97
-      - 372.64
-    - - 882273.45
-      - 6041960.14
-      - 381.8
-    - - 882270.41
-      - 6041954.76
-      - 369.69
-    - - 882270.19
-      - 6041956.48
-      - 368.02
-    - - 882270.49
-      - 6041957.65
-      - 368.21
-    - - 882271.3
-      - 6041958.08
-      - 368.1
-    - - 882271.4
-      - 6041956.11
-      - 367.2
-    - - 882272.87
-      - 6041954.48
-      - 365.8
-    - - 882273.51
-      - 6041954.61
-      - 366.35
-    - - 882273.97
-      - 6041954.5
-      - 367.42
-    - - 882277.23
-      - 6041949.34
-      - 369.02
-    - - 882276.5
-      - 6041948.67
-      - 365.27
-    - - 882276.85
-      - 6041948.96
-      - 367.03
-    - - 882277.38
-      - 6041949.59
-      - 370.34
-    - - 882276.49
-      - 6041951.44
-      - 372.39
-    - - 882273.94
-      - 6041954.88
-      - 373.12
-    - - 882275.1
-      - 6041953.03
-      - 375.2
-    - - 882275.74
-      - 6041952.28
-      - 377.29
-    - - 882280.0
-      - 6041946.5
-      - 386.35
-    - - 882272.3
-      - 6041955.96
-      - 378.82
-    - - 882271.78
-      - 6041955.08
-      - 376.82
-    - - 882270.95
-      - 6041954.84
-      - 373.62
-    - - 882267.86
-      - 6041958.21
-      - 370.61
-    - - 882274.23
-      - 6041959.74
-      - 389.51
-    - - 882270.09
-      - 6041959.98
-      - 369.38
-    69:
-    - - 882272.68
-      - 6041953.82
-      - 368.35
-    - - 882271.93
-      - 6041953.54
-      - 367.75
-    - - 882272.3
-      - 6041952.75
-      - 366.47
-    - - 882271.87
-      - 6041957.65
-      - 371.07
-    - - 882273.3
-      - 6041956.09
-      - 372.54
-    - - 882272.04
-      - 6041957.12
-      - 373.07
-    - - 882266.77
-      - 6041962.96
-      - 379.42
-    - - 882268.2
-      - 6041962.54
-      - 372.26
-    - - 882273.4
-      - 6041956.25
-      - 372.31
-    - - 882273.54
-      - 6041953.12
-      - 369.98
-    - - 882274.71
-      - 6041954.43
-      - 373.06
-    - - 882273.28
-      - 6041955.9
-      - 373.86
-    - - 882271.22
-      - 6041958.82
-      - 380.27
-    - - 882276.0
-      - 6041954.08
-      - 377.37
-    - - 882279.51
-      - 6041953.35
-      - 382.98
-    - - 882274.34
-      - 6041952.73
-      - 366.01
-    - - 882277.51
-      - 6041952.11
-      - 371.47
-    - - 882274.9
-      - 6041953.01
-      - 367.3
-    - - 882278.29
-      - 6041950.42
-      - 371.6
-    - - 882280.27
-      - 6041949.91
-      - 376.1
-    - - 882278.44
-      - 6041950.5
-      - 371.16
-    - - 882277.07
-      - 6041949.55
-      - 369.62
-    - - 882277.5
-      - 6041949.45
-      - 368.21
-    - - 882275.97
-      - 6041949.1
-      - 367.26
-    - - 882277.03
-      - 6041949.0
-      - 366.74
-    - - 882274.21
-      - 6041950.12
-      - 367.2
-    - - 882273.86
-      - 6041951.26
-      - 368.29
-    - - 882274.37
-      - 6041949.64
-      - 365.43
-    - - 882273.75
-      - 6041950.03
-      - 364.06
-    - - 882273.28
-      - 6041950.9
-      - 363.7
-    - - 882273.93
-      - 6041950.99
-      - 363.51
-    - - 882274.62
-      - 6041951.87
-      - 364.73
-    - - 882276.82
-      - 6041948.46
-      - 363.11
-    - - 882277.26
-      - 6041948.85
-      - 364.53
-    - - 882276.16
-      - 6041948.69
-      - 362.11
-    - - 882272.47
-      - 6041950.5
-      - 365.2
-    - - 882273.05
-      - 6041950.89
-      - 366.59
-    - - 882272.2
-      - 6041951.65
-      - 365.26
-    - - 882278.17
-      - 6041954.34
-      - 386.1
-    - - 882274.0
-      - 6041952.7
-      - 364.43
-    61:
-    - - 882278.89
-      - 6041952.44
-      - 374.75
-    - - 882278.55
-      - 6041953.6
-      - 378.95
-    - - 882279.32
-      - 6041950.69
-      - 373.66
-    - - 882274.12
-      - 6041955.45
-      - 375.1
-    - - 882275.18
-      - 6041954.24
-      - 373.87
-    - - 882267.17
-      - 6041959.83
-      - 373.19
-    - - 882267.73
-      - 6041959.2
-      - 368.94
-    - - 882269.83
-      - 6041957.11
-      - 367.97
-    - - 882276.19
-      - 6041953.07
-      - 374.75
-    - - 882275.54
-      - 6041955.39
-      - 374.61
-    - - 882276.1
-      - 6041955.22
-      - 376.07
-    - - 882276.35
-      - 6041954.84
-      - 377.04
-    - - 882275.82
-      - 6041954.66
-      - 378.82
-    - - 882273.78
-      - 6041955.92
-      - 381.07
-    - - 882271.2
-      - 6041958.14
-      - 380.6
-    - - 882277.48
-      - 6041952.76
-      - 377.71
-    - - 882278.77
-      - 6041954.2
-      - 381.67
-    - - 882278.93
-      - 6041952.93
-      - 376.03
-    - - 882278.76
-      - 6041952.85
-      - 375.26
-    - - 882278.66
-      - 6041952.55
-      - 374.76
-    - - 882278.41
-      - 6041952.76
-      - 374.17
-    - - 882280.44
-      - 6041952.02
-      - 376.74
-    - - 882279.95
-      - 6041952.86
-      - 378.04
-    - - 882279.32
-      - 6041954.06
-      - 382.28
-    - - 882278.33
-      - 6041950.89
-      - 371.91
-    - - 882273.33
-      - 6041952.94
-      - 364.5
-    - - 882272.1
-      - 6041954.27
-      - 365.5
-    - - 882271.26
-      - 6041955.75
-      - 366.49
-    - - 882270.32
-      - 6041956.77
-      - 367.5
-    - - 882273.7
-      - 6041954.07
-      - 371.23
-    - - 882277.2
-      - 6041952.81
-      - 372.13
-    - - 882277.7
-      - 6041953.0
-      - 373.66
-    82:
-    - - 882286.21
-      - 6041949.52
-      - 381.04
-    - - 882286.08
-      - 6041949.26
-      - 379.98
-    - - 882286.48
-      - 6041949.96
-      - 380.08
-    - - 882286.64
-      - 6041950.78
-      - 381.44
-    - - 882286.82
-      - 6041950.66
-      - 382.45
-    - - 882286.84
-      - 6041950.44
-      - 383.11
-    - - 882286.66
-      - 6041949.83
-      - 383.14
-    - - 882286.5
-      - 6041949.59
-      - 382.49
-    - - 882286.22
-      - 6041949.41
-      - 381.83
-    - - 882285.29
-      - 6041949.84
-      - 381.7
-    - - 882283.18
-      - 6041950.63
-      - 382.35
-    - - 882280.7
-      - 6041952.18
-      - 381.96
-    - - 882279.28
-      - 6041952.46
-      - 379.63
-    - - 882279.33
-      - 6041951.74
-      - 378.16
-    - - 882283.09
-      - 6041950.39
-      - 379.65
-    - - 882285.03
-      - 6041949.95
-      - 380.96
-    - - 882273.67
-      - 6041955.44
-      - 378.73
-    - - 882272.93
-      - 6041955.33
-      - 377.1
-    - - 882272.34
-      - 6041955.03
-      - 375.22
-    - - 882276.45
-      - 6041953.29
-      - 375.78
-    - - 882278.15
-      - 6041952.03
-      - 375.41
-    - - 882281.34
-      - 6041951.87
-      - 377.39
-    - - 882284.59
-      - 6041950.25
-      - 378.62
-    - - 882282.5
-      - 6041950.38
-      - 377.63
-    - - 882283.31
-      - 6041950.33
-      - 380.14
-    - - 882285.9
-      - 6041950.48
-      - 382.68
-    - - 882284.8
-      - 6041950.88
-      - 386.69
-    - - 882287.66
-      - 6041949.79
-      - 380.94
-    - - 882287.35
-      - 6041949.92
-      - 380.57
-    - - 882287.06
-      - 6041950.01
-      - 380.15
-    - - 882288.29
-      - 6041949.59
-      - 381.37
-    - - 882288.21
-      - 6041949.54
-      - 382.2
-    - - 882287.8
-      - 6041949.78
-      - 382.85
-    - - 882287.77
-      - 6041950.15
-      - 383.14
-    - - 882287.21
-      - 6041950.51
-      - 382.39
-    - - 882286.94
-      - 6041950.16
-      - 383.3
-    - - 882288.15
-      - 6041948.98
-      - 382.76
-    - - 882288.55
-      - 6041948.71
-      - 381.79
-    - - 882288.34
-      - 6041948.36
-      - 381.24
-    - - 882288.07
-      - 6041948.17
-      - 382.8
-    - - 882287.88
-      - 6041948.79
-      - 382.89
-    - - 882287.87
-      - 6041946.51
-      - 381.68
-    - - 882287.9
-      - 6041947.16
-      - 382.33
-    - - 882289.41
-      - 6041943.98
-      - 381.9
-    - - 882286.55
-      - 6041949.31
-      - 381.13
-    - - 882286.71
-      - 6041950.45
-      - 383.05
-    - - 882286.71
-      - 6041950.17
-      - 380.1
-    26:
-    - - 882289.66
-      - 6041947.61
-      - 384.21
-    - - 882289.05
-      - 6041947.42
-      - 383.0
-    - - 882289.72
-      - 6041947.82
-      - 384.78
-    - - 882290.39
-      - 6041946.94
-      - 385.13
-    - - 882291.26
-      - 6041945.58
-      - 385.6
-    - - 882291.41
-      - 6041945.36
-      - 384.69
-    - - 882289.79
-      - 6041945.11
-      - 381.7
-    - - 882288.46
-      - 6041946.39
-      - 381.16
-    - - 882290.4
-      - 6041945.92
-      - 383.12
-    - - 882290.61
-      - 6041944.3
-      - 383.86
-    - - 882291.53
-      - 6041942.48
-      - 384.25
-    - - 882290.69
-      - 6041941.06
-      - 382.33
-    - - 882290.32
-      - 6041942.62
-      - 382.47
-    - - 882290.05
-      - 6041943.17
-      - 382.35
-    - - 882290.53
-      - 6041942.88
-      - 383.88
-    - - 882292.78
-      - 6041941.19
-      - 384.96
-    - - 882293.9
-      - 6041938.92
-      - 386.15
-    - - 882294.97
-      - 6041938.92
-      - 387.71
-    - - 882296.77
-      - 6041938.07
-      - 390.06
-    - - 882295.42
-      - 6041940.3
-      - 390.05
-    - - 882294.69
-      - 6041941.25
-      - 390.06
-    - - 882295.23
-      - 6041941.21
-      - 391.41
-    - - 882290.9
-      - 6041944.27
-      - 384.76
-    - - 882292.79
-      - 6041943.32
-      - 386.02
-    - - 882291.96
-      - 6041944.24
-      - 385.8
-    - - 882292.49
-      - 6041944.08
-      - 386.5
-    - - 882291.4
-      - 6041944.87
-      - 384.45
-    - - 882290.55
-      - 6041944.74
-      - 386.16
-    - - 882290.37
-      - 6041944.31
-      - 383.88
-    79:
-    - - 882295.7
-      - 6041942.58
-      - 394.76
-    - - 882293.14
-      - 6041949.03
-      - 394.06
-    - - 882296.09
-      - 6041944.49
-      - 394.75
-    - - 882297.04
-      - 6041944.38
-      - 396.23
-    - - 882297.87
-      - 6041946.32
-      - 401.15
-    - - 882296.72
-      - 6041947.53
-      - 399.65
-    - - 882296.46
-      - 6041944.6
-      - 398.58
-    - - 882297.06
-      - 6041943.01
-      - 398.71
-    - - 882299.13
-      - 6041943.66
-      - 404.6
-    - - 882298.22
-      - 6041945.56
-      - 403.67
-    - - 882300.03
-      - 6041941.67
-      - 403.8
-    - - 882297.38
-      - 6041940.77
-      - 397.8
-    - - 882296.76
-      - 6041940.28
-      - 396.5
-    - - 882296.37
-      - 6041940.37
-      - 395.54
-    - - 882296.04
-      - 6041940.63
-      - 394.92
-    - - 882295.72
-      - 6041940.69
-      - 394.32
-    - - 882295.82
-      - 6041940.81
-      - 393.33
-    - - 882296.44
-      - 6041941.18
-      - 393.31
-    - - 882294.8
-      - 6041943.01
-      - 393.95
-    - - 882296.32
-      - 6041941.32
-      - 395.82
-    - - 882298.44
-      - 6041939.21
-      - 398.44
-    - - 882297.33
-      - 6041940.88
-      - 395.33
-    - - 882297.24
-      - 6041939.69
-      - 396.49
-    - - 882297.65
-      - 6041939.19
-      - 394.56
-    - - 882297.31
-      - 6041939.94
-      - 393.96
-    - - 882298.24
-      - 6041939.08
-      - 394.31
-    - - 882298.24
-      - 6041939.08
-      - 394.31
-    - - 882299.54
-      - 6041936.82
-      - 394.92
-    - - 882300.19
-      - 6041936.86
-      - 395.34
-    - - 882301.11
-      - 6041935.61
-      - 396.13
-    - - 882302.44
-      - 6041934.04
-      - 398.14
-    - - 882295.97
-      - 6041940.68
-      - 394.81
-    - - 882299.45
-      - 6041942.9
-      - 403.83
-    - - 882296.56
-      - 6041941.01
-      - 393.43
-    52:
-    - - 882305.75
-      - 6041934.3
-      - 399.44
-    - - 882306.9
-      - 6041933.84
-      - 400.36
-    - - 882309.24
-      - 6041932.82
-      - 402.06
-    - - 882304.61
-      - 6041934.37
-      - 400.51
-    - - 882303.67
-      - 6041934.46
-      - 399.58
-    - - 882308.01
-      - 6041934.24
-      - 402.44
-    - - 882307.55
-      - 6041934.18
-      - 401.06
-    - - 882304.71
-      - 6041935.33
-      - 399.89
-    - - 882309.84
-      - 6041934.3
-      - 407.8
-    - - 882310.86
-      - 6041933.34
-      - 408.39
-    - - 882311.61
-      - 6041932.53
-      - 407.35
-    - - 882306.29
-      - 6041933.89
-      - 402.42
-    - - 882305.41
-      - 6041934.59
-      - 398.8
-    - - 882304.48
-      - 6041934.92
-      - 398.29
-    - - 882303.86
-      - 6041934.29
-      - 398.23
-    - - 882303.29
-      - 6041936.28
-      - 400.05
-    - - 882303.85
-      - 6041936.36
-      - 399.75
-    - - 882303.75
-      - 6041935.8
-      - 398.95
-    - - 882303.6
-      - 6041936.02
-      - 398.16
-    - - 882302.68
-      - 6041937.16
-      - 397.57
-    - - 882301.44
-      - 6041938.7
-      - 397.64
-    - - 882298.84
-      - 6041940.24
-      - 395.34
-    - - 882298.6
-      - 6041939.73
-      - 394.47
-    - - 882300.1
-      - 6041937.71
-      - 395.04
-    - - 882302.0
-      - 6041936.26
-      - 396.36
-    - - 882302.84
-      - 6041935.6
-      - 397.0
-    - - 882300.11
-      - 6041937.79
-      - 397.83
-    - - 882301.19
-      - 6041937.37
-      - 399.6
-    - - 882301.14
-      - 6041939.43
-      - 400.52
-    - - 882297.33
-      - 6041944.78
-      - 401.33
-    - - 882297.42
-      - 6041943.51
-      - 399.29
-    - - 882296.7
-      - 6041943.41
-      - 397.87
-    - - 882296.68
-      - 6041942.01
-      - 396.42
-    - - 882295.91
-      - 6041942.12
-      - 394.89
-    - - 882303.09
-      - 6041934.84
-      - 399.24
-    - - 882303.86
-      - 6041935.77
-      - 399.1
-    - - 882303.35
-      - 6041935.37
-      - 400.43
-    - - 882302.95
-      - 6041934.82
-      - 397.56
-    83:
-    - - 882311.92
-      - 6041932.07
-      - 405.05
-    - - 882312.66
-      - 6041930.72
-      - 405.28
-    - - 882314.48
-      - 6041928.92
-      - 406.45
-    - - 882314.93
-      - 6041929.0
-      - 407.26
-    - - 882314.38
-      - 6041929.7
-      - 407.84
-    - - 882313.99
-      - 6041930.33
-      - 408.14
-    - - 882310.37
-      - 6041931.55
-      - 405.06
-    - - 882311.68
-      - 6041932.38
-      - 404.92
-    - - 882311.62
-      - 6041933.82
-      - 412.34
-    - - 882310.88
-      - 6041932.21
-      - 403.83
-    - - 882313.77
-      - 6041931.0
-      - 408.28
-    - - 882314.55
-      - 6041929.88
-      - 411.51
-    - - 882315.26
-      - 6041930.17
-      - 412.74
-    - - 882314.39
-      - 6041931.12
-      - 412.94
-    - - 882316.14
-      - 6041929.04
-      - 411.53
-    - - 882303.16
-      - 6041938.75
-      - 408.57
-    - - 882304.51
-      - 6041938.62
-      - 411.27
-    - - 882303.23
-      - 6041939.17
-      - 409.13
-    - - 882303.09
-      - 6041938.57
-      - 408.18
-    - - 882304.36
-      - 6041936.61
-      - 405.8
-    - - 882302.69
-      - 6041938.44
-      - 405.7
-    - - 882304.66
-      - 6041935.77
-      - 403.93
-    - - 882303.0
-      - 6041937.43
-      - 402.56
-    - - 882303.57
-      - 6041936.38
-      - 401.39
-    - - 882309.76
-      - 6041933.17
-      - 403.54
-    - - 882308.62
-      - 6041931.87
-      - 402.68
-    - - 882309.0
-      - 6041932.41
-      - 404.03
-    - - 882309.04
-      - 6041932.73
-      - 405.11
-    - - 882309.51
-      - 6041932.6
-      - 406.03
-    - - 882309.77
-      - 6041932.63
-      - 407.29
-    - - 882309.73
-      - 6041932.62
-      - 407.18
-    - - 882310.68
-      - 6041933.76
-      - 410.9
-    - - 882311.61
-      - 6041933.69
-      - 412.37
-    - - 882310.42
-      - 6041934.47
-      - 411.82
-    - - 882308.0
-      - 6041936.91
-      - 411.93
-    - - 882310.34
-      - 6041931.62
-      - 405.19
-    - - 882310.49
-      - 6041931.77
-      - 405.83
-    - - 882311.01
-      - 6041931.57
-      - 406.81
-    - - 882311.68
-      - 6041931.1
-      - 407.62
-    - - 882311.5
-      - 6041930.44
-      - 405.98
-    - - 882311.55
-      - 6041931.56
-      - 404.97
-    - - 882309.24
-      - 6041931.79
-      - 402.44
-    - - 882309.03
-      - 6041932.43
-      - 401.98
-    - - 882308.44
-      - 6041932.52
-      - 403.1
-    - - 882303.35
-      - 6041935.25
-      - 399.33
-    100:
-    - - 882311.65
-      - 6041935.25
-      - 414.66
-    - - 882310.99
-      - 6041936.85
-      - 416.5
-    - - 882313.03
-      - 6041934.49
-      - 415.19
-    - - 882313.68
-      - 6041933.42
-      - 414.39
-    - - 882313.87
-      - 6041932.91
-      - 414.27
-    - - 882314.3
-      - 6041933.31
-      - 414.97
-    - - 882314.39
-      - 6041933.36
-      - 415.93
-    - - 882314.25
-      - 6041934.1
-      - 418.25
-    - - 882313.5
-      - 6041934.75
-      - 417.85
-    - - 882312.83
-      - 6041935.5
-      - 417.31
-    - - 882311.94
-      - 6041934.02
-      - 413.28
-    - - 882312.04
-      - 6041933.67
-      - 412.8
-    - - 882308.82
-      - 6041935.7
-      - 408.11
-    - - 882311.19
-      - 6041934.17
-      - 410.06
-    - - 882312.74
-      - 6041933.1
-      - 411.09
-    - - 882313.67
-      - 6041932.5
-      - 412.78
-    - - 882314.06
-      - 6041932.24
-      - 413.17
-    - - 882314.58
-      - 6041932.82
-      - 414.45
-    - - 882315.01
-      - 6041932.71
-      - 415.52
-    - - 882314.11
-      - 6041932.86
-      - 414.36
-    - - 882314.57
-      - 6041932.96
-      - 414.58
-    - - 882315.38
-      - 6041933.28
-      - 418.87
-    - - 882313.57
-      - 6041932.25
-      - 413.54
-    - - 882313.65
-      - 6041932.28
-      - 414.55
-    45:
-    - - 882317.51
-      - 6041932.39
-      - 420.78
-    - - 882317.41
-      - 6041932.66
-      - 421.6
-    - - 882315.64
-      - 6041933.98
-      - 421.39
-    - - 882314.83
-      - 6041934.27
-      - 420.7
-    - - 882316.24
-      - 6041933.1
-      - 420.0
-    - - 882317.23
-      - 6041932.2
-      - 419.8
-    - - 882317.86
-      - 6041931.56
-      - 419.91
-    - - 882316.84
-      - 6041930.77
-      - 419.97
-    - - 882316.14
-      - 6041930.91
-      - 419.26
-    - - 882317.29
-      - 6041931.43
-      - 419.66
-    - - 882315.69
-      - 6041931.6
-      - 418.97
-    - - 882316.51
-      - 6041931.49
-      - 420.16
-    - - 882316.85
-      - 6041931.15
-      - 420.89
-    - - 882317.2
-      - 6041931.01
-      - 421.4
-    - - 882317.23
-      - 6041931.27
-      - 422.83
-    - - 882317.64
-      - 6041931.49
-      - 423.64
-    - - 882317.87
-      - 6041931.84
-      - 421.34
-    - - 882319.49
-      - 6041930.3
-      - 425.61
-    - - 882319.02
-      - 6041930.05
-      - 422.87
-    - - 882319.87
-      - 6041930.29
-      - 426.17
-    - - 882317.46
-      - 6041930.18
-      - 420.2
-    - - 882317.27
-      - 6041930.58
-      - 420.54
-    - - 882316.06
-      - 6041932.21
-      - 420.31
-    - - 882318.26
-      - 6041929.67
-      - 420.25
-    - - 882318.5
-      - 6041929.62
-      - 420.82
-    - - 882318.96
-      - 6041929.21
-      - 421.86
-    - - 882319.4
-      - 6041929.44
-      - 422.55
-    - - 882319.94
-      - 6041929.31
-      - 424.15
-    - - 882319.91
-      - 6041928.66
-      - 420.96
-    - - 882318.65
-      - 6041930.58
-      - 420.0
-    - - 882320.36
-      - 6041929.79
-      - 424.73
-    - - 882315.7
-      - 6041931.73
-      - 419.16
-    - - 882315.68
-      - 6041931.62
-      - 418.79
-    - - 882315.89
-      - 6041932.17
-      - 419.38
-    - - 882316.05
-      - 6041930.86
-      - 418.99
-    - - 882316.71
-      - 6041931.52
-      - 421.18
-    - - 882316.97
-      - 6041930.8
-      - 420.25
-    - - 882318.18
-      - 6041932.4
-      - 427.8
-    - - 882317.97
-      - 6041931.52
-      - 419.89
-    4:
-    - - 882313.56
-      - 6041934.44
-      - 428.21
-    - - 882313.83
-      - 6041935.46
-      - 424.96
-    - - 882313.26
-      - 6041936.22
-      - 424.0
-    - - 882311.7
-      - 6041935.82
-      - 426.89
-    - - 882313.18
-      - 6041934.02
-      - 424.76
-    - - 882313.88
-      - 6041933.91
-      - 423.14
-    - - 882313.73
-      - 6041934.07
-      - 421.86
-    - - 882313.99
-      - 6041935.12
-      - 421.43
-    - - 882314.01
-      - 6041935.24
-      - 422.1
-    - - 882318.78
-      - 6041931.44
-      - 429.65
-    - - 882319.69
-      - 6041931.29
-      - 426.84
-    - - 882320.24
-      - 6041930.48
-      - 425.88
-    - - 882320.79
-      - 6041929.95
-      - 423.41
-    - - 882319.27
-      - 6041931.64
-      - 424.44
-    - - 882321.33
-      - 6041930.47
-      - 434.55
-    - - 882316.81
-      - 6041933.39
-      - 432.54
-    - - 882314.51
-      - 6041935.11
-      - 429.64
-    - - 882313.01
-      - 6041935.39
-      - 428.52
-    - - 882312.97
-      - 6041936.36
-      - 424.11
-    - - 882312.18
-      - 6041937.09
-      - 423.79
-    - - 882310.36
-      - 6041937.4
-      - 425.78
-    - - 882311.12
-      - 6041936.97
-      - 427.48
-    - - 882312.23
-      - 6041935.68
-      - 427.49
-    - - 882313.46
-      - 6041935.27
-      - 429.51
-    - - 882308.12
-      - 6041938.56
-      - 423.31
-    - - 882309.4
-      - 6041938.64
-      - 424.84
-    - - 882311.7
-      - 6041937.35
-      - 422.45
-    - - 882311.48
-      - 6041937.36
-      - 423.44
-    - - 882311.11
-      - 6041936.06
-      - 424.22
-    - - 882311.53
-      - 6041935.24
-      - 425.05
-    - - 882312.58
-      - 6041934.63
-      - 424.94
-    - - 882313.43
-      - 6041935.88
-      - 421.46
-    - - 882312.54
-      - 6041934.59
-      - 421.72
-    - - 882313.66
-      - 6041935.7
-      - 424.88
-    - - 882313.24
-      - 6041934.87
-      - 429.27
-    - - 882313.09
-      - 6041935.6
-      - 420.55
-    - - 882311.21
-      - 6041936.55
-      - 421.43
-    - - 882311.2
-      - 6041936.53
-      - 421.36
-    - - 882311.22
-      - 6041936.75
-      - 420.4
-    - - 882311.9
-      - 6041936.41
-      - 420.14
-    - - 882312.38
-      - 6041935.56
-      - 420.42
-    - - 882311.25
-      - 6041937.13
-      - 419.56
-    - - 882310.05
-      - 6041939.11
-      - 419.46
-    - - 882310.39
-      - 6041938.5
-      - 419.36
-    - - 882309.95
-      - 6041939.2
-      - 421.92
-    - - 882308.67
-      - 6041938.96
-      - 423.62
-    - - 882311.7
-      - 6041935.35
-      - 422.78
-    - - 882311.5
-      - 6041935.28
-      - 424.13
-    - - 882312.25
-      - 6041934.67
-      - 424.87
-    - - 882313.04
-      - 6041934.09
-      - 424.66
-    - - 882312.78
-      - 6041934.86
-      - 427.13
-    - - 882313.57
-      - 6041934.01
-      - 427.42
-    - - 882314.56
-      - 6041933.67
-      - 427.49
-    - - 882313.72
-      - 6041935.1
-      - 429.52
-    - - 882312.36
-      - 6041936.16
-      - 428.1
-    - - 882311.09
-      - 6041937.43
-      - 427.06
-    93:
-    - - 882311.89
-      - 6041937.81
-      - 419.98
-    - - 882312.19
-      - 6041937.66
-      - 421.06
-    - - 882311.45
-      - 6041937.7
-      - 421.93
-    - - 882311.19
-      - 6041937.38
-      - 426.97
-    - - 882311.13
-      - 6041937.47
-      - 420.74
-    - - 882312.51
-      - 6041936.55
-      - 424.22
-    - - 882311.91
-      - 6041938.17
-      - 420.31
-    - - 882311.94
-      - 6041938.9
-      - 419.23
-    - - 882311.68
-      - 6041938.52
-      - 420.85
-    - - 882310.86
-      - 6041938.48
-      - 421.58
-    - - 882310.85
-      - 6041938.86
-      - 420.94
-    - - 882310.58
-      - 6041938.55
-      - 422.99
-    - - 882309.91
-      - 6041938.12
-      - 425.19
-    - - 882310.91
-      - 6041937.57
-      - 427.23
-    - - 882311.27
-      - 6041937.52
-      - 424.87
-    - - 882311.3
-      - 6041937.73
-      - 422.57
-    - - 882309.9
-      - 6041938.99
-      - 419.78
-    - - 882310.24
-      - 6041939.04
-      - 420.31
-    - - 882310.13
-      - 6041938.82
-      - 421.04
-    - - 882308.55
-      - 6041939.76
-      - 423.5
-    - - 882307.63
-      - 6041939.78
-      - 422.19
-    - - 882308.95
-      - 6041939.66
-      - 420.85
-    - - 882309.29
-      - 6041938.91
-      - 419.66
-    - - 882306.13
-      - 6041939.15
-      - 419.15
-    - - 882307.42
-      - 6041938.24
-      - 420.08
-    - - 882307.32
-      - 6041938.52
-      - 420.9
-    - - 882307.64
-      - 6041938.72
-      - 422.04
-    - - 882308.51
-      - 6041938.43
-      - 423.12
-    - - 882309.44
-      - 6041938.14
-      - 424.96
-    - - 882309.04
-      - 6041939.17
-      - 423.81
-    - - 882306.78
-      - 6041939.92
-      - 421.43
-    - - 882304.82
-      - 6041939.68
-      - 420.27
-    - - 882305.28
-      - 6041940.03
-      - 419.96
-    - - 882305.55
-      - 6041941.14
-      - 419.93
-    - - 882306.38
-      - 6041941.04
-      - 421.0
-    - - 882308.57
-      - 6041939.67
-      - 420.01
-    - - 882308.71
-      - 6041939.69
-      - 421.03
-    - - 882310.2
-      - 6041939.12
-      - 419.95
-    - - 882310.82
-      - 6041937.45
-      - 426.93
-    - - 882310.32
-      - 6041938.04
-      - 419.14
-    86:
-    - - 882317.17
-      - 6041941.05
-      - 419.09
-    - - 882317.48
-      - 6041941.78
-      - 419.92
-    - - 882317.51
-      - 6041941.35
-      - 420.58
-    - - 882317.54
-      - 6041940.49
-      - 420.43
-    - - 882317.15
-      - 6041940.19
-      - 419.79
-    - - 882316.17
-      - 6041941.57
-      - 419.79
-    - - 882316.07
-      - 6041941.52
-      - 420.26
-    - - 882316.18
-      - 6041941.2
-      - 420.76
-    - - 882316.89
-      - 6041940.15
-      - 421.61
-    - - 882317.05
-      - 6041939.72
-      - 420.77
-    - - 882316.9
-      - 6041939.64
-      - 420.0
-    - - 882316.81
-      - 6041939.15
-      - 419.13
-    - - 882317.02
-      - 6041939.03
-      - 419.92
-    - - 882317.42
-      - 6041938.35
-      - 421.13
-    - - 882316.4
-      - 6041938.18
-      - 421.24
-    - - 882316.48
-      - 6041937.66
-      - 420.44
-    - - 882319.15
-      - 6041935.13
-      - 422.62
-    - - 882320.07
-      - 6041934.52
-      - 422.06
-    - - 882318.82
-      - 6041934.82
-      - 420.91
-    - - 882321.99
-      - 6041930.79
-      - 420.2
-    - - 882316.19
-      - 6041938.01
-      - 419.69
-    - - 882315.56
-      - 6041939.07
-      - 420.22
-    - - 882315.23
-      - 6041939.57
-      - 419.5
-    - - 882315.28
-      - 6041939.51
-      - 420.31
-    - - 882315.36
-      - 6041939.66
-      - 420.83
-    - - 882315.51
-      - 6041939.86
-      - 421.77
-    - - 882315.46
-      - 6041940.51
-      - 422.08
-    - - 882316.72
-      - 6041939.34
-      - 421.72
-    - - 882317.14
-      - 6041938.22
-      - 421.66
-    - - 882314.94
-      - 6041940.72
-      - 421.89
-    - - 882314.75
-      - 6041940.65
-      - 421.11
-    - - 882314.42
-      - 6041940.62
-      - 420.6
-    - - 882314.58
-      - 6041939.91
-      - 420.85
-    - - 882314.11
-      - 6041940.67
-      - 420.22
-    - - 882313.91
-      - 6041940.8
-      - 419.68
-    - - 882313.73
-      - 6041941.75
-      - 420.42
-    - - 882315.19
-      - 6041940.94
-      - 419.43
-    - - 882314.37
-      - 6041943.05
-      - 420.84
-    - - 882314.75
-      - 6041942.64
-      - 421.64
-    - - 882315.17
-      - 6041941.73
-      - 421.9
-    - - 882315.98
-      - 6041941.48
-      - 421.0
-    - - 882314.44
-      - 6041941.75
-      - 421.47
-    - - 882314.83
-      - 6041940.96
-      - 421.62
-    29:
-    - - 882305.57
-      - 6041939.78
-      - 420.53
-    - - 882306.13
-      - 6041939.34
-      - 420.97
-    - - 882305.38
-      - 6041940.23
-      - 419.78
-    - - 882305.77
-      - 6041939.46
-      - 419.43
-    - - 882306.13
-      - 6041938.79
-      - 419.34
-    - - 882306.5
-      - 6041938.4
-      - 419.31
-    - - 882306.45
-      - 6041938.51
-      - 420.11
-    - - 882309.17
-      - 6041937.39
-      - 419.54
-    - - 882310.19
-      - 6041938.54
-      - 421.33
-    - - 882309.75
-      - 6041939.14
-      - 420.2
-    - - 882308.36
-      - 6041938.88
-      - 419.47
-    - - 882307.89
-      - 6041940.1
-      - 419.91
-    - - 882308.25
-      - 6041940.79
-      - 418.25
-    - - 882308.07
-      - 6041940.1
-      - 418.02
-    - - 882307.1
-      - 6041939.66
-      - 419.21
-    - - 882307.42
-      - 6041940.52
-      - 419.41
-    - - 882307.68
-      - 6041940.93
-      - 420.63
-    - - 882308.57
-      - 6041941.04
-      - 421.43
-    - - 882308.71
-      - 6041940.25
-      - 422.42
-    - - 882309.38
-      - 6041939.59
-      - 422.46
-    - - 882310.93
-      - 6041938.4
-      - 422.36
-    - - 882307.92
-      - 6041942.78
-      - 421.81
-    - - 882308.56
-      - 6041942.13
-      - 422.73
-    - - 882306.74
-      - 6041942.92
-      - 420.4
-    - - 882305.88
-      - 6041942.99
-      - 419.28
-    - - 882306.66
-      - 6041941.26
-      - 419.0
-    - - 882307.41
-      - 6041941.8
-      - 420.0
-    - - 882304.06
-      - 6041938.65
-      - 420.08
-    - - 882304.8
-      - 6041938.58
-      - 419.75
-    - - 882303.69
-      - 6041938.08
-      - 420.26
-    - - 882301.91
-      - 6041937.59
-      - 420.64
-    - - 882303.61
-      - 6041938.16
-      - 420.81
-    - - 882305.1
-      - 6041938.74
-      - 420.87
-    - - 882304.66
-      - 6041939.05
-      - 420.63
-    - - 882295.34
-      - 6041934.61
-      - 420.78
-    - - 882308.11
-      - 6041940.22
-      - 420.48
-    - - 882306.41
-      - 6041938.94
-      - 420.95
-    - - 882306.59
-      - 6041938.92
-      - 419.35
-    - - 882305.76
-      - 6041938.69
-      - 420.69
-    34:
-    - - 882320.42
-      - 6041941.55
-      - 419.67
-    - - 882320.39
-      - 6041942.2
-      - 420.64
-    - - 882320.33
-      - 6041942.93
-      - 420.39
-    - - 882320.71
-      - 6041943.54
-      - 419.77
-    - - 882321.07
-      - 6041943.27
-      - 420.42
-    - - 882321.37
-      - 6041943.06
-      - 420.71
-    - - 882321.67
-      - 6041942.87
-      - 420.61
-    - - 882321.65
-      - 6041942.12
-      - 419.42
-    - - 882322.0
-      - 6041942.46
-      - 419.16
-    - - 882323.2
-      - 6041943.29
-      - 419.84
-    - - 882322.91
-      - 6041943.25
-      - 419.37
-    - - 882322.91
-      - 6041943.63
-      - 420.31
-    - - 882322.3
-      - 6041943.18
-      - 420.4
-    - - 882322.09
-      - 6041943.16
-      - 420.52
-    - - 882322.29
-      - 6041943.89
-      - 420.5
-    - - 882321.72
-      - 6041943.95
-      - 420.23
-    - - 882321.51
-      - 6041944.77
-      - 419.41
-    - - 882321.47
-      - 6041944.32
-      - 420.0
-    - - 882322.01
-      - 6041944.51
-      - 420.28
-    - - 882322.85
-      - 6041944.85
-      - 419.78
-    - - 882322.43
-      - 6041946.0
-      - 419.57
-    - - 882322.18
-      - 6041946.54
-      - 419.94
-    - - 882322.61
-      - 6041943.85
-      - 419.18
-    - - 882323.12
-      - 6041943.57
-      - 419.94
-    - - 882322.92
-      - 6041942.53
-      - 419.93
-    - - 882321.08
-      - 6041943.66
-      - 419.92
-    - - 882321.91
-      - 6041942.69
-      - 420.74
-    - - 882322.08
-      - 6041942.48
-      - 419.14
-    1:
-    - - 882322.21
-      - 6041953.29
-      - 419.95
-    - - 882322.07
-      - 6041953.3
-      - 420.52
-    - - 882321.9
-      - 6041953.58
-      - 420.9
-    - - 882321.61
-      - 6041952.34
-      - 420.65
-    - - 882321.65
-      - 6041952.67
-      - 420.92
-    - - 882321.48
-      - 6041952.06
-      - 420.45
-    - - 882320.9
-      - 6041952.22
-      - 420.07
-    - - 882320.7
-      - 6041952.22
-      - 419.64
-    - - 882321.57
-      - 6041950.82
-      - 419.63
-    - - 882321.93
-      - 6041952.9
-      - 419.52
-    - - 882323.01
-      - 6041956.45
-      - 420.34
-    - - 882322.34
-      - 6041956.0
-      - 419.56
-    - - 882323.23
-      - 6041955.54
-      - 421.14
-    - - 882323.21
-      - 6041954.82
-      - 421.44
-    - - 882324.64
-      - 6041955.0
-      - 422.02
-    - - 882324.98
-      - 6041954.84
-      - 421.18
-    - - 882325.29
-      - 6041954.83
-      - 420.63
-    - - 882326.03
-      - 6041956.08
-      - 420.11
-    - - 882327.53
-      - 6041956.64
-      - 421.22
-    - - 882324.34
-      - 6041956.17
-      - 420.39
-    - - 882324.72
-      - 6041955.85
-      - 421.34
-    - - 882323.13
-      - 6041953.91
-      - 420.08
-    - - 882322.72
-      - 6041953.85
-      - 420.71
-    - - 882321.49
-      - 6041954.22
-      - 420.41
-    - - 882323.93
-      - 6041955.57
-      - 419.69
-    - - 882322.43
-      - 6041954.69
-      - 419.52
-    - - 882322.62
-      - 6041953.66
-      - 420.15
-    - - 882321.19
-      - 6041954.25
-      - 421.05
-    - - 882321.18
-      - 6041954.26
-      - 419.21
-    81:
-    - - 882325.77
-      - 6041953.84
-      - 420.06
-    - - 882326.14
-      - 6041954.15
-      - 420.54
-    - - 882326.63
-      - 6041954.76
-      - 422.05
-    - - 882327.45
-      - 6041956.37
-      - 422.86
-    - - 882327.32
-      - 6041955.55
-      - 421.04
-    - - 882327.36
-      - 6041955.61
-      - 420.15
-    - - 882328.2
-      - 6041955.63
-      - 421.61
-    - - 882329.24
-      - 6041953.76
-      - 420.48
-    - - 882329.33
-      - 6041954.41
-      - 420.56
-    - - 882331.57
-      - 6041953.83
-      - 419.91
-    - - 882330.34
-      - 6041954.27
-      - 419.13
-    - - 882329.18
-      - 6041954.76
-      - 419.53
-    - - 882327.44
-      - 6041953.8
-      - 419.77
-    - - 882327.42
-      - 6041954.02
-      - 420.47
-    - - 882327.88
-      - 6041954.52
-      - 421.88
-    - - 882329.74
-      - 6041955.16
-      - 423.22
-    - - 882329.76
-      - 6041956.23
-      - 424.96
-    - - 882328.42
-      - 6041955.44
-      - 422.01
-    - - 882327.99
-      - 6041955.28
-      - 420.78
-    - - 882328.05
-      - 6041955.92
-      - 422.37
-    - - 882327.89
-      - 6041956.4
-      - 423.47
-    - - 882321.6
-      - 6041954.74
-      - 420.19
-    - - 882322.16
-      - 6041956.15
-      - 420.45
-    - - 882326.18
-      - 6041953.53
-      - 419.65
-    - - 882326.92
-      - 6041955.42
-      - 419.73
-    - - 882326.8
-      - 6041954.09
-      - 420.9
-    - - 882326.55
-      - 6041954.27
-      - 419.25
-    - - 882323.71
-      - 6041953.88
-      - 419.83
-    - - 882323.73
-      - 6041954.72
-      - 419.67
-    - - 882323.4
-      - 6041955.63
-      - 421.15
-    - - 882322.21
-      - 6041954.78
-      - 421.32
-    - - 882321.88
-      - 6041954.33
-      - 421.04
-    - - 882323.07
-      - 6041954.17
-      - 420.92
-    - - 882323.06
-      - 6041954.65
-      - 421.36
-    - - 882324.96
-      - 6041956.16
-      - 420.62
-    - - 882325.07
-      - 6041956.07
-      - 421.09
-    - - 882325.64
-      - 6041956.55
-      - 421.81
-    - - 882325.96
-      - 6041957.11
-      - 421.47
-    - - 882325.7
-      - 6041956.85
-      - 422.29
-    48:
-    - - 882247.94
-      - 6041991.7
-      - 382.47
-    - - 882247.53
-      - 6041991.1
-      - 382.35
-    - - 882248.2
-      - 6041991.66
-      - 380.53
-    - - 882245.64
-      - 6041992.5
-      - 381.9
-    - - 882245.75
-      - 6041993.34
-      - 382.31
-    - - 882245.85
-      - 6041993.78
-      - 381.41
-    - - 882244.78
-      - 6041992.89
-      - 381.12
-    - - 882245.14
-      - 6041994.04
-      - 380.64
-    - - 882247.98
-      - 6041991.45
-      - 381.58
-    - - 882247.09
-      - 6041990.85
-      - 380.41
-    10:
-    - - 882243.9
-      - 6041993.94
-      - 380.9
-    - - 882245.15
-      - 6041994.6
-      - 380.64
-    - - 882245.45
-      - 6041994.83
-      - 381.8
-    - - 882244.65
-      - 6041994.59
-      - 382.26
-    95:
-    - - 882243.46
-      - 6041996.62
-      - 381.47
-    - - 882243.28
-      - 6041996.43
-      - 380.69
-    - - 882244.55
-      - 6041996.61
-      - 380.6
-    - - 882243.81
-      - 6041996.46
-      - 382.44
-    78:
-    - - 882317.95
-      - 6041913.5
-      - 421.52
-    - - 882318.33
-      - 6041913.45
-      - 420.67
-    - - 882319.09
-      - 6041913.24
-      - 420.53
-    - - 882319.34
-      - 6041913.01
-      - 421.6
-    - - 882317.56
-      - 6041911.85
-      - 421.28
-    - - 882317.72
-      - 6041911.76
-      - 420.69
-    - - 882318.67
-      - 6041912.6
-      - 421.66
-    - - 882316.76
-      - 6041912.35
-      - 421.62
-    - - 882315.99
-      - 6041912.46
-      - 421.32
-    - - 882317.34
-      - 6041911.07
-      - 420.89
-    - - 882316.87
-      - 6041910.97
-      - 421.31
-    - - 882316.82
-      - 6041911.54
-      - 421.78
-    - - 882316.24
-      - 6041911.11
-      - 421.69
-    - - 882315.7
-      - 6041911.06
-      - 420.78
-    - - 882316.54
-      - 6041908.83
-      - 420.45
-    - - 882316.43
-      - 6041909.08
-      - 421.44
-    - - 882315.55
-      - 6041905.77
-      - 421.22
-    - - 882315.65
-      - 6041905.88
-      - 422.18
-    - - 882317.09
-      - 6041903.12
-      - 421.31
-    - - 882315.78
-      - 6041905.73
-      - 422.34
-    - - 882316.62
-      - 6041904.7
-      - 422.45
-    - - 882317.31
-      - 6041903.19
-      - 421.59
-    - - 882317.46
-      - 6041911.3
-      - 420.76
-    - - 882315.88
-      - 6041911.78
-      - 421.71
-    - - 882315.87
-      - 6041912.04
-      - 419.98
-    71:
-    - - 882320.06
-      - 6041902.31
-      - 424.17
-    - - 882318.09
-      - 6041903.52
-      - 422.05
-    - - 882317.44
-      - 6041904.1
-      - 421.0
-    - - 882320.34
-      - 6041902.46
-      - 424.82
-    - - 882323.25
-      - 6041901.17
-      - 428.25
-    - - 882324.74
-      - 6041901.54
-      - 431.25
-    - - 882325.18
-      - 6041902.01
-      - 432.82
-    - - 882324.57
-      - 6041903.0
-      - 433.43
-    - - 882323.74
-      - 6041904.35
-      - 433.62
-    - - 882320.98
-      - 6041905.78
-      - 431.12
-    - - 882319.44
-      - 6041906.97
-      - 429.7
-    - - 882318.87
-      - 6041904.15
-      - 426.79
-    - - 882316.95
-      - 6041904.67
-      - 423.09
-    - - 882317.68
-      - 6041905.19
-      - 422.9
-    - - 882319.5
-      - 6041904.37
-      - 424.55
-    - - 882317.41
-      - 6041905.52
-      - 421.96
-    - - 882317.47
-      - 6041906.1
-      - 422.37
-    - - 882317.47
-      - 6041906.51
-      - 423.41
-    - - 882317.47
-      - 6041906.7
-      - 424.5
-    - - 882320.08
-      - 6041902.43
-      - 424.46
-    - - 882317.75
-      - 6041905.99
-      - 421.78
-    - - 882316.03
-      - 6041905.8
-      - 423.49
-    - - 882315.82
-      - 6041905.8
-      - 420.38
-    - - 882316.06
-      - 6041908.37
-      - 422.16
-    - - 882315.24
-      - 6041909.32
-      - 421.96
-    - - 882315.21
-      - 6041909.99
-      - 421.08
-    - - 882316.31
-      - 6041908.63
-      - 421.46
-    - - 882316.94
-      - 6041907.52
-      - 421.73
-    - - 882316.95
-      - 6041907.5
-      - 422.87
-    - - 882317.49
-      - 6041907.34
-      - 425.0
-    - - 882318.01
-      - 6041908.33
-      - 428.88
-    - - 882316.58
-      - 6041908.54
-      - 427.86
-    - - 882315.88
-      - 6041909.56
-      - 426.78
-    - - 882314.7
-      - 6041910.64
-      - 426.7
-    - - 882313.45
-      - 6041913.16
-      - 427.54
-    - - 882314.32
-      - 6041911.12
-      - 424.46
-    - - 882313.4
-      - 6041912.24
-      - 423.91
-    - - 882311.89
-      - 6041913.26
-      - 424.29
-    - - 882313.93
-      - 6041908.5
-      - 422.84
-    - - 882309.54
-      - 6041915.3
-      - 421.24
-    - - 882312.54
-      - 6041912.58
-      - 421.6
-    - - 882314.1
-      - 6041909.32
-      - 420.6
-    - - 882314.07
-      - 6041907.33
-      - 420.7
-    - - 882313.47
-      - 6041907.75
-      - 421.63
-    - - 882314.62
-      - 6041906.67
-      - 420.42
-    65:
-    - - 882307.51
-      - 6041941.51
-      - 420.68
-    - - 882306.54
-      - 6041943.21
-      - 420.73
-    - - 882305.96
-      - 6041943.22
-      - 421.2
-    - - 882305.59
-      - 6041942.82
-      - 421.25
-    - - 882305.19
-      - 6041942.46
-      - 421.09
-    - - 882304.94
-      - 6041942.5
-      - 420.56
-    - - 882304.88
-      - 6041942.64
-      - 419.98
-    - - 882305.06
-      - 6041942.6
-      - 419.27
-    - - 882305.57
-      - 6041943.14
-      - 419.23
-    - - 882305.85
-      - 6041943.54
-      - 419.78
-    - - 882305.89
-      - 6041943.66
-      - 420.24
-    - - 882309.01
-      - 6041937.66
-      - 420.56
-    - - 882308.71
-      - 6041937.53
-      - 421.83
-    - - 882309.55
-      - 6041937.11
-      - 422.95
-    - - 882313.11
-      - 6041933.91
-      - 424.76
-    - - 882313.03
-      - 6041934.03
-      - 425.87
-    - - 882313.89
-      - 6041933.41
-      - 427.26
-    - - 882310.15
-      - 6041937.36
-      - 422.26
-    - - 882308.24
-      - 6041940.39
-      - 421.48
-    - - 882308.53
-      - 6041941.41
-      - 422.29
-    - - 882307.12
-      - 6041938.51
-      - 419.78
-    - - 882306.86
-      - 6041938.46
-      - 420.25
-    - - 882307.76
-      - 6041937.72
-      - 421.52
-    - - 882308.16
-      - 6041938.31
-      - 419.45
-    - - 882306.68
-      - 6041939.35
-      - 419.26
-    - - 882305.83
-      - 6041940.44
-      - 419.14
-    - - 882306.09
-      - 6041941.73
-      - 419.2
-    - - 882305.88
-      - 6041941.75
-      - 420.96
-    - - 882308.59
-      - 6041941.23
-      - 422.61
-    - - 882305.05
-      - 6041944.41
-      - 421.39
-    - - 882304.3
-      - 6041944.52
-      - 421.34
-    - - 882304.25
-      - 6041943.9
-      - 421.07
-    - - 882303.73
-      - 6041944.42
-      - 420.58
-    - - 882303.53
-      - 6041944.53
-      - 419.78
-    - - 882304.34
-      - 6041943.39
-      - 420.67
-    - - 882304.31
-      - 6041943.63
-      - 419.4
-    - - 882298.89
-      - 6041948.24
-      - 414.11
-    - - 882301.64
-      - 6041946.79
-      - 416.2
-    - - 882303.62
-      - 6041944.63
-      - 419.1
-    - - 882303.58
-      - 6041945.47
-      - 419.23
-    - - 882304.31
-      - 6041944.37
-      - 419.23
-    - - 882302.65
-      - 6041946.44
-      - 417.43
-    - - 882303.35
-      - 6041945.83
-      - 419.42
-    - - 882303.09
-      - 6041947.02
-      - 419.52
-    - - 882302.26
-      - 6041947.87
-      - 420.19
-    - - 882300.11
-      - 6041948.95
-      - 420.2
-    - - 882301.95
-      - 6041948.04
-      - 421.12
-    - - 882303.21
-      - 6041947.47
-      - 421.35
-    - - 882304.81
-      - 6041944.7
-      - 421.13
-    - - 882303.54
-      - 6041944.75
-      - 420.53
-    - - 882303.27
-      - 6041945.36
-      - 420.46
-    - - 882304.7
-      - 6041942.91
-      - 420.8
-    - - 882305.73
-      - 6041943.67
-      - 421.05
-    - - 882305.79
-      - 6041943.64
-      - 419.27
-  comments:
-    67:
-    - Open Crator
-    97:
-    - Gate Portal
-  pos:
-    67:
-    - 882340.6
-    - 6042000.06
-    - 424.94
-    97:
-    - 882331.19
-    - 6041992.71
-    - 418.92
-    56:
-    - 882344.18
-    - 6041995.5
-    - 422.4
-    43:
-    - 882348.58
-    - 6041990.16
-    - 419.5
-    35:
-    - 882347.8
-    - 6041987.26
-    - 418.55
-    57:
-    - 882352.92
-    - 6041985.83
-    - 419.56
-    85:
-    - 882358.4
-    - 6041982.58
-    - 422.73
-    40:
-    - 882358.86
-    - 6041981.52
-    - 421.36
-    27:
-    - 882361.27
-    - 6041979.18
-    - 416.72
-    102:
-    - 882362.5
-    - 6041976.47
-    - 414.22
-    68:
-    - 882361.22
-    - 6041972.31
-    - 410.4
-    33:
-    - 882364.03
-    - 6041970.53
-    - 411.94
-    30:
-    - 882356.42
-    - 6041977.02
-    - 405.59
-    80:
-    - 882367.47
-    - 6041969.37
-    - 410.09
-    54:
-    - 882365.59
-    - 6041971.3
-    - 409.39
-    37:
-    - 882364.24
-    - 6041975.52
-    - 406.2
-    12:
-    - 882361.69
-    - 6041978.04
-    - 402.91
-    70:
-    - 882359.35
-    - 6041981.52
-    - 404.51
-    19:
-    - 882359.26
-    - 6041985.38
-    - 404.13
-    20:
-    - 882364.27
-    - 6041986.24
-    - 403.64
-    28:
-    - 882357.22
-    - 6041990.22
-    - 402.43
-    55:
-    - 882350.24
-    - 6042002.53
-    - 398.65
-    31:
-    - 882352.39
-    - 6042004.93
-    - 397.95
-    8:
-    - 882346.7
-    - 6041989.98
-    - 399.29
-    42:
-    - 882352.54
-    - 6042010.11
-    - 398.18
-    14:
-    - 882353.67
-    - 6042014.73
-    - 397.37
-    24:
-    - 882349.88
-    - 6042016.95
-    - 392.33
-    7:
-    - 882343.87
-    - 6042022.4
-    - 384.37
-    21:
-    - 882342.28
-    - 6042024.47
-    - 394.43
-    41:
-    - 882344.31
-    - 6042022.46
-    - 383.79
-    2:
-    - 882343.7
-    - 6042022.68
-    - 379.12
-    92:
-    - 882338.14
-    - 6042028.47
-    - 379.82
-    99:
-    - 882331.6
-    - 6042029.46
-    - 379.84
-    87:
-    - 882320.14
-    - 6042034.83
-    - 380.14
-    75:
-    - 882315.45
-    - 6042036.76
-    - 380.14
-    44:
-    - 882310.03
-    - 6042033.34
-    - 380.58
-    66:
-    - 882309.4
-    - 6042038.32
-    - 380.5
-    47:
-    - 882306.8
-    - 6042033.28
-    - 379.84
-    73:
-    - 882313.81
-    - 6042029.96
-    - 386.07
-    22:
-    - 882298.63
-    - 6042031.37
-    - 379.81
-    74:
-    - 882290.17
-    - 6042019.35
-    - 380.33
-    49:
-    - 882283.77
-    - 6042012.51
-    - 380.68
-    17:
-    - 882276.57
-    - 6042005.28
-    - 380.52
-    84:
-    - 882271.78
-    - 6041998.21
-    - 380.93
-    90:
-    - 882266.02
-    - 6041989.21
-    - 380.73
-    15:
-    - 882262.6
-    - 6041985.73
-    - 381.25
-    96:
-    - 882260.04
-    - 6041980.8
-    - 381.26
-    39:
-    - 882257.25
-    - 6041977.44
-    - 381.53
-    72:
-    - 882253.22
-    - 6041978.15
-    - 381.76
-    9:
-    - 882257.22
-    - 6041977.58
-    - 381.55
-    16:
-    - 882249.43
-    - 6041984.02
-    - 382.82
-    38:
-    - 882255.52
-    - 6041970.81
-    - 375.79
-    88:
-    - 882251.14
-    - 6041970.13
-    - 370.97
-    101:
-    - 882260.16
-    - 6041967.15
-    - 368.62
-    23:
-    - 882270.33
-    - 6041959.92
-    - 370.72
-    69:
-    - 882274.09
-    - 6041952.75
-    - 365.43
-    61:
-    - 882278.41
-    - 6041951.55
-    - 374.88
-    59:
-    - 882276.71
-    - 6041948.46
-    - 362.39
-    82:
-    - 882286.75
-    - 6041950.37
-    - 381.0
-    26:
-    - 882290.37
-    - 6041944.42
-    - 384.56
-    79:
-    - 882296.95
-    - 6041941.13
-    - 394.77
-    52:
-    - 882303.24
-    - 6041935.0
-    - 399.26
-    83:
-    - 882311.4
-    - 6041932.15
-    - 404.91
-    100:
-    - 882313.51
-    - 6041932.42
-    - 414.52
-    3:
-    - 882316.67
-    - 6041931.4
-    - 420.42
-    45:
-    - 882318.09
-    - 6041931.56
-    - 420.22
-    4:
-    - 882313.27
-    - 6041935.64
-    - 421.45
-    93:
-    - 882310.41
-    - 6041937.8
-    - 419.93
-    86:
-    - 882315.58
-    - 6041940.39
-    - 419.35
-    29:
-    - 882306.39
-    - 6041938.93
-    - 420.68
-    34:
-    - 882321.98
-    - 6041942.69
-    - 420.02
-    98:
-    - 882322.4
-    - 6041930.72
-    - 420.6
-    53:
-    - 882310.0
-    - 6041946.4
-    - 420.3
-    1:
-    - 882321.2
-    - 6041954.23
-    - 420.16
-    81:
-    - 882326.58
-    - 6041954.3
-    - 419.41
-    58:
-    - 882334.21
-    - 6041955.2
-    - 419.41
-    50:
-    - 882333.73
-    - 6041965.39
-    - 419.39
-    0:
-    - 882331.69
-    - 6041941.26
-    - 419.91
-    25:
-    - 882331.24
-    - 6041971.4
-    - 419.36
-    51:
-    - 882331.1
-    - 6041962.96
-    - 421.53
-    6:
-    - 882331.78
-    - 6041974.14
-    - 419.47
-    18:
-    - 882331.35
-    - 6041987.94
-    - 418.92
-    48:
-    - 882248.19
-    - 6041991.75
-    - 381.91
-    10:
-    - 882244.35
-    - 6041994.11
-    - 382.12
-    95:
-    - 882244.26
-    - 6041996.74
-    - 381.6
-    76:
-    - 882333.45
-    - 6041960.42
-    - 424.14
-    62:
-    - 882335.78
-    - 6041957.89
-    - 426.21
-    46:
-    - 882334.55
-    - 6041956.57
-    - 428.08
-    77:
-    - 882338.27
-    - 6041962.0
-    - 428.65
-    60:
-    - 882325.6
-    - 6041957.71
-    - 428.84
-    64:
-    - 882338.27
-    - 6041962.42
-    - 428.76
-    5:
-    - 882331.61
-    - 6041969.88
-    - 421.24
-    63:
-    - 882335.56
-    - 6041916.07
-    - 419.91
-    94:
-    - 882337.79
-    - 6041908.63
-    - 421.28
-    11:
-    - 882323.94
-    - 6041914.29
-    - 419.97
-    78:
-    - 882315.86
-    - 6041912.01
-    - 420.45
-    71:
-    - 882315.71
-    - 6041905.87
-    - 421.66
-    13:
-    - 882320.22
-    - 6041902.4
-    - 424.02
-    91:
-    - 882309.77
-    - 6041914.61
-    - 421.13
-    89:
-    - 882295.33
-    - 6041934.47
-    - 420.87
-    65:
-    - 882305.74
-    - 6041943.67
-    - 420.73
-    32:
-    - 882294.4
-    - 6041953.39
-    - 420.28
   idsql:
-    67:
-    - 2
-    97:
-    - 70
-    56:
-    - 3
-    43:
-    - 4
-    35:
-    - 5
-    57:
-    - 6
-    85:
-    - 7
-    40:
-    - 8
-    27:
-    - 9
-    102:
-    - 10
-    68:
-    - 11
-    33:
-    - 12
-    30:
-    - 159
-    80:
-    - 13
-    54:
-    - 14
-    37:
-    - 15
-    12:
-    - 16
-    70:
-    - 17
-    19:
-    - 18
-    20:
-    - 221
-    28:
-    - 19
-    55:
-    - 20
-    31:
-    - 21
-    8:
-    - 271
     42:
-    - 22
-    14:
-    - 23
-    24:
-    - 24
-    7:
-    - 25
+    - 2
     21:
-    - 321
-    41:
-    - 26
-    2:
-    - 27
-    92:
-    - 28
-    99:
-    - 29
+    - 70
     87:
-    - 30
-    75:
-    - 31
-    44:
-    - 32
-    66:
-    - 373
-    47:
-    - 33
-    73:
-    - 393
+    - 3
     22:
-    - 34
-    74:
-    - 35
-    49:
-    - 36
-    17:
-    - 37
-    84:
-    - 38
-    90:
-    - 39
-    15:
-    - 40
-    96:
-    - 41
-    39:
-    - 42
-    72:
-    - 43
-    9:
-    - 44
-    16:
-    - 549
-    38:
-    - 45
-    88:
-    - 46
-    101:
-    - 47
-    23:
-    - 48
-    69:
-    - 49
-    61:
-    - 50
-    59:
-    - 1338
-    82:
-    - 51
-    26:
-    - 52
-    79:
-    - 53
-    52:
-    - 54
-    83:
-    - 55
-    100:
-    - 56
-    3:
-    - 57
-    45:
-    - 58
-    4:
-    - 59
-    93:
-    - 60
-    86:
-    - 61
-    29:
-    - 857
-    34:
-    - 62
-    98:
-    - 815
-    53:
-    - 816
-    1:
-    - 63
-    81:
-    - 64
-    58:
-    - 65
-    50:
-    - 66
-    0:
-    - 598
-    25:
-    - 67
-    51:
-    - 590
-    6:
-    - 68
-    18:
-    - 69
-    48:
-    - 569
+    - 4
     10:
-    - 580
-    95:
-    - 585
-    76:
-    - 591
-    62:
-    - 592
+    - 5
     46:
-    - 593
-    77:
-    - 595
+    - 6
+    97:
+    - 7
+    102:
+    - 8
+    33:
+    - 9
+    8:
+    - 10
+    11:
+    - 11
+    4:
+    - 12
+    14:
+    - 159
     60:
-    - 594
+    - 13
+    73:
+    - 14
+    65:
+    - 15
+    94:
+    - 16
+    27:
+    - 17
+    16:
+    - 18
+    39:
+    - 221
+    41:
+    - 19
+    13:
+    - 20
+    95:
+    - 21
+    89:
+    - 271
+    96:
+    - 22
+    34:
+    - 23
+    90:
+    - 24
+    29:
+    - 25
+    20:
+    - 321
+    15:
+    - 26
+    85:
+    - 27
+    18:
+    - 28
+    77:
+    - 29
+    36:
+    - 30
+    28:
+    - 31
+    3:
+    - 32
+    56:
+    - 373
+    1:
+    - 33
+    93:
+    - 393
+    78:
+    - 34
     64:
+    - 35
+    24:
+    - 36
+    23:
+    - 37
+    71:
+    - 38
+    80:
+    - 39
+    83:
+    - 40
+    101:
+    - 41
+    72:
+    - 42
+    81:
+    - 43
+    68:
+    - 44
+    44:
+    - 549
+    74:
+    - 45
+    47:
+    - 46
+    61:
+    - 47
+    32:
+    - 48
+    7:
+    - 49
+    75:
+    - 50
+    70:
+    - 1338
+    54:
+    - 51
+    6:
+    - 52
+    59:
+    - 53
+    53:
+    - 54
+    84:
+    - 55
+    25:
+    - 56
+    30:
+    - 57
+    86:
+    - 58
+    98:
+    - 59
+    2:
+    - 60
+    91:
+    - 61
+    52:
+    - 857
+    12:
+    - 62
+    88:
+    - 815
+    49:
+    - 816
+    0:
+    - 63
+    43:
+    - 64
+    45:
+    - 65
+    55:
+    - 66
+    38:
+    - 598
+    57:
+    - 67
+    37:
+    - 590
+    100:
+    - 68
+    79:
+    - 69
+    51:
+    - 569
+    48:
+    - 580
+    9:
+    - 585
+    63:
+    - 591
+    82:
+    - 592
+    26:
+    - 593
+    31:
+    - 595
+    17:
+    - 594
+    40:
     - 596
     5:
     - 597
-    63:
+    66:
     - 599
-    94:
+    92:
     - 600
-    11:
+    19:
     - 601
-    78:
+    35:
     - 602
-    71:
+    76:
     - 628
-    13:
+    99:
     - 674
-    91:
+    67:
     - 675
-    89:
+    50:
     - 897
-    65:
+    62:
     - 898
-    32:
+    69:
     - 953
+  splays:
+    42:
+    - - 492874.86
+      - 6025995.52
+      - 419.23
+    - - 492868.66
+      - 6026005.35
+      - 425.22
+    - - 492868.11
+      - 6026004.78
+      - 425.1
+    - - 492869.45
+      - 6026003.52
+      - 425.09
+    - - 492871.43
+      - 6026002.51
+      - 424.37
+    - - 492868.6
+      - 6026005.13
+      - 424.05
+    - - 492876.13
+      - 6025994.44
+      - 420.93
+    - - 492877.72
+      - 6025995.2
+      - 423.81
+    - - 492877.62
+      - 6025995.42
+      - 427.01
+    - - 492873.97
+      - 6025997.01
+      - 419.19
+    - - 492871.2
+      - 6026000.79
+      - 422.43
+    - - 492871.23
+      - 6026000.75
+      - 422.41
+    - - 492871.16
+      - 6026000.79
+      - 422.45
+    87:
+    - - 492871.45
+      - 6026000.94
+      - 422.4
+    - - 492874.42
+      - 6025995.92
+      - 419.85
+    - - 492872.08
+      - 6026001.59
+      - 422.16
+    - - 492871.9
+      - 6026001.41
+      - 420.9
+    - - 492870.79
+      - 6026000.77
+      - 421.03
+    - - 492877.32
+      - 6025997.3
+      - 422.51
+    - - 492872.03
+      - 6025999.22
+      - 422.41
+    - - 492872.65
+      - 6025997.46
+      - 421.47
+    22:
+    - - 492879.06
+      - 6025989.39
+      - 416.61
+    - - 492875.9
+      - 6025993.98
+      - 421.17
+    - - 492875.92
+      - 6025993.93
+      - 424.32
+    - - 492876.43
+      - 6025996.84
+      - 420.59
+    - - 492873.48
+      - 6025995.62
+      - 420.13
+    - - 492873.81
+      - 6025993.81
+      - 419.81
+    10:
+    - - 492875.16
+      - 6025993.45
+      - 418.6
+    - - 492875.66
+      - 6025993.17
+      - 423.38
+    - - 492874.0
+      - 6025992.4
+      - 417.06
+    - - 492875.16
+      - 6025992.81
+      - 417.08
+    - - 492873.77
+      - 6025993.9
+      - 419.8
+    - - 492876.73
+      - 6025992.18
+      - 422.21
+    46:
+    - - 492878.69
+      - 6025989.86
+      - 419.61
+    - - 492878.68
+      - 6025989.68
+      - 418.45
+    - - 492879.37
+      - 6025990.47
+      - 418.33
+    - - 492879.27
+      - 6025990.4
+      - 421.17
+    - - 492879.22
+      - 6025989.95
+      - 422.48
+    - - 492886.65
+      - 6025983.38
+      - 428.05
+    - - 492880.6
+      - 6025988.53
+      - 424.09
+    97:
+    - - 492883.67
+      - 6025986.32
+      - 422.84
+    - - 492883.9
+      - 6025985.97
+      - 424.27
+    - - 492884.4
+      - 6025986.95
+      - 423.38
+    - - 492883.36
+      - 6025988.2
+      - 422.86
+    - - 492884.01
+      - 6025986.68
+      - 421.29
+    - - 492883.35
+      - 6025986.25
+      - 421.48
+    - - 492884.96
+      - 6025985.51
+      - 426.36
+    - - 492884.58
+      - 6025987.04
+      - 429.12
+    - - 492884.55
+      - 6025984.43
+      - 422.32
+    - - 492885.79
+      - 6025983.85
+      - 421.47
+    102:
+    - - 492883.98
+      - 6025985.02
+      - 421.32
+    - - 492884.22
+      - 6025985.04
+      - 420.69
+    - - 492884.7
+      - 6025985.45
+      - 420.2
+    - - 492885.34
+      - 6025985.5
+      - 422.32
+    - - 492886.76
+      - 6025983.29
+      - 425.55
+    - - 492890.33
+      - 6025980.81
+      - 425.0
+    - - 492888.91
+      - 6025981.05
+      - 420.57
+    - - 492888.08
+      - 6025982.16
+      - 419.98
+    - - 492889.31
+      - 6025980.25
+      - 420.29
+    33:
+    - - 492886.16
+      - 6025982.71
+      - 416.79
+    - - 492886.42
+      - 6025982.64
+      - 417.65
+    - - 492887.01
+      - 6025982.53
+      - 420.23
+    - - 492887.19
+      - 6025983.24
+      - 418.15
+    - - 492887.95
+      - 6025982.7
+      - 425.21
+    - - 492886.53
+      - 6025983.02
+      - 415.27
+    - - 492885.93
+      - 6025982.61
+      - 415.27
+    - - 492887.94
+      - 6025980.01
+      - 413.96
+    8:
+    - - 492890.01
+      - 6025979.55
+      - 422.6
+    - - 492886.99
+      - 6025979.78
+      - 414.35
+    - - 492887.02
+      - 6025979.74
+      - 414.35
+    - - 492886.6
+      - 6025979.79
+      - 413.14
+    - - 492887.37
+      - 6025980.22
+      - 412.88
+    - - 492888.87
+      - 6025981.21
+      - 419.86
+    - - 492888.75
+      - 6025981.19
+      - 422.14
+    - - 492887.61
+      - 6025980.23
+      - 416.92
+    - - 492887.51
+      - 6025978.17
+      - 412.34
+    - - 492885.47
+      - 6025975.15
+      - 410.87
+    - - 492886.71
+      - 6025978.44
+      - 412.02
+    11:
+    - - 492886.97
+      - 6025977.5
+      - 410.36
+    - - 492886.59
+      - 6025977.34
+      - 408.85
+    - - 492885.96
+      - 6025976.37
+      - 408.9
+    - - 492885.56
+      - 6025979.34
+      - 410.2
+    - - 492884.85
+      - 6025979.47
+      - 409.06
+    - - 492888.99
+      - 6025977.42
+      - 415.48
+    - - 492887.54
+      - 6025977.31
+      - 411.76
+    - - 492886.94
+      - 6025976.68
+      - 412.64
+    - - 492892.75
+      - 6025976.38
+      - 422.05
+    - - 492883.99
+      - 6025980.39
+      - 408.54
+    4:
+    - - 492892.49
+      - 6025977.0
+      - 421.95
+    - - 492889.49
+      - 6025974.72
+      - 411.88
+    - - 492890.13
+      - 6025975.5
+      - 414.13
+    - - 492892.19
+      - 6025977.22
+      - 420.16
+    - - 492893.62
+      - 6025974.49
+      - 419.6
+    - - 492889.53
+      - 6025977.03
+      - 415.24
+    - - 492889.11
+      - 6025973.97
+      - 408.96
+    - - 492888.69
+      - 6025973.9
+      - 408.82
+    - - 492889.24
+      - 6025974.49
+      - 410.82
+    - - 492888.74
+      - 6025974.09
+      - 410.65
+    - - 492901.14
+      - 6025965.0
+      - 407.92
+    - - 492895.34
+      - 6025968.69
+      - 410.56
+    60:
+    - - 492891.37
+      - 6025970.65
+      - 409.98
+    - - 492895.45
+      - 6025972.08
+      - 421.8
+    - - 492892.73
+      - 6025976.2
+      - 419.86
+    - - 492891.37
+      - 6025970.09
+      - 406.14
+    - - 492891.08
+      - 6025977.37
+      - 421.01
+    - - 492890.77
+      - 6025975.11
+      - 413.21
+    - - 492891.81
+      - 6025973.06
+      - 408.98
+    - - 492890.37
+      - 6025972.96
+      - 409.02
+    - - 492889.08
+      - 6025972.21
+      - 408.22
+    - - 492894.83
+      - 6025968.57
+      - 413.32
+    73:
+    - - 492890.97
+      - 6025975.29
+      - 410.91
+    - - 492893.33
+      - 6025974.78
+      - 419.79
+    - - 492891.64
+      - 6025975.64
+      - 409.18
+    - - 492891.25
+      - 6025975.69
+      - 407.69
+    - - 492890.5
+      - 6025975.09
+      - 408.01
+    - - 492892.45
+      - 6025976.05
+      - 412.67
+    - - 492892.31
+      - 6025974.86
+      - 413.37
+    - - 492890.72
+      - 6025971.63
+      - 411.25
+    - - 492893.89
+      - 6025971.93
+      - 418.32
+    65:
+    - - 492889.9
+      - 6025979.12
+      - 410.78
+    - - 492890.62
+      - 6025980.03
+      - 412.99
+    - - 492889.27
+      - 6025979.31
+      - 406.23
+    - - 492888.55
+      - 6025978.53
+      - 405.1
+    - - 492889.4
+      - 6025978.89
+      - 405.05
+    - - 492888.62
+      - 6025980.91
+      - 406.41
+    - - 492889.51
+      - 6025980.44
+      - 410.06
+    - - 492891.57
+      - 6025978.63
+      - 414.34
+    - - 492888.16
+      - 6025980.93
+      - 404.67
+    - - 492887.86
+      - 6025980.26
+      - 404.22
+    - - 492887.78
+      - 6025981.25
+      - 403.22
+    - - 492888.59
+      - 6025980.45
+      - 404.18
+    - - 492887.34
+      - 6025981.94
+      - 403.01
+    94:
+    - - 492888.23
+      - 6025982.82
+      - 403.01
+    - - 492886.94
+      - 6025981.84
+      - 401.31
+    - - 492887.46
+      - 6025982.16
+      - 401.28
+    - - 492887.78
+      - 6025982.15
+      - 405.0
+    - - 492887.88
+      - 6025983.3
+      - 405.69
+    - - 492887.6
+      - 6025984.08
+      - 409.08
+    - - 492888.13
+      - 6025981.48
+      - 404.72
+    - - 492887.14
+      - 6025979.54
+      - 400.64
+    - - 492887.46
+      - 6025981.3
+      - 403.09
+    27:
+    - - 492885.03
+      - 6025985.52
+      - 403.08
+    - - 492886.23
+      - 6025985.76
+      - 403.14
+    - - 492885.95
+      - 6025986.26
+      - 406.7
+    - - 492886.7
+      - 6025986.33
+      - 404.85
+    - - 492885.7
+      - 6025988.67
+      - 406.05
+    - - 492884.93
+      - 6025988.4
+      - 404.8
+    - - 492885.6
+      - 6025989.35
+      - 404.34
+    - - 492884.64
+      - 6025989.07
+      - 402.79
+    16:
+    - - 492885.63
+      - 6025990.01
+      - 406.83
+    - - 492884.92
+      - 6025989.6
+      - 402.57
+    - - 492884.21
+      - 6025989.48
+      - 402.69
+    - - 492884.57
+      - 6025989.44
+      - 404.08
+    - - 492885.0
+      - 6025989.65
+      - 405.44
+    - - 492885.7
+      - 6025994.01
+      - 410.76
+    - - 492884.35
+      - 6025991.93
+      - 405.73
+    - - 492884.05
+      - 6026000.6
+      - 407.11
+    - - 492885.73
+      - 6025986.97
+      - 406.24
+    - - 492886.07
+      - 6025983.69
+      - 407.1
+    - - 492884.58
+      - 6025986.11
+      - 403.11
+    - - 492883.43
+      - 6025992.69
+      - 402.17
+    - - 492884.02
+      - 6025993.94
+      - 401.96
+    - - 492883.76
+      - 6025997.83
+      - 407.2
+    - - 492885.05
+      - 6025995.0
+      - 409.7
+    39:
+    - - 492890.28
+      - 6025990.3
+      - 403.64
+    - - 492890.47
+      - 6025990.3
+      - 404.1
+    - - 492890.63
+      - 6025989.89
+      - 403.04
+    41:
+    - - 492883.87
+      - 6025996.03
+      - 408.64
+    - - 492882.74
+      - 6025994.43
+      - 402.55
+    - - 492882.7
+      - 6025993.99
+      - 401.23
+    - - 492883.44
+      - 6025994.16
+      - 400.97
+    - - 492885.87
+      - 6025993.72
+      - 412.56
+    - - 492882.81
+      - 6025999.55
+      - 410.01
+    - - 492885.56
+      - 6025991.58
+      - 408.24
+    - - 492881.36
+      - 6025997.79
+      - 399.9
+    - - 492877.81
+      - 6026007.03
+      - 397.52
+    - - 492882.23
+      - 6025999.24
+      - 402.64
+    - - 492881.11
+      - 6026000.32
+      - 404.08
+    - - 492881.32
+      - 6026004.07
+      - 408.17
+    - - 492881.99
+      - 6026002.75
+      - 410.82
+    - - 492878.83
+      - 6026000.7
+      - 392.37
+    - - 492879.25
+      - 6026002.37
+      - 394.06
+    - - 492878.84
+      - 6026002.98
+      - 395.66
+    - - 492879.69
+      - 6026001.55
+      - 398.98
+    - - 492880.85
+      - 6026000.36
+      - 402.7
+    13:
+    - - 492878.07
+      - 6026007.57
+      - 397.21
+    - - 492878.12
+      - 6026007.1
+      - 398.23
+    - - 492878.84
+      - 6026006.85
+      - 398.63
+    - - 492879.11
+      - 6026004.14
+      - 408.95
+    - - 492877.17
+      - 6026006.24
+      - 398.74
+    - - 492877.46
+      - 6026004.51
+      - 404.39
+    - - 492877.75
+      - 6026004.94
+      - 404.75
+    - - 492878.74
+      - 6026004.46
+      - 408.1
+    - - 492878.22
+      - 6026004.13
+      - 405.38
+    - - 492873.04
+      - 6025995.04
+      - 399.46
+    - - 492873.05
+      - 6025995.06
+      - 399.46
+    - - 492873.14
+      - 6025995.19
+      - 399.32
+    - - 492873.07
+      - 6025995.14
+      - 399.38
+    95:
+    - - 492879.75
+      - 6026008.18
+      - 397.33
+    - - 492879.78
+      - 6026007.89
+      - 398.28
+    - - 492879.58
+      - 6026009.95
+      - 398.89
+    - - 492879.21
+      - 6026009.15
+      - 399.73
+    - - 492879.73
+      - 6026008.05
+      - 399.59
+    - - 492882.27
+      - 6026007.01
+      - 398.04
+    - - 492885.77
+      - 6026005.37
+      - 398.06
+    - - 492882.71
+      - 6026007.43
+      - 399.33
+    - - 492879.82
+      - 6026012.89
+      - 397.21
+    - - 492880.32
+      - 6026012.29
+      - 398.83
+    - - 492880.57
+      - 6026012.88
+      - 396.93
+    - - 492880.44
+      - 6026010.88
+      - 398.02
+    96:
+    - - 492881.66
+      - 6026014.62
+      - 398.06
+    - - 492881.44
+      - 6026014.84
+      - 398.75
+    - - 492881.53
+      - 6026014.83
+      - 397.14
+    - - 492880.76
+      - 6026014.75
+      - 396.91
+    - - 492882.14
+      - 6026016.62
+      - 398.15
+    - - 492881.2
+      - 6026018.16
+      - 396.81
+    - - 492881.79
+      - 6026016.83
+      - 398.39
+    - - 492882.43
+      - 6026019.41
+      - 397.7
+    34:
+    - - 492881.84
+      - 6026019.43
+      - 403.46
+    - - 492882.48
+      - 6026019.39
+      - 403.54
+    - - 492882.41
+      - 6026019.22
+      - 403.67
+    - - 492882.5
+      - 6026019.14
+      - 403.74
+    - - 492882.13
+      - 6026018.95
+      - 395.76
+    - - 492881.23
+      - 6026019.13
+      - 394.88
+    - - 492881.78
+      - 6026019.56
+      - 394.61
+    - - 492881.34
+      - 6026019.19
+      - 397.1
+    - - 492881.92
+      - 6026018.83
+      - 398.37
+    - - 492881.88
+      - 6026019.09
+      - 398.36
+    - - 492883.46
+      - 6026017.55
+      - 399.24
+    - - 492883.86
+      - 6026017.92
+      - 403.4
+    - - 492886.42
+      - 6026015.55
+      - 405.15
+    - - 492883.06
+      - 6026019.17
+      - 398.98
+    - - 492882.51
+      - 6026018.65
+      - 398.98
+    - - 492882.38
+      - 6026018.04
+      - 397.85
+    - - 492882.53
+      - 6026017.65
+      - 396.81
+    90:
+    - - 492879.21
+      - 6026022.42
+      - 398.63
+    - - 492879.24
+      - 6026022.15
+      - 392.36
+    - - 492878.78
+      - 6026021.68
+      - 391.05
+    - - 492879.27
+      - 6026021.9
+      - 391.09
+    - - 492878.17
+      - 6026023.23
+      - 396.97
+    - - 492877.34
+      - 6026023.92
+      - 394.67
+    - - 492876.76
+      - 6026024.43
+      - 393.78
+    - - 492877.42
+      - 6026024.39
+      - 392.71
+    - - 492877.16
+      - 6026023.53
+      - 392.54
+    - - 492877.08
+      - 6026023.4
+      - 390.29
+    - - 492877.94
+      - 6026023.74
+      - 390.62
+    - - 492876.38
+      - 6026023.91
+      - 388.93
+    29:
+    - - 492873.81
+      - 6026027.69
+      - 386.49
+    - - 492873.86
+      - 6026027.97
+      - 384.59
+    - - 492873.35
+      - 6026027.01
+      - 384.52
+    - - 492873.65
+      - 6026026.97
+      - 383.63
+    - - 492873.82
+      - 6026027.19
+      - 383.59
+    - - 492874.68
+      - 6026026.74
+      - 387.53
+    15:
+    - - 492872.9
+      - 6026027.9
+      - 378.93
+    - - 492873.35
+      - 6026027.72
+      - 385.63
+    - - 492873.41
+      - 6026027.4
+      - 383.76
+    85:
+    - - 492873.2
+      - 6026028.2
+      - 379.29
+    - - 492872.78
+      - 6026028.32
+      - 379.83
+    - - 492872.56
+      - 6026027.38
+      - 379.36
+    - - 492873.59
+      - 6026027.69
+      - 379.54
+    18:
+    - - 492867.3
+      - 6026032.79
+      - 379.68
+    - - 492867.45
+      - 6026033.92
+      - 378.4
+    - - 492868.05
+      - 6026034.36
+      - 378.94
+    - - 492867.68
+      - 6026033.77
+      - 380.3
+    - - 492867.3
+      - 6026032.78
+      - 380.14
+    - - 492867.49
+      - 6026032.64
+      - 378.55
+    - - 492866.18
+      - 6026035.86
+      - 379.85
+    - - 492865.05
+      - 6026034.22
+      - 380.15
+    - - 492863.81
+      - 6026034.81
+      - 378.61
+    - - 492864.3
+      - 6026035.76
+      - 378.59
+    - - 492861.66
+      - 6026035.68
+      - 380.06
+    - - 492859.52
+      - 6026036.94
+      - 378.61
+    77:
+    - - 492861.74
+      - 6026036.01
+      - 380.26
+    - - 492861.7
+      - 6026035.82
+      - 378.54
+    - - 492861.96
+      - 6026036.73
+      - 378.91
+    - - 492859.46
+      - 6026037.92
+      - 379.8
+    - - 492857.99
+      - 6026038.05
+      - 380.36
+    - - 492855.38
+      - 6026039.51
+      - 378.64
+    36:
+    - - 492850.68
+      - 6026042.06
+      - 378.75
+    - - 492850.26
+      - 6026041.23
+      - 378.81
+    - - 492850.38
+      - 6026041.26
+      - 380.3
+    - - 492850.69
+      - 6026042.03
+      - 380.39
+    - - 492845.87
+      - 6026043.56
+      - 379.16
+    - - 492845.9
+      - 6026044.73
+      - 379.77
+    - - 492848.22
+      - 6026043.12
+      - 378.74
+    28:
+    - - 492845.83
+      - 6026043.38
+      - 380.02
+    - - 492846.13
+      - 6026043.94
+      - 380.38
+    - - 492845.64
+      - 6026043.46
+      - 379.23
+    - - 492846.15
+      - 6026044.42
+      - 379.3
+    - - 492843.93
+      - 6026044.07
+      - 380.01
+    - - 492844.79
+      - 6026043.44
+      - 380.5
+    - - 492842.53
+      - 6026044.67
+      - 380.65
+    - - 492842.67
+      - 6026046.02
+      - 380.76
+    - - 492841.6
+      - 6026045.4
+      - 380.35
+    - - 492843.25
+      - 6026042.16
+      - 379.99
+    - - 492840.43
+      - 6026046.49
+      - 380.48
+    - - 492840.4
+      - 6026046.47
+      - 380.48
+    - - 492840.46
+      - 6026046.45
+      - 380.51
+    3:
+    - - 492840.29
+      - 6026042.32
+      - 380.25
+    - - 492840.48
+      - 6026041.61
+      - 380.26
+    - - 492840.15
+      - 6026041.55
+      - 381.79
+    - - 492839.87
+      - 6026039.47
+      - 382.91
+    - - 492841.7
+      - 6026039.5
+      - 383.09
+    - - 492841.84
+      - 6026038.03
+      - 385.94
+    - - 492844.02
+      - 6026037.69
+      - 386.48
+    - - 492842.99
+      - 6026040.82
+      - 383.08
+    - - 492842.47
+      - 6026041.94
+      - 381.54
+    - - 492842.23
+      - 6026043.37
+      - 380.74
+    - - 492840.82
+      - 6026041.54
+      - 380.72
+    - - 492842.17
+      - 6026041.77
+      - 380.53
+    - - 492842.41
+      - 6026042.77
+      - 380.68
+    - - 492843.16
+      - 6026043.18
+      - 379.9
+    - - 492841.16
+      - 6026041.77
+      - 380.42
+    - - 492843.74
+      - 6026038.19
+      - 385.55
+    - - 492843.59
+      - 6026038.33
+      - 385.32
+    - - 492843.95
+      - 6026037.97
+      - 385.91
+    - - 492844.02
+      - 6026037.76
+      - 386.16
+    1:
+    - - 492837.08
+      - 6026040.72
+      - 380.68
+    - - 492837.04
+      - 6026041.46
+      - 380.58
+    - - 492837.45
+      - 6026041.36
+      - 379.5
+    - - 492837.36
+      - 6026041.44
+      - 379.51
+    - - 492837.45
+      - 6026040.88
+      - 379.54
+    - - 492835.94
+      - 6026040.35
+      - 379.9
+    - - 492835.36
+      - 6026040.64
+      - 380.69
+    - - 492829.03
+      - 6026040.4
+      - 379.83
+    - - 492828.98
+      - 6026040.4
+      - 379.86
+    78:
+    - - 492829.4
+      - 6026039.87
+      - 378.99
+    - - 492829.09
+      - 6026040.09
+      - 380.58
+    - - 492829.85
+      - 6026039.3
+      - 379.23
+    - - 492829.68
+      - 6026039.49
+      - 380.56
+    - - 492828.05
+      - 6026037.64
+      - 379.95
+    - - 492825.48
+      - 6026035.35
+      - 380.78
+    - - 492823.49
+      - 6026034.28
+      - 379.97
+    - - 492823.31
+      - 6026032.32
+      - 379.48
+    - - 492823.19
+      - 6026032.76
+      - 380.64
+    - - 492827.4
+      - 6026038.7
+      - 379.22
+    64:
+    - - 492818.7
+      - 6026029.74
+      - 380.18
+    - - 492818.76
+      - 6026029.68
+      - 379.23
+    - - 492819.53
+      - 6026029.11
+      - 379.15
+    - - 492819.35
+      - 6026029.23
+      - 380.73
+    - - 492818.83
+      - 6026029.62
+      - 380.81
+    - - 492817.39
+      - 6026028.09
+      - 380.09
+    - - 492817.41
+      - 6026026.57
+      - 379.24
+    - - 492816.41
+      - 6026026.01
+      - 380.72
+    - - 492814.66
+      - 6026025.2
+      - 379.41
+    - - 492815.34
+      - 6026024.76
+      - 379.9
+    - - 492816.43
+      - 6026026.18
+      - 379.23
+    - - 492812.94
+      - 6026023.22
+      - 380.65
+    - - 492812.75
+      - 6026023.04
+      - 380.71
+    - - 492812.61
+      - 6026022.9
+      - 380.71
+    - - 492812.75
+      - 6026023.04
+      - 380.69
+    24:
+    - - 492812.38
+      - 6026023.12
+      - 379.37
+    - - 492812.93
+      - 6026022.35
+      - 379.31
+    - - 492813.17
+      - 6026022.13
+      - 380.35
+    - - 492812.99
+      - 6026022.26
+      - 380.98
+    - - 492812.7
+      - 6026022.58
+      - 381.07
+    - - 492810.14
+      - 6026019.92
+      - 379.38
+    - - 492809.33
+      - 6026020.69
+      - 379.5
+    - - 492810.04
+      - 6026019.98
+      - 380.83
+    - - 492804.76
+      - 6026016.75
+      - 379.75
+    - - 492805.17
+      - 6026017.06
+      - 379.59
+    - - 492807.33
+      - 6026017.77
+      - 379.99
+    - - 492806.34
+      - 6026017.26
+      - 381.23
+    - - 492804.86
+      - 6026016.29
+      - 380.54
+    - - 492804.87
+      - 6026016.36
+      - 380.56
+    23:
+    - - 492804.81
+      - 6026016.27
+      - 379.5
+    - - 492805.06
+      - 6026016.25
+      - 381.18
+    - - 492805.8
+      - 6026015.72
+      - 381.11
+    - - 492805.94
+      - 6026015.67
+      - 380.97
+    - - 492806.04
+      - 6026015.59
+      - 380.42
+    - - 492805.81
+      - 6026015.7
+      - 379.59
+    - - 492804.97
+      - 6026016.45
+      - 379.46
+    - - 492803.28
+      - 6026012.57
+      - 380.4
+    - - 492802.4
+      - 6026012.37
+      - 379.85
+    - - 492802.03
+      - 6026012.94
+      - 379.51
+    - - 492801.15
+      - 6026012.01
+      - 381.25
+    - - 492803.5
+      - 6026014.33
+      - 381.15
+    - - 492801.38
+      - 6026012.04
+      - 379.54
+    - - 492799.42
+      - 6026009.7
+      - 380.89
+    - - 492799.47
+      - 6026009.69
+      - 380.96
+    - - 492798.42
+      - 6026008.4
+      - 380.99
+    71:
+    - - 492799.73
+      - 6026009.5
+      - 380.39
+    - - 492799.47
+      - 6026009.93
+      - 379.61
+    - - 492799.22
+      - 6026010.04
+      - 381.27
+    - - 492798.77
+      - 6026010.73
+      - 381.04
+    - - 492798.88
+      - 6026010.97
+      - 379.66
+    - - 492799.37
+      - 6026010.14
+      - 379.56
+    - - 492796.79
+      - 6026007.82
+      - 379.78
+    - - 492797.77
+      - 6026007.06
+      - 379.64
+    - - 492796.5
+      - 6026006.41
+      - 381.09
+    - - 492794.06
+      - 6026002.61
+      - 379.73
+    - - 492797.01
+      - 6026006.97
+      - 381.34
+    80:
+    - - 492792.29
+      - 6026001.98
+      - 380.76
+    - - 492792.75
+      - 6026001.31
+      - 379.75
+    - - 492792.14
+      - 6026001.9
+      - 379.8
+    - - 492792.82
+      - 6026001.21
+      - 381.39
+    - - 492792.34
+      - 6026001.5
+      - 381.46
+    - - 492790.53
+      - 6025999.88
+      - 381.01
+    - - 492789.75
+      - 6025999.15
+      - 380.11
+    - - 492789.21
+      - 6025997.95
+      - 381.54
+    83:
+    - - 492790.41
+      - 6025997.67
+      - 381.18
+    - - 492789.42
+      - 6025997.85
+      - 381.82
+    - - 492790.19
+      - 6025997.57
+      - 381.79
+    - - 492789.33
+      - 6025998.09
+      - 379.96
+    - - 492790.19
+      - 6025997.62
+      - 379.94
+    - - 492788.72
+      - 6025995.56
+      - 381.69
+    - - 492788.53
+      - 6025994.91
+      - 380.26
+    - - 492787.91
+      - 6025995.96
+      - 380.12
+    - - 492786.73
+      - 6025993.76
+      - 381.59
+    - - 492786.46
+      - 6025993.55
+      - 380.19
+    - - 492788.67
+      - 6025997.15
+      - 381.37
+    - - 492788.46
+      - 6025994.77
+      - 380.27
+    - - 492788.31
+      - 6025994.93
+      - 381.71
+    - - 492786.03
+      - 6025993.08
+      - 380.25
+    - - 492787.4
+      - 6025994.7
+      - 381.8
+    - - 492787.97
+      - 6025996.14
+      - 380.33
+    - - 492788.73
+      - 6025995.22
+      - 380.18
+    101:
+    - - 492786.35
+      - 6025993.64
+      - 380.1
+    - - 492786.25
+      - 6025993.43
+      - 381.77
+    - - 492785.94
+      - 6025994.06
+      - 381.88
+    - - 492785.41
+      - 6025993.99
+      - 380.24
+    - - 492784.19
+      - 6025992.83
+      - 380.74
+    - - 492784.33
+      - 6025991.02
+      - 381.29
+    - - 492784.46
+      - 6025991.88
+      - 381.82
+    - - 492782.84
+      - 6025991.39
+      - 380.37
+    - - 492783.87
+      - 6025990.88
+      - 380.43
+    - - 492780.93
+      - 6025988.82
+      - 381.68
+    - - 492784.37
+      - 6025992.55
+      - 381.47
+    72:
+    - - 492783.26
+      - 6025990.41
+      - 381.86
+    - - 492782.74
+      - 6025990.93
+      - 381.91
+    - - 492782.45
+      - 6025991.15
+      - 380.33
+    - - 492782.55
+      - 6025991.19
+      - 381.32
+    - - 492783.2
+      - 6025990.28
+      - 380.36
+    - - 492781.63
+      - 6025988.97
+      - 383.57
+    - - 492781.63
+      - 6025988.45
+      - 382.38
+    - - 492778.85
+      - 6025990.96
+      - 380.2
+    - - 492778.32
+      - 6025983.1
+      - 374.18
+    - - 492780.33
+      - 6025983.6
+      - 376.89
+    - - 492781.24
+      - 6025986.04
+      - 378.83
+    - - 492781.58
+      - 6025987.49
+      - 379.68
+    - - 492782.3
+      - 6025986.23
+      - 381.42
+    - - 492782.0
+      - 6025981.82
+      - 381.87
+    - - 492780.91
+      - 6025984.06
+      - 375.81
+    - - 492782.61
+      - 6025988.78
+      - 379.89
+    - - 492782.55
+      - 6025988.84
+      - 379.88
+    - - 492782.08
+      - 6025989.6
+      - 380.12
+    81:
+    - - 492780.53
+      - 6025992.41
+      - 382.01
+    - - 492784.79
+      - 6025994.14
+      - 391.67
+    - - 492777.64
+      - 6025990.97
+      - 377.41
+    - - 492777.19
+      - 6025993.29
+      - 379.41
+    - - 492779.84
+      - 6025989.66
+      - 378.16
+    - - 492781.42
+      - 6025987.82
+      - 376.9
+    - - 492780.16
+      - 6025997.31
+      - 388.65
+    - - 492781.86
+      - 6025994.96
+      - 389.55
+    - - 492783.15
+      - 6025990.56
+      - 387.23
+    - - 492786.88
+      - 6025989.11
+      - 388.7
+    - - 492783.91
+      - 6025988.61
+      - 385.63
+    - - 492783.61
+      - 6025989.58
+      - 383.19
+    - - 492783.47
+      - 6025989.86
+      - 381.99
+    - - 492784.35
+      - 6025987.32
+      - 381.59
+    - - 492781.49
+      - 6025989.07
+      - 381.97
+    - - 492780.8
+      - 6025990.32
+      - 379.79
+    - - 492779.88
+      - 6025991.05
+      - 380.38
+    - - 492778.93
+      - 6025991.88
+      - 380.25
+    - - 492777.53
+      - 6025993.76
+      - 380.18
+    - - 492777.13
+      - 6025999.7
+      - 384.82
+    - - 492779.91
+      - 6025999.61
+      - 387.68
+    - - 492779.48
+      - 6025995.68
+      - 384.13
+    - - 492780.81
+      - 6025995.88
+      - 388.89
+    - - 492784.08
+      - 6025985.86
+      - 380.34
+    - - 492775.4
+      - 6025992.27
+      - 375.36
+    - - 492776.15
+      - 6025997.61
+      - 382.81
+    44:
+    - - 492777.58
+      - 6025997.36
+      - 383.26
+    - - 492781.14
+      - 6025998.02
+      - 387.84
+    - - 492777.32
+      - 6025998.2
+      - 384.94
+    - - 492775.5
+      - 6025997.53
+      - 381.34
+    - - 492776.57
+      - 6025997.66
+      - 381.5
+    - - 492775.72
+      - 6025995.74
+      - 381.05
+    - - 492777.06
+      - 6025996.63
+      - 381.43
+    - - 492779.6
+      - 6025997.82
+      - 385.83
+    - - 492781.13
+      - 6025995.37
+      - 389.03
+    - - 492778.97
+      - 6025996.42
+      - 384.53
+    - - 492777.23
+      - 6025996.03
+      - 384.84
+    - - 492776.98
+      - 6026002.91
+      - 383.24
+    - - 492776.19
+      - 6026001.83
+      - 380.82
+    - - 492776.45
+      - 6026003.18
+      - 382.11
+    - - 492775.68
+      - 6026003.23
+      - 382.39
+    - - 492774.69
+      - 6026005.02
+      - 380.45
+    - - 492776.16
+      - 6026002.15
+      - 381.41
+    - - 492775.19
+      - 6026000.28
+      - 381.0
+    - - 492776.52
+      - 6026000.57
+      - 380.89
+    74:
+    - - 492779.41
+      - 6025983.77
+      - 376.11
+    - - 492779.93
+      - 6025983.5
+      - 377.05
+    - - 492779.46
+      - 6025984.86
+      - 377.13
+    - - 492779.17
+      - 6025985.47
+      - 376.34
+    - - 492778.09
+      - 6025983.9
+      - 374.85
+    - - 492778.42
+      - 6025983.21
+      - 374.18
+    - - 492777.21
+      - 6025984.77
+      - 373.31
+    - - 492778.0
+      - 6025984.9
+      - 373.48
+    - - 492777.49
+      - 6025983.5
+      - 372.05
+    - - 492779.25
+      - 6025984.4
+      - 373.59
+    - - 492777.82
+      - 6025986.08
+      - 373.78
+    - - 492779.78
+      - 6025988.32
+      - 376.96
+    - - 492779.55
+      - 6025986.98
+      - 376.98
+    - - 492780.5
+      - 6025986.21
+      - 377.71
+    - - 492780.95
+      - 6025985.19
+      - 378.19
+    - - 492783.93
+      - 6025987.82
+      - 380.45
+    - - 492783.16
+      - 6025985.15
+      - 378.63
+    - - 492781.76
+      - 6025985.5
+      - 376.55
+    - - 492781.32
+      - 6025984.05
+      - 377.91
+    - - 492783.45
+      - 6025984.46
+      - 382.96
+    - - 492786.28
+      - 6025986.49
+      - 386.96
+    - - 492785.32
+      - 6025986.43
+      - 386.58
+    - - 492783.68
+      - 6025986.76
+      - 382.19
+    - - 492783.43
+      - 6025988.62
+      - 382.13
+    - - 492783.44
+      - 6025989.96
+      - 381.26
+    - - 492783.29
+      - 6025985.01
+      - 379.1
+    - - 492781.69
+      - 6025989.21
+      - 379.4
+    - - 492783.05
+      - 6025990.72
+      - 382.11
+    - - 492781.43
+      - 6025986.05
+      - 376.54
+    - - 492779.05
+      - 6025985.3
+      - 376.08
+    - - 492780.63
+      - 6025983.76
+      - 377.64
+    - - 492781.06
+      - 6025984.3
+      - 374.69
+    47:
+    - - 492777.65
+      - 6025983.24
+      - 371.04
+    - - 492779.64
+      - 6025981.86
+      - 370.05
+    - - 492778.65
+      - 6025982.88
+      - 370.04
+    - - 492777.77
+      - 6025983.45
+      - 371.06
+    - - 492777.9
+      - 6025983.92
+      - 371.03
+    - - 492777.91
+      - 6025984.1
+      - 370.85
+    - - 492777.75
+      - 6025983.4
+      - 371.6
+    - - 492778.59
+      - 6025983.61
+      - 372.44
+    - - 492780.35
+      - 6025983.7
+      - 374.97
+    - - 492778.14
+      - 6025984.42
+      - 373.34
+    - - 492778.76
+      - 6025985.28
+      - 373.41
+    - - 492777.53
+      - 6025985.18
+      - 372.77
+    - - 492775.8
+      - 6025984.82
+      - 371.0
+    - - 492775.86
+      - 6025984.25
+      - 370.53
+    - - 492776.41
+      - 6025984.46
+      - 370.71
+    - - 492774.46
+      - 6025983.95
+      - 368.78
+    - - 492775.54
+      - 6025983.18
+      - 369.75
+    - - 492775.76
+      - 6025983.55
+      - 369.54
+    - - 492775.53
+      - 6025983.61
+      - 370.51
+    - - 492777.29
+      - 6025985.39
+      - 371.9
+    - - 492776.62
+      - 6025984.15
+      - 371.5
+    - - 492777.15
+      - 6025984.37
+      - 370.93
+    - - 492777.47
+      - 6025984.72
+      - 371.41
+    - - 492777.95
+      - 6025985.03
+      - 372.14
+    - - 492778.39
+      - 6025985.15
+      - 372.79
+    - - 492778.67
+      - 6025985.38
+      - 373.45
+    - - 492778.43
+      - 6025984.2
+      - 371.96
+    - - 492777.82
+      - 6025984.29
+      - 370.94
+    - - 492776.62
+      - 6025983.58
+      - 371.72
+    - - 492776.86
+      - 6025983.77
+      - 372.47
+    - - 492776.62
+      - 6025983.54
+      - 370.68
+    61:
+    - - 492775.96
+      - 6025988.14
+      - 366.51
+    - - 492782.29
+      - 6025979.59
+      - 368.81
+    - - 492783.91
+      - 6025978.99
+      - 368.74
+    - - 492784.12
+      - 6025979.3
+      - 369.71
+    - - 492784.32
+      - 6025979.64
+      - 370.39
+    - - 492784.83
+      - 6025980.17
+      - 372.78
+    - - 492782.18
+      - 6025982.01
+      - 371.36
+    - - 492783.58
+      - 6025981.43
+      - 372.01
+    - - 492782.52
+      - 6025980.51
+      - 369.66
+    - - 492779.89
+      - 6025981.7
+      - 369.28
+    - - 492780.72
+      - 6025982.15
+      - 368.69
+    - - 492781.45
+      - 6025980.9
+      - 367.84
+    - - 492781.91
+      - 6025979.49
+      - 366.71
+    - - 492781.78
+      - 6025978.91
+      - 367.06
+    - - 492785.1
+      - 6025979.61
+      - 368.35
+    - - 492781.87
+      - 6025978.04
+      - 365.35
+    - - 492782.75
+      - 6025977.86
+      - 365.28
+    - - 492781.72
+      - 6025977.83
+      - 364.41
+    - - 492787.95
+      - 6025978.05
+      - 374.93
+    - - 492789.1
+      - 6025978.69
+      - 377.33
+    - - 492787.29
+      - 6025979.63
+      - 376.01
+    - - 492793.92
+      - 6025974.9
+      - 378.9
+    - - 492792.75
+      - 6025975.0
+      - 374.51
+    - - 492784.64
+      - 6025978.55
+      - 368.63
+    - - 492786.37
+      - 6025980.13
+      - 375.4
+    - - 492785.02
+      - 6025979.55
+      - 367.17
+    - - 492785.81
+      - 6025976.77
+      - 367.75
+    - - 492785.46
+      - 6025976.86
+      - 367.14
+    - - 492786.6
+      - 6025977.48
+      - 367.73
+    - - 492787.5
+      - 6025976.67
+      - 368.58
+    - - 492787.84
+      - 6025976.12
+      - 369.32
+    - - 492786.35
+      - 6025977.1
+      - 369.19
+    - - 492786.62
+      - 6025977.42
+      - 370.02
+    - - 492787.73
+      - 6025977.26
+      - 371.22
+    - - 492790.49
+      - 6025976.75
+      - 371.52
+    - - 492788.22
+      - 6025978.11
+      - 369.43
+    - - 492790.78
+      - 6025975.85
+      - 370.03
+    - - 492794.11
+      - 6025969.95
+      - 371.18
+    32:
+    - - 492792.1
+      - 6025970.51
+      - 370.49
+    - - 492792.13
+      - 6025970.27
+      - 369.31
+    - - 492793.36
+      - 6025970.88
+      - 369.15
+    - - 492794.31
+      - 6025971.58
+      - 369.28
+    - - 492792.8
+      - 6025969.95
+      - 371.34
+    - - 492793.01
+      - 6025970.24
+      - 373.18
+    - - 492793.04
+      - 6025970.28
+      - 373.19
+    - - 492793.58
+      - 6025970.48
+      - 374.71
+    - - 492794.52
+      - 6025970.45
+      - 376.86
+    - - 492795.81
+      - 6025970.51
+      - 380.22
+    - - 492798.22
+      - 6025970.49
+      - 387.12
+    - - 492795.4
+      - 6025971.77
+      - 372.64
+    - - 492797.95
+      - 6025971.73
+      - 381.8
+    - - 492794.46
+      - 6025966.62
+      - 369.69
+    - - 492794.39
+      - 6025968.35
+      - 368.02
+    - - 492794.79
+      - 6025969.5
+      - 368.21
+    - - 492795.63
+      - 6025969.86
+      - 368.1
+    - - 492795.57
+      - 6025967.88
+      - 367.2
+    - - 492796.89
+      - 6025966.14
+      - 365.8
+    - - 492797.53
+      - 6025966.21
+      - 366.35
+    - - 492797.98
+      - 6025966.07
+      - 367.42
+    - - 492800.79
+      - 6025960.64
+      - 369.02
+    - - 492800.01
+      - 6025960.03
+      - 365.27
+    - - 492800.38
+      - 6025960.29
+      - 367.03
+    - - 492800.96
+      - 6025960.88
+      - 370.34
+    - - 492800.24
+      - 6025962.8
+      - 372.39
+    - - 492797.99
+      - 6025966.45
+      - 373.12
+    - - 492798.99
+      - 6025964.51
+      - 375.2
+    - - 492799.56
+      - 6025963.7
+      - 377.29
+    - - 492803.31
+      - 6025957.58
+      - 386.35
+    - - 492796.45
+      - 6025967.66
+      - 378.82
+    - - 492795.85
+      - 6025966.83
+      - 376.82
+    - - 492795.0
+      - 6025966.66
+      - 373.62
+    - - 492792.22
+      - 6025970.28
+      - 370.61
+    - - 492798.69
+      - 6025971.27
+      - 389.51
+    - - 492794.59
+      - 6025971.85
+      - 369.38
+    7:
+    - - 492796.64
+      - 6025965.51
+      - 368.35
+    - - 492795.87
+      - 6025965.29
+      - 367.75
+    - - 492796.17
+      - 6025964.48
+      - 366.47
+    - - 492796.16
+      - 6025969.39
+      - 371.07
+    - - 492797.45
+      - 6025967.72
+      - 372.54
+    - - 492796.28
+      - 6025968.85
+      - 373.07
+    - - 492791.52
+      - 6025975.12
+      - 379.42
+    - - 492792.91
+      - 6025974.57
+      - 372.26
+    - - 492797.56
+      - 6025967.87
+      - 372.31
+    - - 492797.44
+      - 6025964.74
+      - 369.98
+    - - 492798.71
+      - 6025965.94
+      - 373.06
+    - - 492797.41
+      - 6025967.53
+      - 373.86
+    - - 492795.61
+      - 6025970.61
+      - 380.27
+    - - 492799.97
+      - 6025965.48
+      - 377.37
+    - - 492803.41
+      - 6025964.46
+      - 382.98
+    - - 492798.2
+      - 6025964.28
+      - 366.01
+    - - 492801.31
+      - 6025963.39
+      - 371.47
+    - - 492798.78
+      - 6025964.51
+      - 367.3
+    - - 492801.93
+      - 6025961.64
+      - 371.6
+    - - 492803.87
+      - 6025960.97
+      - 376.1
+    - - 492802.09
+      - 6025961.71
+      - 371.16
+    - - 492800.65
+      - 6025960.88
+      - 369.62
+    - - 492801.07
+      - 6025960.74
+      - 368.21
+    - - 492799.51
+      - 6025960.52
+      - 367.26
+    - - 492800.56
+      - 6025960.33
+      - 366.74
+    - - 492797.84
+      - 6025961.7
+      - 367.2
+    - - 492797.6
+      - 6025962.86
+      - 368.29
+    - - 492797.96
+      - 6025961.2
+      - 365.43
+    - - 492797.38
+      - 6025961.64
+      - 364.06
+    - - 492796.98
+      - 6025962.55
+      - 363.7
+    - - 492797.64
+      - 6025962.58
+      - 363.51
+    - - 492798.41
+      - 6025963.4
+      - 364.73
+    - - 492800.31
+      - 6025959.81
+      - 363.11
+    - - 492800.78
+      - 6025960.16
+      - 364.53
+    - - 492799.67
+      - 6025960.1
+      - 362.11
+    - - 492796.14
+      - 6025962.22
+      - 365.2
+    - - 492796.75
+      - 6025962.56
+      - 366.59
+    - - 492795.98
+      - 6025963.39
+      - 365.26
+    - - 492802.15
+      - 6025965.56
+      - 386.1
+    - - 492797.86
+      - 6025964.28
+      - 364.43
+    75:
+    - - 492802.7
+      - 6025963.6
+      - 374.75
+    - - 492802.46
+      - 6025964.8
+      - 378.95
+    - - 492802.98
+      - 6025961.82
+      - 373.66
+    - - 492798.21
+      - 6025967.01
+      - 375.1
+    - - 492799.15
+      - 6025965.72
+      - 373.87
+    - - 492791.65
+      - 6025971.97
+      - 373.19
+    - - 492792.15
+      - 6025971.29
+      - 368.94
+    - - 492794.07
+      - 6025969.03
+      - 367.97
+    - - 492800.06
+      - 6025964.47
+      - 374.75
+    - - 492799.62
+      - 6025966.83
+      - 374.61
+    - - 492800.16
+      - 6025966.62
+      - 376.07
+    - - 492800.38
+      - 6025966.22
+      - 377.04
+    - - 492799.83
+      - 6025966.08
+      - 378.82
+    - - 492797.91
+      - 6025967.51
+      - 381.07
+    - - 492795.52
+      - 6025969.95
+      - 380.6
+    - - 492801.32
+      - 6025964.05
+      - 377.71
+    - - 492802.73
+      - 6025965.37
+      - 381.67
+    - - 492802.78
+      - 6025964.09
+      - 376.03
+    - - 492802.6
+      - 6025964.02
+      - 375.26
+    - - 492802.48
+      - 6025963.74
+      - 374.76
+    - - 492802.25
+      - 6025963.97
+      - 374.17
+    - - 492804.21
+      - 6025963.05
+      - 376.74
+    - - 492803.79
+      - 6025963.93
+      - 378.04
+    - - 492803.26
+      - 6025965.18
+      - 382.28
+    - - 492802.01
+      - 6025962.11
+      - 371.91
+    - - 492797.2
+      - 6025964.58
+      - 364.5
+    - - 492796.09
+      - 6025966.01
+      - 365.5
+    - - 492795.38
+      - 6025967.56
+      - 366.49
+    - - 492794.53
+      - 6025968.65
+      - 367.5
+    - - 492797.66
+      - 6025965.67
+      - 371.23
+    - - 492801.05
+      - 6025964.12
+      - 372.13
+    - - 492801.56
+      - 6025964.27
+      - 373.66
+    54:
+    - - 492809.74
+      - 6025960.07
+      - 381.04
+    - - 492809.57
+      - 6025959.83
+      - 379.98
+    - - 492810.04
+      - 6025960.49
+      - 380.08
+    - - 492810.27
+      - 6025961.29
+      - 381.44
+    - - 492810.44
+      - 6025961.16
+      - 382.45
+    - - 492810.44
+      - 6025960.94
+      - 383.11
+    - - 492810.21
+      - 6025960.35
+      - 383.14
+    - - 492810.03
+      - 6025960.12
+      - 382.49
+    - - 492809.74
+      - 6025959.96
+      - 381.83
+    - - 492808.85
+      - 6025960.47
+      - 381.7
+    - - 492806.81
+      - 6025961.44
+      - 382.35
+    - - 492804.47
+      - 6025963.2
+      - 381.96
+    - - 492803.08
+      - 6025963.59
+      - 379.63
+    - - 492803.07
+      - 6025962.87
+      - 378.16
+    - - 492806.7
+      - 6025961.21
+      - 379.65
+    - - 492808.6
+      - 6025960.6
+      - 380.96
+    - - 492797.74
+      - 6025967.04
+      - 378.73
+    - - 492797.0
+      - 6025966.99
+      - 377.1
+    - - 492796.38
+      - 6025966.75
+      - 375.22
+    - - 492800.32
+      - 6025964.67
+      - 375.78
+    - - 492801.91
+      - 6025963.27
+      - 375.41
+    - - 492805.08
+      - 6025962.83
+      - 377.39
+    - - 492808.18
+      - 6025960.95
+      - 378.62
+    - - 492806.11
+      - 6025961.25
+      - 377.63
+    - - 492806.91
+      - 6025961.13
+      - 380.14
+    - - 492809.51
+      - 6025961.06
+      - 382.68
+    - - 492808.44
+      - 6025961.55
+      - 386.69
+    - - 492811.2
+      - 6025960.22
+      - 380.94
+    - - 492810.91
+      - 6025960.38
+      - 380.57
+    - - 492810.62
+      - 6025960.49
+      - 380.15
+    - - 492811.81
+      - 6025959.97
+      - 381.37
+    - - 492811.73
+      - 6025959.93
+      - 382.2
+    - - 492811.34
+      - 6025960.2
+      - 382.85
+    - - 492811.34
+      - 6025960.57
+      - 383.14
+    - - 492810.81
+      - 6025960.98
+      - 382.39
+    - - 492810.52
+      - 6025960.65
+      - 383.3
+    - - 492811.61
+      - 6025959.38
+      - 382.76
+    - - 492811.99
+      - 6025959.07
+      - 381.79
+    - - 492811.75
+      - 6025958.74
+      - 381.24
+    - - 492811.47
+      - 6025958.57
+      - 382.8
+    - - 492811.33
+      - 6025959.21
+      - 382.89
+    - - 492811.13
+      - 6025956.94
+      - 381.68
+    - - 492811.21
+      - 6025957.58
+      - 382.33
+    - - 492812.45
+      - 6025954.29
+      - 381.9
+    - - 492810.05
+      - 6025959.84
+      - 381.13
+    - - 492810.31
+      - 6025960.96
+      - 383.05
+    - - 492810.29
+      - 6025960.68
+      - 380.1
+    6:
+    - - 492813.0
+      - 6025957.9
+      - 384.21
+    - - 492812.38
+      - 6025957.76
+      - 383.0
+    - - 492813.08
+      - 6025958.1
+      - 384.78
+    - - 492813.67
+      - 6025957.17
+      - 385.13
+    - - 492814.42
+      - 6025955.73
+      - 385.6
+    - - 492814.56
+      - 6025955.5
+      - 384.69
+    - - 492812.92
+      - 6025955.39
+      - 381.7
+    - - 492811.7
+      - 6025956.78
+      - 381.16
+    - - 492813.6
+      - 6025956.15
+      - 383.12
+    - - 492813.66
+      - 6025954.52
+      - 383.86
+    - - 492814.43
+      - 6025952.62
+      - 384.25
+    - - 492813.47
+      - 6025951.28
+      - 382.33
+    - - 492813.23
+      - 6025952.87
+      - 382.47
+    - - 492813.01
+      - 6025953.44
+      - 382.35
+    - - 492813.46
+      - 6025953.11
+      - 383.88
+    - - 492815.56
+      - 6025951.23
+      - 384.96
+    - - 492816.49
+      - 6025948.87
+      - 386.15
+    - - 492817.56
+      - 6025948.78
+      - 387.71
+    - - 492819.27
+      - 6025947.78
+      - 390.06
+    - - 492818.12
+      - 6025950.12
+      - 390.05
+    - - 492817.47
+      - 6025951.13
+      - 390.06
+    - - 492818.01
+      - 6025951.04
+      - 391.41
+    - - 492813.95
+      - 6025954.45
+      - 384.76
+    - - 492815.75
+      - 6025953.35
+      - 386.02
+    - - 492815.0
+      - 6025954.34
+      - 385.8
+    - - 492815.52
+      - 6025954.13
+      - 386.5
+    - - 492814.51
+      - 6025955.01
+      - 384.45
+    - - 492813.65
+      - 6025954.96
+      - 386.16
+    - - 492813.42
+      - 6025954.55
+      - 383.88
+    59:
+    - - 492818.58
+      - 6025952.38
+      - 394.76
+    - - 492816.58
+      - 6025959.02
+      - 394.06
+    - - 492819.13
+      - 6025954.25
+      - 394.75
+    - - 492820.06
+      - 6025954.05
+      - 396.23
+    - - 492821.06
+      - 6025955.91
+      - 401.15
+    - - 492820.02
+      - 6025957.21
+      - 399.65
+    - - 492819.5
+      - 6025954.32
+      - 398.58
+    - - 492819.97
+      - 6025952.68
+      - 398.71
+    - - 492822.09
+      - 6025953.16
+      - 404.6
+    - - 492821.35
+      - 6025955.13
+      - 403.67
+    - - 492822.82
+      - 6025951.1
+      - 403.8
+    - - 492820.1
+      - 6025950.42
+      - 397.8
+    - - 492819.44
+      - 6025949.99
+      - 396.5
+    - - 492819.06
+      - 6025950.12
+      - 395.54
+    - - 492818.75
+      - 6025950.41
+      - 394.92
+    - - 492818.44
+      - 6025950.49
+      - 394.32
+    - - 492818.55
+      - 6025950.6
+      - 393.33
+    - - 492819.2
+      - 6025950.92
+      - 393.31
+    - - 492817.72
+      - 6025952.88
+      - 393.95
+    - - 492819.09
+      - 6025951.07
+      - 395.82
+    - - 492821.03
+      - 6025948.78
+      - 398.44
+    - - 492820.06
+      - 6025950.54
+      - 395.33
+    - - 492819.87
+      - 6025949.36
+      - 396.49
+    - - 492820.24
+      - 6025948.83
+      - 394.56
+    - - 492819.96
+      - 6025949.6
+      - 393.96
+    - - 492820.82
+      - 6025948.67
+      - 394.31
+    - - 492820.82
+      - 6025948.67
+      - 394.31
+    - - 492821.91
+      - 6025946.31
+      - 394.92
+    - - 492822.56
+      - 6025946.29
+      - 395.34
+    - - 492823.38
+      - 6025944.97
+      - 396.13
+    - - 492824.57
+      - 6025943.29
+      - 398.14
+    - - 492818.69
+      - 6025950.46
+      - 394.81
+    - - 492822.34
+      - 6025952.37
+      - 403.83
+    - - 492819.3
+      - 6025950.74
+      - 393.43
+    53:
+    - - 492827.88
+      - 6025943.28
+      - 399.44
+    - - 492828.98
+      - 6025942.72
+      - 400.36
+    - - 492831.23
+      - 6025941.51
+      - 402.06
+    - - 492826.74
+      - 6025943.44
+      - 400.51
+    - - 492825.82
+      - 6025943.62
+      - 399.58
+    - - 492830.12
+      - 6025943.03
+      - 402.44
+    - - 492829.66
+      - 6025943.01
+      - 401.06
+    - - 492826.92
+      - 6025944.39
+      - 399.89
+    - - 492831.95
+      - 6025942.94
+      - 407.8
+    - - 492832.89
+      - 6025941.88
+      - 408.39
+    - - 492833.57
+      - 6025941.01
+      - 407.35
+    - - 492828.38
+      - 6025942.82
+      - 402.42
+    - - 492827.56
+      - 6025943.6
+      - 398.8
+    - - 492826.66
+      - 6025944.0
+      - 398.29
+    - - 492825.99
+      - 6025943.43
+      - 398.23
+    - - 492825.6
+      - 6025945.47
+      - 400.05
+    - - 492826.16
+      - 6025945.49
+      - 399.75
+    - - 492826.01
+      - 6025944.94
+      - 398.95
+    - - 492825.89
+      - 6025945.18
+      - 398.16
+    - - 492825.06
+      - 6025946.39
+      - 397.57
+    - - 492823.96
+      - 6025948.03
+      - 397.64
+    - - 492821.5
+      - 6025949.78
+      - 395.34
+    - - 492821.21
+      - 6025949.3
+      - 394.47
+    - - 492822.54
+      - 6025947.16
+      - 395.04
+    - - 492824.31
+      - 6025945.55
+      - 396.36
+    - - 492825.08
+      - 6025944.83
+      - 397.0
+    - - 492822.56
+      - 6025947.24
+      - 397.83
+    - - 492823.6
+      - 6025946.73
+      - 399.6
+    - - 492823.72
+      - 6025948.78
+      - 400.52
+    - - 492820.38
+      - 6025954.43
+      - 401.33
+    - - 492820.36
+      - 6025953.16
+      - 399.29
+    - - 492819.64
+      - 6025953.12
+      - 397.87
+    - - 492819.5
+      - 6025951.74
+      - 396.42
+    - - 492818.74
+      - 6025951.91
+      - 394.89
+    - - 492825.27
+      - 6025944.05
+      - 399.24
+    - - 492826.11
+      - 6025944.9
+      - 399.1
+    - - 492825.57
+      - 6025944.55
+      - 400.43
+    - - 492825.13
+      - 6025944.04
+      - 397.56
+    84:
+    - - 492833.82
+      - 6025940.54
+      - 405.05
+    - - 492834.44
+      - 6025939.14
+      - 405.28
+    - - 492836.11
+      - 6025937.18
+      - 406.45
+    - - 492836.56
+      - 6025937.22
+      - 407.26
+    - - 492836.07
+      - 6025937.96
+      - 407.84
+    - - 492835.73
+      - 6025938.63
+      - 408.14
+    - - 492832.23
+      - 6025940.15
+      - 405.06
+    - - 492833.6
+      - 6025940.87
+      - 404.92
+    - - 492833.67
+      - 6025942.31
+      - 412.34
+    - - 492832.79
+      - 6025940.77
+      - 403.83
+    - - 492835.57
+      - 6025939.31
+      - 408.28
+    - - 492836.25
+      - 6025938.13
+      - 411.51
+    - - 492836.99
+      - 6025938.36
+      - 412.74
+    - - 492836.2
+      - 6025939.38
+      - 412.94
+    - - 492837.77
+      - 6025937.16
+      - 411.53
+    - - 492825.67
+      - 6025947.94
+      - 408.57
+    - - 492826.99
+      - 6025947.7
+      - 411.27
+    - - 492825.77
+      - 6025948.35
+      - 409.13
+    - - 492825.58
+      - 6025947.77
+      - 408.18
+    - - 492826.67
+      - 6025945.71
+      - 405.8
+    - - 492825.16
+      - 6025947.67
+      - 405.7
+    - - 492826.9
+      - 6025944.85
+      - 403.93
+    - - 492825.39
+      - 6025946.64
+      - 402.56
+    - - 492825.87
+      - 6025945.54
+      - 401.39
+    - - 492831.77
+      - 6025941.82
+      - 403.54
+    - - 492830.51
+      - 6025940.62
+      - 402.68
+    - - 492830.94
+      - 6025941.12
+      - 404.03
+    - - 492831.01
+      - 6025941.44
+      - 405.11
+    - - 492831.46
+      - 6025941.27
+      - 406.03
+    - - 492831.72
+      - 6025941.28
+      - 407.29
+    - - 492831.68
+      - 6025941.27
+      - 407.18
+    - - 492832.73
+      - 6025942.33
+      - 410.9
+    - - 492833.65
+      - 6025942.18
+      - 412.37
+    - - 492832.53
+      - 6025943.06
+      - 411.82
+    - - 492830.33
+      - 6025945.69
+      - 411.93
+    - - 492832.21
+      - 6025940.23
+      - 405.19
+    - - 492832.37
+      - 6025940.36
+      - 405.83
+    - - 492832.87
+      - 6025940.12
+      - 406.81
+    - - 492833.5
+      - 6025939.6
+      - 407.62
+    - - 492833.26
+      - 6025938.95
+      - 405.98
+    - - 492833.41
+      - 6025940.06
+      - 404.97
+    - - 492831.12
+      - 6025940.49
+      - 402.44
+    - - 492830.97
+      - 6025941.14
+      - 401.98
+    - - 492830.39
+      - 6025941.28
+      - 403.1
+    - - 492825.55
+      - 6025944.44
+      - 399.33
+    25:
+    - - 492833.82
+      - 6025943.73
+      - 414.66
+    - - 492833.3
+      - 6025945.38
+      - 416.5
+    - - 492835.13
+      - 6025942.86
+      - 415.19
+    - - 492835.68
+      - 6025941.74
+      - 414.39
+    - - 492835.83
+      - 6025941.21
+      - 414.27
+    - - 492836.29
+      - 6025941.58
+      - 414.97
+    - - 492836.38
+      - 6025941.62
+      - 415.93
+    - - 492836.32
+      - 6025942.37
+      - 418.25
+    - - 492835.62
+      - 6025943.08
+      - 417.85
+    - - 492835.02
+      - 6025943.88
+      - 417.31
+    - - 492834.01
+      - 6025942.48
+      - 413.28
+    - - 492834.07
+      - 6025942.12
+      - 412.8
+    - - 492831.04
+      - 6025944.41
+      - 408.11
+    - - 492833.27
+      - 6025942.69
+      - 410.06
+    - - 492834.72
+      - 6025941.5
+      - 411.09
+    - - 492835.59
+      - 6025940.82
+      - 412.78
+    - - 492835.96
+      - 6025940.53
+      - 413.17
+    - - 492836.53
+      - 6025941.06
+      - 414.45
+    - - 492836.95
+      - 6025940.92
+      - 415.52
+    - - 492836.06
+      - 6025941.14
+      - 414.36
+    - - 492836.53
+      - 6025941.2
+      - 414.58
+    - - 492837.36
+      - 6025941.45
+      - 418.87
+    - - 492835.47
+      - 6025940.58
+      - 413.54
+    - - 492835.56
+      - 6025940.6
+      - 414.55
+    86:
+    - - 492839.4
+      - 6025940.38
+      - 420.78
+    - - 492839.33
+      - 6025940.66
+      - 421.6
+    - - 492837.67
+      - 6025942.12
+      - 421.39
+    - - 492836.89
+      - 6025942.49
+      - 420.7
+    - - 492838.2
+      - 6025941.2
+      - 420.0
+    - - 492839.11
+      - 6025940.22
+      - 419.8
+    - - 492839.68
+      - 6025939.53
+      - 419.91
+    - - 492838.6
+      - 6025938.82
+      - 419.97
+    - - 492837.92
+      - 6025939.02
+      - 419.26
+    - - 492839.1
+      - 6025939.44
+      - 419.66
+    - - 492837.53
+      - 6025939.75
+      - 418.97
+    - - 492838.33
+      - 6025939.57
+      - 420.16
+    - - 492838.64
+      - 6025939.2
+      - 420.89
+    - - 492838.98
+      - 6025939.03
+      - 421.4
+    - - 492839.03
+      - 6025939.29
+      - 422.83
+    - - 492839.46
+      - 6025939.47
+      - 423.64
+    - - 492839.72
+      - 6025939.8
+      - 421.34
+    - - 492841.2
+      - 6025938.13
+      - 425.61
+    - - 492840.71
+      - 6025937.92
+      - 422.87
+    - - 492841.58
+      - 6025938.09
+      - 426.17
+    - - 492839.17
+      - 6025938.18
+      - 420.2
+    - - 492839.01
+      - 6025938.6
+      - 420.54
+    - - 492837.94
+      - 6025940.32
+      - 420.31
+    - - 492839.92
+      - 6025937.61
+      - 420.25
+    - - 492840.16
+      - 6025937.54
+      - 420.82
+    - - 492840.58
+      - 6025937.09
+      - 421.86
+    - - 492841.04
+      - 6025937.28
+      - 422.55
+    - - 492841.57
+      - 6025937.11
+      - 424.15
+    - - 492841.48
+      - 6025936.46
+      - 420.96
+    - - 492840.39
+      - 6025938.48
+      - 420.0
+    - - 492842.03
+      - 6025937.55
+      - 424.73
+    - - 492837.55
+      - 6025939.88
+      - 419.16
+    - - 492837.52
+      - 6025939.77
+      - 418.79
+    - - 492837.77
+      - 6025940.3
+      - 419.38
+    - - 492837.82
+      - 6025938.98
+      - 418.99
+    - - 492838.53
+      - 6025939.58
+      - 421.18
+    - - 492838.73
+      - 6025938.84
+      - 420.25
+    - - 492840.07
+      - 6025940.34
+      - 427.8
+    - - 492839.79
+      - 6025939.48
+      - 419.89
+    98:
+    - - 492835.65
+      - 6025942.76
+      - 428.21
+    - - 492836.01
+      - 6025943.75
+      - 424.96
+    - - 492835.51
+      - 6025944.56
+      - 424.0
+    - - 492833.92
+      - 6025944.29
+      - 426.89
+    - - 492835.23
+      - 6025942.37
+      - 424.76
+    - - 492835.92
+      - 6025942.2
+      - 423.14
+    - - 492835.79
+      - 6025942.37
+      - 421.86
+    - - 492836.14
+      - 6025943.4
+      - 421.43
+    - - 492836.17
+      - 6025943.52
+      - 422.1
+    - - 492840.6
+      - 6025939.32
+      - 429.65
+    - - 492841.49
+      - 6025939.1
+      - 426.84
+    - - 492841.97
+      - 6025938.24
+      - 425.88
+    - - 492842.48
+      - 6025937.67
+      - 423.41
+    - - 492841.1
+      - 6025939.48
+      - 424.44
+    - - 492843.06
+      - 6025938.14
+      - 434.55
+    - - 492838.8
+      - 6025941.43
+      - 432.54
+    - - 492836.66
+      - 6025943.35
+      - 429.64
+    - - 492835.19
+      - 6025943.75
+      - 428.52
+    - - 492835.23
+      - 6025944.72
+      - 424.11
+    - - 492834.5
+      - 6025945.51
+      - 423.79
+    - - 492832.72
+      - 6025945.97
+      - 425.78
+    - - 492833.44
+      - 6025945.48
+      - 427.48
+    - - 492834.44
+      - 6025944.1
+      - 427.49
+    - - 492835.63
+      - 6025943.59
+      - 429.51
+    - - 492830.58
+      - 6025947.33
+      - 423.31
+    - - 492831.86
+      - 6025947.29
+      - 424.84
+    - - 492834.05
+      - 6025945.81
+      - 422.45
+    - - 492833.83
+      - 6025945.84
+      - 423.44
+    - - 492833.35
+      - 6025944.58
+      - 424.22
+    - - 492833.7
+      - 6025943.72
+      - 425.05
+    - - 492834.7
+      - 6025943.03
+      - 424.94
+    - - 492835.65
+      - 6025944.2
+      - 421.46
+    - - 492834.65
+      - 6025942.99
+      - 421.72
+    - - 492835.86
+      - 6025944.0
+      - 424.88
+    - - 492835.37
+      - 6025943.21
+      - 429.27
+    - - 492835.29
+      - 6025943.95
+      - 420.55
+    - - 492833.49
+      - 6025945.06
+      - 421.43
+    - - 492833.48
+      - 6025945.04
+      - 421.36
+    - - 492833.52
+      - 6025945.25
+      - 420.4
+    - - 492834.17
+      - 6025944.86
+      - 420.14
+    - - 492834.58
+      - 6025943.97
+      - 420.42
+    - - 492833.58
+      - 6025945.63
+      - 419.56
+    - - 492832.55
+      - 6025947.7
+      - 419.46
+    - - 492832.84
+      - 6025947.07
+      - 419.36
+    - - 492832.46
+      - 6025947.8
+      - 421.92
+    - - 492831.16
+      - 6025947.67
+      - 423.62
+    - - 492833.88
+      - 6025943.82
+      - 422.78
+    - - 492833.68
+      - 6025943.77
+      - 424.13
+    - - 492834.37
+      - 6025943.1
+      - 424.87
+    - - 492835.1
+      - 6025942.45
+      - 424.66
+    - - 492834.92
+      - 6025943.24
+      - 427.13
+    - - 492835.62
+      - 6025942.33
+      - 427.42
+    - - 492836.58
+      - 6025941.91
+      - 427.49
+    - - 492835.87
+      - 6025943.4
+      - 429.52
+    - - 492834.61
+      - 6025944.57
+      - 428.1
+    - - 492833.45
+      - 6025945.94
+      - 427.06
+    2:
+    - - 492834.28
+      - 6025946.25
+      - 419.98
+    - - 492834.56
+      - 6025946.08
+      - 421.06
+    - - 492833.83
+      - 6025946.18
+      - 421.93
+    - - 492833.54
+      - 6025945.88
+      - 426.97
+    - - 492833.49
+      - 6025945.98
+      - 420.74
+    - - 492834.79
+      - 6025944.94
+      - 424.22
+    - - 492834.33
+      - 6025946.61
+      - 420.31
+    - - 492834.42
+      - 6025947.33
+      - 419.23
+    - - 492834.13
+      - 6025946.98
+      - 420.85
+    - - 492833.31
+      - 6025947.01
+      - 421.58
+    - - 492833.33
+      - 6025947.39
+      - 420.94
+    - - 492833.03
+      - 6025947.1
+      - 422.99
+    - - 492832.33
+      - 6025946.73
+      - 425.19
+    - - 492833.28
+      - 6025946.1
+      - 427.23
+    - - 492833.64
+      - 6025946.01
+      - 424.87
+    - - 492833.68
+      - 6025946.22
+      - 422.57
+    - - 492832.39
+      - 6025947.59
+      - 419.78
+    - - 492832.74
+      - 6025947.62
+      - 420.31
+    - - 492832.61
+      - 6025947.41
+      - 421.04
+    - - 492831.12
+      - 6025948.47
+      - 423.5
+    - - 492830.21
+      - 6025948.57
+      - 422.19
+    - - 492831.51
+      - 6025948.34
+      - 420.85
+    - - 492831.78
+      - 6025947.57
+      - 419.66
+    - - 492828.66
+      - 6025948.08
+      - 419.15
+    - - 492829.86
+      - 6025947.05
+      - 420.08
+    - - 492829.78
+      - 6025947.35
+      - 420.9
+    - - 492830.12
+      - 6025947.51
+      - 422.04
+    - - 492830.96
+      - 6025947.15
+      - 423.12
+    - - 492831.86
+      - 6025946.79
+      - 424.96
+    - - 492831.56
+      - 6025947.85
+      - 423.81
+    - - 492829.37
+      - 6025948.79
+      - 421.43
+    - - 492827.4
+      - 6025948.72
+      - 420.27
+    - - 492827.89
+      - 6025949.03
+      - 419.96
+    - - 492828.25
+      - 6025950.11
+      - 419.93
+    - - 492829.07
+      - 6025949.94
+      - 421.0
+    - - 492831.13
+      - 6025948.38
+      - 420.01
+    - - 492831.28
+      - 6025948.39
+      - 421.03
+    - - 492832.7
+      - 6025947.7
+      - 419.95
+    - - 492833.18
+      - 6025945.98
+      - 426.93
+    - - 492832.73
+      - 6025946.61
+      - 419.14
+    91:
+    - - 492839.8
+      - 6025949.02
+      - 419.09
+    - - 492840.17
+      - 6025949.72
+      - 419.92
+    - - 492840.17
+      - 6025949.29
+      - 420.58
+    - - 492840.13
+      - 6025948.43
+      - 420.43
+    - - 492839.71
+      - 6025948.17
+      - 419.79
+    - - 492838.85
+      - 6025949.63
+      - 419.79
+    - - 492838.75
+      - 6025949.59
+      - 420.26
+    - - 492838.83
+      - 6025949.26
+      - 420.76
+    - - 492839.45
+      - 6025948.15
+      - 421.61
+    - - 492839.57
+      - 6025947.71
+      - 420.77
+    - - 492839.42
+      - 6025947.64
+      - 420.0
+    - - 492839.29
+      - 6025947.16
+      - 419.13
+    - - 492839.49
+      - 6025947.02
+      - 419.92
+    - - 492839.83
+      - 6025946.31
+      - 421.13
+    - - 492838.8
+      - 6025946.24
+      - 421.24
+    - - 492838.83
+      - 6025945.71
+      - 420.44
+    - - 492841.27
+      - 6025942.96
+      - 422.62
+    - - 492842.14
+      - 6025942.27
+      - 422.06
+    - - 492840.92
+      - 6025942.67
+      - 420.91
+    - - 492843.74
+      - 6025938.39
+      - 420.2
+    - - 492838.57
+      - 6025946.08
+      - 419.69
+    - - 492838.03
+      - 6025947.19
+      - 420.22
+    - - 492837.75
+      - 6025947.72
+      - 419.5
+    - - 492837.79
+      - 6025947.65
+      - 420.31
+    - - 492837.88
+      - 6025947.8
+      - 420.83
+    - - 492838.05
+      - 6025947.98
+      - 421.77
+    - - 492838.06
+      - 6025948.64
+      - 422.08
+    - - 492839.21
+      - 6025947.36
+      - 421.72
+    - - 492839.54
+      - 6025946.2
+      - 421.66
+    - - 492837.55
+      - 6025948.89
+      - 421.89
+    - - 492837.36
+      - 6025948.83
+      - 421.11
+    - - 492837.03
+      - 6025948.83
+      - 420.6
+    - - 492837.13
+      - 6025948.11
+      - 420.85
+    - - 492836.72
+      - 6025948.91
+      - 420.22
+    - - 492836.53
+      - 6025949.05
+      - 419.68
+    - - 492836.44
+      - 6025950.02
+      - 420.42
+    - - 492837.82
+      - 6025949.09
+      - 419.43
+    - - 492837.19
+      - 6025951.26
+      - 420.84
+    - - 492837.54
+      - 6025950.82
+      - 421.64
+    - - 492837.87
+      - 6025949.88
+      - 421.9
+    - - 492838.65
+      - 6025949.56
+      - 421.0
+    - - 492837.14
+      - 6025949.96
+      - 421.47
+    - - 492837.47
+      - 6025949.14
+      - 421.62
+    52:
+    - - 492828.15
+      - 6025948.75
+      - 420.53
+    - - 492828.68
+      - 6025948.27
+      - 420.97
+    - - 492828.0
+      - 6025949.22
+      - 419.78
+    - - 492828.33
+      - 6025948.42
+      - 419.43
+    - - 492828.63
+      - 6025947.72
+      - 419.34
+    - - 492828.97
+      - 6025947.29
+      - 419.31
+    - - 492828.93
+      - 6025947.4
+      - 420.11
+    - - 492831.54
+      - 6025946.06
+      - 419.54
+    - - 492832.65
+      - 6025947.12
+      - 421.33
+    - - 492832.27
+      - 6025947.75
+      - 420.2
+    - - 492830.86
+      - 6025947.61
+      - 419.47
+    - - 492830.49
+      - 6025948.87
+      - 419.91
+    - - 492830.91
+      - 6025949.52
+      - 418.25
+    - - 492830.67
+      - 6025948.85
+      - 418.02
+    - - 492829.67
+      - 6025948.49
+      - 419.21
+    - - 492830.06
+      - 6025949.33
+      - 419.41
+    - - 492830.35
+      - 6025949.71
+      - 420.63
+    - - 492831.25
+      - 6025949.75
+      - 421.43
+    - - 492831.32
+      - 6025948.95
+      - 422.42
+    - - 492831.94
+      - 6025948.23
+      - 422.46
+    - - 492833.38
+      - 6025946.92
+      - 422.36
+    - - 492830.76
+      - 6025951.54
+      - 421.81
+    - - 492831.34
+      - 6025950.83
+      - 422.73
+    - - 492829.59
+      - 6025951.77
+      - 420.4
+    - - 492828.74
+      - 6025951.93
+      - 419.28
+    - - 492829.38
+      - 6025950.13
+      - 419.0
+    - - 492830.17
+      - 6025950.6
+      - 420.0
+    - - 492826.56
+      - 6025947.75
+      - 420.08
+    - - 492827.29
+      - 6025947.62
+      - 419.75
+    - - 492826.14
+      - 6025947.22
+      - 420.26
+    - - 492824.32
+      - 6025946.88
+      - 420.64
+    - - 492826.07
+      - 6025947.3
+      - 420.81
+    - - 492827.6
+      - 6025947.76
+      - 420.87
+    - - 492827.19
+      - 6025948.1
+      - 420.63
+    - - 492817.53
+      - 6025944.47
+      - 420.78
+    - - 492830.72
+      - 6025948.97
+      - 420.48
+    - - 492828.92
+      - 6025947.84
+      - 420.95
+    - - 492829.1
+      - 6025947.8
+      - 419.35
+    - - 492828.25
+      - 6025947.65
+      - 420.69
+    12:
+    - - 492843.08
+      - 6025949.24
+      - 419.67
+    - - 492843.1
+      - 6025949.89
+      - 420.64
+    - - 492843.11
+      - 6025950.62
+      - 420.39
+    - - 492843.54
+      - 6025951.2
+      - 419.77
+    - - 492843.87
+      - 6025950.9
+      - 420.42
+    - - 492844.15
+      - 6025950.67
+      - 420.71
+    - - 492844.44
+      - 6025950.45
+      - 420.61
+    - - 492844.35
+      - 6025949.71
+      - 419.42
+    - - 492844.73
+      - 6025950.02
+      - 419.16
+    - - 492846.0
+      - 6025950.74
+      - 419.84
+    - - 492845.7
+      - 6025950.73
+      - 419.37
+    - - 492845.74
+      - 6025951.11
+      - 420.31
+    - - 492845.09
+      - 6025950.71
+      - 420.4
+    - - 492844.88
+      - 6025950.71
+      - 420.52
+    - - 492845.14
+      - 6025951.42
+      - 420.5
+    - - 492844.58
+      - 6025951.52
+      - 420.23
+    - - 492844.44
+      - 6025952.36
+      - 419.41
+    - - 492844.36
+      - 6025951.91
+      - 420.0
+    - - 492844.91
+      - 6025952.06
+      - 420.28
+    - - 492845.78
+      - 6025952.33
+      - 419.78
+    - - 492845.46
+      - 6025953.51
+      - 419.57
+    - - 492845.25
+      - 6025954.07
+      - 419.94
+    - - 492845.45
+      - 6025951.35
+      - 419.18
+    - - 492845.94
+      - 6025951.03
+      - 419.94
+    - - 492845.65
+      - 6025950.01
+      - 419.93
+    - - 492843.91
+      - 6025951.29
+      - 419.92
+    - - 492844.66
+      - 6025950.25
+      - 420.74
+    - - 492844.81
+      - 6025950.03
+      - 419.14
+    0:
+    - - 492845.86
+      - 6025960.77
+      - 419.95
+    - - 492845.72
+      - 6025960.79
+      - 420.52
+    - - 492845.57
+      - 6025961.08
+      - 420.9
+    - - 492845.18
+      - 6025959.87
+      - 420.65
+    - - 492845.25
+      - 6025960.2
+      - 420.92
+    - - 492845.03
+      - 6025959.6
+      - 420.45
+    - - 492844.46
+      - 6025959.81
+      - 420.07
+    - - 492844.26
+      - 6025959.83
+      - 419.64
+    - - 492845.01
+      - 6025958.36
+      - 419.63
+    - - 492845.55
+      - 6025960.4
+      - 419.52
+    - - 492846.93
+      - 6025963.85
+      - 420.34
+    - - 492846.22
+      - 6025963.46
+      - 419.56
+    - - 492847.07
+      - 6025962.92
+      - 421.14
+    - - 492846.98
+      - 6025962.21
+      - 421.44
+    - - 492848.42
+      - 6025962.27
+      - 422.02
+    - - 492848.75
+      - 6025962.08
+      - 421.18
+    - - 492849.05
+      - 6025962.04
+      - 420.63
+    - - 492849.91
+      - 6025963.22
+      - 420.11
+    - - 492851.45
+      - 6025963.65
+      - 421.22
+    - - 492848.23
+      - 6025963.46
+      - 420.39
+    - - 492848.58
+      - 6025963.11
+      - 421.34
+    - - 492846.83
+      - 6025961.31
+      - 420.08
+    - - 492846.41
+      - 6025961.28
+      - 420.71
+    - - 492845.22
+      - 6025961.75
+      - 420.41
+    - - 492847.77
+      - 6025962.9
+      - 419.69
+    - - 492846.19
+      - 6025962.14
+      - 419.52
+    - - 492846.3
+      - 6025961.1
+      - 420.15
+    - - 492844.92
+      - 6025961.81
+      - 421.05
+    - - 492844.91
+      - 6025961.82
+      - 419.21
+    43:
+    - - 492849.44
+      - 6025961.01
+      - 420.06
+    - - 492849.84
+      - 6025961.29
+      - 420.54
+    - - 492850.38
+      - 6025961.86
+      - 422.05
+    - - 492851.33
+      - 6025963.39
+      - 422.86
+    - - 492851.13
+      - 6025962.59
+      - 421.04
+    - - 492851.18
+      - 6025962.64
+      - 420.15
+    - - 492852.02
+      - 6025962.59
+      - 421.61
+    - - 492852.9
+      - 6025960.63
+      - 420.48
+    - - 492853.04
+      - 6025961.27
+      - 420.56
+    - - 492855.22
+      - 6025960.51
+      - 419.91
+    - - 492854.03
+      - 6025961.05
+      - 419.13
+    - - 492852.92
+      - 6025961.64
+      - 419.53
+    - - 492851.11
+      - 6025960.83
+      - 419.77
+    - - 492851.1
+      - 6025961.06
+      - 420.47
+    - - 492851.6
+      - 6025961.52
+      - 421.88
+    - - 492853.51
+      - 6025961.99
+      - 423.22
+    - - 492853.62
+      - 6025963.05
+      - 424.96
+    - - 492852.22
+      - 6025962.39
+      - 422.01
+    - - 492851.78
+      - 6025962.26
+      - 420.78
+    - - 492851.89
+      - 6025962.9
+      - 422.37
+    - - 492851.77
+      - 6025963.39
+      - 423.47
+    - - 492845.36
+      - 6025962.27
+      - 420.19
+    - - 492846.04
+      - 6025963.63
+      - 420.45
+    - - 492849.83
+      - 6025960.67
+      - 419.65
+    - - 492850.72
+      - 6025962.49
+      - 419.73
+    - - 492850.49
+      - 6025961.18
+      - 420.9
+    - - 492850.26
+      - 6025961.38
+      - 419.25
+    - - 492847.4
+      - 6025961.23
+      - 419.83
+    - - 492847.49
+      - 6025962.06
+      - 419.67
+    - - 492847.23
+      - 6025963.0
+      - 421.15
+    - - 492845.98
+      - 6025962.26
+      - 421.32
+    - - 492845.61
+      - 6025961.84
+      - 421.04
+    - - 492846.78
+      - 6025961.57
+      - 420.92
+    - - 492846.81
+      - 6025962.05
+      - 421.36
+    - - 492848.83
+      - 6025963.39
+      - 420.62
+    - - 492848.93
+      - 6025963.29
+      - 421.09
+    - - 492849.54
+      - 6025963.73
+      - 421.81
+    - - 492849.91
+      - 6025964.26
+      - 421.47
+    - - 492849.63
+      - 6025964.02
+      - 422.29
+    51:
+    - - 492775.26
+      - 6026005.28
+      - 382.47
+    - - 492774.79
+      - 6026004.72
+      - 382.35
+    - - 492775.51
+      - 6026005.22
+      - 380.53
+    - - 492773.03
+      - 6026006.27
+      - 381.9
+    - - 492773.21
+      - 6026007.1
+      - 382.31
+    - - 492773.35
+      - 6026007.53
+      - 381.41
+    - - 492772.21
+      - 6026006.73
+      - 381.12
+    - - 492772.66
+      - 6026007.85
+      - 380.64
+    - - 492775.27
+      - 6026005.03
+      - 381.58
+    - - 492774.33
+      - 6026004.51
+      - 380.41
+    48:
+    - - 492771.43
+      - 6026007.86
+      - 380.9
+    - - 492772.73
+      - 6026008.41
+      - 380.64
+    - - 492773.05
+      - 6026008.6
+      - 381.8
+    - - 492772.23
+      - 6026008.44
+      - 382.26
+    9:
+    - - 492771.21
+      - 6026010.56
+      - 381.47
+    - - 492771.02
+      - 6026010.38
+      - 380.69
+    - - 492772.3
+      - 6026010.46
+      - 380.6
+    - - 492771.55
+      - 6026010.37
+      - 382.44
+    35:
+    - - 492838.25
+      - 6025921.56
+      - 421.52
+    - - 492838.62
+      - 6025921.48
+      - 420.67
+    - - 492839.36
+      - 6025921.2
+      - 420.53
+    - - 492839.58
+      - 6025920.95
+      - 421.6
+    - - 492837.71
+      - 6025919.95
+      - 421.28
+    - - 492837.86
+      - 6025919.84
+      - 420.69
+    - - 492838.88
+      - 6025920.6
+      - 421.66
+    - - 492836.96
+      - 6025920.51
+      - 421.62
+    - - 492836.2
+      - 6025920.69
+      - 421.32
+    - - 492837.43
+      - 6025919.19
+      - 420.89
+    - - 492836.95
+      - 6025919.13
+      - 421.31
+    - - 492836.95
+      - 6025919.7
+      - 421.78
+    - - 492836.33
+      - 6025919.33
+      - 421.69
+    - - 492835.79
+      - 6025919.32
+      - 420.78
+    - - 492836.44
+      - 6025917.03
+      - 420.45
+    - - 492836.35
+      - 6025917.29
+      - 421.44
+    - - 492835.19
+      - 6025914.06
+      - 421.22
+    - - 492835.3
+      - 6025914.17
+      - 422.18
+    - - 492836.5
+      - 6025911.3
+      - 421.31
+    - - 492835.42
+      - 6025914.01
+      - 422.34
+    - - 492836.17
+      - 6025912.91
+      - 422.45
+    - - 492836.73
+      - 6025911.34
+      - 421.59
+    - - 492837.57
+      - 6025919.41
+      - 420.76
+    - - 492836.03
+      - 6025920.03
+      - 421.71
+    - - 492836.04
+      - 6025920.29
+      - 419.98
+    76:
+    - - 492839.39
+      - 6025910.24
+      - 424.17
+    - - 492837.54
+      - 6025911.61
+      - 422.05
+    - - 492836.94
+      - 6025912.24
+      - 421.0
+    - - 492839.68
+      - 6025910.37
+      - 424.82
+    - - 492842.47
+      - 6025908.84
+      - 428.25
+    - - 492843.99
+      - 6025909.07
+      - 431.25
+    - - 492844.47
+      - 6025909.5
+      - 432.82
+    - - 492843.94
+      - 6025910.54
+      - 433.43
+    - - 492843.24
+      - 6025911.96
+      - 433.62
+    - - 492840.61
+      - 6025913.62
+      - 431.12
+    - - 492839.17
+      - 6025914.94
+      - 429.7
+    - - 492838.37
+      - 6025912.17
+      - 426.79
+    - - 492836.5
+      - 6025912.85
+      - 423.09
+    - - 492837.27
+      - 6025913.31
+      - 422.9
+    - - 492839.01
+      - 6025912.34
+      - 424.55
+    - - 492837.03
+      - 6025913.66
+      - 421.96
+    - - 492837.14
+      - 6025914.23
+      - 422.37
+    - - 492837.17
+      - 6025914.64
+      - 423.41
+    - - 492837.19
+      - 6025914.83
+      - 424.5
+    - - 492839.42
+      - 6025910.36
+      - 424.46
+    - - 492837.41
+      - 6025914.1
+      - 421.78
+    - - 492835.68
+      - 6025914.07
+      - 423.49
+    - - 492835.47
+      - 6025914.08
+      - 420.38
+    - - 492835.92
+      - 6025916.62
+      - 422.16
+    - - 492835.19
+      - 6025917.64
+      - 421.96
+    - - 492835.22
+      - 6025918.31
+      - 421.08
+    - - 492836.19
+      - 6025916.86
+      - 421.46
+    - - 492836.73
+      - 6025915.69
+      - 421.73
+    - - 492836.73
+      - 6025915.67
+      - 422.87
+    - - 492837.26
+      - 6025915.47
+      - 425.0
+    - - 492837.86
+      - 6025916.41
+      - 428.88
+    - - 492836.45
+      - 6025916.74
+      - 427.86
+    - - 492835.85
+      - 6025917.83
+      - 426.78
+    - - 492834.76
+      - 6025919.0
+      - 426.7
+    - - 492833.73
+      - 6025921.62
+      - 427.54
+    - - 492834.43
+      - 6025919.51
+      - 424.46
+    - - 492833.6
+      - 6025920.7
+      - 423.91
+    - - 492832.18
+      - 6025921.85
+      - 424.29
+    - - 492833.81
+      - 6025916.93
+      - 422.84
+    - - 492830.02
+      - 6025924.08
+      - 421.24
+    - - 492832.77
+      - 6025921.11
+      - 421.6
+    - - 492834.06
+      - 6025917.73
+      - 420.6
+    - - 492833.85
+      - 6025915.75
+      - 420.7
+    - - 492833.29
+      - 6025916.22
+      - 421.63
+    - - 492834.34
+      - 6025915.05
+      - 420.42
+    62:
+    - - 492830.24
+      - 6025950.3
+      - 420.68
+    - - 492829.41
+      - 6025952.07
+      - 420.73
+    - - 492828.84
+      - 6025952.13
+      - 421.2
+    - - 492828.43
+      - 6025951.77
+      - 421.25
+    - - 492828.01
+      - 6025951.44
+      - 421.09
+    - - 492827.76
+      - 6025951.5
+      - 420.56
+    - - 492827.71
+      - 6025951.65
+      - 419.98
+    - - 492827.89
+      - 6025951.59
+      - 419.27
+    - - 492828.44
+      - 6025952.09
+      - 419.23
+    - - 492828.75
+      - 6025952.46
+      - 419.78
+    - - 492828.8
+      - 6025952.58
+      - 420.24
+    - - 492831.4
+      - 6025946.34
+      - 420.56
+    - - 492831.09
+      - 6025946.23
+      - 421.83
+    - - 492831.89
+      - 6025945.74
+      - 422.95
+    - - 492835.17
+      - 6025942.25
+      - 424.76
+    - - 492835.1
+      - 6025942.37
+      - 425.87
+    - - 492835.91
+      - 6025941.68
+      - 427.26
+    - - 492832.51
+      - 6025945.94
+      - 422.26
+    - - 492830.87
+      - 6025949.12
+      - 421.48
+    - - 492831.25
+      - 6025950.11
+      - 422.29
+    - - 492829.6
+      - 6025947.34
+      - 419.78
+    - - 492829.34
+      - 6025947.31
+      - 420.25
+    - - 492830.16
+      - 6025946.5
+      - 421.52
+    - - 492830.62
+      - 6025947.06
+      - 419.45
+    - - 492829.23
+      - 6025948.22
+      - 419.26
+    - - 492828.47
+      - 6025949.37
+      - 419.14
+    - - 492828.84
+      - 6025950.64
+      - 419.2
+    - - 492828.63
+      - 6025950.68
+      - 420.96
+    - - 492831.29
+      - 6025949.93
+      - 422.61
+    - - 492828.04
+      - 6025953.39
+      - 421.39
+    - - 492827.3
+      - 6025953.57
+      - 421.34
+    - - 492827.19
+      - 6025952.95
+      - 421.07
+    - - 492826.72
+      - 6025953.52
+      - 420.58
+    - - 492826.53
+      - 6025953.64
+      - 419.78
+    - - 492827.24
+      - 6025952.44
+      - 420.67
+    - - 492827.23
+      - 6025952.68
+      - 419.4
+    - - 492822.22
+      - 6025957.74
+      - 414.11
+    - - 492824.84
+      - 6025956.06
+      - 416.2
+    - - 492826.63
+      - 6025953.73
+      - 419.1
+    - - 492826.66
+      - 6025954.57
+      - 419.23
+    - - 492827.3
+      - 6025953.42
+      - 419.23
+    - - 492825.82
+      - 6025955.63
+      - 417.43
+    - - 492826.46
+      - 6025954.95
+      - 419.42
+    - - 492826.3
+      - 6025956.17
+      - 419.52
+    - - 492825.55
+      - 6025957.09
+      - 420.19
+    - - 492823.5
+      - 6025958.34
+      - 420.2
+    - - 492825.25
+      - 6025957.28
+      - 421.12
+    - - 492826.46
+      - 6025956.6
+      - 421.35
+    - - 492827.82
+      - 6025953.7
+      - 421.13
+    - - 492826.56
+      - 6025953.86
+      - 420.53
+    - - 492826.34
+      - 6025954.5
+      - 420.46
+    - - 492827.56
+      - 6025951.93
+      - 420.8
+    - - 492828.64
+      - 6025952.6
+      - 421.05
+    - - 492828.7
+      - 6025952.57
+      - 419.27
+  pos:
+    42:
+    - 492868.12
+    - 6026005.72
+    - 424.94
+    21:
+    - 492858.14
+    - 6025999.21
+    - 418.92
+    87:
+    - 492871.3
+    - 6026000.89
+    - 422.4
+    22:
+    - 492875.22
+    - 6025995.2
+    - 419.5
+    10:
+    - 492874.2
+    - 6025992.38
+    - 418.55
+    46:
+    - 492879.17
+    - 6025990.53
+    - 419.56
+    97:
+    - 492884.34
+    - 6025986.82
+    - 422.73
+    102:
+    - 492884.7
+    - 6025985.74
+    - 421.36
+    33:
+    - 492886.91
+    - 6025983.2
+    - 416.72
+    8:
+    - 492887.9
+    - 6025980.4
+    - 414.22
+    11:
+    - 492886.28
+    - 6025976.37
+    - 410.4
+    4:
+    - 492888.92
+    - 6025974.37
+    - 411.94
+    14:
+    - 492881.89
+    - 6025981.47
+    - 405.59
+    60:
+    - 492892.24
+    - 6025972.91
+    - 410.09
+    73:
+    - 492890.54
+    - 6025975.0
+    - 409.39
+    65:
+    - 492889.55
+    - 6025979.31
+    - 406.2
+    94:
+    - 492887.23
+    - 6025982.03
+    - 402.91
+    27:
+    - 492885.19
+    - 6025985.69
+    - 404.51
+    16:
+    - 492885.43
+    - 6025989.54
+    - 404.13
+    39:
+    - 492890.49
+    - 6025989.97
+    - 403.64
+    41:
+    - 492883.82
+    - 6025994.52
+    - 402.43
+    13:
+    - 492877.92
+    - 6026007.36
+    - 398.65
+    95:
+    - 492880.27
+    - 6026009.56
+    - 397.95
+    89:
+    - 492873.33
+    - 6025995.18
+    - 399.29
+    96:
+    - 492880.85
+    - 6026014.7
+    - 398.18
+    34:
+    - 492882.37
+    - 6026019.2
+    - 397.37
+    90:
+    - 492878.78
+    - 6026021.73
+    - 392.33
+    29:
+    - 492873.27
+    - 6026027.67
+    - 384.37
+    20:
+    - 492871.87
+    - 6026029.86
+    - 394.43
+    15:
+    - 492873.72
+    - 6026027.69
+    - 383.79
+    85:
+    - 492873.12
+    - 6026027.96
+    - 379.12
+    18:
+    - 492868.09
+    - 6026034.19
+    - 379.82
+    77:
+    - 492861.67
+    - 6026035.73
+    - 379.84
+    36:
+    - 492850.72
+    - 6026042.05
+    - 380.14
+    28:
+    - 492846.23
+    - 6026044.36
+    - 380.14
+    3:
+    - 492840.54
+    - 6026041.42
+    - 380.58
+    56:
+    - 492840.34
+    - 6026046.43
+    - 380.5
+    1:
+    - 492837.33
+    - 6026041.64
+    - 379.84
+    93:
+    - 492844.01
+    - 6026037.74
+    - 386.07
+    78:
+    - 492829.04
+    - 6026040.43
+    - 379.81
+    64:
+    - 492819.61
+    - 6026029.19
+    - 380.33
+    24:
+    - 492812.66
+    - 6026022.94
+    - 380.68
+    23:
+    - 492804.88
+    - 6026016.35
+    - 380.52
+    71:
+    - 492799.51
+    - 6026009.73
+    - 380.93
+    80:
+    - 492793.02
+    - 6026001.27
+    - 380.73
+    83:
+    - 492789.33
+    - 6025998.1
+    - 381.25
+    101:
+    - 492786.36
+    - 6025993.41
+    - 381.26
+    72:
+    - 492783.3
+    - 6025990.31
+    - 381.53
+    81:
+    - 492779.35
+    - 6025991.35
+    - 381.76
+    68:
+    - 492783.29
+    - 6025990.45
+    - 381.55
+    44:
+    - 492776.09
+    - 6025997.52
+    - 382.82
+    74:
+    - 492781.02
+    - 6025983.87
+    - 375.79
+    47:
+    - 492776.6
+    - 6025983.55
+    - 370.97
+    61:
+    - 492785.32
+    - 6025979.83
+    - 368.62
+    32:
+    - 492794.82
+    - 6025971.77
+    - 370.72
+    7:
+    - 492797.95
+    - 6025964.33
+    - 365.43
+    75:
+    - 492802.15
+    - 6025962.77
+    - 374.88
+    70:
+    - 492800.19
+    - 6025959.83
+    - 362.39
+    54:
+    - 492810.35
+    - 6025960.88
+    - 381.0
+    6:
+    - 492813.43
+    - 6025954.66
+    - 384.56
+    59:
+    - 492819.7
+    - 6025950.82
+    - 394.77
+    53:
+    - 492825.43
+    - 6025944.2
+    - 399.26
+    84:
+    - 492833.31
+    - 6025940.66
+    - 404.91
+    25:
+    - 492835.43
+    - 6025940.75
+    - 414.52
+    30:
+    - 492838.49
+    - 6025939.47
+    - 420.42
+    86:
+    - 492839.91
+    - 6025939.51
+    - 420.22
+    98:
+    - 492835.47
+    - 6025943.98
+    - 421.45
+    2:
+    - 492832.8
+    - 6025946.37
+    - 419.93
+    91:
+    - 492838.17
+    - 6025948.51
+    - 419.35
+    52:
+    - 492828.9
+    - 6025947.83
+    - 420.68
+    12:
+    - 492844.73
+    - 6025950.25
+    - 420.02
+    88:
+    - 492844.13
+    - 6025938.31
+    - 420.6
+    49:
+    - 492833.13
+    - 6025954.96
+    - 420.3
+    0:
+    - 492844.93
+    - 6025961.79
+    - 420.16
+    43:
+    - 492850.29
+    - 6025961.4
+    - 419.41
+    45:
+    - 492857.96
+    - 6025961.65
+    - 419.41
+    55:
+    - 492858.34
+    - 6025971.82
+    - 419.39
+    38:
+    - 492854.26
+    - 6025947.99
+    - 419.91
+    57:
+    - 492856.37
+    - 6025978.01
+    - 419.36
+    37:
+    - 492855.52
+    - 6025969.63
+    - 421.53
+    100:
+    - 492857.15
+    - 6025980.7
+    - 419.47
+    79:
+    - 492857.89
+    - 6025994.46
+    - 418.92
+    51:
+    - 492775.51
+    - 6026005.31
+    - 381.91
+    48:
+    - 492771.89
+    - 6026007.99
+    - 382.12
+    9:
+    - 492772.02
+    - 6026010.61
+    - 381.6
+    63:
+    - 492857.64
+    - 6025966.9
+    - 424.14
+    82:
+    - 492859.75
+    - 6025964.19
+    - 426.21
+    26:
+    - 492858.41
+    - 6025962.98
+    - 428.08
+    31:
+    - 492862.57
+    - 6025968.06
+    - 428.65
+    17:
+    - 492849.6
+    - 6025964.88
+    - 428.84
+    40:
+    - 492862.61
+    - 6025968.48
+    - 428.76
+    5:
+    - 492856.62
+    - 6025976.47
+    - 421.24
+    66:
+    - 492855.97
+    - 6025922.62
+    - 419.91
+    92:
+    - 492857.56
+    - 6025915.03
+    - 421.28
+    19:
+    - 492844.26
+    - 6025921.83
+    - 419.97
+    35:
+    - 492836.03
+    - 6025920.26
+    - 420.45
+    76:
+    - 492835.36
+    - 6025914.16
+    - 421.66
+    99:
+    - 492839.55
+    - 6025910.33
+    - 424.02
+    67:
+    - 492830.2
+    - 6025923.35
+    - 421.13
+    50:
+    - 492817.52
+    - 6025944.33
+    - 420.87
+    62:
+    - 492828.65
+    - 6025952.6
+    - 420.73
+    69:
+    - 492818.2
+    - 6025963.23
+    - 420.28

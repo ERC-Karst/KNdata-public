@@ -1,17 +1,20 @@
 number: '047'
 short_name: Seefeldhoele
 status: clean
+issues: .nan
 type_of_correction: manual correction
 original_format: Toporobot
-type_dataset: Call for data
 original_to_sql: TEXT --> tr2th --> therion -->  sql
+todo: .nan
 length_approx_meter: 2200.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: HOF
 comments_cave_info: .nan
+comments_cleaning: .nan
 full_name: Seefeldhoele
 other_names: .nan
+type_dataset: Call for data
 all_data_format: Toporobot
 geometry: lrud
 verify_geometry_export: .nan
@@ -32,7 +35,8 @@ local_id: .nan
 local_coordinate_system: CH1903/LV03
 local_easting_coordinate: '630202.3'
 local_northing_coordinate: '178538.1'
-latitude: 46.7573
+'share_coordinates ': .nan
+latitude: '46.7573'
 longitude: 7.8339
 altitude: '1792'
 length_official_meter: .nan
@@ -40,6 +44,13 @@ length_dataset: .nan
 denivelation: .nan
 cave_url: https://www.showcaves.com/english/ch/caves/Seefeld.html
 supplemental_links: .nan
+geology: limestone / sandstone
+facies: 'limestone / sandstone: niederhorn'
+speleogenesis: polygenic
+speleogenesis additional context: epigenic / hypogenic
+fracturation: high
+deformation: flat lying
+deformation additional context: flat lying
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -57,8 +68,9 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
-percentage_csidm: 61
+Column 62: .nan
+last_processing_date: 08 Aug 2025
+percentage_csidm: 100
 number_connected_components: 1
 number_nodes: 748
 number_edges: 899

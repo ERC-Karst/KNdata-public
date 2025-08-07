@@ -3,7 +3,7 @@ metadata:
   short_name: DunaldMill
   status: clean
   type_of_correction: automatic correction
-  last_processing_date: 06 Jun 2025
+  last_processing_date: 08 Aug 2025
   license: To confirm
   citation: Unknown yet
   thanks: .nan
@@ -28,7 +28,7 @@ metadata:
   country_cave_id: SD51596762 (North Cavern Caves)
   local_id: .nan
   local_coordinate_system: EPSG:27700
-  latitude: 54.1021
+  latitude: '54.1021'
   longitude: -2.7417
   altitude: '86'
   cave_url: https://northerncaves.co.uk/caves/details.php?id=2070
@@ -168,257 +168,131 @@ edges:
 - - 207
   - 441
 node_attributes:
-  flags:
+  idsql:
     83:
-    - ent
-    - fix
+    - 1
     420:
-    - fix
+    - 13
     102:
-    - fix
+    - 32
     473:
-    - fix
+    - 285
     304:
-    - fix
+    - 327
     97:
-    - fix
+    - 48
     228:
-    - fix
+    - 62
     58:
-    - fix
+    - 73
     448:
-    - fix
+    - 81
     61:
-    - fix
+    - 91
     132:
-    - fix
+    - 98
     218:
-    - fix
+    - 110
     421:
-    - fix
+    - 117
     321:
-    - fix
+    - 125
     284:
-    - fix
+    - 133
     1:
-    - fix
+    - 143
     128:
-    - fix
+    - 152
     429:
-    - fix
+    - 161
     136:
-    - fix
+    - 168
     215:
-    - fix
+    - 175
     110:
-    - fix
+    - 181
     402:
-    - fix
+    - 187
     415:
-    - fix
+    - 192
     238:
-    - fix
+    - 201
     43:
-    - fix
+    - 207
     124:
-    - fix
+    - 214
     93:
-    - fix
+    - 222
     65:
-    - fix
+    - 229
     157:
-    - fix
+    - 240
     469:
-    - fix
+    - 246
     115:
-    - fix
+    - 255
     60:
-    - fix
+    - 262
     382:
-    - fix
+    - 268
     269:
-    - fix
+    - 483
     18:
-    - fix
+    - 274
     16:
-    - fix
+    - 290
     255:
-    - fix
+    - 294
     10:
-    - fix
+    - 299
     343:
-    - fix
+    - 306
     154:
-    - fix
+    - 312
     484:
-    - fix
+    - 334
     66:
-    - fix
+    - 339
     86:
-    - fix
+    - 350
     242:
-    - fix
+    - 452
     470:
-    - fix
+    - 359
     202:
-    - fix
+    - 365
     426:
-    - fix
+    - 371
     471:
-    - fix
+    - 377
     59:
-    - fix
+    - 382
     116:
-    - fix
+    - 389
     354:
-    - fix
+    - 394
     474:
-    - fix
+    - 403
     173:
-    - fix
+    - 411
     201:
-    - fix
+    - 423
     209:
-    - fix
+    - 431
     435:
-    - fix
+    - 436
     442:
-    - fix
+    - 443
     302:
-    - fix
+    - 447
     370:
-    - fix
+    - 457
     207:
-    - fix
+    - 467
     441:
-    - fix
+    - 472
     224:
-    - fix
-  fulladdress:
-    83:
-    - dunald_mill.1.0
-    420:
-    - dunald_mill.3.0
-    102:
-    - dunald_mill.1.2
-    473:
-    - dunald_mill.2.1
-    304:
-    - dunald_mill.3.1
-    97:
-    - dunald_mill.1.3
-    228:
-    - dunald_mill.1.4
-    58:
-    - dunald_mill.1.5
-    448:
-    - dunald_mill.1.6
-    61:
-    - dunald_mill.1.7
-    132:
-    - dunald_mill.1.8
-    218:
-    - dunald_mill.1.9
-    421:
-    - dunald_mill.1.10
-    321:
-    - dunald_mill.1.11
-    284:
-    - dunald_mill.1.12
-    1:
-    - dunald_mill.1.13
-    128:
-    - dunald_mill.1.14
-    429:
-    - dunald_mill.1.15
-    136:
-    - dunald_mill.1.16
-    215:
-    - dunald_mill.1.17
-    110:
-    - dunald_mill.1.18
-    402:
-    - dunald_mill.1.19
-    415:
-    - dunald_mill.1.20
-    238:
-    - dunald_mill.1.21
-    43:
-    - dunald_mill.1.22
-    124:
-    - dunald_mill.1.23
-    93:
-    - dunald_mill.1.24
-    65:
-    - dunald_mill.1.25
-    157:
-    - dunald_mill.1.26
-    469:
-    - dunald_mill.1.27
-    115:
-    - dunald_mill.1.28
-    60:
-    - dunald_mill.5.0
-    382:
-    - dunald_mill.1.30
-    269:
-    - dunald_mill.5.1
-    18:
-    - dunald_mill.1.31
-    16:
-    - dunald_mill.2.2
-    255:
-    - dunald_mill.2.3
-    10:
-    - dunald_mill.2.4
-    343:
-    - dunald_mill.2.5
-    154:
-    - dunald_mill.2.6
-    484:
-    - dunald_mill.3.2
-    66:
-    - dunald_mill.4.0
-    86:
-    - dunald_mill.3.4
-    242:
-    - dunald_mill.4.1
-    470:
-    - dunald_mill.3.5
-    202:
-    - dunald_mill.3.6
-    426:
-    - dunald_mill.3.7
-    471:
-    - dunald_mill.3.8
-    59:
-    - dunald_mill.3.9
-    116:
-    - dunald_mill.3.10
-    354:
-    - dunald_mill.3.11
-    474:
-    - dunald_mill.3.12
-    173:
-    - dunald_mill.3.13
-    201:
-    - dunald_mill.3.14
-    209:
-    - dunald_mill.3.15
-    435:
-    - dunald_mill.3.16
-    442:
-    - dunald_mill.3.17
-    302:
-    - dunald_mill.3.18
-    370:
-    - dunald_mill.4.2
-    207:
-    - dunald_mill.4.3
-    441:
-    - dunald_mill.4.4
-    224:
-    - dunald_mill.5.2
+    - 490
   splays:
     83:
     - - 516885.14
@@ -1780,6 +1654,132 @@ node_attributes:
     - - 516819.06
       - 5994981.54
       - 62.18
+  flags:
+    83:
+    - ent
+    - fix
+    420:
+    - fix
+    102:
+    - fix
+    473:
+    - fix
+    304:
+    - fix
+    97:
+    - fix
+    228:
+    - fix
+    58:
+    - fix
+    448:
+    - fix
+    61:
+    - fix
+    132:
+    - fix
+    218:
+    - fix
+    421:
+    - fix
+    321:
+    - fix
+    284:
+    - fix
+    1:
+    - fix
+    128:
+    - fix
+    429:
+    - fix
+    136:
+    - fix
+    215:
+    - fix
+    110:
+    - fix
+    402:
+    - fix
+    415:
+    - fix
+    238:
+    - fix
+    43:
+    - fix
+    124:
+    - fix
+    93:
+    - fix
+    65:
+    - fix
+    157:
+    - fix
+    469:
+    - fix
+    115:
+    - fix
+    60:
+    - fix
+    382:
+    - fix
+    269:
+    - fix
+    18:
+    - fix
+    16:
+    - fix
+    255:
+    - fix
+    10:
+    - fix
+    343:
+    - fix
+    154:
+    - fix
+    484:
+    - fix
+    66:
+    - fix
+    86:
+    - fix
+    242:
+    - fix
+    470:
+    - fix
+    202:
+    - fix
+    426:
+    - fix
+    471:
+    - fix
+    59:
+    - fix
+    116:
+    - fix
+    354:
+    - fix
+    474:
+    - fix
+    173:
+    - fix
+    201:
+    - fix
+    209:
+    - fix
+    435:
+    - fix
+    442:
+    - fix
+    302:
+    - fix
+    370:
+    - fix
+    207:
+    - fix
+    441:
+    - fix
+    224:
+    - fix
   pos:
     83:
     - 516884.4
@@ -2029,128 +2029,128 @@ node_attributes:
     - 516819.22
     - 5994981.38
     - 64.1
-  idsql:
+  fulladdress:
     83:
-    - 1
+    - dunald_mill.1.0
     420:
-    - 13
+    - dunald_mill.3.0
     102:
-    - 32
+    - dunald_mill.1.2
     473:
-    - 285
+    - dunald_mill.2.1
     304:
-    - 327
+    - dunald_mill.3.1
     97:
-    - 48
+    - dunald_mill.1.3
     228:
-    - 62
+    - dunald_mill.1.4
     58:
-    - 73
+    - dunald_mill.1.5
     448:
-    - 81
+    - dunald_mill.1.6
     61:
-    - 91
+    - dunald_mill.1.7
     132:
-    - 98
+    - dunald_mill.1.8
     218:
-    - 110
+    - dunald_mill.1.9
     421:
-    - 117
+    - dunald_mill.1.10
     321:
-    - 125
+    - dunald_mill.1.11
     284:
-    - 133
+    - dunald_mill.1.12
     1:
-    - 143
+    - dunald_mill.1.13
     128:
-    - 152
+    - dunald_mill.1.14
     429:
-    - 161
+    - dunald_mill.1.15
     136:
-    - 168
+    - dunald_mill.1.16
     215:
-    - 175
+    - dunald_mill.1.17
     110:
-    - 181
+    - dunald_mill.1.18
     402:
-    - 187
+    - dunald_mill.1.19
     415:
-    - 192
+    - dunald_mill.1.20
     238:
-    - 201
+    - dunald_mill.1.21
     43:
-    - 207
+    - dunald_mill.1.22
     124:
-    - 214
+    - dunald_mill.1.23
     93:
-    - 222
+    - dunald_mill.1.24
     65:
-    - 229
+    - dunald_mill.1.25
     157:
-    - 240
+    - dunald_mill.1.26
     469:
-    - 246
+    - dunald_mill.1.27
     115:
-    - 255
+    - dunald_mill.1.28
     60:
-    - 262
+    - dunald_mill.5.0
     382:
-    - 268
+    - dunald_mill.1.30
     269:
-    - 483
+    - dunald_mill.5.1
     18:
-    - 274
+    - dunald_mill.1.31
     16:
-    - 290
+    - dunald_mill.2.2
     255:
-    - 294
+    - dunald_mill.2.3
     10:
-    - 299
+    - dunald_mill.2.4
     343:
-    - 306
+    - dunald_mill.2.5
     154:
-    - 312
+    - dunald_mill.2.6
     484:
-    - 334
+    - dunald_mill.3.2
     66:
-    - 339
+    - dunald_mill.4.0
     86:
-    - 350
+    - dunald_mill.3.4
     242:
-    - 452
+    - dunald_mill.4.1
     470:
-    - 359
+    - dunald_mill.3.5
     202:
-    - 365
+    - dunald_mill.3.6
     426:
-    - 371
+    - dunald_mill.3.7
     471:
-    - 377
+    - dunald_mill.3.8
     59:
-    - 382
+    - dunald_mill.3.9
     116:
-    - 389
+    - dunald_mill.3.10
     354:
-    - 394
+    - dunald_mill.3.11
     474:
-    - 403
+    - dunald_mill.3.12
     173:
-    - 411
+    - dunald_mill.3.13
     201:
-    - 423
+    - dunald_mill.3.14
     209:
-    - 431
+    - dunald_mill.3.15
     435:
-    - 436
+    - dunald_mill.3.16
     442:
-    - 443
+    - dunald_mill.3.17
     302:
-    - 447
+    - dunald_mill.3.18
     370:
-    - 457
+    - dunald_mill.4.2
     207:
-    - 467
+    - dunald_mill.4.3
     441:
-    - 472
+    - dunald_mill.4.4
     224:
-    - 490
+    - dunald_mill.5.2

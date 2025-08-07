@@ -1,8 +1,8 @@
 number: '067'
 short_name: Bailleurs
-status: to process
+status: clean
 issues: .nan
-type_of_correction: no correction
+type_of_correction: manual correction
 original_format: Therion
 original_to_sql: therion --> 3d --> therion --> 3d --> sql
 todo: .nan
@@ -11,6 +11,7 @@ connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: K3D
 comments_cave_info: .nan
+comments_cleaning: pas de topo
 full_name: Cavité Vent de Bailleurs
 other_names: TDV Bailleurs
 type_dataset: Online
@@ -25,23 +26,31 @@ crs_clean_dataset: epsg:32631
 crs_check: .nan
 crs_other: .nan
 country: France
-state: .nan
-area: .nan
-locality: .nan
-grotto_id: .nan
-country_cave_id: .nan
-local_id: .nan
-local_coordinate_system: .nan
-local_easting_coordinate: .nan
-local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
-altitude: .nan
-length_official_meter: .nan
+state: Occitanie
+area: Aude
+locality: Sainte-Colombe-sur-Guette
+grotto_id: '25353'
+country_cave_id: 59 (KARST3D)
+local_id: 2 (CDS Aude)
+local_coordinate_system: 'EPSG:27573 '
+local_easting_coordinate: '592174'
+local_northing_coordinate: '3048966'
+'share_coordinates ': .nan
+latitude: '42.7405'
+longitude: 2.241
+altitude: '750'
+length_official_meter: '2058'
 length_dataset: .nan
-denivelation: .nan
-cave_url: .nan
-supplemental_links: .nan
+denivelation: '121'
+cave_url: https://grottocenter.org/ui/entrances/25353
+supplemental_links: https://data.oreme.org/karst3d/karst3d_map#selected_layer=karst3d_station&selected_station=59
+geology: unknown
+facies: .nan
+speleogenesis: unknown
+speleogenesis additional context: .nan
+fracturation: unknown
+deformation: unknown
+deformation additional context: .nan
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -59,10 +68,11 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 0
-number_connected_components: 2
+number_connected_components: 1
 number_nodes: 454
-number_edges: 453
-number_cycles: 1
-total_length: 2133
+number_edges: 455
+number_cycles: 2
+total_length: 2138

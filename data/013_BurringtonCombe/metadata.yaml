@@ -1,6 +1,7 @@
 number: '013'
 short_name: BurringtonCombe
 status: clean
+issues: .nan
 type_of_correction: manual correction
 original_format: Survex
 original_to_sql: 3d --> therion --> sql
@@ -11,6 +12,7 @@ license: CC BY-NC-SA 4.0
 id_dataset: UBSS
 comments_cave_info: Email Atkins to know bout citation. Only .3d available on the
   website. May have geometry if we can get the .svx files
+comments_cleaning: .nan
 full_name: Burrington Combe Karst Area
 other_names: .nan
 type_dataset: Online
@@ -21,9 +23,9 @@ units: meter
 original_filename: .nan
 original_encoding: .nan
 crs_original_dataset: epsg:27700
-crs_clean_dataset: .nan
-crs_check: .nan
-crs_other: epsg:27700 (England)
+crs_clean_dataset: EPSG:32630
+crs_check: verified on qgis
+crs_other: .nan
 country: UK
 state: England
 area: North Somerset
@@ -34,7 +36,8 @@ local_id: .nan
 local_coordinate_system: .nan
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-latitude: 51.3244
+'share_coordinates ': public
+latitude: '51.3244'
 longitude: -2.7531
 altitude: '99'
 length_official_meter: 68 (Avelines) 985 (Pierres Pot) 183 (Spar Pot) 252 (Tween Twins)
@@ -44,6 +47,13 @@ denivelation: 16 (Avelines) 47 (Pierres Pot) 34 (Spar Pot) 18 (Tween Twins) 43 (
   37 (Bath Swallet) 42 (Bos Swallet) 63 (Reads) 10 (Goons) 48 (Drunkards)
 cave_url: https://grottocenter.org/ui/entrances/20044
 supplemental_links: https://www.mcra.org.uk/registry/sitedetails.php?id=3
+geology: limestone / oolite
+facies: 'limestone / oolite : pembrocke'
+speleogenesis: epigenic
+speleogenesis additional context: .nan
+fracturation: medium
+deformation: tilted
+deformation additional context: steeply dipping (50)
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -61,10 +71,11 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 32
 number_connected_components: 15
-number_nodes: 1759
-number_edges: 1819
+number_nodes: 1757
+number_edges: 1817
 number_cycles: 75
-total_length: 5341
+total_length: 5334

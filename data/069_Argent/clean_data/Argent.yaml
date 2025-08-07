@@ -1,38 +1,38 @@
 metadata:
   number: 069
   short_name: Argent
-  status: .nan
-  type_of_correction: .nan
-  last_processing_date: 06 Jun 2025
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 08 Aug 2025
   license: CC BY-NC
   citation: .nan
   thanks: .nan
   sharing_conditions: .nan
-  total_length: 526
+  total_length: 527
   percentage_csidm: 0
   number_connected_components: 1
   number_nodes: 86
-  number_edges: 85
-  number_cycles: 0
+  number_edges: 86
+  number_cycles: 1
   original_format: Therion
   id_dataset: K3D
   comments_cave_info: .nan
   full_name: Rec d'Argent
   geometry: lrud
   units: meter
-  country: .nan
-  state: .nan
-  area: .nan
-  locality: .nan
-  grotto_id: .nan
-  country_cave_id: .nan
-  local_id: .nan
-  local_coordinate_system: .nan
-  latitude: .nan
-  longitude: .nan
-  altitude: .nan
-  cave_url: .nan
-  supplemental_links: .nan
+  country: France
+  state: Occitanie
+  area: Massif de la Clape
+  locality: Gruissan
+  grotto_id: '6178'
+  country_cave_id: 68 (KARST3D)
+  local_id: 96 (CDS Aude)
+  local_coordinate_system: EPSG:27573
+  latitude: '43.1359'
+  longitude: 3.0871
+  altitude: '90'
+  cave_url: https://grottocenter.org/ui/entrances/6178
+  supplemental_links: https://data.oreme.org/karst3d/karst3d_map#selected_layer=karst3d_station&selected_station=68
   data_reception_date: .nan
   data_received_by: .nan
   start_contract: .nan
@@ -93,6 +93,8 @@ edges:
   - 44
 - - 44
   - 79
+- - 44
+  - 62
 - - 79
   - 65
 - - 65
@@ -215,181 +217,187 @@ edges:
   - 47
 - - 47
   - 69
-node_attributes:
+edge_attributes:
   flags:
+    ? !!python/tuple
+    - 44
+    - 62
+    : - add
+      - add
+node_attributes:
+  fulladdress:
     48:
-    - ent
-    - fix
+    - Rec_d_Argent.0
     14:
-    - fix
+    - Rec_d_Argent.1.2
     8:
-    - fix
+    - Rec_d_Argent.1.3
     45:
-    - fix
+    - Rec_d_Argent.1.4
     1:
-    - fix
+    - Rec_d_Argent.1.5
     36:
-    - fix
+    - Rec_d_Argent.1.6
     39:
-    - fix
+    - Rec_d_Argent.1.7
     34:
-    - fix
+    - Rec_d_Argent.1.8
     72:
-    - fix
+    - Rec_d_Argent.1.9
     5:
-    - fix
+    - Rec_d_Argent.1.10
     15:
-    - fix
+    - Rec_d_Argent.1.11
     17:
-    - fix
+    - Rec_d_Argent.1.12
     7:
-    - fix
+    - Rec_d_Argent.1.13
     29:
-    - fix
+    - Rec_d_Argent.1.14
     20:
-    - fix
+    - Rec_d_Argent.1.15
     55:
-    - fix
+    - Rec_d_Argent.1.16
     16:
-    - fix
+    - Rec_d_Argent.1.17
     12:
-    - fix
+    - Rec_d_Argent.1.18
     2:
-    - fix
+    - Rec_d_Argent.1.19
     18:
-    - fix
+    - Rec_d_Argent.3.1
     84:
-    - fix
+    - Rec_d_Argent.1.20
     27:
-    - fix
+    - Rec_d_Argent.1.21
     3:
-    - fix
+    - Rec_d_Argent.1.22
     44:
-    - fix
+    - Rec_d_Argent.1.23
     79:
-    - fix
+    - Rec_d_Argent.1.24
     65:
-    - fix
+    - Rec_d_Argent.1.25
     22:
-    - fix
+    - Rec_d_Argent.1.26
     54:
-    - fix
+    - Rec_d_Argent.1.27
     71:
-    - fix
+    - Rec_d_Argent.1.28
     58:
-    - fix
+    - Rec_d_Argent.1.29
     59:
-    - fix
+    - Rec_d_Argent.1.30
     77:
-    - fix
+    - Rec_d_Argent.1.31
     63:
-    - fix
+    - Rec_d_Argent.4.0
     57:
-    - fix
+    - Rec_d_Argent.1.32
     21:
-    - fix
+    - Rec_d_Argent.4.1
     41:
-    - fix
+    - Rec_d_Argent.4.2
     83:
-    - fix
+    - Rec_d_Argent.4.3
     10:
-    - fix
+    - Rec_d_Argent.4.4
     66:
-    - fix
+    - Rec_d_Argent.4.5
     33:
-    - fix
+    - Rec_d_Argent.5.0
     85:
-    - fix
+    - Rec_d_Argent.4.6
     28:
-    - fix
+    - Rec_d_Argent.5.1
     82:
-    - fix
+    - Rec_d_Argent.5.2
     62:
-    - fix
+    - Rec_d_Argent.5.3
     52:
-    - fix
+    - Rec_d_Argent.6.0
     0:
-    - fix
+    - Rec_d_Argent.4.7
     74:
-    - fix
+    - Rec_d_Argent.A
     19:
-    - fix
+    - Rec_d_Argent.6.1
     11:
-    - fix
+    - Rec_d_Argent.6.2
     68:
-    - fix
+    - Rec_d_Argent.6.3
     53:
-    - fix
+    - Rec_d_Argent.6.4
     56:
-    - fix
+    - Rec_d_Argent.6.5
     42:
-    - fix
+    - Rec_d_Argent.6.6
     67:
-    - fix
+    - Rec_d_Argent.6.7
     70:
-    - fix
+    - Rec_d_Argent.6.8
     73:
-    - fix
+    - Rec_d_Argent.6.9
     32:
-    - fix
+    - Rec_d_Argent.4.8
     76:
-    - fix
+    - Rec_d_Argent.4.9
     80:
-    - fix
+    - Rec_d_Argent.1.33
     9:
-    - fix
+    - Rec_d_Argent.5.01
     31:
-    - fix
+    - Rec_d_Argent.1.34
     50:
-    - fix
+    - Rec_d_Argent.5.02
     6:
-    - fix
+    - Rec_d_Argent.5.03
     75:
-    - fix
+    - Rec_d_Argent.5.04
     64:
-    - fix
+    - Rec_d_Argent.5.05
     43:
-    - fix
+    - Rec_d_Argent.5.06
     40:
-    - fix
+    - Rec_d_Argent.5.07
     23:
-    - fix
+    - Rec_d_Argent.5.08
     49:
-    - fix
+    - Rec_d_Argent.5.09
     37:
-    - fix
+    - Rec_d_Argent.5.10
     26:
-    - fix
+    - Rec_d_Argent.3.01
     4:
-    - fix
+    - Rec_d_Argent.2.01
     61:
-    - fix
+    - Rec_d_Argent.3.02
     30:
-    - fix
+    - Rec_d_Argent.3.03
     81:
-    - fix
+    - Rec_d_Argent.3.04
     35:
-    - fix
+    - Rec_d_Argent.3.05
     60:
-    - fix
+    - Rec_d_Argent.3.06
     13:
-    - fix
+    - Rec_d_Argent.3.07
     46:
-    - fix
+    - Rec_d_Argent.3.08
     24:
-    - fix
+    - Rec_d_Argent.2.02
     38:
-    - fix
+    - Rec_d_Argent.2.03
     25:
-    - fix
+    - Rec_d_Argent.2.04
     51:
-    - fix
+    - Rec_d_Argent.2.05
     78:
-    - fix
+    - Rec_d_Argent.2.08
     47:
-    - fix
+    - Rec_d_Argent.2.06
     69:
-    - fix
+    - Rec_d_Argent.2.07
   pos:
     48:
     - 507021.69
@@ -735,179 +743,180 @@ node_attributes:
     - 506861.53
     - 4776017.27
     - 90.91
-  fulladdress:
+  flags:
     48:
-    - Rec_d_Argent.0
+    - ent
+    - fix
     14:
-    - Rec_d_Argent.1.2
+    - fix
     8:
-    - Rec_d_Argent.1.3
+    - fix
     45:
-    - Rec_d_Argent.1.4
+    - fix
     1:
-    - Rec_d_Argent.1.5
+    - fix
     36:
-    - Rec_d_Argent.1.6
+    - fix
     39:
-    - Rec_d_Argent.1.7
+    - fix
     34:
-    - Rec_d_Argent.1.8
+    - fix
     72:
-    - Rec_d_Argent.1.9
+    - fix
     5:
-    - Rec_d_Argent.1.10
+    - fix
     15:
-    - Rec_d_Argent.1.11
+    - fix
     17:
-    - Rec_d_Argent.1.12
+    - fix
     7:
-    - Rec_d_Argent.1.13
+    - fix
     29:
-    - Rec_d_Argent.1.14
+    - fix
     20:
-    - Rec_d_Argent.1.15
+    - fix
     55:
-    - Rec_d_Argent.1.16
+    - fix
     16:
-    - Rec_d_Argent.1.17
+    - fix
     12:
-    - Rec_d_Argent.1.18
+    - fix
     2:
-    - Rec_d_Argent.1.19
+    - fix
     18:
-    - Rec_d_Argent.3.1
+    - fix
     84:
-    - Rec_d_Argent.1.20
+    - fix
     27:
-    - Rec_d_Argent.1.21
+    - fix
     3:
-    - Rec_d_Argent.1.22
+    - fix
     44:
-    - Rec_d_Argent.1.23
+    - fix
     79:
-    - Rec_d_Argent.1.24
+    - fix
     65:
-    - Rec_d_Argent.1.25
+    - fix
     22:
-    - Rec_d_Argent.1.26
+    - fix
     54:
-    - Rec_d_Argent.1.27
+    - fix
     71:
-    - Rec_d_Argent.1.28
+    - fix
     58:
-    - Rec_d_Argent.1.29
+    - fix
     59:
-    - Rec_d_Argent.1.30
+    - fix
     77:
-    - Rec_d_Argent.1.31
+    - fix
     63:
-    - Rec_d_Argent.4.0
+    - fix
     57:
-    - Rec_d_Argent.1.32
+    - fix
     21:
-    - Rec_d_Argent.4.1
+    - fix
     41:
-    - Rec_d_Argent.4.2
+    - fix
     83:
-    - Rec_d_Argent.4.3
+    - fix
     10:
-    - Rec_d_Argent.4.4
+    - fix
     66:
-    - Rec_d_Argent.4.5
+    - fix
     33:
-    - Rec_d_Argent.5.0
+    - fix
     85:
-    - Rec_d_Argent.4.6
+    - fix
     28:
-    - Rec_d_Argent.5.1
+    - fix
     82:
-    - Rec_d_Argent.5.2
+    - fix
     62:
-    - Rec_d_Argent.5.3
+    - fix
     52:
-    - Rec_d_Argent.6.0
+    - fix
     0:
-    - Rec_d_Argent.4.7
+    - fix
     74:
-    - Rec_d_Argent.A
+    - fix
     19:
-    - Rec_d_Argent.6.1
+    - fix
     11:
-    - Rec_d_Argent.6.2
+    - fix
     68:
-    - Rec_d_Argent.6.3
+    - fix
     53:
-    - Rec_d_Argent.6.4
+    - fix
     56:
-    - Rec_d_Argent.6.5
+    - fix
     42:
-    - Rec_d_Argent.6.6
+    - fix
     67:
-    - Rec_d_Argent.6.7
+    - fix
     70:
-    - Rec_d_Argent.6.8
+    - fix
     73:
-    - Rec_d_Argent.6.9
+    - fix
     32:
-    - Rec_d_Argent.4.8
+    - fix
     76:
-    - Rec_d_Argent.4.9
+    - fix
     80:
-    - Rec_d_Argent.1.33
+    - fix
     9:
-    - Rec_d_Argent.5.01
+    - fix
     31:
-    - Rec_d_Argent.1.34
+    - fix
     50:
-    - Rec_d_Argent.5.02
+    - fix
     6:
-    - Rec_d_Argent.5.03
+    - fix
     75:
-    - Rec_d_Argent.5.04
+    - fix
     64:
-    - Rec_d_Argent.5.05
+    - fix
     43:
-    - Rec_d_Argent.5.06
+    - fix
     40:
-    - Rec_d_Argent.5.07
+    - fix
     23:
-    - Rec_d_Argent.5.08
+    - fix
     49:
-    - Rec_d_Argent.5.09
+    - fix
     37:
-    - Rec_d_Argent.5.10
+    - fix
     26:
-    - Rec_d_Argent.3.01
+    - fix
     4:
-    - Rec_d_Argent.2.01
+    - fix
     61:
-    - Rec_d_Argent.3.02
+    - fix
     30:
-    - Rec_d_Argent.3.03
+    - fix
     81:
-    - Rec_d_Argent.3.04
+    - fix
     35:
-    - Rec_d_Argent.3.05
+    - fix
     60:
-    - Rec_d_Argent.3.06
+    - fix
     13:
-    - Rec_d_Argent.3.07
+    - fix
     46:
-    - Rec_d_Argent.3.08
+    - fix
     24:
-    - Rec_d_Argent.2.02
+    - fix
     38:
-    - Rec_d_Argent.2.03
+    - fix
     25:
-    - Rec_d_Argent.2.04
+    - fix
     51:
-    - Rec_d_Argent.2.05
+    - fix
     78:
-    - Rec_d_Argent.2.08
+    - fix
     47:
-    - Rec_d_Argent.2.06
+    - fix
     69:
-    - Rec_d_Argent.2.07
+    - fix
   idsql:
     48:
     - 1

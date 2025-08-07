@@ -1,17 +1,20 @@
 number: '011'
 short_name: BreznoNaToscu
 status: clean
+issues: .nan
 type_of_correction: manual correction
 original_format: Survex
-type_dataset: Call for data
 original_to_sql: svx --> .3d --> therion --> sql
+todo: .nan
 length_approx_meter: 1870.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
-id_dataset: SB
+id_dataset: BORKO
 comments_cave_info: .nan
+comments_cleaning: .nan
 full_name: Brezno na Toscu
 other_names: .nan
+type_dataset: Call for data
 all_data_format: Survex
 geometry: splays
 verify_geometry_export: .nan
@@ -19,7 +22,7 @@ units: meter
 original_filename: .nan
 original_encoding: .nan
 crs_original_dataset: epsg:3912
-crs_clean_dataset: .nan
+crs_clean_dataset: epsg:32633
 crs_check: .nan
 crs_other: epsg:3912 (Slovenia)
 country: Slovenia
@@ -32,7 +35,8 @@ local_id: .nan
 local_coordinate_system: .nan
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-latitude: 46.34939
+'share_coordinates ': .nan
+latitude: '46.34939'
 longitude: 13.8619
 altitude: '1988'
 length_official_meter: '1870'
@@ -40,6 +44,13 @@ length_dataset: .nan
 denivelation: '581'
 cave_url: https://www.katasterjam.si/caves/3900?activeTab=data
 supplemental_links: .nan
+geology: unknown
+facies: .nan
+speleogenesis: epigenic
+speleogenesis additional context: .nan
+fracturation: unknown
+deformation: unknown
+deformation additional context: .nan
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -57,7 +68,8 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 90
 number_connected_components: 1
 number_nodes: 361

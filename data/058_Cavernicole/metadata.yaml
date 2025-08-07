@@ -1,16 +1,17 @@
 number: 058
 short_name: Cavernicole
-status: to process
+status: clean
 issues: .nan
-type_of_correction: .nan
+type_of_correction: manual correction
 original_format: Therion
 original_to_sql: therion --> 3d --> therion --> 3d --> sql
 todo: .nan
-length_approx_meter: .nan
-connected_components: .nan
+length_approx_meter: 3094.0
+connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: GH6
 comments_cave_info: .nan
+comments_cleaning: .nan
 full_name: Cavernicole
 other_names: .nan
 type_dataset: Online
@@ -25,23 +26,31 @@ crs_clean_dataset: epsg:32631
 crs_check: verified on qgis
 crs_other: .nan
 country: France
-state: .nan
-area: .nan
-locality: .nan
-grotto_id: .nan
+state: Auvergne-Rhône-Alpes
+area: Hauts de Chartreuse
+locality: Plateau-des-Petites-Roches
+grotto_id: '68304'
 country_cave_id: .nan
 local_id: .nan
-local_coordinate_system: .nan
-local_easting_coordinate: .nan
-local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
-altitude: .nan
-length_official_meter: .nan
+local_coordinate_system: Local
+local_easting_coordinate: '5367.14'
+local_northing_coordinate: '8398.95'
+'share_coordinates ': .nan
+latitude: '45.3837'
+longitude: 5.8866
+altitude: '1625'
+length_official_meter: '1315'
 length_dataset: .nan
-denivelation: .nan
-cave_url: .nan
+denivelation: '362'
+cave_url: https://grottocenter.org/ui/entrances/68304
 supplemental_links: .nan
+geology: limestone
+facies: 'limestone : urgonien'
+speleogenesis: unknown
+speleogenesis additional context: .nan
+fracturation: low
+deformation: unknown
+deformation additional context: .nan
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -59,10 +68,11 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
-percentage_csidm: 88
+Column 62: .nan
+last_processing_date: 08 Aug 2025
+percentage_csidm: 89
 number_connected_components: 1
-number_nodes: 542
+number_nodes: 541
 number_edges: 544
-number_cycles: 3
-total_length: 2660
+number_cycles: 4
+total_length: 2654

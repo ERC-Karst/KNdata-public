@@ -1,17 +1,20 @@
 number: '007'
 short_name: Tsanfleuron
 status: clean
+issues: .nan
 type_of_correction: manual correction
 original_format: Visual Topo
-type_dataset: Call for data
 original_to_sql: .nan
+todo: .nan
 length_approx_meter: 1519.0
 connected_components: multiple caves
 license: CC BY-NC-SA 4.0
 id_dataset: LS
 comments_cave_info: Tenir Louis au courant du travail de Ana
+comments_cleaning: .nan
 full_name: Lapiaz Tsanfleuron
 other_names: .nan
+type_dataset: Call for data
 all_data_format: Visual Topo
 geometry: lrud
 verify_geometry_export: .nan
@@ -32,7 +35,8 @@ local_id: .nan
 local_coordinate_system: CH1903/LV03
 local_easting_coordinate: '587320'
 local_northing_coordinate: '129300'
-latitude: 46.3149
+'share_coordinates ': .nan
+latitude: '46.3149'
 longitude: 7.2739
 altitude: '2290'
 length_official_meter: .nan
@@ -40,6 +44,13 @@ length_dataset: .nan
 denivelation: .nan
 cave_url: https://grottocenter.org/ui/entrances/36666
 supplemental_links: http://mdemierre.speleologie.ch/?p=2584
+geology: limestone / sandstone
+facies: urgonien
+speleogenesis: epigenic
+speleogenesis additional context: .nan
+fracturation: unknown
+deformation: unknown
+deformation additional context: .nan
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -63,7 +74,8 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 99
 number_connected_components: 29
 number_nodes: 1457

@@ -1,6 +1,7 @@
 number: 008
 short_name: UltimaPatagonia
 status: clean
+issues: .nan
 type_of_correction: no correction
 original_format: Therion
 original_to_sql: therion --> 3d --> therion --> 3d --> sql
@@ -10,6 +11,7 @@ connected_components: multiple caves
 license: CC BY-NC-SA 4.0
 id_dataset: GH3
 comments_cave_info: .nan
+comments_cleaning: .nan
 full_name: Ultima Patagonia
 other_names: .nan
 type_dataset: Call for data
@@ -34,7 +36,8 @@ local_id: .nan
 local_coordinate_system: Local ?
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-latitude: -50.2946
+'share_coordinates ': public
+latitude: '-50.2946'
 longitude: -75.2895
 altitude: '141'
 length_official_meter: '39238'
@@ -42,6 +45,13 @@ length_dataset: .nan
 denivelation: .nan
 cave_url: https://grottocenter.org/ui/entrances/64835
 supplemental_links: .nan
+geology: limestone
+facies: 'limestone : tarlton '
+speleogenesis: epigenic
+speleogenesis additional context: paragenic / epigenic
+fracturation: unknown
+deformation: unknown
+deformation additional context: .nan
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -60,7 +70,8 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 16
 number_connected_components: 101
 number_nodes: 5447

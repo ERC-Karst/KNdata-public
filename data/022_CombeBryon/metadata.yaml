@@ -1,15 +1,17 @@
 number: '022'
 short_name: CombeBryon
 status: clean
+issues: .nan
 type_of_correction: manual correction
 original_format: Toporobot
 original_to_sql: TEXT --> tr2th --> therion -->  sql
-todo: .nan
+todo: surface points are flagged as duplicate
 length_approx_meter: 4158.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: JD
 comments_cave_info: JD intéressé par version therion
+comments_cleaning: .nan
 full_name: Réseau de la Combe du Bryon
 other_names: .nan
 type_dataset: Call for data
@@ -20,12 +22,12 @@ units: meter
 original_filename: Bryon-Reseau_utf8.Text
 original_encoding: CP 437
 crs_original_dataset: epsg:21781
-crs_clean_dataset: .nan
-crs_check: .nan
-crs_other: epsg:21781 (CH 1903 LV03 - Old)
+crs_clean_dataset: epsg:32632
+crs_check: from original file, verified on qgis
+crs_other: .nan
 country: Switzerland
 state: Vaud
-area: .nan
+area: Mont d'Or
 locality: Leysin
 grotto_id: '75515'
 country_cave_id: .nan
@@ -33,7 +35,8 @@ local_id: .nan
 local_coordinate_system: .nan
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-latitude: 46.3719
+'share_coordinates ': .nan
+latitude: '46.3719'
 longitude: 7.022
 altitude: '1711'
 length_official_meter: '4614'
@@ -41,6 +44,13 @@ length_dataset: .nan
 denivelation: '646'
 cave_url: https://grottocenter.org/ui/caves/75515
 supplemental_links: http://www.speleo-lausanne.ch/06_Activites/Explorations/Vd-alpes/Mayen-Famelon/Bryon/Reseau/_Reseau-Combe-Bryon.htm
+geology: limestone
+facies: 'limestone : ladinien'
+speleogenesis: epigenic
+speleogenesis additional context: epigenic
+fracturation: high
+deformation: heavily deformed
+deformation additional context: folded and heavily deformed - anticlinal (20-30)
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -58,7 +68,8 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 99
 number_connected_components: 1
 number_nodes: 606

@@ -1,7 +1,8 @@
 number: '056'
 short_name: ClydachGorge
-status: ready for cleaning
-type_of_correction: no correction
+status: clean
+issues: .nan
+type_of_correction: manual correction
 original_format: Survex
 original_to_sql: .3d --> therion --> sql
 todo: .nan
@@ -14,8 +15,9 @@ comments_cave_info: 'found the data in the temporaire folder in the karstnet dat
 
   comment in karstnet folder: Data obtained from: http://www.asheshouse.btinternet.co.uk/Cave_Survey_Data/Survex_Data_Files/Survex_Data_Files.htm
   , Nov 2011'
+comments_cleaning: .nan
 full_name: ClydachGorge
-other_names: .nan
+other_names: Ogof Capel + Ogof Draenen
 type_dataset: Karstnet DB
 all_data_format: Survex
 geometry: .nan
@@ -29,22 +31,30 @@ crs_check: verified on qgis
 crs_other: .nan
 country: UK
 state: Wales
-area: .nan
-locality: Clydach Valley, Llanelly, Monmothshire
-grotto_id: .nan
+area: ' Monmothshire'
+locality: Clydach Valley, Llanelly
+grotto_id: 70948 (Capel) 71006 (Draeren)
 country_cave_id: .nan
-local_id: .nan
-local_coordinate_system: .nan
+local_id: 'CCC: 839 (Capel) 853 (Draeren)'
+local_coordinate_system: '?'
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
-altitude: .nan
+'share_coordinates ': .nan
+latitude: '51.8065'
+longitude: -3.1377
+altitude: '219'
 length_official_meter: .nan
 length_dataset: .nan
 denivelation: .nan
-cave_url: .nan
-supplemental_links: .nan
+cave_url: https://grottocenter.org/ui/entrances/70948
+supplemental_links: http://www.sump4.com/downloads/
+geology: limestone / dolomite
+facies: 'limestone / dolomite : clydach'
+speleogenesis: polygenic
+speleogenesis additional context: .nan
+fracturation: medium
+deformation: tilted
+deformation additional context: .nan
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -62,10 +72,11 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 0
 number_connected_components: 3
-number_nodes: 384
-number_edges: 383
-number_cycles: 2
-total_length: 3221
+number_nodes: 379
+number_edges: 377
+number_cycles: 1
+total_length: 3197

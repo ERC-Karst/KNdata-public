@@ -1,17 +1,20 @@
 number: '001'
 short_name: GouffreDejaVu
 status: clean
+issues: .nan
 type_of_correction: no correction
 original_format: Therion
-type_dataset: Call for data
 original_to_sql: .nan
+todo: .nan
 length_approx_meter: 150.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: GH3
 comments_cave_info: This is a single cave that is part of "Ultima Patagonia cave system"
+comments_cleaning: .nan
 full_name: Gouffre Déjà Vu
 other_names: .nan
+type_dataset: Call for data
 all_data_format: Therion
 geometry: splays
 verify_geometry_export: .nan
@@ -32,6 +35,7 @@ local_id: .nan
 local_coordinate_system: .nan
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
+'share_coordinates ': unknown
 latitude: .nan
 longitude: .nan
 altitude: .nan
@@ -40,6 +44,13 @@ length_dataset: .nan
 denivelation: .nan
 cave_url: .nan
 supplemental_links: .nan
+geology: limestone
+facies: .nan
+speleogenesis: epigenic
+speleogenesis additional context: .nan
+fracturation: unknown
+deformation: unknown
+deformation additional context: .nan
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -58,7 +69,8 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 100
 number_connected_components: 1
 number_nodes: 33

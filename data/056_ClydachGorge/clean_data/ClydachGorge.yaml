@@ -1,19 +1,19 @@
 metadata:
   number: '056'
   short_name: ClydachGorge
-  status: ready for cleaning
-  type_of_correction: no correction
-  last_processing_date: 06 Jun 2025
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 08 Aug 2025
   license: CC BY-NC-SA 4.0
   citation: Unknown yet
   thanks: .nan
   sharing_conditions: .nan
-  total_length: 3221
+  total_length: 3197
   percentage_csidm: 0
   number_connected_components: 3
-  number_nodes: 384
-  number_edges: 383
-  number_cycles: 2
+  number_nodes: 379
+  number_edges: 377
+  number_cycles: 1
   original_format: Survex
   id_dataset: KN/SUMP4
   comments_cave_info: 'found the data in the temporaire folder in the karstnet database
@@ -26,17 +26,17 @@ metadata:
   units: meter
   country: UK
   state: Wales
-  area: .nan
-  locality: Clydach Valley, Llanelly, Monmothshire
-  grotto_id: .nan
+  area: ' Monmothshire'
+  locality: Clydach Valley, Llanelly
+  grotto_id: 70948 (Capel) 71006 (Draeren)
   country_cave_id: .nan
-  local_id: .nan
-  local_coordinate_system: .nan
-  latitude: .nan
-  longitude: .nan
-  altitude: .nan
-  cave_url: .nan
-  supplemental_links: .nan
+  local_id: 'CCC: 839 (Capel) 853 (Draeren)'
+  local_coordinate_system: '?'
+  latitude: '51.8065'
+  longitude: -3.1377
+  altitude: '219'
+  cave_url: https://grottocenter.org/ui/entrances/70948
+  supplemental_links: http://www.sump4.com/downloads/
   data_reception_date: .nan
   data_received_by: .nan
   start_contract: Nov 2012
@@ -515,32 +515,20 @@ edges:
   - 382
 - - 154
   - 367
-- - 321
-  - 118
 - - 180
   - 301
 - - 382
   - 94
 - - 367
   - 22
-- - 118
-  - 315
-- - 315
-  - 271
 - - 301
   - 200
 - - 301
   - 94
 - - 200
-  - 158
-- - 200
   - 66
-- - 158
-  - 27
 - - 66
   - 172
-- - 27
-  - 271
 - - 172
   - 148
 - - 148
@@ -1287,24 +1275,14 @@ node_attributes:
     - 242
     367:
     - 243
-    118:
-    - 233
-    315:
-    - 239
     301:
     - 234
     200:
     - 235
     94:
     - 241
-    158:
-    - 236
     66:
     - 245
-    27:
-    - 237
-    271:
-    - 238
     22:
     - 244
     172:
@@ -1585,775 +1563,772 @@ node_attributes:
     - 383
     350:
     - 384
-  fulladdress:
+  flags:
     268:
-    - ClydachGorge.caf1.1
+    - fix
     286:
-    - ClydachGorge.caf1.2
+    - fix
     160:
-    - ClydachGorge.caf1.3
+    - fix
     29:
-    - ClydachGorge.caf1.4
+    - fix
     300:
-    - ClydachGorge.caf1.5
+    - fix
     297:
-    - ClydachGorge.caf1.6
+    - fix
     141:
-    - ClydachGorge.caf1.7
+    - fix
     366:
-    - ClydachGorge.caf1.8
+    - fix
     304:
-    - ClydachGorge.caf1.9
+    - fix
     51:
-    - ClydachGorge.caf1.10
+    - fix
     155:
-    - ClydachGorge.caf1.11
+    - fix
     255:
-    - ClydachGorge.caf1.12
+    - fix
     120:
-    - ClydachGorge.caf1.13
+    - fix
     206:
-    - ClydachGorge.caf1.14
+    - fix
     73:
-    - ClydachGorge.caf1.15
+    - fix
     311:
-    - ClydachGorge.caf1.16
+    - fix
     96:
-    - ClydachGorge.caf1.17
+    - fix
     349:
-    - ClydachGorge.caf1.18
+    - fix
     333:
-    - ClydachGorge.caf1.19
+    - fix
     353:
-    - ClydachGorge.caf1.20
+    - fix
     235:
-    - ClydachGorge.caf1.21
+    - fix
     344:
-    - ClydachGorge.caf1.22
+    - fix
     372:
-    - ClydachGorge.caf1.23
+    - fix
     130:
-    - ClydachGorge.caf1.24
+    - fix
     215:
-    - ClydachGorge.caf1.25
+    - fix
     114:
-    - ClydachGorge.caf1.26
+    - fix
     188:
-    - ClydachGorge.caf1.27
+    - fix
     342:
-    - ClydachGorge.caf1.28
+    - fix
     119:
-    - ClydachGorge.caf1.29
+    - fix
     221:
-    - ClydachGorge.caf1.30
+    - fix
     360:
-    - ClydachGorge.caf1.31
+    - fix
     83:
-    - ClydachGorge.caf1.32
+    - fix
     328:
-    - ClydachGorge.caf1.33
+    - fix
     214:
-    - ClydachGorge.caf1.34
+    - fix
     183:
-    - ClydachGorge.caf1.35
+    - fix
     254:
-    - ClydachGorge.caf1.36
+    - fix
     0:
-    - ClydachGorge.caf1.37
+    - fix
     97:
-    - ClydachGorge.caf1.38
+    - fix
     149:
-    - ClydachGorge.caf1.39
+    - fix
     267:
-    - ClydachGorge.caf1.40
+    - fix
     266:
-    - ClydachGorge.caf1.41
+    - fix
     166:
-    - ClydachGorge.caf1.42
+    - fix
     52:
-    - ClydachGorge.caf1.43
+    - fix
     75:
-    - ClydachGorge.caf1.44
+    - fix
     322:
-    - ClydachGorge.caf1.45
+    - fix
     178:
-    - ClydachGorge.caf1.46
+    - fix
     225:
-    - ClydachGorge.caf1.47
+    - fix
     216:
-    - ClydachGorge.caf1.48
+    - fix
     98:
-    - ClydachGorge.caf1.49
+    - fix
     113:
-    - ClydachGorge.caf1.50
+    - fix
     87:
-    - ClydachGorge.caf1.51
+    - fix
     319:
-    - ClydachGorge.caf1.52
+    - fix
     106:
-    - ClydachGorge.caf1.53
+    - fix
     209:
-    - ClydachGorge.caf1.54
+    - fix
     135:
-    - ClydachGorge.caf1.55
+    - fix
     355:
-    - ClydachGorge.caf1.56
+    - fix
     202:
-    - ClydachGorge.caf1.57
+    - fix
     182:
-    - ClydachGorge.caf1.58
+    - fix
     7:
-    - ClydachGorge.caf1.59
+    - fix
     240:
-    - ClydachGorge.caf1.60
+    - fix
     236:
-    - ClydachGorge.caf1.61
+    - fix
     263:
-    - ClydachGorge.caf1.62
+    - fix
     59:
-    - ClydachGorge.caf1.63
+    - fix
     121:
-    - ClydachGorge.caf1.65
+    - fix
     331:
-    - ClydachGorge.caf1.66
+    - fix
     50:
-    - ClydachGorge.caf1.67
+    - fix
     245:
-    - ClydachGorge.caf1.68
+    - fix
     9:
-    - ClydachGorge.caf1.69
+    - fix
     170:
-    - ClydachGorge.caf1.70
+    - fix
     150:
-    - ClydachGorge.caf1.71
+    - fix
     43:
-    - ClydachGorge.caf1.72
+    - fix
     39:
-    - ClydachGorge.caf1.73
+    - fix
     136:
-    - ClydachGorge.caf1.74
+    - fix
     198:
-    - ClydachGorge.caf1.75
+    - fix
     239:
-    - ClydachGorge.caf1.76
+    - fix
     134:
-    - ClydachGorge.caf1.77
+    - fix
     365:
-    - ClydachGorge.caf1.78
+    - fix
     8:
-    - ClydachGorge.caf1.79
+    - fix
     173:
-    - ClydachGorge.caf1.80
+    - fix
     289:
-    - ClydachGorge.caf1.82
+    - fix
     337:
-    - ClydachGorge.caf1.83
+    - fix
     193:
-    - ClydachGorge.caf1.84
+    - fix
     99:
-    - ClydachGorge.caf1.85
+    - fix
     381:
-    - ClydachGorge.caf1.86
+    - fix
     175:
-    - ClydachGorge.caf1.87
+    - fix
     320:
-    - ClydachGorge.caf1.88
+    - fix
     63:
-    - ClydachGorge.caf1.89
+    - fix
     380:
-    - ClydachGorge.caf1.90
+    - fix
     23:
-    - ClydachGorge.caf1.91
+    - fix
     191:
-    - ClydachGorge.caf1.92
+    - fix
     226:
-    - ClydachGorge.caf1.93
+    - fix
     16:
-    - ClydachGorge.caf1.94
+    - fix
     45:
-    - ClydachGorge.caf1.95
+    - fix
     111:
-    - ClydachGorge.caf1.96
+    - fix
     241:
-    - ClydachGorge.caf1.97
+    - fix
     38:
-    - ClydachGorge.caf1.98
+    - fix
     186:
-    - ClydachGorge.caf1.99
+    - fix
     211:
-    - ClydachGorge.caf1.100
+    - fix
     290:
-    - ClydachGorge.caf1.101
+    - fix
     324:
-    - ClydachGorge.caf1.102
+    - fix
     31:
-    - ClydachGorge.caf1.103
+    - fix
     24:
-    - ClydachGorge.caf1.104
+    - fix
     232:
-    - ClydachGorge.caf1.105
+    - fix
     296:
-    - ClydachGorge.caf1.106
+    - fix
     375:
-    - ClydachGorge.caf1.107
+    - fix
     228:
-    - ClydachGorge.caf1.108
+    - fix
     70:
-    - ClydachGorge.caf1.109
+    - fix
     248:
-    - ClydachGorge.caf1.110
+    - fix
     49:
-    - ClydachGorge.caf1.111
+    - fix
     76:
-    - ClydachGorge.caf1.112
+    - fix
     57:
-    - ClydachGorge.caf1.113
+    - fix
     151:
-    - ClydachGorge.caf1.114
+    - fix
     48:
-    - ClydachGorge.caf1.115
+    - fix
     147:
-    - ClydachGorge.caf1.116
+    - fix
     364:
-    - ClydachGorge.caf1.117
+    - fix
     169:
-    - ClydachGorge.caf1.118
+    - fix
     88:
-    - ClydachGorge.caf1.119
+    - fix
     314:
-    - ClydachGorge.caf1.120
+    - fix
     126:
-    - ClydachGorge.caf1.121
+    - fix
     231:
-    - ClydachGorge.caf1.122
+    - fix
     192:
-    - ClydachGorge.caf1.123
+    - fix
     56:
-    - ClydachGorge.caf1.124
+    - fix
     58:
-    - ClydachGorge.caf1.125
+    - fix
     277:
-    - ClydachGorge.caf2.126
+    - fix
     253:
-    - ClydachGorge.caf2.127
+    - fix
     69:
-    - ClydachGorge.caf2.128
+    - fix
     373:
-    - ClydachGorge.caf2.129
+    - fix
     90:
-    - ClydachGorge.caf2.130
+    - fix
     325:
-    - ClydachGorge.caf2.131
+    - fix
     285:
-    - ClydachGorge.caf2.132
+    - fix
     2:
-    - ClydachGorge.caf2.133
+    - fix
     363:
-    - ClydachGorge.caf2.134
+    - fix
     109:
-    - ClydachGorge.caf2.135
+    - fix
     316:
-    - ClydachGorge.caf2.136
+    - fix
     107:
-    - ClydachGorge.caf2.137
+    - fix
     259:
-    - ClydachGorge.caf2.138
+    - fix
     72:
-    - ClydachGorge.caf2.139
+    - fix
     32:
-    - ClydachGorge.caf2.140
+    - fix
     30:
-    - ClydachGorge.caf2.141
+    - fix
     339:
-    - ClydachGorge.caf2.142
+    - fix
     347:
-    - ClydachGorge.caf2.143
+    - fix
     41:
-    - ClydachGorge.caf2.144
+    - fix
     233:
-    - ClydachGorge.caf2.145
+    - fix
     145:
-    - ClydachGorge.caf2.146
+    - fix
     361:
-    - ClydachGorge.caf2.147
+    - fix
     65:
-    - ClydachGorge.caf2.148
+    - fix
     179:
-    - ClydachGorge.caf2.149
+    - fix
     10:
-    - ClydachGorge.caf2.150
+    - fix
     14:
-    - ClydachGorge.caf2.151
+    - fix
     212:
-    - ClydachGorge.caf2.152
+    - fix
     378:
-    - ClydachGorge.caf2.153
+    - fix
     164:
-    - ClydachGorge.caf2.154
+    - fix
     302:
-    - ClydachGorge.caf2.155
+    - fix
     295:
-    - ClydachGorge.caf2.156
+    - fix
     323:
-    - ClydachGorge.caf2.157
+    - fix
     25:
-    - ClydachGorge.caf2.158
+    - fix
     377:
-    - ClydachGorge.caf2.159
+    - fix
     153:
-    - ClydachGorge.caf2.160
+    - fix
     345:
-    - ClydachGorge.caf2.161
+    - fix
     195:
-    - ClydachGorge.caf2.162
+    - fix
     371:
-    - ClydachGorge.caf2.163
+    - fix
     6:
-    - ClydachGorge.caf2.164
+    - fix
     112:
-    - ClydachGorge.caf2.165
+    - fix
     86:
-    - ClydachGorge.caf5.166
+    - fix
     125:
-    - ClydachGorge.caf2.167
+    - fix
     326:
-    - ClydachGorge.caf5.10
+    - fix
     104:
-    - ClydachGorge.caf2.168
+    - fix
     190:
-    - ClydachGorge.caf2.169
+    - fix
     26:
-    - ClydachGorge.caf2.170
+    - fix
     115:
-    - ClydachGorge.caf2.171
+    - fix
     11:
-    - ClydachGorge.caf2.172
+    - fix
     146:
-    - ClydachGorge.caf2.173
+    - fix
     262:
-    - ClydachGorge.caf2.174
+    - fix
     36:
-    - ClydachGorge.caf2.175
+    - fix
     217:
-    - ClydachGorge.caf2.176
+    - fix
     227:
-    - ClydachGorge.caf2.177
+    - fix
     243:
-    - ClydachGorge.caf2.178
+    - fix
     362:
-    - ClydachGorge.caf2.179
+    - fix
     74:
-    - ClydachGorge.caf2.180
+    - fix
     379:
-    - ClydachGorge.caf2.181
+    - fix
     93:
-    - ClydachGorge.caf2.182
+    - fix
     61:
-    - ClydachGorge.caf2.183
+    - fix
     81:
-    - ClydachGorge.caf2.184
+    - fix
     237:
-    - ClydachGorge.caf2.185
+    - fix
     269:
-    - ClydachGorge.caf2.186
+    - fix
     110:
-    - ClydachGorge.caf2.187
+    - fix
     89:
-    - ClydachGorge.caf2.188
+    - fix
     335:
-    - ClydachGorge.caf2.189
+    - fix
     278:
-    - ClydachGorge.caf2.190
+    - fix
     329:
-    - ClydachGorge.caf2.191
+    - fix
     159:
-    - ClydachGorge.caf2.192
+    - fix
     194:
-    - ClydachGorge.caf2.193
+    - fix
     128:
-    - ClydachGorge.caf2.194
+    - fix
     116:
-    - ClydachGorge.caf2.195
+    - fix
     368:
-    - ClydachGorge.caf2.196
+    - fix
     123:
-    - ClydachGorge.caf2.197
+    - fix
     308:
-    - ClydachGorge.caf2.198
+    - fix
     258:
-    - ClydachGorge.caf3.199
+    - fix
     54:
-    - ClydachGorge.caf3.200
+    - fix
     313:
-    - ClydachGorge.caf3.201
+    - fix
     303:
-    - ClydachGorge.caf3.202
+    - fix
     246:
-    - ClydachGorge.caf3.203
+    - fix
     357:
-    - ClydachGorge.caf3.204
+    - fix
     77:
-    - ClydachGorge.caf4.205
+    - fix
     332:
-    - ClydachGorge.caf3.206
+    - fix
     108:
-    - ClydachGorge.caf4.300
+    - fix
     298:
-    - ClydachGorge.caf3.207
+    - fix
     383:
-    - ClydachGorge.caf3.208
+    - fix
     309:
-    - ClydachGorge.caf3.209
+    - fix
     213:
-    - ClydachGorge.caf3.210
+    - fix
     37:
-    - ClydachGorge.caf3.211
+    - fix
     143:
-    - ClydachGorge.caf3.212
+    - fix
     84:
-    - ClydachGorge.caf3.213
+    - fix
     129:
-    - ClydachGorge.caf3.214
+    - fix
     219:
-    - ClydachGorge.caf4.301
+    - fix
     33:
-    - ClydachGorge.caf4.302
+    - fix
     343:
-    - ClydachGorge.caf4.303
+    - fix
     340:
-    - ClydachGorge.caf4.304
+    - fix
     71:
-    - ClydachGorge.caf4.305
+    - fix
     204:
-    - ClydachGorge.caf4.306
+    - fix
     283:
-    - ClydachGorge.caf5.11
+    - fix
     251:
-    - ClydachGorge.caf5.12
+    - fix
     60:
-    - ClydachGorge.caf5.13
+    - fix
     352:
-    - ClydachGorge.caf5.14
+    - fix
     199:
-    - ClydachGorge.caf5.15
+    - fix
     85:
-    - ClydachGorge.caf5.16
+    - fix
     137:
-    - ClydachGorge.caf5.17
+    - fix
     334:
-    - ClydachGorge.caf5.18
+    - fix
     359:
-    - ClydachGorge.caf5.19
+    - fix
     376:
-    - ClydachGorge.caf5.20
+    - fix
     154:
-    - ClydachGorge.capel.4001
+    - fix
     321:
-    - ClydachGorge.capel.4000
+    - fix
+    - ent
     180:
-    - ClydachGorge.capel.4005
+    - fix
     382:
-    - ClydachGorge.capel.4002
+    - fix
     367:
-    - ClydachGorge.capel.4006
-    118:
-    - ClydachGorge.capel.3000
-    315:
-    - ClydachGorge.capel.3001
+    - fix
     301:
-    - ClydachGorge.capel.4004
+    - fix
     200:
-    - ClydachGorge.capel.3005
+    - fix
     94:
-    - ClydachGorge.capel.4003
-    158:
-    - ClydachGorge.capel.3004
+    - fix
     66:
-    - ClydachGorge.capel.3006
-    27:
-    - ClydachGorge.capel.3003
-    271:
-    - ClydachGorge.capel.3002
+    - fix
     22:
-    - ClydachGorge.capel.4007
+    - fix
     172:
-    - ClydachGorge.capel.3007
+    - fix
     148:
-    - ClydachGorge.capel.3008
+    - fix
     218:
-    - ClydachGorge.capel.3009
+    - fix
     207:
-    - ClydachGorge.capel.3010
+    - fix
     338:
-    - ClydachGorge.capel.1
+    - fix
     256:
-    - ClydachGorge.capel.2
+    - fix
     310:
-    - ClydachGorge.capel.3
+    - fix
     139:
-    - ClydachGorge.capel.2001
+    - fix
     174:
-    - ClydachGorge.capel.4
+    - fix
     13:
-    - ClydachGorge.capel.5
+    - fix
     197:
-    - ClydachGorge.capel.6
+    - fix
     274:
-    - ClydachGorge.capel.7
+    - fix
     220:
-    - ClydachGorge.capel.8
+    - fix
     238:
-    - ClydachGorge.capel.9
+    - fix
     210:
-    - ClydachGorge.capel.10
+    - fix
     102:
-    - ClydachGorge.capel.11
+    - fix
     369:
-    - ClydachGorge.capel.12
+    - fix
     17:
-    - ClydachGorge.capel.13
+    - fix
     293:
-    - ClydachGorge.capel.14
+    - fix
     176:
-    - ClydachGorge.capel.15
+    - fix
     168:
-    - ClydachGorge.capel.5001
+    - fix
     68:
-    - ClydachGorge.capel.16
+    - fix
     131:
-    - ClydachGorge.capel.17
+    - fix
     279:
-    - ClydachGorge.capel.18
+    - fix
     34:
-    - ClydachGorge.capel.19
+    - fix
     35:
-    - ClydachGorge.capel.20
+    - fix
     260:
-    - ClydachGorge.capel.21
+    - fix
     161:
-    - ClydachGorge.capel.22
+    - fix
     44:
-    - ClydachGorge.capel.23
+    - fix
     224:
-    - ClydachGorge.capel.24
+    - fix
     312:
-    - ClydachGorge.capel.1001
+    - fix
     264:
-    - ClydachGorge.capel.25
+    - fix
     91:
-    - ClydachGorge.capel.1002
+    - fix
     42:
-    - ClydachGorge.capel.1003
+    - fix
     272:
-    - ClydachGorge.capel.1004
+    - fix
     299:
-    - ClydachGorge.capel.1005
+    - fix
     167:
-    - ClydachGorge.capel.1006
+    - fix
     306:
-    - ClydachGorge.capel.1007
+    - fix
     280:
-    - ClydachGorge.capel.1008
+    - fix
     78:
-    - ClydachGorge.capel.1009
+    - fix
     292:
-    - ClydachGorge.capel.1010
+    - fix
     55:
-    - ClydachGorge.capel.1011
+    - fix
     138:
-    - ClydachGorge.capel.1012
+    - fix
     275:
-    - ClydachGorge.capel.1013
+    - fix
     132:
-    - ClydachGorge.capel.1014
+    - fix
     47:
-    - ClydachGorge.capel.2002
+    - fix
     3:
-    - ClydachGorge.capel.5002
+    - fix
     318:
-    - ClydachGorge.capel.5003
+    - fix
     288:
-    - ClydachGorge.capel.26
+    - fix
     203:
-    - ClydachGorge.capel.27
+    - fix
     257:
-    - ClydachGorge.capel.28
+    - fix
     229:
-    - ClydachGorge.capel.29
+    - fix
     189:
-    - ClydachGorge.capel.30
+    - fix
     291:
-    - ClydachGorge.capel.31
+    - fix
     103:
-    - ClydachGorge.capel.32
+    - fix
     244:
-    - ClydachGorge.capel.33
+    - fix
     222:
-    - ClydachGorge.capel.34
+    - fix
     28:
-    - ClydachGorge.capel.35
+    - fix
     140:
-    - ClydachGorge.capel.36
+    - fix
     242:
-    - ClydachGorge.capel.37
+    - fix
     284:
-    - ClydachGorge.capel.38
+    - fix
     5:
-    - ClydachGorge.capel.39
+    - fix
     282:
-    - ClydachGorge.capel.40
+    - fix
     356:
-    - ClydachGorge.capel.42
+    - fix
     230:
-    - ClydachGorge.capel.41
+    - fix
     124:
-    - ClydachGorge.capel.43
+    - fix
     184:
-    - ClydachGorge.capel.44
+    - fix
     265:
-    - ClydachGorge.capel.45
+    - fix
     281:
-    - ClydachGorge.capel.46
+    - fix
     133:
-    - ClydachGorge.capel.47
+    - fix
     208:
-    - ClydachGorge.capel.48
+    - fix
     351:
-    - ClydachGorge.capel.49
+    - fix
     100:
-    - ClydachGorge.capel.50
+    - fix
     234:
-    - ClydachGorge.capel.51
+    - fix
     82:
-    - ClydachGorge.capel.52
+    - fix
     201:
-    - ClydachGorge.capel.53
+    - fix
     273:
-    - ClydachGorge.capel.54
+    - fix
     15:
-    - ClydachGorge.capel.55
+    - fix
     152:
-    - ClydachGorge.capel.56
+    - fix
     287:
-    - ClydachGorge.capel.57
+    - fix
     46:
-    - ClydachGorge.capel.58
+    - fix
     53:
-    - ClydachGorge.capel.59
+    - fix
     105:
-    - ClydachGorge.capel.60
+    - fix
     163:
-    - ClydachGorge.capel.61
+    - fix
     249:
-    - ClydachGorge.capel.62
+    - fix
     171:
-    - ClydachGorge.capel.63
+    - fix
     330:
-    - ClydachGorge.capel.64
+    - fix
     307:
-    - ClydachGorge.capel.65
+    - fix
     1:
-    - ClydachGorge.capel.66
+    - fix
     62:
-    - ClydachGorge.capel.67
+    - fix
     177:
-    - ClydachGorge.capel.68
+    - fix
     336:
-    - ClydachGorge.capel.69
+    - fix
     370:
-    - ClydachGorge.capel.70
+    - fix
     40:
-    - ClydachGorge.capel.71
+    - fix
     18:
-    - ClydachGorge.capel.72
+    - fix
     358:
-    - ClydachGorge.capel.73
+    - fix
     165:
-    - ClydachGorge.capel.74
+    - fix
     64:
-    - ClydachGorge.capel.75
+    - fix
     20:
-    - ClydachGorge.capel.76
+    - fix
     4:
-    - ClydachGorge.capel.77
+    - fix
     305:
-    - ClydachGorge.capel.78
+    - fix
     252:
-    - ClydachGorge.capel.79
+    - fix
     12:
-    - ClydachGorge.capel.80
+    - fix
     92:
-    - ClydachGorge.capel.81
+    - fix
     80:
-    - ClydachGorge.capel.82
+    - fix
     261:
-    - ClydachGorge.capel.83
+    - fix
     250:
-    - ClydachGorge.capel.84
+    - fix
     185:
-    - ClydachGorge.capel.85
+    - fix
     346:
-    - ClydachGorge.capel.86
+    - fix
     156:
-    - ClydachGorge.capel.87
+    - fix
     341:
-    - ClydachGorge.capel.88
+    - fix
     67:
-    - ClydachGorge.capel.89
+    - fix
     205:
-    - ClydachGorge.capel.90
+    - fix
     127:
-    - ClydachGorge.capel.91
+    - fix
     101:
-    - ClydachGorge.capel.92
+    - fix
     122:
-    - ClydachGorge.capel.93
+    - fix
     354:
-    - ClydachGorge.capel.94
+    - fix
     294:
-    - ClydachGorge.capel.95
+    - fix
     276:
-    - ClydachGorge.capel.96
+    - fix
     348:
-    - ClydachGorge.capel.97
+    - fix
     21:
-    - ClydachGorge.capel.98
+    - fix
     181:
-    - ClydachGorge.capel.105
+    - fix
     142:
-    - ClydachGorge.capel.106
+    - fix
     247:
-    - ClydachGorge.capel.107
+    - fix
     187:
-    - ClydachGorge.capel.108
+    - fix
     162:
-    - ClydachGorge.capel.109
+    - fix
     157:
-    - ClydachGorge.capel.110
+    - fix
     117:
-    - ClydachGorge.capel.119
+    - fix
     327:
-    - ClydachGorge.capel.120
+    - fix
     144:
-    - ClydachGorge.capel.121
+    - fix
     270:
-    - ClydachGorge.gelynnen.0
+    - fix
+    - ent
     223:
-    - ClydachGorge.gelynnen.1
+    - fix
     79:
-    - ClydachGorge.gelynnen.2
+    - fix
     95:
-    - ClydachGorge.gelynnen.3
+    - fix
     196:
-    - ClydachGorge.gelynnen.4
+    - fix
     317:
-    - ClydachGorge.gelynnen.5
+    - fix
     374:
-    - ClydachGorge.gelynnen.6
+    - fix
     19:
-    - ClydachGorge.gelynnen.7
+    - fix
     350:
-    - ClydachGorge.gelynnen.8
+    - fix
+  comments:
+    321:
+    - Ogof Capel
+    270:
+    - Gelynmen
   pos:
     268:
     - 490857.28
@@ -3295,14 +3270,6 @@ node_attributes:
     - 490504.83
     - 5739531.58
     - 220.52
-    118:
-    - 490506.23
-    - 5739522.96
-    - 219.5
-    315:
-    - 490501.23
-    - 5739528.03
-    - 220.03
     301:
     - 490491.55
     - 5739528.45
@@ -3315,22 +3282,10 @@ node_attributes:
     - 490494.0
     - 5739525.5
     - 220.05
-    158:
-    - 490491.32
-    - 5739526.91
-    - 220.11
     66:
     - 490491.54
     - 5739528.46
     - 219.16
-    27:
-    - 490491.31
-    - 5739526.92
-    - 221.34
-    271:
-    - 490497.09
-    - 5739522.66
-    - 220.29
     22:
     - 490503.26
     - 5739536.48
@@ -3891,772 +3846,762 @@ node_attributes:
     - 490502.21
     - 5739555.93
     - 226.08
-  flags:
+  fulladdress:
     268:
-    - fix
+    - ClydachGorge.caf1.1
     286:
-    - fix
+    - ClydachGorge.caf1.2
     160:
-    - fix
+    - ClydachGorge.caf1.3
     29:
-    - fix
+    - ClydachGorge.caf1.4
     300:
-    - fix
+    - ClydachGorge.caf1.5
     297:
-    - fix
+    - ClydachGorge.caf1.6
     141:
-    - fix
+    - ClydachGorge.caf1.7
     366:
-    - fix
+    - ClydachGorge.caf1.8
     304:
-    - fix
+    - ClydachGorge.caf1.9
     51:
-    - fix
+    - ClydachGorge.caf1.10
     155:
-    - fix
+    - ClydachGorge.caf1.11
     255:
-    - fix
+    - ClydachGorge.caf1.12
     120:
-    - fix
+    - ClydachGorge.caf1.13
     206:
-    - fix
+    - ClydachGorge.caf1.14
     73:
-    - fix
+    - ClydachGorge.caf1.15
     311:
-    - fix
+    - ClydachGorge.caf1.16
     96:
-    - fix
+    - ClydachGorge.caf1.17
     349:
-    - fix
+    - ClydachGorge.caf1.18
     333:
-    - fix
+    - ClydachGorge.caf1.19
     353:
-    - fix
+    - ClydachGorge.caf1.20
     235:
-    - fix
+    - ClydachGorge.caf1.21
     344:
-    - fix
+    - ClydachGorge.caf1.22
     372:
-    - fix
+    - ClydachGorge.caf1.23
     130:
-    - fix
+    - ClydachGorge.caf1.24
     215:
-    - fix
+    - ClydachGorge.caf1.25
     114:
-    - fix
+    - ClydachGorge.caf1.26
     188:
-    - fix
+    - ClydachGorge.caf1.27
     342:
-    - fix
+    - ClydachGorge.caf1.28
     119:
-    - fix
+    - ClydachGorge.caf1.29
     221:
-    - fix
+    - ClydachGorge.caf1.30
     360:
-    - fix
+    - ClydachGorge.caf1.31
     83:
-    - fix
+    - ClydachGorge.caf1.32
     328:
-    - fix
+    - ClydachGorge.caf1.33
     214:
-    - fix
+    - ClydachGorge.caf1.34
     183:
-    - fix
+    - ClydachGorge.caf1.35
     254:
-    - fix
+    - ClydachGorge.caf1.36
     0:
-    - fix
+    - ClydachGorge.caf1.37
     97:
-    - fix
+    - ClydachGorge.caf1.38
     149:
-    - fix
+    - ClydachGorge.caf1.39
     267:
-    - fix
+    - ClydachGorge.caf1.40
     266:
-    - fix
+    - ClydachGorge.caf1.41
     166:
-    - fix
+    - ClydachGorge.caf1.42
     52:
-    - fix
+    - ClydachGorge.caf1.43
     75:
-    - fix
+    - ClydachGorge.caf1.44
     322:
-    - fix
+    - ClydachGorge.caf1.45
     178:
-    - fix
+    - ClydachGorge.caf1.46
     225:
-    - fix
+    - ClydachGorge.caf1.47
     216:
-    - fix
+    - ClydachGorge.caf1.48
     98:
-    - fix
+    - ClydachGorge.caf1.49
     113:
-    - fix
+    - ClydachGorge.caf1.50
     87:
-    - fix
+    - ClydachGorge.caf1.51
     319:
-    - fix
+    - ClydachGorge.caf1.52
     106:
-    - fix
+    - ClydachGorge.caf1.53
     209:
-    - fix
+    - ClydachGorge.caf1.54
     135:
-    - fix
+    - ClydachGorge.caf1.55
     355:
-    - fix
+    - ClydachGorge.caf1.56
     202:
-    - fix
+    - ClydachGorge.caf1.57
     182:
-    - fix
+    - ClydachGorge.caf1.58
     7:
-    - fix
+    - ClydachGorge.caf1.59
     240:
-    - fix
+    - ClydachGorge.caf1.60
     236:
-    - fix
+    - ClydachGorge.caf1.61
     263:
-    - fix
+    - ClydachGorge.caf1.62
     59:
-    - fix
+    - ClydachGorge.caf1.63
     121:
-    - fix
+    - ClydachGorge.caf1.65
     331:
-    - fix
+    - ClydachGorge.caf1.66
     50:
-    - fix
+    - ClydachGorge.caf1.67
     245:
-    - fix
+    - ClydachGorge.caf1.68
     9:
-    - fix
+    - ClydachGorge.caf1.69
     170:
-    - fix
+    - ClydachGorge.caf1.70
     150:
-    - fix
+    - ClydachGorge.caf1.71
     43:
-    - fix
+    - ClydachGorge.caf1.72
     39:
-    - fix
+    - ClydachGorge.caf1.73
     136:
-    - fix
+    - ClydachGorge.caf1.74
     198:
-    - fix
+    - ClydachGorge.caf1.75
     239:
-    - fix
+    - ClydachGorge.caf1.76
     134:
-    - fix
+    - ClydachGorge.caf1.77
     365:
-    - fix
+    - ClydachGorge.caf1.78
     8:
-    - fix
+    - ClydachGorge.caf1.79
     173:
-    - fix
+    - ClydachGorge.caf1.80
     289:
-    - fix
+    - ClydachGorge.caf1.82
     337:
-    - fix
+    - ClydachGorge.caf1.83
     193:
-    - fix
+    - ClydachGorge.caf1.84
     99:
-    - fix
+    - ClydachGorge.caf1.85
     381:
-    - fix
+    - ClydachGorge.caf1.86
     175:
-    - fix
+    - ClydachGorge.caf1.87
     320:
-    - fix
+    - ClydachGorge.caf1.88
     63:
-    - fix
+    - ClydachGorge.caf1.89
     380:
-    - fix
+    - ClydachGorge.caf1.90
     23:
-    - fix
+    - ClydachGorge.caf1.91
     191:
-    - fix
+    - ClydachGorge.caf1.92
     226:
-    - fix
+    - ClydachGorge.caf1.93
     16:
-    - fix
+    - ClydachGorge.caf1.94
     45:
-    - fix
+    - ClydachGorge.caf1.95
     111:
-    - fix
+    - ClydachGorge.caf1.96
     241:
-    - fix
+    - ClydachGorge.caf1.97
     38:
-    - fix
+    - ClydachGorge.caf1.98
     186:
-    - fix
+    - ClydachGorge.caf1.99
     211:
-    - fix
+    - ClydachGorge.caf1.100
     290:
-    - fix
+    - ClydachGorge.caf1.101
     324:
-    - fix
+    - ClydachGorge.caf1.102
     31:
-    - fix
+    - ClydachGorge.caf1.103
     24:
-    - fix
+    - ClydachGorge.caf1.104
     232:
-    - fix
+    - ClydachGorge.caf1.105
     296:
-    - fix
+    - ClydachGorge.caf1.106
     375:
-    - fix
+    - ClydachGorge.caf1.107
     228:
-    - fix
+    - ClydachGorge.caf1.108
     70:
-    - fix
+    - ClydachGorge.caf1.109
     248:
-    - fix
+    - ClydachGorge.caf1.110
     49:
-    - fix
+    - ClydachGorge.caf1.111
     76:
-    - fix
+    - ClydachGorge.caf1.112
     57:
-    - fix
+    - ClydachGorge.caf1.113
     151:
-    - fix
+    - ClydachGorge.caf1.114
     48:
-    - fix
+    - ClydachGorge.caf1.115
     147:
-    - fix
+    - ClydachGorge.caf1.116
     364:
-    - fix
+    - ClydachGorge.caf1.117
     169:
-    - fix
+    - ClydachGorge.caf1.118
     88:
-    - fix
+    - ClydachGorge.caf1.119
     314:
-    - fix
+    - ClydachGorge.caf1.120
     126:
-    - fix
+    - ClydachGorge.caf1.121
     231:
-    - fix
+    - ClydachGorge.caf1.122
     192:
-    - fix
+    - ClydachGorge.caf1.123
     56:
-    - fix
+    - ClydachGorge.caf1.124
     58:
-    - fix
+    - ClydachGorge.caf1.125
     277:
-    - fix
+    - ClydachGorge.caf2.126
     253:
-    - fix
+    - ClydachGorge.caf2.127
     69:
-    - fix
+    - ClydachGorge.caf2.128
     373:
-    - fix
+    - ClydachGorge.caf2.129
     90:
-    - fix
+    - ClydachGorge.caf2.130
     325:
-    - fix
+    - ClydachGorge.caf2.131
     285:
-    - fix
+    - ClydachGorge.caf2.132
     2:
-    - fix
+    - ClydachGorge.caf2.133
     363:
-    - fix
+    - ClydachGorge.caf2.134
     109:
-    - fix
+    - ClydachGorge.caf2.135
     316:
-    - fix
+    - ClydachGorge.caf2.136
     107:
-    - fix
+    - ClydachGorge.caf2.137
     259:
-    - fix
+    - ClydachGorge.caf2.138
     72:
-    - fix
+    - ClydachGorge.caf2.139
     32:
-    - fix
+    - ClydachGorge.caf2.140
     30:
-    - fix
+    - ClydachGorge.caf2.141
     339:
-    - fix
+    - ClydachGorge.caf2.142
     347:
-    - fix
+    - ClydachGorge.caf2.143
     41:
-    - fix
+    - ClydachGorge.caf2.144
     233:
-    - fix
+    - ClydachGorge.caf2.145
     145:
-    - fix
+    - ClydachGorge.caf2.146
     361:
-    - fix
+    - ClydachGorge.caf2.147
     65:
-    - fix
+    - ClydachGorge.caf2.148
     179:
-    - fix
+    - ClydachGorge.caf2.149
     10:
-    - fix
+    - ClydachGorge.caf2.150
     14:
-    - fix
+    - ClydachGorge.caf2.151
     212:
-    - fix
+    - ClydachGorge.caf2.152
     378:
-    - fix
+    - ClydachGorge.caf2.153
     164:
-    - fix
+    - ClydachGorge.caf2.154
     302:
-    - fix
+    - ClydachGorge.caf2.155
     295:
-    - fix
+    - ClydachGorge.caf2.156
     323:
-    - fix
+    - ClydachGorge.caf2.157
     25:
-    - fix
+    - ClydachGorge.caf2.158
     377:
-    - fix
+    - ClydachGorge.caf2.159
     153:
-    - fix
+    - ClydachGorge.caf2.160
     345:
-    - fix
+    - ClydachGorge.caf2.161
     195:
-    - fix
+    - ClydachGorge.caf2.162
     371:
-    - fix
+    - ClydachGorge.caf2.163
     6:
-    - fix
+    - ClydachGorge.caf2.164
     112:
-    - fix
+    - ClydachGorge.caf2.165
     86:
-    - fix
+    - ClydachGorge.caf5.166
     125:
-    - fix
+    - ClydachGorge.caf2.167
     326:
-    - fix
+    - ClydachGorge.caf5.10
     104:
-    - fix
+    - ClydachGorge.caf2.168
     190:
-    - fix
+    - ClydachGorge.caf2.169
     26:
-    - fix
+    - ClydachGorge.caf2.170
     115:
-    - fix
+    - ClydachGorge.caf2.171
     11:
-    - fix
+    - ClydachGorge.caf2.172
     146:
-    - fix
+    - ClydachGorge.caf2.173
     262:
-    - fix
+    - ClydachGorge.caf2.174
     36:
-    - fix
+    - ClydachGorge.caf2.175
     217:
-    - fix
+    - ClydachGorge.caf2.176
     227:
-    - fix
+    - ClydachGorge.caf2.177
     243:
-    - fix
+    - ClydachGorge.caf2.178
     362:
-    - fix
+    - ClydachGorge.caf2.179
     74:
-    - fix
+    - ClydachGorge.caf2.180
     379:
-    - fix
+    - ClydachGorge.caf2.181
     93:
-    - fix
+    - ClydachGorge.caf2.182
     61:
-    - fix
+    - ClydachGorge.caf2.183
     81:
-    - fix
+    - ClydachGorge.caf2.184
     237:
-    - fix
+    - ClydachGorge.caf2.185
     269:
-    - fix
+    - ClydachGorge.caf2.186
     110:
-    - fix
+    - ClydachGorge.caf2.187
     89:
-    - fix
+    - ClydachGorge.caf2.188
     335:
-    - fix
+    - ClydachGorge.caf2.189
     278:
-    - fix
+    - ClydachGorge.caf2.190
     329:
-    - fix
+    - ClydachGorge.caf2.191
     159:
-    - fix
+    - ClydachGorge.caf2.192
     194:
-    - fix
+    - ClydachGorge.caf2.193
     128:
-    - fix
+    - ClydachGorge.caf2.194
     116:
-    - fix
+    - ClydachGorge.caf2.195
     368:
-    - fix
+    - ClydachGorge.caf2.196
     123:
-    - fix
+    - ClydachGorge.caf2.197
     308:
-    - fix
+    - ClydachGorge.caf2.198
     258:
-    - fix
+    - ClydachGorge.caf3.199
     54:
-    - fix
+    - ClydachGorge.caf3.200
     313:
-    - fix
+    - ClydachGorge.caf3.201
     303:
-    - fix
+    - ClydachGorge.caf3.202
     246:
-    - fix
+    - ClydachGorge.caf3.203
     357:
-    - fix
+    - ClydachGorge.caf3.204
     77:
-    - fix
+    - ClydachGorge.caf4.205
     332:
-    - fix
+    - ClydachGorge.caf3.206
     108:
-    - fix
+    - ClydachGorge.caf4.300
     298:
-    - fix
+    - ClydachGorge.caf3.207
     383:
-    - fix
+    - ClydachGorge.caf3.208
     309:
-    - fix
+    - ClydachGorge.caf3.209
     213:
-    - fix
+    - ClydachGorge.caf3.210
     37:
-    - fix
+    - ClydachGorge.caf3.211
     143:
-    - fix
+    - ClydachGorge.caf3.212
     84:
-    - fix
+    - ClydachGorge.caf3.213
     129:
-    - fix
+    - ClydachGorge.caf3.214
     219:
-    - fix
+    - ClydachGorge.caf4.301
     33:
-    - fix
+    - ClydachGorge.caf4.302
     343:
-    - fix
+    - ClydachGorge.caf4.303
     340:
-    - fix
+    - ClydachGorge.caf4.304
     71:
-    - fix
+    - ClydachGorge.caf4.305
     204:
-    - fix
+    - ClydachGorge.caf4.306
     283:
-    - fix
+    - ClydachGorge.caf5.11
     251:
-    - fix
+    - ClydachGorge.caf5.12
     60:
-    - fix
+    - ClydachGorge.caf5.13
     352:
-    - fix
+    - ClydachGorge.caf5.14
     199:
-    - fix
+    - ClydachGorge.caf5.15
     85:
-    - fix
+    - ClydachGorge.caf5.16
     137:
-    - fix
+    - ClydachGorge.caf5.17
     334:
-    - fix
+    - ClydachGorge.caf5.18
     359:
-    - fix
+    - ClydachGorge.caf5.19
     376:
-    - fix
+    - ClydachGorge.caf5.20
     154:
-    - fix
+    - ClydachGorge.capel.4001
     321:
-    - fix
+    - ClydachGorge.capel.4000
     180:
-    - fix
+    - ClydachGorge.capel.4005
     382:
-    - fix
+    - ClydachGorge.capel.4002
     367:
-    - fix
-    118:
-    - fix
-    315:
-    - fix
+    - ClydachGorge.capel.4006
     301:
-    - fix
+    - ClydachGorge.capel.4004
     200:
-    - fix
+    - ClydachGorge.capel.3005
     94:
-    - fix
-    158:
-    - fix
+    - ClydachGorge.capel.4003
     66:
-    - fix
-    27:
-    - fix
-    271:
-    - fix
+    - ClydachGorge.capel.3006
     22:
-    - fix
+    - ClydachGorge.capel.4007
     172:
-    - fix
+    - ClydachGorge.capel.3007
     148:
-    - fix
+    - ClydachGorge.capel.3008
     218:
-    - fix
+    - ClydachGorge.capel.3009
     207:
-    - fix
+    - ClydachGorge.capel.3010
     338:
-    - fix
+    - ClydachGorge.capel.1
     256:
-    - fix
+    - ClydachGorge.capel.2
     310:
-    - fix
+    - ClydachGorge.capel.3
     139:
-    - fix
+    - ClydachGorge.capel.2001
     174:
-    - fix
+    - ClydachGorge.capel.4
     13:
-    - fix
+    - ClydachGorge.capel.5
     197:
-    - fix
+    - ClydachGorge.capel.6
     274:
-    - fix
+    - ClydachGorge.capel.7
     220:
-    - fix
+    - ClydachGorge.capel.8
     238:
-    - fix
+    - ClydachGorge.capel.9
     210:
-    - fix
+    - ClydachGorge.capel.10
     102:
-    - fix
+    - ClydachGorge.capel.11
     369:
-    - fix
+    - ClydachGorge.capel.12
     17:
-    - fix
+    - ClydachGorge.capel.13
     293:
-    - fix
+    - ClydachGorge.capel.14
     176:
-    - fix
+    - ClydachGorge.capel.15
     168:
-    - fix
+    - ClydachGorge.capel.5001
     68:
-    - fix
+    - ClydachGorge.capel.16
     131:
-    - fix
+    - ClydachGorge.capel.17
     279:
-    - fix
+    - ClydachGorge.capel.18
     34:
-    - fix
+    - ClydachGorge.capel.19
     35:
-    - fix
+    - ClydachGorge.capel.20
     260:
-    - fix
+    - ClydachGorge.capel.21
     161:
-    - fix
+    - ClydachGorge.capel.22
     44:
-    - fix
+    - ClydachGorge.capel.23
     224:
-    - fix
+    - ClydachGorge.capel.24
     312:
-    - fix
+    - ClydachGorge.capel.1001
     264:
-    - fix
+    - ClydachGorge.capel.25
     91:
-    - fix
+    - ClydachGorge.capel.1002
     42:
-    - fix
+    - ClydachGorge.capel.1003
     272:
-    - fix
+    - ClydachGorge.capel.1004
     299:
-    - fix
+    - ClydachGorge.capel.1005
     167:
-    - fix
+    - ClydachGorge.capel.1006
     306:
-    - fix
+    - ClydachGorge.capel.1007
     280:
-    - fix
+    - ClydachGorge.capel.1008
     78:
-    - fix
+    - ClydachGorge.capel.1009
     292:
-    - fix
+    - ClydachGorge.capel.1010
     55:
-    - fix
+    - ClydachGorge.capel.1011
     138:
-    - fix
+    - ClydachGorge.capel.1012
     275:
-    - fix
+    - ClydachGorge.capel.1013
     132:
-    - fix
+    - ClydachGorge.capel.1014
     47:
-    - fix
+    - ClydachGorge.capel.2002
     3:
-    - fix
+    - ClydachGorge.capel.5002
     318:
-    - fix
+    - ClydachGorge.capel.5003
     288:
-    - fix
+    - ClydachGorge.capel.26
     203:
-    - fix
+    - ClydachGorge.capel.27
     257:
-    - fix
+    - ClydachGorge.capel.28
     229:
-    - fix
+    - ClydachGorge.capel.29
     189:
-    - fix
+    - ClydachGorge.capel.30
     291:
-    - fix
+    - ClydachGorge.capel.31
     103:
-    - fix
+    - ClydachGorge.capel.32
     244:
-    - fix
+    - ClydachGorge.capel.33
     222:
-    - fix
+    - ClydachGorge.capel.34
     28:
-    - fix
+    - ClydachGorge.capel.35
     140:
-    - fix
+    - ClydachGorge.capel.36
     242:
-    - fix
+    - ClydachGorge.capel.37
     284:
-    - fix
+    - ClydachGorge.capel.38
     5:
-    - fix
+    - ClydachGorge.capel.39
     282:
-    - fix
+    - ClydachGorge.capel.40
     356:
-    - fix
+    - ClydachGorge.capel.42
     230:
-    - fix
+    - ClydachGorge.capel.41
     124:
-    - fix
+    - ClydachGorge.capel.43
     184:
-    - fix
+    - ClydachGorge.capel.44
     265:
-    - fix
+    - ClydachGorge.capel.45
     281:
-    - fix
+    - ClydachGorge.capel.46
     133:
-    - fix
+    - ClydachGorge.capel.47
     208:
-    - fix
+    - ClydachGorge.capel.48
     351:
-    - fix
+    - ClydachGorge.capel.49
     100:
-    - fix
+    - ClydachGorge.capel.50
     234:
-    - fix
+    - ClydachGorge.capel.51
     82:
-    - fix
+    - ClydachGorge.capel.52
     201:
-    - fix
+    - ClydachGorge.capel.53
     273:
-    - fix
+    - ClydachGorge.capel.54
     15:
-    - fix
+    - ClydachGorge.capel.55
     152:
-    - fix
+    - ClydachGorge.capel.56
     287:
-    - fix
+    - ClydachGorge.capel.57
     46:
-    - fix
+    - ClydachGorge.capel.58
     53:
-    - fix
+    - ClydachGorge.capel.59
     105:
-    - fix
+    - ClydachGorge.capel.60
     163:
-    - fix
+    - ClydachGorge.capel.61
     249:
-    - fix
+    - ClydachGorge.capel.62
     171:
-    - fix
+    - ClydachGorge.capel.63
     330:
-    - fix
+    - ClydachGorge.capel.64
     307:
-    - fix
+    - ClydachGorge.capel.65
     1:
-    - fix
+    - ClydachGorge.capel.66
     62:
-    - fix
+    - ClydachGorge.capel.67
     177:
-    - fix
+    - ClydachGorge.capel.68
     336:
-    - fix
+    - ClydachGorge.capel.69
     370:
-    - fix
+    - ClydachGorge.capel.70
     40:
-    - fix
+    - ClydachGorge.capel.71
     18:
-    - fix
+    - ClydachGorge.capel.72
     358:
-    - fix
+    - ClydachGorge.capel.73
     165:
-    - fix
+    - ClydachGorge.capel.74
     64:
-    - fix
+    - ClydachGorge.capel.75
     20:
-    - fix
+    - ClydachGorge.capel.76
     4:
-    - fix
+    - ClydachGorge.capel.77
     305:
-    - fix
+    - ClydachGorge.capel.78
     252:
-    - fix
+    - ClydachGorge.capel.79
     12:
-    - fix
+    - ClydachGorge.capel.80
     92:
-    - fix
+    - ClydachGorge.capel.81
     80:
-    - fix
+    - ClydachGorge.capel.82
     261:
-    - fix
+    - ClydachGorge.capel.83
     250:
-    - fix
+    - ClydachGorge.capel.84
     185:
-    - fix
+    - ClydachGorge.capel.85
     346:
-    - fix
+    - ClydachGorge.capel.86
     156:
-    - fix
+    - ClydachGorge.capel.87
     341:
-    - fix
+    - ClydachGorge.capel.88
     67:
-    - fix
+    - ClydachGorge.capel.89
     205:
-    - fix
+    - ClydachGorge.capel.90
     127:
-    - fix
+    - ClydachGorge.capel.91
     101:
-    - fix
+    - ClydachGorge.capel.92
     122:
-    - fix
+    - ClydachGorge.capel.93
     354:
-    - fix
+    - ClydachGorge.capel.94
     294:
-    - fix
+    - ClydachGorge.capel.95
     276:
-    - fix
+    - ClydachGorge.capel.96
     348:
-    - fix
+    - ClydachGorge.capel.97
     21:
-    - fix
+    - ClydachGorge.capel.98
     181:
-    - fix
+    - ClydachGorge.capel.105
     142:
-    - fix
+    - ClydachGorge.capel.106
     247:
-    - fix
+    - ClydachGorge.capel.107
     187:
-    - fix
+    - ClydachGorge.capel.108
     162:
-    - fix
+    - ClydachGorge.capel.109
     157:
-    - fix
+    - ClydachGorge.capel.110
     117:
-    - fix
+    - ClydachGorge.capel.119
     327:
-    - fix
+    - ClydachGorge.capel.120
     144:
-    - fix
+    - ClydachGorge.capel.121
     270:
-    - fix
+    - ClydachGorge.gelynnen.0
     223:
-    - fix
+    - ClydachGorge.gelynnen.1
     79:
-    - fix
+    - ClydachGorge.gelynnen.2
     95:
-    - fix
+    - ClydachGorge.gelynnen.3
     196:
-    - fix
+    - ClydachGorge.gelynnen.4
     317:
-    - fix
+    - ClydachGorge.gelynnen.5
     374:
-    - fix
+    - ClydachGorge.gelynnen.6
     19:
-    - fix
+    - ClydachGorge.gelynnen.7
     350:
-    - fix
+    - ClydachGorge.gelynnen.8

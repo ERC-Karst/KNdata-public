@@ -1,17 +1,20 @@
 number: 029
 short_name: RougeEau
 status: clean
+issues: .nan
 type_of_correction: no correction
 original_format: Toporobot
-type_dataset: Call for data
 original_to_sql: TEXT --> tr2th --> therion -->  sql
+todo: .nan
 length_approx_meter: 655.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: LS
 comments_cave_info: .nan
+comments_cleaning: .nan
 full_name: Gouffre de la Rouge-Eau
 other_names: .nan
+type_dataset: Call for data
 all_data_format: Toporobot, Visual Topo
 geometry: lrud
 verify_geometry_export: .nan
@@ -32,7 +35,8 @@ local_id: .nan
 local_coordinate_system: CH1903/LV03
 local_easting_coordinate: '580720'
 local_northing_coordinate: '233470'
-latitude: 47.2516
+'share_coordinates ': public
+latitude: '47.2516'
 longitude: 7.1838
 altitude: '137'
 length_official_meter: '825'
@@ -40,6 +44,13 @@ length_dataset: .nan
 denivelation: '137'
 cave_url: https://grottocenter.org/ui/entrances/5497
 supplemental_links: .nan
+geology: limestone
+facies: 'limestone : portlandien'
+speleogenesis: polygenic
+speleogenesis additional context: hypogenic / phreatic - epigenic
+fracturation: negligeable
+deformation: tilted
+deformation additional context: tilted (45)
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -57,8 +68,9 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
-percentage_csidm: 85
+Column 62: .nan
+last_processing_date: 08 Aug 2025
+percentage_csidm: 98
 number_connected_components: 1
 number_nodes: 138
 number_edges: 137

@@ -1,9 +1,9 @@
 metadata:
   number: '035'
   short_name: EastKingsdale
-  status: in github (cleaning in progress)
+  status: clean
   type_of_correction: no correction
-  last_processing_date: 06 Jun 2025
+  last_processing_date: 08 Aug 2025
   license: To confirm
   citation: Unknown yet
   thanks: .nan
@@ -20,18 +20,19 @@ metadata:
   full_name: East Kingsdale
   geometry: .nan
   units: meter
-  country: UK
-  state: .nan
-  area: .nan
-  locality: .nan
-  grotto_id: .nan
+  country: England
+  state: Yorkshire and the Humber
+  area: Carnforth
+  locality: Ingleton
+  grotto_id: 31908 (Crescent) 31907 (Illusion) 31910 (King)
   country_cave_id: .nan
-  local_id: .nan
-  local_coordinate_system: .nan
-  latitude: .nan
-  longitude: .nan
-  altitude: .nan
-  cave_url: .nan
+  local_id: 1523 (Crescent), 1533 (Illusion) (Northern Caves), 1534 (King) (Northern
+    Caves)
+  local_coordinate_system: OSGB:SD
+  latitude: '54.1811'
+  longitude: -2.46114
+  altitude: '292'
+  cave_url: https://grottocenter.org/ui/entrances/31907
   supplemental_links: .nan
   data_reception_date: .nan
   data_received_by: .nan
@@ -1131,6 +1132,7 @@ node_attributes:
     - fix
     8:
     - fix
+    - ent
     106:
     - fix
     67:
@@ -1431,6 +1433,9 @@ node_attributes:
     - fix
     33:
     - fix
+  comments:
+    8:
+    - Crescent and King Pot
   pos:
     119:
     - 926471.78

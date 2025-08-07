@@ -1,17 +1,20 @@
 number: '005'
 short_name: Sakany
 status: clean
+issues: .nan
 type_of_correction: manual correction
 original_format: GHTopo
-type_dataset: Online
 original_to_sql: ghtopo --> TEXT --> tr2th --> therion -->  sql
+todo: .nan
 length_approx_meter: 6793.0
 connected_components: multiple caves
 license: unclear. may not be sharable
 id_dataset: GTO/KN
 comments_cave_info: .nan
+comments_cleaning: .nan
 full_name: Reseau Sakany
 other_names: .nan
+type_dataset: Online
 all_data_format: GHTopo
 geometry: lrud
 verify_geometry_export: .nan
@@ -32,7 +35,8 @@ local_id: .nan
 local_coordinate_system: EPSG:27573
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-latitude: 42.8359
+'share_coordinates ': public
+latitude: '42.8359'
 longitude: 1.5959
 altitude: '138'
 length_official_meter: '6296'
@@ -40,6 +44,13 @@ length_dataset: .nan
 denivelation: '138 (Amoureux) 138 (Sakany) 138 (Sakanette) 138 (Echelles) '
 cave_url: https://grottocenter.org/ui/caves/75318
 supplemental_links: http://lecrad.free.fr/Topos/bdd_topos/sakany.htm
+geology: limestone
+facies: 'limestone : urgo-aptien'
+speleogenesis: polygenic
+speleogenesis additional context: phreatic / hypogene / paragenetic / hydrothermal
+fracturation: unknown
+deformation: tilted
+deformation additional context: titled (25-30)
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -61,10 +72,11 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
-percentage_csidm: 82
-number_connected_components: 11
-number_nodes: 1770
-number_edges: 1809
-number_cycles: 50
-total_length: 6786
+Column 62: .nan
+last_processing_date: 08 Aug 2025
+percentage_csidm: 94
+number_connected_components: 12
+number_nodes: 1776
+number_edges: 1816
+number_cycles: 52
+total_length: 6846

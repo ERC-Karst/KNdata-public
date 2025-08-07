@@ -1,17 +1,20 @@
 number: 038
 short_name: Ingleborough
 status: clean
+issues: .nan
 type_of_correction: semi-automatic correction
 original_format: Survex
-type_dataset: Online
 original_to_sql: svx --> .3d --> therion --> sql
+todo: .nan
 length_approx_meter: 8125.0
 connected_components: multiple caves
 license: To confirm
 id_dataset: CAVE-REGISTRY
 comments_cave_info: .nan
+comments_cleaning: .nan
 full_name: Ingleborough
 other_names: Long Kin West + White Scar + Mayday Hole ...
+type_dataset: Online
 all_data_format: Survex
 geometry: .nan
 verify_geometry_export: .nan
@@ -32,7 +35,8 @@ local_id: .nan
 local_coordinate_system: EPSG:4326
 local_easting_coordinate: 2.413190°W
 local_northing_coordinate: '54.146915°N '
-latitude: 54.146915
+'share_coordinates ': public
+latitude: '54.146915'
 longitude: -2.41319
 altitude: '415'
 length_official_meter: 485 (Long Kin West) 6700 (White Scar)
@@ -40,6 +44,13 @@ length_dataset: .nan
 denivelation: 162 (Long Kin West) 73 (White Scar)
 cave_url: https://grottocenter.org/ui/entrances/31739
 supplemental_links: https://grottocenter.org/ui/entrances/31747
+geology: unknown
+facies: .nan
+speleogenesis: epigenic
+speleogenesis additional context: .nan
+fracturation: unknown
+deformation: unknown
+deformation additional context: .nan
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -57,7 +68,8 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 10
 number_connected_components: 12
 number_nodes: 1327

@@ -1,17 +1,20 @@
 number: 028
 short_name: NarinesBoeuf
 status: clean
+issues: .nan
 type_of_correction: manual correction
 original_format: Toporobot
-type_dataset: Call for data
 original_to_sql: TEXT --> tr2th --> therion -->  sql
+todo: .nan
 length_approx_meter: 675.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: LS
 comments_cave_info: .nan
+comments_cleaning: .nan
 full_name: Gouffre des Narines de Boeufs
 other_names: .nan
+type_dataset: Call for data
 all_data_format: Toporobot, Visual Topo
 geometry: lrud
 verify_geometry_export: .nan
@@ -32,7 +35,8 @@ local_id: .nan
 local_coordinate_system: CH1903/LV03
 local_easting_coordinate: '579600'
 local_northing_coordinate: '233250'
-latitude: 47.2499
+'share_coordinates ': public
+latitude: '47.2499'
 longitude: 7.1739
 altitude: '954'
 length_official_meter: '635'
@@ -40,6 +44,13 @@ length_dataset: .nan
 denivelation: '116'
 cave_url: https://grottocenter.org/ui/entrances/5499
 supplemental_links: .nan
+geology: limestone
+facies: 'limestone : kimméridgien'
+speleogenesis: polygenic
+speleogenesis additional context: hypogenic / phreatic
+fracturation: medium
+deformation: tilted
+deformation additional context: ensellement - tilted (50 -70)
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -57,8 +68,9 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
-percentage_csidm: 84
+Column 62: .nan
+last_processing_date: 08 Aug 2025
+percentage_csidm: 97
 number_connected_components: 1
 number_nodes: 132
 number_edges: 133

@@ -1,17 +1,20 @@
 number: 039
 short_name: DunaldMill
 status: clean
+issues: .nan
 type_of_correction: automatic correction
 original_format: Survex
-type_dataset: Online
 original_to_sql: svx --> .3d --> therion --> sql
+todo: .nan
 length_approx_meter: 260.0
 connected_components: single cave
 license: To confirm
 id_dataset: CAVE-REGISTRY
 comments_cave_info: .nan
+comments_cleaning: .nan
 full_name: Morecambe Bay
 other_names: .nan
+type_dataset: Online
 all_data_format: Survex
 geometry: .nan
 verify_geometry_export: .nan
@@ -32,7 +35,8 @@ local_id: .nan
 local_coordinate_system: EPSG:27700
 local_easting_coordinate: '351592'
 local_northing_coordinate: '467615'
-latitude: 54.1021
+'share_coordinates ': public
+latitude: '54.1021'
 longitude: -2.7417
 altitude: '86'
 length_official_meter: '329'
@@ -40,6 +44,13 @@ length_dataset: .nan
 denivelation: .nan
 cave_url: https://northerncaves.co.uk/caves/details.php?id=2070
 supplemental_links: http://cavemaps.org/cavePages/Morecambe%20Bay__Dunald%20Mill%20Hole.htm
+geology: unknown
+facies: .nan
+speleogenesis: unknown
+speleogenesis additional context: .nan
+fracturation: unknown
+deformation: unknown
+deformation additional context: .nan
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -57,7 +68,8 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 0
 number_connected_components: 1
 number_nodes: 62

@@ -1,17 +1,20 @@
 number: '010'
 short_name: PlaninaPoljana
 status: clean
+issues: .nan
 type_of_correction: semi-automatic correction
 original_format: Survex
-type_dataset: Call for data
 original_to_sql: svx --> .3d --> therion --> sql
+todo: .nan
 length_approx_meter: 25513.0
 connected_components: multiple caves
 license: CC BY-NC-SA 4.0
-id_dataset: SB
+id_dataset: BORKO
 comments_cave_info: using the .3d to prevent the issue of splays being ignored
+comments_cleaning: .nan
 full_name: Planina Poljana
 other_names: .nan
+type_dataset: Call for data
 all_data_format: Survex
 geometry: splays
 verify_geometry_export: .nan
@@ -19,7 +22,7 @@ units: meter
 original_filename: .nan
 original_encoding: .nan
 crs_original_dataset: epsg:3912
-crs_clean_dataset: .nan
+crs_clean_dataset: epsg:32633
 crs_check: .nan
 crs_other: epsg:3912 (Slovenia)
 country: Slovenia
@@ -32,7 +35,8 @@ local_id: .nan
 local_coordinate_system: EPSG:3912
 local_easting_coordinate: '414021'
 local_northing_coordinate: '123207'
-latitude: 46.1451
+'share_coordinates ': public
+latitude: '46.1451'
 longitude: 13.5248
 altitude: '1256'
 length_official_meter: .nan
@@ -40,6 +44,13 @@ length_dataset: .nan
 denivelation: .nan
 cave_url: https://www.katasterjam.si/caves/13488
 supplemental_links: .nan
+geology: unknown
+facies: .nan
+speleogenesis: epigenic
+speleogenesis additional context: .nan
+fracturation: unknown
+deformation: unknown
+deformation additional context: .nan
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -57,10 +68,11 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 89
 number_connected_components: 95
 number_nodes: 5284
 number_edges: 5241
 number_cycles: 52
-total_length: 26101
+total_length: 26097

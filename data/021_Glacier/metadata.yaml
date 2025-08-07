@@ -1,18 +1,20 @@
 number: '021'
 short_name: Glacier
-status: in github (cleaning in progress)
-type_of_correction: no correction
+status: clean
+issues: .nan
+type_of_correction: manual correction
 original_format: Toporobot
-type_dataset: Call for data
 original_to_sql: TEXT --> tr2th --> therion -->  sql
+todo: .nan
 length_approx_meter: 999.0
 connected_components: single cave
 license: CC BY-NC-SA 4.0
 id_dataset: JD
-todo: .nan
 comments_cave_info: JD intéressé par version therion
+comments_cleaning: .nan
 full_name: Grotte du Glacier
-other_names: .nan
+other_names: Réseau de Naye
+type_dataset: Call for data
 all_data_format: Toporobot, Visual Topo
 geometry: lrud
 verify_geometry_export: .nan
@@ -25,22 +27,30 @@ crs_check: .nan
 crs_other: .nan
 country: Switzerland
 state: Vaud
-area: .nan
-locality: Rochers de Naye
-grotto_id: .nan
+area: Grande Chaux de la Naye
+locality: Haut-Intyamon
+grotto_id: '75520'
 country_cave_id: .nan
 local_id: .nan
-local_coordinate_system: .nan
-local_easting_coordinate: .nan
-local_northing_coordinate: .nan
-latitude: .nan
-longitude: .nan
-altitude: .nan
-length_official_meter: .nan
+local_coordinate_system: CH1903/LV03
+local_easting_coordinate: '565393'
+local_northing_coordinate: '143082'
+'share_coordinates ': public
+latitude: '46.43818'
+longitude: 6.9883
+altitude: '1802'
+length_official_meter: '4861'
 length_dataset: .nan
-denivelation: .nan
-cave_url: .nan
-supplemental_links: .nan
+denivelation: '231'
+cave_url: http://www.speleo-lausanne.ch/06_Activites/Explorations/Vd-alpes/Rochers-Naye/Glacier/_Glacier-home.htm
+supplemental_links: https://grottocenter.org/ui/caves/75520
+geology: limestone
+facies: malm / argovien-séquanien
+speleogenesis: epigenic
+speleogenesis additional context: .nan
+fracturation: high
+deformation: folded
+deformation additional context: synclinal -  sub-vertical à pendage de 180/50
 contract_file: .nan
 data_reception_date: .nan
 data_received_by: .nan
@@ -58,10 +68,11 @@ anonymised_graph_rights: .nan
 statistical_results: .nan
 sample_figures: .nan
 comments_dataset: .nan
-last_processing_date: 06 Jun 2025
+Column 62: .nan
+last_processing_date: 08 Aug 2025
 percentage_csidm: 100
 number_connected_components: 1
 number_nodes: 900
-number_edges: 938
-number_cycles: 39
+number_edges: 939
+number_cycles: 40
 total_length: 4411

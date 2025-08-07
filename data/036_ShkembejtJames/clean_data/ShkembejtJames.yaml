@@ -1,9 +1,9 @@
 metadata:
   number: '036'
   short_name: ShkembejtJames
-  status: in github (cleaning in progress)
-  type_of_correction: no correction
-  last_processing_date: 06 Jun 2025
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 08 Aug 2025
   license: To confirm
   citation: Unknown yet
   thanks: .nan
@@ -22,16 +22,16 @@ metadata:
   geometry: .nan
   units: meter
   country: Alabania
-  state: .nan
-  area: .nan
-  locality: .nan
+  state: "Shkod\xEBr"
+  area: Berizhdoli
+  locality: Shkembejt e James
   grotto_id: .nan
   country_cave_id: .nan
   local_id: .nan
-  local_coordinate_system: .nan
-  latitude: .nan
-  longitude: .nan
-  altitude: .nan
+  local_coordinate_system: EPSG:32634
+  latitude: '42.504'
+  longitude: 19.7439
+  altitude: '1810'
   cave_url: .nan
   supplemental_links: .nan
   data_reception_date: .nan
@@ -2859,6 +2859,7 @@ node_attributes:
     - fix
     354:
     - fix
+    - ent
     316:
     - fix
     268:
@@ -3148,6 +3149,7 @@ node_attributes:
     - fix
     987:
     - fix
+    - ent
     1193:
     - fix
     1303:
@@ -3488,6 +3490,7 @@ node_attributes:
     - fix
     229:
     - fix
+    - ent
     1419:
     - fix
     870:
@@ -3767,6 +3770,7 @@ node_attributes:
     - fix
     699:
     - fix
+    - ent
     1555:
     - fix
     1874:
@@ -3888,6 +3892,23 @@ node_attributes:
     - fix
     2034:
     - fix
+  comments:
+    204:
+    - Madhe Ben
+    354:
+    - Good for the Gooski
+    987:
+    - Mencuri Main Entrance
+    1714:
+    - Mencuri Second Entrance
+    229:
+    - Pitkini
+    99:
+    - Vaso
+    699:
+    - River Cave
+    1710:
+    - Loop Cave
   pos:
     30:
     - 396690.3

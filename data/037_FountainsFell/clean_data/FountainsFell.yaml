@@ -1,38 +1,39 @@
 metadata:
   number: '037'
   short_name: FountainsFell
-  status: in github (cleaning in progress)
-  type_of_correction: no correction
-  last_processing_date: 06 Jun 2025
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 08 Aug 2025
   license: To confirm
   citation: Unknown yet
   thanks: .nan
   sharing_conditions: .nan
-  total_length: 14446
+  total_length: 14467
   percentage_csidm: 0
-  number_connected_components: 18
-  number_nodes: 5349
-  number_edges: 5338
-  number_cycles: 7
+  number_connected_components: 8
+  number_nodes: 5347
+  number_edges: 5348
+  number_cycles: 9
   original_format: Survex
   id_dataset: CAVE-REGISTRY
   comments_cave_info: .nan
   full_name: Fountains Fell
   geometry: .nan
   units: meter
-  country: UK
-  state: .nan
-  area: .nan
-  locality: .nan
-  grotto_id: .nan
+  country: England
+  state: Yorkshire
+  area: Helwith Bridge
+  locality: Pen-y-ghent
+  grotto_id: 31815 (Gingling) 31813 (Dale Head) 31814 (Echo) 31818 (Hammer) 31821
+    (Foul)
   country_cave_id: .nan
   local_id: .nan
-  local_coordinate_system: .nan
-  latitude: .nan
-  longitude: .nan
+  local_coordinate_system: OSGB:SD / Local
+  latitude: '54.137652'
+  longitude: -2.234087
   altitude: .nan
-  cave_url: .nan
-  supplemental_links: .nan
+  cave_url: https://grottocenter.org/ui/entrances/31815
+  supplemental_links: http://cavemaps.org/cavesnc2.htm
   data_reception_date: .nan
   data_received_by: .nan
   start_contract: .nan
@@ -288,6 +289,8 @@ edges:
 - - 1209
   - 2461
 - - 1509
+  - 3511
+- - 1509
   - 2387
 - - 1509
   - 2306
@@ -480,7 +483,7 @@ edges:
 - - 5284
   - 3667
 - - 5284
-  - 2477
+  - 1260
 - - 361
   - 942
 - - 361
@@ -894,7 +897,11 @@ edges:
 - - 2236
   - 779
 - - 2236
+  - 2348
+- - 2236
   - 4827
+- - 2236
+  - 3306
 - - 779
   - 2332
 - - 779
@@ -935,6 +942,8 @@ edges:
   - 3253
 - - 4827
   - 479
+- - 3306
+  - 2715
 - - 541
   - 2463
 - - 541
@@ -1917,6 +1926,8 @@ edges:
   - 3541
 - - 3791
   - 3512
+- - 3791
+  - 3541
 - - 3541
   - 1124
 - - 3541
@@ -1945,8 +1956,6 @@ edges:
   - 773
 - - 3541
   - 3657
-- - 3541
-  - 3595
 - - 3512
   - 2914
 - - 3512
@@ -1989,6 +1998,8 @@ edges:
   - 1161
 - - 3712
   - 4998
+- - 3712
+  - 1495
 - - 969
   - 576
 - - 969
@@ -5471,6 +5482,8 @@ edges:
   - 4485
 - - 1103
   - 1570
+- - 1103
+  - 5313
 - - 5313
   - 4343
 - - 5313
@@ -5783,6 +5796,8 @@ edges:
   - 3573
 - - 4354
   - 4235
+- - 4235
+  - 165
 - - 165
   - 4754
 - - 4754
@@ -5811,6 +5826,8 @@ edges:
   - 3084
 - - 89
   - 881
+- - 89
+  - 1086
 - - 89
   - 951
 - - 1086
@@ -5985,6 +6002,8 @@ edges:
   - 716
 - - 151
   - 531
+- - 151
+  - 1865
 - - 531
   - 3375
 - - 531
@@ -6021,6 +6040,8 @@ edges:
   - 4570
 - - 91
   - 4637
+- - 91
+  - 3136
 - - 4637
   - 273
 - - 4637
@@ -6087,6 +6108,8 @@ edges:
   - 3934
 - - 2866
   - 3899
+- - 2866
+  - 3459
 - - 3459
   - 4416
 - - 3459
@@ -6565,8 +6588,6 @@ edges:
   - 1172
 - - 3657
   - 121
-- - 3595
-  - 2183
 - - 2568
   - 3967
 - - 2568
@@ -7751,6 +7772,8 @@ edges:
   - 4030
 - - 69
   - 2233
+- - 69
+  - 1953
 - - 272
   - 1987
 - - 272
@@ -8587,8 +8610,6 @@ edges:
   - 2032
 - - 888
   - 1953
-- - 2183
-  - 1495
 - - 1495
   - 2526
 - - 2526
@@ -10721,6 +10742,69 @@ edges:
   - 33
 - - 33
   - 515
+edge_attributes:
+  flags:
+    ? !!python/tuple
+    - 1509
+    - 3511
+    : - add
+    ? !!python/tuple
+    - 5284
+    - 1260
+    : - add
+      - add
+    ? !!python/tuple
+    - 2236
+    - 2348
+    : - add
+    ? !!python/tuple
+    - 2236
+    - 3306
+    : - add
+    ? !!python/tuple
+    - 3306
+    - 2715
+    : - add
+    ? !!python/tuple
+    - 3791
+    - 3541
+    : - add
+      - add
+    ? !!python/tuple
+    - 3712
+    - 1495
+    : - add
+      - add
+    ? !!python/tuple
+    - 1103
+    - 5313
+    : - add
+    ? !!python/tuple
+    - 4235
+    - 165
+    : - add
+    ? !!python/tuple
+    - 89
+    - 1086
+    : - add
+    ? !!python/tuple
+    - 151
+    - 1865
+    : - add
+    ? !!python/tuple
+    - 91
+    - 3136
+    : - add
+      - add
+    ? !!python/tuple
+    - 2866
+    - 3459
+    : - add
+    ? !!python/tuple
+    - 69
+    - 1953
+    : - add
+      - add
 node_attributes:
   idsql:
     3224:
@@ -11127,8 +11211,6 @@ node_attributes:
     - 549
     3667:
     - 543
-    2477:
-    - 544
     361:
     - 52
     942:
@@ -11545,6 +11627,8 @@ node_attributes:
     - 91
     4827:
     - 924
+    3306:
+    - 983
     2332:
     - 891
     391:
@@ -17153,8 +17237,6 @@ node_attributes:
     - 2821
     3657:
     - 3925
-    3595:
-    - 4263
     2206:
     - 3121
     358:
@@ -19251,8 +19333,6 @@ node_attributes:
     - 4261
     1953:
     - 4262
-    2183:
-    - 4264
     1495:
     - 4265
     2526:
@@ -21454,6 +21534,7 @@ node_attributes:
     - fix
     2325:
     - fix
+    - ent
     250:
     - fix
     2405:
@@ -21814,6 +21895,7 @@ node_attributes:
     - fix
     5284:
     - fix
+    - ent
     732:
     - fix
     4258:
@@ -21825,8 +21907,6 @@ node_attributes:
     3764:
     - fix
     3667:
-    - fix
-    2477:
     - fix
     361:
     - fix
@@ -22243,6 +22323,8 @@ node_attributes:
     2348:
     - fix
     4827:
+    - fix
+    3306:
     - fix
     2332:
     - fix
@@ -26099,6 +26181,7 @@ node_attributes:
     - fix
     2908:
     - fix
+    - ent
     223:
     - fix
     4495:
@@ -26327,6 +26410,7 @@ node_attributes:
     - fix
     3352:
     - fix
+    - ent
     3453:
     - fix
     3651:
@@ -27569,6 +27653,7 @@ node_attributes:
     - fix
     1260:
     - fix
+    - ent
     4164:
     - fix
     3749:
@@ -27599,6 +27684,7 @@ node_attributes:
     - fix
     4060:
     - fix
+    - ent
     557:
     - fix
     3724:
@@ -27852,8 +27938,6 @@ node_attributes:
     773:
     - fix
     3657:
-    - fix
-    3595:
     - fix
     2206:
     - fix
@@ -29951,8 +30035,6 @@ node_attributes:
     - fix
     1953:
     - fix
-    2183:
-    - fix
     1495:
     - fix
     2526:
@@ -30961,6 +31043,7 @@ node_attributes:
     - fix
     2062:
     - fix
+    - ent
     2162:
     - fix
     2784:
@@ -31885,6 +31968,7 @@ node_attributes:
     - fix
     117:
     - fix
+    - ent
     5330:
     - fix
     1896:
@@ -32121,6 +32205,25 @@ node_attributes:
     - fix
     515:
     - fix
+  comments:
+    2325:
+    - Election Hole
+    5284:
+    - Gingling Hole
+    1825:
+    - Foul Pot
+    2908:
+    - New Pasture Cave
+    3352:
+    - Dale Head Pot
+    1260:
+    - Gingling Hole Bis
+    4060:
+    - Hammer Pot
+    2062:
+    - Gingling Main Cave
+    117:
+    - Echo Pot
   pos:
     3224:
     - 550215.1
@@ -32930,10 +33033,6 @@ node_attributes:
     - 550765.54
     - 5997960.51
     - 457.92
-    2477:
-    - 550765.04
-    - 5997961.02
-    - 448.92
     361:
     - 550662.71
     - 5998027.7
@@ -33766,6 +33865,10 @@ node_attributes:
     - 550636.17
     - 5998049.15
     - 409.51
+    3306:
+    - 550646.69
+    - 5998041.9
+    - 400.15
     2332:
     - 550647.84
     - 5998039.35
@@ -44982,10 +45085,6 @@ node_attributes:
     - 550360.8
     - 5997530.5
     - 348.58
-    3595:
-    - 550359.64
-    - 5997536.75
-    - 345.84
     2206:
     - 550300.85
     - 5997635.4
@@ -49178,10 +49277,6 @@ node_attributes:
     - 550305.83
     - 5997674.64
     - 316.62
-    2183:
-    - 550364.57
-    - 5997539.03
-    - 346.03
     1495:
     - 550366.9
     - 5997537.39
@@ -53923,8 +54018,6 @@ node_attributes:
     - fountainsfell.gingling.gingling1.2e
     3667:
     - fountainsfell.gingling.gingling1.1a
-    2477:
-    - fountainsfell.gingling.gingling1.1b
     361:
     - fountainsfell.gingling.gingling1.50
     942:
@@ -54341,6 +54434,8 @@ node_attributes:
     - fountainsfell.gingling.gingling4.3
     4827:
     - fountainsfell.gingling.gingling4.5
+    3306:
+    - fountainsfell.gingling.gingling4.12
     2332:
     - fountainsfell.gingling.gingling4.1a
     391:
@@ -59949,8 +60044,6 @@ node_attributes:
     - fountainsfell.hammerpot.sludgecrawl.226m
     3657:
     - fountainsfell.hammerpot.hammerincline.1
-    3595:
-    - fountainsfell.hammerpot.hammerupstreamsump.1
     2206:
     - fountainsfell.hammerpot.hammeroutfell.250a
     358:
@@ -62047,8 +62140,6 @@ node_attributes:
     - fountainsfell.hammerpot.hammerclimb.7b
     1953:
     - fountainsfell.hammerpot.hammerclimb.7c
-    2183:
-    - fountainsfell.hammerpot.hammerupstreamsump.2
     1495:
     - fountainsfell.hammerpot.hammerupstreamsump.3
     2526:
