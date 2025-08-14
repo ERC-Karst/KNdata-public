@@ -68,6 +68,7 @@ Contains the original database stored in a sql format created with Therion, and 
     - 'idsql': station id in the sql database
     - 'pos': list of 3 floats, [easting,northing,elevation], in specific coordinate system
     - 'splays': list of list of 3 floats, [easting,northing,elevation]. each node can have multiple splays
+    - 'comments': list of strings.
     - 'flags': list of strings.
         - `ent`: entrance, points where the cave intersect with the surface
         - `con` : continuation, cavers identified this last point of a survey session as potentially leading futher
