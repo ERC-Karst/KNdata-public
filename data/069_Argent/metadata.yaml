@@ -6,7 +6,7 @@ type_of_correction: manual correction
 original_format: Therion
 original_to_sql: therion --> 3d --> therion --> 3d --> sql
 todo: extract lrud in original .th file
-length_approx_meter: .nan
+length_approx_meter: 527.0
 connected_components: single cave
 license: CC BY-NC
 id_dataset: K3D
@@ -35,7 +35,8 @@ local_id: 96 (CDS Aude)
 local_coordinate_system: EPSG:27573
 local_easting_coordinate: '661002'
 local_northing_coordinate: '3093167'
-latitude: '43.1359'
+share_coordinates: public
+latitude: 43.1359
 longitude: 3.0871
 altitude: '90'
 length_official_meter: '1000'
@@ -69,7 +70,7 @@ sample_figures: .nan
 comments_dataset: .nan
 Column 62: .nan
 last_processing_date: 08 Aug 2025
-percentage_csidm: 0
+percentage_csdim: 0
 number_connected_components: 1
 number_nodes: 86
 number_edges: 86

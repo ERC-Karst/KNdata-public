@@ -35,8 +35,8 @@ local_id: .nan
 local_coordinate_system: OSGB:SD
 local_easting_coordinate: '99213'
 local_northing_coordinate: '72887'
-'share_coordinates ': .nan
-latitude: '54.1645'
+share_coordinates: public
+latitude: 54.1645
 longitude: -2.027533
 altitude: '400'
 length_official_meter: .nan
@@ -70,7 +70,7 @@ sample_figures: .nan
 comments_dataset: .nan
 Column 62: .nan
 last_processing_date: 08 Aug 2025
-percentage_csidm: 0
+percentage_csdim: 0
 number_connected_components: 1
 number_nodes: 412
 number_edges: 412

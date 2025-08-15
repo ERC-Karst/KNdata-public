@@ -35,8 +35,8 @@ local_id: .nan
 local_coordinate_system: EPSG:2154
 local_easting_coordinate: '733775.43'
 local_northing_coordinate: '6300479.98'
-'share_coordinates ': .nan
-latitude: '43.8024'
+share_coordinates: public
+latitude: 43.8024
 longitude: 3.4196
 altitude: '647'
 length_official_meter: '4550'
@@ -70,9 +70,9 @@ sample_figures: .nan
 comments_dataset: .nan
 Column 62: .nan
 last_processing_date: 08 Aug 2025
-percentage_csidm: 0
-number_connected_components: 2
-number_nodes: 849
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 843
 number_edges: 848
-number_cycles: 1
-total_length: 4321
+number_cycles: 6
+total_length: 4286

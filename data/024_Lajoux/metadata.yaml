@@ -36,8 +36,8 @@ local_id: .nan
 local_coordinate_system: Local ?
 local_easting_coordinate: '578.42'
 local_northing_coordinate: '236.31'
-'share_coordinates ': .nan
-latitude: '47.2844'
+share_coordinates: public
+latitude: 47.2844
 longitude: 7.1492
 altitude: '971'
 length_official_meter: '1178'
@@ -71,7 +71,7 @@ sample_figures: .nan
 comments_dataset: .nan
 Column 62: .nan
 last_processing_date: 08 Aug 2025
-percentage_csidm: 95
+percentage_csdim: 95
 number_connected_components: 1
 number_nodes: 327
 number_edges: 326

@@ -9,7 +9,7 @@ metadata:
   thanks: .nan
   sharing_conditions: .nan
   total_length: 527
-  percentage_csidm: 0
+  percentage_csdim: 0
   number_connected_components: 1
   number_nodes: 86
   number_edges: 86
@@ -28,7 +28,7 @@ metadata:
   country_cave_id: 68 (KARST3D)
   local_id: 96 (CDS Aude)
   local_coordinate_system: EPSG:27573
-  latitude: '43.1359'
+  latitude: 43.1359
   longitude: 3.0871
   altitude: '90'
   cave_url: https://grottocenter.org/ui/entrances/6178
@@ -225,179 +225,6 @@ edge_attributes:
     : - add
       - add
 node_attributes:
-  fulladdress:
-    48:
-    - Rec_d_Argent.0
-    14:
-    - Rec_d_Argent.1.2
-    8:
-    - Rec_d_Argent.1.3
-    45:
-    - Rec_d_Argent.1.4
-    1:
-    - Rec_d_Argent.1.5
-    36:
-    - Rec_d_Argent.1.6
-    39:
-    - Rec_d_Argent.1.7
-    34:
-    - Rec_d_Argent.1.8
-    72:
-    - Rec_d_Argent.1.9
-    5:
-    - Rec_d_Argent.1.10
-    15:
-    - Rec_d_Argent.1.11
-    17:
-    - Rec_d_Argent.1.12
-    7:
-    - Rec_d_Argent.1.13
-    29:
-    - Rec_d_Argent.1.14
-    20:
-    - Rec_d_Argent.1.15
-    55:
-    - Rec_d_Argent.1.16
-    16:
-    - Rec_d_Argent.1.17
-    12:
-    - Rec_d_Argent.1.18
-    2:
-    - Rec_d_Argent.1.19
-    18:
-    - Rec_d_Argent.3.1
-    84:
-    - Rec_d_Argent.1.20
-    27:
-    - Rec_d_Argent.1.21
-    3:
-    - Rec_d_Argent.1.22
-    44:
-    - Rec_d_Argent.1.23
-    79:
-    - Rec_d_Argent.1.24
-    65:
-    - Rec_d_Argent.1.25
-    22:
-    - Rec_d_Argent.1.26
-    54:
-    - Rec_d_Argent.1.27
-    71:
-    - Rec_d_Argent.1.28
-    58:
-    - Rec_d_Argent.1.29
-    59:
-    - Rec_d_Argent.1.30
-    77:
-    - Rec_d_Argent.1.31
-    63:
-    - Rec_d_Argent.4.0
-    57:
-    - Rec_d_Argent.1.32
-    21:
-    - Rec_d_Argent.4.1
-    41:
-    - Rec_d_Argent.4.2
-    83:
-    - Rec_d_Argent.4.3
-    10:
-    - Rec_d_Argent.4.4
-    66:
-    - Rec_d_Argent.4.5
-    33:
-    - Rec_d_Argent.5.0
-    85:
-    - Rec_d_Argent.4.6
-    28:
-    - Rec_d_Argent.5.1
-    82:
-    - Rec_d_Argent.5.2
-    62:
-    - Rec_d_Argent.5.3
-    52:
-    - Rec_d_Argent.6.0
-    0:
-    - Rec_d_Argent.4.7
-    74:
-    - Rec_d_Argent.A
-    19:
-    - Rec_d_Argent.6.1
-    11:
-    - Rec_d_Argent.6.2
-    68:
-    - Rec_d_Argent.6.3
-    53:
-    - Rec_d_Argent.6.4
-    56:
-    - Rec_d_Argent.6.5
-    42:
-    - Rec_d_Argent.6.6
-    67:
-    - Rec_d_Argent.6.7
-    70:
-    - Rec_d_Argent.6.8
-    73:
-    - Rec_d_Argent.6.9
-    32:
-    - Rec_d_Argent.4.8
-    76:
-    - Rec_d_Argent.4.9
-    80:
-    - Rec_d_Argent.1.33
-    9:
-    - Rec_d_Argent.5.01
-    31:
-    - Rec_d_Argent.1.34
-    50:
-    - Rec_d_Argent.5.02
-    6:
-    - Rec_d_Argent.5.03
-    75:
-    - Rec_d_Argent.5.04
-    64:
-    - Rec_d_Argent.5.05
-    43:
-    - Rec_d_Argent.5.06
-    40:
-    - Rec_d_Argent.5.07
-    23:
-    - Rec_d_Argent.5.08
-    49:
-    - Rec_d_Argent.5.09
-    37:
-    - Rec_d_Argent.5.10
-    26:
-    - Rec_d_Argent.3.01
-    4:
-    - Rec_d_Argent.2.01
-    61:
-    - Rec_d_Argent.3.02
-    30:
-    - Rec_d_Argent.3.03
-    81:
-    - Rec_d_Argent.3.04
-    35:
-    - Rec_d_Argent.3.05
-    60:
-    - Rec_d_Argent.3.06
-    13:
-    - Rec_d_Argent.3.07
-    46:
-    - Rec_d_Argent.3.08
-    24:
-    - Rec_d_Argent.2.02
-    38:
-    - Rec_d_Argent.2.03
-    25:
-    - Rec_d_Argent.2.04
-    51:
-    - Rec_d_Argent.2.05
-    78:
-    - Rec_d_Argent.2.08
-    47:
-    - Rec_d_Argent.2.06
-    69:
-    - Rec_d_Argent.2.07
   pos:
     48:
     - 507021.69
@@ -743,6 +570,352 @@ node_attributes:
     - 506861.53
     - 4776017.27
     - 90.91
+  idsql:
+    48:
+    - 1
+    14:
+    - 2
+    8:
+    - 3
+    45:
+    - 4
+    1:
+    - 5
+    36:
+    - 6
+    39:
+    - 7
+    34:
+    - 8
+    72:
+    - 9
+    5:
+    - 10
+    15:
+    - 11
+    17:
+    - 12
+    7:
+    - 13
+    29:
+    - 14
+    20:
+    - 15
+    55:
+    - 16
+    16:
+    - 17
+    12:
+    - 18
+    2:
+    - 19
+    18:
+    - 20
+    84:
+    - 21
+    27:
+    - 22
+    3:
+    - 23
+    44:
+    - 24
+    79:
+    - 25
+    65:
+    - 26
+    22:
+    - 27
+    54:
+    - 28
+    71:
+    - 29
+    58:
+    - 30
+    59:
+    - 31
+    77:
+    - 32
+    63:
+    - 33
+    57:
+    - 58
+    21:
+    - 34
+    41:
+    - 35
+    83:
+    - 36
+    10:
+    - 37
+    66:
+    - 38
+    33:
+    - 39
+    85:
+    - 43
+    28:
+    - 40
+    82:
+    - 41
+    62:
+    - 42
+    52:
+    - 44
+    0:
+    - 54
+    74:
+    - 57
+    19:
+    - 45
+    11:
+    - 46
+    68:
+    - 47
+    53:
+    - 48
+    56:
+    - 49
+    42:
+    - 50
+    67:
+    - 51
+    70:
+    - 52
+    73:
+    - 53
+    32:
+    - 55
+    76:
+    - 56
+    80:
+    - 59
+    9:
+    - 60
+    31:
+    - 70
+    50:
+    - 61
+    6:
+    - 62
+    75:
+    - 63
+    64:
+    - 64
+    43:
+    - 65
+    40:
+    - 66
+    23:
+    - 67
+    49:
+    - 68
+    37:
+    - 69
+    26:
+    - 71
+    4:
+    - 79
+    61:
+    - 72
+    30:
+    - 73
+    81:
+    - 74
+    35:
+    - 75
+    60:
+    - 76
+    13:
+    - 77
+    46:
+    - 78
+    24:
+    - 80
+    38:
+    - 81
+    25:
+    - 82
+    51:
+    - 83
+    78:
+    - 84
+    47:
+    - 85
+    69:
+    - 86
+  fulladdress:
+    48:
+    - Rec_d_Argent.0
+    14:
+    - Rec_d_Argent.1.2
+    8:
+    - Rec_d_Argent.1.3
+    45:
+    - Rec_d_Argent.1.4
+    1:
+    - Rec_d_Argent.1.5
+    36:
+    - Rec_d_Argent.1.6
+    39:
+    - Rec_d_Argent.1.7
+    34:
+    - Rec_d_Argent.1.8
+    72:
+    - Rec_d_Argent.1.9
+    5:
+    - Rec_d_Argent.1.10
+    15:
+    - Rec_d_Argent.1.11
+    17:
+    - Rec_d_Argent.1.12
+    7:
+    - Rec_d_Argent.1.13
+    29:
+    - Rec_d_Argent.1.14
+    20:
+    - Rec_d_Argent.1.15
+    55:
+    - Rec_d_Argent.1.16
+    16:
+    - Rec_d_Argent.1.17
+    12:
+    - Rec_d_Argent.1.18
+    2:
+    - Rec_d_Argent.1.19
+    18:
+    - Rec_d_Argent.3.1
+    84:
+    - Rec_d_Argent.1.20
+    27:
+    - Rec_d_Argent.1.21
+    3:
+    - Rec_d_Argent.1.22
+    44:
+    - Rec_d_Argent.1.23
+    79:
+    - Rec_d_Argent.1.24
+    65:
+    - Rec_d_Argent.1.25
+    22:
+    - Rec_d_Argent.1.26
+    54:
+    - Rec_d_Argent.1.27
+    71:
+    - Rec_d_Argent.1.28
+    58:
+    - Rec_d_Argent.1.29
+    59:
+    - Rec_d_Argent.1.30
+    77:
+    - Rec_d_Argent.1.31
+    63:
+    - Rec_d_Argent.4.0
+    57:
+    - Rec_d_Argent.1.32
+    21:
+    - Rec_d_Argent.4.1
+    41:
+    - Rec_d_Argent.4.2
+    83:
+    - Rec_d_Argent.4.3
+    10:
+    - Rec_d_Argent.4.4
+    66:
+    - Rec_d_Argent.4.5
+    33:
+    - Rec_d_Argent.5.0
+    85:
+    - Rec_d_Argent.4.6
+    28:
+    - Rec_d_Argent.5.1
+    82:
+    - Rec_d_Argent.5.2
+    62:
+    - Rec_d_Argent.5.3
+    52:
+    - Rec_d_Argent.6.0
+    0:
+    - Rec_d_Argent.4.7
+    74:
+    - Rec_d_Argent.A
+    19:
+    - Rec_d_Argent.6.1
+    11:
+    - Rec_d_Argent.6.2
+    68:
+    - Rec_d_Argent.6.3
+    53:
+    - Rec_d_Argent.6.4
+    56:
+    - Rec_d_Argent.6.5
+    42:
+    - Rec_d_Argent.6.6
+    67:
+    - Rec_d_Argent.6.7
+    70:
+    - Rec_d_Argent.6.8
+    73:
+    - Rec_d_Argent.6.9
+    32:
+    - Rec_d_Argent.4.8
+    76:
+    - Rec_d_Argent.4.9
+    80:
+    - Rec_d_Argent.1.33
+    9:
+    - Rec_d_Argent.5.01
+    31:
+    - Rec_d_Argent.1.34
+    50:
+    - Rec_d_Argent.5.02
+    6:
+    - Rec_d_Argent.5.03
+    75:
+    - Rec_d_Argent.5.04
+    64:
+    - Rec_d_Argent.5.05
+    43:
+    - Rec_d_Argent.5.06
+    40:
+    - Rec_d_Argent.5.07
+    23:
+    - Rec_d_Argent.5.08
+    49:
+    - Rec_d_Argent.5.09
+    37:
+    - Rec_d_Argent.5.10
+    26:
+    - Rec_d_Argent.3.01
+    4:
+    - Rec_d_Argent.2.01
+    61:
+    - Rec_d_Argent.3.02
+    30:
+    - Rec_d_Argent.3.03
+    81:
+    - Rec_d_Argent.3.04
+    35:
+    - Rec_d_Argent.3.05
+    60:
+    - Rec_d_Argent.3.06
+    13:
+    - Rec_d_Argent.3.07
+    46:
+    - Rec_d_Argent.3.08
+    24:
+    - Rec_d_Argent.2.02
+    38:
+    - Rec_d_Argent.2.03
+    25:
+    - Rec_d_Argent.2.04
+    51:
+    - Rec_d_Argent.2.05
+    78:
+    - Rec_d_Argent.2.08
+    47:
+    - Rec_d_Argent.2.06
+    69:
+    - Rec_d_Argent.2.07
   flags:
     48:
     - ent
@@ -917,176 +1090,3 @@ node_attributes:
     - fix
     69:
     - fix
-  idsql:
-    48:
-    - 1
-    14:
-    - 2
-    8:
-    - 3
-    45:
-    - 4
-    1:
-    - 5
-    36:
-    - 6
-    39:
-    - 7
-    34:
-    - 8
-    72:
-    - 9
-    5:
-    - 10
-    15:
-    - 11
-    17:
-    - 12
-    7:
-    - 13
-    29:
-    - 14
-    20:
-    - 15
-    55:
-    - 16
-    16:
-    - 17
-    12:
-    - 18
-    2:
-    - 19
-    18:
-    - 20
-    84:
-    - 21
-    27:
-    - 22
-    3:
-    - 23
-    44:
-    - 24
-    79:
-    - 25
-    65:
-    - 26
-    22:
-    - 27
-    54:
-    - 28
-    71:
-    - 29
-    58:
-    - 30
-    59:
-    - 31
-    77:
-    - 32
-    63:
-    - 33
-    57:
-    - 58
-    21:
-    - 34
-    41:
-    - 35
-    83:
-    - 36
-    10:
-    - 37
-    66:
-    - 38
-    33:
-    - 39
-    85:
-    - 43
-    28:
-    - 40
-    82:
-    - 41
-    62:
-    - 42
-    52:
-    - 44
-    0:
-    - 54
-    74:
-    - 57
-    19:
-    - 45
-    11:
-    - 46
-    68:
-    - 47
-    53:
-    - 48
-    56:
-    - 49
-    42:
-    - 50
-    67:
-    - 51
-    70:
-    - 52
-    73:
-    - 53
-    32:
-    - 55
-    76:
-    - 56
-    80:
-    - 59
-    9:
-    - 60
-    31:
-    - 70
-    50:
-    - 61
-    6:
-    - 62
-    75:
-    - 63
-    64:
-    - 64
-    43:
-    - 65
-    40:
-    - 66
-    23:
-    - 67
-    49:
-    - 68
-    37:
-    - 69
-    26:
-    - 71
-    4:
-    - 79
-    61:
-    - 72
-    30:
-    - 73
-    81:
-    - 74
-    35:
-    - 75
-    60:
-    - 76
-    13:
-    - 77
-    46:
-    - 78
-    24:
-    - 80
-    38:
-    - 81
-    25:
-    - 82
-    51:
-    - 83
-    78:
-    - 84
-    47:
-    - 85
-    69:
-    - 86

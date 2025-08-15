@@ -35,8 +35,8 @@ local_id: 77 (CDS Aude)
 local_coordinate_system: 'EPSG:27573 '
 local_easting_coordinate: '575945'
 local_northing_coordinate: '3064302'
-'share_coordinates ': .nan
-latitude: '42.8781'
+share_coordinates: public
+latitude: 42.8781
 longitude: 2.0421
 altitude: '710'
 length_official_meter: '1400'
@@ -70,7 +70,7 @@ sample_figures: .nan
 comments_dataset: .nan
 Column 62: .nan
 last_processing_date: 08 Aug 2025
-percentage_csidm: 0
+percentage_csdim: 0
 number_connected_components: 1
 number_nodes: 242
 number_edges: 241

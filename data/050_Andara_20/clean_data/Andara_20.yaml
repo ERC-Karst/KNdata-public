@@ -1,0 +1,631 @@
+metadata:
+  number: '050'
+  short_name: Andara_20
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 08 Aug 2025
+  license: CC BY-NC-SA 4.0
+  citation: Unknown yet
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 1264
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 48
+  number_edges: 47
+  number_cycles: 0
+  original_format: Survex
+  id_dataset: CAVE-REGISTRY
+  comments_cave_info: used .3d instead of translating project. too many issues with
+    translation
+  full_name: Andara
+  geometry: .nan
+  units: meter
+  country: Spain
+  state: Cantabrie
+  area: Parc national des Picos de Europa
+  locality: Palacio
+  grotto_id: /
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:32630
+  latitude: 43.2161538
+  longitude: -4.7242563
+  altitude: '1785'
+  cave_url: https://hinko.org/hinko/Dowloads/BCRA/BCRA%2011-4-1984.pdf
+  supplemental_links: https://tresvisocaves.info/tresviso.php?cave=65
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 6144
+  - 8390
+- - 6144
+  - 7924
+- - 3584
+  - 10033
+- - 3584
+  - 6549
+- - 3458
+  - 9168
+- - 3458
+  - 3107
+- - 5891
+  - 8789
+- - 5891
+  - 70
+- - 5248
+  - 9244
+- - 5248
+  - 10005
+- - 7694
+  - 3451
+- - 7694
+  - 4513
+- - 5264
+  - 10005
+- - 5264
+  - 9569
+- - 6549
+  - 8102
+- - 6166
+  - 6620
+- - 6166
+  - 7394
+- - 792
+  - 3107
+- - 792
+  - 6098
+- - 9244
+  - 252
+- - 5276
+  - 9706
+- - 5276
+  - 3057
+- - 4513
+  - 8420
+- - 1572
+  - 3057
+- - 1572
+  - 8388
+- - 8102
+  - 6620
+- - 10033
+  - 9569
+- - 1971
+  - 8420
+- - 1971
+  - 8390
+- - 3257
+  - 10091
+- - 3257
+  - 10208
+- - 8388
+  - 9168
+- - 837
+  - 3549
+- - 837
+  - 6907
+- - 70
+  - 1634
+- - 5580
+  - 727
+- - 4176
+  - 1634
+- - 4176
+  - 9706
+- - 6098
+  - 252
+- - 3451
+  - 6907
+- - 8789
+  - 7260
+- - 727
+  - 3549
+- - 7259
+  - 7924
+- - 7259
+  - 10091
+- - 7260
+  - 7141
+- - 9948
+  - 7394
+- - 10208
+  - 7141
+node_attributes:
+  pos:
+    6144:
+    - 359775.1
+    - 4786828.46
+    - 1531.15
+    3584:
+    - 359696.97
+    - 4786912.88
+    - 1069.6
+    3458:
+    - 359749.09
+    - 4786812.96
+    - 1281.14
+    5891:
+    - 359765.61
+    - 4786795.98
+    - 1446.52
+    5248:
+    - 359737.93
+    - 4786818.45
+    - 1188.84
+    7694:
+    - 359760.01
+    - 4786819.86
+    - 1608.07
+    5264:
+    - 359753.26
+    - 4786830.85
+    - 1161.91
+    10005:
+    - 359753.68
+    - 4786826.82
+    - 1188.84
+    6549:
+    - 359627.72
+    - 4786975.23
+    - 1015.76
+    6166:
+    - 359588.28
+    - 4787037.86
+    - 869.61
+    792:
+    - 359747.61
+    - 4786825.04
+    - 1242.68
+    9244:
+    - 359741.17
+    - 4786824.06
+    - 1223.45
+    5276:
+    - 359741.62
+    - 4786801.33
+    - 1392.68
+    4513:
+    - 359765.65
+    - 4786820.45
+    - 1588.84
+    3107:
+    - 359747.61
+    - 4786825.04
+    - 1250.37
+    1572:
+    - 359733.61
+    - 4786800.06
+    - 1319.61
+    8102:
+    - 359610.62
+    - 4787022.22
+    - 931.15
+    10033:
+    - 359705.51
+    - 4786852.12
+    - 1108.06
+    1971:
+    - 359773.71
+    - 4786821.3
+    - 1588.83
+    3257:
+    - 359764.26
+    - 4786826.89
+    - 1446.52
+    8388:
+    - 359740.49
+    - 4786804.36
+    - 1296.53
+    837:
+    - 359755.12
+    - 4786824.95
+    - 1646.53
+    8390:
+    - 359775.1
+    - 4786828.46
+    - 1558.07
+    70:
+    - 359765.61
+    - 4786795.98
+    - 1434.98
+    5580:
+    - 359759.0
+    - 4786831.0
+    - 1685.0
+    4176:
+    - 359757.63
+    - 4786795.51
+    - 1408.06
+    9168:
+    - 359744.51
+    - 4786808.38
+    - 1296.53
+    6098:
+    - 359748.37
+    - 4786829.84
+    - 1238.83
+    3451:
+    - 359760.01
+    - 4786819.86
+    - 1627.3
+    8789:
+    - 359766.88
+    - 4786808.07
+    - 1473.44
+    727:
+    - 359755.12
+    - 4786829.81
+    - 1677.3
+    7259:
+    - 359773.38
+    - 4786840.17
+    - 1492.68
+    7260:
+    - 359773.41
+    - 4786814.16
+    - 1442.67
+    3549:
+    - 359755.12
+    - 4786824.95
+    - 1661.91
+    6620:
+    - 359610.62
+    - 4787022.22
+    - 881.15
+    9948:
+    - 359600.7
+    - 4786993.05
+    - 854.0
+    10208:
+    - 359764.26
+    - 4786826.89
+    - 1442.67
+    9569:
+    - 359753.26
+    - 4786830.85
+    - 1123.45
+    1634:
+    - 359761.27
+    - 4786791.16
+    - 1431.14
+    7394:
+    - 359580.76
+    - 4787011.64
+    - 854.23
+    8420:
+    - 359765.65
+    - 4786820.45
+    - 1627.3
+    7141:
+    - 359772.71
+    - 4786818.15
+    - 1442.67
+    9706:
+    - 359757.63
+    - 4786795.51
+    - 1392.68
+    10091:
+    - 359768.52
+    - 4786840.0
+    - 1473.45
+    3057:
+    - 359733.61
+    - 4786800.06
+    - 1369.61
+    7924:
+    - 359776.51
+    - 4786836.45
+    - 1508.07
+    6907:
+    - 359756.78
+    - 4786819.52
+    - 1638.84
+    252:
+    - 359740.33
+    - 4786828.85
+    - 1234.99
+  idsql:
+    6144:
+    - 8815
+    3584:
+    - 8845
+    3458:
+    - 8834
+    5891:
+    - 8824
+    5248:
+    - 8840
+    7694:
+    - 8810
+    5264:
+    - 8842
+    10005:
+    - 8841
+    6549:
+    - 8846
+    6166:
+    - 8849
+    792:
+    - 8836
+    9244:
+    - 8839
+    5276:
+    - 8829
+    4513:
+    - 8811
+    3107:
+    - 8835
+    1572:
+    - 8831
+    8102:
+    - 8847
+    10033:
+    - 8844
+    1971:
+    - 8813
+    3257:
+    - 8819
+    8388:
+    - 8832
+    837:
+    - 8807
+    8390:
+    - 8814
+    70:
+    - 8825
+    5580:
+    - 8804
+    4176:
+    - 8827
+    9168:
+    - 8833
+    6098:
+    - 8837
+    3451:
+    - 8809
+    8789:
+    - 8823
+    727:
+    - 8805
+    7259:
+    - 8817
+    7260:
+    - 8822
+    3549:
+    - 8806
+    6620:
+    - 8848
+    9948:
+    - 8851
+    10208:
+    - 8820
+    9569:
+    - 8843
+    1634:
+    - 8826
+    7394:
+    - 8850
+    8420:
+    - 8812
+    7141:
+    - 8821
+    9706:
+    - 8828
+    10091:
+    - 8818
+    3057:
+    - 8830
+    7924:
+    - 8816
+    6907:
+    - 8808
+    252:
+    - 8838
+  comments:
+    5580:
+    - T173 Dossers Delight
+  flags:
+    6144:
+    - fix
+    3584:
+    - fix
+    3458:
+    - fix
+    5891:
+    - fix
+    5248:
+    - fix
+    7694:
+    - fix
+    5264:
+    - fix
+    10005:
+    - fix
+    6549:
+    - fix
+    6166:
+    - fix
+    792:
+    - fix
+    9244:
+    - fix
+    5276:
+    - fix
+    4513:
+    - fix
+    3107:
+    - fix
+    1572:
+    - fix
+    8102:
+    - fix
+    10033:
+    - fix
+    1971:
+    - fix
+    3257:
+    - fix
+    8388:
+    - fix
+    837:
+    - fix
+    8390:
+    - fix
+    70:
+    - fix
+    5580:
+    - fix
+    - ent
+    4176:
+    - fix
+    9168:
+    - fix
+    6098:
+    - fix
+    3451:
+    - fix
+    8789:
+    - fix
+    727:
+    - fix
+    7259:
+    - fix
+    7260:
+    - fix
+    3549:
+    - fix
+    6620:
+    - fix
+    9948:
+    - fix
+    10208:
+    - fix
+    9569:
+    - fix
+    1634:
+    - fix
+    7394:
+    - fix
+    8420:
+    - fix
+    7141:
+    - fix
+    9706:
+    - fix
+    10091:
+    - fix
+    3057:
+    - fix
+    7924:
+    - fix
+    6907:
+    - fix
+    252:
+    - fix
+  fulladdress:
+    6144:
+    - andara.picoboro.t173_dossers.11
+    3584:
+    - andara.picoboro.t173_dossers.41
+    3458:
+    - andara.picoboro.t173_dossers.30
+    5891:
+    - andara.picoboro.t173_dossers.20
+    5248:
+    - andara.picoboro.t173_dossers.36
+    7694:
+    - andara.picoboro.t173_dossers.6
+    5264:
+    - andara.picoboro.t173_dossers.38
+    10005:
+    - andara.picoboro.t173_dossers.37
+    6549:
+    - andara.picoboro.t173_dossers.42
+    6166:
+    - andara.picoboro.t173_dossers.45
+    792:
+    - andara.picoboro.t173_dossers.32
+    9244:
+    - andara.picoboro.t173_dossers.35
+    5276:
+    - andara.picoboro.t173_dossers.25
+    4513:
+    - andara.picoboro.t173_dossers.7
+    3107:
+    - andara.picoboro.t173_dossers.31
+    1572:
+    - andara.picoboro.t173_dossers.27
+    8102:
+    - andara.picoboro.t173_dossers.43
+    10033:
+    - andara.picoboro.t173_dossers.40
+    1971:
+    - andara.picoboro.t173_dossers.9
+    3257:
+    - andara.picoboro.t173_dossers.15
+    8388:
+    - andara.picoboro.t173_dossers.28
+    837:
+    - andara.picoboro.t173_dossers.3
+    8390:
+    - andara.picoboro.t173_dossers.10
+    70:
+    - andara.picoboro.t173_dossers.21
+    5580:
+    - andara.picoboro.t173
+    4176:
+    - andara.picoboro.t173_dossers.23
+    9168:
+    - andara.picoboro.t173_dossers.29
+    6098:
+    - andara.picoboro.t173_dossers.33
+    3451:
+    - andara.picoboro.t173_dossers.5
+    8789:
+    - andara.picoboro.t173_dossers.19
+    727:
+    - andara.picoboro.t173_dossers.1
+    7259:
+    - andara.picoboro.t173_dossers.13
+    7260:
+    - andara.picoboro.t173_dossers.18
+    3549:
+    - andara.picoboro.t173_dossers.2
+    6620:
+    - andara.picoboro.t173_dossers.44
+    9948:
+    - andara.picoboro.t173_dossers.47
+    10208:
+    - andara.picoboro.t173_dossers.16
+    9569:
+    - andara.picoboro.t173_dossers.39
+    1634:
+    - andara.picoboro.t173_dossers.22
+    7394:
+    - andara.picoboro.t173_dossers.46
+    8420:
+    - andara.picoboro.t173_dossers.8
+    7141:
+    - andara.picoboro.t173_dossers.17
+    9706:
+    - andara.picoboro.t173_dossers.24
+    10091:
+    - andara.picoboro.t173_dossers.14
+    3057:
+    - andara.picoboro.t173_dossers.26
+    7924:
+    - andara.picoboro.t173_dossers.12
+    6907:
+    - andara.picoboro.t173_dossers.4
+    252:
+    - andara.picoboro.t173_dossers.34

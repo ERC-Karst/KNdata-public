@@ -35,8 +35,8 @@ local_id: .nan
 local_coordinate_system: CH1903/LV03
 local_easting_coordinate: '580720'
 local_northing_coordinate: '233470'
-'share_coordinates ': public
-latitude: '47.2516'
+share_coordinates: public
+latitude: 47.2516
 longitude: 7.1838
 altitude: '137'
 length_official_meter: '825'
@@ -70,7 +70,7 @@ sample_figures: .nan
 comments_dataset: .nan
 Column 62: .nan
 last_processing_date: 08 Aug 2025
-percentage_csidm: 98
+percentage_csdim: 98
 number_connected_components: 1
 number_nodes: 138
 number_edges: 137
