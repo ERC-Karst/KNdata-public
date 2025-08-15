@@ -1,0 +1,82 @@
+number: '005'
+short_name: Sakany
+status: clean
+issues: .nan
+type_of_correction: manual correction
+original_format: GHTopo
+original_to_sql: ghtopo --> TEXT --> tr2th --> therion -->  sql
+todo: .nan
+length_approx_meter: 6793.0
+connected_components: multiple caves
+license: unclear. may not be sharable
+id_dataset: GTO/KN
+comments_cave_info: .nan
+comments_cleaning: .nan
+full_name: Reseau Sakany
+other_names: .nan
+type_dataset: Online
+all_data_format: GHTopo
+geometry: lrud
+verify_geometry_export: .nan
+units: meter
+original_filename: Reseau_Sakany_tr.Text
+original_encoding: ANSI
+crs_original_dataset: epsg:27572
+crs_clean_dataset: .nan
+crs_check: based on info in xtb file
+crs_other: epsg:27573 (France)
+country: France
+state: Occitanie
+area: Ariège
+locality: Quié
+grotto_id: '75318'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:27573
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+share_coordinates: public
+latitude: 42.8359
+longitude: 1.5959
+altitude: '138'
+length_official_meter: '6296'
+length_dataset: .nan
+denivelation: '138 (Amoureux) 138 (Sakany) 138 (Sakanette) 138 (Echelles) '
+cave_url: https://grottocenter.org/ui/caves/75318
+supplemental_links: http://lecrad.free.fr/Topos/bdd_topos/sakany.htm
+geology: limestone
+facies: 'limestone : urgo-aptien'
+speleogenesis: polygenic
+speleogenesis additional context: phreatic / hypogene / paragenetic / hydrothermal
+fracturation: unknown
+deformation: tilted
+deformation additional context: titled (25-30)
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: mars 2012
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://ghtopo.blog4ever.com/reseau-sakany
+email_correspondant: .nan
+citation: 'Groupe de Recherches et d’Activités Spéléologiques de Lourdes. (2024).
+  Base de données topographiques de la grotte Sakany (Version Version of the 25/07/2015)
+  [GHTopo]. Examples de grotte du programme GHTopo. https://ghtopo.blog4ever.com/reseau-sakany
+
+  '
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+Column 62: .nan
+last_processing_date: 08 Aug 2025
+percentage_csdim: 95
+number_connected_components: 1
+number_nodes: 1426
+number_edges: 1467
+number_cycles: 42
+total_length: 5666

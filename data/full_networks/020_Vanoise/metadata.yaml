@@ -1,0 +1,78 @@
+number: '020'
+short_name: Vanoise
+status: clean
+issues: .nan
+type_of_correction: manual correction
+original_format: Therion
+original_to_sql: therion --> 3d --> therion --> 3d --> sql
+todo: .nan
+length_approx_meter: 2551.0
+connected_components: multiple caves
+license: CC BY-NC-SA 4.0
+id_dataset: GH5
+comments_cave_info: .nan
+comments_cleaning: .nan
+full_name: Gouffres de la Vanoise
+other_names: .nan
+type_dataset: Online
+all_data_format: Therion
+geometry: splays
+verify_geometry_export: .nan
+units: meter
+original_filename: .nan
+original_encoding: .nan
+crs_original_dataset: epsg:32632
+crs_clean_dataset: epsg:32632
+crs_check: .nan
+crs_other: .nan
+country: France
+state: Auvergne-Rhône-Alpes
+area: Massif de la Vanoise
+locality: Pralognan-la-Vanoise
+grotto_id: 68734 (Arcellin) 68762 (Assiettes)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:32632
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+share_coordinates: public
+latitude: 45.3748
+longitude: 6.768
+altitude: .nan
+length_official_meter: 2200 (Arcelin)
+length_dataset: .nan
+denivelation: 135 (Arcelin)
+cave_url: https://grottocenter.org/ui/entrances/68734
+supplemental_links: https://continent-8.org/expedition-vanoise-2023/
+geology: marble
+facies: .nan
+speleogenesis: epigenic
+speleogenesis additional context: .nan
+fracturation: medium
+deformation: folded
+deformation additional context: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: .nan
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+Column 62: .nan
+last_processing_date: 08 Aug 2025
+percentage_csdim: 85
+number_connected_components: 1
+number_nodes: 471
+number_edges: 484
+number_cycles: 14
+total_length: 2063

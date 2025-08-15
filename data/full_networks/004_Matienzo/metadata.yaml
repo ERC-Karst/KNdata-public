@@ -1,0 +1,81 @@
+number: '004'
+short_name: Matienzo
+status: clean
+issues: Clean 3d export
+type_of_correction: semi-automatic correction
+original_format: Survex
+original_to_sql: svx --> .3d --> therion --> sql
+todo: fix issues with .3d clean export
+length_approx_meter: 149700.0
+connected_components: multiple caves
+license: CC BY-NC-SA 4.0
+id_dataset: PAPARD
+comments_cave_info: Marco Dentz sent the link to the repo. we should contact them
+  to see if we can get the svx project
+comments_cleaning: manual reconnections of DN / connections of CC which are less than
+  10m apart (if more, not relevant)
+full_name: Matienzo caves
+other_names: .nan
+type_dataset: Call for data 2
+all_data_format: .3d
+geometry: splays
+verify_geometry_export: .nan
+units: meter
+original_filename: all.3d
+original_encoding: binary
+crs_original_dataset: EPSG:25830
+crs_clean_dataset: .nan
+crs_check: .nan
+crs_other: ETRS89 / UTM zone 30N
+country: Spain
+state: Cantabria
+area: Castro Urdiales
+locality: Matienzo
+grotto_id: 33375 (Bollon) / 33388 (Calleja Rebollo) / 33447 (Colmenas) /  33465 (Covern)
+  / 33807 (Suviejo)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:27573
+local_easting_coordinate: .nan
+local_northing_coordinate: .nan
+share_coordinates: public
+latitude: 43.3067
+longitude: -3.6315
+altitude: '293'
+length_official_meter: .nan
+length_dataset: .nan
+denivelation: .nan
+cave_url: https://matienzocaves.org.uk/Systems/intro.htm
+supplemental_links: https://www.matienzocaves.org.uk/Leaflet/Leaflet-latest.html?center=348&zoom=16&map_type=GV_HYBRID
+geology: limestone
+facies: need to check if there are other lithology
+speleogenesis: polygenic
+speleogenesis additional context: .nan
+fracturation: high
+deformation: heavily deformed
+deformation additional context: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+Column 62: .nan
+last_processing_date: 08 Aug 2025
+percentage_csdim: 10
+number_connected_components: 1
+number_nodes: 64
+number_edges: 75
+number_cycles: 12
+total_length: 1239

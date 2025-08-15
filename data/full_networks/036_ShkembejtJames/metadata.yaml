@@ -1,0 +1,79 @@
+number: '036'
+short_name: ShkembejtJames
+status: clean
+issues: .nan
+type_of_correction: semi-automatic correction
+original_format: Survex
+original_to_sql: svx --> .3d --> therion --> sql
+todo: .nan
+length_approx_meter: 3723.0
+connected_components: multiple caves
+license: To confirm
+id_dataset: CAVE-REGISTRY
+comments_cave_info: Cave was named Albania. the cave is not present in the grotto
+  center. in folder Northern England, Foreign bodies
+comments_cleaning: .nan
+full_name: shkembejt e james
+other_names: .nan
+type_dataset: Online
+all_data_format: Survex
+geometry: .nan
+verify_geometry_export: .nan
+units: meter
+original_filename: .nan
+original_encoding: .nan
+crs_original_dataset: EPSG::32634
+crs_clean_dataset: epsg::32634
+crs_check: verified from svx file and on qgis
+crs_other: .nan
+country: Alabania
+state: Shkodër
+area: Berizhdoli
+locality: Shkembejt e James
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:32634
+local_easting_coordinate: '396802'
+local_northing_coordinate: '4706512'
+share_coordinates: public
+latitude: 42.504
+longitude: 19.7439
+altitude: '1810'
+length_official_meter: .nan
+length_dataset: .nan
+denivelation: .nan
+cave_url: .nan
+supplemental_links: .nan
+geology: unknown
+facies: .nan
+speleogenesis: unknown
+speleogenesis additional context: .nan
+fracturation: unknown
+deformation: unknown
+deformation additional context: .nan
+contract_file: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+statistical_results: .nan
+sample_figures: .nan
+comments_dataset: .nan
+Column 62: .nan
+last_processing_date: 08 Aug 2025
+percentage_csdim: 0
+number_connected_components: 7
+number_nodes: 641
+number_edges: 634
+number_cycles: 0
+total_length: 3723

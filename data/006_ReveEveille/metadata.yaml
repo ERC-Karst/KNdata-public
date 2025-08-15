@@ -26,26 +26,26 @@ crs_clean_dataset: .nan
 crs_check: .nan
 crs_other: local
 country: Chile
-state: .nan
-area: .nan
-locality: .nan
+state: Región de Magallanes y de la Antártica Chilena
+area: Natales
+locality: Archipiélago Madre de Dios
 grotto_id: /
 country_cave_id: .nan
 local_id: .nan
-local_coordinate_system: .nan
+local_coordinate_system: Local
 local_easting_coordinate: .nan
 local_northing_coordinate: .nan
-'share_coordinates ': unknown
-latitude: .nan
-longitude: .nan
-altitude: .nan
-length_official_meter: .nan
+share_coordinates: public
+latitude: -50.0657
+longitude: -75.1592
+altitude: '145'
+length_official_meter: '331'
 length_dataset: .nan
-denivelation: .nan
+denivelation: '124'
 cave_url: .nan
 supplemental_links: .nan
-geology: unknown
-facies: .nan
+geology: limestone
+facies: 'limestone : tarlton '
 speleogenesis: epigenic
 speleogenesis additional context: .nan
 fracturation: unknown
@@ -71,7 +71,7 @@ sample_figures: .nan
 comments_dataset: .nan
 Column 62: .nan
 last_processing_date: 08 Aug 2025
-percentage_csidm: 98
+percentage_csdim: 98
 number_connected_components: 1
 number_nodes: 78
 number_edges: 77
