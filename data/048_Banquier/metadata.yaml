@@ -73,6 +73,6 @@ last_processing_date: 08 Aug 2025
 percentage_csdim: 17
 number_connected_components: 1
 number_nodes: 2054
-number_edges: 2085
-number_cycles: 32
-total_length: 13865
+number_edges: 2083
+number_cycles: 30
+total_length: 12838

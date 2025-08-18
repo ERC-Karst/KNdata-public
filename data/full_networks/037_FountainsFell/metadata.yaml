@@ -25,7 +25,7 @@ crs_original_dataset: OSGB:SD
 crs_clean_dataset: epsg:32630
 crs_check: verified from svx file and on qgis
 crs_other: .nan
-country: England
+country: UK
 state: Yorkshire
 area: Helwith Bridge
 locality: Pen-y-ghent
@@ -72,7 +72,7 @@ Column 62: .nan
 last_processing_date: 08 Aug 2025
 percentage_csdim: 0
 number_connected_components: 1
-number_nodes: 349
-number_edges: 348
-number_cycles: 0
-total_length: 3766
+number_nodes: 234
+number_edges: 236
+number_cycles: 3
+total_length: 1089

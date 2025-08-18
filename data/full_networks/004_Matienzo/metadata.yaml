@@ -73,9 +73,9 @@ sample_figures: .nan
 comments_dataset: .nan
 Column 62: .nan
 last_processing_date: 08 Aug 2025
-percentage_csdim: 10
+percentage_csdim: 12
 number_connected_components: 1
-number_nodes: 64
-number_edges: 75
+number_nodes: 55
+number_edges: 66
 number_cycles: 12
-total_length: 1239
+total_length: 1034

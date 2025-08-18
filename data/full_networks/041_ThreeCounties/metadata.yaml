@@ -27,7 +27,7 @@ crs_original_dataset: OSGB:SD
 crs_clean_dataset: epsg:32630
 crs_check: verified from svx file and on qgis
 crs_other: .nan
-country: England
+country: UK
 state: Cumbria
 area: South Lakeland
 locality: Bullpot Farm

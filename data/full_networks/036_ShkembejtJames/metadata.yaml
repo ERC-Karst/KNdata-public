@@ -73,7 +73,7 @@ Column 62: .nan
 last_processing_date: 08 Aug 2025
 percentage_csdim: 0
 number_connected_components: 7
-number_nodes: 641
-number_edges: 634
+number_nodes: 420
+number_edges: 413
 number_cycles: 0
-total_length: 3723
+total_length: 2808

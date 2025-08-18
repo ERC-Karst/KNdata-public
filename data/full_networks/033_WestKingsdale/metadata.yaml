@@ -26,7 +26,7 @@ crs_original_dataset: OSGB:SD
 crs_clean_dataset: epsg:32630
 crs_check: verified from svx file and on qgis
 crs_other: .nan
-country: England
+country: UK
 state: Yorkshire and the Humber
 area: Carnforth
 locality: Ingleton
@@ -73,7 +73,7 @@ Column 62: .nan
 last_processing_date: 08 Aug 2025
 percentage_csdim: 0
 number_connected_components: 1
-number_nodes: 176
-number_edges: 178
-number_cycles: 3
-total_length: 1196
+number_nodes: 169
+number_edges: 168
+number_cycles: 0
+total_length: 1376
