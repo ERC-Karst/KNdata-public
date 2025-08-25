@@ -1,0 +1,110 @@
+number: 019025
+short_name: Loser_025
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 08 Aug 2025
+license: To confirm
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1516
+total_depth: 307.69
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 154
+number_edges: 153
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  MzMzMzMz/z8=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  EQAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  hetRuB6F5z8=
+number_cycles: 0
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  H4XrUbh+REA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  uB6F61G45j8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  4XoUrkfh6j8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  30+Nl24S5z8=
+aspl: 5.26
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  mG4Sg8DK4T8=
+correlation_vertex_degree: -0.345
+original_format: Survex
+id_dataset: TODD
+comments_cave_info: 'Contains: Schoenberg and Schwarzmooskogel'
+full_name: Loser Plateau
+geometry: .nan
+units: meter
+country: Austria
+state: Steiermark
+area: Bad Aussee
+locality: Loser/Augst-Eck Plateau
+grotto_id: 23661 (Schönberg)
+country_cave_id: 1626/300 (Schönberg) 1623/40 (Schwarzmooskogel)
+local_id: .nan
+local_coordinate_system: Local
+latitude: 47.7015
+longitude: 13.7723
+altitude: .nan
+cave_url: https://www.zobodat.at/pdf/Hoehle_056_0072-0076.pdf
+supplemental_links: https://grottocenter.org/ui/entrances/23661
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

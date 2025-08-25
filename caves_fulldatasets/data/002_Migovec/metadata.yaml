@@ -1,0 +1,111 @@
+number: '002'
+short_name: Migovec
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: 'ICCC, & JSDPT. (2024). Survey Data for the Tolminski Migovec Cave Exploration
+  project (Version 2024.03.13) [Dataset]. Zenodo. https://doi.org/DOI: 10.5281/ZENODO.108130'
+thanks: .nan
+sharing_conditions: .nan
+total_length: 46317
+total_depth: 968.62
+percentage_csdim: 13
+number_connected_components: 1
+number_nodes: 7163
+number_edges: 7206
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  uB6F61G4AEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BgAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  9ihcj8L14D8=
+number_cycles: 44
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  mpmZmZnZSEA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  KVyPwvUo9D8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  4XoUrkfh2j8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  d76fGi/d7D8=
+aspl: 35.94
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  w/UoXI/C4T8=
+correlation_vertex_degree: -0.304
+original_format: Therion
+id_dataset: GH4
+comments_cave_info: .nan
+full_name: System Migovec
+geometry: splays
+units: meter
+country: Slovenia
+state: Čadrg
+area: .nan
+locality: Tolminske Ravne
+grotto_id: '88328'
+country_cave_id: '6001'
+local_id: .nan
+local_coordinate_system: .nan
+latitude: 46.25198
+longitude: 13.76394
+altitude: '1854'
+cave_url: https://grottocenter.org/ui/entrances/88328
+supplemental_links: https://www.katasterjam.si/caves/6001?activeTab=data
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

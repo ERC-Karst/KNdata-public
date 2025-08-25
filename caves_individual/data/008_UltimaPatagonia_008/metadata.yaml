@@ -1,0 +1,112 @@
+number: 008008
+short_name: UltimaPatagonia_008
+status: clean
+type_of_correction: no correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Centre Terre. (2024). Survey Data for the Ultima Patagonia Cave Exploration
+  project [Dataset]. https://github.com/tr1813/ultima-patag
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1061
+total_depth: 143.65
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 169
+number_edges: 171
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  4XoUrkfhAEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BwAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  UrgehetR4D8=
+number_cycles: 3
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  UrgehetRPkA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  KVyPwvUo5D8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  w/UoXI/C7T8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  Rrbz/dR46T8=
+aspl: 6.37
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  JzEIrBxa3D8=
+correlation_vertex_degree: -0.515
+original_format: Therion
+id_dataset: GH3
+comments_cave_info: .nan
+full_name: Ultima Patagonia
+geometry: .nan
+units: meter
+country: Chile
+state: Región de Magallanes y de la Antártica Chilena
+area: Natales
+locality: Archipielago Madre de Dios
+grotto_id: 64835 (Condors) / 65033 (Détente) / 65042 (Lobos) / 65017 (Passoire) /
+  65016 (Ptit Creux) / 65011 (Comète)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: Local ?
+latitude: -50.2946
+longitude: -75.2895
+altitude: '141'
+cave_url: https://grottocenter.org/ui/entrances/64835
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

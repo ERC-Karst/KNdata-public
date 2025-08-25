@@ -1,0 +1,118 @@
+number: 015008
+short_name: CountyClare_008
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2835
+total_depth: 0.0
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 539
+number_edges: 539
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AAAAAAAAAEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BQAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  SOF6FK5H4T8=
+number_cycles: 1
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAccEA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  FK5H4XoU7j8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  exSuR+F65D8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  LbKd76fG4z8=
+aspl: 3.28
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  eekmMQis3D8=
+correlation_vertex_degree: -0.663
+original_format: Survex
+id_dataset: UBSS/CAVE-REGISTRY
+comments_cave_info: 'mulitple waring messages when compiling therion: "Forwards and
+  backwards reading do not match, year 1958 magnetic declination used for undated
+  surveys
+
+  - commented fix points with weird values in cullauns folder, and changed the epsg:
+  29903 to 2157 for cullauns in Burren.th'
+full_name: The Caves of County Clare
+geometry: splays
+units: meter
+country: Ireland
+state: County Clare
+area: 'The Burren '
+locality: 'Carrownacleary
+
+  '
+grotto_id: 10799 (Cullaun Zero Cave) / 10787 (Coolagh River Cave) / 10793 (Cullaun
+  1 Cave)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:2157 / Local
+latitude: 53.0571
+longitude: -9.3057
+altitude: '172'
+cave_url: https://grottomap.org/en/list/IE/County%20Clare
+supplemental_links: https://www.ukcaves.co.uk/map-clare
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

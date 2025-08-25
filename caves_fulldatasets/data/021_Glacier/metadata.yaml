@@ -1,0 +1,110 @@
+number: '021'
+short_name: Glacier
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 4411
+total_depth: 230.47
+percentage_csdim: 100
+number_connected_components: 1
+number_nodes: 900
+number_edges: 939
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  CtejcD0KA0A=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BAAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  MQisHFpk2z8=
+number_cycles: 40
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  mpmZmZnZMkA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  PQrXo3A96j8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  7FG4HoXr4T8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  UrgehetR7D8=
+aspl: 10.51
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  ke18PzVe2j8=
+correlation_vertex_degree: -0.179
+original_format: Toporobot
+id_dataset: JD
+comments_cave_info: JD intéressé par version therion
+full_name: Grotte du Glacier
+geometry: lrud
+units: meter
+country: Switzerland
+state: Vaud
+area: Grande Chaux de la Naye
+locality: Haut-Intyamon
+grotto_id: '75520'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: CH1903/LV03
+latitude: 46.43818
+longitude: 6.9883
+altitude: '1802'
+cave_url: http://www.speleo-lausanne.ch/06_Activites/Explorations/Vd-alpes/Rochers-Naye/Glacier/_Glacier-home.htm
+supplemental_links: https://grottocenter.org/ui/caves/75520
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

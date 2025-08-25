@@ -1,0 +1,110 @@
+number: '022'
+short_name: CombeBryon
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 4198
+total_depth: 644.16
+percentage_csdim: 99
+number_connected_components: 1
+number_nodes: 606
+number_edges: 615
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  KVyPwvUoAkA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BAAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  L90kBoGV2z8=
+number_cycles: 10
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  cT0K16OQTUA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  XI/C9Shc8z8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  j8L1KFyP4j8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  mG4Sg8DK6T8=
+aspl: 8.87
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  Vg4tsp3v3z8=
+correlation_vertex_degree: -0.244
+original_format: Toporobot
+id_dataset: JD
+comments_cave_info: JD intéressé par version therion
+full_name: Réseau de la Combe du Bryon
+geometry: lrud
+units: meter
+country: Switzerland
+state: Vaud
+area: Mont d'Or
+locality: Leysin
+grotto_id: '75515'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+latitude: 46.3719
+longitude: 7.022
+altitude: '1711'
+cave_url: https://grottocenter.org/ui/caves/75515
+supplemental_links: http://www.speleo-lausanne.ch/06_Activites/Explorations/Vd-alpes/Mayen-Famelon/Bryon/Reseau/_Reseau-Combe-Bryon.htm
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

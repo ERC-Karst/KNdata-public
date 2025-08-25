@@ -1,0 +1,110 @@
+number: '024000'
+short_name: Lajoux_000
+status: clean
+type_of_correction: no correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1305
+total_depth: 220.16
+percentage_csdim: 95
+number_connected_components: 1
+number_nodes: 327
+number_edges: 326
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  hetRuB6F/z8=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BAAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  mpmZmZmZ4T8=
+number_cycles: 0
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  w/UoXI+CNkA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  CtejcD0K8z8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  hetRuB6F4z8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  AiuHFtnO5z8=
+aspl: 7.43
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  EoPAyqFF4j8=
+correlation_vertex_degree: -0.251
+original_format: Visual Topo
+id_dataset: LS
+comments_cave_info: 'csdim issue : many heigth values equal zero in raw file'
+full_name: Gouffre de Lajoux
+geometry: lrud
+units: meter
+country: Switzerland
+state: Jura
+area: Etang des Beusses
+locality: Lajoux
+grotto_id: '37250'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: Local ?
+latitude: 47.2844
+longitude: 7.1492
+altitude: '971'
+cave_url: https://grottocenter.org/ui/entrances/37250
+supplemental_links: http://mdemierre.speleologie.ch/?p=2584
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

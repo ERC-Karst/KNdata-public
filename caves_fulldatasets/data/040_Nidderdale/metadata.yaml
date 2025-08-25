@@ -1,0 +1,111 @@
+number: '040'
+short_name: Nidderdale
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: To confirm
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 5173
+total_depth: 90.54
+percentage_csdim: 80
+number_connected_components: 6
+number_nodes: 971
+number_edges: 983
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  H4XrUbgeAUA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BAAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  vHSTGARW3j8=
+number_cycles: 18
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  CtejcD3KPkA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  ZmZmZmZm9j8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  w/UoXI/C1T8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  5/up8dJN6j8=
+aspl: 11.92
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  BFYOLbKd1z8=
+correlation_vertex_degree: -0.232
+original_format: Therion
+id_dataset: CAVE-REGISTRY
+comments_cave_info: used the sql produced by the original therion files, because the
+  coordinate system was not obvious
+full_name: Nidderdale
+geometry: splays
+units: meter
+country: UK
+state: England
+area: North Yorkshire
+locality: Middlesmoor
+grotto_id: '31703'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:27700
+latitude: 54.1807
+longitude: -1.8486
+altitude: '237'
+cave_url: https://grottocenter.org/ui/entrances/31703
+supplemental_links: http://cavemaps.org/cavePages/Nidderdale__Goyden%20Pot.htm
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://grottocenter.org/ui/entrances/31703
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

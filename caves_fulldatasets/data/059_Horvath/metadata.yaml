@@ -1,0 +1,110 @@
+number: 059
+short_name: Horvath
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: .nan
+thanks: .nan
+sharing_conditions: .nan
+total_length: 827
+total_depth: 62.73
+percentage_csdim: 55
+number_connected_components: 2
+number_nodes: 140
+number_edges: 143
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  9ihcj8L1AEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BAAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  /tR46SYx4D8=
+number_cycles: 5
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  CtejcD2KMEA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  w/UoXI/CBUA=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  mpmZmZmZyT8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  9ihcj8L16D8=
+aspl: 5.92
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  Gy/dJAaB3T8=
+correlation_vertex_degree: -0.114
+original_format: Therion
+id_dataset: GH9
+comments_cave_info: .nan
+full_name: Horvath
+geometry: .nan
+units: meter
+country: France
+state: Auvergne-Rhône-Alpes
+area: Parc Naturel de la Chartreuse
+locality: Saint-Pierre-de-Chartreuse
+grotto_id: '6053'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: WGS84
+latitude: 45.3296
+longitude: 5.85652
+altitude: '1173'
+cave_url: https://grottocenter.org/ui/entrances/6053
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

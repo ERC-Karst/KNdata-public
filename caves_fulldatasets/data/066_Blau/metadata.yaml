@@ -1,0 +1,110 @@
+number: '066'
+short_name: Blau
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1336
+total_depth: 106.93
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 242
+number_edges: 241
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  uB6F61G4/j8=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BAAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  NV66SQwC4z8=
+number_cycles: 0
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  7FG4HoULTUA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  exSuR+F68D8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  j8L1KFyP6j8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  CKwcWmQ76z8=
+aspl: 4.29
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  VOOlm8Qg4D8=
+correlation_vertex_degree: -0.374
+original_format: Therion
+id_dataset: K3D
+comments_cave_info: .nan
+full_name: Cavité Trou du Vent du Blau
+geometry: .nan
+units: meter
+country: France
+state: Occitanie
+area: Aude
+locality: Puivert
+grotto_id: '34684'
+country_cave_id: 58 (KARST3D)
+local_id: 77 (CDS Aude)
+local_coordinate_system: 'EPSG:27573 '
+latitude: 42.8781
+longitude: 2.0421
+altitude: '710'
+cave_url: https://grottocenter.org/ui/entrances/34684
+supplemental_links: https://data.oreme.org/karst3d/karst3d_map#selected_layer=karst3d_station&selected_station=58
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

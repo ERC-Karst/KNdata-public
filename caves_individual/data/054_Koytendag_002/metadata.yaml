@@ -1,0 +1,110 @@
+number: '054002'
+short_name: Koytendag_002
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: .nan
+thanks: .nan
+sharing_conditions: .nan
+total_length: 3623
+total_depth: 51.8
+percentage_csdim: 85
+number_connected_components: 1
+number_nodes: 271
+number_edges: 282
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  hetRuB6FAUA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BgAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  pHA9Ctej4D8=
+number_cycles: 12
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  MzMzMzMzPkA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  H4XrUbge8T8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  mpmZmZmZ2T8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  /tR46SYx6D8=
+aspl: 9.47
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  N4lBYOXQ2j8=
+correlation_vertex_degree: -0.23
+original_format: Therion
+id_dataset: GH7
+comments_cave_info: .nan
+full_name: Koyten Dag
+geometry: splays
+units: meter
+country: Turkmenistan
+state: Lebap welaýaty
+area: Rodnik
+locality: Imeni Stalina
+grotto_id: 121121 (Ahmethan) / 121114 (Suw-Oyuk)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: Local
+latitude: 37.9454
+longitude: 66.6539
+altitude: '1300'
+cave_url: https://blog.crei.ffspeleo.fr/?p=1322
+supplemental_links: https://www.philippe-crochet.com/nouveautes/details/486/expedition-speleo-turkmenistan-avril-2024
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

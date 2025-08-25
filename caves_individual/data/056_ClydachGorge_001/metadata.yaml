@@ -1,0 +1,114 @@
+number: '056001'
+short_name: ClydachGorge_001
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2321
+total_depth: 112.21
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 230
+number_edges: 229
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AAAAAAAA/D8=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BAAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  tvP91Hjp4j8=
+number_cycles: 0
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  j8L1KFy7dEA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  H4XrUbge+T8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAA4D8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  rBxaZDvf4z8=
+aspl: 2.32
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  FK5H4XoU4j8=
+correlation_vertex_degree: -0.556
+original_format: Survex
+id_dataset: KN/SUMP4
+comments_cave_info: 'found the data in the temporaire folder in the karstnet database
+  archive, just found the data here: http://www.sump4.com/downloads/
+
+  comment in karstnet folder: Data obtained from: http://www.asheshouse.btinternet.co.uk/Cave_Survey_Data/Survex_Data_Files/Survex_Data_Files.htm
+  , Nov 2011'
+full_name: ClydachGorge
+geometry: .nan
+units: meter
+country: UK
+state: Wales
+area: ' Monmothshire'
+locality: Clydach Valley, Llanelly
+grotto_id: 70948 (Capel) 71006 (Draeren)
+country_cave_id: .nan
+local_id: 'CCC: 839 (Capel) 853 (Draeren)'
+local_coordinate_system: '?'
+latitude: 51.8065
+longitude: -3.1377
+altitude: '219'
+cave_url: https://grottocenter.org/ui/entrances/70948
+supplemental_links: http://www.sump4.com/downloads/
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: Nov 2012
+end_contract: .nan
+cave_survey_owner: .nan
+website: ' http://www.sump4.com/downloads/'
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

@@ -1,0 +1,110 @@
+number: '070'
+short_name: Cheminee
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: .nan
+thanks: .nan
+sharing_conditions: .nan
+total_length: 6364
+total_depth: 395.14
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 979
+number_edges: 984
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  CtejcD0KAUA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BAAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  WDm0yHa+3z8=
+number_cycles: 6
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  4XoUrkfxUkA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  ZmZmZmZm7j8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAA6D8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  hetRuB6F6z8=
+aspl: 10.47
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  EoPAyqFF3j8=
+correlation_vertex_degree: -0.204
+original_format: Therion
+id_dataset: K3D
+comments_cave_info: .nan
+full_name: aven de la cheminee
+geometry: .nan
+units: meter
+country: France
+state: Occitanie
+area: Causse Méjean
+locality: Les Vignes
+grotto_id: '94291'
+country_cave_id: 27 (KARST 3D)
+local_id: .nan
+local_coordinate_system: EPSG:27563
+latitude: 44.2739
+longitude: 3.2764
+altitude: '935'
+cave_url: https://grottocenter.org/ui/entrances/94291
+supplemental_links: https://data.oreme.org/karst3d/karst3d_map#selected_layer=karst3d_station&selected_station=27
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

@@ -1,0 +1,113 @@
+number: '003'
+short_name: Criou
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Robert, X., & Collectif Criou. (2023). Base de données topographiques des
+  systèmes karstiques du massif du Criou (Samoëns, 74, France) (Version 1.0.0) [Dataset].
+  Zenodo. https://doi.org/10.5281/zenodo.10020918'
+thanks: .nan
+sharing_conditions: .nan
+total_length: 31680
+total_depth: 1669.43
+percentage_csdim: 28
+number_connected_components: 20
+number_nodes: 5085
+number_edges: 5091
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  KVyPwvUoAEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BQAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  I9v5fmq84D8=
+number_cycles: 26
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  zczMzMyMS0A=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  rkfhehSu+z8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAA0D8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  oBov3SQG7T8=
+aspl: 23.46
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  j8L1KFyP0j8=
+correlation_vertex_degree: -0.267
+original_format: Therion
+id_dataset: GH2
+comments_cave_info: This system contains multiple connected components, because it
+  is composed of different caves
+full_name: Folly
+geometry: splays
+units: meter
+country: France
+state: Auvergne-Rhône-Alpes
+area: Haute-Savoie
+locality: Samoëns
+grotto_id: '75501'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: epsg:25832
+latitude: 46.0889
+longitude: 6.7705
+altitude: '1880'
+cave_url: https://grottocenter.org/ui/caves/75501
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

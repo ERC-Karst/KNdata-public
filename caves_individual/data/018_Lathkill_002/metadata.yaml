@@ -1,0 +1,110 @@
+number: 018002
+short_name: Lathkill_002
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1075
+total_depth: 58.16
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 199
+number_edges: 198
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  CtejcD0K/z8=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BQAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  arx0kxgE4j8=
+number_cycles: 0
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  uB6F61G4PkA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  cT0K16Nw7T8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  UrgehetR6D8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  TmIQWDm06D8=
+aspl: 6.06
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  hetRuB6F2z8=
+correlation_vertex_degree: -0.417
+original_format: Survex
+id_dataset: UBSS/CAVE-REGISTRY
+comments_cave_info: initially OSGB:SK
+full_name: The River Lathkill Catchment Area
+geometry: .nan
+units: meter
+country: UK
+state: East Midlands
+area: Derbyshire Dales
+locality: Monyash
+grotto_id: '32146'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:27700
+latitude: 53.1904
+longitude: -1.7512
+altitude: '216.55'
+cave_url: https://peakdistrictcaving.info/home/the-caves/lathkill-dale
+supplemental_links: https://peakdistrictcaving.info/home/the-caves/surveys
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

@@ -1,0 +1,112 @@
+number: '004003'
+short_name: Matienzo_003
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 36006
+total_depth: 321.3
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 4257
+number_edges: 4274
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  UrgehetRAEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  CwAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  EoPAyqFF4j8=
+number_cycles: 18
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  exSuR+F6REA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  KVyPwvUo9D8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAA0D8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  qMZLN4lB7D8=
+aspl: 27.88
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  i2zn+6nx4j8=
+correlation_vertex_degree: -0.278
+original_format: Survex
+id_dataset: PAPARD
+comments_cave_info: Marco Dentz sent the link to the repo. we should contact them
+  to see if we can get the svx project
+full_name: Matienzo caves
+geometry: splays
+units: meter
+country: Spain
+state: Cantabria
+area: Castro Urdiales
+locality: Matienzo
+grotto_id: 33375 (Bollon) / 33388 (Calleja Rebollo) / 33447 (Colmenas) /  33465 (Covern)
+  / 33807 (Suviejo)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:27573
+latitude: 43.3067
+longitude: -3.6315
+altitude: '293'
+cave_url: https://matienzocaves.org.uk/Systems/intro.htm
+supplemental_links: https://www.matienzocaves.org.uk/Leaflet/Leaflet-latest.html?center=348&zoom=16&map_type=GV_HYBRID
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

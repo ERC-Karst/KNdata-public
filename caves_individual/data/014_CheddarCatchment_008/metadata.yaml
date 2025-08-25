@@ -1,0 +1,115 @@
+number: 014008
+short_name: CheddarCatchment_008
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1077
+total_depth: 130.45
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 151
+number_edges: 152
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  uB6F61G4AEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BgAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  w/UoXI/C3T8=
+number_cycles: 2
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  KVyPwvWoSUA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  9ihcj8L18D8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  rkfhehSu5z8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  AiuHFtnO5z8=
+aspl: 4.4
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  yXa+nxov1T8=
+correlation_vertex_degree: -0.357
+original_format: Therion
+id_dataset: UBSS
+comments_cave_info: "Contact UBSS??, coordinate system originall in osgb:ST. traduit\
+  \ en epsg:27700 avec therion.  Data come from version \"CheddarCatchment - Revision\
+  \ 459: /\"\nHad to modify the therion project:\n- missing GoWest.th data. had to\
+  \ comment anything related to this. \n- dates where sometimes not formatted correctly.\
+  \ had to remove space and put . instead\n- there is some lrud in the datasets. should\
+  \ export them when code to do it is ready"
+full_name: Cheddar Catchment
+geometry: lrud/splays
+units: meter
+country: UK
+state: England
+area: Somerset
+locality: Cheddar
+grotto_id: 23469 (Coxs) 23491 (Goughs)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:27700 / Local
+latitude: 51.2814
+longitude: -2.7642
+altitude: .nan
+cave_url: https://grottocenter.org/ui/entrances/23491
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

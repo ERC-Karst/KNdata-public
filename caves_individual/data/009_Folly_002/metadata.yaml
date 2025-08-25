@@ -1,0 +1,112 @@
+number: 009002
+short_name: Folly_002
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: 'Robert, X. (2021). Base de données Topographiques des systèmes karstiques
+  du massif du Folly (Samoëns, 74, France) (Version v1.0.0) [Dataset]. Zenodo. https://doi.org/DOI:
+  10.5281/ZENODO.4745567'''
+thanks: .nan
+sharing_conditions: .nan
+total_length: 22007
+total_depth: 1661.92
+percentage_csdim: 30
+number_connected_components: 1
+number_nodes: 3523
+number_edges: 3539
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  pHA9CtejAEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  CQAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  +FPjpZvE4D8=
+number_cycles: 17
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAATEA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  mpmZmZmZ/T8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  pHA9Ctej0D8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  c2iR7Xw/7T8=
+aspl: 29.04
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  BFYOLbKd3z8=
+correlation_vertex_degree: -0.331
+original_format: Therion
+id_dataset: GH1
+comments_cave_info: Synclinal Jean Bernard + Systeme Combe des Puaires +Systeme Mirolda
+full_name: Massif du Folly
+geometry: lrud/splays
+units: meter
+country: France
+state: Auvergne-Rhône-Alpes
+area: Haute-Savoie
+locality: Samoëns
+grotto_id: 75262 (Jean-Bernard)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: Local
+latitude: 46.1022
+longitude: 6.7796
+altitude: '1836'
+cave_url: https://grottocenter.org/ui/caves/75262
+supplemental_links: https://groupe-speleo-vulcain.com/explorations/explorations-a-samoens/topographies-du-synclinal-du-jean-bernard-samoens-france/
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

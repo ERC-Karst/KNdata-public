@@ -1,0 +1,114 @@
+number: '005001'
+short_name: Sakany_001
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: unclear. may not be sharable
+citation: 'Groupe de Recherches et d’Activités Spéléologiques de Lourdes. (2024).
+  Base de données topographiques de la grotte Sakany (Version Version of the 25/07/2015)
+  [GHTopo]. Examples de grotte du programme GHTopo. https://ghtopo.blog4ever.com/reseau-sakany
+
+  '
+thanks: .nan
+sharing_conditions: .nan
+total_length: 5666
+total_depth: 140.71
+percentage_csdim: 95
+number_connected_components: 1
+number_nodes: 1426
+number_edges: 1467
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  FK5H4XoUAkA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BQAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  Vg4tsp3v3z8=
+number_cycles: 42
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  PQrXo3A9MEA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  H4XrUbge7T8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  hetRuB6F4z8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  arx0kxgE7j8=
+aspl: 14.16
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  zczMzMzM1D8=
+correlation_vertex_degree: -0.168
+original_format: GHTopo
+id_dataset: GTO/KN
+comments_cave_info: .nan
+full_name: Reseau Sakany
+geometry: lrud
+units: meter
+country: France
+state: Occitanie
+area: Ariège
+locality: Quié
+grotto_id: '75318'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:27573
+latitude: 42.8359
+longitude: 1.5959
+altitude: '138'
+cave_url: https://grottocenter.org/ui/caves/75318
+supplemental_links: http://lecrad.free.fr/Topos/bdd_topos/sakany.htm
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: mars 2012
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://ghtopo.blog4ever.com/reseau-sakany
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

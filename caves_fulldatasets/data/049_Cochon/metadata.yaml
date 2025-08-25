@@ -1,0 +1,110 @@
+number: 049
+short_name: Cochon
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 4286
+total_depth: 178.49
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 843
+number_edges: 848
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  exSuR+F6AEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BAAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  oBov3SQG4T8=
+number_cycles: 6
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  hetRuB6FOUA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  cT0K16Nw9T8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  w/UoXI/C1T8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  mG4Sg8DK7T8=
+aspl: 14.8
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  HVpkO99P4T8=
+correlation_vertex_degree: -0.307
+original_format: Therion
+id_dataset: K3D
+comments_cave_info: .nan
+full_name: Cochon
+geometry: lrud
+units: meter
+country: France
+state: Hérault
+area: Causse du Larzac
+locality: Saint-Pierre-de-la-Fage
+grotto_id: '21594'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:2154
+latitude: 43.8024
+longitude: 3.4196
+altitude: '647'
+cave_url: https://grottocenter.org/ui/entrances/21594
+supplemental_links: https://larzacexploceladon.fr/index.php/2021/03/02/aven-du-cochon-une-galerie-en-hommage-a-henri-paloc/
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

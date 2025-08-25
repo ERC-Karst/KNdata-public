@@ -1,0 +1,111 @@
+number: '012003'
+short_name: PokljuskegaGrebena_003
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2601
+total_depth: 568.33
+percentage_csdim: 75
+number_connected_components: 1
+number_nodes: 516
+number_edges: 516
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AAAAAAAAAEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BQAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  H4XrUbge4T8=
+number_cycles: 1
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  mpmZmZnZQkA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  j8L1KFyP8j8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  uB6F61G45j8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  mG4Sg8DK7T8=
+aspl: 8.58
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  y6FFtvP93D8=
+correlation_vertex_degree: -0.297
+original_format: Survex
+id_dataset: BORKO
+comments_cave_info: .nan
+full_name: Sistem pokljuskega grebena
+geometry: splays
+units: meter
+country: Slovenia
+state: Radovljica
+area: Bohinjska Srednja vas
+locality: Srednja vas v Bohinju
+grotto_id: /
+country_cave_id: 10904 (Trubarjev dah) 10905 (Platonovo šepetanje) 10396 (Evklidova
+  piščal) 11902 (Romeo)
+local_id: .nan
+local_coordinate_system: 'ESPG:3912 / Local '
+latitude: 46.36131
+longitude: 13.90389
+altitude: 1,853
+cave_url: https://www.katasterjam.si/caves/10904?activeTab=data
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

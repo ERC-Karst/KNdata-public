@@ -1,0 +1,110 @@
+number: '043'
+short_name: HaggBeck
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: To confirm
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 3222
+total_depth: 108.84
+percentage_csdim: 0
+number_connected_components: 5
+number_nodes: 507
+number_edges: 507
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AAAAAAAAAEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BQAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  okW28/3U4D8=
+number_cycles: 5
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  ZmZmZmbmQUA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  MzMzMzMz/z8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  SOF6FK5H0T8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  MQisHFpk5z8=
+aspl: 8.7
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  RIts5/up0T8=
+correlation_vertex_degree: -0.251
+original_format: Survex
+id_dataset: CAVE-REGISTRY
+comments_cave_info: .nan
+full_name: Hagg Beck / Hack Gill Pot
+geometry: .nan
+units: meter
+country: UK
+state: England
+area: Birks Fell
+locality: Deepdale
+grotto_id: '31681'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: British National Grid / OSGB36
+latitude: 54.2094
+longitude: -2.1643
+altitude: '350'
+cave_url: https://grottocenter.org/ui/entrances/31681
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

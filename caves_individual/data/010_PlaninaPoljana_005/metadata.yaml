@@ -1,0 +1,110 @@
+number: '010005'
+short_name: PlaninaPoljana_005
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2308
+total_depth: 876.12
+percentage_csdim: 95
+number_connected_components: 1
+number_nodes: 307
+number_edges: 307
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AAAAAAAAAEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  CAAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  H4XrUbge4T8=
+number_cycles: 1
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  uB6F61H4UEA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  4XoUrkfh9j8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  4XoUrkfh4j8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  WmQ730+N6z8=
+aspl: 6.09
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  XrpJDAIr3z8=
+correlation_vertex_degree: -0.462
+original_format: Survex
+id_dataset: BORKO
+comments_cave_info: using the .3d to prevent the issue of splays being ignored
+full_name: Planina Poljana
+geometry: splays
+units: meter
+country: Slovenia
+state: Radovljica
+area: Veliki Raskovec
+locality: Polje
+grotto_id: /
+country_cave_id: 13488 (Prašni dol) / 13465 (Mravlji dol) / 14664 (Dlvn) / 15323 (Koala)
+local_id: .nan
+local_coordinate_system: EPSG:3912
+latitude: 46.1451
+longitude: 13.5248
+altitude: '1256'
+cave_url: https://www.katasterjam.si/caves/13488
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

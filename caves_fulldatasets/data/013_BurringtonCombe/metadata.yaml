@@ -1,0 +1,111 @@
+number: '013'
+short_name: BurringtonCombe
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 5334
+total_depth: 91.04
+percentage_csdim: 32
+number_connected_components: 15
+number_nodes: 1757
+number_edges: 1817
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  XI/C9ShcAUA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  CAAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  ZDvfT42X4j8=
+number_cycles: 75
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  16NwPQrXHEA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  ZmZmZmZm8j8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  ZmZmZmZm1j8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  w/UoXI/C7T8=
+aspl: 9.23
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  O99PjZdusj8=
+correlation_vertex_degree: -0.169
+original_format: Survex
+id_dataset: UBSS
+comments_cave_info: Email Atkins to know bout citation. Only .3d available on the
+  website. May have geometry if we can get the .svx files
+full_name: Burrington Combe Karst Area
+geometry: none
+units: meter
+country: UK
+state: England
+area: North Somerset
+locality: Burrington
+grotto_id: 20044 (Avelines)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+latitude: 51.3244
+longitude: -2.7531
+altitude: '99'
+cave_url: https://grottocenter.org/ui/entrances/20044
+supplemental_links: https://www.mcra.org.uk/registry/sitedetails.php?id=3
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://ubss.org.uk/research/cave_surveys/burrington/
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

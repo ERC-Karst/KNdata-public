@@ -1,0 +1,116 @@
+number: '007'
+short_name: Tsanfleuron
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Groupe de Spéléologie Rhodanien (GSR), Société Spéléologique Genevoise (SSG),
+  Spéléo-Club Jura (SCJ), & Groupe Spéléo Lausanne (GSL). (2024). Base de données
+  topographique des systèmes karstique du lapiaz de Tsanfleuron (Unpublished raw data).
+  [Dataset].
+thanks: 'Thanks to Louis Stahelin for sharing the data with us, and to the GSR (Groupe
+  de Spéléologie Rhodanien), SSG (Société Spéléologique Genevoise), SCJ (Spéléo-Club
+  Jura), and GSL (Groupe Spéléo Lausanne) who explored, surveyed and mapped the conduits,
+  and whithout whom this work would not have been possible. '
+sharing_conditions: .nan
+total_length: 9124
+total_depth: 667.71
+percentage_csdim: 99
+number_connected_components: 29
+number_nodes: 1457
+number_edges: 1436
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  H4XrUbge/T8=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BQAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  PzVeukkM4j8=
+number_cycles: 8
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  PQrXo3BdRkA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  UrgehetR+D8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  4XoUrkfh2j8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  BoGVQ4ts6z8=
+aspl: 3.26
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  +n5qvHSTiD8=
+correlation_vertex_degree: -0.322
+original_format: Visual Topo
+id_dataset: LS
+comments_cave_info: Tenir Louis au courant du travail de Ana
+full_name: Lapiaz Tsanfleuron
+geometry: lrud
+units: meter
+country: Switzerland
+state: Valais/Wallis
+area: Glacier de Tsanfleuron
+locality: Savièse
+grotto_id: 37275 (G16)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: CH1903/LV03
+latitude: 46.3149
+longitude: 7.2739
+altitude: '2290'
+cave_url: https://grottocenter.org/ui/entrances/36666
+supplemental_links: http://mdemierre.speleologie.ch/?p=2584
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: GSR,SSG,SCJ,GSL
+website: .nan
+email_correspondant: louis.stahelin@icloud.com
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

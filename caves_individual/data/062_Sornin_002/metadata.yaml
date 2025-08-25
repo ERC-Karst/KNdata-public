@@ -1,0 +1,113 @@
+number: '062002'
+short_name: Sornin_002
+status: clean
+type_of_correction: manual correction
+last_processing_date: 08 Aug 2025
+license: CC BY-NC-SA 4.0
+citation: Robert, X. & Parrot, D., Base de données Topographiques du système karstique
+  Berger-Fromagère-Sassenage (Engins, Vercors, 38, France), https://github.com/robertxa/Berger-Sassenage,
+  2023.
+thanks: .nan
+sharing_conditions: .nan
+total_length: 22891
+total_depth: 1262.71
+percentage_csdim: 30
+number_connected_components: 1
+number_nodes: 1461
+number_edges: 1478
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  cT0K16NwAUA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BgAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  sp3vp8ZL3z8=
+number_cycles: 18
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  w/UoXI8yXUA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  AAAAAAAA+D8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  exSuR+F61D8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  UrgehetR7D8=
+aspl: 14.56
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  2/l+arx04z8=
+correlation_vertex_degree: -0.33
+original_format: Therion
+id_dataset: GH11
+comments_cave_info: had to create config.thconfig and modify some file names with
+  accent to make it work
+full_name: Massif du Sornin
+geometry: .nan
+units: meter
+country: France
+state: Auvergne-Rhône-Alpes
+area: Vercors
+locality: Engins
+grotto_id: '75447'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:32631
+latitude: 45.219228
+longitude: 5.60482
+altitude: '1460'
+cave_url: https://grottocenter.org/ui/caves/75447
+supplemental_links: https://cds38.org/topo-2022-du-berger/
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

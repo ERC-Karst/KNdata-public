@@ -1,0 +1,110 @@
+number: '033004'
+short_name: WestKingsdale_004
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 08 Aug 2025
+license: To confirm
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1376
+total_depth: 123.36
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 169
+number_edges: 168
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  w/UoXI/C/T8=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BQAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  EoPAyqFF5j8=
+number_cycles: 0
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  KVyPwvV4WkA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  4XoUrkfhAEA=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  MzMzMzMz0z8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  CtejcD0K5z8=
+aspl: 2.87
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  arx0kxgE5j8=
+correlation_vertex_degree: -0.345
+original_format: Survex
+id_dataset: CAVE-REGISTRY
+comments_cave_info: From cave registy. org - in NorthernEngland folder
+full_name: West Kingsdale
+geometry: .nan
+units: meter
+country: UK
+state: Yorkshire and the Humber
+area: Carnforth
+locality: Ingleton
+grotto_id: '75388'
+country_cave_id: .nan
+local_id: 1597 (Keld Head) (Northern Caves)
+local_coordinate_system: OSGB:SD
+latitude: 54.1839
+longitude: -2.4675
+altitude: '252.81'
+cave_url: https://grottocenter.org/ui/caves/75388
+supplemental_links: http://cavemaps.org/cavePages/West%20Kingsdale__Valley%20Entrance.htm
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

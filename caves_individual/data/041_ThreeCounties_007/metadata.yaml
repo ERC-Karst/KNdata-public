@@ -1,0 +1,110 @@
+number: '041007'
+short_name: ThreeCounties_007
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 08 Aug 2025
+license: To confirm
+citation: Unknown yet
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1251
+total_depth: 115.46
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 297
+number_edges: 301
+mean_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id002 !!python/object/apply:numpy.dtype
+  args:
+  - f8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  zczMzMzMAEA=
+min_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- &id001 !!python/object/apply:numpy.dtype
+  args:
+  - i8
+  - false
+  - true
+  state: !!python/tuple
+  - 3
+  - <
+  - null
+  - null
+  - null
+  - -1
+  - -1
+  - 0
+- !!binary |
+  AQAAAAAAAAA=
+max_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id001
+- !!binary |
+  BwAAAAAAAAA=
+cv_degree: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  x0s3iUFg4T8=
+number_cycles: 5
+mean_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  ZmZmZmbmLkA=
+cv_length: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  9ihcj8L19D8=
+length_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  cT0K16Nw3T8=
+orientation_3d_entropy: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  ukkMAiuH6j8=
+aspl: 9.43
+cpd: !!python/object/apply:numpy._core.multiarray.scalar
+- *id002
+- !!binary |
+  BFYOLbKd3z8=
+correlation_vertex_degree: -0.177
+original_format: Survex
+id_dataset: CAVE-REGISTRY
+comments_cave_info: issues with the clean3d outputs
+full_name: Three Counties
+geometry: .nan
+units: meter
+country: UK
+state: Cumbria
+area: South Lakeland
+locality: Bullpot Farm
+grotto_id: 31946 (Aygill)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: OSGB:SD
+latitude: 54.23107
+longitude: -2.51775
+altitude: '330.92'
+cave_url: https://grottocenter.org/ui/entrances/31946
+supplemental_links: https://cucc.survex.com/jnl/1971/3c.htm
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan
