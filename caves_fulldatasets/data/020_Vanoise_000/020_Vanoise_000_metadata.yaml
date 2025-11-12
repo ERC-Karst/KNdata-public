@@ -1,0 +1,59 @@
+id_dataset: '020'
+short_name: Vanoise
+id_subset: '000'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: Continent 8, Kern, M., & Caihol, T. (2025). Base de données topographiques
+  de la synthèse des gouffres des domes de la Vanoise, Pralognan la Vanoise, Savoie
+  (73) [Creative Commons BY-NC-SA 4.0 dataset, Therion project]. https://github.com/Dehautenbas/Vanoise-Therion
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2592
+total_depth: 438.06
+percentage_csdim: 84
+number_connected_components: 11
+number_nodes: 601
+number_edges: 604
+mean_degree: 2.05
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.485
+number_cycles: 14
+mean_length: 23.57
+cv_length: 1.07
+length_entropy: 0.64
+orientation_3d_entropy: 0.881
+aspl: 10.1
+cpd: 0.269
+correlation_vertex_degree: 0.002
+original_format: Therion
+comments_cave_info: .nan
+full_name: Gouffres de la Vanoise
+geometry: splays
+units: meter
+country: France
+state: Auvergne-Rhône-Alpes
+area: Massif de la Vanoise
+locality: Pralognan-la-Vanoise
+grotto_id: 68734 (Arcellin) 68762 (Assiettes)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:32632
+latitude: 45.3748
+longitude: 6.768
+altitude: .nan
+cave_url: https://grottocenter.org/ui/entrances/68734
+supplemental_links: https://continent-8.org/expedition-vanoise-2023/
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: '-'
+end_contract: '-'
+cave_survey_owner: .nan
+website: https://github.com/Dehautenbas/Vanoise-Therion
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

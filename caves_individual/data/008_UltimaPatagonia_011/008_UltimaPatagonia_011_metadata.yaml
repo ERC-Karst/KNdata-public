@@ -1,0 +1,59 @@
+id_dataset: 008
+short_name: UltimaPatagonia
+id_subset: '011'
+status: clean
+type_of_correction: no correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: Centre Terre. (2024). Survey Data for the Ultima Patagonia Cave Exploration
+  project [Dataset]. https://github.com/tr1813/ultima-patag
+thanks: .nan
+sharing_conditions: .nan
+total_length: 986
+total_depth: 265.02
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 140
+number_edges: 139
+mean_degree: 1.8
+min_degree: 1.0
+max_degree: 7.0
+cv_degree: 0.574
+number_cycles: 0
+mean_length: 109.62
+cv_length: 2.37
+length_entropy: 0.15
+orientation_3d_entropy: 0.71
+aspl: 2.69
+cpd: 0.475
+correlation_vertex_degree: -0.5
+original_format: Therion
+comments_cave_info: .nan
+full_name: Ultima Patagonia
+geometry: .nan
+units: meter
+country: Chile
+state: Región de Magallanes y de la Antártica Chilena
+area: Natales
+locality: Archipielago Madre de Dios
+grotto_id: 64835 (Condors) / 65033 (Détente) / 65042 (Lobos) / 65017 (Passoire) /
+  65016 (Ptit Creux) / 65011 (Comète)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: Local ?
+latitude: -50.2946
+longitude: -75.2895
+altitude: '141'
+cave_url: https://grottocenter.org/ui/entrances/64835
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: '-'
+end_contract: '-'
+cave_survey_owner: .nan
+website: https://github.com/tr1813/ultima-patagonia-topo
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

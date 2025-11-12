@@ -1,0 +1,751 @@
+metadata:
+  id_dataset: '050'
+  short_name: Andara
+  id_subset: '021'
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: .nan
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 588
+  total_depth: 20.03
+  percentage_csdim: 14
+  number_connected_components: 1
+  number_nodes: 47
+  number_edges: 51
+  mean_degree: 2.31
+  min_degree: 1.0
+  max_degree: 17.0
+  cv_degree: 0.487
+  number_cycles: 5
+  mean_length: 21.81
+  cv_length: 1.01
+  length_entropy: 0.67
+  orientation_3d_entropy: 0.595
+  aspl: 5.12
+  cpd: 0.4
+  correlation_vertex_degree: -0.306
+  original_format: Survex
+  comments_cave_info: used .3d instead of translating project. too many issues with
+    translation
+  full_name: Andara
+  geometry: .nan
+  units: meter
+  country: Spain
+  state: Cantabrie
+  area: Parc national des Picos de Europa
+  locality: Palacio
+  grotto_id: /
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:32630
+  latitude: 43.2161538
+  longitude: -4.7242563
+  altitude: '1785'
+  cave_url: https://hinko.org/hinko/Dowloads/BCRA/BCRA%2011-4-1984.pdf
+  supplemental_links: https://tresvisocaves.info/tresviso.php?cave=65
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 4992
+  - 8072
+- - 4992
+  - 1692
+- - 2307
+  - 812
+- - 2307
+  - 4875
+- - 2436
+  - 7124
+- - 2436
+  - 8565
+- - 3078
+  - 5026
+- - 3078
+  - 4046
+- - 1799
+  - 3825
+- - 8072
+  - 6997
+- - 8072
+  - 812
+- - 4875
+  - 5906
+- - 4875
+  - 1564
+- - 1934
+  - 6997
+- - 1934
+  - 4137
+- - 5906
+  - 7291
+- - 5906
+  - 5866
+- - 5650
+  - 5737
+- - 5650
+  - 5553
+- - 8091
+  - 7291
+- - 8091
+  - 4294
+- - 8091
+  - 6624
+- - 1692
+  - 812
+- - 1564
+  - 5866
+- - 2079
+  - 6997
+- - 2079
+  - 4137
+- - 5026
+  - 6624
+- - 5026
+  - 5737
+- - 10025
+  - 4524
+- - 10025
+  - 1640
+- - 10025
+  - 8439
+- - 10025
+  - 682
+- - 10025
+  - 4443
+- - 4524
+  - 2021
+- - 5553
+  - 2021
+- - 4147
+  - 9807
+- - 4147
+  - 3825
+- - 8249
+  - 2916
+- - 8249
+  - 4670
+- - 4294
+  - 7291
+- - 4294
+  - 5866
+- - 9807
+  - 4443
+- - 2129
+  - 1640
+- - 2129
+  - 8411
+- - 7124
+  - 8411
+- - 4441
+  - 4443
+- - 1245
+  - 6624
+- - 4961
+  - 5866
+- - 2916
+  - 8565
+- - 2916
+  - 10100
+- - 6643
+  - 10100
+node_attributes:
+  pos:
+    4992:
+    - 360694.64
+    - 4785658.33
+    - 1761.0
+    2307:
+    - 360675.14
+    - 4785666.35
+    - 1761.0
+    2436:
+    - 360533.77
+    - 4785701.11
+    - 1760.86
+    3078:
+    - 360636.87
+    - 4785669.95
+    - 1761.0
+    1799:
+    - 360626.92
+    - 4785696.8
+    - 1746.86
+    8072:
+    - 360687.69
+    - 4785653.24
+    - 1761.0
+    4875:
+    - 360672.86
+    - 4785672.61
+    - 1761.0
+    1934:
+    - 360695.16
+    - 4785649.66
+    - 1761.0
+    5906:
+    - 360666.35
+    - 4785672.72
+    - 1761.0
+    5650:
+    - 360609.02
+    - 4785695.06
+    - 1761.0
+    8091:
+    - 360647.2
+    - 4785683.57
+    - 1761.0
+    1692:
+    - 360680.36
+    - 4785671.95
+    - 1761.0
+    1564:
+    - 360670.51
+    - 4785678.91
+    - 1761.0
+    2079:
+    - 360691.39
+    - 4785639.02
+    - 1761.0
+    5026:
+    - 360627.38
+    - 4785691.26
+    - 1761.0
+    4137:
+    - 360694.83
+    - 4785638.79
+    - 1761.0
+    10025:
+    - 360565.85
+    - 4785689.04
+    - 1761.0
+    682:
+    - 360558.2
+    - 4785699.96
+    - 1761.0
+    812:
+    - 360680.48
+    - 4785666.35
+    - 1761.0
+    4524:
+    - 360573.17
+    - 4785682.22
+    - 1761.0
+    5553:
+    - 360604.36
+    - 4785695.06
+    - 1761.0
+    4147:
+    - 360596.27
+    - 4785697.38
+    - 1746.86
+    8249:
+    - 360557.76
+    - 4785690.97
+    - 1762.39
+    4670:
+    - 360562.31
+    - 4785689.28
+    - 1762.6
+    4294:
+    - 360658.15
+    - 4785684.05
+    - 1761.0
+    4046:
+    - 360653.25
+    - 4785658.48
+    - 1761.0
+    9807:
+    - 360566.51
+    - 4785689.96
+    - 1746.86
+    2129:
+    - 360540.79
+    - 4785698.16
+    - 1761.0
+    7124:
+    - 360524.83
+    - 4785706.12
+    - 1760.86
+    6997:
+    - 360691.24
+    - 4785646.82
+    - 1761.0
+    4441:
+    - 360542.27
+    - 4785694.08
+    - 1746.86
+    4443:
+    - 360551.93
+    - 4785691.49
+    - 1746.86
+    8411:
+    - 360522.0
+    - 4785705.0
+    - 1761.0
+    1245:
+    - 360637.53
+    - 4785690.71
+    - 1761.0
+    6624:
+    - 360636.37
+    - 4785686.88
+    - 1761.0
+    4961:
+    - 360647.86
+    - 4785698.59
+    - 1761.0
+    2916:
+    - 360552.48
+    - 4785694.27
+    - 1761.82
+    2021:
+    - 360592.8
+    - 4785686.04
+    - 1761.0
+    1640:
+    - 360553.32
+    - 4785693.6
+    - 1761.0
+    5737:
+    - 360617.65
+    - 4785701.33
+    - 1761.0
+    5866:
+    - 360666.38
+    - 4785679.41
+    - 1761.0
+    3825:
+    - 360612.92
+    - 4785696.8
+    - 1746.86
+    6643:
+    - 360535.3
+    - 4785674.58
+    - 1742.57
+    10100:
+    - 360548.02
+    - 4785688.85
+    - 1761.56
+    8565:
+    - 360542.96
+    - 4785697.96
+    - 1761.52
+    8439:
+    - 360573.71
+    - 4785692.7
+    - 1761.0
+    7291:
+    - 360658.26
+    - 4785679.51
+    - 1761.0
+  fulladdress:
+    4992:
+    - andara.minasmazarrasa.minas_rosario.16a
+    2307:
+    - andara.minasmazarrasa.minas_rosario.14
+    2436:
+    - andara.minasmazarrasa.t144_rosario.2
+    3078:
+    - andara.minasmazarrasa.minas_rosario.9a
+    1799:
+    - andara.minasmazarrasa.minas_rosario.5l
+    8072:
+    - andara.minasmazarrasa.minas_rosario.16
+    4875:
+    - andara.minasmazarrasa.minas_rosario.13
+    1934:
+    - andara.minasmazarrasa.minas_rosario.20
+    5906:
+    - andara.minasmazarrasa.minas_rosario.12d
+    5650:
+    - andara.minasmazarrasa.minas_rosario.7
+    8091:
+    - andara.minasmazarrasa.minas_rosario.11
+    1692:
+    - andara.minasmazarrasa.minas_rosario.16b
+    1564:
+    - andara.minasmazarrasa.minas_rosario.13a
+    2079:
+    - andara.minasmazarrasa.minas_rosario.18
+    5026:
+    - andara.minasmazarrasa.minas_rosario.9
+    4137:
+    - andara.minasmazarrasa.minas_rosario.19
+    10025:
+    - andara.minasmazarrasa.minas_rosario.3
+    682:
+    - andara.minasmazarrasa.minas_rosario.3b
+    812:
+    - andara.minasmazarrasa.minas_rosario.15
+    4524:
+    - andara.minasmazarrasa.minas_rosario.4
+    5553:
+    - andara.minasmazarrasa.minas_rosario.6
+    4147:
+    - andara.minasmazarrasa.minas_rosario.3l
+    8249:
+    - andara.minasmazarrasa.t144_rosario.7
+    4670:
+    - andara.minasmazarrasa.t144_rosario.8
+    4294:
+    - andara.minasmazarrasa.minas_rosario.12a
+    4046:
+    - andara.minasmazarrasa.minas_rosario.9b
+    9807:
+    - andara.minasmazarrasa.minas_rosario.2l
+    2129:
+    - andara.minasmazarrasa.minas_rosario.1
+    7124:
+    - andara.minasmazarrasa.t144_rosario.1
+    6997:
+    - andara.minasmazarrasa.minas_rosario.17
+    4441:
+    - andara.minasmazarrasa.minas_rosario.1l
+    4443:
+    - andara.minasmazarrasa.minas_rosario.3c
+    8411:
+    - andara.minasmazarrasa.rosario
+    1245:
+    - andara.minasmazarrasa.minas_rosario.10a
+    6624:
+    - andara.minasmazarrasa.minas_rosario.10
+    4961:
+    - andara.minasmazarrasa.minas_rosario.12c
+    2916:
+    - andara.minasmazarrasa.t144_rosario.4
+    2021:
+    - andara.minasmazarrasa.minas_rosario.5
+    1640:
+    - andara.minasmazarrasa.minas_rosario.2
+    5737:
+    - andara.minasmazarrasa.minas_rosario.8
+    5866:
+    - andara.minasmazarrasa.minas_rosario.12b
+    3825:
+    - andara.minasmazarrasa.minas_rosario.4l
+    6643:
+    - andara.minasmazarrasa.t144_rosario.6
+    10100:
+    - andara.minasmazarrasa.t144_rosario.5
+    8565:
+    - andara.minasmazarrasa.t144_rosario.3
+    8439:
+    - andara.minasmazarrasa.minas_rosario.3a
+    7291:
+    - andara.minasmazarrasa.minas_rosario.12
+  splays:
+    2436:
+    - - 360535.25
+      - 4785702.46
+      - 1761.04
+    - - 360533.88
+      - 4785700.97
+      - 1760.9
+    - - 360534.97
+      - 4785701.43
+      - 1761.58
+    - - 360534.76
+      - 4785701.6
+      - 1759.89
+    8249:
+    - - 360562.39
+      - 4785689.52
+      - 1762.62
+    - - 360558.25
+      - 4785691.33
+      - 1762.51
+    - - 360557.79
+      - 4785690.56
+      - 1762.73
+    - - 360558.18
+      - 4785690.9
+      - 1762.75
+    7124:
+    - - 360524.11
+      - 4785703.85
+      - 1760.92
+    - - 360524.7
+      - 4785705.4
+      - 1761.84
+    - - 360524.79
+      - 4785705.48
+      - 1759.99
+    8411:
+    - - 360523.51
+      - 4785706.87
+      - 1760.83
+    - - 360522.86
+      - 4785705.56
+      - 1761.6
+    - - 360523.0
+      - 4785706.04
+      - 1760.1
+    2916:
+    - - 360552.08
+      - 4785693.54
+      - 1762.35
+    - - 360552.5
+      - 4785692.27
+      - 1761.58
+    - - 360552.24
+      - 4785692.37
+      - 1761.3
+    - - 360552.92
+      - 4785692.31
+      - 1762.16
+    - - 360552.56
+      - 4785693.52
+      - 1762.35
+    - - 360553.21
+      - 4785693.43
+      - 1761.19
+    10100:
+    - - 360545.9
+      - 4785686.07
+      - 1761.34
+    - - 360545.73
+      - 4785689.25
+      - 1761.85
+    - - 360545.31
+      - 4785689.25
+      - 1765.81
+    - - 360547.25
+      - 4785686.58
+      - 1761.45
+    8565:
+    - - 360552.02
+      - 4785693.43
+      - 1762.17
+    - - 360542.7
+      - 4785696.21
+      - 1761.39
+    - - 360542.91
+      - 4785697.28
+      - 1761.91
+    - - 360543.45
+      - 4785696.55
+      - 1760.56
+  idsql:
+    4992:
+    - 287
+    2307:
+    - 286
+    2436:
+    - 6889
+    3078:
+    - 6920
+    1799:
+    - 6929
+    8072:
+    - 3
+    4875:
+    - 14
+    1934:
+    - 291
+    5906:
+    - 12
+    5650:
+    - 277
+    8091:
+    - 16
+    1692:
+    - 288
+    1564:
+    - 285
+    2079:
+    - 289
+    5026:
+    - 275
+    4137:
+    - 290
+    10025:
+    - 281
+    682:
+    - 6919
+    812:
+    - 5
+    4524:
+    - 280
+    5553:
+    - 278
+    4147:
+    - 6927
+    8249:
+    - 6912
+    4670:
+    - 6913
+    4294:
+    - 15
+    4046:
+    - 6921
+    9807:
+    - 6926
+    2129:
+    - 283
+    7124:
+    - 6885
+    6997:
+    - 4
+    4441:
+    - 6925
+    4443:
+    - 6924
+    8411:
+    - 284
+    1245:
+    - 6922
+    6624:
+    - 274
+    4961:
+    - 6923
+    2916:
+    - 6899
+    2021:
+    - 279
+    1640:
+    - 282
+    5737:
+    - 276
+    5866:
+    - 17
+    3825:
+    - 6928
+    6643:
+    - 6904
+    10100:
+    - 6903
+    8565:
+    - 6894
+    8439:
+    - 6918
+    7291:
+    - 13
+  flags:
+    4992:
+    - fix
+    2307:
+    - fix
+    2436:
+    - fix
+    3078:
+    - fix
+    1799:
+    - fix
+    8072:
+    - fix
+    4875:
+    - fix
+    1934:
+    - fix
+    5906:
+    - fix
+    5650:
+    - fix
+    8091:
+    - fix
+    1692:
+    - fix
+    1564:
+    - fix
+    2079:
+    - fix
+    5026:
+    - fix
+    4137:
+    - fix
+    10025:
+    - fix
+    682:
+    - fix
+    812:
+    - fix
+    4524:
+    - fix
+    5553:
+    - fix
+    4147:
+    - fix
+    8249:
+    - fix
+    4670:
+    - fix
+    4294:
+    - fix
+    4046:
+    - fix
+    9807:
+    - fix
+    2129:
+    - fix
+    7124:
+    - fix
+    6997:
+    - fix
+    4441:
+    - fix
+    4443:
+    - fix
+    8411:
+    - fix
+    1245:
+    - fix
+    6624:
+    - fix
+    4961:
+    - fix
+    2916:
+    - fix
+    2021:
+    - fix
+    1640:
+    - fix
+    5737:
+    - fix
+    5866:
+    - fix
+    3825:
+    - fix
+    6643:
+    - fix
+    10100:
+    - fix
+    8565:
+    - fix
+    8439:
+    - fix
+    7291:
+    - fix
+  csdim:
+    2436:
+    - 0.97
+    - 1.61
+    8249:
+    - 4.78
+    - 0.41
+    7124:
+    - 0.57
+    - 1.84
+    8411:
+    - 1.85
+    - 1.5
+    2916:
+    - 1.54
+    - 1.54
+    10100:
+    - 3.1
+    - 3.91
+    8565:
+    - 10.0
+    - 1.6

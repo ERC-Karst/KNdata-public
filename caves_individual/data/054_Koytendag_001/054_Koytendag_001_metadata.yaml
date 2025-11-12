@@ -1,0 +1,58 @@
+id_dataset: '054'
+short_name: Koytendag
+id_subset: '001'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: Robert, X., & Pont, A. (2025). Caves’ surveys of Koyten-dag (Turkmenistan)
+  [Creative Commons BY-NC-SA 4.0 dataset, Therion project]. https://github.com/robertxa/Turkmenistan
+thanks: .nan
+sharing_conditions: .nan
+total_length: 5440
+total_depth: 157.69
+percentage_csdim: 80
+number_connected_components: 1
+number_nodes: 362
+number_edges: 387
+mean_degree: 2.4
+min_degree: 1.0
+max_degree: 6.0
+cv_degree: 0.527
+number_cycles: 26
+mean_length: 38.31
+cv_length: 0.81
+length_entropy: 0.66
+orientation_3d_entropy: 0.802
+aspl: 9.45
+cpd: 0.391
+correlation_vertex_degree: -0.162
+original_format: Therion
+comments_cave_info: .nan
+full_name: Koyten Dag
+geometry: splays
+units: meter
+country: Turkmenistan
+state: Lebap welaýaty
+area: Rodnik
+locality: Imeni Stalina
+grotto_id: 121121 (Ahmethan) / 121114 (Suw-Oyuk)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: Local
+latitude: 37.9454
+longitude: 66.6539
+altitude: '1300'
+cave_url: https://blog.crei.ffspeleo.fr/?p=1322
+supplemental_links: https://www.philippe-crochet.com/nouveautes/details/486/expedition-speleo-turkmenistan-avril-2024
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: '-'
+end_contract: '-'
+cave_survey_owner: .nan
+website: https://github.com/robertxa/Turkmenistan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

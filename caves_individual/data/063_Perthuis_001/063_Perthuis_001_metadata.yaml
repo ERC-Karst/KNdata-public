@@ -1,0 +1,59 @@
+id_dataset: '063'
+short_name: Perthuis
+id_subset: '001'
+status: ready for cleaning
+type_of_correction: .nan
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: Robert, X., Base de données Topographiques du système karstiques Moilda
+  - Perthuis (Bugey, 01, France), https://github.com/robertxa/Moilda-Perthuis, 2021.
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1948
+total_depth: 145.33
+percentage_csdim: 12
+number_connected_components: 1
+number_nodes: 263
+number_edges: 263
+mean_degree: 2.0
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.541
+number_cycles: 1
+mean_length: 46.39
+cv_length: 1.72
+length_entropy: 0.36
+orientation_3d_entropy: 0.767
+aspl: 5.93
+cpd: 0.533
+correlation_vertex_degree: -0.34
+original_format: Therion
+comments_cave_info: issued compiling therion project. the Moilda data is not available.
+  Moilda.th and Copines.th has been commented and is not part of the current dataset
+full_name: Système karstique  Perthuis (wihtout Moilda)
+geometry: .nan
+units: .nan
+country: France
+state: .nan
+area: .nan
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+cave_url: .nan
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: '-'
+end_contract: '-'
+cave_survey_owner: .nan
+website: https://github.com/robertxa/Moilda-Perthuis
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

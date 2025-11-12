@@ -1,0 +1,59 @@
+id_dataset: '016'
+short_name: CountyMayo
+id_subset: '000'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: University of Bristol Spelæological Society. (1987). County Mayo cave Survey
+  [Creative Commons BY-NC-SA 4.0 dataset]. https://www.ubss.org.uk
+thanks: .nan
+sharing_conditions: .nan
+total_length: 3792
+total_depth: 73.3
+percentage_csdim: 61
+number_connected_components: 9
+number_nodes: 551
+number_edges: 559
+mean_degree: 2.09
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.514
+number_cycles: 17
+mean_length: 21.67
+cv_length: 1.89
+length_entropy: 0.27
+orientation_3d_entropy: 0.783
+aspl: 5.22
+cpd: 0.016
+correlation_vertex_degree: -0.334
+original_format: Therion
+comments_cave_info: .nan
+full_name: The Caves of County Mayo
+geometry: lrud/splays
+units: meter
+country: Ireland
+state: County Mayo
+area: Conamara Municipal District
+locality: Cong
+grotto_id: '11124 (Teach Aille) 11128 (Wolves Hole) 11117 (Priest''s Hole) 11126 (Pigeon
+  Hole) 11069 (Ballymaglancy cave) 11070 (Ballymaglancy Resurgence Cave) '
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:2157
+latitude: 53.5368
+longitude: -9.3385
+altitude: '35'
+cave_url: https://grottocenter.org/ui/entrances/11069
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://ubss.org.uk/research/cave_surveys
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

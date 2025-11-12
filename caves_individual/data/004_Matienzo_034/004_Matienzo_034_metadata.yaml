@@ -1,0 +1,62 @@
+id_dataset: '004'
+short_name: Matienzo
+id_subset: '034'
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: 'Matienzo Caves Project Expeditions. (2025). Matienzo Cave Survey Data 1960-2025
+  [Dataset, Aven .3d]. Matienzo Caves Project. https://matienzocaves.org.uk/maps_photos.htm
+
+  '
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1108
+total_depth: 51.74
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 224
+number_edges: 226
+mean_degree: 2.06
+min_degree: 1.0
+max_degree: 11.0
+cv_degree: 0.546
+number_cycles: 3
+mean_length: 17.88
+cv_length: 1.44
+length_entropy: 0.37
+orientation_3d_entropy: 0.808
+aspl: 6.72
+cpd: 0.626
+correlation_vertex_degree: -0.304
+original_format: Survex
+comments_cave_info: Marco Dentz sent the link to the repo. we should contact them
+  to see if we can get the svx project
+full_name: Matienzo caves
+geometry: splays
+units: meter
+country: Spain
+state: Cantabria
+area: Castro Urdiales
+locality: Matienzo
+grotto_id: 33375 (Bollon) / 33388 (Calleja Rebollo) / 33447 (Colmenas) /  33465 (Covern)
+  / 33807 (Suviejo)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:27573
+latitude: 43.3067
+longitude: -3.6315
+altitude: '293'
+cave_url: https://matienzocaves.org.uk/Systems/intro.htm
+supplemental_links: https://www.matienzocaves.org.uk/Leaflet/Leaflet-latest.html?center=348&zoom=16&map_type=GV_HYBRID
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

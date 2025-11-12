@@ -1,0 +1,847 @@
+metadata:
+  id_dataset: '050'
+  short_name: Andara
+  id_subset: '017'
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: .nan
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 591
+  total_depth: 165.56
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 65
+  number_edges: 66
+  mean_degree: 2.13
+  min_degree: 1.0
+  max_degree: 17.0
+  cv_degree: 0.557
+  number_cycles: 2
+  mean_length: 39.45
+  cv_length: 1.25
+  length_entropy: 0.58
+  orientation_3d_entropy: 0.704
+  aspl: 2.86
+  cpd: 0.565
+  correlation_vertex_degree: -0.222
+  original_format: Survex
+  comments_cave_info: used .3d instead of translating project. too many issues with
+    translation
+  full_name: Andara
+  geometry: .nan
+  units: meter
+  country: Spain
+  state: Cantabrie
+  area: Parc national des Picos de Europa
+  locality: Palacio
+  grotto_id: /
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:32630
+  latitude: 43.2161538
+  longitude: -4.7242563
+  altitude: '1785'
+  cave_url: https://hinko.org/hinko/Dowloads/BCRA/BCRA%2011-4-1984.pdf
+  supplemental_links: https://tresvisocaves.info/tresviso.php?cave=65
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 5761
+  - 5597
+- - 5761
+  - 5045
+- - 641
+  - 7033
+- - 3588
+  - 7535
+- - 3588
+  - 6152
+- - 2437
+  - 7033
+- - 2437
+  - 9804
+- - 2437
+  - 1987
+- - 2437
+  - 5303
+- - 6152
+  - 2876
+- - 11
+  - 1961
+- - 11
+  - 9765
+- - 1932
+  - 7976
+- - 1932
+  - 1146
+- - 6288
+  - 7258
+- - 5783
+  - 3932
+- - 5783
+  - 6726
+- - 9754
+  - 5303
+- - 9754
+  - 1759
+- - 6427
+  - 2537
+- - 6427
+  - 8893
+- - 3740
+  - 3196
+- - 3740
+  - 3923
+- - 4130
+  - 5093
+- - 4130
+  - 6340
+- - 9765
+  - 4820
+- - 1575
+  - 3940
+- - 1575
+  - 474
+- - 5928
+  - 2261
+- - 1961
+  - 3956
+- - 7976
+  - 3196
+- - 1449
+  - 3884
+- - 1449
+  - 7535
+- - 3884
+  - 6340
+- - 6445
+  - 8670
+- - 6445
+  - 9418
+- - 5045
+  - 2261
+- - 7608
+  - 4851
+- - 7608
+  - 3932
+- - 4538
+  - 9804
+- - 4538
+  - 8639
+- - 4154
+  - 448
+- - 2876
+  - 4213
+- - 8893
+  - 3819
+- - 8639
+  - 8670
+- - 448
+  - 6726
+- - 1987
+  - 840
+- - 3780
+  - 8400
+- - 3780
+  - 2537
+- - 840
+  - 2261
+- - 8649
+  - 5597
+- - 8649
+  - 6006
+- - 8649
+  - 6760
+- - 8649
+  - 7258
+- - 9418
+  - 6760
+- - 9804
+  - 1523
+- - 8400
+  - 1146
+- - 3923
+  - 3060
+- - 4948
+  - 7033
+- - 4948
+  - 3940
+- - 474
+  - 2396
+- - 2396
+  - 4851
+- - 5597
+  - 6006
+- - 1759
+  - 3196
+- - 5093
+  - 3819
+- - 1523
+  - 3956
+node_attributes:
+  flags:
+    5761:
+    - fix
+    641:
+    - fix
+    3588:
+    - fix
+    2437:
+    - fix
+    6152:
+    - fix
+    11:
+    - fix
+    1932:
+    - fix
+    6288:
+    - fix
+    5783:
+    - fix
+    9754:
+    - fix
+    6427:
+    - fix
+    3740:
+    - fix
+    4130:
+    - fix
+    9765:
+    - fix
+    1575:
+    - fix
+    5928:
+    - fix
+    1961:
+    - fix
+    7976:
+    - fix
+    1449:
+    - fix
+    3884:
+    - fix
+    6445:
+    - fix
+    5045:
+    - fix
+    5303:
+    - fix
+    7608:
+    - fix
+    4538:
+    - fix
+    4154:
+    - fix
+    2876:
+    - fix
+    8893:
+    - fix
+    8639:
+    - fix
+    448:
+    - fix
+    1987:
+    - fix
+    3780:
+    - fix
+    6340:
+    - fix
+    6726:
+    - fix
+    840:
+    - fix
+    8649:
+    - fix
+    9418:
+    - fix
+    9804:
+    - fix
+    8400:
+    - fix
+    3923:
+    - fix
+    4948:
+    - fix
+    2261:
+    - fix
+    4820:
+    - fix
+    7258:
+    - fix
+    474:
+    - fix
+    2396:
+    - fix
+    5597:
+    - fix
+    8670:
+    - fix
+    1759:
+    - fix
+    3932:
+    - fix
+    3940:
+    - fix
+    5093:
+    - fix
+    6760:
+    - fix
+    2537:
+    - fix
+    3819:
+    - fix
+    7535:
+    - fix
+    1523:
+    - fix
+    3956:
+    - fix
+    4851:
+    - fix
+    6006:
+    - fix
+    3060:
+    - fix
+    4213:
+    - fix
+    7033:
+    - fix
+    1146:
+    - fix
+    3196:
+    - fix
+  pos:
+    5761:
+    - 359091.44
+    - 4790159.59
+    - 1101.13
+    641:
+    - 359081.49
+    - 4790201.49
+    - 1159.24
+    3588:
+    - 359029.4
+    - 4790259.82
+    - 1008.68
+    2437:
+    - 359093.58
+    - 4790186.81
+    - 1098.14
+    6152:
+    - 359029.4
+    - 4790259.82
+    - 998.68
+    11:
+    - 359110.91
+    - 4790195.16
+    - 1081.88
+    1932:
+    - 359065.44
+    - 4790196.02
+    - 1093.46
+    6288:
+    - 359105.72
+    - 4790147.61
+    - 1133.07
+    5783:
+    - 359091.32
+    - 4790216.55
+    - 1148.42
+    9754:
+    - 359085.12
+    - 4790189.06
+    - 1097.52
+    6427:
+    - 359068.61
+    - 4790222.67
+    - 1095.87
+    3740:
+    - 359075.8
+    - 4790190.66
+    - 1086.35
+    4130:
+    - 359060.23
+    - 4790242.02
+    - 1074.29
+    9765:
+    - 359112.98
+    - 4790195.08
+    - 1078.02
+    1575:
+    - 359101.2
+    - 4790196.41
+    - 1115.26
+    5928:
+    - 359084.57
+    - 4790155.81
+    - 1102.98
+    1961:
+    - 359109.43
+    - 4790192.06
+    - 1083.73
+    7976:
+    - 359066.49
+    - 4790192.24
+    - 1092.97
+    1449:
+    - 359051.57
+    - 4790247.02
+    - 1019.29
+    3884:
+    - 359051.57
+    - 4790247.02
+    - 1049.29
+    6445:
+    - 359103.63
+    - 4790165.59
+    - 1111.14
+    5045:
+    - 359088.1
+    - 4790158.84
+    - 1099.15
+    5303:
+    - 359087.11
+    - 4790184.98
+    - 1098.41
+    7608:
+    - 359099.14
+    - 4790207.57
+    - 1135.3
+    4538:
+    - 359103.48
+    - 4790181.63
+    - 1107.38
+    4154:
+    - 359088.0
+    - 4790232.0
+    - 1151.0
+    2876:
+    - 359029.4
+    - 4790264.82
+    - 998.68
+    8893:
+    - 359066.88
+    - 4790225.35
+    - 1093.7
+    8639:
+    - 359102.94
+    - 4790178.75
+    - 1106.05
+    448:
+    - 359087.53
+    - 4790224.8
+    - 1144.52
+    1987:
+    - 359092.05
+    - 4790179.55
+    - 1095.58
+    3780:
+    - 359064.28
+    - 4790210.73
+    - 1096.62
+    6340:
+    - 359060.23
+    - 4790242.02
+    - 1049.29
+    6726:
+    - 359088.06
+    - 4790218.27
+    - 1147.95
+    840:
+    - 359088.32
+    - 4790168.2
+    - 1098.31
+    8649:
+    - 359105.27
+    - 4790151.34
+    - 1113.0
+    9418:
+    - 359103.26
+    - 4790164.54
+    - 1112.53
+    9804:
+    - 359100.13
+    - 4790184.55
+    - 1092.65
+    8400:
+    - 359062.71
+    - 4790205.7
+    - 1097.62
+    3923:
+    - 359077.7
+    - 4790188.26
+    - 1085.27
+    4948:
+    - 359096.44
+    - 4790199.23
+    - 1105.67
+    2261:
+    - 359085.12
+    - 4790160.08
+    - 1098.27
+    4820:
+    - 359110.3
+    - 4790195.63
+    - 1076.21
+    7258:
+    - 359105.72
+    - 4790147.61
+    - 1113.07
+    474:
+    - 359104.95
+    - 4790193.01
+    - 1121.32
+    2396:
+    - 359109.76
+    - 4790199.58
+    - 1124.92
+    5597:
+    - 359092.87
+    - 4790153.16
+    - 1106.57
+    8670:
+    - 359101.81
+    - 4790169.99
+    - 1109.16
+    1759:
+    - 359080.5
+    - 4790196.01
+    - 1090.11
+    3932:
+    - 359095.22
+    - 4790214.65
+    - 1147.49
+    3940:
+    - 359098.0
+    - 4790199.31
+    - 1109.08
+    5093:
+    - 359066.66
+    - 4790234.36
+    - 1074.29
+    6760:
+    - 359099.32
+    - 4790161.26
+    - 1113.8
+    2537:
+    - 359065.17
+    - 4790216.92
+    - 1096.26
+    3819:
+    - 359065.82
+    - 4790231.93
+    - 1091.5
+    7535:
+    - 359038.58
+    - 4790254.52
+    - 1019.29
+    1523:
+    - 359107.0
+    - 4790186.28
+    - 1091.22
+    3956:
+    - 359109.09
+    - 4790188.75
+    - 1090.26
+    4851:
+    - 359112.0
+    - 4790204.68
+    - 1128.65
+    6006:
+    - 359097.27
+    - 4790150.54
+    - 1108.42
+    3060:
+    - 359073.91
+    - 4790186.43
+    - 1081.44
+    4213:
+    - 359029.4
+    - 4790264.82
+    - 993.68
+    7033:
+    - 359093.69
+    - 4790197.48
+    - 1105.76
+    1146:
+    - 359064.0
+    - 4790202.47
+    - 1096.49
+    3196:
+    - 359075.52
+    - 4790192.35
+    - 1087.98
+  idsql:
+    5761:
+    - 80
+    641:
+    - 3388
+    3588:
+    - 3404
+    2437:
+    - 55
+    6152:
+    - 3405
+    11:
+    - 3378
+    1932:
+    - 3390
+    6288:
+    - 3373
+    5783:
+    - 65
+    9754:
+    - 3382
+    6427:
+    - 3395
+    3740:
+    - 3385
+    4130:
+    - 3399
+    9765:
+    - 3379
+    1575:
+    - 59
+    5928:
+    - 3374
+    1961:
+    - 3377
+    7976:
+    - 3389
+    1449:
+    - 3402
+    3884:
+    - 3401
+    6445:
+    - 73
+    5045:
+    - 79
+    5303:
+    - 3381
+    7608:
+    - 63
+    4538:
+    - 70
+    4154:
+    - 68
+    2876:
+    - 3406
+    8893:
+    - 3396
+    8639:
+    - 71
+    448:
+    - 67
+    1987:
+    - 76
+    3780:
+    - 3393
+    6340:
+    - 3400
+    6726:
+    - 66
+    840:
+    - 77
+    8649:
+    - 18
+    9418:
+    - 74
+    9804:
+    - 69
+    8400:
+    - 3392
+    3923:
+    - 3386
+    4948:
+    - 57
+    2261:
+    - 78
+    4820:
+    - 3380
+    7258:
+    - 3372
+    474:
+    - 60
+    2396:
+    - 61
+    5597:
+    - 19
+    8670:
+    - 72
+    1759:
+    - 3383
+    3932:
+    - 64
+    3940:
+    - 58
+    5093:
+    - 3398
+    6760:
+    - 75
+    2537:
+    - 3394
+    3819:
+    - 3397
+    7535:
+    - 3403
+    1523:
+    - 3375
+    3956:
+    - 3376
+    4851:
+    - 62
+    6006:
+    - 54
+    3060:
+    - 3387
+    4213:
+    - 3407
+    7033:
+    - 56
+    1146:
+    - 3391
+    3196:
+    - 3384
+  fulladdress:
+    5761:
+    - andara.caballar.t591_riegacericiega.10
+    641:
+    - andara.caballar.t591_riegacericiega.16c
+    3588:
+    - andara.caballar.t591_riegacericiega.43
+    2437:
+    - andara.caballar.t591_riegacericiega.16
+    6152:
+    - andara.caballar.t591_riegacericiega.44
+    11:
+    - andara.caballar.t591_riegacericiega.21
+    1932:
+    - andara.caballar.t591_riegacericiega.29
+    6288:
+    - andara.caballar.t591_riegacericiega.1a
+    5783:
+    - andara.caballar.t591_riegacericiega.16k
+    9754:
+    - andara.caballar.t591_riegacericiega.25
+    6427:
+    - andara.caballar.t591_riegacericiega.34
+    3740:
+    - andara.caballar.t591_riegacericiega.27a
+    4130:
+    - andara.caballar.t591_riegacericiega.38
+    9765:
+    - andara.caballar.t591_riegacericiega.22
+    1575:
+    - andara.caballar.t591_riegacericiega.16e
+    5928:
+    - andara.caballar.t591_riegacericiega.13
+    1961:
+    - andara.caballar.t591_riegacericiega.20
+    7976:
+    - andara.caballar.t591_riegacericiega.28
+    1449:
+    - andara.caballar.t591_riegacericiega.41
+    3884:
+    - andara.caballar.t591_riegacericiega.40
+    6445:
+    - andara.caballar.t591_riegacericiega.6
+    5045:
+    - andara.caballar.t591_riegacericiega.11
+    5303:
+    - andara.caballar.t591_riegacericiega.24
+    7608:
+    - andara.caballar.t591_riegacericiega.16i
+    4538:
+    - andara.caballar.t591_riegacericiega.9
+    4154:
+    - andara.caballar.t591
+    2876:
+    - andara.caballar.t591_riegacericiega.45
+    8893:
+    - andara.caballar.t591_riegacericiega.35
+    8639:
+    - andara.caballar.t591_riegacericiega.8
+    448:
+    - andara.caballar.t591_riegacericiega.16n
+    1987:
+    - andara.caballar.t591_riegacericiega.15
+    3780:
+    - andara.caballar.t591_riegacericiega.32
+    6340:
+    - andara.caballar.t591_riegacericiega.39
+    6726:
+    - andara.caballar.t591_riegacericiega.16m
+    840:
+    - andara.caballar.t591_riegacericiega.14
+    8649:
+    - andara.caballar.t591_riegacericiega.2
+    9418:
+    - andara.caballar.t591_riegacericiega.5
+    9804:
+    - andara.caballar.t591_riegacericiega.17
+    8400:
+    - andara.caballar.t591_riegacericiega.31
+    3923:
+    - andara.caballar.t591_riegacericiega.27b
+    4948:
+    - andara.caballar.t591_riegacericiega.16b
+    2261:
+    - andara.caballar.t591_riegacericiega.12
+    4820:
+    - andara.caballar.t591_riegacericiega.23
+    7258:
+    - andara.caballar.t591_riegacericiega.1
+    474:
+    - andara.caballar.t591_riegacericiega.16f
+    2396:
+    - andara.caballar.t591_riegacericiega.16g
+    5597:
+    - andara.caballar.t591_riegacericiega.3
+    8670:
+    - andara.caballar.t591_riegacericiega.7
+    1759:
+    - andara.caballar.t591_riegacericiega.26
+    3932:
+    - andara.caballar.t591_riegacericiega.16j
+    3940:
+    - andara.caballar.t591_riegacericiega.16d
+    5093:
+    - andara.caballar.t591_riegacericiega.37
+    6760:
+    - andara.caballar.t591_riegacericiega.4
+    2537:
+    - andara.caballar.t591_riegacericiega.33
+    3819:
+    - andara.caballar.t591_riegacericiega.36
+    7535:
+    - andara.caballar.t591_riegacericiega.42
+    1523:
+    - andara.caballar.t591_riegacericiega.18
+    3956:
+    - andara.caballar.t591_riegacericiega.19
+    4851:
+    - andara.caballar.t591_riegacericiega.16h
+    6006:
+    - andara.caballar.t591_riegacericiega.2a
+    3060:
+    - andara.caballar.t591_riegacericiega.27c
+    4213:
+    - andara.caballar.t591_riegacericiega.46
+    7033:
+    - andara.caballar.t591_riegacericiega.16a
+    1146:
+    - andara.caballar.t591_riegacericiega.30
+    3196:
+    - andara.caballar.t591_riegacericiega.27

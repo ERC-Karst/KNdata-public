@@ -1,0 +1,57 @@
+id_dataset: '027'
+short_name: CreuxDEntier
+id_subset: '000'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: SCJ. (2024). Relevé topographiques [Dataset]. Spéléo-Club Jura. https://speleoclubjura.com/index.php/scj
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1397
+total_depth: 151.84
+percentage_csdim: 100
+number_connected_components: 1
+number_nodes: 282
+number_edges: 286
+mean_degree: 2.15
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.547
+number_cycles: 5
+mean_length: 24.96
+cv_length: 0.64
+length_entropy: 0.83
+orientation_3d_entropy: 0.72
+aspl: 5.97
+cpd: 0.293
+correlation_vertex_degree: -0.162
+original_format: Toporobot
+comments_cave_info: .nan
+full_name: Creux d'entier
+geometry: lrud
+units: meter
+country: Switzerland
+state: Bern/Berne
+area: .nan
+locality: Petit-Val
+grotto_id: '5496'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: CH1903/LV03
+latitude: 47.2794
+longitude: 7.185
+altitude: '935'
+cave_url: https://grottocenter.org/ui/entrances/5496
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

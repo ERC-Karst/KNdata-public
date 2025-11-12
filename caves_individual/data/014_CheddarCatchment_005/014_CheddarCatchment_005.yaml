@@ -1,0 +1,6492 @@
+metadata:
+  id_dataset: '014'
+  short_name: CheddarCatchment
+  id_subset: '005'
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "University of Bristol Spel\xE6ological Society. (1919). Cheddar Catchment\
+    \ Area Cave Survey [Creative Commons BY-NC-SA 4.0 dataset]. Cave Survey Archive.\
+    \ https://www.ubss.org.uk"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 503
+  total_depth: 27.86
+  percentage_csdim: 81
+  number_connected_components: 1
+  number_nodes: 226
+  number_edges: 226
+  mean_degree: 2.0
+  min_degree: 1.0
+  max_degree: 6.0
+  cv_degree: 0.549
+  number_cycles: 1
+  mean_length: 5.36
+  cv_length: 0.73
+  length_entropy: 0.59
+  orientation_3d_entropy: 0.861
+  aspl: 11.58
+  cpd: 0.475
+  correlation_vertex_degree: -0.293
+  original_format: Therion
+  comments_cave_info: "Contact UBSS??, coordinate system originall in osgb:ST. traduit\
+    \ en epsg:27700 avec therion.  Data come from version \"CheddarCatchment - Revision\
+    \ 459: /\"\nHad to modify the therion project:\n- missing GoWest.th data. had\
+    \ to comment anything related to this. \n- dates where sometimes not formatted\
+    \ correctly. had to remove space and put . instead\n- there is some lrud in the\
+    \ datasets. should export them when code to do it is ready"
+  full_name: Cheddar Catchment
+  geometry: lrud/splays
+  units: meter
+  country: UK
+  state: England
+  area: Somerset
+  locality: Cheddar
+  grotto_id: 23469 (Coxs) 23491 (Goughs)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:27700 / Local
+  latitude: 51.2814
+  longitude: -2.7642
+  altitude: .nan
+  cave_url: https://grottocenter.org/ui/entrances/23491
+  supplemental_links: .nan
+  data_reception_date: '2023'
+  data_received_by: Celia
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://ubss.org.uk/research/cave_surveys
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 3588
+  - 3644
+- - 3588
+  - 3413
+- - 516
+  - 678
+- - 5131
+  - 525
+- - 5131
+  - 918
+- - 1036
+  - 4985
+- - 1036
+  - 640
+- - 1036
+  - 1894
+- - 525
+  - 3413
+- - 525
+  - 3421
+- - 523
+  - 1084
+- - 523
+  - 361
+- - 1553
+  - 201
+- - 1553
+  - 5556
+- - 4114
+  - 3266
+- - 4114
+  - 1084
+- - 531
+  - 6267
+- - 531
+  - 201
+- - 7188
+  - 1345
+- - 4629
+  - 461
+- - 4629
+  - 990
+- - 6678
+  - 5583
+- - 6678
+  - 5786
+- - 6678
+  - 3371
+- - 6678
+  - 4287
+- - 6167
+  - 2943
+- - 6167
+  - 7056
+- - 3090
+  - 1916
+- - 3090
+  - 718
+- - 3090
+  - 553
+- - 3096
+  - 3523
+- - 3096
+  - 5309
+- - 1562
+  - 1717
+- - 1562
+  - 4423
+- - 3104
+  - 6368
+- - 6176
+  - 4033
+- - 4133
+  - 2474
+- - 4133
+  - 3900
+- - 4133
+  - 1261
+- - 2087
+  - 4658
+- - 2087
+  - 136
+- - 6695
+  - 6441
+- - 6695
+  - 5741
+- - 3625
+  - 4418
+- - 3625
+  - 984
+- - 5681
+  - 5031
+- - 5681
+  - 127
+- - 4658
+  - 994
+- - 4658
+  - 3644
+- - 4658
+  - 3286
+- - 2554
+  - 6086
+- - 2554
+  - 4927
+- - 5172
+  - 2950
+- - 7224
+  - 158
+- - 7224
+  - 6962
+- - 7224
+  - 3698
+- - 5177
+  - 3736
+- - 5177
+  - 7120
+- - 3644
+  - 7106
+- - 3644
+  - 6497
+- - 1084
+  - 5893
+- - 4158
+  - 5991
+- - 4158
+  - 5513
+- - 1087
+  - 3067
+- - 1087
+  - 5298
+- - 3136
+  - 1712
+- - 3136
+  - 4451
+- - 4162
+  - 3659
+- - 4162
+  - 1353
+- - 1604
+  - 3413
+- - 1604
+  - 1746
+- - 1093
+  - 2729
+- - 1093
+  - 728
+- - 1092
+  - 2644
+- - 4680
+  - 3153
+- - 4680
+  - 3353
+- - 3659
+  - 1341
+- - 3659
+  - 6918
+- - 77
+  - 4927
+- - 77
+  - 2396
+- - 3150
+  - 1856
+- - 6223
+  - 4451
+- - 6223
+  - 4846
+- - 3153
+  - 7315
+- - 3667
+  - 6497
+- - 595
+  - 6109
+- - 6229
+  - 3353
+- - 6229
+  - 893
+- - 2644
+  - 1659
+- - 2644
+  - 488
+- - 5730
+  - 3757
+- - 5219
+  - 732
+- - 6244
+  - 640
+- - 6244
+  - 4314
+- - 6244
+  - 915
+- - 5741
+  - 2474
+- - 5741
+  - 1856
+- - 1648
+  - 4935
+- - 1648
+  - 1234
+- - 1658
+  - 984
+- - 1658
+  - 3240
+- - 1659
+  - 4840
+- - 6267
+  - 5979
+- - 127
+  - 6646
+- - 6273
+  - 136
+- - 6273
+  - 4985
+- - 6274
+  - 5309
+- - 6274
+  - 5031
+- - 3200
+  - 5031
+- - 3200
+  - 1841
+- - 5247
+  - 4314
+- - 136
+  - 6368
+- - 6795
+  - 994
+- - 6795
+  - 2916
+- - 2704
+  - 3286
+- - 147
+  - 292
+- - 7315
+  - 154
+- - 7315
+  - 671
+- - 7315
+  - 1273
+- - 3736
+  - 284
+- - 3736
+  - 3047
+- - 154
+  - 6340
+- - 154
+  - 2285
+- - 5786
+  - 5360
+- - 2715
+  - 6624
+- - 2715
+  - 3042
+- - 5788
+  - 7067
+- - 5788
+  - 7158
+- - 158
+  - 4955
+- - 158
+  - 5979
+- - 671
+  - 5341
+- - 671
+  - 2244
+- - 5280
+  - 5817
+- - 5280
+  - 986
+- - 674
+  - 7056
+- - 674
+  - 1341
+- - 674
+  - 6535
+- - 674
+  - 4369
+- - 163
+  - 361
+- - 163
+  - 486
+- - 678
+  - 3421
+- - 2729
+  - 4287
+- - 3757
+  - 4287
+- - 3757
+  - 6441
+- - 4271
+  - 1975
+- - 4271
+  - 5991
+- - 1200
+  - 488
+- - 1200
+  - 1712
+- - 1712
+  - 6467
+- - 1717
+  - 718
+- - 696
+  - 361
+- - 5817
+  - 1737
+- - 3258
+  - 6340
+- - 4281
+  - 1371
+- - 4281
+  - 4063
+- - 4281
+  - 7137
+- - 2238
+  - 835
+- - 2238
+  - 4464
+- - 3266
+  - 4500
+- - 6340
+  - 4051
+- - 2756
+  - 918
+- - 2756
+  - 2408
+- - 1737
+  - 893
+- - 717
+  - 2297
+- - 717
+  - 6109
+- - 6863
+  - 1273
+- - 6863
+  - 4955
+- - 1234
+  - 2950
+- - 2775
+  - 1534
+- - 2775
+  - 5369
+- - 2262
+  - 1914
+- - 2262
+  - 6372
+- - 4314
+  - 2378
+- - 732
+  - 1261
+- - 5854
+  - 5928
+- - 1247
+  - 3484
+- - 1247
+  - 5477
+- - 1247
+  - 284
+- - 6368
+  - 4033
+- - 6372
+  - 3067
+- - 4840
+  - 5893
+- - 5360
+  - 2297
+- - 5357
+  - 371
+- - 5357
+  - 5944
+- - 754
+  - 4418
+- - 754
+  - 2518
+- - 5369
+  - 4051
+- - 4866
+  - 4418
+- - 4866
+  - 1439
+- - 5893
+  - 7162
+- - 4369
+  - 1434
+- - 292
+  - 1963
+- - 292
+  - 3484
+- - 5928
+  - 5556
+- - 3371
+  - 4450
+- - 2864
+  - 5480
+- - 2864
+  - 1371
+- - 1841
+  - 1975
+- - 6962
+  - 5583
+- - 2872
+  - 6535
+- - 2872
+  - 4500
+- - 5944
+  - 1902
+- - 4927
+  - 1534
+- - 1345
+  - 5477
+- - 4418
+  - 1914
+- - 835
+  - 3042
+- - 4935
+  - 4063
+- - 4423
+  - 3523
+- - 1353
+  - 2413
+- - 5978
+  - 1439
+- - 2396
+  - 1963
+- - 1371
+  - 4450
+- - 5991
+  - 371
+- - 5480
+  - 6109
+- - 3947
+  - 5513
+- - 1902
+  - 1415
+- - 4464
+  - 7067
+- - 1914
+  - 1975
+- - 1916
+  - 7162
+- - 893
+  - 461
+- - 2943
+  - 4063
+- - 915
+  - 2551
+- - 7106
+  - 2037
+- - 7120
+  - 994
+- - 986
+  - 6624
+- - 5099
+  - 7162
+node_attributes:
+  pos:
+    3588:
+    - 526882.36
+    - 5680305.2
+    - 247.6
+    516:
+    - 526877.33
+    - 5680310.66
+    - 248.08
+    5131:
+    - 526879.98
+    - 5680309.72
+    - 250.4
+    1036:
+    - 526890.43
+    - 5680298.38
+    - 245.2
+    525:
+    - 526880.64
+    - 5680308.79
+    - 248.32
+    523:
+    - 526864.69
+    - 5680319.36
+    - 249.28
+    1553:
+    - 526864.22
+    - 5680336.17
+    - 255.42
+    4114:
+    - 526865.57
+    - 5680319.59
+    - 246.79
+    531:
+    - 526865.62
+    - 5680337.76
+    - 252.17
+    7188:
+    - 526873.4
+    - 5680313.81
+    - 252.74
+    4629:
+    - 526871.63
+    - 5680332.49
+    - 238.22
+    6678:
+    - 526864.09
+    - 5680336.83
+    - 243.63
+    6167:
+    - 526866.42
+    - 5680325.66
+    - 241.74
+    3090:
+    - 526869.38
+    - 5680313.99
+    - 248.99
+    3096:
+    - 526870.29
+    - 5680305.72
+    - 247.16
+    1562:
+    - 526869.55
+    - 5680308.13
+    - 247.75
+    3104:
+    - 526888.75
+    - 5680299.18
+    - 239.85
+    6176:
+    - 526890.19
+    - 5680301.58
+    - 241.07
+    4133:
+    - 526860.27
+    - 5680348.56
+    - 255.16
+    2087:
+    - 526885.75
+    - 5680301.28
+    - 244.44
+    6695:
+    - 526863.13
+    - 5680347.58
+    - 251.27
+    553:
+    - 526869.64
+    - 5680315.31
+    - 253.47
+    3625:
+    - 526874.82
+    - 5680301.19
+    - 245.55
+    5681:
+    - 526870.32
+    - 5680304.58
+    - 252.56
+    4658:
+    - 526884.75
+    - 5680303.1
+    - 243.1
+    2554:
+    - 526872.63
+    - 5680329.0
+    - 254.91
+    5172:
+    - 526871.03
+    - 5680330.31
+    - 237.77
+    7224:
+    - 526866.23
+    - 5680338.34
+    - 246.77
+    5177:
+    - 526882.81
+    - 5680309.86
+    - 242.25
+    3644:
+    - 526883.74
+    - 5680303.29
+    - 247.57
+    1084:
+    - 526865.01
+    - 5680318.77
+    - 247.41
+    4158:
+    - 526872.35
+    - 5680294.62
+    - 248.69
+    1087:
+    - 526869.54
+    - 5680298.44
+    - 241.41
+    3136:
+    - 526867.99
+    - 5680310.05
+    - 242.45
+    4162:
+    - 526866.81
+    - 5680320.39
+    - 239.56
+    1604:
+    - 526881.48
+    - 5680308.03
+    - 251.56
+    1093:
+    - 526863.13
+    - 5680343.73
+    - 243.61
+    1092:
+    - 526867.64
+    - 5680315.59
+    - 239.19
+    4680:
+    - 526870.93
+    - 5680334.75
+    - 244.01
+    3659:
+    - 526866.01
+    - 5680321.39
+    - 241.05
+    77:
+    - 526872.88
+    - 5680328.07
+    - 252.02
+    3150:
+    - 526859.81
+    - 5680348.42
+    - 253.33
+    6223:
+    - 526868.04
+    - 5680309.12
+    - 243.03
+    3153:
+    - 526871.21
+    - 5680333.9
+    - 245.19
+    3667:
+    - 526880.59
+    - 5680299.5
+    - 249.82
+    595:
+    - 526867.56
+    - 5680336.14
+    - 240.88
+    6229:
+    - 526871.33
+    - 5680337.2
+    - 242.26
+    2644:
+    - 526866.43
+    - 5680315.24
+    - 243.27
+    5730:
+    - 526860.39
+    - 5680347.85
+    - 249.52
+    5219:
+    - 526859.05
+    - 5680355.27
+    - 255.92
+    6244:
+    - 526893.0
+    - 5680296.75
+    - 247.68
+    5741:
+    - 526861.57
+    - 5680347.99
+    - 253.1
+    1648:
+    - 526867.41
+    - 5680329.1
+    - 238.53
+    3698:
+    - 526865.87
+    - 5680341.02
+    - 247.28
+    1658:
+    - 526873.7
+    - 5680302.86
+    - 247.53
+    1659:
+    - 526865.82
+    - 5680315.24
+    - 244.51
+    6267:
+    - 526866.41
+    - 5680337.57
+    - 251.47
+    127:
+    - 526869.9
+    - 5680305.3
+    - 253.4
+    640:
+    - 526892.24
+    - 5680296.7
+    - 247.86
+    6273:
+    - 526887.89
+    - 5680299.32
+    - 243.49
+    6274:
+    - 526871.18
+    - 5680303.2
+    - 248.2
+    3200:
+    - 526871.6
+    - 5680301.68
+    - 249.95
+    5247:
+    - 526896.16
+    - 5680300.6
+    - 246.79
+    136:
+    - 526887.28
+    - 5680300.3
+    - 242.74
+    6795:
+    - 526887.01
+    - 5680303.84
+    - 240.48
+    2704:
+    - 526888.29
+    - 5680302.15
+    - 246.38
+    147:
+    - 526875.32
+    - 5680329.82
+    - 248.49
+    7315:
+    - 526870.81
+    - 5680332.76
+    - 246.19
+    3736:
+    - 526879.36
+    - 5680312.83
+    - 243.43
+    154:
+    - 526870.75
+    - 5680333.77
+    - 249.16
+    5786:
+    - 526864.86
+    - 5680337.33
+    - 242.96
+    2715:
+    - 526872.81
+    - 5680346.63
+    - 236.98
+    5788:
+    - 526869.17
+    - 5680360.37
+    - 237.36
+    158:
+    - 526867.94
+    - 5680336.38
+    - 247.29
+    671:
+    - 526870.46
+    - 5680332.29
+    - 245.98
+    5280:
+    - 526872.02
+    - 5680340.98
+    - 236.98
+    674:
+    - 526865.44
+    - 5680322.93
+    - 243.52
+    163:
+    - 526863.54
+    - 5680321.36
+    - 249.6
+    678:
+    - 526879.05
+    - 5680310.64
+    - 247.86
+    3240:
+    - 526873.43
+    - 5680305.8
+    - 247.68
+    2729:
+    - 526864.15
+    - 5680340.88
+    - 243.23
+    3757:
+    - 526861.83
+    - 5680344.76
+    - 247.71
+    4271:
+    - 526873.24
+    - 5680296.65
+    - 246.07
+    1200:
+    - 526866.74
+    - 5680313.82
+    - 243.41
+    1712:
+    - 526867.07
+    - 5680310.82
+    - 243.39
+    5298:
+    - 526867.86
+    - 5680298.32
+    - 241.34
+    1717:
+    - 526869.45
+    - 5680309.71
+    - 248.11
+    696:
+    - 526863.97
+    - 5680318.09
+    - 251.86
+    5817:
+    - 526871.59
+    - 5680341.48
+    - 237.48
+    3258:
+    - 526872.32
+    - 5680336.61
+    - 252.25
+    4281:
+    - 526865.72
+    - 5680331.03
+    - 241.6
+    5309:
+    - 526871.23
+    - 5680303.71
+    - 247.06
+    2238:
+    - 526872.77
+    - 5680355.41
+    - 238.11
+    4287:
+    - 526864.38
+    - 5680341.32
+    - 245.19
+    3266:
+    - 526865.22
+    - 5680320.29
+    - 246.77
+    6340:
+    - 526871.64
+    - 5680334.56
+    - 251.9
+    2244:
+    - 526871.62
+    - 5680330.68
+    - 245.32
+    2756:
+    - 526877.12
+    - 5680311.62
+    - 249.95
+    1737:
+    - 526870.74
+    - 5680340.16
+    - 238.94
+    201:
+    - 526864.57
+    - 5680337.23
+    - 253.37
+    717:
+    - 526865.49
+    - 5680336.45
+    - 240.72
+    718:
+    - 526869.13
+    - 5680313.4
+    - 248.91
+    6863:
+    - 526868.99
+    - 5680333.2
+    - 245.41
+    1746:
+    - 526880.48
+    - 5680307.42
+    - 253.01
+    1234:
+    - 526868.16
+    - 5680329.55
+    - 237.77
+    3286:
+    - 526885.22
+    - 5680302.55
+    - 246.17
+    2775:
+    - 526871.48
+    - 5680331.16
+    - 252.67
+    728:
+    - 526863.0
+    - 5680346.78
+    - 245.28
+    2262:
+    - 526872.99
+    - 5680298.22
+    - 243.49
+    4314:
+    - 526895.58
+    - 5680298.66
+    - 247.13
+    732:
+    - 526859.43
+    - 5680352.93
+    - 255.12
+    5341:
+    - 526870.62
+    - 5680330.46
+    - 248.78
+    5854:
+    - 526865.97
+    - 5680334.45
+    - 263.22
+    1247:
+    - 526878.13
+    - 5680318.08
+    - 246.51
+    6368:
+    - 526887.15
+    - 5680299.46
+    - 241.65
+    6372:
+    - 526871.52
+    - 5680298.39
+    - 241.78
+    4840:
+    - 526865.92
+    - 5680315.77
+    - 246.2
+    2285:
+    - 526871.46
+    - 5680338.35
+    - 246.45
+    1261:
+    - 526860.2
+    - 5680350.84
+    - 255.44
+    4846:
+    - 526869.17
+    - 5680308.72
+    - 244.6
+    5360:
+    - 526865.55
+    - 5680337.27
+    - 241.44
+    5357:
+    - 526870.88
+    - 5680296.68
+    - 250.45
+    754:
+    - 526872.39
+    - 5680299.92
+    - 244.26
+    1273:
+    - 526869.87
+    - 5680333.32
+    - 245.21
+    5369:
+    - 526870.96
+    - 5680331.85
+    - 252.58
+    2297:
+    - 526865.85
+    - 5680337.27
+    - 240.87
+    4866:
+    - 526874.33
+    - 5680302.7
+    - 243.71
+    5893:
+    - 526865.21
+    - 5680317.25
+    - 248.13
+    6918:
+    - 526866.49
+    - 5680322.87
+    - 241.11
+    4369:
+    - 526865.04
+    - 5680324.61
+    - 244.76
+    3353:
+    - 526871.46
+    - 5680335.49
+    - 243.24
+    284:
+    - 526877.72
+    - 5680314.63
+    - 245.72
+    292:
+    - 526875.88
+    - 5680326.01
+    - 248.56
+    5928:
+    - 526863.03
+    - 5680336.17
+    - 257.84
+    6441:
+    - 526863.68
+    - 5680345.89
+    - 249.19
+    3371:
+    - 526863.99
+    - 5680335.05
+    - 243.99
+    2864:
+    - 526865.43
+    - 5680333.25
+    - 242.19
+    1841:
+    - 526872.95
+    - 5680299.58
+    - 247.36
+    6962:
+    - 526866.23
+    - 5680338.51
+    - 245.85
+    2872:
+    - 526864.89
+    - 5680322.21
+    - 245.15
+    5944:
+    - 526870.85
+    - 5680297.25
+    - 250.8
+    3900:
+    - 526858.93
+    - 5680348.64
+    - 261.55
+    1341:
+    - 526866.07
+    - 5680321.82
+    - 242.89
+    4927:
+    - 526872.99
+    - 5680328.83
+    - 252.4
+    1856:
+    - 526860.44
+    - 5680347.15
+    - 253.24
+    1345:
+    - 526875.71
+    - 5680314.77
+    - 248.95
+    4418:
+    - 526874.6
+    - 5680300.01
+    - 243.45
+    835:
+    - 526872.19
+    - 5680352.36
+    - 237.04
+    6467:
+    - 526867.34
+    - 5680312.16
+    - 245.49
+    4935:
+    - 526866.96
+    - 5680330.09
+    - 239.86
+    4423:
+    - 526869.12
+    - 5680306.56
+    - 245.97
+    1353:
+    - 526867.16
+    - 5680319.07
+    - 238.74
+    2378:
+    - 526897.32
+    - 5680297.97
+    - 246.13
+    3413:
+    - 526882.2
+    - 5680306.8
+    - 247.92
+    5978:
+    - 526874.36
+    - 5680306.65
+    - 244.47
+    4955:
+    - 526869.01
+    - 5680334.26
+    - 245.56
+    2396:
+    - 526873.82
+    - 5680327.31
+    - 251.54
+    5979:
+    - 526866.57
+    - 5680336.65
+    - 249.99
+    3421:
+    - 526878.94
+    - 5680310.01
+    - 248.71
+    1371:
+    - 526865.33
+    - 5680331.85
+    - 242.13
+    6497:
+    - 526881.0
+    - 5680302.66
+    - 250.42
+    4450:
+    - 526865.44
+    - 5680332.08
+    - 243.5
+    4451:
+    - 526867.98
+    - 5680309.37
+    - 242.43
+    2916:
+    - 526889.0
+    - 5680301.5
+    - 239.87
+    5477:
+    - 526876.39
+    - 5680317.51
+    - 249.17
+    1894:
+    - 526889.77
+    - 5680296.72
+    - 245.15
+    5991:
+    - 526871.95
+    - 5680295.73
+    - 248.06
+    2408:
+    - 526875.21
+    - 5680312.56
+    - 249.89
+    5480:
+    - 526864.82
+    - 5680334.77
+    - 241.24
+    361:
+    - 526864.17
+    - 5680320.68
+    - 249.64
+    3947:
+    - 526874.22
+    - 5680291.19
+    - 252.26
+    2413:
+    - 526868.01
+    - 5680318.32
+    - 238.27
+    1902:
+    - 526869.73
+    - 5680297.38
+    - 252.21
+    4464:
+    - 526871.89
+    - 5680357.16
+    - 237.93
+    371:
+    - 526871.46
+    - 5680296.33
+    - 249.41
+    4985:
+    - 526889.45
+    - 5680298.17
+    - 245.33
+    1914:
+    - 526874.59
+    - 5680298.03
+    - 244.37
+    1916:
+    - 526866.8
+    - 5680313.69
+    - 248.19
+    893:
+    - 526870.31
+    - 5680336.47
+    - 240.04
+    2943:
+    - 526866.19
+    - 5680328.45
+    - 241.91
+    2950:
+    - 526869.16
+    - 5680329.86
+    - 237.87
+    6535:
+    - 526865.5
+    - 5680323.41
+    - 244.42
+    1415:
+    - 526868.61
+    - 5680298.14
+    - 253.65
+    5513:
+    - 526873.13
+    - 5680293.37
+    - 250.24
+    7056:
+    - 526866.54
+    - 5680324.33
+    - 241.95
+    915:
+    - 526892.45
+    - 5680295.2
+    - 248.29
+    4500:
+    - 526865.06
+    - 5680321.37
+    - 246.17
+    918:
+    - 526878.44
+    - 5680309.32
+    - 251.38
+    1434:
+    - 526864.95
+    - 5680325.84
+    - 245.6
+    7067:
+    - 526870.86
+    - 5680359.49
+    - 237.75
+    3484:
+    - 526875.14
+    - 5680323.71
+    - 247.95
+    1439:
+    - 526874.26
+    - 5680304.78
+    - 243.73
+    5031:
+    - 526872.06
+    - 5680303.26
+    - 250.19
+    2474:
+    - 526861.75
+    - 5680347.01
+    - 254.08
+    1963:
+    - 526875.14
+    - 5680327.25
+    - 249.41
+    5556:
+    - 526864.28
+    - 5680336.52
+    - 255.53
+    1975:
+    - 526873.09
+    - 5680297.03
+    - 244.79
+    4033:
+    - 526888.79
+    - 5680301.18
+    - 241.55
+    7106:
+    - 526883.9
+    - 5680303.84
+    - 248.73
+    3523:
+    - 526869.67
+    - 5680305.75
+    - 246.93
+    6086:
+    - 526871.93
+    - 5680330.09
+    - 261.6
+    461:
+    - 526870.93
+    - 5680333.74
+    - 238.82
+    5583:
+    - 526865.21
+    - 5680336.95
+    - 243.91
+    7120:
+    - 526885.04
+    - 5680306.64
+    - 241.3
+    4051:
+    - 526870.92
+    - 5680333.04
+    - 252.51
+    2518:
+    - 526870.61
+    - 5680300.58
+    - 244.74
+    984:
+    - 526874.3
+    - 5680302.19
+    - 246.94
+    986:
+    - 526872.17
+    - 5680342.88
+    - 236.31
+    6109:
+    - 526864.95
+    - 5680335.8
+    - 241.01
+    990:
+    - 526872.09
+    - 5680331.27
+    - 235.36
+    4063:
+    - 526866.97
+    - 5680329.86
+    - 241.41
+    6624:
+    - 526871.63
+    - 5680344.39
+    - 236.62
+    7137:
+    - 526869.66
+    - 5680332.04
+    - 242.02
+    994:
+    - 526885.83
+    - 5680304.87
+    - 241.67
+    3042:
+    - 526872.88
+    - 5680348.81
+    - 237.33
+    486:
+    - 526863.03
+    - 5680323.4
+    - 249.91
+    3047:
+    - 526880.53
+    - 5680314.97
+    - 242.51
+    488:
+    - 526866.23
+    - 5680314.54
+    - 243.53
+    5099:
+    - 526865.58
+    - 5680315.72
+    - 251.37
+    2037:
+    - 526884.98
+    - 5680302.64
+    - 249.95
+    7158:
+    - 526868.14
+    - 5680360.05
+    - 237.4
+    2551:
+    - 526892.37
+    - 5680293.41
+    - 252.11
+    6646:
+    - 526868.48
+    - 5680306.93
+    - 256.47
+    7162:
+    - 526866.22
+    - 5680314.32
+    - 248.04
+    3067:
+    - 526871.19
+    - 5680298.22
+    - 241.48
+    1534:
+    - 526871.51
+    - 5680329.99
+    - 252.25
+  fulladdress:
+    3588:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.47
+    516:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.52
+    5131:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.53
+    1036:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.31
+    525:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.49
+    523:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.130
+    1553:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.107
+    4114:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.128
+    531:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.105
+    7188:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.14
+    4629:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.79
+    6678:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.204
+    6167:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.119
+    3090:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.161
+    3096:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.168
+    1562:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.165
+    3104:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.26
+    6176:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.28
+    4133:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.214
+    2087:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.23
+    6695:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.209
+    553:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.162
+    3625:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.185
+    5681:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.172
+    4658:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.20
+    2554:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.1
+    5172:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.147
+    7224:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.99
+    5177:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.17
+    3644:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.42
+    1084:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.129
+    4158:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.196
+    1087:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.192
+    3136:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.230
+    4162:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.140
+    1604:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.57
+    1093:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.220
+    1092:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.225
+    4680:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.74
+    3659:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.138
+    77:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.4
+    3150:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.212
+    6223:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.232
+    3153:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.73
+    3667:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.44
+    595:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.151
+    6229:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.76
+    2644:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.224
+    5730:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.207
+    5219:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.217
+    6244:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.34
+    5741:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.210
+    1648:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.144
+    3698:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.100
+    1658:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.187
+    1659:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.223
+    6267:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.104
+    127:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.173
+    640:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.33
+    6273:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.29
+    6274:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.170
+    3200:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.175
+    5247:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.39
+    136:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.24
+    6795:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.40
+    2704:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.22
+    147:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.9
+    7315:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.94
+    3736:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.15
+    154:
+    - CheddarCatchment.Buddles.Buddles9.Squeeze.65
+    5786:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.155
+    2715:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.86
+    5788:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.92
+    158:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.98
+    671:
+    - CheddarCatchment.Buddles.Buddles9.Squeeze.68
+    5280:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.83
+    674:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.121
+    163:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.133
+    678:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.51
+    3240:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.188
+    2729:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.219
+    3757:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.206
+    4271:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.194
+    1200:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.227
+    1712:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.228
+    5298:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.193
+    1717:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.164
+    696:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.132
+    5817:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.82
+    3258:
+    - CheddarCatchment.Buddles.Buddles9.Squeeze.64
+    4281:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.115
+    5309:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.169
+    2238:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.89
+    4287:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.205
+    3266:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.127
+    6340:
+    - CheddarCatchment.Buddles.Buddles9.Squeeze.63
+    2244:
+    - CheddarCatchment.Buddles.Buddles9.Squeeze.69
+    2756:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.55
+    1737:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.81
+    201:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.106
+    717:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.152
+    718:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.163
+    6863:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.96
+    1746:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.58
+    1234:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.145
+    3286:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.21
+    2775:
+    - CheddarCatchment.Buddles.Buddles9.Squeeze.60
+    728:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.221
+    2262:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.189
+    4314:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.37
+    732:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.216
+    5341:
+    - CheddarCatchment.Buddles.Buddles9.Squeeze.70
+    5854:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.110
+    1247:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.10
+    6368:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.25
+    6372:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.190
+    4840:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.222
+    2285:
+    - CheddarCatchment.Buddles.Buddles9.Squeeze.66
+    1261:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.215
+    4846:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.233
+    5360:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.154
+    5357:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.200
+    754:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.180
+    1273:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.95
+    5369:
+    - CheddarCatchment.Buddles.Buddles9.Squeeze.61
+    2297:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.153
+    4866:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.182
+    5893:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.157
+    6918:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.139
+    4369:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.122
+    3353:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.75
+    284:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.11
+    292:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.7
+    5928:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.109
+    6441:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.208
+    3371:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.112
+    2864:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.148
+    1841:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.176
+    6962:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.101
+    2872:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.125
+    5944:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.201
+    3900:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.218
+    1341:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.137
+    4927:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.2
+    1856:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.211
+    1345:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.13
+    4418:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.179
+    835:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.88
+    6467:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.229
+    4935:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.143
+    4423:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.166
+    1353:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.141
+    2378:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.38
+    3413:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.48
+    5978:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.184
+    4955:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.97
+    2396:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.5
+    5979:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.103
+    3421:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.50
+    1371:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.114
+    6497:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.43
+    4450:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.113
+    4451:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.231
+    2916:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.41
+    5477:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.12
+    1894:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.32
+    5991:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.195
+    2408:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.56
+    5480:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.149
+    361:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.131
+    3947:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.198
+    2413:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.142
+    1902:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.202
+    4464:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.90
+    371:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.199
+    4985:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.30
+    1914:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.178
+    1916:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.160
+    893:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.77
+    2943:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.118
+    2950:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.146
+    6535:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.124
+    1415:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.203
+    5513:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.197
+    7056:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.120
+    915:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.35
+    4500:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.126
+    918:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.54
+    1434:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.123
+    7067:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.91
+    3484:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.8
+    1439:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.183
+    5031:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.171
+    2474:
+    - CheddarCatchment.Buddles.Buddles9.WestPasageNorth1.213
+    1963:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.6
+    5556:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.108
+    1975:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.177
+    4033:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.27
+    7106:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.45
+    3523:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.167
+    6086:
+    - CheddarCatchment.Buddles.Surface.7
+    461:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.78
+    5583:
+    - CheddarCatchment.Buddles.Buddles9.StalChamber.102
+    7120:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.18
+    4051:
+    - CheddarCatchment.Buddles.Buddles9.Squeeze.62
+    2518:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.181
+    984:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.186
+    986:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.84
+    6109:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.150
+    990:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.80
+    4063:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.117
+    6624:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.85
+    7137:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.116
+    994:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.19
+    3042:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.87
+    486:
+    - CheddarCatchment.Buddles.Buddles9.WestSeriesSouth.134
+    3047:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.16
+    488:
+    - CheddarCatchment.Buddles.Buddles9.HoleInFloor.226
+    5099:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.159
+    2037:
+    - CheddarCatchment.Buddles.Buddles9.UpperMainPassageSouth.46
+    7158:
+    - CheddarCatchment.Buddles.Buddles9.BouncingBunny.93
+    2551:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.36
+    6646:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.174
+    7162:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.158
+    3067:
+    - CheddarCatchment.Buddles.Buddles9.CollectorsPeace.191
+    1534:
+    - CheddarCatchment.Buddles.Buddles9.MainPassageSouth.3
+  splays:
+    3588:
+    - - 526882.21
+      - 5680305.41
+      - 245.93
+    - - 526882.56
+      - 5680305.81
+      - 245.98
+    - - 526882.65
+      - 5680305.52
+      - 247.57
+    - - 526881.23
+      - 5680303.88
+      - 252.13
+    - - 526881.1
+      - 5680304.09
+      - 251.89
+    - - 526882.1
+      - 5680304.98
+      - 247.62
+    5131:
+    - - 526879.72
+      - 5680309.47
+      - 250.34
+    - - 526879.75
+      - 5680308.81
+      - 253.48
+    - - 526879.9
+      - 5680309.83
+      - 249.78
+    - - 526879.5
+      - 5680309.35
+      - 249.77
+    - - 526880.14
+      - 5680310.13
+      - 249.66
+    1036:
+    - - 526890.12
+      - 5680298.33
+      - 246.31
+    - - 526890.35
+      - 5680297.92
+      - 245.66
+    - - 526890.43
+      - 5680298.37
+      - 244.78
+    - - 526890.0
+      - 5680297.8
+      - 245.15
+    - - 526890.4
+      - 5680297.13
+      - 245.28
+    525:
+    - - 526880.56
+      - 5680308.33
+      - 246.65
+    - - 526880.34
+      - 5680308.07
+      - 246.71
+    - - 526880.13
+      - 5680308.41
+      - 248.41
+    - - 526880.67
+      - 5680308.4
+      - 249.36
+    - - 526880.92
+      - 5680308.9
+      - 249.3
+    - - 526881.1
+      - 5680309.13
+      - 248.45
+    523:
+    - - 526864.5
+      - 5680319.44
+      - 249.67
+    - - 526864.51
+      - 5680319.34
+      - 249.24
+    - - 526864.81
+      - 5680319.31
+      - 247.91
+    - - 526865.07
+      - 5680319.39
+      - 247.88
+    4114:
+    - - 526865.1
+      - 5680319.61
+      - 247.68
+    - - 526864.98
+      - 5680319.55
+      - 247.59
+    - - 526865.34
+      - 5680319.58
+      - 247.28
+    - - 526865.26
+      - 5680319.5
+      - 246.77
+    - - 526865.42
+      - 5680319.55
+      - 246.0
+    - - 526865.67
+      - 5680319.57
+      - 246.4
+    531:
+    - - 526865.24
+      - 5680337.96
+      - 252.03
+    - - 526865.3
+      - 5680337.68
+      - 252.03
+    - - 526865.5
+      - 5680338.06
+      - 252.31
+    - - 526865.74
+      - 5680337.27
+      - 252.15
+    4629:
+    - - 526871.87
+      - 5680331.32
+      - 239.63
+    - - 526871.64
+      - 5680331.87
+      - 238.24
+    - - 526871.21
+      - 5680332.41
+      - 239.5
+    - - 526871.82
+      - 5680332.58
+      - 239.47
+    - - 526871.48
+      - 5680332.93
+      - 237.72
+    - - 526871.18
+      - 5680332.72
+      - 237.71
+    - - 526871.25
+      - 5680332.27
+      - 238.21
+    6678:
+    - - 526864.57
+      - 5680338.66
+      - 246.63
+    - - 526864.99
+      - 5680337.22
+      - 243.58
+    - - 526864.33
+      - 5680336.46
+      - 242.88
+    - - 526864.7
+      - 5680336.23
+      - 242.98
+    - - 526864.57
+      - 5680336.56
+      - 243.72
+    - - 526865.69
+      - 5680337.37
+      - 241.29
+    - - 526864.77
+      - 5680337.0
+      - 241.61
+    - - 526864.59
+      - 5680336.59
+      - 243.76
+    - - 526864.36
+      - 5680336.58
+      - 242.84
+    - - 526864.76
+      - 5680338.3
+      - 246.68
+    - - 526865.29
+      - 5680336.8
+      - 243.68
+    - - 526865.01
+      - 5680337.24
+      - 243.55
+    6167:
+    - - 526865.78
+      - 5680326.04
+      - 243.96
+    - - 526866.87
+      - 5680325.66
+      - 241.8
+    - - 526867.22
+      - 5680325.91
+      - 240.69
+    - - 526866.41
+      - 5680325.79
+      - 241.04
+    3090:
+    - - 526869.15
+      - 5680313.8
+      - 249.83
+    - - 526869.11
+      - 5680314.03
+      - 249.33
+    - - 526869.23
+      - 5680314.14
+      - 248.98
+    - - 526868.86
+      - 5680313.19
+      - 247.82
+    - - 526869.14
+      - 5680313.54
+      - 248.01
+    - - 526868.97
+      - 5680313.83
+      - 249.05
+    3096:
+    - - 526869.41
+      - 5680305.14
+      - 245.87
+    - - 526870.22
+      - 5680305.66
+      - 247.37
+    - - 526870.1
+      - 5680305.54
+      - 247.08
+    1562:
+    - - 526869.63
+      - 5680307.18
+      - 251.37
+    - - 526869.29
+      - 5680308.13
+      - 247.77
+    - - 526869.19
+      - 5680307.92
+      - 245.13
+    - - 526869.43
+      - 5680307.95
+      - 245.22
+    4133:
+    - - 526860.22
+      - 5680347.64
+      - 255.74
+    - - 526860.8
+      - 5680347.9
+      - 255.83
+    - - 526860.33
+      - 5680349.9
+      - 257.16
+    - - 526859.77
+      - 5680349.88
+      - 257.21
+    - - 526860.6
+      - 5680348.62
+      - 256.27
+    - - 526859.96
+      - 5680348.55
+      - 256.13
+    - - 526861.12
+      - 5680348.54
+      - 255.32
+    - - 526861.57
+      - 5680348.61
+      - 254.43
+    - - 526860.72
+      - 5680348.52
+      - 254.37
+    2087:
+    - - 526887.76
+      - 5680300.26
+      - 246.57
+    - - 526883.4
+      - 5680302.96
+      - 245.95
+    - - 526884.24
+      - 5680300.93
+      - 244.22
+    - - 526885.74
+      - 5680301.26
+      - 243.59
+    - - 526885.47
+      - 5680300.83
+      - 243.53
+    - - 526885.7
+      - 5680301.54
+      - 245.51
+    - - 526886.01
+      - 5680301.77
+      - 245.46
+    - - 526885.99
+      - 5680301.67
+      - 244.51
+    - - 526886.04
+      - 5680301.65
+      - 243.8
+    6695:
+    - - 526862.99
+      - 5680346.94
+      - 251.69
+    - - 526862.49
+      - 5680346.87
+      - 251.41
+    - - 526862.47
+      - 5680347.29
+      - 251.16
+    - - 526863.13
+      - 5680347.68
+      - 250.74
+    - - 526863.58
+      - 5680348.05
+      - 250.66
+    3625:
+    - - 526874.36
+      - 5680301.03
+      - 246.98
+    - - 526874.49
+      - 5680301.14
+      - 245.57
+    - - 526874.43
+      - 5680301.36
+      - 244.09
+    - - 526874.75
+      - 5680301.45
+      - 244.12
+    5681:
+    - - 526870.1
+      - 5680304.18
+      - 253.39
+    - - 526870.5
+      - 5680304.66
+      - 252.74
+    - - 526871.15
+      - 5680304.87
+      - 252.06
+    - - 526870.61
+      - 5680304.83
+      - 251.76
+    4658:
+    - - 526884.89
+      - 5680303.34
+      - 246.0
+    - - 526883.84
+      - 5680302.78
+      - 246.61
+    - - 526884.6
+      - 5680303.16
+      - 247.22
+    - - 526885.48
+      - 5680303.25
+      - 243.4
+    - - 526885.79
+      - 5680303.11
+      - 242.43
+    - - 526885.21
+      - 5680303.2
+      - 242.39
+    2554:
+    - - 526873.72
+      - 5680326.15
+      - 254.57
+    - - 526872.17
+      - 5680329.01
+      - 254.78
+    - - 526872.05
+      - 5680329.38
+      - 254.67
+    - - 526872.21
+      - 5680328.57
+      - 254.74
+    - - 526872.6
+      - 5680328.39
+      - 254.78
+    - - 526872.91
+      - 5680328.78
+      - 254.68
+    7224:
+    - - 526866.43
+      - 5680339.2
+      - 246.67
+    - - 526865.83
+      - 5680338.99
+      - 246.52
+    - - 526866.91
+      - 5680337.52
+      - 246.59
+    - - 526866.61
+      - 5680338.82
+      - 248.04
+    - - 526866.41
+      - 5680338.51
+      - 247.68
+    - - 526866.96
+      - 5680338.94
+      - 247.7
+    - - 526867.08
+      - 5680338.75
+      - 246.81
+    - - 526866.97
+      - 5680338.52
+      - 245.51
+    - - 526866.47
+      - 5680337.84
+      - 245.53
+    5177:
+    - - 526879.76
+      - 5680310.99
+      - 245.5
+    - - 526882.77
+      - 5680308.59
+      - 242.78
+    - - 526881.31
+      - 5680307.12
+      - 246.37
+    - - 526880.93
+      - 5680306.85
+      - 246.54
+    - - 526882.39
+      - 5680309.3
+      - 242.1
+    - - 526882.8
+      - 5680309.45
+      - 240.41
+    - - 526883.02
+      - 5680310.35
+      - 240.4
+    3644:
+    - - 526883.81
+      - 5680303.72
+      - 249.06
+    - - 526880.29
+      - 5680304.92
+      - 252.96
+    - - 526883.01
+      - 5680303.37
+      - 247.82
+    - - 526883.88
+      - 5680303.57
+      - 247.53
+    - - 526882.65
+      - 5680304.07
+      - 247.26
+    - - 526883.87
+      - 5680304.59
+      - 247.14
+    - - 526884.68
+      - 5680304.07
+      - 245.43
+    - - 526883.32
+      - 5680303.33
+      - 246.1
+    1084:
+    - - 526864.86
+      - 5680318.67
+      - 248.46
+    - - 526865.13
+      - 5680318.79
+      - 248.62
+    - - 526865.33
+      - 5680318.71
+      - 247.46
+    - - 526865.68
+      - 5680318.95
+      - 245.96
+    - - 526865.42
+      - 5680318.87
+      - 245.93
+    4158:
+    - - 526872.54
+      - 5680294.37
+      - 250.22
+    - - 526872.78
+      - 5680294.8
+      - 250.34
+    - - 526872.79
+      - 5680294.91
+      - 248.71
+    - - 526872.77
+      - 5680294.65
+      - 247.78
+    - - 526872.38
+      - 5680294.44
+      - 247.66
+    1087:
+    - - 526870.4
+      - 5680298.16
+      - 241.55
+    - - 526869.81
+      - 5680298.59
+      - 241.89
+    - - 526869.69
+      - 5680298.28
+      - 242.05
+    - - 526869.5
+      - 5680298.06
+      - 241.5
+    - - 526869.48
+      - 5680298.04
+      - 240.98
+    - - 526869.48
+      - 5680298.3
+      - 240.92
+    3136:
+    - - 526867.86
+      - 5680309.99
+      - 242.92
+    - - 526867.62
+      - 5680309.91
+      - 242.81
+    - - 526867.71
+      - 5680310.02
+      - 242.34
+    4162:
+    - - 526866.45
+      - 5680320.25
+      - 240.1
+    - - 526866.72
+      - 5680320.41
+      - 240.13
+    - - 526866.46
+      - 5680320.23
+      - 239.69
+    - - 526866.38
+      - 5680320.18
+      - 239.19
+    - - 526866.95
+      - 5680320.52
+      - 239.25
+    1604:
+    - - 526881.16
+      - 5680309.14
+      - 251.5
+    - - 526881.08
+      - 5680307.81
+      - 251.49
+    - - 526881.46
+      - 5680308.11
+      - 250.84
+    1093:
+    - - 526863.25
+      - 5680343.55
+      - 243.73
+    - - 526863.71
+      - 5680343.98
+      - 243.69
+    - - 526863.59
+      - 5680344.07
+      - 243.3
+    - - 526862.71
+      - 5680343.27
+      - 243.87
+    - - 526862.72
+      - 5680343.31
+      - 243.67
+    4680:
+    - - 526870.82
+      - 5680334.81
+      - 244.34
+    - - 526871.15
+      - 5680334.72
+      - 244.35
+    - - 526870.94
+      - 5680334.8
+      - 244.38
+    - - 526871.41
+      - 5680334.55
+      - 243.63
+    - - 526870.96
+      - 5680334.65
+      - 243.6
+    3659:
+    - - 526866.06
+      - 5680322.15
+      - 241.7
+    - - 526866.49
+      - 5680321.36
+      - 241.06
+    - - 526866.76
+      - 5680321.15
+      - 239.6
+    - - 526866.38
+      - 5680321.19
+      - 239.62
+    77:
+    - - 526872.85
+      - 5680328.19
+      - 251.15
+    - - 526873.23
+      - 5680328.5
+      - 250.99
+    - - 526872.9
+      - 5680328.0
+      - 252.43
+    - - 526873.2
+      - 5680328.12
+      - 252.55
+    - - 526873.16
+      - 5680328.33
+      - 252.01
+    6223:
+    - - 526869.09
+      - 5680307.64
+      - 242.6
+    - - 526868.37
+      - 5680309.43
+      - 241.68
+    - - 526868.04
+      - 5680309.14
+      - 241.64
+    - - 526867.95
+      - 5680309.03
+      - 243.45
+    - - 526868.25
+      - 5680309.23
+      - 243.04
+    3153:
+    - - 526870.97
+      - 5680333.9
+      - 245.19
+    - - 526871.07
+      - 5680334.33
+      - 246.32
+    - - 526870.94
+      - 5680333.85
+      - 244.37
+    - - 526871.43
+      - 5680333.86
+      - 244.33
+    6229:
+    - - 526871.34
+      - 5680338.7
+      - 242.19
+    - - 526871.4
+      - 5680337.36
+      - 242.9
+    - - 526871.11
+      - 5680337.32
+      - 242.89
+    - - 526870.91
+      - 5680337.32
+      - 241.08
+    - - 526871.21
+      - 5680335.9
+      - 243.09
+    - - 526871.22
+      - 5680337.24
+      - 241.05
+    - - 526871.23
+      - 5680336.09
+      - 242.26
+    2644:
+    - - 526866.18
+      - 5680315.87
+      - 243.28
+    - - 526866.19
+      - 5680315.24
+      - 243.21
+    5219:
+    - - 526858.27
+      - 5680355.89
+      - 253.13
+    - - 526858.77
+      - 5680355.93
+      - 255.75
+    - - 526861.05
+      - 5680354.93
+      - 255.53
+    - - 526860.9
+      - 5680355.93
+      - 254.86
+    - - 526857.83
+      - 5680354.94
+      - 254.54
+    - - 526859.05
+      - 5680355.28
+      - 255.6
+    6244:
+    - - 526892.4
+      - 5680296.13
+      - 247.65
+    - - 526892.55
+      - 5680298.26
+      - 247.89
+    - - 526893.1
+      - 5680296.46
+      - 247.14
+    - - 526892.99
+      - 5680296.77
+      - 248.29
+    5741:
+    - - 526861.88
+      - 5680348.63
+      - 252.96
+    - - 526861.44
+      - 5680347.97
+      - 253.45
+    - - 526861.61
+      - 5680347.3
+      - 253.22
+    - - 526861.59
+      - 5680347.11
+      - 252.36
+    - - 526861.58
+      - 5680348.12
+      - 252.75
+    1648:
+    - - 526868.24
+      - 5680326.72
+      - 237.82
+    - - 526867.24
+      - 5680329.06
+      - 238.6
+    - - 526867.49
+      - 5680328.58
+      - 238.7
+    - - 526867.8
+      - 5680328.96
+      - 238.55
+    - - 526867.39
+      - 5680328.85
+      - 239.84
+    - - 526867.28
+      - 5680329.11
+      - 238.31
+    1658:
+    - - 526874.07
+      - 5680302.98
+      - 246.51
+    - - 526874.15
+      - 5680303.07
+      - 246.5
+    - - 526873.88
+      - 5680303.06
+      - 247.48
+    - - 526873.72
+      - 5680302.86
+      - 247.7
+    1659:
+    - - 526865.85
+      - 5680315.66
+      - 244.15
+    - - 526866.15
+      - 5680315.76
+      - 244.26
+    - - 526866.12
+      - 5680315.32
+      - 244.52
+    - - 526865.87
+      - 5680314.9
+      - 244.66
+    - - 526866.15
+      - 5680315.0
+      - 244.72
+    6267:
+    - - 526866.31
+      - 5680337.55
+      - 252.0
+    - - 526865.97
+      - 5680337.08
+      - 251.77
+    - - 526866.01
+      - 5680337.28
+      - 251.47
+    - - 526866.1
+      - 5680337.65
+      - 250.62
+    - - 526866.61
+      - 5680338.12
+      - 250.48
+    127:
+    - - 526869.83
+      - 5680306.62
+      - 254.48
+    - - 526868.1
+      - 5680306.28
+      - 256.63
+    - - 526868.97
+      - 5680304.1
+      - 254.92
+    - - 526870.13
+      - 5680305.3
+      - 253.44
+    - - 526870.74
+      - 5680305.52
+      - 252.6
+    - - 526870.07
+      - 5680305.23
+      - 252.7
+    640:
+    - - 526891.71
+      - 5680297.76
+      - 245.47
+    - - 526893.51
+      - 5680298.31
+      - 247.53
+    - - 526894.04
+      - 5680296.69
+      - 247.7
+    - - 526893.03
+      - 5680296.1
+      - 247.61
+    - - 526891.15
+      - 5680295.82
+      - 249.26
+    - - 526891.34
+      - 5680297.64
+      - 247.88
+    - - 526891.69
+      - 5680298.16
+      - 248.33
+    - - 526892.17
+      - 5680297.63
+      - 246.86
+    - - 526892.07
+      - 5680296.99
+      - 247.0
+    - - 526892.39
+      - 5680298.15
+      - 247.96
+    - - 526892.27
+      - 5680296.78
+      - 248.33
+    - - 526892.24
+      - 5680296.75
+      - 247.07
+    6273:
+    - - 526887.87
+      - 5680299.69
+      - 244.53
+    - - 526888.05
+      - 5680299.74
+      - 244.44
+    - - 526887.82
+      - 5680300.04
+      - 244.09
+    - - 526888.11
+      - 5680299.68
+      - 245.55
+    - - 526888.18
+      - 5680299.52
+      - 243.53
+    - - 526888.08
+      - 5680299.42
+      - 243.1
+    - - 526887.88
+      - 5680299.24
+      - 243.13
+    6274:
+    - - 526871.64
+      - 5680302.92
+      - 250.57
+    - - 526872.16
+      - 5680303.29
+      - 250.01
+    - - 526871.59
+      - 5680303.26
+      - 248.2
+    - - 526871.47
+      - 5680303.04
+      - 246.78
+    - - 526871.08
+      - 5680302.99
+      - 246.65
+    3200:
+    - - 526871.38
+      - 5680301.71
+      - 250.56
+    - - 526871.67
+      - 5680301.62
+      - 250.65
+    - - 526872.01
+      - 5680301.7
+      - 249.97
+    - - 526871.81
+      - 5680301.56
+      - 248.66
+    - - 526871.56
+      - 5680301.44
+      - 248.66
+    5247:
+    - - 526896.55
+      - 5680300.24
+      - 246.94
+    - - 526896.15
+      - 5680300.54
+      - 246.57
+    - - 526896.2
+      - 5680300.61
+      - 247.11
+    - - 526896.78
+      - 5680300.58
+      - 246.6
+    136:
+    - - 526887.31
+      - 5680300.41
+      - 243.56
+    - - 526887.03
+      - 5680300.07
+      - 242.82
+    - - 526886.62
+      - 5680299.55
+      - 241.69
+    - - 526887.01
+      - 5680300.28
+      - 241.61
+    6795:
+    - - 526887.34
+      - 5680304.45
+      - 240.38
+    - - 526888.69
+      - 5680301.88
+      - 240.01
+    - - 526888.04
+      - 5680301.25
+      - 239.89
+    - - 526886.24
+      - 5680303.18
+      - 240.97
+    - - 526886.98
+      - 5680303.82
+      - 240.73
+    2704:
+    - - 526888.27
+      - 5680302.36
+      - 245.91
+    - - 526888.18
+      - 5680301.91
+      - 246.36
+    - - 526888.27
+      - 5680301.98
+      - 246.91
+    - - 526888.29
+      - 5680302.42
+      - 246.37
+    7315:
+    - - 526871.4
+      - 5680333.58
+      - 244.6
+    - - 526871.46
+      - 5680332.69
+      - 245.44
+    - - 526870.64
+      - 5680333.61
+      - 244.98
+    - - 526870.61
+      - 5680332.63
+      - 244.85
+    3736:
+    - - 526880.83
+      - 5680311.63
+      - 243.33
+    - - 526879.09
+      - 5680312.78
+      - 243.39
+    - - 526880.3
+      - 5680313.71
+      - 243.2
+    - - 526879.75
+      - 5680312.7
+      - 244.16
+    - - 526880.13
+      - 5680312.85
+      - 243.71
+    - - 526880.22
+      - 5680312.74
+      - 243.03
+    - - 526878.88
+      - 5680312.94
+      - 243.86
+    - - 526879.22
+      - 5680313.76
+      - 243.68
+    154:
+    - - 526870.88
+      - 5680335.52
+      - 247.23
+    - - 526870.74
+      - 5680334.32
+      - 247.82
+    - - 526870.87
+      - 5680334.0
+      - 247.45
+    - - 526870.68
+      - 5680333.79
+      - 247.33
+    - - 526871.16
+      - 5680333.41
+      - 251.01
+    - - 526870.91
+      - 5680333.57
+      - 250.82
+    - - 526871.15
+      - 5680333.8
+      - 249.15
+    5786:
+    - - 526864.0
+      - 5680337.71
+      - 245.09
+    - - 526864.67
+      - 5680337.08
+      - 241.57
+    - - 526864.28
+      - 5680337.13
+      - 242.9
+    2715:
+    - - 526872.26
+      - 5680345.56
+      - 237.76
+    - - 526872.62
+      - 5680346.44
+      - 238.33
+    - - 526872.31
+      - 5680346.52
+      - 238.69
+    - - 526872.26
+      - 5680346.73
+      - 238.16
+    - - 526872.52
+      - 5680346.74
+      - 236.99
+    - - 526872.43
+      - 5680346.53
+      - 235.88
+    - - 526873.09
+      - 5680346.51
+      - 235.91
+    5788:
+    - - 526869.65
+      - 5680360.71
+      - 238.51
+    - - 526870.52
+      - 5680360.52
+      - 237.48
+    - - 526869.86
+      - 5680359.8
+      - 237.42
+    - - 526869.11
+      - 5680360.49
+      - 237.72
+    - - 526869.07
+      - 5680360.33
+      - 237.78
+    - - 526869.12
+      - 5680360.01
+      - 237.54
+    - - 526869.44
+      - 5680359.52
+      - 236.82
+    - - 526869.27
+      - 5680360.2
+      - 236.79
+    158:
+    - - 526868.29
+      - 5680335.4
+      - 246.76
+    - - 526867.84
+      - 5680334.58
+      - 248.39
+    - - 526868.63
+      - 5680335.73
+      - 246.2
+    - - 526867.55
+      - 5680336.39
+      - 248.26
+    - - 526867.14
+      - 5680336.14
+      - 248.94
+    - - 526867.44
+      - 5680336.14
+      - 247.19
+    - - 526867.14
+      - 5680336.26
+      - 246.03
+    - - 526867.86
+      - 5680336.43
+      - 246.09
+    671:
+    - - 526870.92
+      - 5680331.56
+      - 247.04
+    - - 526870.79
+      - 5680332.28
+      - 246.76
+    - - 526870.99
+      - 5680331.85
+      - 246.52
+    - - 526871.43
+      - 5680332.03
+      - 246.2
+    - - 526870.88
+      - 5680332.51
+      - 244.69
+    - - 526871.68
+      - 5680332.57
+      - 244.21
+    5280:
+    - - 526872.07
+      - 5680340.05
+      - 237.5
+    - - 526872.13
+      - 5680341.13
+      - 237.66
+    - - 526871.77
+      - 5680341.2
+      - 237.54
+    - - 526871.78
+      - 5680340.93
+      - 237.03
+    - - 526872.39
+      - 5680341.08
+      - 236.93
+    674:
+    - - 526865.68
+      - 5680322.96
+      - 243.46
+    - - 526866.08
+      - 5680322.62
+      - 241.98
+    - - 526865.73
+      - 5680322.54
+      - 242.29
+    163:
+    - - 526863.6
+      - 5680319.78
+      - 252.85
+    - - 526863.81
+      - 5680321.45
+      - 249.65
+    - - 526863.84
+      - 5680321.48
+      - 248.72
+    - - 526863.74
+      - 5680321.34
+      - 248.65
+    678:
+    - - 526878.85
+      - 5680310.17
+      - 249.36
+    - - 526878.57
+      - 5680310.15
+      - 247.96
+    - - 526878.66
+      - 5680310.37
+      - 247.24
+    - - 526878.9
+      - 5680310.57
+      - 247.27
+    2729:
+    - - 526864.08
+      - 5680342.37
+      - 243.29
+    - - 526864.56
+      - 5680340.73
+      - 243.27
+    - - 526863.88
+      - 5680340.87
+      - 243.16
+    - - 526865.18
+      - 5680341.08
+      - 241.68
+    - - 526864.1
+      - 5680340.97
+      - 241.62
+    3757:
+    - - 526863.08
+      - 5680345.76
+      - 247.65
+    - - 526863.79
+      - 5680343.73
+      - 246.49
+    - - 526864.3
+      - 5680344.55
+      - 249.13
+    - - 526863.25
+      - 5680344.6
+      - 248.69
+    - - 526861.92
+      - 5680344.58
+      - 248.53
+    - - 526863.97
+      - 5680344.81
+      - 247.29
+    - - 526861.91
+      - 5680344.56
+      - 246.56
+    4271:
+    - - 526871.56
+      - 5680297.67
+      - 249.38
+    - - 526873.12
+      - 5680295.98
+      - 244.83
+    - - 526873.53
+      - 5680295.95
+      - 245.11
+    - - 526872.84
+      - 5680296.81
+      - 245.93
+    1200:
+    - - 526866.64
+      - 5680313.81
+      - 242.58
+    - - 526866.76
+      - 5680313.78
+      - 244.21
+    - - 526866.41
+      - 5680313.72
+      - 243.45
+    1712:
+    - - 526867.05
+      - 5680310.81
+      - 243.16
+    - - 526867.43
+      - 5680311.09
+      - 243.24
+    - - 526867.11
+      - 5680310.8
+      - 243.7
+    - - 526866.77
+      - 5680313.81
+      - 243.41
+    - - 526866.76
+      - 5680313.82
+      - 243.41
+    1717:
+    - - 526869.56
+      - 5680310.12
+      - 245.66
+    - - 526869.28
+      - 5680310.32
+      - 250.08
+    - - 526869.65
+      - 5680310.19
+      - 250.4
+    - - 526869.7
+      - 5680309.75
+      - 248.11
+    - - 526869.7
+      - 5680309.43
+      - 246.95
+    - - 526869.46
+      - 5680309.39
+      - 246.93
+    5817:
+    - - 526871.22
+      - 5680343.44
+      - 237.78
+    - - 526870.86
+      - 5680342.05
+      - 237.34
+    - - 526871.62
+      - 5680341.85
+      - 237.27
+    - - 526871.73
+      - 5680340.98
+      - 237.37
+    - - 526871.4
+      - 5680341.4
+      - 238.54
+    - - 526870.72
+      - 5680341.33
+      - 238.53
+    - - 526872.35
+      - 5680341.55
+      - 237.04
+    - - 526871.45
+      - 5680341.45
+      - 236.46
+    4281:
+    - - 526867.0
+      - 5680331.01
+      - 241.67
+    - - 526866.74
+      - 5680331.61
+      - 241.68
+    - - 526866.51
+      - 5680331.5
+      - 242.88
+    - - 526865.68
+      - 5680330.89
+      - 242.39
+    - - 526865.73
+      - 5680331.06
+      - 241.26
+    5309:
+    - - 526871.23
+      - 5680303.75
+      - 247.7
+    - - 526871.02
+      - 5680303.61
+      - 247.11
+    - - 526870.76
+      - 5680303.74
+      - 245.9
+    - - 526871.04
+      - 5680303.84
+      - 245.95
+    2238:
+    - - 526872.07
+      - 5680353.7
+      - 237.2
+    - - 526872.77
+      - 5680355.33
+      - 238.36
+    - - 526872.22
+      - 5680355.28
+      - 238.49
+    - - 526871.92
+      - 5680355.44
+      - 238.04
+    - - 526871.76
+      - 5680355.29
+      - 236.86
+    - - 526872.55
+      - 5680355.52
+      - 237.12
+    4287:
+    - - 526864.6
+      - 5680340.66
+      - 247.12
+    - - 526863.44
+      - 5680340.52
+      - 244.56
+    - - 526864.7
+      - 5680340.55
+      - 244.72
+    - - 526863.34
+      - 5680341.98
+      - 249.5
+    - - 526864.06
+      - 5680342.04
+      - 249.33
+    - - 526864.35
+      - 5680341.7
+      - 248.66
+    - - 526863.35
+      - 5680341.29
+      - 244.78
+    - - 526864.28
+      - 5680341.38
+      - 244.74
+    3266:
+    - - 526865.66
+      - 5680319.96
+      - 245.76
+    - - 526865.74
+      - 5680320.34
+      - 244.95
+    - - 526865.87
+      - 5680320.44
+      - 244.97
+    - - 526865.47
+      - 5680320.35
+      - 246.85
+    - - 526864.74
+      - 5680320.4
+      - 248.46
+    - - 526864.63
+      - 5680320.29
+      - 248.26
+    6340:
+    - - 526872.0
+      - 5680334.37
+      - 253.6
+    - - 526871.83
+      - 5680334.41
+      - 253.71
+    - - 526870.92
+      - 5680335.29
+      - 252.05
+    - - 526870.22
+      - 5680334.92
+      - 252.23
+    - - 526871.1
+      - 5680334.65
+      - 252.01
+    - - 526870.96
+      - 5680334.86
+      - 250.57
+    - - 526871.27
+      - 5680334.75
+      - 250.51
+    2244:
+    - - 526870.79
+      - 5680331.67
+      - 245.85
+    - - 526871.62
+      - 5680330.71
+      - 245.64
+    - - 526872.1
+      - 5680330.91
+      - 245.72
+    - - 526871.46
+      - 5680330.52
+      - 245.61
+    - - 526871.41
+      - 5680330.6
+      - 245.31
+    - - 526871.95
+      - 5680330.92
+      - 245.37
+    2756:
+    - - 526877.05
+      - 5680311.03
+      - 251.92
+    - - 526876.93
+      - 5680310.65
+      - 251.6
+    - - 526876.58
+      - 5680311.1
+      - 250.03
+    - - 526876.66
+      - 5680311.26
+      - 249.18
+    - - 526876.79
+      - 5680311.63
+      - 249.12
+    1737:
+    - - 526870.6
+      - 5680337.98
+      - 240.27
+    - - 526871.7
+      - 5680339.69
+      - 238.0
+    - - 526871.22
+      - 5680339.87
+      - 237.86
+    - - 526871.15
+      - 5680340.03
+      - 238.99
+    - - 526871.04
+      - 5680339.39
+      - 241.48
+    - - 526870.82
+      - 5680339.89
+      - 240.55
+    201:
+    - - 526864.56
+      - 5680337.66
+      - 253.39
+    - - 526864.78
+      - 5680337.41
+      - 253.54
+    - - 526865.02
+      - 5680336.87
+      - 253.55
+    717:
+    - - 526865.5
+      - 5680336.38
+      - 241.03
+    - - 526865.96
+      - 5680336.71
+      - 241.0
+    - - 526864.8
+      - 5680336.6
+      - 241.22
+    718:
+    - - 526869.83
+      - 5680312.78
+      - 251.09
+    - - 526869.58
+      - 5680312.75
+      - 251.01
+    - - 526868.97
+      - 5680313.1
+      - 247.73
+    - - 526869.24
+      - 5680313.22
+      - 247.86
+    - - 526869.4
+      - 5680313.41
+      - 248.84
+    6863:
+    - - 526869.41
+      - 5680333.37
+      - 245.47
+    - - 526870.1
+      - 5680331.64
+      - 244.13
+    - - 526869.05
+      - 5680333.31
+      - 246.64
+    - - 526868.97
+      - 5680333.14
+      - 244.79
+    - - 526869.58
+      - 5680333.43
+      - 244.72
+    1234:
+    - - 526868.03
+      - 5680329.66
+      - 237.64
+    - - 526868.13
+      - 5680329.76
+      - 237.99
+    - - 526868.01
+      - 5680329.94
+      - 237.71
+    3286:
+    - - 526885.34
+      - 5680303.1
+      - 246.24
+    - - 526885.62
+      - 5680302.78
+      - 245.23
+    - - 526885.65
+      - 5680302.12
+      - 245.75
+    - - 526885.41
+      - 5680302.85
+      - 246.52
+    - - 526885.38
+      - 5680302.17
+      - 247.3
+    2775:
+    - - 526871.52
+      - 5680331.1
+      - 253.23
+    - - 526871.3
+      - 5680331.04
+      - 253.18
+    - - 526871.26
+      - 5680331.07
+      - 252.7
+    - - 526871.32
+      - 5680331.16
+      - 251.85
+    - - 526871.5
+      - 5680331.26
+      - 251.92
+    2262:
+    - - 526872.56
+      - 5680298.9
+      - 244.2
+    - - 526872.7
+      - 5680298.38
+      - 244.75
+    - - 526872.99
+      - 5680298.86
+      - 243.66
+    - - 526873.03
+      - 5680298.51
+      - 242.94
+    - - 526873.13
+      - 5680297.89
+      - 242.89
+    4314:
+    - - 526894.93
+      - 5680300.45
+      - 247.27
+    - - 526894.28
+      - 5680297.22
+      - 247.11
+    - - 526895.24
+      - 5680296.99
+      - 247.12
+    - - 526896.07
+      - 5680297.0
+      - 246.62
+    - - 526895.53
+      - 5680298.71
+      - 246.82
+    - - 526895.45
+      - 5680298.4
+      - 247.32
+    - - 526894.74
+      - 5680298.69
+      - 247.41
+    732:
+    - - 526861.6
+      - 5680354.27
+      - 254.85
+    - - 526861.03
+      - 5680353.07
+      - 254.17
+    - - 526860.18
+      - 5680353.1
+      - 255.09
+    - - 526858.71
+      - 5680352.99
+      - 256.45
+    - - 526858.66
+      - 5680352.71
+      - 255.0
+    - - 526859.36
+      - 5680352.85
+      - 254.56
+    1247:
+    - - 526874.78
+      - 5680321.23
+      - 250.1
+    - - 526877.24
+      - 5680318.72
+      - 248.98
+    - - 526877.65
+      - 5680318.39
+      - 249.22
+    - - 526875.76
+      - 5680318.15
+      - 249.03
+    - - 526876.85
+      - 5680317.93
+      - 246.62
+    - - 526877.38
+      - 5680318.23
+      - 245.21
+    - - 526878.98
+      - 5680318.26
+      - 245.05
+    6368:
+    - - 526887.59
+      - 5680299.66
+      - 242.12
+    - - 526887.29
+      - 5680300.28
+      - 241.62
+    - - 526887.21
+      - 5680299.28
+      - 240.85
+    6372:
+    - - 526871.68
+      - 5680297.9
+      - 241.53
+    - - 526871.71
+      - 5680298.4
+      - 242.91
+    - - 526871.65
+      - 5680298.53
+      - 242.22
+    - - 526871.49
+      - 5680297.92
+      - 241.79
+    - - 526871.48
+      - 5680298.46
+      - 241.44
+    4840:
+    - - 526865.73
+      - 5680315.29
+      - 251.49
+    - - 526865.45
+      - 5680315.43
+      - 251.58
+    - - 526866.09
+      - 5680315.12
+      - 246.37
+    - - 526865.52
+      - 5680315.0
+      - 246.25
+    - - 526865.48
+      - 5680315.77
+      - 246.22
+    - - 526865.81
+      - 5680315.91
+      - 244.61
+    - - 526866.15
+      - 5680316.01
+      - 244.62
+    1261:
+    - - 526859.56
+      - 5680348.72
+      - 254.59
+    - - 526861.6
+      - 5680350.85
+      - 254.81
+    - - 526861.05
+      - 5680351.53
+      - 255.57
+    - - 526859.25
+      - 5680350.57
+      - 255.77
+    - - 526858.92
+      - 5680350.41
+      - 255.04
+    - - 526860.17
+      - 5680350.81
+      - 255.77
+    5360:
+    - - 526864.0
+      - 5680337.26
+      - 245.03
+    - - 526865.54
+      - 5680337.29
+      - 240.89
+    - - 526865.83
+      - 5680337.46
+      - 240.8
+    5357:
+    - - 526871.16
+      - 5680296.55
+      - 251.18
+    - - 526870.86
+      - 5680296.51
+      - 251.2
+    - - 526871.18
+      - 5680296.8
+      - 250.56
+    - - 526870.86
+      - 5680296.75
+      - 249.44
+    - - 526871.25
+      - 5680296.91
+      - 249.6
+    754:
+    - - 526872.75
+      - 5680300.2
+      - 244.53
+    - - 526872.52
+      - 5680299.95
+      - 244.39
+    - - 526872.62
+      - 5680300.32
+      - 244.17
+    - - 526872.78
+      - 5680300.49
+      - 243.52
+    - - 526872.41
+      - 5680299.79
+      - 243.54
+    1273:
+    - - 526869.83
+      - 5680333.14
+      - 245.45
+    - - 526869.84
+      - 5680333.31
+      - 245.41
+    - - 526869.88
+      - 5680333.18
+      - 244.83
+    - - 526869.88
+      - 5680332.59
+      - 244.87
+    5369:
+    - - 526871.13
+      - 5680331.67
+      - 253.34
+    - - 526870.91
+      - 5680331.67
+      - 253.31
+    - - 526871.17
+      - 5680331.87
+      - 252.56
+    - - 526871.03
+      - 5680331.73
+      - 251.85
+    - - 526871.17
+      - 5680331.75
+      - 251.79
+    2297:
+    - - 526865.79
+      - 5680336.99
+      - 241.12
+    - - 526865.49
+      - 5680337.16
+      - 240.88
+    4866:
+    - - 526874.49
+      - 5680302.33
+      - 245.77
+    - - 526874.67
+      - 5680302.42
+      - 245.84
+    - - 526874.71
+      - 5680302.8
+      - 243.7
+    - - 526874.62
+      - 5680302.64
+      - 242.42
+    - - 526874.2
+      - 5680302.6
+      - 242.46
+    5893:
+    - - 526865.18
+      - 5680317.05
+      - 248.82
+    - - 526865.28
+      - 5680317.18
+      - 249.18
+    - - 526865.7
+      - 5680317.35
+      - 248.1
+    - - 526865.85
+      - 5680317.66
+      - 246.85
+    - - 526865.84
+      - 5680317.48
+      - 247.1
+    - - 526865.39
+      - 5680317.41
+      - 247.07
+    - - 526865.83
+      - 5680316.7
+      - 245.75
+    - - 526865.45
+      - 5680317.27
+      - 246.93
+    - - 526865.22
+      - 5680317.19
+      - 249.23
+    - - 526865.69
+      - 5680317.34
+      - 248.1
+    4369:
+    - - 526865.04
+      - 5680324.71
+      - 245.31
+    - - 526865.43
+      - 5680324.71
+      - 244.71
+    - - 526865.53
+      - 5680324.54
+      - 244.09
+    - - 526865.43
+      - 5680324.51
+      - 244.02
+    3353:
+    - - 526871.55
+      - 5680335.57
+      - 242.69
+    - - 526871.23
+      - 5680335.48
+      - 242.6
+    - - 526871.09
+      - 5680335.44
+      - 243.22
+    - - 526871.55
+      - 5680335.58
+      - 244.99
+    - - 526871.37
+      - 5680335.5
+      - 245.15
+    284:
+    - - 526878.61
+      - 5680315.64
+      - 244.95
+    - - 526877.54
+      - 5680315.58
+      - 244.8
+    - - 526877.8
+      - 5680314.66
+      - 246.24
+    - - 526878.19
+      - 5680314.43
+      - 246.15
+    - - 526877.86
+      - 5680314.62
+      - 244.43
+    - - 526879.04
+      - 5680314.96
+      - 244.16
+    292:
+    - - 526871.77
+      - 5680324.45
+      - 257.96
+    - - 526871.17
+      - 5680325.03
+      - 258.15
+    - - 526874.59
+      - 5680325.82
+      - 248.69
+    - - 526874.6
+      - 5680325.6
+      - 247.03
+    - - 526876.18
+      - 5680326.18
+      - 247.23
+    6441:
+    - - 526861.25
+      - 5680346.01
+      - 250.28
+    - - 526863.46
+      - 5680345.79
+      - 250.28
+    - - 526861.72
+      - 5680345.31
+      - 247.27
+    - - 526864.14
+      - 5680345.88
+      - 248.36
+    3371:
+    - - 526864.28
+      - 5680334.97
+      - 243.5
+    - - 526863.84
+      - 5680335.01
+      - 244.39
+    - - 526864.06
+      - 5680335.15
+      - 244.47
+    - - 526864.22
+      - 5680335.07
+      - 244.04
+    - - 526864.55
+      - 5680335.11
+      - 243.22
+    - - 526864.37
+      - 5680335.12
+      - 243.17
+    2864:
+    - - 526865.23
+      - 5680332.78
+      - 244.14
+    - - 526865.01
+      - 5680332.61
+      - 243.81
+    - - 526864.96
+      - 5680333.07
+      - 242.24
+    - - 526865.41
+      - 5680333.07
+      - 240.9
+    - - 526865.59
+      - 5680333.2
+      - 241.18
+    1841:
+    - - 526871.43
+      - 5680299.45
+      - 249.25
+    - - 526872.79
+      - 5680299.79
+      - 247.85
+    - - 526872.58
+      - 5680299.59
+      - 247.35
+    - - 526873.02
+      - 5680299.42
+      - 246.15
+    - - 526873.15
+      - 5680299.46
+      - 246.16
+    6962:
+    - - 526865.94
+      - 5680338.68
+      - 246.54
+    - - 526866.16
+      - 5680338.28
+      - 245.9
+    - - 526866.59
+      - 5680337.94
+      - 245.4
+    - - 526866.56
+      - 5680338.44
+      - 245.33
+    2872:
+    - - 526864.56
+      - 5680323.29
+      - 245.53
+    - - 526864.59
+      - 5680322.63
+      - 246.75
+    - - 526865.37
+      - 5680322.35
+      - 245.31
+    - - 526865.58
+      - 5680322.26
+      - 244.57
+    - - 526865.06
+      - 5680322.15
+      - 244.56
+    5944:
+    - - 526870.81
+      - 5680297.39
+      - 252.8
+    - - 526870.75
+      - 5680297.09
+      - 252.78
+    - - 526870.64
+      - 5680296.96
+      - 250.87
+    - - 526870.56
+      - 5680297.06
+      - 250.33
+    - - 526870.77
+      - 5680297.49
+      - 250.5
+    1341:
+    - - 526867.04
+      - 5680319.91
+      - 242.54
+    - - 526866.32
+      - 5680321.6
+      - 243.58
+    - - 526866.19
+      - 5680321.47
+      - 243.79
+    - - 526865.96
+      - 5680322.31
+      - 242.2
+    - - 526865.68
+      - 5680322.19
+      - 242.23
+    4927:
+    - - 526872.63
+      - 5680328.86
+      - 252.4
+    - - 526872.61
+      - 5680328.95
+      - 251.59
+    - - 526873.18
+      - 5680328.92
+      - 251.47
+    - - 526873.07
+      - 5680329.33
+      - 252.34
+    - - 526873.19
+      - 5680328.77
+      - 252.36
+    1856:
+    - - 526860.83
+      - 5680348.17
+      - 253.18
+    - - 526860.48
+      - 5680347.23
+      - 253.48
+    - - 526859.97
+      - 5680347.13
+      - 253.37
+    - - 526860.41
+      - 5680347.0
+      - 252.51
+    1345:
+    - - 526875.5
+      - 5680313.94
+      - 249.04
+    - - 526875.43
+      - 5680314.81
+      - 248.97
+    - - 526875.64
+      - 5680314.76
+      - 249.74
+    - - 526878.0
+      - 5680314.25
+      - 248.53
+    4418:
+    - - 526873.81
+      - 5680300.35
+      - 243.56
+    - - 526873.73
+      - 5680299.57
+      - 243.77
+    - - 526874.91
+      - 5680299.82
+      - 245.35
+    - - 526874.62
+      - 5680299.87
+      - 245.01
+    - - 526874.16
+      - 5680300.0
+      - 243.23
+    - - 526874.3
+      - 5680299.92
+      - 242.43
+    - - 526874.84
+      - 5680300.01
+      - 242.52
+    835:
+    - - 526872.7
+      - 5680352.68
+      - 238.58
+    - - 526872.21
+      - 5680352.37
+      - 237.36
+    - - 526872.7
+      - 5680352.42
+      - 238.32
+    - - 526872.7
+      - 5680352.32
+      - 237.11
+    - - 526872.62
+      - 5680352.25
+      - 236.5
+    - - 526872.03
+      - 5680352.43
+      - 236.39
+    4935:
+    - - 526866.58
+      - 5680329.72
+      - 240.31
+    - - 526867.16
+      - 5680329.78
+      - 240.29
+    - - 526866.71
+      - 5680329.64
+      - 239.93
+    - - 526867.06
+      - 5680329.45
+      - 238.54
+    - - 526867.42
+      - 5680330.0
+      - 238.78
+    - - 526867.15
+      - 5680330.25
+      - 239.85
+    4423:
+    - - 526869.42
+      - 5680307.8
+      - 249.98
+    - - 526869.42
+      - 5680306.61
+      - 245.96
+    - - 526869.46
+      - 5680306.67
+      - 244.46
+    - - 526869.17
+      - 5680306.68
+      - 244.39
+    1353:
+    - - 526867.7
+      - 5680319.04
+      - 239.99
+    - - 526867.66
+      - 5680319.43
+      - 238.59
+    - - 526867.23
+      - 5680319.21
+      - 238.52
+    2378:
+    - - 526897.23
+      - 5680297.92
+      - 245.89
+    - - 526897.28
+      - 5680297.63
+      - 245.94
+    - - 526897.43
+      - 5680297.9
+      - 246.56
+    - - 526897.5
+      - 5680298.41
+      - 246.42
+    - - 526897.42
+      - 5680298.87
+      - 245.66
+    - - 526897.94
+      - 5680298.62
+      - 245.97
+    - - 526898.01
+      - 5680297.95
+      - 245.95
+    3413:
+    - - 526880.96
+      - 5680306.06
+      - 252.19
+    - - 526881.23
+      - 5680305.66
+      - 250.55
+    - - 526880.84
+      - 5680305.95
+      - 247.96
+    - - 526881.19
+      - 5680306.47
+      - 246.54
+    - - 526881.91
+      - 5680306.59
+      - 246.23
+    4955:
+    - - 526868.91
+      - 5680334.2
+      - 246.15
+    - - 526868.51
+      - 5680334.32
+      - 246.17
+    - - 526868.57
+      - 5680334.09
+      - 245.67
+    - - 526868.57
+      - 5680334.04
+      - 244.87
+    - - 526868.98
+      - 5680334.3
+      - 244.86
+    - - 526869.32
+      - 5680334.42
+      - 245.05
+    - - 526869.26
+      - 5680334.41
+      - 245.54
+    2396:
+    - - 526873.99
+      - 5680327.54
+      - 252.57
+    - - 526873.37
+      - 5680326.58
+      - 252.6
+    - - 526873.52
+      - 5680326.65
+      - 251.58
+    - - 526873.72
+      - 5680326.92
+      - 250.21
+    - - 526874.26
+      - 5680327.8
+      - 250.65
+    5979:
+    - - 526867.91
+      - 5680334.68
+      - 249.16
+    - - 526867.0
+      - 5680336.17
+      - 251.12
+    - - 526866.58
+      - 5680336.23
+      - 251.18
+    - - 526866.68
+      - 5680336.95
+      - 249.63
+    - - 526867.06
+      - 5680335.9
+      - 249.32
+    - - 526867.13
+      - 5680336.77
+      - 249.74
+    3421:
+    - - 526879.02
+      - 5680310.17
+      - 249.34
+    - - 526880.56
+      - 5680309.3
+      - 251.86
+    - - 526879.42
+      - 5680310.46
+      - 248.62
+    - - 526879.17
+      - 5680310.28
+      - 247.52
+    - - 526878.9
+      - 5680309.94
+      - 247.54
+    1371:
+    - - 526865.82
+      - 5680331.73
+      - 242.94
+    - - 526865.2
+      - 5680331.83
+      - 243.19
+    - - 526866.01
+      - 5680331.92
+      - 242.11
+    - - 526865.92
+      - 5680331.99
+      - 241.0
+    - - 526865.63
+      - 5680331.96
+      - 240.97
+    6497:
+    - - 526881.31
+      - 5680302.63
+      - 251.23
+    - - 526881.68
+      - 5680302.32
+      - 250.56
+    - - 526882.05
+      - 5680302.2
+      - 249.17
+    4450:
+    - - 526865.36
+      - 5680332.33
+      - 244.33
+    - - 526865.25
+      - 5680331.88
+      - 243.38
+    - - 526865.64
+      - 5680332.22
+      - 243.42
+    - - 526865.1
+      - 5680332.06
+      - 242.57
+    - - 526865.57
+      - 5680332.03
+      - 240.95
+    - - 526865.86
+      - 5680332.03
+      - 240.99
+    4451:
+    - - 526868.23
+      - 5680309.38
+      - 243.62
+    - - 526868.15
+      - 5680309.38
+      - 243.12
+    - - 526867.89
+      - 5680309.29
+      - 243.42
+    - - 526868.34
+      - 5680309.56
+      - 241.74
+    - - 526867.95
+      - 5680309.37
+      - 241.75
+    5477:
+    - - 526875.67
+      - 5680317.71
+      - 249.12
+    - - 526875.84
+      - 5680317.8
+      - 249.65
+    - - 526877.91
+      - 5680317.33
+      - 248.45
+    - - 526876.65
+      - 5680317.02
+      - 249.01
+    - - 526876.2
+      - 5680317.33
+      - 247.9
+    - - 526876.53
+      - 5680317.18
+      - 247.95
+    5991:
+    - - 526872.6
+      - 5680295.74
+      - 248.97
+    - - 526871.8
+      - 5680295.7
+      - 248.79
+    - - 526872.63
+      - 5680295.72
+      - 248.3
+    - - 526872.35
+      - 5680295.36
+      - 246.77
+    - - 526872.9
+      - 5680295.33
+      - 246.9
+    5480:
+    - - 526864.28
+      - 5680334.19
+      - 244.58
+    - - 526865.2
+      - 5680334.8
+      - 241.38
+    - - 526865.34
+      - 5680334.74
+      - 240.92
+    - - 526864.9
+      - 5680334.71
+      - 240.86
+    361:
+    - - 526863.66
+      - 5680319.27
+      - 252.86
+    - - 526863.86
+      - 5680320.54
+      - 249.59
+    - - 526864.2
+      - 5680320.66
+      - 248.74
+    - - 526864.38
+      - 5680320.78
+      - 248.75
+    2413:
+    - - 526867.86
+      - 5680318.34
+      - 239.07
+    - - 526868.01
+      - 5680318.39
+      - 239.14
+    - - 526868.11
+      - 5680318.46
+      - 238.04
+    - - 526867.81
+      - 5680318.27
+      - 237.98
+    1902:
+    - - 526870.07
+      - 5680297.5
+      - 253.06
+    - - 526870.2
+      - 5680297.29
+      - 253.16
+    - - 526869.86
+      - 5680297.7
+      - 252.19
+    - - 526869.78
+      - 5680297.43
+      - 251.01
+    - - 526869.85
+      - 5680297.76
+      - 251.41
+    4464:
+    - - 526872.87
+      - 5680357.17
+      - 237.9
+    - - 526872.01
+      - 5680357.31
+      - 238.4
+    - - 526872.24
+      - 5680357.3
+      - 238.19
+    - - 526872.03
+      - 5680357.33
+      - 237.83
+    - - 526871.38
+      - 5680356.62
+      - 237.12
+    - - 526871.99
+      - 5680357.17
+      - 237.4
+    371:
+    - - 526871.25
+      - 5680296.3
+      - 251.17
+    - - 526870.88
+      - 5680295.93
+      - 251.3
+    - - 526871.45
+      - 5680296.31
+      - 249.66
+    - - 526871.1
+      - 5680295.99
+      - 249.34
+    - - 526871.76
+      - 5680296.61
+      - 248.56
+    - - 526871.54
+      - 5680296.29
+      - 248.16
+    4985:
+    - - 526889.16
+      - 5680298.72
+      - 243.65
+    - - 526888.32
+      - 5680299.2
+      - 245.4
+    - - 526889.52
+      - 5680297.91
+      - 246.07
+    - - 526889.75
+      - 5680298.91
+      - 246.94
+    - - 526889.97
+      - 5680298.75
+      - 246.63
+    - - 526889.71
+      - 5680298.66
+      - 245.52
+    - - 526889.7
+      - 5680298.67
+      - 244.77
+    - - 526889.58
+      - 5680298.22
+      - 244.73
+    1914:
+    - - 526873.46
+      - 5680294.02
+      - 243.66
+    - - 526875.67
+      - 5680297.71
+      - 243.07
+    - - 526874.09
+      - 5680298.54
+      - 245.42
+    - - 526874.16
+      - 5680298.26
+      - 244.37
+    - - 526874.01
+      - 5680298.66
+      - 243.12
+    - - 526874.96
+      - 5680297.64
+      - 243.12
+    1916:
+    - - 526867.89
+      - 5680310.12
+      - 242.48
+    - - 526867.42
+      - 5680312.16
+      - 245.74
+    - - 526866.65
+      - 5680314.04
+      - 249.22
+    - - 526867.24
+      - 5680314.68
+      - 250.64
+    - - 526866.82
+      - 5680313.52
+      - 248.28
+    - - 526866.42
+      - 5680313.57
+      - 248.16
+    - - 526866.95
+      - 5680313.72
+      - 247.22
+    - - 526866.56
+      - 5680313.49
+      - 247.27
+    893:
+    - - 526870.75
+      - 5680336.58
+      - 237.88
+    - - 526871.34
+      - 5680333.59
+      - 240.25
+    - - 526871.08
+      - 5680343.11
+      - 237.46
+    - - 526870.38
+      - 5680337.1
+      - 240.2
+    - - 526871.15
+      - 5680335.96
+      - 241.38
+    - - 526870.59
+      - 5680336.49
+      - 240.03
+    - - 526870.6
+      - 5680336.17
+      - 239.43
+    - - 526870.32
+      - 5680336.24
+      - 239.36
+    2943:
+    - - 526865.81
+      - 5680328.87
+      - 243.79
+    - - 526866.44
+      - 5680328.44
+      - 242.0
+    - - 526866.7
+      - 5680328.19
+      - 241.21
+    - - 526866.5
+      - 5680328.38
+      - 241.13
+    2950:
+    - - 526869.11
+      - 5680330.21
+      - 238.35
+    - - 526868.93
+      - 5680330.34
+      - 238.05
+    - - 526868.84
+      - 5680330.37
+      - 237.76
+    - - 526869.27
+      - 5680329.64
+      - 237.5
+    6535:
+    - - 526865.19
+      - 5680323.36
+      - 244.51
+    - - 526864.97
+      - 5680323.31
+      - 244.32
+    5513:
+    - - 526873.11
+      - 5680293.5
+      - 251.75
+    - - 526873.55
+      - 5680293.98
+      - 251.28
+    - - 526873.45
+      - 5680293.48
+      - 250.23
+    - - 526873.34
+      - 5680293.35
+      - 249.25
+    - - 526873.07
+      - 5680293.09
+      - 249.38
+    7056:
+    - - 526865.71
+      - 5680325.18
+      - 243.99
+    - - 526866.2
+      - 5680324.4
+      - 241.87
+    - - 526867.0
+      - 5680324.17
+      - 240.77
+    - - 526866.57
+      - 5680324.21
+      - 240.42
+    915:
+    - - 526892.69
+      - 5680295.19
+      - 249.32
+    - - 526893.17
+      - 5680295.37
+      - 247.98
+    - - 526892.57
+      - 5680295.15
+      - 248.0
+    4500:
+    - - 526864.36
+      - 5680321.4
+      - 247.45
+    - - 526864.71
+      - 5680321.3
+      - 246.17
+    - - 526864.85
+      - 5680321.27
+      - 245.88
+    - - 526865.07
+      - 5680321.33
+      - 245.83
+    918:
+    - - 526878.39
+      - 5680310.11
+      - 251.85
+    - - 526878.95
+      - 5680309.39
+      - 253.68
+    - - 526878.07
+      - 5680309.4
+      - 251.52
+    - - 526878.61
+      - 5680310.24
+      - 251.22
+    - - 526878.6
+      - 5680309.64
+      - 250.86
+    7067:
+    - - 526870.43
+      - 5680359.8
+      - 238.52
+    - - 526870.54
+      - 5680359.7
+      - 238.06
+    - - 526870.34
+      - 5680359.33
+      - 237.76
+    - - 526870.44
+      - 5680359.12
+      - 237.01
+    - - 526870.99
+      - 5680359.36
+      - 237.05
+    3484:
+    - - 526874.93
+      - 5680322.42
+      - 247.62
+    - - 526873.45
+      - 5680322.66
+      - 247.08
+    - - 526877.01
+      - 5680324.02
+      - 247.37
+    - - 526877.25
+      - 5680324.21
+      - 248.55
+    - - 526876.16
+      - 5680323.82
+      - 248.88
+    - - 526870.75
+      - 5680322.65
+      - 256.73
+    - - 526874.32
+      - 5680323.55
+      - 249.78
+    - - 526873.79
+      - 5680324.06
+      - 251.82
+    - - 526875.62
+      - 5680323.36
+      - 247.07
+    1439:
+    - - 526874.21
+      - 5680305.14
+      - 245.35
+    - - 526874.51
+      - 5680304.78
+      - 243.78
+    - - 526874.24
+      - 5680305.05
+      - 242.61
+    - - 526874.03
+      - 5680304.99
+      - 242.67
+    5031:
+    - - 526871.39
+      - 5680303.39
+      - 251.24
+    - - 526871.17
+      - 5680303.36
+      - 251.02
+    - - 526871.43
+      - 5680303.23
+      - 250.08
+    - - 526872.02
+      - 5680303.06
+      - 249.35
+    - - 526872.47
+      - 5680303.28
+      - 249.57
+    2474:
+    - - 526861.53
+      - 5680347.38
+      - 254.12
+    - - 526861.33
+      - 5680346.63
+      - 255.2
+    - - 526862.05
+      - 5680347.36
+      - 252.95
+    - - 526861.98
+      - 5680346.25
+      - 253.88
+    1963:
+    - - 526874.64
+      - 5680327.85
+      - 248.44
+    - - 526873.78
+      - 5680326.69
+      - 247.89
+    - - 526874.52
+      - 5680326.84
+      - 249.35
+    - - 526873.4
+      - 5680326.51
+      - 252.65
+    - - 526873.75
+      - 5680326.55
+      - 254.25
+    - - 526874.01
+      - 5680326.53
+      - 254.15
+    - - 526875.53
+      - 5680327.19
+      - 249.4
+    - - 526875.95
+      - 5680327.65
+      - 247.72
+    1975:
+    - - 526874.06
+      - 5680298.37
+      - 244.06
+    - - 526874.85
+      - 5680298.9
+      - 243.51
+    - - 526872.56
+      - 5680298.8
+      - 243.6
+    - - 526873.5
+      - 5680295.55
+      - 243.79
+    - - 526874.22
+      - 5680295.89
+      - 244.02
+    - - 526874.77
+      - 5680297.14
+      - 243.32
+    - - 526873.37
+      - 5680296.95
+      - 243.52
+    4033:
+    - - 526888.76
+      - 5680301.79
+      - 242.06
+    - - 526888.72
+      - 5680301.47
+      - 241.54
+    - - 526889.05
+      - 5680301.21
+      - 240.87
+    - - 526889.1
+      - 5680300.91
+      - 240.99
+    7106:
+    - - 526884.05
+      - 5680303.46
+      - 247.73
+    - - 526884.02
+      - 5680303.23
+      - 247.79
+    - - 526883.79
+      - 5680303.58
+      - 248.79
+    - - 526883.6
+      - 5680301.97
+      - 250.94
+    3523:
+    - - 526869.78
+      - 5680306.12
+      - 247.78
+    - - 526869.89
+      - 5680306.17
+      - 247.85
+    - - 526869.93
+      - 5680305.92
+      - 246.85
+    - - 526869.48
+      - 5680305.32
+      - 245.76
+    - - 526869.3
+      - 5680305.14
+      - 245.89
+    6086:
+    - - 526871.83
+      - 5680330.33
+      - 261.56
+    - - 526871.95
+      - 5680329.34
+      - 261.53
+    - - 526872.28
+      - 5680330.47
+      - 261.58
+    - - 526872.43
+      - 5680329.77
+      - 261.56
+    461:
+    - - 526870.79
+      - 5680333.61
+      - 238.8
+    - - 526871.13
+      - 5680333.79
+      - 238.82
+    - - 526871.25
+      - 5680333.95
+      - 237.75
+    - - 526871.27
+      - 5680333.91
+      - 237.77
+    - - 526870.81
+      - 5680333.8
+      - 237.83
+    5583:
+    - - 526864.63
+      - 5680338.32
+      - 246.48
+    - - 526864.96
+      - 5680337.46
+      - 244.0
+    - - 526865.28
+      - 5680337.12
+      - 243.44
+    - - 526865.44
+      - 5680336.81
+      - 243.45
+    7120:
+    - - 526882.62
+      - 5680305.35
+      - 239.58
+    - - 526882.68
+      - 5680305.36
+      - 239.63
+    - - 526882.66
+      - 5680305.33
+      - 239.59
+    - - 526884.73
+      - 5680305.85
+      - 240.51
+    - - 526884.17
+      - 5680306.03
+      - 242.73
+    - - 526883.02
+      - 5680307.53
+      - 243.37
+    - - 526882.71
+      - 5680307.37
+      - 243.34
+    - - 526884.65
+      - 5680306.28
+      - 241.26
+    - - 526884.44
+      - 5680306.53
+      - 240.27
+    - - 526885.47
+      - 5680307.03
+      - 240.45
+    4051:
+    - - 526871.03
+      - 5680333.25
+      - 251.25
+    - - 526871.27
+      - 5680333.04
+      - 253.26
+    - - 526871.03
+      - 5680332.88
+      - 253.41
+    - - 526871.14
+      - 5680332.94
+      - 252.44
+    2518:
+    - - 526870.53
+      - 5680300.62
+      - 244.14
+    - - 526871.13
+      - 5680300.64
+      - 246.14
+    - - 526870.92
+      - 5680300.84
+      - 246.36
+    - - 526870.62
+      - 5680300.96
+      - 244.78
+    - - 526870.88
+      - 5680300.88
+      - 244.75
+    - - 526871.03
+      - 5680300.73
+      - 244.24
+    - - 526870.36
+      - 5680300.1
+      - 244.12
+    984:
+    - - 526873.65
+      - 5680301.67
+      - 247.96
+    - - 526873.89
+      - 5680302.01
+      - 246.37
+    - - 526874.47
+      - 5680302.37
+      - 246.47
+    986:
+    - - 526872.55
+      - 5680341.47
+      - 234.03
+    - - 526872.01
+      - 5680341.72
+      - 234.09
+    - - 526872.3
+      - 5680343.26
+      - 235.56
+    - - 526871.74
+      - 5680343.11
+      - 235.48
+    - - 526872.48
+      - 5680342.65
+      - 234.23
+    - - 526872.33
+      - 5680342.76
+      - 235.27
+    - - 526871.92
+      - 5680342.48
+      - 234.17
+    - - 526872.03
+      - 5680342.94
+      - 236.73
+    - - 526871.77
+      - 5680342.85
+      - 236.68
+    - - 526871.75
+      - 5680342.76
+      - 236.24
+    6109:
+    - - 526866.23
+      - 5680336.09
+      - 240.94
+    - - 526865.24
+      - 5680335.8
+      - 241.79
+    - - 526865.36
+      - 5680335.29
+      - 240.89
+    - - 526864.88
+      - 5680335.81
+      - 240.38
+    990:
+    - - 526871.48
+      - 5680332.97
+      - 234.35
+    - - 526872.34
+      - 5680333.16
+      - 234.06
+    - - 526872.35
+      - 5680333.15
+      - 233.99
+    - - 526872.33
+      - 5680330.85
+      - 237.86
+    - - 526873.08
+      - 5680331.23
+      - 238.26
+    - - 526872.23
+      - 5680330.49
+      - 235.5
+    - - 526873.19
+      - 5680330.67
+      - 235.67
+    - - 526872.13
+      - 5680331.29
+      - 234.73
+    - - 526872.96
+      - 5680331.58
+      - 234.94
+    4063:
+    - - 526866.46
+      - 5680330.23
+      - 242.69
+    - - 526866.2
+      - 5680329.9
+      - 241.27
+    - - 526866.51
+      - 5680329.75
+      - 240.54
+    - - 526866.37
+      - 5680330.17
+      - 240.59
+    - - 526867.02
+      - 5680330.52
+      - 240.7
+    - - 526867.18
+      - 5680329.75
+      - 240.51
+    6624:
+    - - 526872.11
+      - 5680344.43
+      - 237.39
+    - - 526871.55
+      - 5680344.36
+      - 237.27
+    - - 526872.18
+      - 5680344.25
+      - 236.67
+    - - 526872.3
+      - 5680344.19
+      - 235.85
+    - - 526871.67
+      - 5680344.32
+      - 235.83
+    994:
+    - - 526885.71
+      - 5680304.45
+      - 241.97
+    - - 526885.07
+      - 5680304.17
+      - 241.86
+    - - 526886.32
+      - 5680304.21
+      - 241.26
+    - - 526886.67
+      - 5680304.63
+      - 240.82
+    - - 526885.82
+      - 5680304.86
+      - 241.04
+    - - 526884.68
+      - 5680305.06
+      - 242.99
+    - - 526884.44
+      - 5680304.81
+      - 242.92
+    - - 526885.06
+      - 5680304.76
+      - 241.78
+    - - 526885.27
+      - 5680304.76
+      - 241.15
+    - - 526886.59
+      - 5680304.94
+      - 240.88
+    3042:
+    - - 526872.7
+      - 5680348.99
+      - 238.04
+    - - 526872.95
+      - 5680348.77
+      - 238.21
+    - - 526872.54
+      - 5680348.57
+      - 238.83
+    - - 526872.68
+      - 5680348.82
+      - 237.33
+    - - 526872.53
+      - 5680348.69
+      - 236.28
+    - - 526873.16
+      - 5680348.8
+      - 236.39
+    3047:
+    - - 526880.73
+      - 5680314.69
+      - 243.01
+    - - 526880.81
+      - 5680314.95
+      - 242.4
+    - - 526880.25
+      - 5680315.12
+      - 242.31
+    - - 526880.32
+      - 5680315.09
+      - 242.0
+    488:
+    - - 526867.91
+      - 5680314.5
+      - 239.06
+    - - 526866.44
+      - 5680314.69
+      - 243.65
+    - - 526866.17
+      - 5680314.72
+      - 244.68
+    7158:
+    - - 526868.17
+      - 5680360.03
+      - 236.9
+    - - 526868.27
+      - 5680360.04
+      - 237.63
+    - - 526868.24
+      - 5680360.46
+      - 237.73
+    - - 526868.2
+      - 5680360.38
+      - 236.95
+    - - 526868.19
+      - 5680359.47
+      - 236.78
+    7162:
+    - - 526866.31
+      - 5680314.0
+      - 249.25
+    - - 526865.93
+      - 5680315.04
+      - 246.42
+    - - 526865.42
+      - 5680315.22
+      - 251.64
+    - - 526865.79
+      - 5680315.36
+      - 251.58
+    - - 526866.51
+      - 5680314.48
+      - 248.08
+    - - 526866.61
+      - 5680314.23
+      - 247.22
+    - - 526866.25
+      - 5680313.99
+      - 247.26
+    3067:
+    - - 526871.27
+      - 5680297.9
+      - 241.72
+    - - 526871.36
+      - 5680297.78
+      - 241.17
+    - - 526870.96
+      - 5680298.49
+      - 241.58
+    - - 526871.21
+      - 5680298.19
+      - 241.63
+    1534:
+    - - 526871.78
+      - 5680330.15
+      - 253.11
+    - - 526871.58
+      - 5680330.09
+      - 252.99
+    - - 526871.74
+      - 5680330.16
+      - 252.28
+    - - 526871.7
+      - 5680329.92
+      - 251.48
+    - - 526871.44
+      - 5680329.8
+      - 251.52
+    - - 526871.79
+      - 5680330.08
+      - 253.07
+    - - 526871.63
+      - 5680329.99
+      - 253.02
+    - - 526871.42
+      - 5680329.69
+      - 251.52
+    - - 526871.74
+      - 5680329.87
+      - 251.57
+    - - 526871.76
+      - 5680330.09
+      - 252.22
+  idsql:
+    3588:
+    - 8548
+    516:
+    - 8577
+    5131:
+    - 8556
+    1036:
+    - 8627
+    525:
+    - 8555
+    523:
+    - 9430
+    1553:
+    - 9007
+    4114:
+    - 9127
+    531:
+    - 9005
+    7188:
+    - 8523
+    4629:
+    - 8933
+    6678:
+    - 9032
+    6167:
+    - 9093
+    3090:
+    - 9188
+    3096:
+    - 9194
+    1562:
+    - 9191
+    3104:
+    - 8700
+    6176:
+    - 8695
+    4133:
+    - 9551
+    2087:
+    - 8623
+    6695:
+    - 9548
+    553:
+    - 9404
+    3625:
+    - 9279
+    5681:
+    - 9349
+    4658:
+    - 8546
+    2554:
+    - 8512
+    5172:
+    - 9072
+    7224:
+    - 9029
+    5177:
+    - 8536
+    3644:
+    - 8547
+    1084:
+    - 9128
+    4158:
+    - 9229
+    1087:
+    - 9255
+    3136:
+    - 9143
+    4162:
+    - 9098
+    1604:
+    - 8550
+    1093:
+    - 9534
+    1092:
+    - 9172
+    4680:
+    - 8831
+    3659:
+    - 9097
+    77:
+    - 8514
+    3150:
+    - 9588
+    6223:
+    - 9145
+    3153:
+    - 8826
+    3667:
+    - 8611
+    595:
+    - 9049
+    6229:
+    - 8833
+    2644:
+    - 9139
+    5730:
+    - 9607
+    5219:
+    - 9555
+    6244:
+    - 8629
+    5741:
+    - 9549
+    1648:
+    - 9069
+    3698:
+    - 9638
+    1658:
+    - 9281
+    1659:
+    - 9138
+    6267:
+    - 9004
+    127:
+    - 9350
+    640:
+    - 8628
+    6273:
+    - 8625
+    6274:
+    - 9196
+    3200:
+    - 9198
+    5247:
+    - 8632
+    136:
+    - 8624
+    6795:
+    - 8539
+    2704:
+    - 8718
+    147:
+    - 8518
+    7315:
+    - 8825
+    3736:
+    - 8535
+    154:
+    - 8824
+    5786:
+    - 9033
+    2715:
+    - 8840
+    5788:
+    - 8846
+    158:
+    - 9002
+    671:
+    - 8980
+    5280:
+    - 8837
+    674:
+    - 9095
+    163:
+    - 9432
+    678:
+    - 8576
+    3240:
+    - 9282
+    2729:
+    - 9533
+    3757:
+    - 9546
+    4271:
+    - 9201
+    1200:
+    - 9141
+    1712:
+    - 9142
+    5298:
+    - 9256
+    1717:
+    - 9190
+    696:
+    - 9438
+    5817:
+    - 8836
+    3258:
+    - 9680
+    4281:
+    - 9066
+    5309:
+    - 9195
+    2238:
+    - 8843
+    4287:
+    - 9532
+    3266:
+    - 9126
+    6340:
+    - 8823
+    2244:
+    - 8983
+    2756:
+    - 8558
+    1737:
+    - 8835
+    201:
+    - 9006
+    717:
+    - 9044
+    718:
+    - 9189
+    6863:
+    - 9000
+    1746:
+    - 8551
+    1234:
+    - 9070
+    3286:
+    - 8717
+    2775:
+    - 8820
+    728:
+    - 9535
+    2262:
+    - 9252
+    4314:
+    - 8630
+    732:
+    - 9554
+    5341:
+    - 8982
+    5854:
+    - 9010
+    1247:
+    - 8520
+    6368:
+    - 8693
+    6372:
+    - 9253
+    4840:
+    - 9130
+    2285:
+    - 9672
+    1261:
+    - 9553
+    4846:
+    - 9146
+    5360:
+    - 9037
+    5357:
+    - 9204
+    754:
+    - 9306
+    1273:
+    - 8999
+    5369:
+    - 8821
+    2297:
+    - 9041
+    4866:
+    - 9294
+    5893:
+    - 9129
+    6918:
+    - 9113
+    4369:
+    - 9475
+    3353:
+    - 8832
+    284:
+    - 8534
+    292:
+    - 8517
+    5928:
+    - 9009
+    6441:
+    - 9547
+    3371:
+    - 9520
+    2864:
+    - 9059
+    1841:
+    - 9199
+    6962:
+    - 9030
+    2872:
+    - 9124
+    5944:
+    - 9205
+    3900:
+    - 9552
+    1341:
+    - 9096
+    4927:
+    - 8513
+    1856:
+    - 9587
+    1345:
+    - 8522
+    4418:
+    - 9278
+    835:
+    - 8842
+    6467:
+    - 9160
+    4935:
+    - 9068
+    4423:
+    - 9192
+    1353:
+    - 9099
+    2378:
+    - 8637
+    3413:
+    - 8549
+    5978:
+    - 9296
+    4955:
+    - 9001
+    2396:
+    - 8515
+    5979:
+    - 9003
+    3421:
+    - 8575
+    1371:
+    - 9065
+    6497:
+    - 8610
+    4450:
+    - 9513
+    4451:
+    - 9144
+    2916:
+    - 8541
+    5477:
+    - 8521
+    1894:
+    - 8675
+    5991:
+    - 9202
+    2408:
+    - 8559
+    5480:
+    - 9054
+    361:
+    - 9431
+    3947:
+    - 9231
+    2413:
+    - 9100
+    1902:
+    - 9206
+    4464:
+    - 8844
+    371:
+    - 9203
+    4985:
+    - 8626
+    1914:
+    - 9251
+    1916:
+    - 9187
+    893:
+    - 8834
+    2943:
+    - 9092
+    2950:
+    - 9071
+    6535:
+    - 9123
+    1415:
+    - 9207
+    5513:
+    - 9230
+    7056:
+    - 9094
+    915:
+    - 8651
+    4500:
+    - 9125
+    918:
+    - 8557
+    1434:
+    - 9476
+    7067:
+    - 8845
+    3484:
+    - 8519
+    1439:
+    - 9295
+    5031:
+    - 9197
+    2474:
+    - 9550
+    1963:
+    - 8516
+    5556:
+    - 9008
+    1975:
+    - 9200
+    4033:
+    - 8694
+    7106:
+    - 8604
+    3523:
+    - 9193
+    6086:
+    - 8511
+    461:
+    - 8932
+    5583:
+    - 9031
+    7120:
+    - 8537
+    4051:
+    - 8822
+    2518:
+    - 9307
+    984:
+    - 9280
+    986:
+    - 8838
+    6109:
+    - 9048
+    990:
+    - 8934
+    4063:
+    - 9067
+    6624:
+    - 8839
+    7137:
+    - 9502
+    994:
+    - 8538
+    3042:
+    - 8841
+    486:
+    - 9433
+    3047:
+    - 8762
+    488:
+    - 9140
+    5099:
+    - 9419
+    2037:
+    - 8605
+    7158:
+    - 8847
+    2551:
+    - 8652
+    6646:
+    - 9351
+    7162:
+    - 9186
+    3067:
+    - 9254
+    1534:
+    - 8819
+  flags:
+    3588:
+    - fix
+    516:
+    - fix
+    5131:
+    - fix
+    1036:
+    - fix
+    525:
+    - fix
+    523:
+    - fix
+    1553:
+    - fix
+    4114:
+    - fix
+    531:
+    - fix
+    7188:
+    - fix
+    4629:
+    - fix
+    6678:
+    - fix
+    6167:
+    - fix
+    3090:
+    - fix
+    3096:
+    - fix
+    1562:
+    - fix
+    3104:
+    - fix
+    6176:
+    - fix
+    4133:
+    - fix
+    2087:
+    - fix
+    6695:
+    - fix
+    553:
+    - fix
+    3625:
+    - fix
+    5681:
+    - fix
+    4658:
+    - fix
+    2554:
+    - fix
+    5172:
+    - fix
+    7224:
+    - fix
+    5177:
+    - fix
+    3644:
+    - fix
+    1084:
+    - fix
+    4158:
+    - fix
+    1087:
+    - fix
+    3136:
+    - fix
+    4162:
+    - fix
+    1604:
+    - fix
+    1093:
+    - fix
+    1092:
+    - fix
+    4680:
+    - fix
+    3659:
+    - fix
+    77:
+    - fix
+    3150:
+    - fix
+    6223:
+    - fix
+    3153:
+    - fix
+    3667:
+    - fix
+    595:
+    - fix
+    6229:
+    - fix
+    2644:
+    - fix
+    5730:
+    - fix
+    5219:
+    - fix
+    6244:
+    - fix
+    5741:
+    - fix
+    1648:
+    - fix
+    3698:
+    - fix
+    1658:
+    - fix
+    1659:
+    - fix
+    6267:
+    - fix
+    127:
+    - fix
+    640:
+    - fix
+    6273:
+    - fix
+    6274:
+    - fix
+    3200:
+    - fix
+    5247:
+    - fix
+    136:
+    - fix
+    6795:
+    - fix
+    2704:
+    - fix
+    147:
+    - fix
+    7315:
+    - fix
+    3736:
+    - fix
+    154:
+    - fix
+    5786:
+    - fix
+    2715:
+    - fix
+    5788:
+    - fix
+    158:
+    - fix
+    671:
+    - fix
+    5280:
+    - fix
+    674:
+    - fix
+    163:
+    - fix
+    678:
+    - fix
+    3240:
+    - fix
+    2729:
+    - fix
+    3757:
+    - fix
+    4271:
+    - fix
+    1200:
+    - fix
+    1712:
+    - fix
+    5298:
+    - fix
+    1717:
+    - fix
+    696:
+    - fix
+    5817:
+    - fix
+    3258:
+    - fix
+    4281:
+    - fix
+    5309:
+    - fix
+    2238:
+    - fix
+    4287:
+    - fix
+    3266:
+    - fix
+    6340:
+    - fix
+    2244:
+    - fix
+    2756:
+    - fix
+    1737:
+    - fix
+    201:
+    - fix
+    717:
+    - fix
+    718:
+    - fix
+    6863:
+    - fix
+    1746:
+    - fix
+    1234:
+    - fix
+    3286:
+    - fix
+    2775:
+    - fix
+    728:
+    - fix
+    2262:
+    - fix
+    4314:
+    - fix
+    732:
+    - fix
+    5341:
+    - fix
+    5854:
+    - fix
+    1247:
+    - fix
+    6368:
+    - fix
+    6372:
+    - fix
+    4840:
+    - fix
+    2285:
+    - fix
+    1261:
+    - fix
+    4846:
+    - fix
+    5360:
+    - fix
+    5357:
+    - fix
+    754:
+    - fix
+    1273:
+    - fix
+    5369:
+    - fix
+    2297:
+    - fix
+    4866:
+    - fix
+    5893:
+    - fix
+    6918:
+    - fix
+    4369:
+    - fix
+    3353:
+    - fix
+    284:
+    - fix
+    292:
+    - fix
+    5928:
+    - fix
+    6441:
+    - fix
+    3371:
+    - fix
+    2864:
+    - fix
+    1841:
+    - fix
+    6962:
+    - fix
+    2872:
+    - fix
+    5944:
+    - fix
+    3900:
+    - fix
+    1341:
+    - fix
+    4927:
+    - fix
+    1856:
+    - fix
+    1345:
+    - fix
+    4418:
+    - fix
+    835:
+    - fix
+    6467:
+    - fix
+    4935:
+    - fix
+    4423:
+    - fix
+    1353:
+    - fix
+    2378:
+    - fix
+    3413:
+    - fix
+    5978:
+    - fix
+    4955:
+    - fix
+    2396:
+    - fix
+    5979:
+    - fix
+    3421:
+    - fix
+    1371:
+    - fix
+    6497:
+    - fix
+    4450:
+    - fix
+    4451:
+    - fix
+    2916:
+    - fix
+    5477:
+    - fix
+    1894:
+    - fix
+    5991:
+    - fix
+    2408:
+    - fix
+    5480:
+    - fix
+    361:
+    - fix
+    3947:
+    - fix
+    2413:
+    - fix
+    1902:
+    - fix
+    4464:
+    - fix
+    371:
+    - fix
+    4985:
+    - fix
+    1914:
+    - fix
+    1916:
+    - fix
+    893:
+    - fix
+    2943:
+    - fix
+    2950:
+    - fix
+    6535:
+    - fix
+    1415:
+    - fix
+    5513:
+    - fix
+    7056:
+    - fix
+    915:
+    - fix
+    4500:
+    - fix
+    918:
+    - fix
+    1434:
+    - fix
+    7067:
+    - fix
+    3484:
+    - fix
+    1439:
+    - fix
+    5031:
+    - fix
+    2474:
+    - fix
+    1963:
+    - fix
+    5556:
+    - fix
+    1975:
+    - fix
+    4033:
+    - fix
+    7106:
+    - fix
+    3523:
+    - fix
+    6086:
+    - ent
+    - fix
+    461:
+    - fix
+    5583:
+    - fix
+    7120:
+    - fix
+    4051:
+    - fix
+    2518:
+    - fix
+    984:
+    - fix
+    986:
+    - fix
+    6109:
+    - fix
+    990:
+    - fix
+    4063:
+    - fix
+    6624:
+    - fix
+    7137:
+    - fix
+    994:
+    - fix
+    3042:
+    - fix
+    486:
+    - fix
+    3047:
+    - fix
+    488:
+    - fix
+    5099:
+    - fix
+    2037:
+    - fix
+    7158:
+    - fix
+    2551:
+    - fix
+    6646:
+    - fix
+    7162:
+    - fix
+    3067:
+    - fix
+    1534:
+    - fix
+  csdim:
+    3588:
+    - 1.4
+    - 6.42
+    5131:
+    - 0.59
+    - 4.0
+    1036:
+    - 0.84
+    - 0.84
+    525:
+    - 1.15
+    - 1.15
+    523:
+    - 0.55
+    - 1.37
+    4114:
+    - 0.16
+    - 1.33
+    531:
+    - 0.34
+    - 0.32
+    4629:
+    - 0.7
+    - 1.38
+    6678:
+    - 1.6
+    - 1.6
+    6167:
+    - 1.29
+    - 0.84
+    3090:
+    - 0.77
+    - 0.77
+    3096:
+    - 0.46
+    - 1.08
+    1562:
+    - 0.5
+    - 3.2
+    4133:
+    - 1.39
+    - 1.39
+    2087:
+    - 5.13
+    - 1.95
+    6695:
+    - 0.62
+    - 1.05
+    3625:
+    - 0.48
+    - 2.85
+    5681:
+    - 0.41
+    - 1.55
+    4658:
+    - 2.26
+    - 2.26
+    2554:
+    - 2.79
+    - 0.47
+    7224:
+    - 1.14
+    - 1.14
+    5177:
+    - 3.89
+    - 5.92
+    3644:
+    - 2.0
+    - 2.0
+    1084:
+    - 1.15
+    - 1.15
+    4158:
+    - 0.4
+    - 1.96
+    1087:
+    - 0.92
+    - 1.13
+    3136:
+    - 0.15
+    - 0.52
+    4162:
+    - 0.32
+    - 0.99
+    1604:
+    - 0.81
+    - 0.73
+    1093:
+    - 0.95
+    - 0.91
+    4680:
+    - 0.3
+    - 0.83
+    3659:
+    - 1.16
+    - 1.16
+    77:
+    - 0.36
+    - 1.57
+    6223:
+    - 1.93
+    - 1.73
+    3153:
+    - 0.56
+    - 1.94
+    6229:
+    - 0.68
+    - 2.33
+    2644:
+    - 0.46
+    - 0.46
+    5219:
+    - 3.19
+    - 2.88
+    6244:
+    - 0.92
+    - 0.92
+    5741:
+    - 0.66
+    - 0.66
+    1648:
+    - 1.8
+    - 1.82
+    1658:
+    - 0.18
+    - 0.69
+    1659:
+    - 0.72
+    - 0.58
+    6267:
+    - 0.61
+    - 1.61
+    127:
+    - 2.72
+    - 3.76
+    640:
+    - 2.73
+    - 2.52
+    6273:
+    - 0.55
+    - 2.13
+    6274:
+    - 0.62
+    - 3.92
+    3200:
+    - 0.34
+    - 1.69
+    5247:
+    - 0.6
+    - 0.55
+    136:
+    - 0.95
+    - 0.95
+    6795:
+    - 2.22
+    - 3.1
+    2704:
+    - 0.52
+    - 0.99
+    7315:
+    - 1.43
+    - 1.43
+    3736:
+    - 0.97
+    - 0.97
+    154:
+    - 1.66
+    - 1.66
+    5786:
+    - 0.94
+    - 2.92
+    2715:
+    - 1.21
+    - 2.8
+    5788:
+    - 1.42
+    - 1.97
+    158:
+    - 1.36
+    - 1.36
+    671:
+    - 1.28
+    - 1.28
+    5280:
+    - 0.63
+    - 0.71
+    674:
+    - 1.09
+    - 1.09
+    163:
+    - 1.43
+    - 4.22
+    678:
+    - 0.33
+    - 1.74
+    2729:
+    - 1.32
+    - 1.43
+    3757:
+    - 1.85
+    - 1.85
+    4271:
+    - 1.96
+    - 4.74
+    1200:
+    - 0.07
+    - 1.6
+    1712:
+    - 1.41
+    - 1.41
+    1717:
+    - 0.92
+    - 4.26
+    5817:
+    - 1.64
+    - 2.07
+    4281:
+    - 1.04
+    - 1.04
+    5309:
+    - 0.35
+    - 1.3
+    2238:
+    - 1.79
+    - 1.33
+    4287:
+    - 2.27
+    - 2.27
+    3266:
+    - 0.5
+    - 1.2
+    6340:
+    - 1.38
+    - 1.38
+    2244:
+    - 0.75
+    - 0.44
+    2756:
+    - 0.88
+    - 2.26
+    1737:
+    - 1.94
+    - 2.86
+    201:
+    - 0.63
+    - 0.11
+    717:
+    - 0.83
+    - 0.61
+    718:
+    - 0.63
+    - 3.47
+    6863:
+    - 1.89
+    - 2.54
+    1234:
+    - 0.33
+    - 0.21
+    3286:
+    - 1.0
+    - 1.21
+    2775:
+    - 0.16
+    - 1.16
+    2262:
+    - 0.94
+    - 0.89
+    4314:
+    - 1.27
+    - 1.27
+    732:
+    - 1.46
+    - 3.32
+    1247:
+    - 2.75
+    - 2.75
+    6368:
+    - 0.78
+    - 0.78
+    6372:
+    - 0.25
+    - 1.47
+    4840:
+    - 1.18
+    - 6.45
+    1261:
+    - 2.46
+    - 2.25
+    5360:
+    - 0.87
+    - 4.53
+    5357:
+    - 0.36
+    - 1.6
+    754:
+    - 0.34
+    - 1.07
+    1273:
+    - 0.42
+    - 0.79
+    5369:
+    - 0.23
+    - 1.55
+    2297:
+    - 0.33
+    - 0.25
+    4866:
+    - 0.44
+    - 2.41
+    5893:
+    - 1.14
+    - 1.14
+    4369:
+    - 0.29
+    - 1.23
+    3353:
+    - 0.33
+    - 2.5
+    284:
+    - 1.37
+    - 1.54
+    292:
+    - 5.17
+    - 5.17
+    6441:
+    - 1.05
+    - 3.28
+    3371:
+    - 0.22
+    - 0.9
+    2864:
+    - 0.43
+    - 2.26
+    1841:
+    - 0.57
+    - 3.05
+    6962:
+    - 0.91
+    - 1.2
+    2872:
+    - 1.27
+    - 2.32
+    5944:
+    - 0.22
+    - 2.49
+    1341:
+    - 0.74
+    - 2.03
+    4927:
+    - 0.59
+    - 0.59
+    1856:
+    - 0.6
+    - 0.98
+    1345:
+    - 2.46
+    - 0.75
+    4418:
+    - 1.13
+    - 1.13
+    835:
+    - 0.44
+    - 1.39
+    4935:
+    - 0.88
+    - 1.82
+    4423:
+    - 1.2
+    - 2.0
+    1353:
+    - 0.37
+    - 1.39
+    2378:
+    - 1.2
+    - 0.97
+    3413:
+    - 2.52
+    - 2.52
+    4955:
+    - 0.38
+    - 1.18
+    2396:
+    - 1.24
+    - 2.15
+    5979:
+    - 2.39
+    - 2.04
+    3421:
+    - 1.18
+    - 4.13
+    1371:
+    - 1.04
+    - 1.04
+    6497:
+    - 0.61
+    - 1.01
+    4450:
+    - 0.6
+    - 2.8
+    4451:
+    - 0.4
+    - 1.21
+    5477:
+    - 1.96
+    - 1.09
+    5991:
+    - 1.11
+    - 1.11
+    5480:
+    - 0.35
+    - 3.75
+    361:
+    - 1.43
+    - 1.43
+    2413:
+    - 0.34
+    - 1.1
+    1902:
+    - 0.48
+    - 2.11
+    4464:
+    - 0.53
+    - 0.89
+    371:
+    - 0.17
+    - 3.22
+    4985:
+    - 1.69
+    - 2.56
+    1914:
+    - 1.76
+    - 1.76
+    1916:
+    - 2.5
+    - 7.52
+    893:
+    - 2.06
+    - 2.06
+    2943:
+    - 0.4
+    - 1.83
+    2950:
+    - 0.21
+    - 0.65
+    6535:
+    - 0.46
+    - 0.15
+    5513:
+    - 0.34
+    - 1.87
+    7056:
+    - 0.35
+    - 2.11
+    915:
+    - 0.51
+    - 1.23
+    4500:
+    - 0.71
+    - 0.98
+    918:
+    - 0.82
+    - 1.97
+    7067:
+    - 0.71
+    - 1.46
+    3484:
+    - 1.73
+    - 9.81
+    1439:
+    - 0.24
+    - 0.9
+    5031:
+    - 0.94
+    - 0.94
+    2474:
+    - 0.98
+    - 2.17
+    1963:
+    - 2.4
+    - 5.68
+    1975:
+    - 2.0
+    - 2.0
+    4033:
+    - 0.25
+    - 0.75
+    7106:
+    - 0.98
+    - 3.41
+    3523:
+    - 0.35
+    - 2.27
+    6086:
+    - 0.53
+    - 0.53
+    461:
+    - 0.17
+    - 1.09
+    5583:
+    - 0.7
+    - 1.89
+    7120:
+    - 2.37
+    - 3.38
+    4051:
+    - 0.35
+    - 1.9
+    2518:
+    - 0.91
+    - 2.24
+    984:
+    - 0.87
+    - 1.55
+    986:
+    - 1.8
+    - 1.67
+    6109:
+    - 0.86
+    - 0.86
+    990:
+    - 1.07
+    - 3.64
+    4063:
+    - 1.03
+    - 1.03
+    6624:
+    - 0.23
+    - 1.58
+    994:
+    - 1.06
+    - 1.06
+    3042:
+    - 0.41
+    - 2.12
+    3047:
+    - 0.63
+    - 0.89
+    488:
+    - 0.42
+    - 4.06
+    7158:
+    - 0.93
+    - 0.96
+    7162:
+    - 1.81
+    - 1.81
+    3067:
+    - 0.1
+    - 0.57
+    1534:
+    - 0.31
+    - 1.39

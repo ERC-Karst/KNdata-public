@@ -1,0 +1,59 @@
+id_dataset: '035'
+short_name: EastKingsdale
+id_subset: '001'
+status: clean
+type_of_correction: no correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: UK Cave Registry. (2024). Cave survey [Creative Commons BY-NC-SA 4.0 dataset].
+  https://cave-registry.org.uk
+thanks: .nan
+sharing_conditions: .nan
+total_length: 539
+total_depth: 105.64
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 151
+number_edges: 150
+mean_degree: 1.88
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.59
+number_cycles: 0
+mean_length: 33.74
+cv_length: 1.36
+length_entropy: 0.62
+orientation_3d_entropy: 0.747
+aspl: 3.5
+cpd: 0.584
+correlation_vertex_degree: -0.333
+original_format: Survex
+comments_cave_info: .nan
+full_name: East Kingsdale
+geometry: .nan
+units: meter
+country: UK
+state: Yorkshire and the Humber
+area: Carnforth
+locality: Ingleton
+grotto_id: 31908 (Crescent) 31907 (Illusion) 31910 (King)
+country_cave_id: .nan
+local_id: 1523 (Crescent), 1533 (Illusion) (Northern Caves), 1534 (King) (Northern
+  Caves)
+local_coordinate_system: OSGB:SD
+latitude: 54.1811
+longitude: -2.46114
+altitude: '292'
+cave_url: https://grottocenter.org/ui/entrances/31907
+supplemental_links: .nan
+data_reception_date: '2023'
+data_received_by: Celia
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://cave-registry.org.uk/svn/NorthernEngland/
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

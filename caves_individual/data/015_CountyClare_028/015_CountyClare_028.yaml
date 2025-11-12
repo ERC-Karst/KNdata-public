@@ -1,0 +1,833 @@
+metadata:
+  id_dataset: '015'
+  short_name: CountyClare
+  id_subset: 028
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "University of Bristol Spel\xE6ological Society. (1919). County Clare\
+    \ Cave Survey (Ireland) [Creative Commons BY-NC-SA 4.0 dataset]. https://www.ubss.org.uk\n"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 1580
+  total_depth: 0.0
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 63
+  number_edges: 64
+  mean_degree: 2.11
+  min_degree: 1.0
+  max_degree: 5.0
+  cv_degree: 0.511
+  number_cycles: 2
+  mean_length: 87.81
+  cv_length: 0.93
+  length_entropy: 0.83
+  orientation_3d_entropy: 0.561
+  aspl: 4.01
+  cpd: 0.369
+  correlation_vertex_degree: -0.401
+  original_format: Survex
+  comments_cave_info: 'mulitple waring messages when compiling therion: "Forwards
+    and backwards reading do not match, year 1958 magnetic declination used for undated
+    surveys
+
+    - commented fix points with weird values in cullauns folder, and changed the epsg:
+    29903 to 2157 for cullauns in Burren.th'
+  full_name: The Caves of County Clare
+  geometry: splays
+  units: meter
+  country: Ireland
+  state: County Clare
+  area: 'The Burren '
+  locality: 'Carrownacleary
+
+    '
+  grotto_id: 10799 (Cullaun Zero Cave) / 10787 (Coolagh River Cave) / 10793 (Cullaun
+    1 Cave)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:2157 / Local
+  latitude: 53.0571
+  longitude: -9.3057
+  altitude: '172'
+  cave_url: https://grottomap.org/en/list/IE/County%20Clare
+  supplemental_links: https://www.ukcaves.co.uk/map-clare
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://ubss.org.uk/research/cave_surveys/clare/
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 9344
+  - 6337
+- - 9344
+  - 8148
+- - 9344
+  - 7469
+- - 4353
+  - 4797
+- - 4353
+  - 1991
+- - 4353
+  - 7678
+- - 8834
+  - 6072
+- - 10627
+  - 8444
+- - 10627
+  - 8445
+- - 8965
+  - 4716
+- - 262
+  - 4411
+- - 262
+  - 12159
+- - 9479
+  - 8768
+- - 9479
+  - 5756
+- - 7175
+  - 10173
+- - 7175
+  - 6702
+- - 4489
+  - 796
+- - 4489
+  - 6127
+- - 4489
+  - 3792
+- - 10634
+  - 4552
+- - 10634
+  - 4293
+- - 5900
+  - 8012
+- - 1806
+  - 4185
+- - 1806
+  - 4954
+- - 1297
+  - 11880
+- - 1297
+  - 10035
+- - 5523
+  - 6173
+- - 5523
+  - 3012
+- - 1941
+  - 4797
+- - 796
+  - 4954
+- - 6173
+  - 9431
+- - 2337
+  - 3012
+- - 7589
+  - 6463
+- - 7589
+  - 4185
+- - 2470
+  - 4411
+- - 2470
+  - 6072
+- - 936
+  - 8445
+- - 936
+  - 12515
+- - 7469
+  - 4293
+- - 6702
+  - 9139
+- - 10035
+  - 4552
+- - 8243
+  - 12148
+- - 8243
+  - 8012
+- - 9139
+  - 4940
+- - 6968
+  - 2675
+- - 6968
+  - 8809
+- - 4411
+  - 8148
+- - 4411
+  - 12368
+- - 10173
+  - 5756
+- - 4797
+  - 4940
+- - 6463
+  - 12368
+- - 6463
+  - 8444
+- - 8768
+  - 4853
+- - 3012
+  - 2675
+- - 3529
+  - 7678
+- - 3792
+  - 11880
+- - 9431
+  - 6525
+- - 12515
+  - 6525
+- - 11107
+  - 8809
+- - 11107
+  - 4853
+- - 4716
+  - 12154
+- - 6127
+  - 12154
+- - 12148
+  - 12159
+- - 8445
+  - 6525
+node_attributes:
+  flags:
+    9344:
+    - fix
+    4353:
+    - fix
+    8834:
+    - fix
+    10627:
+    - fix
+    8965:
+    - fix
+    262:
+    - fix
+    9479:
+    - fix
+    7175:
+    - fix
+    4489:
+    - fix
+    10634:
+    - fix
+    5900:
+    - ent
+    - fix
+    1806:
+    - fix
+    1297:
+    - fix
+    5523:
+    - fix
+    1941:
+    - fix
+    796:
+    - fix
+    6173:
+    - fix
+    2337:
+    - fix
+    7589:
+    - fix
+    2470:
+    - fix
+    936:
+    - fix
+    7469:
+    - fix
+    6702:
+    - fix
+    10035:
+    - fix
+    8243:
+    - fix
+    9139:
+    - fix
+    6072:
+    - fix
+    6968:
+    - fix
+    4411:
+    - fix
+    10173:
+    - fix
+    4797:
+    - fix
+    6463:
+    - fix
+    8768:
+    - fix
+    6337:
+    - ent
+    - fix
+    3012:
+    - fix
+    4293:
+    - fix
+    1991:
+    - fix
+    4552:
+    - fix
+    3529:
+    - fix
+    8012:
+    - fix
+    4940:
+    - fix
+    12368:
+    - fix
+    3792:
+    - fix
+    8148:
+    - fix
+    9431:
+    - fix
+    4185:
+    - fix
+    4954:
+    - fix
+    12515:
+    - fix
+    11107:
+    - fix
+    11880:
+    - fix
+    8809:
+    - fix
+    4716:
+    - fix
+    6127:
+    - fix
+    2675:
+    - fix
+    12148:
+    - fix
+    4853:
+    - fix
+    8444:
+    - fix
+    8445:
+    - fix
+    12154:
+    - fix
+    5756:
+    - fix
+    6525:
+    - fix
+    7678:
+    - fix
+    12159:
+    - fix
+  pos:
+    9344:
+    - 523439.19
+    - 704879.81
+    - 92.0
+    4353:
+    - 523861.18
+    - 704517.48
+    - 92.0
+    8834:
+    - 523369.83
+    - 704867.55
+    - 92.0
+    10627:
+    - 523808.46
+    - 704812.41
+    - 92.0
+    8965:
+    - 523555.11
+    - 704853.37
+    - 92.0
+    262:
+    - 523417.73
+    - 704845.38
+    - 92.0
+    9479:
+    - 523919.96
+    - 704666.43
+    - 92.0
+    7175:
+    - 523901.12
+    - 704612.77
+    - 92.0
+    4489:
+    - 523608.28
+    - 704879.0
+    - 92.0
+    10634:
+    - 523534.23
+    - 704894.64
+    - 92.0
+    5900:
+    - 523343.13
+    - 704832.78
+    - 92.0
+    1806:
+    - 523649.42
+    - 704868.69
+    - 92.0
+    1297:
+    - 523573.18
+    - 704885.24
+    - 92.0
+    5523:
+    - 523937.75
+    - 704766.24
+    - 92.0
+    1941:
+    - 523878.73
+    - 704552.78
+    - 92.0
+    796:
+    - 523622.64
+    - 704877.87
+    - 92.0
+    6173:
+    - 523949.93
+    - 704790.79
+    - 92.0
+    2337:
+    - 523984.86
+    - 704773.25
+    - 92.0
+    7589:
+    - 523666.19
+    - 704831.79
+    - 92.0
+    2470:
+    - 523386.32
+    - 704864.64
+    - 92.0
+    936:
+    - 523830.86
+    - 704802.04
+    - 92.0
+    7469:
+    - 523460.69
+    - 704890.71
+    - 92.0
+    6702:
+    - 523893.26
+    - 704608.58
+    - 92.0
+    10035:
+    - 523565.89
+    - 704891.93
+    - 92.0
+    8243:
+    - 523374.54
+    - 704836.16
+    - 92.0
+    9139:
+    - 523893.52
+    - 704598.19
+    - 92.0
+    6072:
+    - 523379.31
+    - 704862.59
+    - 92.0
+    6968:
+    - 523950.34
+    - 704738.63
+    - 92.0
+    4411:
+    - 523433.55
+    - 704855.53
+    - 92.0
+    10173:
+    - 523910.55
+    - 704627.87
+    - 92.0
+    4797:
+    - 523873.46
+    - 704548.97
+    - 92.0
+    6463:
+    - 523695.66
+    - 704824.77
+    - 92.0
+    8768:
+    - 523932.43
+    - 704682.32
+    - 92.0
+    6337:
+    - 523387.0
+    - 704879.0
+    - 92.0
+    3012:
+    - 523965.56
+    - 704764.0
+    - 92.0
+    4293:
+    - 523499.93
+    - 704895.25
+    - 92.0
+    1991:
+    - 523866.66
+    - 704507.83
+    - 92.0
+    4552:
+    - 523537.61
+    - 704890.7
+    - 92.0
+    3529:
+    - 523850.43
+    - 704498.97
+    - 92.0
+    8012:
+    - 523363.97
+    - 704830.25
+    - 92.0
+    4940:
+    - 523870.99
+    - 704556.37
+    - 92.0
+    12368:
+    - 523689.43
+    - 704816.2
+    - 92.0
+    3792:
+    - 523590.1
+    - 704884.53
+    - 92.0
+    8148:
+    - 523441.55
+    - 704865.4
+    - 92.0
+    9431:
+    - 523882.45
+    - 704812.86
+    - 92.0
+    4185:
+    - 523644.76
+    - 704850.89
+    - 92.0
+    4954:
+    - 523631.37
+    - 704881.61
+    - 92.0
+    12515:
+    - 523850.94
+    - 704804.29
+    - 92.0
+    11107:
+    - 523946.6
+    - 704722.13
+    - 92.0
+    11880:
+    - 523585.86
+    - 704888.92
+    - 92.0
+    8809:
+    - 523941.49
+    - 704729.66
+    - 92.0
+    4716:
+    - 523566.08
+    - 704857.98
+    - 92.0
+    6127:
+    - 523599.82
+    - 704869.13
+    - 92.0
+    2675:
+    - 523944.47
+    - 704751.34
+    - 92.0
+    12148:
+    - 523392.32
+    - 704834.09
+    - 92.0
+    4853:
+    - 523932.73
+    - 704699.32
+    - 92.0
+    8444:
+    - 523712.55
+    - 704820.99
+    - 92.0
+    8445:
+    - 523823.08
+    - 704804.34
+    - 92.0
+    12154:
+    - 523580.5
+    - 704859.47
+    - 92.0
+    5756:
+    - 523911.16
+    - 704637.85
+    - 92.0
+    6525:
+    - 523852.36
+    - 704810.33
+    - 92.0
+    7678:
+    - 523857.55
+    - 704509.25
+    - 92.0
+    12159:
+    - 523413.26
+    - 704838.5
+    - 92.0
+  idsql:
+    9344:
+    - 7552
+    4353:
+    - 7589
+    8834:
+    - 7613
+    10627:
+    - 7564
+    8965:
+    - 7602
+    262:
+    - 7555
+    9479:
+    - 7580
+    7175:
+    - 7583
+    4489:
+    - 7598
+    10634:
+    - 7608
+    5900:
+    - 7560
+    1806:
+    - 7595
+    1297:
+    - 7605
+    5523:
+    - 7571
+    1941:
+    - 7588
+    796:
+    - 7597
+    6173:
+    - 7570
+    2337:
+    - 7573
+    7589:
+    - 7593
+    2470:
+    - 7611
+    936:
+    - 7566
+    7469:
+    - 7610
+    6702:
+    - 7584
+    10035:
+    - 7606
+    8243:
+    - 7558
+    9139:
+    - 7585
+    6072:
+    - 7612
+    6968:
+    - 7575
+    4411:
+    - 7554
+    10173:
+    - 7582
+    4797:
+    - 7587
+    6463:
+    - 7562
+    8768:
+    - 7579
+    6337:
+    - 7551
+    3012:
+    - 7572
+    4293:
+    - 7609
+    1991:
+    - 7590
+    4552:
+    - 7607
+    3529:
+    - 7592
+    8012:
+    - 7559
+    4940:
+    - 7586
+    12368:
+    - 7561
+    3792:
+    - 7603
+    8148:
+    - 7553
+    9431:
+    - 7569
+    4185:
+    - 7594
+    4954:
+    - 7596
+    12515:
+    - 7567
+    11107:
+    - 7577
+    11880:
+    - 7604
+    8809:
+    - 7576
+    4716:
+    - 7601
+    6127:
+    - 7599
+    2675:
+    - 7574
+    12148:
+    - 7557
+    4853:
+    - 7578
+    8444:
+    - 7563
+    8445:
+    - 7565
+    12154:
+    - 7600
+    5756:
+    - 7581
+    6525:
+    - 7568
+    7678:
+    - 7591
+    12159:
+    - 7556
+  fulladdress:
+    9344:
+    - CountyClare.TheBurren.Aillwee.2
+    4353:
+    - CountyClare.TheBurren.Aillwee.40
+    8834:
+    - CountyClare.TheBurren.Aillwee.101
+    10627:
+    - CountyClare.TheBurren.Aillwee.19
+    8965:
+    - CountyClare.TheBurren.Aillwee.116
+    262:
+    - CountyClare.TheBurren.Aillwee.107
+    9479:
+    - CountyClare.TheBurren.Aillwee.32
+    7175:
+    - CountyClare.TheBurren.Aillwee.35
+    4489:
+    - CountyClare.TheBurren.Aillwee.11
+    10634:
+    - CountyClare.TheBurren.Aillwee.5
+    5900:
+    - CountyClare.TheBurren.Aillwee.112
+    1806:
+    - CountyClare.TheBurren.Aillwee.14
+    1297:
+    - CountyClare.TheBurren.Aillwee.8
+    5523:
+    - CountyClare.TheBurren.Aillwee.24
+    1941:
+    - CountyClare.TheBurren.Aillwee.120
+    796:
+    - CountyClare.TheBurren.Aillwee.12
+    6173:
+    - CountyClare.TheBurren.Aillwee.23
+    2337:
+    - CountyClare.TheBurren.Aillwee.119
+    7589:
+    - CountyClare.TheBurren.Aillwee.16
+    2470:
+    - CountyClare.TheBurren.Aillwee.103
+    936:
+    - CountyClare.TheBurren.Aillwee.117
+    7469:
+    - CountyClare.TheBurren.Aillwee.3
+    6702:
+    - CountyClare.TheBurren.Aillwee.36
+    10035:
+    - CountyClare.TheBurren.Aillwee.7
+    8243:
+    - CountyClare.TheBurren.Aillwee.110
+    9139:
+    - CountyClare.TheBurren.Aillwee.37
+    6072:
+    - CountyClare.TheBurren.Aillwee.102
+    6968:
+    - CountyClare.TheBurren.Aillwee.27
+    4411:
+    - CountyClare.TheBurren.Aillwee.104
+    10173:
+    - CountyClare.TheBurren.Aillwee.34
+    4797:
+    - CountyClare.TheBurren.Aillwee.39
+    6463:
+    - CountyClare.TheBurren.Aillwee.17
+    8768:
+    - CountyClare.TheBurren.Aillwee.31
+    6337:
+    - CountyClare.TheBurren.Aillwee.1
+    3012:
+    - CountyClare.TheBurren.Aillwee.25
+    4293:
+    - CountyClare.TheBurren.Aillwee.4
+    1991:
+    - CountyClare.TheBurren.Aillwee.121
+    4552:
+    - CountyClare.TheBurren.Aillwee.6
+    3529:
+    - CountyClare.TheBurren.Aillwee.42
+    8012:
+    - CountyClare.TheBurren.Aillwee.111
+    4940:
+    - CountyClare.TheBurren.Aillwee.38
+    12368:
+    - CountyClare.TheBurren.Aillwee.105
+    3792:
+    - CountyClare.TheBurren.Aillwee.10
+    8148:
+    - CountyClare.TheBurren.Aillwee.106
+    9431:
+    - CountyClare.TheBurren.Aillwee.22
+    4185:
+    - CountyClare.TheBurren.Aillwee.15
+    4954:
+    - CountyClare.TheBurren.Aillwee.13
+    12515:
+    - CountyClare.TheBurren.Aillwee.118
+    11107:
+    - CountyClare.TheBurren.Aillwee.29
+    11880:
+    - CountyClare.TheBurren.Aillwee.9
+    8809:
+    - CountyClare.TheBurren.Aillwee.28
+    4716:
+    - CountyClare.TheBurren.Aillwee.115
+    6127:
+    - CountyClare.TheBurren.Aillwee.113
+    2675:
+    - CountyClare.TheBurren.Aillwee.26
+    12148:
+    - CountyClare.TheBurren.Aillwee.109
+    4853:
+    - CountyClare.TheBurren.Aillwee.30
+    8444:
+    - CountyClare.TheBurren.Aillwee.18
+    8445:
+    - CountyClare.TheBurren.Aillwee.20
+    12154:
+    - CountyClare.TheBurren.Aillwee.114
+    5756:
+    - CountyClare.TheBurren.Aillwee.33
+    6525:
+    - CountyClare.TheBurren.Aillwee.21
+    7678:
+    - CountyClare.TheBurren.Aillwee.41
+    12159:
+    - CountyClare.TheBurren.Aillwee.108

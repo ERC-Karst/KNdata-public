@@ -1,0 +1,505 @@
+metadata:
+  id_dataset: '007'
+  short_name: Tsanfleuron
+  id_subset: '015'
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Groupe de Sp\xE9l\xE9ologie Rhodanien (GSR), Soci\xE9t\xE9 Sp\xE9l\xE9\
+    ologique Genevoise (SSG), Sp\xE9l\xE9o-Club Jura (SCJ), & Groupe Sp\xE9l\xE9o\
+    \ Lausanne (GSL). (2024). Base de donn\xE9es topographique des syst\xE8mes karstique\
+    \ du lapiaz de Tsanfleuron (Unpublished raw data). [Dataset]."
+  thanks: "Thanks to Louis Stahelin for sharing the data with us, and to the GSR (Groupe\
+    \ de Sp\xE9l\xE9ologie Rhodanien), SSG (Soci\xE9t\xE9 Sp\xE9l\xE9ologique Genevoise),\
+    \ SCJ (Sp\xE9l\xE9o-Club Jura), and GSL (Groupe Sp\xE9l\xE9o Lausanne) who explored,\
+    \ surveyed and mapped the conduits, and whithout whom this work would not have\
+    \ been possible. "
+  sharing_conditions: .nan
+  total_length: 506
+  total_depth: 113.48
+  percentage_csdim: 100
+  number_connected_components: 1
+  number_nodes: 33
+  number_edges: 32
+  mean_degree: 1.67
+  min_degree: 1.0
+  max_degree: 5.0
+  cv_degree: 0.62
+  number_cycles: 0
+  mean_length: 101.26
+  cv_length: 1.08
+  length_entropy: 0.46
+  orientation_3d_entropy: 0.542
+  aspl: 1.93
+  cpd: 0.56
+  correlation_vertex_degree: -0.667
+  original_format: Visual Topo
+  comments_cave_info: Tenir Louis au courant du travail de Ana
+  full_name: Lapiaz Tsanfleuron
+  geometry: lrud
+  units: meter
+  country: Switzerland
+  state: Valais/Wallis
+  area: Glacier de Tsanfleuron
+  locality: "Savi\xE8se"
+  grotto_id: 37275 (G16)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: CH1903/LV03
+  latitude: 46.3149
+  longitude: 7.2739
+  altitude: '2290'
+  cave_url: https://grottocenter.org/ui/entrances/36666
+  supplemental_links: http://mdemierre.speleologie.ch/?p=2584
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: GSR,SSG,SCJ,GSL
+  website: .nan
+  email_correspondant: louis.stahelin@icloud.com
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 3
+  - 1234
+- - 3
+  - 558
+- - 774
+  - 1084
+- - 774
+  - 712
+- - 529
+  - 788
+- - 529
+  - 222
+- - 531
+  - 377
+- - 788
+  - 747
+- - 1430
+  - 596
+- - 1430
+  - 229
+- - 1310
+  - 1375
+- - 1310
+  - 590
+- - 33
+  - 823
+- - 33
+  - 85
+- - 34
+  - 1067
+- - 675
+  - 558
+- - 675
+  - 1084
+- - 1061
+  - 377
+- - 1061
+  - 1249
+- - 1450
+  - 229
+- - 1450
+  - 638
+- - 1067
+  - 872
+- - 558
+  - 710
+- - 823
+  - 377
+- - 197
+  - 638
+- - 197
+  - 497
+- - 710
+  - 1375
+- - 712
+  - 596
+- - 590
+  - 747
+- - 1234
+  - 85
+- - 87
+  - 497
+- - 87
+  - 872
+node_attributes:
+  pos:
+    3:
+    - 588684.58
+    - 129568.39
+    - 2059.6
+    774:
+    - 588631.57
+    - 129626.51
+    - 2095.51
+    529:
+    - 588726.94
+    - 129531.52
+    - 2018.56
+    531:
+    - 588762.0
+    - 129558.0
+    - 2014.0
+    788:
+    - 588720.69
+    - 129531.19
+    - 2020.24
+    1430:
+    - 588579.08
+    - 129608.32
+    - 2124.0
+    1310:
+    - 588699.9
+    - 129542.5
+    - 2039.15
+    33:
+    - 588729.42
+    - 129551.77
+    - 2024.13
+    34:
+    - 588512.81
+    - 129648.91
+    - 2071.49
+    675:
+    - 588642.61
+    - 129625.47
+    - 2097.22
+    1061:
+    - 588749.2
+    - 129547.29
+    - 2012.29
+    1450:
+    - 588578.43
+    - 129620.88
+    - 2125.77
+    1067:
+    - 588519.19
+    - 129646.07
+    - 2074.9
+    558:
+    - 588677.03
+    - 129563.3
+    - 2057.83
+    823:
+    - 588734.23
+    - 129548.87
+    - 2022.41
+    1084:
+    - 588642.57
+    - 129625.54
+    - 2097.26
+    197:
+    - 588555.98
+    - 129660.46
+    - 2096.93
+    710:
+    - 588696.13
+    - 129554.79
+    - 2046.71
+    712:
+    - 588624.0
+    - 129621.41
+    - 2098.84
+    590:
+    - 588702.1
+    - 129528.57
+    - 2031.65
+    1234:
+    - 588693.04
+    - 129557.93
+    - 2049.46
+    596:
+    - 588620.61
+    - 129625.92
+    - 2103.92
+    85:
+    - 588698.92
+    - 129566.01
+    - 2047.69
+    87:
+    - 588534.55
+    - 129651.57
+    - 2081.65
+    222:
+    - 588731.98
+    - 129525.51
+    - 2015.23
+    1375:
+    - 588694.9
+    - 129548.48
+    - 2043.29
+    1249:
+    - 588753.02
+    - 129549.07
+    - 2012.29
+    229:
+    - 588578.43
+    - 129620.79
+    - 2125.75
+    872:
+    - 588530.11
+    - 129646.64
+    - 2079.99
+    747:
+    - 588713.25
+    - 129524.5
+    - 2025.34
+    497:
+    - 588543.96
+    - 129652.05
+    - 2086.66
+    377:
+    - 588745.17
+    - 129549.44
+    - 2019.06
+    638:
+    - 588568.73
+    - 129654.78
+    - 2103.74
+  comments:
+    531:
+    - Entree G1 Marmites
+  fulladdress:
+    3:
+    - Tsanfleuron.G1_Marmites.7
+    774:
+    - Tsanfleuron.G1_Marmites.10
+    529:
+    - Tsanfleuron.G1_Marmites.28
+    531:
+    - Tsanfleuron.G1_Marmites.1
+    788:
+    - Tsanfleuron.G1_Marmites.27
+    1430:
+    - Tsanfleuron.G1_Marmites.13
+    1310:
+    - Tsanfleuron.G1_Marmites.24
+    33:
+    - Tsanfleuron.G1_Marmites.4
+    34:
+    - Tsanfleuron.G1_Marmites.21
+    675:
+    - Tsanfleuron.G1_Marmites.9
+    1061:
+    - Tsanfleuron.G1_Marmites.tt
+    1450:
+    - Tsanfleuron.G1_Marmites.14a
+    1067:
+    - Tsanfleuron.G1_Marmites.20
+    558:
+    - Tsanfleuron.G1_Marmites.8
+    823:
+    - Tsanfleuron.G1_Marmites.3
+    1084:
+    - Tsanfleuron.G1_Marmites.9a
+    197:
+    - Tsanfleuron.G1_Marmites.16
+    710:
+    - Tsanfleuron.G1_Marmites.22
+    712:
+    - Tsanfleuron.G1_Marmites.11
+    590:
+    - Tsanfleuron.G1_Marmites.25
+    1234:
+    - Tsanfleuron.G1_Marmites.6
+    596:
+    - Tsanfleuron.G1_Marmites.12
+    85:
+    - Tsanfleuron.G1_Marmites.5
+    87:
+    - Tsanfleuron.G1_Marmites.18
+    222:
+    - Tsanfleuron.G1_Marmites.29
+    1375:
+    - Tsanfleuron.G1_Marmites.23
+    1249:
+    - Tsanfleuron.G1_Marmites.S2
+    229:
+    - Tsanfleuron.G1_Marmites.14
+    872:
+    - Tsanfleuron.G1_Marmites.19
+    747:
+    - Tsanfleuron.G1_Marmites.26
+    497:
+    - Tsanfleuron.G1_Marmites.17
+    377:
+    - Tsanfleuron.G1_Marmites.2
+    638:
+    - Tsanfleuron.G1_Marmites.15
+  idsql:
+    3:
+    - 231
+    774:
+    - 235
+    529:
+    - 254
+    531:
+    - 225
+    788:
+    - 253
+    1430:
+    - 238
+    1310:
+    - 250
+    33:
+    - 228
+    34:
+    - 247
+    675:
+    - 233
+    1061:
+    - 256
+    1450:
+    - 240
+    1067:
+    - 246
+    558:
+    - 232
+    823:
+    - 227
+    1084:
+    - 234
+    197:
+    - 242
+    710:
+    - 248
+    712:
+    - 236
+    590:
+    - 251
+    1234:
+    - 230
+    596:
+    - 237
+    85:
+    - 229
+    87:
+    - 244
+    222:
+    - 255
+    1375:
+    - 249
+    1249:
+    - 257
+    229:
+    - 239
+    872:
+    - 245
+    747:
+    - 252
+    497:
+    - 243
+    377:
+    - 226
+    638:
+    - 241
+  flags:
+    531:
+    - ent
+    - fix
+  csdim:
+    3:
+    - 0.8
+    - 0.6
+    774:
+    - 0.6
+    - 1.1
+    529:
+    - 0.5
+    - 0.8
+    531:
+    - 0.8
+    - 2.0
+    788:
+    - 1.0
+    - 3.0
+    1430:
+    - 0.6
+    - 1.0
+    1310:
+    - 0.5
+    - 1.0
+    33:
+    - 0.8
+    - 0.7
+    34:
+    - 0.4
+    - 0.8
+    675:
+    - 0.6
+    - 0.6
+    1061:
+    - 2.25
+    - 0.5
+    1450:
+    - 0.6
+    - 0.9
+    1067:
+    - 0.7
+    - 5.0
+    558:
+    - 4.0
+    - 1.5
+    823:
+    - 0.6
+    - 1.21
+    1084:
+    - 1.6
+    - 0.7
+    197:
+    - 0.7
+    - 0.7
+    710:
+    - 2.1
+    - 0.8
+    712:
+    - 2.2
+    - 0.8
+    590:
+    - 0.5
+    - 2.5
+    1234:
+    - 1.5
+    - 1.2
+    596:
+    - 3.0
+    - 12.7
+    85:
+    - 0.6
+    - 0.6
+    87:
+    - 0.6
+    - 0.8
+    222:
+    - 0.5
+    - 0.5
+    1375:
+    - 0.6
+    - 0.8
+    1249:
+    - 0.6
+    - 1.4
+    229:
+    - 0.6
+    - 1.5
+    872:
+    - 0.5
+    - 0.9
+    747:
+    - 0.4
+    - 0.5
+    497:
+    - 0.8
+    - 0.7
+    377:
+    - 0.4
+    - 0.7
+    638:
+    - 0.7
+    - 1.0

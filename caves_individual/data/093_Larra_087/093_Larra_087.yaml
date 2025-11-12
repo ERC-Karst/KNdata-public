@@ -1,0 +1,582 @@
+metadata:
+  id_dataset: 093
+  short_name: Larra
+  id_subset: 087
+  status: ready for cleaning
+  type_of_correction: .nan
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Pont, A., & ARSIP, collectif d\u2019exploration du massif de la P. S.\
+    \ M. (2025). Base de donn\xE9es Topographiques des syst\xE8mes karstiques du massif\
+    \ de la Pierre Saint Martin\u2014Larra (France) [Creative Commons BY-NC-SA 4.0\
+    \ dataset, Therion project]. https://github.com/Alex38Lyon/Synthese-PSM_LARRA"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 537
+  total_depth: 164.47
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 50
+  number_edges: 49
+  mean_degree: 1.86
+  min_degree: 1.0
+  max_degree: 10.0
+  cv_degree: 0.553
+  number_cycles: 0
+  mean_length: 41.34
+  cv_length: 1.12
+  length_entropy: 0.61
+  orientation_3d_entropy: 0.653
+  aspl: 3.4
+  cpd: 0.434
+  correlation_vertex_degree: -0.444
+  original_format: Therion
+  comments_cave_info: data not available for compiling. but sql file was created
+  full_name: "Syst\xE8mes karstiques du massif de la Pierre Saint Martin - Larra"
+  geometry: .nan
+  units: meter
+  country: France
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/Alex38Lyon/Synthese-PSM_LARRA
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 4993
+  - 33898
+- - 4993
+  - 29315
+- - 28802
+  - 39058
+- - 28802
+  - 19240
+- - 26883
+  - 40418
+- - 26883
+  - 6776
+- - 29315
+  - 31271
+- - 18693
+  - 19240
+- - 18693
+  - 31928
+- - 42883
+  - 7054
+- - 42883
+  - 28726
+- - 36617
+  - 13299
+- - 36617
+  - 60
+- - 41740
+  - 22481
+- - 39566
+  - 3069
+- - 39566
+  - 4891
+- - 28686
+  - 17732
+- - 28686
+  - 17837
+- - 7054
+  - 9520
+- - 39058
+  - 60
+- - 39332
+  - 6776
+- - 39332
+  - 24880
+- - 31271
+  - 18749
+- - 19240
+  - 14427
+- - 26796
+  - 9520
+- - 26796
+  - 20940
+- - 29743
+  - 30789
+- - 24880
+  - 45248
+- - 36528
+  - 15795
+- - 36528
+  - 13299
+- - 36528
+  - 3069
+- - 9520
+  - 14683
+- - 17843
+  - 40418
+- - 15795
+  - 41540
+- - 28726
+  - 36576
+- - 23735
+  - 31928
+- - 23735
+  - 14683
+- - 18749
+  - 41540
+- - 45248
+  - 37703
+- - 41540
+  - 30789
+- - 30789
+  - 28746
+- - 17732
+  - 25178
+- - 37703
+  - 15223
+- - 20295
+  - 36690
+- - 20295
+  - 25178
+- - 28746
+  - 36690
+- - 28746
+  - 20565
+- - 22481
+  - 14427
+- - 33898
+  - 15223
+node_attributes:
+  flags:
+    17843:
+    - ent
+    - fix
+  pos:
+    4993:
+    - 675474.44
+    - 4761882.35
+    - 589.92
+    28802:
+    - 675489.03
+    - 4761903.93
+    - 671.93
+    26883:
+    - 675403.39
+    - 4761918.16
+    - 540.11
+    29315:
+    - 675492.16
+    - 4761874.52
+    - 606.19
+    18693:
+    - 675459.42
+    - 4761919.41
+    - 656.18
+    42883:
+    - 675439.22
+    - 4761923.84
+    - 657.2
+    36617:
+    - 675508.2
+    - 4761880.49
+    - 654.18
+    41740:
+    - 675473.3
+    - 4761920.89
+    - 694.47
+    39566:
+    - 675505.17
+    - 4761883.72
+    - 650.05
+    28686:
+    - 675532.08
+    - 4761857.29
+    - 681.36
+    7054:
+    - 675441.31
+    - 4761926.26
+    - 652.63
+    39058:
+    - 675501.92
+    - 4761893.56
+    - 662.38
+    4891:
+    - 675504.21
+    - 4761887.29
+    - 654.45
+    39332:
+    - 675414.29
+    - 4761918.85
+    - 549.97
+    31271:
+    - 675506.49
+    - 4761868.78
+    - 615.46
+    19240:
+    - 675479.58
+    - 4761908.31
+    - 672.3
+    26796:
+    - 675419.95
+    - 4761937.63
+    - 631.53
+    17837:
+    - 675533.17
+    - 4761856.98
+    - 686.71
+    29743:
+    - 675528.74
+    - 4761870.45
+    - 649.09
+    24880:
+    - 675425.63
+    - 4761914.98
+    - 556.61
+    36528:
+    - 675506.75
+    - 4761876.89
+    - 642.34
+    9520:
+    - 675429.63
+    - 4761927.66
+    - 638.61
+    17843:
+    - 675394.0
+    - 4761922.0
+    - 530.0
+    15795:
+    - 675510.19
+    - 4761868.87
+    - 635.01
+    28726:
+    - 675442.91
+    - 4761920.3
+    - 654.25
+    23735:
+    - 675445.73
+    - 4761924.17
+    - 642.31
+    31928:
+    - 675452.35
+    - 4761925.96
+    - 649.92
+    60:
+    - 675501.81
+    - 4761886.01
+    - 655.82
+    18749:
+    - 675507.78
+    - 4761862.25
+    - 617.62
+    45248:
+    - 675445.65
+    - 4761909.68
+    - 568.09
+    41540:
+    - 675507.84
+    - 4761866.66
+    - 633.0
+    30789:
+    - 675524.92
+    - 4761861.82
+    - 637.43
+    17732:
+    - 675531.02
+    - 4761858.06
+    - 675.25
+    37703:
+    - 675454.48
+    - 4761898.84
+    - 578.25
+    20295:
+    - 675530.21
+    - 4761857.54
+    - 661.93
+    28746:
+    - 675530.91
+    - 4761856.99
+    - 639.63
+    20940:
+    - 675418.49
+    - 4761941.83
+    - 630.83
+    22481:
+    - 675477.94
+    - 4761919.03
+    - 694.47
+    36690:
+    - 675530.91
+    - 4761856.99
+    - 656.88
+    20565:
+    - 675540.18
+    - 4761852.51
+    - 648.9
+    25178:
+    - 675527.82
+    - 4761859.61
+    - 666.44
+    14427:
+    - 675487.41
+    - 4761912.68
+    - 684.2
+    14683:
+    - 675440.17
+    - 4761922.56
+    - 639.23
+    36576:
+    - 675447.4
+    - 4761919.02
+    - 654.74
+    40418:
+    - 675396.8
+    - 4761920.93
+    - 536.15
+    33898:
+    - 675471.85
+    - 4761885.2
+    - 587.79
+    13299:
+    - 675506.75
+    - 4761876.89
+    - 648.84
+    15223:
+    - 675466.55
+    - 4761886.41
+    - 583.54
+    6776:
+    - 675409.24
+    - 4761921.29
+    - 542.52
+    3069:
+    - 675507.69
+    - 4761881.39
+    - 647.81
+  idsql:
+    4993:
+    - 49186
+    28802:
+    - 49197
+    26883:
+    - 49178
+    29315:
+    - 49187
+    18693:
+    - 49199
+    42883:
+    - 49221
+    36617:
+    - 49194
+    41740:
+    - 49209
+    39566:
+    - 49230
+    28686:
+    - 49217
+    7054:
+    - 49220
+    39058:
+    - 49196
+    4891:
+    - 49231
+    39332:
+    - 49180
+    31271:
+    - 49188
+    19240:
+    - 49198
+    - 49206
+    26796:
+    - 49204
+    17837:
+    - 49218
+    29743:
+    - 49225
+    24880:
+    - 49181
+    36528:
+    - 49192
+    - 49228
+    9520:
+    - 49203
+    - 49219
+    17843:
+    - 49175
+    - 49176
+    15795:
+    - 49191
+    28726:
+    - 49222
+    23735:
+    - 49201
+    31928:
+    - 49200
+    60:
+    - 49195
+    18749:
+    - 49189
+    45248:
+    - 49182
+    41540:
+    - 49190
+    - 49210
+    30789:
+    - 49211
+    - 49224
+    17732:
+    - 49216
+    37703:
+    - 49183
+    20295:
+    - 49214
+    28746:
+    - 49212
+    - 49226
+    20940:
+    - 49205
+    22481:
+    - 49208
+    36690:
+    - 49213
+    20565:
+    - 49227
+    25178:
+    - 49215
+    14427:
+    - 49207
+    14683:
+    - 49202
+    36576:
+    - 49223
+    40418:
+    - 49177
+    33898:
+    - 49185
+    13299:
+    - 49193
+    15223:
+    - 49184
+    6776:
+    - 49179
+    3069:
+    - 49229
+  fulladdress:
+    4993:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/10
+    28802:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/21
+    26883:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/2
+    29315:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/11
+    18693:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/23
+    42883:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_4/2
+    36617:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/18
+    41740:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_2/3
+    39566:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_8/2
+    28686:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_3/7
+    7054:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_4/1
+    39058:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/20
+    4891:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_8/3
+    39332:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/4
+    31271:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/12
+    19240:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/22
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_2/0
+    26796:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/28
+    17837:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_3/8
+    29743:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_5/1
+    24880:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/5
+    36528:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/16
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_8/0
+    9520:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/27
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_4/0
+    17843:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STALAC
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/0
+    15795:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/15
+    28726:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_4/3
+    23735:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/25
+    31928:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/24
+    60:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/19
+    18749:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/13
+    45248:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/6
+    41540:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/14
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_3/0
+    30789:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_3/1
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_5/0
+    17732:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_3/6
+    37703:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/7
+    20295:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_3/4
+    28746:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_3/2
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_6/0
+    20940:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/29
+    22481:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_2/2
+    36690:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_3/3
+    20565:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_6/1
+    25178:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_3/5
+    14427:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_2/1
+    14683:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/26
+    36576:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_4/4
+    40418:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/1
+    33898:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/9
+    13299:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/17
+    15223:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/8
+    6776:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_1/3
+    3069:
+    - Synthese-PSM_LARRA.Grotte_des_Stalactites_deviees.Explo_01_1997_01_01.Explo_01_1997_01_01.STA_d_8/1

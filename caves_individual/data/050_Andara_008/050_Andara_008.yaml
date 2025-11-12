@@ -1,0 +1,5508 @@
+metadata:
+  id_dataset: '050'
+  short_name: Andara
+  id_subset: 008
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: .nan
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 1000
+  total_depth: 449.49
+  percentage_csdim: 22
+  number_connected_components: 1
+  number_nodes: 280
+  number_edges: 279
+  mean_degree: 1.85
+  min_degree: 1.0
+  max_degree: 17.0
+  cv_degree: 0.619
+  number_cycles: 0
+  mean_length: 83.33
+  cv_length: 2.2
+  length_entropy: 0.25
+  orientation_3d_entropy: 0.832
+  aspl: 3.13
+  cpd: 0.463
+  correlation_vertex_degree: -0.6
+  original_format: Survex
+  comments_cave_info: used .3d instead of translating project. too many issues with
+    translation
+  full_name: Andara
+  geometry: .nan
+  units: meter
+  country: Spain
+  state: Cantabrie
+  area: Parc national des Picos de Europa
+  locality: Palacio
+  grotto_id: /
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:32630
+  latitude: 43.2161538
+  longitude: -4.7242563
+  altitude: '1785'
+  cave_url: https://hinko.org/hinko/Dowloads/BCRA/BCRA%2011-4-1984.pdf
+  supplemental_links: https://tresvisocaves.info/tresviso.php?cave=65
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 2561
+  - 9860
+- - 2561
+  - 4559
+- - 1539
+  - 7091
+- - 1539
+  - 6171
+- - 3076
+  - 9985
+- - 3076
+  - 9360
+- - 5
+  - 7349
+- - 5
+  - 7708
+- - 7686
+  - 9468
+- - 7686
+  - 2863
+- - 9
+  - 9371
+- - 9
+  - 9363
+- - 4620
+  - 6277
+- - 4620
+  - 6492
+- - 3602
+  - 298
+- - 3602
+  - 6343
+- - 9748
+  - 177
+- - 9748
+  - 1806
+- - 5652
+  - 7636
+- - 7705
+  - 8916
+- - 7705
+  - 8458
+- - 7708
+  - 8233
+- - 4126
+  - 3347
+- - 4126
+  - 4801
+- - 7712
+  - 10237
+- - 7712
+  - 4933
+- - 3616
+  - 9542
+- - 3616
+  - 2357
+- - 8736
+  - 209
+- - 8736
+  - 7612
+- - 1573
+  - 10231
+- - 1573
+  - 1661
+- - 4646
+  - 9663
+- - 4646
+  - 3009
+- - 1065
+  - 6757
+- - 1065
+  - 4720
+- - 8233
+  - 8782
+- - 5677
+  - 3009
+- - 5677
+  - 2122
+- - 46
+  - 7612
+- - 46
+  - 5919
+- - 1584
+  - 2122
+- - 1584
+  - 4764
+- - 1586
+  - 4561
+- - 1586
+  - 5404
+- - 5171
+  - 4090
+- - 5171
+  - 7227
+- - 7732
+  - 9056
+- - 7732
+  - 1716
+- - 4659
+  - 424
+- - 4659
+  - 3950
+- - 7227
+  - 7091
+- - 7740
+  - 7437
+- - 7740
+  - 6215
+- - 6716
+  - 2511
+- - 6716
+  - 1878
+- - 6204
+  - 5548
+- - 6204
+  - 7150
+- - 4162
+  - 6303
+- - 4162
+  - 4977
+- - 4166
+  - 4090
+- - 6215
+  - 3323
+- - 9287
+  - 3723
+- - 9287
+  - 173
+- - 6732
+  - 8307
+- - 6732
+  - 4804
+- - 8782
+  - 2837
+- - 8784
+  - 2837
+- - 8784
+  - 9212
+- - 3671
+  - 3570
+- - 3671
+  - 7998
+- - 601
+  - 1661
+- - 601
+  - 3450
+- - 9306
+  - 1142
+- - 9306
+  - 1926
+- - 2652
+  - 9453
+- - 2652
+  - 5289
+- - 2655
+  - 5778
+- - 2655
+  - 8312
+- - 608
+  - 7093
+- - 608
+  - 7536
+- - 3680
+  - 2734
+- - 3680
+  - 1791
+- - 4193
+  - 3349
+- - 4193
+  - 4868
+- - 6757
+  - 1131
+- - 6757
+  - 4757
+- - 9832
+  - 1348
+- - 9832
+  - 1834
+- - 6248
+  - 5463
+- - 6248
+  - 2992
+- - 1130
+  - 881
+- - 1130
+  - 7002
+- - 1131
+  - 4933
+- - 8812
+  - 3450
+- - 8812
+  - 7024
+- - 6767
+  - 4559
+- - 6767
+  - 8040
+- - 4720
+  - 1009
+- - 3184
+  - 10155
+- - 3184
+  - 9864
+- - 4210
+  - 9963
+- - 4210
+  - 962
+- - 8307
+  - 8918
+- - 1142
+  - 3928
+- - 3191
+  - 7061
+- - 3191
+  - 8918
+- - 8312
+  - 832
+- - 8321
+  - 7998
+- - 8321
+  - 2761
+- - 6785
+  - 4925
+- - 6785
+  - 6928
+- - 643
+  - 3459
+- - 643
+  - 9727
+- - 9860
+  - 9463
+- - 6277
+  - 4564
+- - 1160
+  - 10215
+- - 1160
+  - 5781
+- - 8841
+  - 9952
+- - 8841
+  - 1183
+- - 8841
+  - 4090
+- - 9864
+  - 4444
+- - 3723
+  - 9363
+- - 2698
+  - 4801
+- - 2698
+  - 5780
+- - 3215
+  - 2761
+- - 3215
+  - 5280
+- - 9360
+  - 8916
+- - 2705
+  - 832
+- - 2705
+  - 8867
+- - 5778
+  - 1861
+- - 3220
+  - 449
+- - 3220
+  - 7061
+- - 4757
+  - 9985
+- - 4757
+  - 7404
+- - 5781
+  - 8038
+- - 5780
+  - 165
+- - 5780
+  - 4493
+- - 9368
+  - 5959
+- - 9368
+  - 3992
+- - 4763
+  - 6435
+- - 4763
+  - 3960
+- - 4764
+  - 7494
+- - 9371
+  - 3323
+- - 3741
+  - 9596
+- - 3741
+  - 8678
+- - 1183
+  - 10237
+- - 5280
+  - 3349
+- - 6303
+  - 4967
+- - 2721
+  - 1926
+- - 2721
+  - 1942
+- - 8867
+  - 3964
+- - 2210
+  - 5404
+- - 2210
+  - 1211
+- - 165
+  - 9691
+- - 1191
+  - 848
+- - 1191
+  - 3570
+- - 5289
+  - 2974
+- - 173
+  - 8175
+- - 2734
+  - 4349
+- - 177
+  - 9727
+- - 5299
+  - 4863
+- - 5299
+  - 2399
+- - 1716
+  - 5463
+- - 7349
+  - 1945
+- - 5302
+  - 1997
+- - 5302
+  - 3508
+- - 1211
+  - 313
+- - 9922
+  - 1834
+- - 9922
+  - 9526
+- - 6339
+  - 2860
+- - 6339
+  - 9596
+- - 4804
+  - 4863
+- - 196
+  - 6042
+- - 196
+  - 1021
+- - 6343
+  - 9941
+- - 7879
+  - 5934
+- - 7879
+  - 7967
+- - 714
+  - 309
+- - 714
+  - 3476
+- - 5831
+  - 445
+- - 5831
+  - 3908
+- - 209
+  - 7536
+- - 4308
+  - 10197
+- - 4308
+  - 3454
+- - 9941
+  - 5934
+- - 7895
+  - 1842
+- - 7895
+  - 3968
+- - 9952
+  - 4564
+- - 2792
+  - 9677
+- - 2792
+  - 8651
+- - 7401
+  - 6569
+- - 7401
+  - 4927
+- - 5865
+  - 2492
+- - 5865
+  - 1896
+- - 9963
+  - 8175
+- - 7404
+  - 1382
+- - 9453
+  - 5018
+- - 6387
+  - 6433
+- - 6387
+  - 10135
+- - 9463
+  - 3020
+- - 9468
+  - 4985
+- - 4349
+  - 3916
+- - 8957
+  - 4493
+- - 8957
+  - 2511
+- - 1791
+  - 848
+- - 8956
+  - 2322
+- - 8956
+  - 1945
+- - 4868
+  - 7437
+- - 4361
+  - 10135
+- - 4361
+  - 5959
+- - 8458
+  - 1507
+- - 3341
+  - 4486
+- - 3341
+  - 3878
+- - 1806
+  - 4909
+- - 1294
+  - 4080
+- - 1294
+  - 6966
+- - 6928
+  - 5548
+- - 2322
+  - 6479
+- - 3347
+  - 3950
+- - 7966
+  - 4927
+- - 7966
+  - 2492
+- - 7967
+  - 449
+- - 5919
+  - 9663
+- - 6433
+  - 8678
+- - 6435
+  - 2863
+- - 3878
+  - 4502
+- - 298
+  - 8651
+- - 2860
+  - 4977
+- - 4909
+  - 10197
+- - 1842
+  - 7150
+- - 9526
+  - 3459
+- - 6966
+  - 4532
+- - 309
+  - 1942
+- - 313
+  - 3020
+- - 4925
+  - 9196
+- - 3907
+  - 3476
+- - 3907
+  - 8066
+- - 1348
+  - 1507
+- - 9542
+  - 4090
+- - 7494
+  - 2531
+- - 3908
+  - 8141
+- - 1861
+  - 8141
+- - 3916
+  - 4502
+- - 6990
+  - 888
+- - 6990
+  - 1997
+- - 6479
+  - 3968
+- - 7507
+  - 1896
+- - 7507
+  - 5018
+- - 1878
+  - 5520
+- - 3928
+  - 2974
+- - 3929
+  - 5609
+- - 3929
+  - 6569
+- - 7002
+  - 4967
+- - 860
+  - 8038
+- - 860
+  - 2932
+- - 4444
+  - 881
+- - 2399
+  - 888
+- - 9056
+  - 4492
+- - 8040
+  - 7636
+- - 7024
+  - 445
+- - 2932
+  - 7093
+- - 4985
+  - 3508
+- - 3960
+  - 6042
+- - 3964
+  - 9196
+- - 3454
+  - 9677
+- - 8066
+  - 10231
+- - 4486
+  - 2531
+- - 4492
+  - 962
+- - 5520
+  - 7060
+- - 7060
+  - 4080
+- - 3992
+  - 424
+- - 10155
+  - 1002
+- - 2992
+  - 983
+- - 4532
+  - 5609
+- - 4561
+  - 9212
+- - 983
+  - 1002
+- - 984
+  - 1009
+- - 10215
+  - 1021
+node_attributes:
+  pos:
+    2561:
+    - 360014.2
+    - 4788466.76
+    - 826.78
+    1539:
+    - 360045.21
+    - 4788363.86
+    - 1269.23
+    3076:
+    - 360041.67
+    - 4788351.84
+    - 1258.05
+    5:
+    - 359993.21
+    - 4788444.61
+    - 826.47
+    7686:
+    - 360005.08
+    - 4788367.59
+    - 1148.31
+    9:
+    - 359951.77
+    - 4788329.92
+    - 1078.56
+    4620:
+    - 360040.06
+    - 4788352.28
+    - 1271.59
+    3602:
+    - 360014.2
+    - 4788353.12
+    - 1238.85
+    9748:
+    - 360022.44
+    - 4788349.39
+    - 1255.43
+    5652:
+    - 360032.4
+    - 4788477.3
+    - 822.7
+    7705:
+    - 360037.55
+    - 4788349.39
+    - 1256.74
+    6171:
+    - 360046.09
+    - 4788366.54
+    - 1271.69
+    7708:
+    - 359992.14
+    - 4788447.14
+    - 826.37
+    4126:
+    - 359982.53
+    - 4788346.04
+    - 952.21
+    7712:
+    - 360042.56
+    - 4788359.75
+    - 1262.54
+    3616:
+    - 360044.19
+    - 4788354.88
+    - 1266.53
+    8736:
+    - 359979.6
+    - 4788371.64
+    - 1116.16
+    1573:
+    - 360011.32
+    - 4788369.62
+    - 831.53
+    4646:
+    - 359981.16
+    - 4788365.11
+    - 1116.2
+    1065:
+    - 360047.04
+    - 4788355.84
+    - 1259.83
+    8233:
+    - 359994.21
+    - 4788449.14
+    - 826.02
+    5677:
+    - 359985.3
+    - 4788363.76
+    - 1116.67
+    46:
+    - 359981.05
+    - 4788369.0
+    - 1116.4
+    1584:
+    - 359987.6
+    - 4788363.62
+    - 1117.16
+    1586:
+    - 359995.9
+    - 4788455.16
+    - 827.32
+    5171:
+    - 360042.08
+    - 4788359.26
+    - 1266.73
+    7732:
+    - 359948.09
+    - 4788331.99
+    - 1003.39
+    4659:
+    - 359982.78
+    - 4788339.82
+    - 952.41
+    7227:
+    - 360043.65
+    - 4788359.85
+    - 1267.71
+    7740:
+    - 359959.18
+    - 4788332.25
+    - 1084.81
+    6716:
+    - 359979.85
+    - 4788345.45
+    - 946.22
+    6204:
+    - 359999.47
+    - 4788428.66
+    - 829.28
+    4162:
+    - 359973.17
+    - 4788338.72
+    - 975.61
+    4166:
+    - 360042.9
+    - 4788354.01
+    - 1268.52
+    6215:
+    - 359957.2
+    - 4788334.03
+    - 1083.62
+    9287:
+    - 359948.06
+    - 4788330.41
+    - 1069.93
+    2122:
+    - 359987.1
+    - 4788364.14
+    - 1117.3
+    6732:
+    - 360014.13
+    - 4788371.19
+    - 1226.31
+    8782:
+    - 359993.59
+    - 4788450.67
+    - 825.14
+    8784:
+    - 359994.45
+    - 4788454.38
+    - 825.83
+    3671:
+    - 359972.72
+    - 4788337.92
+    - 1096.39
+    601:
+    - 360008.14
+    - 4788370.37
+    - 830.73
+    9306:
+    - 360018.09
+    - 4788354.11
+    - 846.99
+    2652:
+    - 360006.01
+    - 4788355.8
+    - 880.61
+    2655:
+    - 360010.8
+    - 4788391.26
+    - 830.56
+    608:
+    - 359974.06
+    - 4788376.95
+    - 1117.25
+    3680:
+    - 359977.43
+    - 4788346.5
+    - 1103.54
+    4193:
+    - 359963.58
+    - 4788327.67
+    - 1086.38
+    6757:
+    - 360045.73
+    - 4788354.43
+    - 1259.1
+    9832:
+    - 360032.96
+    - 4788349.11
+    - 1256.66
+    6248:
+    - 359948.51
+    - 4788334.2
+    - 984.41
+    1130:
+    - 359965.79
+    - 4788335.4
+    - 978.66
+    1131:
+    - 360045.38
+    - 4788356.82
+    - 1260.21
+    8812:
+    - 360007.89
+    - 4788372.18
+    - 831.21
+    6767:
+    - 360021.25
+    - 4788472.25
+    - 822.44
+    4720:
+    - 360047.96
+    - 4788356.92
+    - 1260.38
+    3184:
+    - 359953.98
+    - 4788340.83
+    - 979.38
+    4210:
+    - 359947.26
+    - 4788323.56
+    - 1043.85
+    8307:
+    - 360013.89
+    - 4788368.2
+    - 1229.29
+    1142:
+    - 360015.71
+    - 4788352.74
+    - 855.44
+    3191:
+    - 360016.2
+    - 4788365.34
+    - 1229.69
+    8312:
+    - 360010.13
+    - 4788395.44
+    - 830.11
+    1661:
+    - 360010.58
+    - 4788371.66
+    - 831.57
+    8321:
+    - 359971.14
+    - 4788334.95
+    - 1095.44
+    6785:
+    - 360002.51
+    - 4788420.68
+    - 833.54
+    643:
+    - 360025.32
+    - 4788346.89
+    - 1256.07
+    9860:
+    - 360009.83
+    - 4788464.23
+    - 827.31
+    6277:
+    - 360040.2
+    - 4788353.58
+    - 1270.91
+    1160:
+    - 359986.71
+    - 4788368.3
+    - 1146.51
+    8841:
+    - 360041.06
+    - 4788354.65
+    - 1265.71
+    9864:
+    - 359956.64
+    - 4788338.98
+    - 979.1
+    3723:
+    - 359950.59
+    - 4788330.36
+    - 1073.55
+    2698:
+    - 359978.36
+    - 4788339.22
+    - 951.69
+    3215:
+    - 359969.08
+    - 4788332.33
+    - 1092.94
+    9360:
+    - 360040.16
+    - 4788351.62
+    - 1257.82
+    2705:
+    - 360007.77
+    - 4788399.72
+    - 831.76
+    5778:
+    - 360010.06
+    - 4788387.47
+    - 830.35
+    9363:
+    - 359950.19
+    - 4788330.59
+    - 1080.1
+    3220:
+    - 360015.38
+    - 4788363.17
+    - 1230.19
+    4757:
+    - 360044.86
+    - 4788352.71
+    - 1258.95
+    5781:
+    - 359986.37
+    - 4788368.35
+    - 1139.91
+    5780:
+    - 359977.87
+    - 4788338.0
+    - 951.19
+    9368:
+    - 359987.91
+    - 4788331.16
+    - 955.62
+    4763:
+    - 359997.24
+    - 4788363.25
+    - 1147.29
+    4764:
+    - 359987.09
+    - 4788363.15
+    - 1112.22
+    9371:
+    - 359953.61
+    - 4788333.23
+    - 1079.86
+    3741:
+    - 359981.38
+    - 4788333.38
+    - 968.89
+    1183:
+    - 360042.27
+    - 4788356.35
+    - 1265.0
+    5280:
+    - 359968.78
+    - 4788330.44
+    - 1092.35
+    6303:
+    - 359970.15
+    - 4788336.37
+    - 975.61
+    2721:
+    - 360014.89
+    - 4788360.4
+    - 842.79
+    8867:
+    - 360008.44
+    - 4788403.16
+    - 830.12
+    2210:
+    - 360001.67
+    - 4788460.26
+    - 828.38
+    165:
+    - 359976.73
+    - 4788339.1
+    - 950.99
+    1191:
+    - 359973.32
+    - 4788338.8
+    - 1098.85
+    5289:
+    - 360007.1
+    - 4788354.06
+    - 879.7
+    173:
+    - 359947.85
+    - 4788330.42
+    - 1063.93
+    2734:
+    - 359978.42
+    - 4788347.3
+    - 1104.47
+    177:
+    - 360023.48
+    - 4788348.68
+    - 1255.2
+    5299:
+    - 360016.18
+    - 4788378.09
+    - 1194.56
+    1716:
+    - 359948.7
+    - 4788332.51
+    - 991.95
+    7349:
+    - 359993.61
+    - 4788442.37
+    - 828.0
+    5302:
+    - 360012.44
+    - 4788372.64
+    - 1151.37
+    1211:
+    - 360001.15
+    - 4788461.34
+    - 827.37
+    4801:
+    - 359980.87
+    - 4788343.76
+    - 951.96
+    9922:
+    - 360030.2
+    - 4788348.47
+    - 1257.0
+    6339:
+    - 359977.16
+    - 4788336.79
+    - 975.59
+    4804:
+    - 360014.38
+    - 4788372.33
+    - 1218.62
+    196:
+    - 359992.41
+    - 4788367.06
+    - 1146.4
+    6343:
+    - 360013.43
+    - 4788354.8
+    - 1239.23
+    7879:
+    - 360014.3
+    - 4788359.24
+    - 1230.37
+    2761:
+    - 359970.72
+    - 4788333.56
+    - 1095.05
+    714:
+    - 360014.33
+    - 4788365.39
+    - 839.45
+    5831:
+    - 360009.15
+    - 4788379.45
+    - 831.22
+    209:
+    - 359975.42
+    - 4788373.24
+    - 1116.95
+    8916:
+    - 360038.68
+    - 4788350.5
+    - 1257.13
+    4308:
+    - 360019.39
+    - 4788349.27
+    - 1256.39
+    9941:
+    - 360013.05
+    - 4788355.27
+    - 1232.52
+    8918:
+    - 360015.51
+    - 4788366.34
+    - 1229.42
+    7895:
+    - 359997.54
+    - 4788432.25
+    - 831.75
+    9952:
+    - 360040.69
+    - 4788355.63
+    - 1265.78
+    2792:
+    - 360019.23
+    - 4788349.07
+    - 1240.11
+    7401:
+    - 359989.94
+    - 4788347.87
+    - 930.17
+    5865:
+    - 360000.71
+    - 4788348.36
+    - 921.23
+    9963:
+    - 359946.78
+    - 4788324.27
+    - 1049.26
+    7404:
+    - 360046.34
+    - 4788350.75
+    - 1259.33
+    9453:
+    - 360003.39
+    - 4788350.66
+    - 898.39
+    6387:
+    - 359983.56
+    - 4788326.51
+    - 961.61
+    9463:
+    - 360006.9
+    - 4788460.62
+    - 827.15
+    3323:
+    - 359955.81
+    - 4788333.5
+    - 1083.28
+    9468:
+    - 360006.4
+    - 4788371.27
+    - 1148.77
+    4349:
+    - 359981.55
+    - 4788346.45
+    - 1105.1
+    8957:
+    - 359979.04
+    - 4788342.56
+    - 948.87
+    4863:
+    - 360014.51
+    - 4788373.95
+    - 1207.29
+    1791:
+    - 359975.64
+    - 4788344.44
+    - 1102.33
+    9985:
+    - 360043.07
+    - 4788353.08
+    - 1258.05
+    8956:
+    - 359995.67
+    - 4788440.83
+    - 828.42
+    4868:
+    - 359961.83
+    - 4788328.76
+    - 1085.33
+    4361:
+    - 359988.01
+    - 4788329.17
+    - 957.54
+    8458:
+    - 360036.34
+    - 4788348.27
+    - 1256.31
+    3341:
+    - 359985.86
+    - 4788353.51
+    - 1109.25
+    1806:
+    - 360020.59
+    - 4788350.06
+    - 1255.39
+    7437:
+    - 359960.12
+    - 4788330.47
+    - 1085.2
+    1294:
+    - 359984.84
+    - 4788345.56
+    - 938.96
+    6928:
+    - 360000.26
+    - 4788425.98
+    - 833.03
+    2322:
+    - 359996.39
+    - 4788438.95
+    - 828.49
+    3347:
+    - 359982.61
+    - 4788343.92
+    - 952.28
+    3349:
+    - 359965.76
+    - 4788329.03
+    - 1088.78
+    2837:
+    - 359993.78
+    - 4788452.89
+    - 825.14
+    5404:
+    - 359998.36
+    - 4788457.38
+    - 827.03
+    7966:
+    - 359997.49
+    - 4788348.46
+    - 924.24
+    7967:
+    - 360014.31
+    - 4788361.06
+    - 1230.59
+    5919:
+    - 359980.05
+    - 4788367.45
+    - 1116.49
+    6433:
+    - 359981.23
+    - 4788327.85
+    - 963.42
+    6435:
+    - 359998.46
+    - 4788364.34
+    - 1147.76
+    3878:
+    - 359982.91
+    - 4788351.87
+    - 1108.03
+    1834:
+    - 360031.43
+    - 4788348.11
+    - 1257.14
+    298:
+    - 360016.6
+    - 4788351.85
+    - 1239.53
+    2860:
+    - 359977.07
+    - 4788337.87
+    - 975.48
+    4909:
+    - 360020.86
+    - 4788349.22
+    - 1256.2
+    5934:
+    - 360013.71
+    - 4788356.84
+    - 1232.13
+    2863:
+    - 360000.21
+    - 4788370.09
+    - 1147.55
+    10237:
+    - 360042.75
+    - 4788357.48
+    - 1263.75
+    1842:
+    - 359998.61
+    - 4788429.59
+    - 830.81
+    2357:
+    - 360044.66
+    - 4788356.43
+    - 1266.01
+    9526:
+    - 360028.72
+    - 4788348.18
+    - 1256.67
+    6966:
+    - 359984.44
+    - 4788345.39
+    - 936.5
+    309:
+    - 360014.83
+    - 4788363.39
+    - 840.64
+    313:
+    - 359999.37
+    - 4788460.65
+    - 824.74
+    4925:
+    - 360005.59
+    - 4788417.01
+    - 829.92
+    7998:
+    - 359972.52
+    - 4788335.65
+    - 1095.47
+    4927:
+    - 359991.79
+    - 4788346.71
+    - 928.41
+    832:
+    - 360009.05
+    - 4788395.77
+    - 832.34
+    3907:
+    - 360012.93
+    - 4788369.13
+    - 833.15
+    1348:
+    - 360034.16
+    - 4788349.36
+    - 1256.15
+    4933:
+    - 360044.08
+    - 4788359.05
+    - 1261.55
+    9542:
+    - 360043.2
+    - 4788354.51
+    - 1267.44
+    7494:
+    - 359986.02
+    - 4788358.51
+    - 1110.86
+    5959:
+    - 359989.54
+    - 4788330.81
+    - 955.59
+    3908:
+    - 360009.83
+    - 4788381.06
+    - 831.07
+    1861:
+    - 360009.1
+    - 4788386.66
+    - 829.66
+    3916:
+    - 359981.52
+    - 4788347.54
+    - 1106.48
+    6990:
+    - 360015.95
+    - 4788375.61
+    - 1151.93
+    6479:
+    - 359997.95
+    - 4788435.45
+    - 828.56
+    848:
+    - 359974.65
+    - 4788341.2
+    - 1098.56
+    7507:
+    - 360005.04
+    - 4788348.7
+    - 904.17
+    1878:
+    - 359979.0
+    - 4788343.98
+    - 942.94
+    5463:
+    - 359948.93
+    - 4788331.21
+    - 985.17
+    3928:
+    - 360013.86
+    - 4788349.26
+    - 861.07
+    3929:
+    - 359988.11
+    - 4788346.03
+    - 932.94
+    7002:
+    - 359967.26
+    - 4788334.9
+    - 978.61
+    6492:
+    - 360039.26
+    - 4788351.2
+    - 1271.93
+    860:
+    - 359982.12
+    - 4788368.75
+    - 1135.6
+    4444:
+    - 359958.5
+    - 4788338.48
+    - 978.86
+    2399:
+    - 360015.26
+    - 4788378.16
+    - 1185.66
+    9056:
+    - 359948.28
+    - 4788330.84
+    - 1025.57
+    1382:
+    - 360045.98
+    - 4788352.46
+    - 1267.05
+    8038:
+    - 359982.81
+    - 4788367.12
+    - 1138.54
+    4967:
+    - 359970.15
+    - 4788336.37
+    - 976.58
+    1896:
+    - 360007.13
+    - 4788346.88
+    - 905.71
+    8040:
+    - 360026.65
+    - 4788472.16
+    - 822.44
+    3950:
+    - 359982.56
+    - 4788341.25
+    - 952.28
+    7536:
+    - 359976.04
+    - 4788374.23
+    - 1117.37
+    881:
+    - 359962.12
+    - 4788336.39
+    - 978.86
+    4977:
+    - 359974.55
+    - 4788337.25
+    - 975.61
+    7024:
+    - 360008.71
+    - 4788374.69
+    - 831.07
+    2932:
+    - 359978.52
+    - 4788374.09
+    - 1132.86
+    888:
+    - 360016.31
+    - 4788380.28
+    - 1151.88
+    4985:
+    - 360007.75
+    - 4788373.75
+    - 1148.4
+    3960:
+    - 359995.83
+    - 4788365.34
+    - 1147.16
+    3450:
+    - 360005.53
+    - 4788370.93
+    - 831.49
+    9596:
+    - 359978.02
+    - 4788336.19
+    - 975.14
+    3964:
+    - 360006.71
+    - 4788409.19
+    - 830.01
+    3454:
+    - 360019.09
+    - 4788349.36
+    - 1251.65
+    3968:
+    - 359997.07
+    - 4788434.11
+    - 829.21
+    8066:
+    - 360010.0
+    - 4788368.06
+    - 832.32
+    3459:
+    - 360027.18
+    - 4788346.97
+    - 1256.7
+    4486:
+    - 359986.32
+    - 4788354.9
+    - 1110.48
+    1926:
+    - 360016.36
+    - 4788361.05
+    - 843.19
+    4492:
+    - 359947.1
+    - 4788326.12
+    - 1028.38
+    4493:
+    - 359974.32
+    - 4788339.2
+    - 946.24
+    5520:
+    - 359982.25
+    - 4788344.32
+    - 939.43
+    7060:
+    - 359983.45
+    - 4788345.88
+    - 939.33
+    7061:
+    - 360017.0
+    - 4788365.34
+    - 1229.99
+    4502:
+    - 359983.1
+    - 4788348.38
+    - 1107.28
+    10135:
+    - 359984.18
+    - 4788325.47
+    - 958.1
+    3992:
+    - 359985.94
+    - 4788335.0
+    - 952.25
+    1942:
+    - 360014.98
+    - 4788361.63
+    - 841.14
+    6042:
+    - 359992.98
+    - 4788365.29
+    - 1146.5
+    5018:
+    - 360005.49
+    - 4788349.35
+    - 901.23
+    3476:
+    - 360014.98
+    - 4788366.92
+    - 837.46
+    1945:
+    - 359996.13
+    - 4788442.55
+    - 827.91
+    2974:
+    - 360010.77
+    - 4788351.94
+    - 871.73
+    424:
+    - 359982.24
+    - 4788337.79
+    - 952.41
+    6569:
+    - 359989.08
+    - 4788345.22
+    - 932.87
+    10155:
+    - 359952.04
+    - 4788338.89
+    - 979.86
+    5548:
+    - 359999.91
+    - 4788427.14
+    - 830.75
+    2992:
+    - 359947.18
+    - 4788336.25
+    - 983.11
+    7091:
+    - 360043.73
+    - 4788361.78
+    - 1268.11
+    3508:
+    - 360010.05
+    - 4788373.31
+    - 1148.78
+    7093:
+    - 359974.73
+    - 4788376.37
+    - 1129.88
+    4532:
+    - 359983.78
+    - 4788344.21
+    - 935.72
+    7612:
+    - 359979.58
+    - 4788370.47
+    - 1116.8
+    2492:
+    - 359998.49
+    - 4788347.56
+    - 923.15
+    445:
+    - 360010.07
+    - 4788376.21
+    - 830.93
+    9663:
+    - 359981.3
+    - 4788366.44
+    - 1116.3
+    449:
+    - 360014.48
+    - 4788361.79
+    - 1230.89
+    3009:
+    - 359981.12
+    - 4788365.03
+    - 1115.66
+    962:
+    - 359945.98
+    - 4788323.19
+    - 1036.99
+    8651:
+    - 360016.97
+    - 4788350.22
+    - 1240.84
+    3020:
+    - 360004.05
+    - 4788462.55
+    - 824.83
+    9677:
+    - 360019.24
+    - 4788349.01
+    - 1240.66
+    1997:
+    - 360013.42
+    - 4788375.56
+    - 1151.54
+    2511:
+    - 359979.02
+    - 4788343.78
+    - 947.21
+    8141:
+    - 360008.95
+    - 4788382.37
+    - 829.43
+    4561:
+    - 359995.9
+    - 4788455.06
+    - 826.35
+    4559:
+    - 360018.2
+    - 4788467.18
+    - 827.06
+    4564:
+    - 360040.0
+    - 4788354.0
+    - 1270.0
+    10197:
+    - 360020.25
+    - 4788349.63
+    - 1256.32
+    7636:
+    - 360028.8
+    - 4788471.54
+    - 823.9
+    983:
+    - 359948.83
+    - 4788337.97
+    - 980.17
+    984:
+    - 360050.75
+    - 4788358.07
+    - 1261.36
+    9691:
+    - 359976.73
+    - 4788339.1
+    - 944.89
+    1507:
+    - 360035.64
+    - 4788349.97
+    - 1256.6
+    2531:
+    - 359985.4
+    - 4788356.03
+    - 1110.63
+    8678:
+    - 359982.31
+    - 4788331.37
+    - 969.31
+    10215:
+    - 359987.23
+    - 4788368.95
+    - 1146.79
+    5609:
+    - 359985.47
+    - 4788343.11
+    - 933.7
+    1002:
+    - 359950.23
+    - 4788339.89
+    - 979.79
+    9196:
+    - 360007.29
+    - 4788413.36
+    - 832.25
+    7150:
+    - 359998.32
+    - 4788428.68
+    - 829.92
+    8175:
+    - 359947.07
+    - 4788325.55
+    - 1051.07
+    4080:
+    - 359984.5
+    - 4788345.73
+    - 938.82
+    1009:
+    - 360050.15
+    - 4788357.75
+    - 1260.78
+    3570:
+    - 359973.02
+    - 4788338.53
+    - 1099.56
+    10231:
+    - 360008.27
+    - 4788369.73
+    - 831.85
+    4090:
+    - 360042.66
+    - 4788355.68
+    - 1267.37
+    9212:
+    - 359994.51
+    - 4788455.46
+    - 825.85
+    1021:
+    - 359989.95
+    - 4788368.37
+    - 1146.35
+    9727:
+    - 360024.31
+    - 4788346.16
+    - 1256.23
+  fulladdress:
+    2561:
+    - andara.caballar.c29master.little_and_large.79
+    1539:
+    - andara.caballar.c29master.cueva29.30
+    3076:
+    - andara.caballar.c29master.cueva29.15
+    5:
+    - andara.caballar.c29master.little_and_large.63
+    7686:
+    - andara.caballar.c29master.c29bobp12on.18
+    9:
+    - andara.caballar.c29master.c29rmtrad.r56
+    4620:
+    - andara.caballar.c29master.cueva29.101
+    3602:
+    - andara.caballar.c29master.cueva29.59
+    9748:
+    - andara.caballar.c29master.cueva29.1
+    5652:
+    - andara.caballar.c29master.little_and_large.84
+    7705:
+    - andara.caballar.c29master.cueva29.12
+    6171:
+    - andara.caballar.c29master.cueva29.31
+    7708:
+    - andara.caballar.c29master.little_and_large.64
+    4126:
+    - andara.caballar.c29master.c29rmtrad2.101
+    7712:
+    - andara.caballar.c29master.cueva29.21
+    3616:
+    - andara.caballar.c29master.cueva29.24d
+    8736:
+    - andara.caballar.c29master.c29rmtrad.r17
+    1573:
+    - andara.caballar.c29master.little_and_large.30
+    4646:
+    - andara.caballar.c29master.c29rmtrad.r22
+    1065:
+    - andara.caballar.c29master.cueva29.18a
+    8233:
+    - andara.caballar.c29master.little_and_large.65
+    5677:
+    - andara.caballar.c29master.c29rmtrad.r24
+    46:
+    - andara.caballar.c29master.c29rmtrad.r19
+    1584:
+    - andara.caballar.c29master.c29rmtrad.r26
+    1586:
+    - andara.caballar.c29master.little_and_large.71
+    5171:
+    - andara.caballar.c29master.cueva29.27
+    7732:
+    - andara.caballar.c29master.c29rmtrad2.67
+    4659:
+    - andara.caballar.c29master.c29rmtrad2.98
+    7227:
+    - andara.caballar.c29master.cueva29.28
+    7740:
+    - andara.caballar.c29master.c29rmtrad.r52
+    6716:
+    - andara.caballar.c29master.c29_jc.4
+    6204:
+    - andara.caballar.c29master.little_and_large.53
+    4162:
+    - andara.caballar.c29master.c29rmtrad2.83
+    4166:
+    - andara.caballar.c29master.cueva29.24b
+    6215:
+    - andara.caballar.c29master.c29rmtrad.r53
+    9287:
+    - andara.caballar.c29master.c29rmtrad2.59
+    2122:
+    - andara.caballar.c29master.c29rmtrad.r25
+    6732:
+    - andara.caballar.c29master.c29bolton.4
+    8782:
+    - andara.caballar.c29master.little_and_large.66
+    8784:
+    - andara.caballar.c29master.little_and_large.68
+    3671:
+    - andara.caballar.c29master.c29rmtrad.r42
+    601:
+    - andara.caballar.c29master.little_and_large.32
+    9306:
+    - andara.caballar.c29master.little_and_large.20
+    2652:
+    - andara.caballar.c29master.little_and_large.15
+    2655:
+    - andara.caballar.c29master.little_and_large.42
+    608:
+    - andara.caballar.c29master.c29rmtrad.r14
+    3680:
+    - andara.caballar.c29master.c29rmtrad.r37
+    4193:
+    - andara.caballar.c29master.c29rmtrad.r49
+    6757:
+    - andara.caballar.c29master.cueva29.18
+    9832:
+    - andara.caballar.c29master.cueva29.8
+    6248:
+    - andara.caballar.c29master.c29rmtrad2.70
+    1130:
+    - andara.caballar.c29master.c29rmtrad2.79
+    1131:
+    - andara.caballar.c29master.cueva29.19
+    8812:
+    - andara.caballar.c29master.little_and_large.34
+    6767:
+    - andara.caballar.c29master.little_and_large.81
+    4720:
+    - andara.caballar.c29master.cueva29.18b
+    3184:
+    - andara.caballar.c29master.c29rmtrad2.75
+    4210:
+    - andara.caballar.c29master.c29rmtrad2.63
+    8307:
+    - andara.caballar.c29master.c29bolton.3
+    1142:
+    - andara.caballar.c29master.little_and_large.19
+    3191:
+    - andara.caballar.c29master.c29bolton.1
+    8312:
+    - andara.caballar.c29master.little_and_large.43
+    1661:
+    - andara.caballar.c29master.little_and_large.31
+    8321:
+    - andara.caballar.c29master.c29rmtrad.r44
+    6785:
+    - andara.caballar.c29master.little_and_large.50
+    643:
+    - andara.caballar.c29master.cueva29.3
+    9860:
+    - andara.caballar.c29master.little_and_large.78
+    6277:
+    - andara.caballar.c29master.cueva29.100
+    1160:
+    - andara.caballar.c29master.c29rmtrad.r8
+    8841:
+    - andara.caballar.c29master.cueva29.24
+    9864:
+    - andara.caballar.c29master.c29rmtrad2.76
+    3723:
+    - andara.caballar.c29master.c29rmtrad2.58
+    2698:
+    - andara.caballar.c29master.c29rmtrad2.103
+    3215:
+    - andara.caballar.c29master.c29rmtrad.r46
+    9360:
+    - andara.caballar.c29master.cueva29.14
+    2705:
+    - andara.caballar.c29master.little_and_large.45
+    5778:
+    - andara.caballar.c29master.little_and_large.41
+    9363:
+    - andara.caballar.c29master.c29rmtrad2.57
+    3220:
+    - andara.caballar.c29master.cueva29.66
+    4757:
+    - andara.caballar.c29master.cueva29.17
+    5781:
+    - andara.caballar.c29master.c29rmtrad.r9
+    5780:
+    - andara.caballar.c29master.c29_jc.0
+    9368:
+    - andara.caballar.c29master.c29rmtrad2.95
+    4763:
+    - andara.caballar.c29master.c29rmtrad.r2
+    4764:
+    - andara.caballar.c29master.c29rmtrad.r27
+    9371:
+    - andara.caballar.c29master.c29rmtrad.r55
+    3741:
+    - andara.caballar.c29master.c29rmtrad2.88
+    1183:
+    - andara.caballar.c29master.cueva29.23
+    5280:
+    - andara.caballar.c29master.c29rmtrad.r47
+    6303:
+    - andara.caballar.c29master.c29rmtrad2.82
+    2721:
+    - andara.caballar.c29master.little_and_large.22
+    8867:
+    - andara.caballar.c29master.little_and_large.46
+    2210:
+    - andara.caballar.c29master.little_and_large.73
+    165:
+    - andara.caballar.c29master.c29rmtrad2.105
+    1191:
+    - andara.caballar.c29master.c29rmtrad.r40
+    5289:
+    - andara.caballar.c29master.little_and_large.16
+    173:
+    - andara.caballar.c29master.c29rmtrad2.60
+    2734:
+    - andara.caballar.c29master.c29rmtrad.r36
+    177:
+    - andara.caballar.c29master.cueva29.0
+    5299:
+    - andara.caballar.c29master.c29bolton.7
+    1716:
+    - andara.caballar.c29master.c29rmtrad2.68
+    7349:
+    - andara.caballar.c29master.little_and_large.62
+    5302:
+    - andara.caballar.c29master.c29bobp12on.14
+    1211:
+    - andara.caballar.c29master.little_and_large.74
+    4801:
+    - andara.caballar.c29master.c29rmtrad2.102
+    9922:
+    - andara.caballar.c29master.cueva29.6
+    6339:
+    - andara.caballar.c29master.c29rmtrad2.86
+    4804:
+    - andara.caballar.c29master.c29bolton.5
+    196:
+    - andara.caballar.c29master.c29rmtrad.r5
+    6343:
+    - andara.caballar.c29master.cueva29.60
+    7879:
+    - andara.caballar.c29master.cueva29.63
+    2761:
+    - andara.caballar.c29master.c29rmtrad.r45
+    714:
+    - andara.caballar.c29master.little_and_large.25
+    5831:
+    - andara.caballar.c29master.little_and_large.37
+    209:
+    - andara.caballar.c29master.c29rmtrad.r16
+    8916:
+    - andara.caballar.c29master.cueva29.13
+    4308:
+    - andara.caballar.c29master.cueva29.53
+    9941:
+    - andara.caballar.c29master.cueva29.61
+    8918:
+    - andara.caballar.c29master.c29bolton.2
+    7895:
+    - andara.caballar.c29master.little_and_large.56
+    9952:
+    - andara.caballar.c29master.cueva29.25
+    2792:
+    - andara.caballar.c29master.cueva29.56
+    7401:
+    - andara.caballar.c29master.little_and_large.6
+    5865:
+    - andara.caballar.c29master.little_and_large.10
+    9963:
+    - andara.caballar.c29master.c29rmtrad2.62
+    7404:
+    - andara.caballar.c29master.cueva29.17a
+    9453:
+    - andara.caballar.c29master.little_and_large.14
+    6387:
+    - andara.caballar.c29master.c29rmtrad2.91
+    9463:
+    - andara.caballar.c29master.little_and_large.77
+    3323:
+    - andara.caballar.c29master.c29rmtrad.r54
+    9468:
+    - andara.caballar.c29master.c29bobp12on.17
+    4349:
+    - andara.caballar.c29master.c29rmtrad.r35
+    8957:
+    - andara.caballar.c29master.c29_jc.2
+    4863:
+    - andara.caballar.c29master.c29bolton.6
+    1791:
+    - andara.caballar.c29master.c29rmtrad.r38
+    9985:
+    - andara.caballar.c29master.cueva29.16
+    8956:
+    - andara.caballar.c29master.little_and_large.60
+    4868:
+    - andara.caballar.c29master.c29rmtrad.r50
+    4361:
+    - andara.caballar.c29master.c29rmtrad2.93
+    8458:
+    - andara.caballar.c29master.cueva29.11
+    3341:
+    - andara.caballar.c29master.c29rmtrad.r31
+    1806:
+    - andara.caballar.c29master.cueva29.50
+    7437:
+    - andara.caballar.c29master.c29rmtrad.r51
+    1294:
+    - andara.caballar.c29master.little_and_large.0
+    6928:
+    - andara.caballar.c29master.little_and_large.51
+    2322:
+    - andara.caballar.c29master.little_and_large.59
+    3347:
+    - andara.caballar.c29master.c29rmtrad2.100
+    3349:
+    - andara.caballar.c29master.c29rmtrad.r48
+    2837:
+    - andara.caballar.c29master.little_and_large.67
+    5404:
+    - andara.caballar.c29master.little_and_large.72
+    7966:
+    - andara.caballar.c29master.little_and_large.8
+    7967:
+    - andara.caballar.c29master.cueva29.64
+    5919:
+    - andara.caballar.c29master.c29rmtrad.r20
+    6433:
+    - andara.caballar.c29master.c29rmtrad2.90
+    6435:
+    - andara.caballar.c29master.c29rmtrad.r1
+    3878:
+    - andara.caballar.c29master.c29rmtrad.r32
+    1834:
+    - andara.caballar.c29master.cueva29.7
+    298:
+    - andara.caballar.c29master.cueva29.58
+    2860:
+    - andara.caballar.c29master.c29rmtrad2.85
+    4909:
+    - andara.caballar.c29master.cueva29.51
+    5934:
+    - andara.caballar.c29master.cueva29.62
+    2863:
+    - andara.caballar.c29master.c29rmtrad.r0
+    10237:
+    - andara.caballar.c29master.cueva29.22
+    1842:
+    - andara.caballar.c29master.little_and_large.55
+    2357:
+    - andara.caballar.c29master.cueva29.24e
+    9526:
+    - andara.caballar.c29master.cueva29.5
+    6966:
+    - andara.caballar.c29master.little_and_large.1
+    309:
+    - andara.caballar.c29master.little_and_large.24
+    313:
+    - andara.caballar.c29master.little_and_large.75
+    4925:
+    - andara.caballar.c29master.little_and_large.49
+    7998:
+    - andara.caballar.c29master.c29rmtrad.r43
+    4927:
+    - andara.caballar.c29master.little_and_large.7
+    832:
+    - andara.caballar.c29master.little_and_large.44
+    3907:
+    - andara.caballar.c29master.little_and_large.27
+    1348:
+    - andara.caballar.c29master.cueva29.9
+    4933:
+    - andara.caballar.c29master.cueva29.20
+    9542:
+    - andara.caballar.c29master.cueva29.24c
+    7494:
+    - andara.caballar.c29master.c29rmtrad.r28
+    5959:
+    - andara.caballar.c29master.c29rmtrad2.94
+    3908:
+    - andara.caballar.c29master.little_and_large.38
+    1861:
+    - andara.caballar.c29master.little_and_large.40
+    3916:
+    - andara.caballar.c29master.c29rmtrad.r34
+    6990:
+    - andara.caballar.c29master.c29bobp12on.12
+    6479:
+    - andara.caballar.c29master.little_and_large.58
+    848:
+    - andara.caballar.c29master.c29rmtrad.r39
+    7507:
+    - andara.caballar.c29master.little_and_large.12
+    1878:
+    - andara.caballar.c29master.c29_jc.5
+    5463:
+    - andara.caballar.c29master.c29rmtrad2.69
+    3928:
+    - andara.caballar.c29master.little_and_large.18
+    3929:
+    - andara.caballar.c29master.little_and_large.4
+    7002:
+    - andara.caballar.c29master.c29rmtrad2.80
+    6492:
+    - andara.caballar.c29master.cueva29.e
+    860:
+    - andara.caballar.c29master.c29rmtrad.r11
+    4444:
+    - andara.caballar.c29master.c29rmtrad2.77
+    2399:
+    - andara.caballar.c29master.c29bolton.10
+    9056:
+    - andara.caballar.c29master.c29rmtrad2.66
+    1382:
+    - andara.caballar.c29master.cueva29.17b
+    8038:
+    - andara.caballar.c29master.c29rmtrad.r10
+    4967:
+    - andara.caballar.c29master.c29rmtrad2.81
+    1896:
+    - andara.caballar.c29master.little_and_large.11
+    8040:
+    - andara.caballar.c29master.little_and_large.82
+    3950:
+    - andara.caballar.c29master.c29rmtrad2.99
+    7536:
+    - andara.caballar.c29master.c29rmtrad.r15
+    881:
+    - andara.caballar.c29master.c29rmtrad2.78
+    4977:
+    - andara.caballar.c29master.c29rmtrad2.84
+    7024:
+    - andara.caballar.c29master.little_and_large.35
+    2932:
+    - andara.caballar.c29master.c29rmtrad.r12
+    888:
+    - andara.caballar.c29master.c29bolton.11
+    4985:
+    - andara.caballar.c29master.c29bobp12on.16
+    3960:
+    - andara.caballar.c29master.c29rmtrad.r3
+    3450:
+    - andara.caballar.c29master.little_and_large.33
+    9596:
+    - andara.caballar.c29master.c29rmtrad2.87
+    3964:
+    - andara.caballar.c29master.little_and_large.47
+    3454:
+    - andara.caballar.c29master.cueva29.54
+    3968:
+    - andara.caballar.c29master.little_and_large.57
+    8066:
+    - andara.caballar.c29master.little_and_large.28
+    3459:
+    - andara.caballar.c29master.cueva29.4
+    4486:
+    - andara.caballar.c29master.c29rmtrad.r30
+    1926:
+    - andara.caballar.c29master.little_and_large.21
+    4492:
+    - andara.caballar.c29master.c29rmtrad2.65
+    4493:
+    - andara.caballar.c29master.c29_jc.1
+    5520:
+    - andara.caballar.c29master.c29_jc.6
+    7060:
+    - andara.caballar.c29master.c29_jc.7
+    7061:
+    - andara.caballar.c29master.c29bolton.0
+    4502:
+    - andara.caballar.c29master.c29rmtrad.r33
+    10135:
+    - andara.caballar.c29master.c29rmtrad2.92
+    3992:
+    - andara.caballar.c29master.c29rmtrad2.96
+    1942:
+    - andara.caballar.c29master.little_and_large.23
+    6042:
+    - andara.caballar.c29master.c29rmtrad.r4
+    5018:
+    - andara.caballar.c29master.little_and_large.13
+    3476:
+    - andara.caballar.c29master.little_and_large.26
+    1945:
+    - andara.caballar.c29master.little_and_large.61
+    2974:
+    - andara.caballar.c29master.little_and_large.17
+    424:
+    - andara.caballar.c29master.c29rmtrad2.97
+    6569:
+    - andara.caballar.c29master.little_and_large.5
+    10155:
+    - andara.caballar.c29master.c29rmtrad2.74
+    5548:
+    - andara.caballar.c29master.little_and_large.52
+    2992:
+    - andara.caballar.c29master.c29rmtrad2.71
+    7091:
+    - andara.caballar.c29master.cueva29.29
+    3508:
+    - andara.caballar.c29master.c29bobp12on.15
+    7093:
+    - andara.caballar.c29master.c29rmtrad.r13
+    4532:
+    - andara.caballar.c29master.little_and_large.2
+    7612:
+    - andara.caballar.c29master.c29rmtrad.r18
+    2492:
+    - andara.caballar.c29master.little_and_large.9
+    445:
+    - andara.caballar.c29master.little_and_large.36
+    9663:
+    - andara.caballar.c29master.c29rmtrad.r21
+    449:
+    - andara.caballar.c29master.cueva29.65
+    3009:
+    - andara.caballar.c29master.c29rmtrad.r23
+    962:
+    - andara.caballar.c29master.c29rmtrad2.64
+    8651:
+    - andara.caballar.c29master.cueva29.57
+    3020:
+    - andara.caballar.c29master.little_and_large.76
+    9677:
+    - andara.caballar.c29master.cueva29.55
+    1997:
+    - andara.caballar.c29master.c29bobp12on.13
+    2511:
+    - andara.caballar.c29master.c29_jc.3
+    8141:
+    - andara.caballar.c29master.little_and_large.39
+    4561:
+    - andara.caballar.c29master.little_and_large.70
+    4559:
+    - andara.caballar.c29master.little_and_large.80
+    4564:
+    - andara.caballar.c29_ent
+    10197:
+    - andara.caballar.c29master.cueva29.52
+    7636:
+    - andara.caballar.c29master.little_and_large.83
+    983:
+    - andara.caballar.c29master.c29rmtrad2.72
+    984:
+    - andara.caballar.c29master.cueva29.18d
+    9691:
+    - andara.caballar.c29master.c29rmtrad2.106
+    1507:
+    - andara.caballar.c29master.cueva29.10
+    2531:
+    - andara.caballar.c29master.c29rmtrad.r29
+    8678:
+    - andara.caballar.c29master.c29rmtrad2.89
+    10215:
+    - andara.caballar.c29master.c29rmtrad.r7
+    5609:
+    - andara.caballar.c29master.little_and_large.3
+    1002:
+    - andara.caballar.c29master.c29rmtrad2.73
+    9196:
+    - andara.caballar.c29master.little_and_large.48
+    7150:
+    - andara.caballar.c29master.little_and_large.54
+    8175:
+    - andara.caballar.c29master.c29rmtrad2.61
+    4080:
+    - andara.caballar.c29master.c29_jc.8
+    1009:
+    - andara.caballar.c29master.cueva29.18c
+    3570:
+    - andara.caballar.c29master.c29rmtrad.r41
+    10231:
+    - andara.caballar.c29master.little_and_large.29
+    4090:
+    - andara.caballar.c29master.cueva29.24a
+    9212:
+    - andara.caballar.c29master.little_and_large.69
+    1021:
+    - andara.caballar.c29master.c29rmtrad.r6
+    9727:
+    - andara.caballar.c29master.cueva29.2
+  splays:
+    1539:
+    - - 360044.0
+      - 4788364.66
+      - 1269.17
+    - - 360045.34
+      - 4788363.87
+      - 1269.28
+    - - 360045.0
+      - 4788363.98
+      - 1270.28
+    - - 360045.19
+      - 4788364.02
+      - 1269.09
+    3076:
+    - - 360041.48
+      - 4788352.68
+      - 1258.15
+    - - 360041.44
+      - 4788351.61
+      - 1258.03
+    - - 360041.76
+      - 4788352.01
+      - 1258.56
+    - - 360041.61
+      - 4788351.85
+      - 1257.68
+    7686:
+    - - 360006.46
+      - 4788367.62
+      - 1149.54
+    - - 360008.2
+      - 4788369.01
+      - 1151.34
+    - - 360009.13
+      - 4788370.45
+      - 1152.17
+    - - 360007.46
+      - 4788369.63
+      - 1150.73
+    - - 360004.89
+      - 4788367.84
+      - 1147.92
+    - - 360004.56
+      - 4788366.98
+      - 1148.36
+    - - 360003.88
+      - 4788367.05
+      - 1148.28
+    - - 360002.53
+      - 4788367.51
+      - 1148.93
+    - - 360002.09
+      - 4788368.28
+      - 1148.74
+    - - 360000.97
+      - 4788369.21
+      - 1148.05
+    - - 360004.61
+      - 4788368.35
+      - 1148.38
+    - - 360004.09
+      - 4788368.47
+      - 1148.28
+    - - 360003.42
+      - 4788368.62
+      - 1148.24
+    - - 360001.0
+      - 4788369.94
+      - 1147.96
+    3602:
+    - - 360013.72
+      - 4788353.52
+      - 1238.8
+    - - 360014.08
+      - 4788354.91
+      - 1239.63
+    - - 360013.74
+      - 4788354.09
+      - 1248.21
+    - - 360013.81
+      - 4788353.91
+      - 1237.35
+    9748:
+    - - 360022.37
+      - 4788348.61
+      - 1255.59
+    - - 360022.32
+      - 4788349.63
+      - 1255.64
+    - - 360022.61
+      - 4788349.07
+      - 1256.35
+    - - 360022.49
+      - 4788349.21
+      - 1254.26
+    7705:
+    - - 360037.09
+      - 4788350.26
+      - 1257.1
+    - - 360037.65
+      - 4788349.29
+      - 1256.96
+    - - 360037.64
+      - 4788349.76
+      - 1257.45
+    - - 360037.66
+      - 4788349.56
+      - 1256.58
+    7712:
+    - - 360043.22
+      - 4788359.3
+      - 1262.86
+    - - 360042.2
+      - 4788360.66
+      - 1263.14
+    - - 360042.55
+      - 4788359.81
+      - 1263.91
+    - - 360042.56
+      - 4788359.17
+      - 1261.78
+    3616:
+    - - 360044.14
+      - 4788355.24
+      - 1266.5
+    - - 360044.44
+      - 4788355.01
+      - 1266.49
+    - - 360045.19
+      - 4788355.59
+      - 1269.35
+    - - 360044.66
+      - 4788355.44
+      - 1265.68
+    1065:
+    - - 360047.02
+      - 4788356.15
+      - 1260.06
+    - - 360047.35
+      - 4788355.62
+      - 1260.01
+    - - 360047.3
+      - 4788355.85
+      - 1261.03
+    - - 360046.71
+      - 4788355.98
+      - 1258.93
+    5171:
+    - - 360041.89
+      - 4788359.46
+      - 1266.63
+    - - 360042.87
+      - 4788359.44
+      - 1266.8
+    - - 360043.31
+      - 4788358.89
+      - 1269.19
+    - - 360042.14
+      - 4788359.76
+      - 1266.15
+    7227:
+    - - 360042.82
+      - 4788361.34
+      - 1267.98
+    - - 360043.88
+      - 4788359.91
+      - 1267.82
+    - - 360043.55
+      - 4788359.92
+      - 1269.95
+    - - 360043.59
+      - 4788360.3
+      - 1266.93
+    6716:
+    - - 359979.4
+      - 4788345.42
+      - 946.16
+    - - 359981.49
+      - 4788345.57
+      - 945.94
+    - - 359979.9
+      - 4788345.59
+      - 947.06
+    - - 359979.86
+      - 4788345.28
+      - 944.9
+    4166:
+    - - 360043.36
+      - 4788352.81
+      - 1268.78
+    - - 360043.5
+      - 4788354.11
+      - 1268.73
+    - - 360042.54
+      - 4788354.11
+      - 1268.41
+    - - 360044.55
+      - 4788353.26
+      - 1270.8
+    - - 360044.07
+      - 4788355.06
+      - 1270.17
+    - - 360043.37
+      - 4788353.96
+      - 1268.13
+    6732:
+    - - 360013.68
+      - 4788371.01
+      - 1226.27
+    - - 360013.68
+      - 4788370.46
+      - 1226.34
+    - - 360014.07
+      - 4788370.19
+      - 1226.26
+    - - 360014.51
+      - 4788370.33
+      - 1226.34
+    - - 360014.71
+      - 4788370.52
+      - 1226.35
+    - - 360014.71
+      - 4788370.87
+      - 1226.32
+    - - 360015.92
+      - 4788370.83
+      - 1226.19
+    - - 360015.78
+      - 4788371.55
+      - 1225.95
+    - - 360015.66
+      - 4788372.17
+      - 1225.9
+    - - 360015.69
+      - 4788372.69
+      - 1225.72
+    - - 360015.47
+      - 4788373.14
+      - 1225.53
+    - - 360015.11
+      - 4788373.84
+      - 1225.43
+    - - 360014.53
+      - 4788373.73
+      - 1225.56
+    - - 360014.13
+      - 4788373.67
+      - 1225.65
+    - - 360014.03
+      - 4788372.65
+      - 1225.89
+    - - 360017.68
+      - 4788375.0
+      - 1222.91
+    - - 360014.52
+      - 4788372.44
+      - 1229.86
+    - - 360015.81
+      - 4788374.06
+      - 1229.68
+    - - 360016.23
+      - 4788374.22
+      - 1226.77
+    - - 360016.37
+      - 4788374.14
+      - 1225.93
+    - - 360015.62
+      - 4788373.16
+      - 1225.84
+    - - 360015.77
+      - 4788373.22
+      - 1224.99
+    - - 360017.17
+      - 4788374.57
+      - 1223.43
+    - - 360017.92
+      - 4788375.62
+      - 1221.29
+    - - 360014.38
+      - 4788370.46
+      - 1228.05
+    - - 360014.22
+      - 4788369.47
+      - 1229.73
+    - - 360014.57
+      - 4788370.82
+      - 1227.66
+    - - 360014.68
+      - 4788371.28
+      - 1227.26
+    - - 360014.84
+      - 4788371.6
+      - 1227.07
+    6757:
+    - - 360045.41
+      - 4788355.19
+      - 1259.63
+    - - 360046.24
+      - 4788354.36
+      - 1259.3
+    - - 360045.9
+      - 4788354.9
+      - 1260.29
+    - - 360045.92
+      - 4788354.6
+      - 1258.72
+    - - 360046.18
+      - 4788355.71
+      - 1259.52
+    - - 360046.0
+      - 4788355.53
+      - 1260.26
+    - - 360045.77
+      - 4788355.82
+      - 1259.23
+    9832:
+    - - 360032.96
+      - 4788349.3
+      - 1256.73
+    - - 360033.13
+      - 4788348.79
+      - 1256.7
+    - - 360033.12
+      - 4788349.03
+      - 1257.38
+    - - 360033.38
+      - 4788349.13
+      - 1256.01
+    1131:
+    - - 360044.52
+      - 4788356.7
+      - 1260.33
+    - - 360045.61
+      - 4788357.06
+      - 1260.64
+    - - 360045.4
+      - 4788356.77
+      - 1260.55
+    - - 360044.98
+      - 4788356.54
+      - 1259.35
+    4720:
+    - - 360048.08
+      - 4788357.07
+      - 1260.48
+    - - 360047.85
+      - 4788356.5
+      - 1260.65
+    - - 360047.96
+      - 4788356.68
+      - 1260.98
+    - - 360047.91
+      - 4788357.07
+      - 1259.52
+    8307:
+    - - 360013.89
+      - 4788368.28
+      - 1229.52
+    - - 360014.0
+      - 4788368.44
+      - 1229.9
+    - - 360013.95
+      - 4788368.49
+      - 1230.76
+    - - 360014.14
+      - 4788368.56
+      - 1230.34
+    - - 360014.2
+      - 4788368.51
+      - 1229.8
+    - - 360014.27
+      - 4788368.53
+      - 1229.55
+    - - 360014.46
+      - 4788368.73
+      - 1229.3
+    - - 360014.75
+      - 4788368.75
+      - 1228.76
+    - - 360015.13
+      - 4788368.87
+      - 1228.42
+    - - 360014.28
+      - 4788368.39
+      - 1228.97
+    - - 360015.84
+      - 4788369.22
+      - 1227.5
+    - - 360015.51
+      - 4788369.07
+      - 1227.57
+    - - 360014.77
+      - 4788368.52
+      - 1228.12
+    - - 360014.42
+      - 4788368.35
+      - 1228.32
+    - - 360014.02
+      - 4788368.01
+      - 1228.32
+    - - 360013.76
+      - 4788367.89
+      - 1228.66
+    - - 360014.34
+      - 4788369.12
+      - 1228.39
+    - - 360014.36
+      - 4788369.38
+      - 1228.15
+    - - 360014.17
+      - 4788367.91
+      - 1231.05
+    - - 360014.42
+      - 4788367.41
+      - 1231.01
+    - - 360014.58
+      - 4788367.26
+      - 1230.56
+    - - 360014.22
+      - 4788369.74
+      - 1230.19
+    - - 360014.26
+      - 4788369.93
+      - 1229.6
+    - - 360014.26
+      - 4788370.02
+      - 1229.28
+    - - 360014.18
+      - 4788369.02
+      - 1228.0
+    - - 360014.34
+      - 4788369.63
+      - 1227.3
+    - - 360014.42
+      - 4788370.62
+      - 1225.84
+    3191:
+    - - 360016.32
+      - 4788365.39
+      - 1230.56
+    - - 360016.63
+      - 4788365.43
+      - 1230.3
+    - - 360016.81
+      - 4788365.4
+      - 1230.16
+    - - 360017.01
+      - 4788365.52
+      - 1229.9
+    - - 360016.64
+      - 4788365.44
+      - 1229.61
+    - - 360016.67
+      - 4788365.43
+      - 1229.31
+    - - 360016.71
+      - 4788365.48
+      - 1228.79
+    - - 360016.42
+      - 4788365.42
+      - 1228.36
+    - - 360016.17
+      - 4788365.4
+      - 1228.44
+    - - 360016.11
+      - 4788365.41
+      - 1228.42
+    - - 360016.12
+      - 4788365.36
+      - 1229.03
+    - - 360014.33
+      - 4788364.06
+      - 1233.42
+    - - 360017.16
+      - 4788364.87
+      - 1229.82
+    - - 360016.6
+      - 4788364.73
+      - 1229.88
+    - - 360016.2
+      - 4788364.57
+      - 1229.71
+    - - 360016.84
+      - 4788365.78
+      - 1229.84
+    - - 360016.52
+      - 4788366.06
+      - 1229.78
+    - - 360016.16
+      - 4788366.12
+      - 1229.82
+    - - 360015.74
+      - 4788367.12
+      - 1229.85
+    - - 360016.01
+      - 4788366.43
+      - 1229.83
+    - - 360015.38
+      - 4788363.73
+      - 1229.81
+    - - 360015.44
+      - 4788364.53
+      - 1229.66
+    - - 360015.56
+      - 4788365.93
+      - 1229.59
+    - - 360015.03
+      - 4788366.84
+      - 1229.77
+    - - 360014.14
+      - 4788368.13
+      - 1229.72
+    - - 360014.02
+      - 4788368.6
+      - 1229.66
+    - - 360015.56
+      - 4788362.77
+      - 1229.46
+    643:
+    - - 360025.78
+      - 4788347.68
+      - 1256.12
+    - - 360024.58
+      - 4788346.54
+      - 1256.22
+    - - 360025.22
+      - 4788347.6
+      - 1260.43
+    - - 360025.49
+      - 4788346.94
+      - 1255.34
+    6277:
+    - - 360040.37
+      - 4788353.52
+      - 1270.97
+    - - 360039.42
+      - 4788353.81
+      - 1271.18
+    - - 360040.16
+      - 4788353.55
+      - 1271.12
+    - - 360040.92
+      - 4788353.63
+      - 1269.73
+    - - 360040.78
+      - 4788353.87
+      - 1268.91
+    8841:
+    - - 360040.73
+      - 4788355.64
+      - 1265.77
+    - - 360038.9
+      - 4788354.83
+      - 1265.99
+    - - 360042.2
+      - 4788354.61
+      - 1265.75
+    - - 360041.93
+      - 4788354.72
+      - 1267.53
+    - - 360041.5
+      - 4788354.57
+      - 1265.09
+    - - 360041.02
+      - 4788354.39
+      - 1265.09
+    - - 360040.34
+      - 4788351.97
+      - 1261.6
+    - - 360040.28
+      - 4788355.17
+      - 1265.91
+    - - 360038.79
+      - 4788353.6
+      - 1266.0
+    9360:
+    - - 360040.29
+      - 4788351.79
+      - 1257.86
+    - - 360039.91
+      - 4788350.63
+      - 1257.89
+    - - 360039.97
+      - 4788351.16
+      - 1258.21
+    - - 360040.26
+      - 4788351.55
+      - 1257.28
+    3220:
+    - - 360015.38
+      - 4788363.32
+      - 1230.2
+    - - 360016.18
+      - 4788363.15
+      - 1230.38
+    - - 360015.73
+      - 4788363.19
+      - 1231.81
+    - - 360016.13
+      - 4788363.54
+      - 1228.66
+    4757:
+    - - 360045.36
+      - 4788352.83
+      - 1259.08
+    - - 360044.29
+      - 4788352.81
+      - 1259.24
+    - - 360045.38
+      - 4788352.71
+      - 1260.7
+    - - 360044.73
+      - 4788352.61
+      - 1258.25
+    5780:
+    - - 359977.46
+      - 4788337.17
+      - 951.19
+    - - 359977.95
+      - 4788338.06
+      - 949.56
+    - - 359974.05
+      - 4788339.09
+      - 946.24
+    - - 359977.85
+      - 4788338.02
+      - 951.5
+    - - 359977.57
+      - 4788338.1
+      - 945.45
+    - - 359977.45
+      - 4788337.24
+      - 951.07
+    - - 359978.18
+      - 4788338.61
+      - 951.2
+    1183:
+    - - 360043.73
+      - 4788355.94
+      - 1265.26
+    - - 360042.07
+      - 4788356.35
+      - 1265.07
+    - - 360042.54
+      - 4788356.41
+      - 1266.32
+    - - 360042.68
+      - 4788356.23
+      - 1264.46
+    - - 360043.05
+      - 4788356.16
+      - 1265.14
+    - - 360043.32
+      - 4788356.58
+      - 1265.44
+    177:
+    - - 360023.24
+      - 4788348.12
+      - 1255.22
+    - - 360023.92
+      - 4788349.34
+      - 1255.54
+    - - 360024.3
+      - 4788349.07
+      - 1258.74
+    - - 360023.85
+      - 4788348.9
+      - 1254.84
+    5299:
+    - - 360016.78
+      - 4788375.95
+      - 1194.17
+    - - 360015.83
+      - 4788375.18
+      - 1194.66
+    - - 360015.1
+      - 4788375.27
+      - 1194.69
+    - - 360014.42
+      - 4788375.99
+      - 1194.63
+    - - 360014.59
+      - 4788376.78
+      - 1194.76
+    - - 360015.45
+      - 4788377.97
+      - 1194.68
+    - - 360015.26
+      - 4788378.66
+      - 1194.55
+    - - 360015.06
+      - 4788379.68
+      - 1194.65
+    - - 360015.83
+      - 4788381.18
+      - 1194.4
+    - - 360016.96
+      - 4788381.94
+      - 1194.41
+    - - 360017.77
+      - 4788382.2
+      - 1194.42
+    - - 360017.34
+      - 4788380.35
+      - 1194.32
+    - - 360017.26
+      - 4788377.76
+      - 1195.14
+    - - 360017.68
+      - 4788376.92
+      - 1195.03
+    - - 360017.58
+      - 4788376.26
+      - 1194.91
+    - - 360017.23
+      - 4788382.13
+      - 1194.83
+    - - 360017.23
+      - 4788382.3
+      - 1197.61
+    - - 360017.06
+      - 4788381.98
+      - 1199.98
+    - - 360016.34
+      - 4788379.49
+      - 1198.56
+    - - 360016.37
+      - 4788377.22
+      - 1194.16
+    - - 360016.43
+      - 4788376.42
+      - 1194.17
+    - - 360016.1
+      - 4788374.07
+      - 1196.73
+    - - 360015.69
+      - 4788374.53
+      - 1198.75
+    - - 360015.32
+      - 4788374.23
+      - 1200.39
+    5302:
+    - - 360011.86
+      - 4788372.29
+      - 1151.69
+    - - 360011.55
+      - 4788371.53
+      - 1151.8
+    - - 360011.12
+      - 4788370.32
+      - 1151.97
+    - - 360012.14
+      - 4788369.38
+      - 1152.07
+    - - 360013.18
+      - 4788369.76
+      - 1152.12
+    - - 360014.01
+      - 4788371.25
+      - 1152.53
+    - - 360014.12
+      - 4788372.83
+      - 1152.98
+    - - 360013.72
+      - 4788373.93
+      - 1152.2
+    - - 360011.97
+      - 4788371.85
+      - 1151.17
+    - - 360012.39
+      - 4788371.13
+      - 1151.12
+    - - 360012.91
+      - 4788372.21
+      - 1151.22
+    - - 360012.83
+      - 4788373.17
+      - 1150.94
+    - - 360012.53
+      - 4788374.34
+      - 1150.05
+    - - 360009.67
+      - 4788373.51
+      - 1152.28
+    - - 360010.39
+      - 4788374.17
+      - 1152.51
+    - - 360011.65
+      - 4788373.7
+      - 1152.58
+    - - 360012.52
+      - 4788374.91
+      - 1153.79
+    - - 360012.98
+      - 4788375.02
+      - 1153.06
+    - - 360014.24
+      - 4788374.59
+      - 1155.42
+    - - 360014.33
+      - 4788373.77
+      - 1159.26
+    9922:
+    - - 360030.33
+      - 4788348.55
+      - 1257.03
+    - - 360029.93
+      - 4788347.87
+      - 1257.13
+    - - 360029.85
+      - 4788348.36
+      - 1258.87
+    - - 360030.18
+      - 4788348.22
+      - 1255.78
+    4804:
+    - - 360014.71
+      - 4788371.89
+      - 1218.55
+    - - 360015.94
+      - 4788371.56
+      - 1218.64
+    - - 360016.44
+      - 4788372.02
+      - 1218.52
+    - - 360017.56
+      - 4788372.47
+      - 1218.44
+    - - 360017.97
+      - 4788373.11
+      - 1218.39
+    - - 360018.71
+      - 4788374.19
+      - 1218.34
+    - - 360019.49
+      - 4788374.82
+      - 1218.06
+    - - 360018.93
+      - 4788375.41
+      - 1218.24
+    - - 360014.66
+      - 4788372.53
+      - 1218.61
+    - - 360018.95
+      - 4788375.53
+      - 1218.4
+    - - 360018.63
+      - 4788376.59
+      - 1217.67
+    - - 360017.92
+      - 4788377.08
+      - 1217.73
+    - - 360018.01
+      - 4788380.92
+      - 1217.9
+    - - 360014.41
+      - 4788374.39
+      - 1218.18
+    - - 360015.31
+      - 4788375.24
+      - 1218.22
+    - - 360016.04
+      - 4788375.49
+      - 1218.19
+    - - 360016.47
+      - 4788375.71
+      - 1218.11
+    - - 360016.9
+      - 4788374.59
+      - 1222.99
+    - - 360017.84
+      - 4788375.11
+      - 1221.58
+    - - 360018.2
+      - 4788375.96
+      - 1219.45
+    - - 360018.28
+      - 4788376.57
+      - 1216.87
+    - - 360018.64
+      - 4788376.09
+      - 1214.87
+    - - 360018.11
+      - 4788376.66
+      - 1212.07
+    - - 360014.47
+      - 4788371.43
+      - 1220.66
+    - - 360014.44
+      - 4788370.65
+      - 1224.47
+    - - 360014.46
+      - 4788372.05
+      - 1217.42
+    - - 360014.46
+      - 4788372.33
+      - 1215.81
+    - - 360014.6
+      - 4788372.89
+      - 1207.8
+    6343:
+    - - 360013.31
+      - 4788354.93
+      - 1239.15
+    - - 360014.43
+      - 4788355.36
+      - 1239.03
+    - - 360014.48
+      - 4788355.21
+      - 1243.5
+    - - 360013.75
+      - 4788354.61
+      - 1236.9
+    - - 360012.99
+      - 4788354.72
+      - 1237.39
+    7879:
+    - - 360013.65
+      - 4788359.67
+      - 1230.44
+    - - 360014.42
+      - 4788359.42
+      - 1230.4
+    - - 360013.53
+      - 4788359.74
+      - 1231.36
+    - - 360013.84
+      - 4788360.26
+      - 1229.68
+    8916:
+    - - 360038.65
+      - 4788350.85
+      - 1257.16
+    - - 360039.29
+      - 4788349.99
+      - 1257.37
+    - - 360038.91
+      - 4788350.53
+      - 1257.78
+    - - 360038.8
+      - 4788350.77
+      - 1256.91
+    4308:
+    - - 360019.43
+      - 4788349.16
+      - 1256.2
+    - - 360019.3
+      - 4788349.76
+      - 1256.23
+    - - 360019.52
+      - 4788349.62
+      - 1259.29
+    - - 360017.62
+      - 4788350.27
+      - 1255.72
+    - - 360015.92
+      - 4788351.78
+      - 1252.57
+    - - 360017.63
+      - 4788350.62
+      - 1253.13
+    9941:
+    - - 360013.03
+      - 4788356.01
+      - 1232.63
+    - - 360013.29
+      - 4788355.29
+      - 1232.54
+    - - 360015.54
+      - 4788357.31
+      - 1240.39
+    - - 360013.27
+      - 4788355.72
+      - 1232.25
+    8918:
+    - - 360020.12
+      - 4788369.28
+      - 1223.3
+    - - 360017.06
+      - 4788366.65
+      - 1227.71
+    - - 360017.15
+      - 4788366.96
+      - 1227.31
+    - - 360017.44
+      - 4788367.28
+      - 1226.98
+    - - 360016.81
+      - 4788368.87
+      - 1225.97
+    - - 360017.33
+      - 4788368.74
+      - 1225.97
+    - - 360017.91
+      - 4788368.79
+      - 1225.82
+    - - 360015.86
+      - 4788368.78
+      - 1227.44
+    - - 360015.63
+      - 4788369.23
+      - 1227.36
+    - - 360015.11
+      - 4788369.49
+      - 1227.55
+    - - 360014.83
+      - 4788368.9
+      - 1228.16
+    - - 360014.6
+      - 4788368.93
+      - 1228.5
+    - - 360014.75
+      - 4788365.2
+      - 1234.17
+    - - 360014.92
+      - 4788366.47
+      - 1233.86
+    - - 360014.12
+      - 4788368.06
+      - 1234.17
+    - - 360014.63
+      - 4788368.85
+      - 1228.39
+    9952:
+    - - 360041.56
+      - 4788354.81
+      - 1265.96
+    - - 360040.6
+      - 4788355.79
+      - 1265.84
+    - - 360040.82
+      - 4788355.34
+      - 1268.27
+    - - 360041.76
+      - 4788354.98
+      - 1265.98
+    - - 360040.73
+      - 4788355.34
+      - 1265.57
+    2792:
+    - - 360019.21
+      - 4788348.62
+      - 1240.15
+    - - 360019.57
+      - 4788349.42
+      - 1240.14
+    - - 360019.35
+      - 4788348.63
+      - 1241.15
+    - - 360019.26
+      - 4788348.82
+      - 1239.96
+    9468:
+    - - 360005.9
+      - 4788371.06
+      - 1148.76
+    - - 360005.33
+      - 4788369.71
+      - 1148.57
+    - - 360005.06
+      - 4788368.78
+      - 1148.66
+    - - 360006.85
+      - 4788370.8
+      - 1148.93
+    - - 360006.72
+      - 4788369.48
+      - 1149.13
+    - - 360006.22
+      - 4788368.92
+      - 1148.94
+    4863:
+    - - 360015.53
+      - 4788378.49
+      - 1206.32
+    - - 360017.64
+      - 4788376.96
+      - 1206.17
+    - - 360017.82
+      - 4788374.61
+      - 1206.95
+    - - 360015.07
+      - 4788374.2
+      - 1207.24
+    - - 360018.52
+      - 4788375.54
+      - 1208.74
+    - - 360018.26
+      - 4788375.89
+      - 1206.05
+    - - 360018.14
+      - 4788375.66
+      - 1203.73
+    - - 360017.58
+      - 4788376.13
+      - 1199.37
+    - - 360015.37
+      - 4788375.4
+      - 1195.5
+    - - 360014.55
+      - 4788374.41
+      - 1203.67
+    - - 360013.58
+      - 4788374.05
+      - 1198.4
+    - - 360013.53
+      - 4788374.07
+      - 1198.03
+    9985:
+    - - 360043.14
+      - 4788353.37
+      - 1258.22
+    - - 360043.15
+      - 4788352.51
+      - 1258.49
+    - - 360043.25
+      - 4788352.89
+      - 1258.69
+    - - 360043.21
+      - 4788353.01
+      - 1257.87
+    8458:
+    - - 360037.58
+      - 4788349.36
+      - 1256.74
+    - - 360036.73
+      - 4788348.81
+      - 1256.41
+    - - 360036.14
+      - 4788347.76
+      - 1256.59
+    - - 360036.5
+      - 4788348.27
+      - 1256.93
+    - - 360036.78
+      - 4788348.43
+      - 1256.14
+    1806:
+    - - 360021.09
+      - 4788349.72
+      - 1255.51
+    - - 360020.45
+      - 4788350.12
+      - 1255.45
+    - - 360020.76
+      - 4788349.98
+      - 1259.79
+    - - 360020.67
+      - 4788349.45
+      - 1249.54
+    - - 360020.94
+      - 4788349.51
+      - 1254.85
+    - - 360020.49
+      - 4788349.68
+      - 1254.67
+    7967:
+    - - 360014.1
+      - 4788361.25
+      - 1230.59
+    - - 360014.9
+      - 4788361.31
+      - 1230.92
+    - - 360014.44
+      - 4788361.38
+      - 1233.45
+    - - 360013.91
+      - 4788361.96
+      - 1229.22
+    - - 360015.38
+      - 4788359.25
+      - 1238.34
+    1834:
+    - - 360031.69
+      - 4788348.6
+      - 1257.01
+    - - 360031.41
+      - 4788347.96
+      - 1257.19
+    - - 360031.4
+      - 4788348.29
+      - 1258.36
+    - - 360031.7
+      - 4788348.24
+      - 1255.97
+    298:
+    - - 360015.15
+      - 4788349.7
+      - 1240.43
+    - - 360016.5
+      - 4788352.36
+      - 1239.43
+    - - 360014.48
+      - 4788351.92
+      - 1243.66
+    - - 360015.88
+      - 4788352.09
+      - 1238.72
+    4909:
+    - - 360020.69
+      - 4788349.12
+      - 1256.2
+    - - 360020.6
+      - 4788349.86
+      - 1256.45
+    - - 360020.58
+      - 4788349.94
+      - 1258.29
+    - - 360020.61
+      - 4788349.31
+      - 1254.7
+    5934:
+    - - 360013.4
+      - 4788357.83
+      - 1232.24
+    - - 360014.14
+      - 4788356.84
+      - 1232.2
+    - - 360015.02
+      - 4788358.17
+      - 1239.02
+    - - 360013.62
+      - 4788357.68
+      - 1230.57
+    - - 360015.28
+      - 4788361.59
+      - 1237.86
+    - - 360015.1
+      - 4788360.72
+      - 1235.67
+    - - 360013.57
+      - 4788355.08
+      - 1233.47
+    10237:
+    - - 360043.23
+      - 4788357.5
+      - 1263.92
+    - - 360042.48
+      - 4788357.66
+      - 1263.87
+    - - 360042.69
+      - 4788357.98
+      - 1265.04
+    - - 360042.85
+      - 4788357.37
+      - 1263.49
+    9526:
+    - - 360029.02
+      - 4788348.81
+      - 1256.77
+    - - 360028.7
+      - 4788348.01
+      - 1256.78
+    - - 360029.19
+      - 4788348.42
+      - 1259.73
+    - - 360028.99
+      - 4788348.4
+      - 1255.41
+    - - 360029.73
+      - 4788349.56
+      - 1257.88
+    1348:
+    - - 360034.39
+      - 4788349.76
+      - 1256.37
+    - - 360033.93
+      - 4788348.8
+      - 1256.29
+    - - 360034.24
+      - 4788349.29
+      - 1256.76
+    - - 360034.41
+      - 4788349.37
+      - 1256.05
+    4933:
+    - - 360044.1
+      - 4788358.67
+      - 1261.68
+    - - 360043.92
+      - 4788359.88
+      - 1262.05
+    - - 360044.18
+      - 4788359.25
+      - 1262.15
+    - - 360043.77
+      - 4788359.15
+      - 1261.36
+    9542:
+    - - 360043.72
+      - 4788355.28
+      - 1267.36
+    - - 360043.26
+      - 4788354.4
+      - 1267.5
+    - - 360043.32
+      - 4788354.53
+      - 1268.24
+    - - 360043.5
+      - 4788354.75
+      - 1266.46
+    6990:
+    - - 360015.85
+      - 4788375.5
+      - 1152.55
+    - - 360015.73
+      - 4788375.57
+      - 1153.63
+    - - 360015.2
+      - 4788375.5
+      - 1156.14
+    - - 360015.14
+      - 4788375.78
+      - 1155.01
+    - - 360015.16
+      - 4788375.96
+      - 1153.81
+    - - 360015.12
+      - 4788376.13
+      - 1153.09
+    - - 360015.25
+      - 4788376.26
+      - 1152.31
+    - - 360015.4
+      - 4788376.07
+      - 1151.57
+    - - 360015.61
+      - 4788376.04
+      - 1150.97
+    - - 360015.78
+      - 4788375.76
+      - 1151.12
+    - - 360014.56
+      - 4788375.85
+      - 1151.83
+    - - 360013.87
+      - 4788375.7
+      - 1151.86
+    - - 360012.55
+      - 4788375.48
+      - 1151.8
+    - - 360014.63
+      - 4788377.81
+      - 1151.61
+    - - 360014.76
+      - 4788379.57
+      - 1151.92
+    - - 360015.53
+      - 4788381.37
+      - 1152.4
+    - - 360016.66
+      - 4788382.55
+      - 1152.76
+    - - 360016.38
+      - 4788377.23
+      - 1151.87
+    - - 360016.36
+      - 4788376.17
+      - 1151.92
+    - - 360016.22
+      - 4788375.7
+      - 1151.96
+    - - 360015.01
+      - 4788375.13
+      - 1151.91
+    - - 360014.07
+      - 4788375.39
+      - 1151.94
+    1878:
+    - - 359979.33
+      - 4788343.61
+      - 943.08
+    - - 359978.63
+      - 4788344.19
+      - 943.01
+    - - 359979.01
+      - 4788343.88
+      - 943.46
+    - - 359979.3
+      - 4788343.81
+      - 939.72
+    2399:
+    - - 360013.86
+      - 4788379.77
+      - 1185.24
+    - - 360014.56
+      - 4788380.84
+      - 1185.03
+    - - 360013.56
+      - 4788383.01
+      - 1184.67
+    - - 360015.31
+      - 4788383.37
+      - 1184.47
+    - - 360017.72
+      - 4788381.97
+      - 1184.93
+    - - 360018.38
+      - 4788380.06
+      - 1185.46
+    - - 360015.41
+      - 4788377.26
+      - 1185.67
+    - - 360016.02
+      - 4788376.51
+      - 1185.75
+    - - 360016.81
+      - 4788377.72
+      - 1185.84
+    - - 360017.56
+      - 4788378.52
+      - 1186.01
+    - - 360018.39
+      - 4788380.13
+      - 1186.1
+    - - 360015.52
+      - 4788377.16
+      - 1189.61
+    - - 360015.6
+      - 4788376.93
+      - 1186.6
+    - - 360015.75
+      - 4788376.69
+      - 1182.21
+    - - 360015.53
+      - 4788377.74
+      - 1182.2
+    - - 360019.32
+      - 4788383.78
+      - 1167.02
+    - - 360020.26
+      - 4788384.03
+      - 1172.27
+    - - 360017.56
+      - 4788381.61
+      - 1181.39
+    - - 360017.84
+      - 4788381.85
+      - 1185.55
+    - - 360017.87
+      - 4788382.47
+      - 1189.35
+    - - 360017.24
+      - 4788382.71
+      - 1194.87
+    - - 360016.63
+      - 4788381.61
+      - 1195.64
+    888:
+    - - 360018.38
+      - 4788381.91
+      - 1152.23
+    - - 360018.48
+      - 4788382.09
+      - 1152.71
+    - - 360020.44
+      - 4788383.61
+      - 1153.53
+    - - 360021.4
+      - 4788383.45
+      - 1157.25
+    - - 360022.16
+      - 4788382.8
+      - 1161.91
+    - - 360022.02
+      - 4788382.14
+      - 1167.94
+    - - 360015.24
+      - 4788377.89
+      - 1158.49
+    - - 360015.53
+      - 4788377.33
+      - 1165.86
+    - - 360006.68
+      - 4788381.09
+      - 1175.93
+    4985:
+    - - 360007.76
+      - 4788373.11
+      - 1148.7
+    - - 360007.3
+      - 4788372.26
+      - 1148.54
+    - - 360006.57
+      - 4788370.11
+      - 1148.62
+    - - 360005.76
+      - 4788370.92
+      - 1148.63
+    - - 360006.64
+      - 4788372.8
+      - 1148.64
+    - - 360007.31
+      - 4788373.85
+      - 1148.72
+    - - 360007.62
+      - 4788374.5
+      - 1148.75
+    - - 360008.64
+      - 4788375.6
+      - 1149.16
+    - - 360008.96
+      - 4788375.09
+      - 1149.08
+    - - 360008.8
+      - 4788374.08
+      - 1148.66
+    - - 360009.65
+      - 4788372.09
+      - 1152.96
+    - - 360008.84
+      - 4788370.92
+      - 1152.7
+    - - 360008.23
+      - 4788370.58
+      - 1152.11
+    3454:
+    - - 360019.19
+      - 4788348.92
+      - 1240.73
+    - - 360019.6
+      - 4788348.89
+      - 1251.68
+    - - 360018.99
+      - 4788349.44
+      - 1251.82
+    - - 360019.41
+      - 4788348.95
+      - 1254.18
+    3459:
+    - - 360027.17
+      - 4788347.37
+      - 1256.74
+    - - 360027.14
+      - 4788346.59
+      - 1256.93
+    - - 360027.34
+      - 4788347.78
+      - 1259.97
+    - - 360027.47
+      - 4788347.74
+      - 1258.79
+    - - 360026.99
+      - 4788347.12
+      - 1255.53
+    4493:
+    - - 359973.97
+      - 4788339.52
+      - 946.25
+    - - 359977.51
+      - 4788336.92
+      - 946.05
+    - - 359974.37
+      - 4788339.17
+      - 946.04
+    - - 359974.51
+      - 4788339.51
+      - 949.56
+    - - 359974.31
+      - 4788340.42
+      - 944.6
+    - - 359974.32
+      - 4788341.18
+      - 943.57
+    - - 359974.65
+      - 4788340.74
+      - 945.81
+    - - 359973.9
+      - 4788337.49
+      - 946.19
+    - - 359974.4
+      - 4788339.22
+      - 947.93
+    - - 359974.44
+      - 4788339.27
+      - 945.06
+    5520:
+    - - 359981.93
+      - 4788344.64
+      - 939.4
+    - - 359982.5
+      - 4788344.15
+      - 939.45
+    - - 359982.33
+      - 4788344.66
+      - 942.75
+    - - 359982.4
+      - 4788344.23
+      - 937.83
+    - - 359983.3
+      - 4788344.15
+      - 938.91
+    - - 359982.18
+      - 4788344.45
+      - 939.38
+    - - 359982.38
+      - 4788344.16
+      - 939.46
+    - - 359982.26
+      - 4788344.39
+      - 939.9
+    - - 359982.48
+      - 4788344.14
+      - 938.29
+    7091:
+    - - 360043.65
+      - 4788361.91
+      - 1268.11
+    - - 360045.16
+      - 4788362.24
+      - 1268.69
+    - - 360043.85
+      - 4788361.69
+      - 1268.92
+    - - 360043.26
+      - 4788361.96
+      - 1267.52
+    - - 360041.77
+      - 4788361.94
+      - 1264.17
+    3508:
+    - - 360009.98
+      - 4788373.38
+      - 1149.06
+    - - 360009.95
+      - 4788373.14
+      - 1149.81
+    - - 360009.9
+      - 4788373.54
+      - 1149.45
+    - - 360010.29
+      - 4788372.9
+      - 1153.25
+    - - 360010.05
+      - 4788372.54
+      - 1151.61
+    - - 360010.13
+      - 4788372.09
+      - 1150.96
+    - - 360009.75
+      - 4788372.23
+      - 1150.26
+    - - 360009.89
+      - 4788372.06
+      - 1149.59
+    - - 360009.85
+      - 4788371.94
+      - 1149.06
+    - - 360009.86
+      - 4788372.57
+      - 1148.66
+    - - 360013.17
+      - 4788371.7
+      - 1158.38
+    - - 360009.33
+      - 4788371.39
+      - 1152.99
+    - - 360008.12
+      - 4788373.22
+      - 1148.7
+    - - 360008.84
+      - 4788372.9
+      - 1148.76
+    - - 360008.58
+      - 4788372.5
+      - 1148.78
+    - - 360007.48
+      - 4788371.98
+      - 1148.07
+    - - 360007.49
+      - 4788370.93
+      - 1149.29
+    - - 360008.27
+      - 4788370.24
+      - 1149.08
+    - - 360010.92
+      - 4788371.75
+      - 1149.96
+    - - 360011.56
+      - 4788372.13
+      - 1149.73
+    449:
+    - - 360014.19
+      - 4788362.74
+      - 1230.88
+    - - 360014.64
+      - 4788361.9
+      - 1231.02
+    - - 360013.89
+      - 4788362.07
+      - 1233.6
+    - - 360014.86
+      - 4788362.29
+      - 1229.39
+    8651:
+    - - 360016.81
+      - 4788350.28
+      - 1240.81
+    - - 360017.68
+      - 4788351.88
+      - 1241.5
+    - - 360015.45
+      - 4788351.22
+      - 1251.08
+    - - 360016.88
+      - 4788351.09
+      - 1240.0
+    9677:
+    - - 360017.95
+      - 4788348.37
+      - 1240.64
+    - - 360015.31
+      - 4788350.83
+      - 1240.58
+    - - 360015.93
+      - 4788348.31
+      - 1245.71
+    - - 360014.6
+      - 4788349.54
+      - 1237.04
+    - - 360021.09
+      - 4788350.15
+      - 1241.77
+    - - 360021.01
+      - 4788350.81
+      - 1243.27
+    - - 360021.01
+      - 4788349.46
+      - 1239.49
+    1997:
+    - - 360012.94
+      - 4788375.67
+      - 1151.54
+    - - 360012.08
+      - 4788375.03
+      - 1151.34
+    - - 360011.54
+      - 4788374.12
+      - 1151.72
+    - - 360013.47
+      - 4788374.32
+      - 1151.83
+    - - 360013.55
+      - 4788375.23
+      - 1151.56
+    - - 360014.4
+      - 4788375.74
+      - 1155.36
+    - - 360013.71
+      - 4788374.94
+      - 1155.14
+    - - 360012.93
+      - 4788375.08
+      - 1150.78
+    - - 360013.65
+      - 4788375.5
+      - 1150.84
+    2511:
+    - - 359979.24
+      - 4788343.75
+      - 947.23
+    - - 359978.69
+      - 4788344.12
+      - 947.11
+    - - 359979.14
+      - 4788343.95
+      - 948.87
+    - - 359978.96
+      - 4788343.77
+      - 944.7
+    - - 359978.74
+      - 4788343.72
+      - 946.99
+    4564:
+    - - 360040.23
+      - 4788354.16
+      - 1270.05
+    - - 360039.29
+      - 4788354.57
+      - 1270.14
+    - - 360040.1
+      - 4788354.14
+      - 1270.21
+    - - 360040.08
+      - 4788354.72
+      - 1269.42
+    10197:
+    - - 360020.06
+      - 4788349.22
+      - 1256.38
+    - - 360020.16
+      - 4788349.78
+      - 1256.32
+    - - 360019.48
+      - 4788349.53
+      - 1260.53
+    - - 360019.44
+      - 4788348.92
+      - 1250.79
+    - - 360020.13
+      - 4788349.57
+      - 1255.13
+    - - 360019.96
+      - 4788349.24
+      - 1254.99
+    1507:
+    - - 360035.78
+      - 4788350.06
+      - 1256.63
+    - - 360034.88
+      - 4788349.41
+      - 1256.73
+    - - 360035.54
+      - 4788349.74
+      - 1256.92
+    - - 360035.8
+      - 4788349.34
+      - 1256.21
+    4080:
+    - - 359984.57
+      - 4788345.83
+      - 938.79
+    - - 359984.4
+      - 4788345.55
+      - 938.92
+    - - 359984.59
+      - 4788345.71
+      - 939.24
+    - - 359985.13
+      - 4788345.38
+      - 935.41
+    1009:
+    - - 360050.17
+      - 4788358.14
+      - 1260.83
+    - - 360050.12
+      - 4788357.5
+      - 1261.01
+    - - 360050.09
+      - 4788357.76
+      - 1261.14
+    - - 360050.16
+      - 4788357.9
+      - 1260.68
+    4090:
+    - - 360043.72
+      - 4788355.51
+      - 1267.84
+    - - 360041.69
+      - 4788355.81
+      - 1267.66
+    - - 360043.11
+      - 4788355.06
+      - 1269.63
+    - - 360043.1
+      - 4788356.1
+      - 1265.04
+    9727:
+    - - 360023.59
+      - 4788346.87
+      - 1256.14
+    - - 360024.47
+      - 4788346.17
+      - 1256.15
+    - - 360025.11
+      - 4788346.58
+      - 1260.3
+    - - 360024.57
+      - 4788346.16
+      - 1255.83
+    - - 360022.95
+      - 4788346.2
+      - 1259.86
+    - - 360025.82
+      - 4788346.55
+      - 1260.08
+    - - 360025.14
+      - 4788346.51
+      - 1259.94
+    - - 360024.8
+      - 4788347.0
+      - 1257.07
+    - - 360025.12
+      - 4788347.78
+      - 1256.16
+    - - 360024.89
+      - 4788348.14
+      - 1256.23
+    - - 360025.92
+      - 4788347.57
+      - 1256.0
+    - - 360023.81
+      - 4788346.95
+      - 1256.29
+  idsql:
+    2561:
+    - 2690
+    1539:
+    - 2059
+    3076:
+    - 1865
+    5:
+    - 2674
+    7686:
+    - 2481
+    9:
+    - 2552
+    4620:
+    - 2179
+    3602:
+    - 2124
+    9748:
+    - 2065
+    5652:
+    - 2695
+    7705:
+    - 1868
+    6171:
+    - 2060
+    7708:
+    - 2675
+    4126:
+    - 2597
+    7712:
+    - 1859
+    3616:
+    - 2037
+    8736:
+    - 2513
+    1573:
+    - 2641
+    4646:
+    - 2518
+    1065:
+    - 1968
+    8233:
+    - 2676
+    5677:
+    - 2520
+    46:
+    - 2515
+    1584:
+    - 2522
+    1586:
+    - 2682
+    5171:
+    - 2043
+    7732:
+    - 2563
+    4659:
+    - 2594
+    7227:
+    - 2048
+    7740:
+    - 2548
+    6716:
+    - 2606
+    6204:
+    - 2664
+    4162:
+    - 2579
+    4166:
+    - 2025
+    6215:
+    - 2549
+    9287:
+    - 2555
+    2122:
+    - 2521
+    6732:
+    - 2255
+    8782:
+    - 2677
+    8784:
+    - 2679
+    3671:
+    - 2538
+    601:
+    - 2643
+    9306:
+    - 2631
+    2652:
+    - 2626
+    2655:
+    - 2653
+    608:
+    - 2510
+    3680:
+    - 2533
+    4193:
+    - 2545
+    6757:
+    - 1862
+    9832:
+    - 1872
+    6248:
+    - 2566
+    1130:
+    - 2575
+    1131:
+    - 1861
+    8812:
+    - 2645
+    6767:
+    - 2692
+    4720:
+    - 1973
+    3184:
+    - 2571
+    4210:
+    - 2559
+    8307:
+    - 2227
+    1142:
+    - 2630
+    3191:
+    - 2182
+    8312:
+    - 2654
+    1661:
+    - 2642
+    8321:
+    - 2540
+    6785:
+    - 2661
+    643:
+    - 1877
+    9860:
+    - 2689
+    6277:
+    - 2173
+    1160:
+    - 2504
+    8841:
+    - 1856
+    9864:
+    - 2572
+    3723:
+    - 2554
+    2698:
+    - 2599
+    3215:
+    - 2542
+    9360:
+    - 1866
+    2705:
+    - 2656
+    5778:
+    - 2652
+    9363:
+    - 2553
+    3220:
+    - 2164
+    4757:
+    - 1863
+    5781:
+    - 2505
+    5780:
+    - 2600
+    9368:
+    - 2591
+    4763:
+    - 2498
+    4764:
+    - 2523
+    9371:
+    - 2551
+    3741:
+    - 2584
+    1183:
+    - 1857
+    5280:
+    - 2543
+    6303:
+    - 2578
+    2721:
+    - 2633
+    8867:
+    - 2657
+    2210:
+    - 2684
+    165:
+    - 2601
+    1191:
+    - 2536
+    5289:
+    - 2627
+    173:
+    - 2556
+    2734:
+    - 2532
+    177:
+    - 1879
+    5299:
+    - 2327
+    1716:
+    - 2564
+    7349:
+    - 2673
+    5302:
+    - 2418
+    1211:
+    - 2685
+    4801:
+    - 2598
+    9922:
+    - 1874
+    6339:
+    - 2582
+    4804:
+    - 2285
+    196:
+    - 2501
+    6343:
+    - 2129
+    7879:
+    - 2148
+    2761:
+    - 2541
+    714:
+    - 2636
+    5831:
+    - 2648
+    209:
+    - 2512
+    8916:
+    - 1867
+    4308:
+    - 2089
+    9941:
+    - 2135
+    8918:
+    - 2210
+    7895:
+    - 2667
+    9952:
+    - 1855
+    2792:
+    - 2109
+    7401:
+    - 2617
+    5865:
+    - 2621
+    9963:
+    - 2558
+    7404:
+    - 1959
+    9453:
+    - 2625
+    6387:
+    - 2587
+    9463:
+    - 2688
+    3323:
+    - 2550
+    9468:
+    - 2474
+    4349:
+    - 2531
+    8957:
+    - 2604
+    4863:
+    - 2314
+    1791:
+    - 2534
+    9985:
+    - 1864
+    8956:
+    - 2671
+    4868:
+    - 2546
+    4361:
+    - 2589
+    8458:
+    - 1869
+    3341:
+    - 2527
+    1806:
+    - 2070
+    7437:
+    - 2547
+    1294:
+    - 2611
+    6928:
+    - 2662
+    2322:
+    - 2670
+    3347:
+    - 2596
+    3349:
+    - 2544
+    2837:
+    - 2678
+    5404:
+    - 2683
+    7966:
+    - 2619
+    7967:
+    - 2153
+    5919:
+    - 2516
+    6433:
+    - 2586
+    6435:
+    - 2497
+    3878:
+    - 2528
+    1834:
+    - 1873
+    298:
+    - 2119
+    2860:
+    - 2581
+    4909:
+    - 2077
+    5934:
+    - 2140
+    2863:
+    - 2496
+    10237:
+    - 1858
+    1842:
+    - 2666
+    2357:
+    - 2038
+    9526:
+    - 1875
+    6966:
+    - 2612
+    309:
+    - 2635
+    313:
+    - 2686
+    4925:
+    - 2660
+    7998:
+    - 2539
+    4927:
+    - 2618
+    832:
+    - 2655
+    3907:
+    - 2638
+    1348:
+    - 1871
+    4933:
+    - 1860
+    9542:
+    - 2032
+    7494:
+    - 2524
+    5959:
+    - 2590
+    3908:
+    - 2649
+    1861:
+    - 2651
+    3916:
+    - 2530
+    6990:
+    - 2385
+    6479:
+    - 2669
+    848:
+    - 2535
+    7507:
+    - 2623
+    1878:
+    - 2607
+    5463:
+    - 2565
+    3928:
+    - 2629
+    3929:
+    - 2615
+    7002:
+    - 2576
+    6492:
+    - 2180
+    860:
+    - 2507
+    4444:
+    - 2573
+    2399:
+    - 2352
+    9056:
+    - 2562
+    1382:
+    - 1960
+    8038:
+    - 2506
+    4967:
+    - 2577
+    1896:
+    - 2622
+    8040:
+    - 2693
+    3950:
+    - 2595
+    7536:
+    - 2511
+    881:
+    - 2574
+    4977:
+    - 2580
+    7024:
+    - 2646
+    2932:
+    - 2508
+    888:
+    - 2375
+    4985:
+    - 2460
+    3960:
+    - 2499
+    3450:
+    - 2644
+    9596:
+    - 2583
+    3964:
+    - 2658
+    3454:
+    - 2096
+    3968:
+    - 2668
+    8066:
+    - 2639
+    3459:
+    - 1876
+    4486:
+    - 2526
+    1926:
+    - 2632
+    4492:
+    - 2561
+    4493:
+    - 2603
+    5520:
+    - 2608
+    7060:
+    - 2609
+    7061:
+    - 2181
+    4502:
+    - 2529
+    10135:
+    - 2588
+    3992:
+    - 2592
+    1942:
+    - 2634
+    6042:
+    - 2500
+    5018:
+    - 2624
+    3476:
+    - 2637
+    1945:
+    - 2672
+    2974:
+    - 2628
+    424:
+    - 2593
+    6569:
+    - 2616
+    10155:
+    - 2570
+    5548:
+    - 2663
+    2992:
+    - 2567
+    7091:
+    - 2053
+    3508:
+    - 2439
+    7093:
+    - 2509
+    4532:
+    - 2613
+    7612:
+    - 2514
+    2492:
+    - 2620
+    445:
+    - 2647
+    9663:
+    - 2517
+    449:
+    - 2159
+    3009:
+    - 2519
+    962:
+    - 2560
+    8651:
+    - 2114
+    3020:
+    - 2687
+    9677:
+    - 2101
+    1997:
+    - 2408
+    2511:
+    - 2605
+    8141:
+    - 2650
+    4561:
+    - 2681
+    4559:
+    - 2691
+    4564:
+    - 1854
+    10197:
+    - 2082
+    7636:
+    - 2694
+    983:
+    - 2568
+    984:
+    - 1979
+    9691:
+    - 2602
+    1507:
+    - 1870
+    2531:
+    - 2525
+    8678:
+    - 2585
+    10215:
+    - 2503
+    5609:
+    - 2614
+    1002:
+    - 2569
+    9196:
+    - 2659
+    7150:
+    - 2665
+    8175:
+    - 2557
+    4080:
+    - 2610
+    1009:
+    - 1978
+    3570:
+    - 2537
+    10231:
+    - 2640
+    4090:
+    - 2020
+    9212:
+    - 2680
+    1021:
+    - 2502
+    9727:
+    - 1878
+  flags:
+    2561:
+    - fix
+    1539:
+    - fix
+    3076:
+    - fix
+    5:
+    - fix
+    7686:
+    - fix
+    9:
+    - fix
+    4620:
+    - fix
+    3602:
+    - fix
+    9748:
+    - fix
+    5652:
+    - fix
+    7705:
+    - fix
+    6171:
+    - fix
+    7708:
+    - fix
+    4126:
+    - fix
+    7712:
+    - fix
+    3616:
+    - fix
+    8736:
+    - fix
+    1573:
+    - fix
+    4646:
+    - fix
+    1065:
+    - fix
+    8233:
+    - fix
+    5677:
+    - fix
+    46:
+    - fix
+    1584:
+    - fix
+    1586:
+    - fix
+    5171:
+    - fix
+    7732:
+    - fix
+    4659:
+    - fix
+    7227:
+    - fix
+    7740:
+    - fix
+    6716:
+    - fix
+    6204:
+    - fix
+    4162:
+    - fix
+    4166:
+    - fix
+    6215:
+    - fix
+    9287:
+    - fix
+    2122:
+    - fix
+    6732:
+    - fix
+    8782:
+    - fix
+    8784:
+    - fix
+    3671:
+    - fix
+    601:
+    - fix
+    9306:
+    - fix
+    2652:
+    - fix
+    2655:
+    - fix
+    608:
+    - fix
+    3680:
+    - fix
+    4193:
+    - fix
+    6757:
+    - fix
+    9832:
+    - fix
+    6248:
+    - fix
+    1130:
+    - fix
+    1131:
+    - fix
+    8812:
+    - fix
+    6767:
+    - fix
+    4720:
+    - fix
+    3184:
+    - fix
+    4210:
+    - fix
+    8307:
+    - fix
+    1142:
+    - fix
+    3191:
+    - fix
+    8312:
+    - fix
+    1661:
+    - fix
+    8321:
+    - fix
+    6785:
+    - fix
+    643:
+    - fix
+    9860:
+    - fix
+    6277:
+    - fix
+    1160:
+    - fix
+    8841:
+    - fix
+    9864:
+    - fix
+    3723:
+    - fix
+    2698:
+    - fix
+    3215:
+    - fix
+    9360:
+    - fix
+    2705:
+    - fix
+    5778:
+    - fix
+    9363:
+    - fix
+    3220:
+    - fix
+    4757:
+    - fix
+    5781:
+    - fix
+    5780:
+    - fix
+    9368:
+    - fix
+    4763:
+    - fix
+    4764:
+    - fix
+    9371:
+    - fix
+    3741:
+    - fix
+    1183:
+    - fix
+    5280:
+    - fix
+    6303:
+    - fix
+    2721:
+    - fix
+    8867:
+    - fix
+    2210:
+    - fix
+    165:
+    - fix
+    1191:
+    - fix
+    5289:
+    - fix
+    173:
+    - fix
+    2734:
+    - fix
+    177:
+    - fix
+    5299:
+    - fix
+    1716:
+    - fix
+    7349:
+    - fix
+    5302:
+    - fix
+    1211:
+    - fix
+    4801:
+    - fix
+    9922:
+    - fix
+    6339:
+    - fix
+    4804:
+    - fix
+    196:
+    - fix
+    6343:
+    - fix
+    7879:
+    - fix
+    2761:
+    - fix
+    714:
+    - fix
+    5831:
+    - fix
+    209:
+    - fix
+    8916:
+    - fix
+    4308:
+    - fix
+    9941:
+    - fix
+    8918:
+    - fix
+    7895:
+    - fix
+    9952:
+    - fix
+    2792:
+    - fix
+    7401:
+    - fix
+    5865:
+    - fix
+    9963:
+    - fix
+    7404:
+    - fix
+    9453:
+    - fix
+    6387:
+    - fix
+    9463:
+    - fix
+    3323:
+    - fix
+    9468:
+    - fix
+    4349:
+    - fix
+    8957:
+    - fix
+    4863:
+    - fix
+    1791:
+    - fix
+    9985:
+    - fix
+    8956:
+    - fix
+    4868:
+    - fix
+    4361:
+    - fix
+    8458:
+    - fix
+    3341:
+    - fix
+    1806:
+    - fix
+    7437:
+    - fix
+    1294:
+    - fix
+    6928:
+    - fix
+    2322:
+    - fix
+    3347:
+    - fix
+    3349:
+    - fix
+    2837:
+    - fix
+    5404:
+    - fix
+    7966:
+    - fix
+    7967:
+    - fix
+    5919:
+    - fix
+    6433:
+    - fix
+    6435:
+    - fix
+    3878:
+    - fix
+    1834:
+    - fix
+    298:
+    - fix
+    2860:
+    - fix
+    4909:
+    - fix
+    5934:
+    - fix
+    2863:
+    - fix
+    10237:
+    - fix
+    1842:
+    - fix
+    2357:
+    - fix
+    9526:
+    - fix
+    6966:
+    - fix
+    309:
+    - fix
+    313:
+    - fix
+    4925:
+    - fix
+    7998:
+    - fix
+    4927:
+    - fix
+    832:
+    - fix
+    3907:
+    - fix
+    1348:
+    - fix
+    4933:
+    - fix
+    9542:
+    - fix
+    7494:
+    - fix
+    5959:
+    - fix
+    3908:
+    - fix
+    1861:
+    - fix
+    3916:
+    - fix
+    6990:
+    - fix
+    6479:
+    - fix
+    848:
+    - fix
+    7507:
+    - fix
+    1878:
+    - fix
+    5463:
+    - fix
+    3928:
+    - fix
+    3929:
+    - fix
+    7002:
+    - fix
+    6492:
+    - fix
+    860:
+    - fix
+    4444:
+    - fix
+    2399:
+    - fix
+    9056:
+    - fix
+    1382:
+    - fix
+    8038:
+    - fix
+    4967:
+    - fix
+    1896:
+    - fix
+    8040:
+    - fix
+    3950:
+    - fix
+    7536:
+    - fix
+    881:
+    - fix
+    4977:
+    - fix
+    7024:
+    - fix
+    2932:
+    - fix
+    888:
+    - fix
+    4985:
+    - fix
+    3960:
+    - fix
+    3450:
+    - fix
+    9596:
+    - fix
+    3964:
+    - fix
+    3454:
+    - fix
+    3968:
+    - fix
+    8066:
+    - fix
+    3459:
+    - fix
+    4486:
+    - fix
+    1926:
+    - fix
+    4492:
+    - fix
+    4493:
+    - fix
+    5520:
+    - fix
+    7060:
+    - fix
+    7061:
+    - fix
+    4502:
+    - fix
+    10135:
+    - fix
+    3992:
+    - fix
+    1942:
+    - fix
+    6042:
+    - fix
+    5018:
+    - fix
+    3476:
+    - fix
+    1945:
+    - fix
+    2974:
+    - fix
+    424:
+    - fix
+    6569:
+    - fix
+    10155:
+    - fix
+    5548:
+    - fix
+    2992:
+    - fix
+    7091:
+    - fix
+    3508:
+    - fix
+    7093:
+    - fix
+    4532:
+    - fix
+    7612:
+    - fix
+    2492:
+    - fix
+    445:
+    - fix
+    9663:
+    - fix
+    449:
+    - fix
+    3009:
+    - fix
+    962:
+    - fix
+    8651:
+    - fix
+    3020:
+    - fix
+    9677:
+    - fix
+    1997:
+    - fix
+    2511:
+    - fix
+    8141:
+    - fix
+    4561:
+    - fix
+    4559:
+    - fix
+    4564:
+    - fix
+    10197:
+    - fix
+    7636:
+    - fix
+    983:
+    - fix
+    984:
+    - fix
+    9691:
+    - fix
+    1507:
+    - fix
+    2531:
+    - fix
+    8678:
+    - fix
+    10215:
+    - fix
+    5609:
+    - fix
+    1002:
+    - fix
+    9196:
+    - fix
+    7150:
+    - fix
+    8175:
+    - fix
+    4080:
+    - fix
+    1009:
+    - fix
+    3570:
+    - fix
+    10231:
+    - fix
+    4090:
+    - fix
+    9212:
+    - fix
+    1021:
+    - fix
+    9727:
+    - fix
+  csdim:
+    1539:
+    - 0.92
+    - 1.45
+    3076:
+    - 0.47
+    - 0.87
+    3602:
+    - 1.37
+    - 8.82
+    9748:
+    - 0.56
+    - 1.67
+    7705:
+    - 0.29
+    - 0.86
+    7712:
+    - 0.62
+    - 2.12
+    3616:
+    - 1.23
+    - 3.42
+    1065:
+    - 0.32
+    - 2.16
+    5171:
+    - 0.6
+    - 1.9
+    7227:
+    - 0.58
+    - 2.83
+    6716:
+    - 1.78
+    - 1.97
+    4166:
+    - 1.87
+    - 2.35
+    6757:
+    - 1.1
+    - 1.1
+    9832:
+    - 0.41
+    - 1.3
+    1131:
+    - 0.33
+    - 1.38
+    4720:
+    - 0.55
+    - 1.48
+    643:
+    - 1.45
+    - 4.41
+    6277:
+    - 1.37
+    - 2.26
+    8841:
+    - 1.81
+    - 1.81
+    9360:
+    - 0.89
+    - 0.94
+    3220:
+    - 0.39
+    - 1.39
+    4757:
+    - 0.93
+    - 0.93
+    5780:
+    - 2.36
+    - 2.36
+    1183:
+    - 1.07
+    - 1.35
+    177:
+    - 0.67
+    - 3.57
+    9922:
+    - 0.48
+    - 2.98
+    6343:
+    - 1.58
+    - 3.76
+    7879:
+    - 0.58
+    - 1.24
+    8916:
+    - 0.33
+    - 0.74
+    4308:
+    - 3.87
+    - 6.2
+    9941:
+    - 1.62
+    - 4.71
+    9952:
+    - 1.02
+    - 2.28
+    2792:
+    - 0.88
+    - 0.82
+    9985:
+    - 0.16
+    - 0.67
+    8458:
+    - 1.08
+    - 0.82
+    1806:
+    - 0.48
+    - 9.48
+    7967:
+    - 1.91
+    - 4.24
+    1834:
+    - 0.39
+    - 2.23
+    298:
+    - 2.3
+    - 3.82
+    4909:
+    - 0.44
+    - 3.57
+    5934:
+    - 4.75
+    - 3.07
+    10237:
+    - 0.42
+    - 1.1
+    9526:
+    - 1.53
+    - 3.85
+    1348:
+    - 0.53
+    - 0.87
+    4933:
+    - 0.91
+    - 0.82
+    9542:
+    - 0.32
+    - 1.41
+    1878:
+    - 0.84
+    - 3.73
+    3454:
+    - 0.32
+    - 13.45
+    3459:
+    - 0.63
+    - 4.14
+    4493:
+    - 4.92
+    - 4.62
+    5520:
+    - 1.32
+    - 3.29
+    7091:
+    - 1.72
+    - 3.78
+    449:
+    - 0.74
+    - 1.06
+    8651:
+    - 1.56
+    - 6.23
+    9677:
+    - 6.53
+    - 8.72
+    2511:
+    - 0.58
+    - 3.19
+    4564:
+    - 0.72
+    - 0.8
+    10197:
+    - 0.75
+    - 9.64
+    1507:
+    - 0.88
+    - 0.6
+    4080:
+    - 0.75
+    - 1.58
+    1009:
+    - 0.64
+    - 0.15
+    4090:
+    - 1.75
+    - 1.75
+    9727:
+    - 2.59
+    - 4.44

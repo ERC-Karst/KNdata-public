@@ -1,0 +1,57 @@
+id_dataset: 049
+short_name: Cochon
+id_subset: '000'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: 'Karst3D Team (2019). KARST3D. OSU OREME. (Collection). DOI: 10.15148/940C2882-49F1-49DB-A97E-12303CACE752'
+thanks: .nan
+sharing_conditions: .nan
+total_length: 4286
+total_depth: 178.49
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 843
+number_edges: 848
+mean_degree: 2.06
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.532
+number_cycles: 6
+mean_length: 25.52
+cv_length: 1.34
+length_entropy: 0.34
+orientation_3d_entropy: 0.931
+aspl: 14.8
+cpd: 0.541
+correlation_vertex_degree: -0.307
+original_format: Therion
+comments_cave_info: .nan
+full_name: Cochon
+geometry: lrud
+units: meter
+country: France
+state: Hérault
+area: Causse du Larzac
+locality: Saint-Pierre-de-la-Fage
+grotto_id: '21594'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:2154
+latitude: 43.8024
+longitude: 3.4196
+altitude: '647'
+cave_url: https://grottocenter.org/ui/entrances/21594
+supplemental_links: https://larzacexploceladon.fr/index.php/2021/03/02/aven-du-cochon-une-galerie-en-hommage-a-henri-paloc/
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

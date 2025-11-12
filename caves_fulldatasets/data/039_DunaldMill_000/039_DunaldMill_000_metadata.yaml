@@ -1,0 +1,58 @@
+id_dataset: 039
+short_name: DunaldMill
+id_subset: '000'
+status: clean
+type_of_correction: automatic correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: UK Cave Registry. (2024). Cave survey [Creative Commons BY-NC-SA 4.0 dataset].
+  https://cave-registry.org.uk
+thanks: .nan
+sharing_conditions: .nan
+total_length: 260
+total_depth: 24.0
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 62
+number_edges: 61
+mean_degree: 1.78
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.676
+number_cycles: 0
+mean_length: 32.52
+cv_length: 1.36
+length_entropy: 0.47
+orientation_3d_entropy: 0.665
+aspl: 2.33
+cpd: 0.67
+correlation_vertex_degree: -0.5
+original_format: Survex
+comments_cave_info: .nan
+full_name: Morecambe Bay
+geometry: .nan
+units: meter
+country: UK
+state: Lancashire
+area: Morecambe Bay
+locality: Nether Kellet
+grotto_id: /
+country_cave_id: SD51596762 (North Cavern Caves)
+local_id: .nan
+local_coordinate_system: EPSG:27700
+latitude: 54.1021
+longitude: -2.7417
+altitude: '86'
+cave_url: https://northerncaves.co.uk/caves/details.php?id=2070
+supplemental_links: http://cavemaps.org/cavePages/Morecambe%20Bay__Dunald%20Mill%20Hole.htm
+data_reception_date: '2023'
+data_received_by: Celia
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://cave-registry.org.uk
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

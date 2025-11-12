@@ -1,0 +1,57 @@
+id_dataset: '010'
+short_name: PlaninaPoljana
+id_subset: '001'
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: .nan
+thanks: .nan
+sharing_conditions: .nan
+total_length: 8409
+total_depth: 605.23
+percentage_csdim: 91
+number_connected_components: 1
+number_nodes: 1600
+number_edges: 1619
+mean_degree: 2.12
+min_degree: 1.0
+max_degree: 8.0
+cv_degree: 0.519
+number_cycles: 20
+mean_length: 25.64
+cv_length: 1.26
+length_entropy: 0.44
+orientation_3d_entropy: 0.946
+aspl: 19.97
+cpd: 0.445
+correlation_vertex_degree: -0.307
+original_format: Survex
+comments_cave_info: using the .3d to prevent the issue of splays being ignored
+full_name: Planina Poljana
+geometry: splays
+units: meter
+country: Slovenia
+state: Radovljica
+area: Veliki Raskovec
+locality: Polje
+grotto_id: /
+country_cave_id: 13488 (Prašni dol) / 13465 (Mravlji dol) / 14664 (Dlvn) / 15323 (Koala)
+local_id: .nan
+local_coordinate_system: EPSG:3912
+latitude: 46.1451
+longitude: 13.5248
+altitude: '1256'
+cave_url: https://www.katasterjam.si/caves/13488
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

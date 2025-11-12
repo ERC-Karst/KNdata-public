@@ -1,0 +1,1394 @@
+metadata:
+  id_dataset: 018
+  short_name: Lathkill
+  id_subset: '004'
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "University of Bristol Spel\xE6ological Society. (1919). The River Lathkill\
+    \ Catchment Area Cave Survey [Creative Commons BY-NC-SA 4.0 dataset]. Cave Survey\
+    \ Archive. https://www.ubss.org.uk"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 569
+  total_depth: 7.43
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 110
+  number_edges: 110
+  mean_degree: 2.0
+  min_degree: 1.0
+  max_degree: 5.0
+  cv_degree: 0.5
+  number_cycles: 1
+  mean_length: 142.34
+  cv_length: 1.59
+  length_entropy: 0.45
+  orientation_3d_entropy: 0.674
+  aspl: 1.6
+  cpd: 0.375
+  correlation_vertex_degree: -0.562
+  original_format: Survex
+  comments_cave_info: initially OSGB:SK
+  full_name: The River Lathkill Catchment Area
+  geometry: .nan
+  units: meter
+  country: UK
+  state: East Midlands
+  area: Derbyshire Dales
+  locality: Monyash
+  grotto_id: '32146'
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:27700
+  latitude: 53.1904
+  longitude: -1.7512
+  altitude: '216.55'
+  cave_url: https://peakdistrictcaving.info/home/the-caves/lathkill-dale
+  supplemental_links: https://peakdistrictcaving.info/home/the-caves/surveys
+  data_reception_date: '2023'
+  data_received_by: Celia
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://cave-registry.org.uk
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 1025
+  - 413
+- - 1025
+  - 949
+- - 1027
+  - 476
+- - 1027
+  - 881
+- - 1043
+  - 1276
+- - 1043
+  - 1202
+- - 545
+  - 1015
+- - 545
+  - 282
+- - 36
+  - 941
+- - 36
+  - 177
+- - 555
+  - 1248
+- - 555
+  - 276
+- - 557
+  - 345
+- - 557
+  - 1012
+- - 1070
+  - 180
+- - 1070
+  - 266
+- - 559
+  - 735
+- - 559
+  - 1327
+- - 1079
+  - 585
+- - 1079
+  - 986
+- - 56
+  - 1231
+- - 56
+  - 868
+- - 65
+  - 1341
+- - 65
+  - 383
+- - 1091
+  - 717
+- - 1094
+  - 961
+- - 1094
+  - 468
+- - 585
+  - 1112
+- - 75
+  - 352
+- - 75
+  - 135
+- - 590
+  - 1202
+- - 590
+  - 1333
+- - 1112
+  - 848
+- - 91
+  - 833
+- - 91
+  - 288
+- - 94
+  - 830
+- - 94
+  - 733
+- - 616
+  - 989
+- - 616
+  - 982
+- - 621
+  - 365
+- - 621
+  - 491
+- - 1144
+  - 964
+- - 1144
+  - 1231
+- - 121
+  - 276
+- - 1154
+  - 949
+- - 1154
+  - 442
+- - 1155
+  - 347
+- - 1155
+  - 735
+- - 135
+  - 888
+- - 1162
+  - 186
+- - 1162
+  - 766
+- - 139
+  - 266
+- - 139
+  - 365
+- - 652
+  - 1333
+- - 652
+  - 1232
+- - 1165
+  - 1268
+- - 1165
+  - 859
+- - 665
+  - 1194
+- - 665
+  - 425
+- - 672
+  - 1232
+- - 672
+  - 1015
+- - 1191
+  - 888
+- - 1191
+  - 1237
+- - 1194
+  - 859
+- - 177
+  - 1276
+- - 180
+  - 946
+- - 184
+  - 249
+- - 184
+  - 1290
+- - 186
+  - 1249
+- - 194
+  - 766
+- - 194
+  - 1011
+- - 717
+  - 941
+- - 1232
+  - 282
+- - 1237
+  - 957
+- - 726
+  - 286
+- - 726
+  - 345
+- - 733
+  - 961
+- - 1248
+  - 1354
+- - 1249
+  - 1273
+- - 741
+  - 957
+- - 741
+  - 833
+- - 240
+  - 468
+- - 240
+  - 1354
+- - 1267
+  - 1011
+- - 1267
+  - 974
+- - 1268
+  - 1290
+- - 1273
+  - 425
+- - 249
+  - 299
+- - 769
+  - 494
+- - 769
+  - 830
+- - 282
+  - 1341
+- - 286
+  - 986
+- - 798
+  - 1012
+- - 798
+  - 352
+- - 288
+  - 1006
+- - 299
+  - 491
+- - 1327
+  - 950
+- - 1348
+  - 868
+- - 1348
+  - 983
+- - 848
+  - 436
+- - 347
+  - 953
+- - 881
+  - 413
+- - 383
+  - 964
+- - 946
+  - 1006
+- - 436
+  - 442
+- - 950
+  - 476
+- - 953
+  - 983
+- - 963
+  - 982
+- - 963
+  - 494
+- - 974
+  - 989
+edge_attributes:
+  flags:
+    ? !!python/tuple
+    - 1232
+    - 282
+    : - add
+      - add
+node_attributes:
+  flags:
+    1025:
+    - fix
+    1027:
+    - fix
+    1043:
+    - fix
+    545:
+    - fix
+    36:
+    - fix
+    555:
+    - fix
+    557:
+    - fix
+    1070:
+    - fix
+    559:
+    - fix
+    1079:
+    - fix
+    56:
+    - fix
+    65:
+    - fix
+    1091:
+    - ent
+    - fix
+    1094:
+    - fix
+    585:
+    - fix
+    75:
+    - fix
+    590:
+    - fix
+    1112:
+    - fix
+    91:
+    - fix
+    94:
+    - fix
+    616:
+    - fix
+    621:
+    - fix
+    1144:
+    - fix
+    121:
+    - fix
+    1154:
+    - fix
+    1155:
+    - fix
+    135:
+    - fix
+    1162:
+    - fix
+    139:
+    - fix
+    652:
+    - fix
+    1165:
+    - fix
+    665:
+    - fix
+    672:
+    - fix
+    1191:
+    - fix
+    1194:
+    - fix
+    177:
+    - fix
+    1202:
+    - fix
+    180:
+    - fix
+    184:
+    - fix
+    186:
+    - fix
+    194:
+    - fix
+    717:
+    - fix
+    1231:
+    - fix
+    1232:
+    - fix
+    1237:
+    - fix
+    726:
+    - fix
+    733:
+    - fix
+    735:
+    - fix
+    1248:
+    - fix
+    1249:
+    - fix
+    741:
+    - fix
+    240:
+    - fix
+    1267:
+    - fix
+    1268:
+    - fix
+    1273:
+    - fix
+    249:
+    - fix
+    1276:
+    - fix
+    766:
+    - fix
+    769:
+    - fix
+    266:
+    - fix
+    1290:
+    - fix
+    276:
+    - fix
+    282:
+    - fix
+    286:
+    - fix
+    798:
+    - fix
+    288:
+    - fix
+    299:
+    - fix
+    1327:
+    - fix
+    1333:
+    - fix
+    1341:
+    - fix
+    830:
+    - fix
+    833:
+    - fix
+    1348:
+    - fix
+    1354:
+    - fix
+    848:
+    - fix
+    345:
+    - fix
+    347:
+    - fix
+    859:
+    - fix
+    352:
+    - fix
+    868:
+    - fix
+    365:
+    - fix
+    881:
+    - fix
+    888:
+    - fix
+    383:
+    - fix
+    413:
+    - fix
+    425:
+    - fix
+    941:
+    - fix
+    946:
+    - fix
+    436:
+    - fix
+    949:
+    - fix
+    950:
+    - fix
+    953:
+    - fix
+    442:
+    - fix
+    957:
+    - fix
+    961:
+    - fix
+    963:
+    - fix
+    964:
+    - fix
+    974:
+    - fix
+    468:
+    - fix
+    982:
+    - fix
+    983:
+    - fix
+    986:
+    - fix
+    476:
+    - fix
+    989:
+    - fix
+    491:
+    - fix
+    1006:
+    - fix
+    494:
+    - fix
+    1011:
+    - fix
+    1012:
+    - fix
+    1015:
+    - fix
+  pos:
+    1025:
+    - 583825.18
+    - 5894280.36
+    - 205.93
+    1027:
+    - 583828.19
+    - 5894274.96
+    - 205.26
+    1043:
+    - 583810.53
+    - 5894178.36
+    - 210.32
+    545:
+    - 583805.24
+    - 5894205.73
+    - 207.02
+    36:
+    - 583815.96
+    - 5894171.64
+    - 210.5
+    555:
+    - 583565.74
+    - 5894407.3
+    - 205.91
+    557:
+    - 583782.97
+    - 5894342.19
+    - 207.0
+    1070:
+    - 583670.3
+    - 5894344.97
+    - 205.31
+    559:
+    - 583832.85
+    - 5894263.48
+    - 205.19
+    1079:
+    - 583796.68
+    - 5894312.84
+    - 207.0
+    56:
+    - 583832.06
+    - 5894205.55
+    - 206.64
+    65:
+    - 583817.96
+    - 5894201.56
+    - 206.78
+    1091:
+    - 583824.17
+    - 5894160.5
+    - 211.8
+    1094:
+    - 583585.46
+    - 5894396.97
+    - 205.82
+    585:
+    - 583796.7
+    - 5894307.91
+    - 207.17
+    75:
+    - 583755.76
+    - 5894353.78
+    - 207.29
+    590:
+    - 583805.47
+    - 5894185.07
+    - 210.16
+    1112:
+    - 583803.74
+    - 5894296.29
+    - 206.7
+    91:
+    - 583694.92
+    - 5894350.24
+    - 207.21
+    94:
+    - 583590.13
+    - 5894395.29
+    - 206.79
+    616:
+    - 583598.44
+    - 5894379.79
+    - 204.99
+    621:
+    - 583655.12
+    - 5894350.42
+    - 205.64
+    1144:
+    - 583827.43
+    - 5894199.35
+    - 207.39
+    121:
+    - 583561.25
+    - 5894411.79
+    - 208.27
+    1154:
+    - 583821.02
+    - 5894282.17
+    - 205.93
+    1155:
+    - 583827.37
+    - 5894253.62
+    - 205.02
+    135:
+    - 583748.02
+    - 5894359.11
+    - 207.95
+    1162:
+    - 583611.43
+    - 5894363.81
+    - 204.37
+    139:
+    - 583660.16
+    - 5894345.86
+    - 204.84
+    652:
+    - 583799.23
+    - 5894192.48
+    - 209.02
+    1165:
+    - 583647.68
+    - 5894353.43
+    - 208.11
+    665:
+    - 583639.83
+    - 5894353.15
+    - 208.03
+    672:
+    - 583796.87
+    - 5894198.85
+    - 209.02
+    1191:
+    - 583728.65
+    - 5894358.87
+    - 207.71
+    1194:
+    - 583642.99
+    - 5894350.76
+    - 208.24
+    177:
+    - 583813.82
+    - 5894172.72
+    - 210.5
+    1202:
+    - 583807.72
+    - 5894181.06
+    - 210.32
+    180:
+    - 583678.43
+    - 5894339.18
+    - 205.83
+    184:
+    - 583650.6
+    - 5894351.16
+    - 206.17
+    186:
+    - 583619.21
+    - 5894358.37
+    - 204.37
+    194:
+    - 583608.6
+    - 5894367.38
+    - 206.56
+    717:
+    - 583822.01
+    - 5894167.03
+    - 211.2
+    1231:
+    - 583831.29
+    - 5894204.15
+    - 206.64
+    1232:
+    - 583799.28
+    - 5894196.18
+    - 209.02
+    1237:
+    - 583716.51
+    - 5894361.34
+    - 207.49
+    726:
+    - 583782.02
+    - 5894325.53
+    - 207.0
+    733:
+    - 583590.13
+    - 5894395.29
+    - 205.49
+    735:
+    - 583833.14
+    - 5894258.16
+    - 204.64
+    1248:
+    - 583566.48
+    - 5894405.14
+    - 205.71
+    1249:
+    - 583632.78
+    - 5894353.96
+    - 204.87
+    741:
+    - 583701.93
+    - 5894356.64
+    - 207.75
+    240:
+    - 583577.92
+    - 5894399.59
+    - 206.1
+    1267:
+    - 583603.66
+    - 5894374.45
+    - 205.9
+    1268:
+    - 583648.68
+    - 5894353.23
+    - 207.08
+    1273:
+    - 583635.68
+    - 5894352.73
+    - 206.69
+    249:
+    - 583652.4
+    - 5894352.62
+    - 206.17
+    1276:
+    - 583811.3
+    - 5894176.57
+    - 210.74
+    766:
+    - 583609.21
+    - 5894366.98
+    - 204.84
+    769:
+    - 583592.87
+    - 5894390.58
+    - 207.14
+    266:
+    - 583664.55
+    - 5894344.32
+    - 205.0
+    1290:
+    - 583648.38
+    - 5894350.77
+    - 206.82
+    276:
+    - 583562.76
+    - 5894410.61
+    - 205.83
+    282:
+    - 583811.93
+    - 5894203.33
+    - 207.02
+    286:
+    - 583786.17
+    - 5894319.86
+    - 207.0
+    798:
+    - 583769.77
+    - 5894346.01
+    - 207.23
+    288:
+    - 583691.08
+    - 5894345.06
+    - 206.76
+    299:
+    - 583652.16
+    - 5894351.86
+    - 205.24
+    1327:
+    - 583830.92
+    - 5894266.52
+    - 205.07
+    1333:
+    - 583803.79
+    - 5894190.18
+    - 209.02
+    1341:
+    - 583814.08
+    - 5894200.59
+    - 206.78
+    830:
+    - 583591.4
+    - 5894394.85
+    - 206.9
+    833:
+    - 583701.61
+    - 5894355.0
+    - 207.21
+    1348:
+    - 583830.59
+    - 5894225.5
+    - 207.34
+    1354:
+    - 583573.3
+    - 5894401.36
+    - 205.84
+    848:
+    - 583808.64
+    - 5894294.52
+    - 206.7
+    345:
+    - 583780.83
+    - 5894336.53
+    - 207.0
+    347:
+    - 583822.84
+    - 5894248.37
+    - 205.87
+    859:
+    - 583644.79
+    - 5894350.74
+    - 208.17
+    352:
+    - 583760.86
+    - 5894352.84
+    - 206.84
+    868:
+    - 583832.06
+    - 5894205.55
+    - 207.34
+    365:
+    - 583655.82
+    - 5894348.96
+    - 204.37
+    881:
+    - 583828.19
+    - 5894274.96
+    - 206.26
+    888:
+    - 583741.64
+    - 5894361.76
+    - 207.71
+    383:
+    - 583819.97
+    - 5894202.64
+    - 207.1
+    413:
+    - 583824.0
+    - 5894278.98
+    - 206.26
+    425:
+    - 583636.26
+    - 5894353.65
+    - 207.06
+    941:
+    - 583816.74
+    - 5894172.85
+    - 211.2
+    946:
+    - 583680.47
+    - 5894338.5
+    - 206.17
+    436:
+    - 583811.19
+    - 5894293.41
+    - 206.7
+    949:
+    - 583824.23
+    - 5894281.38
+    - 205.93
+    950:
+    - 583832.69
+    - 5894267.68
+    - 205.07
+    953:
+    - 583825.6
+    - 5894240.86
+    - 206.15
+    442:
+    - 583817.48
+    - 5894287.38
+    - 205.93
+    957:
+    - 583709.6
+    - 5894358.48
+    - 207.75
+    961:
+    - 583586.27
+    - 5894396.54
+    - 205.49
+    963:
+    - 583595.59
+    - 5894386.48
+    - 205.47
+    964:
+    - 583823.07
+    - 5894199.33
+    - 206.78
+    974:
+    - 583603.32
+    - 5894375.56
+    - 205.79
+    468:
+    - 583580.82
+    - 5894397.62
+    - 207.52
+    982:
+    - 583597.64
+    - 5894382.08
+    - 205.56
+    983:
+    - 583823.26
+    - 5894233.57
+    - 206.96
+    986:
+    - 583792.68
+    - 5894315.83
+    - 207.0
+    476:
+    - 583832.04
+    - 5894271.27
+    - 205.07
+    989:
+    - 583602.54
+    - 5894376.22
+    - 204.99
+    491:
+    - 583655.12
+    - 5894350.42
+    - 205.24
+    1006:
+    - 583682.9
+    - 5894340.04
+    - 206.42
+    494:
+    - 583595.08
+    - 5894386.75
+    - 206.36
+    1011:
+    - 583607.36
+    - 5894370.03
+    - 206.2
+    1012:
+    - 583777.51
+    - 5894345.8
+    - 207.23
+    1015:
+    - 583796.1
+    - 5894203.59
+    - 209.02
+  idsql:
+    1025:
+    - 125
+    1027:
+    - 122
+    1043:
+    - 94
+    545:
+    - 102
+    36:
+    - 91
+    555:
+    - 195
+    557:
+    - 138
+    1070:
+    - 155
+    559:
+    - 118
+    1079:
+    - 133
+    56:
+    - 110
+    65:
+    - 105
+    1091:
+    - 89
+    1094:
+    - 190
+    585:
+    - 132
+    75:
+    - 142
+    590:
+    - 96
+    1112:
+    - 131
+    91:
+    - 150
+    94:
+    - 187
+    616:
+    - 181
+    621:
+    - 159
+    1144:
+    - 108
+    121:
+    - 197
+    1154:
+    - 127
+    1155:
+    - 116
+    135:
+    - 143
+    1162:
+    - 174
+    139:
+    - 157
+    652:
+    - 98
+    1165:
+    - 166
+    665:
+    - 169
+    672:
+    - 100
+    1191:
+    - 145
+    1194:
+    - 168
+    177:
+    - 92
+    1202:
+    - 95
+    180:
+    - 154
+    184:
+    - 163
+    186:
+    - 173
+    194:
+    - 176
+    717:
+    - 88
+    1231:
+    - 109
+    1232:
+    - 99
+    1237:
+    - 146
+    726:
+    - 136
+    733:
+    - 188
+    735:
+    - 117
+    1248:
+    - 194
+    1249:
+    - 172
+    741:
+    - 148
+    240:
+    - 192
+    1267:
+    - 178
+    1268:
+    - 165
+    1273:
+    - 171
+    249:
+    - 162
+    1276:
+    - 93
+    766:
+    - 175
+    769:
+    - 185
+    266:
+    - 156
+    1290:
+    - 164
+    276:
+    - 196
+    282:
+    - 103
+    286:
+    - 135
+    798:
+    - 140
+    288:
+    - 151
+    299:
+    - 161
+    1327:
+    - 119
+    1333:
+    - 97
+    1341:
+    - 104
+    830:
+    - 186
+    833:
+    - 149
+    1348:
+    - 112
+    1354:
+    - 193
+    848:
+    - 130
+    345:
+    - 137
+    347:
+    - 115
+    859:
+    - 167
+    352:
+    - 141
+    868:
+    - 111
+    365:
+    - 158
+    881:
+    - 123
+    888:
+    - 144
+    383:
+    - 106
+    413:
+    - 124
+    425:
+    - 170
+    941:
+    - 90
+    946:
+    - 153
+    436:
+    - 129
+    949:
+    - 126
+    950:
+    - 120
+    953:
+    - 114
+    442:
+    - 128
+    957:
+    - 147
+    961:
+    - 189
+    963:
+    - 183
+    964:
+    - 107
+    974:
+    - 179
+    468:
+    - 191
+    982:
+    - 182
+    983:
+    - 113
+    986:
+    - 134
+    476:
+    - 121
+    989:
+    - 180
+    491:
+    - 160
+    1006:
+    - 152
+    494:
+    - 184
+    1011:
+    - 177
+    1012:
+    - 139
+    1015:
+    - 101
+  fulladdress:
+    1025:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.40
+    1027:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.37
+    1043:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.9
+    545:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.17
+    36:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.6
+    555:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.136
+    557:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.53
+    1070:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.70
+    559:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.33
+    1079:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.48
+    56:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.25
+    65:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.20
+    1091:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.3
+    1094:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.131
+    585:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.47
+    75:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.57
+    590:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.11
+    1112:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.46
+    91:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.65
+    94:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.128
+    616:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.122
+    621:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.74
+    1144:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.23
+    121:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.138
+    1154:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.42
+    1155:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.31
+    135:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.58
+    1162:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.115
+    139:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.72
+    652:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.13
+    1165:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.107
+    665:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.110
+    672:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.15
+    1191:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.60
+    1194:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.109
+    177:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.7
+    1202:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.10
+    180:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.69
+    184:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.104
+    186:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.114
+    194:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.117
+    717:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.4
+    1231:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.24
+    1232:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.14
+    1237:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.61
+    726:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.51
+    733:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.129
+    735:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.32
+    1248:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.135
+    1249:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.113
+    741:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.63
+    240:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.133
+    1267:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.119
+    1268:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.106
+    1273:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.112
+    249:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.103
+    1276:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.8
+    766:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.116
+    769:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.126
+    266:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.71
+    1290:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.105
+    276:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.137
+    282:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.18
+    286:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.50
+    798:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.55
+    288:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.66
+    299:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.102
+    1327:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.34
+    1333:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.12
+    1341:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.19
+    830:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.127
+    833:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.64
+    1348:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.27
+    1354:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.134
+    848:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.45
+    345:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.52
+    347:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.30
+    859:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.108
+    352:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.56
+    868:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.26
+    365:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.73
+    881:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.38
+    888:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.59
+    383:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.21
+    413:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.39
+    425:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.111
+    941:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.5
+    946:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.68
+    436:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.44
+    949:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.41
+    950:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.35
+    953:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.29
+    442:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.43
+    957:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.62
+    961:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.130
+    963:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.124
+    964:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.22
+    974:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.120
+    468:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.132
+    982:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.123
+    983:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.28
+    986:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.49
+    476:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.36
+    989:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.121
+    491:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.101
+    1006:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.67
+    494:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.125
+    1011:
+    - Lathkill.Lathkill.critchlow-cave.critchlow2.118
+    1012:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.54
+    1015:
+    - Lathkill.Lathkill.critchlow-cave.critchlow1.16

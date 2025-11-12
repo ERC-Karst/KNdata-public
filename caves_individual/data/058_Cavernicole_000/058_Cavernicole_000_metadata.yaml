@@ -1,0 +1,60 @@
+id_dataset: 058
+short_name: Cavernicole
+id_subset: '000'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: Robert, R., Cailhol, T., Dananai, L., Georges, P., Kern, M., Maurin, F.,
+  Parrot, D., Tamian, L., & Varnerot, L. (2025). Base de données topographique du
+  Gouffre du Cavernicole, Plateau-des-Petites-Roches, 38, France [Creative Commons
+  BY-NC-SA 4.0 dataset, Therion project]. https://github.com/Dehautenbas/Cavernicole-Therion
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2654
+total_depth: 356.2
+percentage_csdim: 89
+number_connected_components: 1
+number_nodes: 541
+number_edges: 544
+mean_degree: 2.06
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.536
+number_cycles: 4
+mean_length: 26.54
+cv_length: 1.09
+length_entropy: 0.59
+orientation_3d_entropy: 0.853
+aspl: 9.93
+cpd: 0.546
+correlation_vertex_degree: -0.286
+original_format: Therion
+comments_cave_info: .nan
+full_name: Cavernicole
+geometry: .nan
+units: meter
+country: France
+state: Auvergne-Rhône-Alpes
+area: Hauts de Chartreuse
+locality: Plateau-des-Petites-Roches
+grotto_id: '68304'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: Local
+latitude: 45.3837
+longitude: 5.8866
+altitude: '1625'
+cave_url: https://grottocenter.org/ui/entrances/68304
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: '-'
+end_contract: '-'
+cave_survey_owner: .nan
+website: https://github.com/Dehautenbas/Cavernicole-Therion
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

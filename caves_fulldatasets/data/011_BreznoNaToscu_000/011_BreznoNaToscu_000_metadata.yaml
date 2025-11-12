@@ -1,0 +1,57 @@
+id_dataset: '011'
+short_name: BreznoNaToscu
+id_subset: '000'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: .nan
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1870
+total_depth: 581.27
+percentage_csdim: 90
+number_connected_components: 1
+number_nodes: 361
+number_edges: 360
+mean_degree: 1.95
+min_degree: 1.0
+max_degree: 3.0
+cv_degree: 0.52
+number_cycles: 0
+mean_length: 50.55
+cv_length: 1.15
+length_entropy: 0.67
+orientation_3d_entropy: 0.871
+aspl: 6.88
+cpd: 0.429
+correlation_vertex_degree: -0.37
+original_format: Survex
+comments_cave_info: .nan
+full_name: Brezno na Toscu
+geometry: splays
+units: meter
+country: Slovenia
+state: Radovljica
+area: Triglav National Park
+locality: Stara Fužina
+grotto_id: /
+country_cave_id: '3900'
+local_id: .nan
+local_coordinate_system: .nan
+latitude: 46.34939
+longitude: 13.8619
+altitude: '1988'
+cave_url: https://www.katasterjam.si/caves/3900
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

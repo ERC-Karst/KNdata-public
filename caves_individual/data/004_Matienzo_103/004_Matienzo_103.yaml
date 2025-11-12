@@ -1,0 +1,644 @@
+metadata:
+  id_dataset: '004'
+  short_name: Matienzo
+  id_subset: '103'
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: 'Matienzo Caves Project Expeditions. (2025). Matienzo Cave Survey Data
+    1960-2025 [Dataset, Aven .3d]. Matienzo Caves Project. https://matienzocaves.org.uk/maps_photos.htm
+
+    '
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 514
+  total_depth: 83.84
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 48
+  number_edges: 47
+  mean_degree: 1.8
+  min_degree: 1.0
+  max_degree: 11.0
+  cv_degree: 0.574
+  number_cycles: 0
+  mean_length: 57.22
+  cv_length: 0.83
+  length_entropy: 0.55
+  orientation_3d_entropy: 0.609
+  aspl: 2.69
+  cpd: 0.475
+  correlation_vertex_degree: -0.5
+  original_format: Survex
+  comments_cave_info: Marco Dentz sent the link to the repo. we should contact them
+    to see if we can get the svx project
+  full_name: Matienzo caves
+  geometry: splays
+  units: meter
+  country: Spain
+  state: Cantabria
+  area: Castro Urdiales
+  locality: Matienzo
+  grotto_id: 33375 (Bollon) / 33388 (Calleja Rebollo) / 33447 (Colmenas) /  33465
+    (Covern) / 33807 (Suviejo)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:27573
+  latitude: 43.3067
+  longitude: -3.6315
+  altitude: '293'
+  cave_url: https://matienzocaves.org.uk/Systems/intro.htm
+  supplemental_links: https://www.matienzocaves.org.uk/Leaflet/Leaflet-latest.html?center=348&zoom=16&map_type=GV_HYBRID
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 21121
+  - 8543
+- - 21121
+  - 102171
+- - 20098
+  - 52460
+- - 20098
+  - 74057
+- - 96132
+  - 58848
+- - 96132
+  - 47275
+- - 105860
+  - 105451
+- - 105860
+  - 5645
+- - 5645
+  - 13510
+- - 57229
+  - 69924
+- - 57229
+  - 76597
+- - 41105
+  - 33114
+- - 62868
+  - 14896
+- - 62868
+  - 12712
+- - 56218
+  - 93763
+- - 56218
+  - 47586
+- - 56218
+  - 24662
+- - 102171
+  - 45156
+- - 69027
+  - 74057
+- - 69027
+  - 8543
+- - 69924
+  - 13510
+- - 12712
+  - 33114
+- - 47275
+  - 71527
+- - 78893
+  - 14896
+- - 78893
+  - 86638
+- - 14896
+  - 103155
+- - 76597
+  - 35528
+- - 99385
+  - 35673
+- - 73410
+  - 21852
+- - 73410
+  - 52460
+- - 93763
+  - 35673
+- - 93763
+  - 14435
+- - 67140
+  - 57435
+- - 37957
+  - 47586
+- - 37957
+  - 21459
+- - 35528
+  - 104319
+- - 7241
+  - 24662
+- - 57435
+  - 71527
+- - 21852
+  - 14435
+- - 76639
+  - 8565
+- - 76639
+  - 86628
+- - 58848
+  - 86638
+- - 45156
+  - 69111
+- - 86628
+  - 15851
+- - 15851
+  - 105451
+- - 103155
+  - 69111
+- - 8565
+  - 69111
+node_attributes:
+  flags:
+    21121:
+    - fix
+    20098:
+    - fix
+    96132:
+    - fix
+    105860:
+    - fix
+    5645:
+    - fix
+    57229:
+    - fix
+    41105:
+    - fix
+    62868:
+    - fix
+    56218:
+    - fix
+    102171:
+    - fix
+    69027:
+    - fix
+    69924:
+    - fix
+    12712:
+    - fix
+    47275:
+    - fix
+    78893:
+    - fix
+    14896:
+    - fix
+    76597:
+    - fix
+    99385:
+    - ent
+    - fix
+    73410:
+    - fix
+    93763:
+    - fix
+    67140:
+    - fix
+    37957:
+    - fix
+    13510:
+    - fix
+    35528:
+    - fix
+    7241:
+    - fix
+    74057:
+    - fix
+    21459:
+    - fix
+    24662:
+    - fix
+    35673:
+    - fix
+    33114:
+    - fix
+    57435:
+    - fix
+    21852:
+    - fix
+    8543:
+    - fix
+    76639:
+    - fix
+    58848:
+    - fix
+    47586:
+    - fix
+    14435:
+    - fix
+    45156:
+    - fix
+    86628:
+    - fix
+    71527:
+    - fix
+    15851:
+    - fix
+    52460:
+    - fix
+    105451:
+    - fix
+    86638:
+    - fix
+    103155:
+    - fix
+    8565:
+    - fix
+    69111:
+    - fix
+    104319:
+    - fix
+  pos:
+    21121:
+    - 451402.8
+    - 4795240.47
+    - 229.7
+    20098:
+    - 451422.71
+    - 4795246.54
+    - 234.86
+    96132:
+    - 451415.89
+    - 4795293.11
+    - 220.32
+    105860:
+    - 451393.11
+    - 4795214.9
+    - 229.15
+    5645:
+    - 451394.93
+    - 4795214.07
+    - 229.15
+    57229:
+    - 451394.2
+    - 4795204.96
+    - 173.08
+    41105:
+    - 451397.46
+    - 4795255.99
+    - 227.26
+    62868:
+    - 451388.84
+    - 4795262.43
+    - 229.91
+    56218:
+    - 451450.71
+    - 4795297.2
+    - 227.01
+    102171:
+    - 451385.14
+    - 4795231.3
+    - 229.7
+    69027:
+    - 451416.91
+    - 4795245.99
+    - 238.68
+    69924:
+    - 451394.93
+    - 4795214.07
+    - 177.15
+    12712:
+    - 451387.96
+    - 4795259.05
+    - 229.91
+    47275:
+    - 451423.1
+    - 4795301.83
+    - 218.93
+    78893:
+    - 451400.63
+    - 4795283.55
+    - 230.84
+    14896:
+    - 451381.68
+    - 4795266.83
+    - 232.16
+    76597:
+    - 451382.75
+    - 4795191.1
+    - 164.31
+    99385:
+    - 451486.0
+    - 4795311.0
+    - 244.0
+    73410:
+    - 451436.85
+    - 4795257.25
+    - 233.83
+    93763:
+    - 451464.06
+    - 4795284.06
+    - 233.1
+    67140:
+    - 451438.48
+    - 4795320.27
+    - 224.1
+    37957:
+    - 451437.34
+    - 4795282.42
+    - 229.67
+    13510:
+    - 451394.93
+    - 4795214.07
+    - 189.15
+    35528:
+    - 451379.81
+    - 4795180.57
+    - 163.16
+    7241:
+    - 451467.62
+    - 4795304.67
+    - 233.89
+    74057:
+    - 451418.91
+    - 4795246.18
+    - 238.68
+    21459:
+    - 451435.07
+    - 4795277.46
+    - 231.66
+    24662:
+    - 451455.58
+    - 4795301.35
+    - 229.34
+    35673:
+    - 451475.29
+    - 4795295.45
+    - 233.1
+    33114:
+    - 451392.92
+    - 4795256.67
+    - 229.91
+    57435:
+    - 451431.86
+    - 4795314.84
+    - 220.46
+    21852:
+    - 451446.98
+    - 4795269.51
+    - 233.83
+    8543:
+    - 451409.93
+    - 4795250.81
+    - 233.78
+    76639:
+    - 451373.11
+    - 4795221.52
+    - 231.07
+    58848:
+    - 451413.76
+    - 4795292.71
+    - 220.7
+    47586:
+    - 451442.26
+    - 4795293.19
+    - 225.36
+    14435:
+    - 451450.13
+    - 4795272.19
+    - 233.1
+    45156:
+    - 451375.87
+    - 4795232.87
+    - 229.7
+    86628:
+    - 451380.65
+    - 4795218.84
+    - 231.07
+    71527:
+    - 451426.95
+    - 4795304.09
+    - 218.38
+    15851:
+    - 451387.6
+    - 4795214.89
+    - 231.07
+    52460:
+    - 451427.27
+    - 4795250.43
+    - 234.86
+    105451:
+    - 451392.15
+    - 4795212.81
+    - 231.07
+    86638:
+    - 451402.86
+    - 4795288.21
+    - 228.96
+    103155:
+    - 451376.54
+    - 4795253.83
+    - 229.7
+    8565:
+    - 451367.34
+    - 4795225.49
+    - 231.07
+    69111:
+    - 451365.51
+    - 4795236.55
+    - 229.7
+    104319:
+    - 451379.81
+    - 4795180.57
+    - 160.16
+  idsql:
+    21121:
+    - 51842
+    20098:
+    - 51838
+    96132:
+    - 51851
+    105860:
+    - 51865
+    5645:
+    - 51866
+    57229:
+    - 51869
+    41105:
+    - 51859
+    62868:
+    - 51856
+    56218:
+    - 51828
+    102171:
+    - 51843
+    69027:
+    - 51840
+    69924:
+    - 51868
+    12712:
+    - 51857
+    47275:
+    - 51852
+    78893:
+    - 51848
+    14896:
+    - 51847
+    76597:
+    - 51870
+    99385:
+    - 51825
+    73410:
+    - 51836
+    93763:
+    - 51827
+    67140:
+    - 51855
+    37957:
+    - 51830
+    13510:
+    - 51867
+    35528:
+    - 51871
+    7241:
+    - 51833
+    74057:
+    - 51839
+    21459:
+    - 51831
+    24662:
+    - 51832
+    35673:
+    - 51826
+    33114:
+    - 51858
+    57435:
+    - 51854
+    21852:
+    - 51835
+    8543:
+    - 51841
+    76639:
+    - 51861
+    58848:
+    - 51850
+    47586:
+    - 51829
+    14435:
+    - 51834
+    45156:
+    - 51844
+    86628:
+    - 51862
+    71527:
+    - 51853
+    15851:
+    - 51863
+    52460:
+    - 51837
+    105451:
+    - 51864
+    86638:
+    - 51849
+    103155:
+    - 51846
+    8565:
+    - 51860
+    69111:
+    - 51845
+    104319:
+    - 51872
+  fulladdress:
+    21121:
+    - Matienzo.all.0177_lacuevuca.17
+    20098:
+    - Matienzo.all.0177_lacuevuca.13
+    96132:
+    - Matienzo.all.0177_lacuevuca.26
+    105860:
+    - Matienzo.all.0177_lacuevuca.40
+    5645:
+    - Matienzo.all.0177_lacuevuca.41
+    57229:
+    - Matienzo.all.0177_lacuevuca.44
+    41105:
+    - Matienzo.all.0177_lacuevuca.34
+    62868:
+    - Matienzo.all.0177_lacuevuca.31
+    56218:
+    - Matienzo.all.0177_lacuevuca.3
+    102171:
+    - Matienzo.all.0177_lacuevuca.18
+    69027:
+    - Matienzo.all.0177_lacuevuca.15
+    69924:
+    - Matienzo.all.0177_lacuevuca.43
+    12712:
+    - Matienzo.all.0177_lacuevuca.32
+    47275:
+    - Matienzo.all.0177_lacuevuca.27
+    78893:
+    - Matienzo.all.0177_lacuevuca.23
+    14896:
+    - Matienzo.all.0177_lacuevuca.22
+    76597:
+    - Matienzo.all.0177_lacuevuca.45
+    99385:
+    - Matienzo.all.0177_lacuevuca.0
+    73410:
+    - Matienzo.all.0177_lacuevuca.11
+    93763:
+    - Matienzo.all.0177_lacuevuca.2
+    67140:
+    - Matienzo.all.0177_lacuevuca.30
+    37957:
+    - Matienzo.all.0177_lacuevuca.5
+    13510:
+    - Matienzo.all.0177_lacuevuca.42
+    35528:
+    - Matienzo.all.0177_lacuevuca.46
+    7241:
+    - Matienzo.all.0177_lacuevuca.8
+    74057:
+    - Matienzo.all.0177_lacuevuca.14
+    21459:
+    - Matienzo.all.0177_lacuevuca.6
+    24662:
+    - Matienzo.all.0177_lacuevuca.7
+    35673:
+    - Matienzo.all.0177_lacuevuca.1
+    33114:
+    - Matienzo.all.0177_lacuevuca.33
+    57435:
+    - Matienzo.all.0177_lacuevuca.29
+    21852:
+    - Matienzo.all.0177_lacuevuca.10
+    8543:
+    - Matienzo.all.0177_lacuevuca.16
+    76639:
+    - Matienzo.all.0177_lacuevuca.36
+    58848:
+    - Matienzo.all.0177_lacuevuca.25
+    47586:
+    - Matienzo.all.0177_lacuevuca.4
+    14435:
+    - Matienzo.all.0177_lacuevuca.9
+    45156:
+    - Matienzo.all.0177_lacuevuca.19
+    86628:
+    - Matienzo.all.0177_lacuevuca.37
+    71527:
+    - Matienzo.all.0177_lacuevuca.28
+    15851:
+    - Matienzo.all.0177_lacuevuca.38
+    52460:
+    - Matienzo.all.0177_lacuevuca.12
+    105451:
+    - Matienzo.all.0177_lacuevuca.39
+    86638:
+    - Matienzo.all.0177_lacuevuca.24
+    103155:
+    - Matienzo.all.0177_lacuevuca.21
+    8565:
+    - Matienzo.all.0177_lacuevuca.35
+    69111:
+    - Matienzo.all.0177_lacuevuca.20
+    104319:
+    - Matienzo.all.0177_lacuevuca.47

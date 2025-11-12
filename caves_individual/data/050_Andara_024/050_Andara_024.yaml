@@ -1,0 +1,597 @@
+metadata:
+  id_dataset: '050'
+  short_name: Andara
+  id_subset: '024'
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: .nan
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 866
+  total_depth: 0.0
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 43
+  number_edges: 51
+  mean_degree: 2.5
+  min_degree: 1.0
+  max_degree: 17.0
+  cv_degree: 0.431
+  number_cycles: 9
+  mean_length: 23.42
+  cv_length: 0.7
+  length_entropy: 0.84
+  orientation_3d_entropy: 0.506
+  aspl: 5.18
+  cpd: 0.347
+  correlation_vertex_degree: 0.029
+  original_format: Survex
+  comments_cave_info: used .3d instead of translating project. too many issues with
+    translation
+  full_name: Andara
+  geometry: .nan
+  units: meter
+  country: Spain
+  state: Cantabrie
+  area: Parc national des Picos de Europa
+  locality: Palacio
+  grotto_id: /
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:32630
+  latitude: 43.2161538
+  longitude: -4.7242563
+  altitude: '1785'
+  cave_url: https://hinko.org/hinko/Dowloads/BCRA/BCRA%2011-4-1984.pdf
+  supplemental_links: https://tresvisocaves.info/tresviso.php?cave=65
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 6528
+  - 6459
+- - 6528
+  - 5472
+- - 512
+  - 788
+- - 512
+  - 3851
+- - 4612
+  - 542
+- - 4612
+  - 8395
+- - 3079
+  - 520
+- - 3079
+  - 788
+- - 3079
+  - 3851
+- - 520
+  - 4562
+- - 1674
+  - 1360
+- - 1674
+  - 8771
+- - 1674
+  - 552
+- - 523
+  - 542
+- - 523
+  - 5619
+- - 523
+  - 8395
+- - 523
+  - 2715
+- - 8589
+  - 2171
+- - 8589
+  - 8805
+- - 8589
+  - 3063
+- - 788
+  - 6911
+- - 3608
+  - 10036
+- - 3608
+  - 1406
+- - 3608
+  - 3817
+- - 2715
+  - 1857
+- - 6684
+  - 1857
+- - 6684
+  - 4562
+- - 4253
+  - 7481
+- - 4253
+  - 8530
+- - 542
+  - 3063
+- - 552
+  - 8771
+- - 10036
+  - 5619
+- - 10036
+  - 1406
+- - 10036
+  - 6459
+- - 7481
+  - 6459
+- - 7481
+  - 698
+- - 4921
+  - 8805
+- - 6459
+  - 4812
+- - 6715
+  - 5472
+- - 6715
+  - 8642
+- - 1857
+  - 1406
+- - 1857
+  - 3817
+- - 8642
+  - 10088
+- - 8642
+  - 8436
+- - 8771
+  - 3702
+- - 1360
+  - 2171
+- - 4562
+  - 3817
+- - 8805
+  - 2171
+- - 8552
+  - 8436
+- - 7915
+  - 8436
+- - 5619
+  - 1406
+node_attributes:
+  flags:
+    6528:
+    - fix
+    512:
+    - fix
+    4612:
+    - fix
+    3079:
+    - fix
+    520:
+    - fix
+    1674:
+    - fix
+    523:
+    - fix
+    3851:
+    - fix
+    8589:
+    - fix
+    788:
+    - fix
+    3608:
+    - fix
+    2715:
+    - fix
+    6684:
+    - fix
+    4253:
+    - fix
+    542:
+    - fix
+    552:
+    - fix
+    10036:
+    - fix
+    7481:
+    - fix
+    4921:
+    - fix
+    6459:
+    - fix
+    698:
+    - fix
+    6715:
+    - fix
+    1857:
+    - fix
+    8642:
+    - fix
+    8771:
+    - fix
+    8395:
+    - fix
+    4812:
+    - fix
+    1360:
+    - fix
+    4562:
+    - fix
+    8530:
+    - fix
+    5472:
+    - fix
+    8805:
+    - fix
+    10088:
+    - fix
+    3817:
+    - fix
+    8552:
+    - fix
+    7915:
+    - fix
+    5619:
+    - fix
+    8436:
+    - fix
+    3702:
+    - fix
+    3063:
+    - fix
+    2171:
+    - fix
+    1406:
+    - fix
+    6911:
+    - fix
+  pos:
+    6528:
+    - 360908.34
+    - 4785474.77
+    - 1828.0
+    512:
+    - 360961.49
+    - 4785494.38
+    - 1828.0
+    4612:
+    - 360813.48
+    - 4785537.85
+    - 1828.0
+    3079:
+    - 360943.64
+    - 4785503.22
+    - 1828.0
+    520:
+    - 360932.85
+    - 4785508.25
+    - 1828.0
+    1674:
+    - 360704.51
+    - 4785587.22
+    - 1828.0
+    523:
+    - 360843.44
+    - 4785532.6
+    - 1828.0
+    3851:
+    - 360942.86
+    - 4785499.82
+    - 1828.0
+    8589:
+    - 360782.32
+    - 4785546.79
+    - 1828.0
+    788:
+    - 360963.89
+    - 4785497.31
+    - 1828.0
+    3608:
+    - 360905.76
+    - 4785523.68
+    - 1828.0
+    2715:
+    - 360855.02
+    - 4785549.18
+    - 1828.0
+    6684:
+    - 360919.76
+    - 4785534.92
+    - 1828.0
+    4253:
+    - 360877.13
+    - 4785445.27
+    - 1828.0
+    542:
+    - 360809.49
+    - 4785542.61
+    - 1828.0
+    552:
+    - 360692.95
+    - 4785581.75
+    - 1828.0
+    10036:
+    - 360894.26
+    - 4785519.51
+    - 1828.0
+    7481:
+    - 360882.21
+    - 4785467.31
+    - 1828.0
+    4921:
+    - 360805.0
+    - 4785572.92
+    - 1828.0
+    6459:
+    - 360884.89
+    - 4785478.91
+    - 1828.0
+    698:
+    - 360880.06
+    - 4785468.31
+    - 1828.0
+    6715:
+    - 360931.79
+    - 4785470.64
+    - 1828.0
+    1857:
+    - 360897.7
+    - 4785538.29
+    - 1828.0
+    8642:
+    - 360953.19
+    - 4785469.52
+    - 1828.0
+    8771:
+    - 360694.23
+    - 4785593.7
+    - 1828.0
+    8395:
+    - 360836.4
+    - 4785530.31
+    - 1828.0
+    4812:
+    - 360882.73
+    - 4785479.91
+    - 1828.0
+    1360:
+    - 360740.78
+    - 4785554.56
+    - 1828.0
+    4562:
+    - 360923.29
+    - 4785521.9
+    - 1828.0
+    8530:
+    - 360874.97
+    - 4785446.27
+    - 1828.0
+    5472:
+    - 360920.06
+    - 4785472.71
+    - 1828.0
+    8805:
+    - 360777.22
+    - 4785562.25
+    - 1828.0
+    10088:
+    - 360971.67
+    - 4785464.91
+    - 1828.0
+    3817:
+    - 360909.81
+    - 4785518.67
+    - 1828.0
+    8552:
+    - 360934.73
+    - 4785479.75
+    - 1828.0
+    7915:
+    - 360971.51
+    - 4785469.9
+    - 1828.0
+    5619:
+    - 360869.76
+    - 4785524.98
+    - 1828.0
+    8436:
+    - 360953.29
+    - 4785475.47
+    - 1828.0
+    3702:
+    - 360686.0
+    - 4785595.0
+    - 1828.0
+    3063:
+    - 360794.04
+    - 4785548.85
+    - 1828.0
+    2171:
+    - 360758.46
+    - 4785557.05
+    - 1828.0
+    1406:
+    - 360894.69
+    - 4785526.28
+    - 1828.0
+    6911:
+    - 360967.47
+    - 4785492.55
+    - 1828.0
+  idsql:
+    6528:
+    - 6969
+    512:
+    - 302
+    4612:
+    - 297
+    3079:
+    - 300
+    520:
+    - 304
+    1674:
+    - 10
+    523:
+    - 25
+    3851:
+    - 303
+    8589:
+    - 9
+    788:
+    - 301
+    3608:
+    - 31
+    2715:
+    - 298
+    6684:
+    - 299
+    4253:
+    - 6967
+    542:
+    - 24
+    552:
+    - 292
+    10036:
+    - 27
+    7481:
+    - 6965
+    4921:
+    - 6962
+    6459:
+    - 6963
+    698:
+    - 6966
+    6715:
+    - 6971
+    1857:
+    - 29
+    8642:
+    - 6972
+    8771:
+    - 11
+    8395:
+    - 296
+    4812:
+    - 6964
+    1360:
+    - 293
+    4562:
+    - 32
+    8530:
+    - 6968
+    5472:
+    - 6970
+    8805:
+    - 294
+    10088:
+    - 6973
+    3817:
+    - 30
+    8552:
+    - 6975
+    7915:
+    - 6976
+    5619:
+    - 26
+    8436:
+    - 6974
+    3702:
+    - 23
+    3063:
+    - 295
+    2171:
+    - 8
+    1406:
+    - 28
+    6911:
+    - 6977
+  fulladdress:
+    6528:
+    - andara.minasmazarrasa.esperanza.13
+    512:
+    - andara.minasmazarrasa.esperanza.25a
+    4612:
+    - andara.minasmazarrasa.esperanza.9b
+    3079:
+    - andara.minasmazarrasa.esperanza.24
+    520:
+    - andara.minasmazarrasa.esperanza.23
+    1674:
+    - andara.minasmazarrasa.esperanza.3
+    523:
+    - andara.minasmazarrasa.esperanza.9
+    3851:
+    - andara.minasmazarrasa.esperanza.25b
+    8589:
+    - andara.minasmazarrasa.esperanza.6
+    788:
+    - andara.minasmazarrasa.esperanza.25
+    3608:
+    - andara.minasmazarrasa.esperanza.21
+    2715:
+    - andara.minasmazarrasa.esperanza.19
+    6684:
+    - andara.minasmazarrasa.esperanza.22a
+    4253:
+    - andara.minasmazarrasa.esperanza.12d
+    542:
+    - andara.minasmazarrasa.esperanza.8
+    552:
+    - andara.minasmazarrasa.esperanza.2
+    10036:
+    - andara.minasmazarrasa.esperanza.11
+    7481:
+    - andara.minasmazarrasa.esperanza.12b
+    4921:
+    - andara.minasmazarrasa.esperanza.6c
+    6459:
+    - andara.minasmazarrasa.esperanza.12
+    698:
+    - andara.minasmazarrasa.esperanza.12c
+    6715:
+    - andara.minasmazarrasa.esperanza.15
+    1857:
+    - andara.minasmazarrasa.esperanza.18
+    8642:
+    - andara.minasmazarrasa.esperanza.16
+    8771:
+    - andara.minasmazarrasa.esperanza.1
+    8395:
+    - andara.minasmazarrasa.esperanza.9a
+    4812:
+    - andara.minasmazarrasa.esperanza.12a
+    1360:
+    - andara.minasmazarrasa.esperanza.4
+    4562:
+    - andara.minasmazarrasa.esperanza.22
+    8530:
+    - andara.minasmazarrasa.esperanza.12e
+    5472:
+    - andara.minasmazarrasa.esperanza.14
+    8805:
+    - andara.minasmazarrasa.esperanza.6a
+    10088:
+    - andara.minasmazarrasa.esperanza.17d
+    3817:
+    - andara.minasmazarrasa.esperanza.20
+    8552:
+    - andara.minasmazarrasa.esperanza.16b
+    7915:
+    - andara.minasmazarrasa.esperanza.16c
+    5619:
+    - andara.minasmazarrasa.esperanza.10
+    8436:
+    - andara.minasmazarrasa.esperanza.16a
+    3702:
+    - andara.minasmazarrasa.t425_esperanza
+    3063:
+    - andara.minasmazarrasa.esperanza.7
+    2171:
+    - andara.minasmazarrasa.esperanza.5
+    1406:
+    - andara.minasmazarrasa.esperanza.17
+    6911:
+    - andara.minasmazarrasa.esperanza.26

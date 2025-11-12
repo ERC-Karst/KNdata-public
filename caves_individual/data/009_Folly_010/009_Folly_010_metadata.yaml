@@ -1,0 +1,59 @@
+id_dataset: 009
+short_name: Folly
+id_subset: '010'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: 'Robert, X. (2021). Base de données Topographiques des systèmes karstiques
+  du massif du Folly (Samoëns, 74, France) (Version v1.0.0) [Dataset]. Zenodo. https://doi.org/DOI:
+  10.5281/ZENODO.4745567'
+thanks: .nan
+sharing_conditions: .nan
+total_length: 601
+total_depth: 180.31
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 136
+number_edges: 135
+mean_degree: 1.88
+min_degree: 1.0
+max_degree: 9.0
+cv_degree: 0.547
+number_cycles: 0
+mean_length: 40.11
+cv_length: 1.03
+length_entropy: 0.67
+orientation_3d_entropy: 0.67
+aspl: 3.74
+cpd: 0.431
+correlation_vertex_degree: -0.429
+original_format: Therion
+comments_cave_info: Synclinal Jean Bernard + Systeme Combe des Puaires +Systeme Mirolda
+full_name: Massif du Folly
+geometry: lrud/splays
+units: meter
+country: France
+state: Auvergne-Rhône-Alpes
+area: Haute-Savoie
+locality: Samoëns
+grotto_id: 75262 (Jean-Bernard)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: Local
+latitude: 46.1022
+longitude: 6.7796
+altitude: '1836'
+cave_url: https://grottocenter.org/ui/caves/75262
+supplemental_links: https://groupe-speleo-vulcain.com/explorations/explorations-a-samoens/topographies-du-synclinal-du-jean-bernard-samoens-france/
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: '-'
+end_contract: '-'
+cave_survey_owner: .nan
+website: https://github.com/robertxa/Topographies-Samoens_Folly
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

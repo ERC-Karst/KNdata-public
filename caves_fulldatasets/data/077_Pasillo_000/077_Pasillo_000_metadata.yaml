@@ -1,0 +1,57 @@
+id_dataset: '077'
+short_name: Pasillo
+id_subset: '000'
+status: ready for cleaning
+type_of_correction: .nan
+last_processing_date: 11 Nov 2025
+license: .nan
+citation: ask Patrick Degouve for citation
+thanks: .nan
+sharing_conditions: .nan
+total_length: 5462
+total_depth: 276.16
+percentage_csdim: 4
+number_connected_components: 1
+number_nodes: 913
+number_edges: 916
+mean_degree: 2.04
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.498
+number_cycles: 4
+mean_length: 37.68
+cv_length: 0.96
+length_entropy: 0.52
+orientation_3d_entropy: 0.915
+aspl: 13.65
+cpd: 0.397
+correlation_vertex_degree: -0.304
+original_format: Visual Topo
+comments_cave_info: .nan
+full_name: '1339'
+geometry: .nan
+units: meter
+country: Spain
+state: .nan
+area: .nan
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+cave_url: .nan
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

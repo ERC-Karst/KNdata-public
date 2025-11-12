@@ -1,0 +1,57 @@
+id_dataset: 085
+short_name: Requiem
+id_subset: '000'
+status: ready for cleaning
+type_of_correction: .nan
+last_processing_date: 11 Nov 2025
+license: .nan
+citation: ask Patrick Degouve for citation
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2524
+total_depth: 331.25
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 156
+number_edges: 155
+mean_degree: 1.89
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.679
+number_cycles: 0
+mean_length: 140.26
+cv_length: 2.49
+length_entropy: 0.09
+orientation_3d_entropy: 0.682
+aspl: 3.66
+cpd: 0.497
+correlation_vertex_degree: -0.618
+original_format: Visual Topo
+comments_cave_info: .nan
+full_name: 'Cueva 791 : Grotte du Requiem'
+geometry: .nan
+units: meter
+country: Spain
+state: .nan
+area: .nan
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+cave_url: .nan
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

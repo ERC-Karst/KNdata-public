@@ -1,0 +1,2902 @@
+metadata:
+  id_dataset: '014'
+  short_name: CheddarCatchment
+  id_subset: '006'
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "University of Bristol Spel\xE6ological Society. (1919). Cheddar Catchment\
+    \ Area Cave Survey [Creative Commons BY-NC-SA 4.0 dataset]. Cave Survey Archive.\
+    \ https://www.ubss.org.uk"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 657
+  total_depth: 36.38
+  percentage_csdim: 22
+  number_connected_components: 1
+  number_nodes: 166
+  number_edges: 170
+  mean_degree: 2.13
+  min_degree: 1.0
+  max_degree: 6.0
+  cv_degree: 0.492
+  number_cycles: 5
+  mean_length: 10.28
+  cv_length: 0.88
+  length_entropy: 0.79
+  orientation_3d_entropy: 0.754
+  aspl: 6.61
+  cpd: 0.325
+  correlation_vertex_degree: -0.327
+  original_format: Therion
+  comments_cave_info: "Contact UBSS??, coordinate system originall in osgb:ST. traduit\
+    \ en epsg:27700 avec therion.  Data come from version \"CheddarCatchment - Revision\
+    \ 459: /\"\nHad to modify the therion project:\n- missing GoWest.th data. had\
+    \ to comment anything related to this. \n- dates where sometimes not formatted\
+    \ correctly. had to remove space and put . instead\n- there is some lrud in the\
+    \ datasets. should export them when code to do it is ready"
+  full_name: Cheddar Catchment
+  geometry: lrud/splays
+  units: meter
+  country: UK
+  state: England
+  area: Somerset
+  locality: Cheddar
+  grotto_id: 23469 (Coxs) 23491 (Goughs)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:27700 / Local
+  latitude: 51.2814
+  longitude: -2.7642
+  altitude: .nan
+  cave_url: https://grottocenter.org/ui/entrances/23491
+  supplemental_links: .nan
+  data_reception_date: '2023'
+  data_received_by: Celia
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://ubss.org.uk/research/cave_surveys
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 513
+  - 3427
+- - 513
+  - 5945
+- - 2565
+  - 50
+- - 518
+  - 3921
+- - 518
+  - 103
+- - 6664
+  - 3807
+- - 6664
+  - 4262
+- - 1033
+  - 522
+- - 1033
+  - 3811
+- - 522
+  - 5601
+- - 6672
+  - 3807
+- - 6672
+  - 2583
+- - 2583
+  - 1845
+- - 541
+  - 347
+- - 543
+  - 7112
+- - 543
+  - 3135
+- - 543
+  - 6087
+- - 3108
+  - 5847
+- - 3108
+  - 5051
+- - 3108
+  - 7325
+- - 4136
+  - 3301
+- - 4136
+  - 6408
+- - 4136
+  - 4445
+- - 7212
+  - 3265
+- - 5682
+  - 5720
+- - 5682
+  - 6589
+- - 5682
+  - 50
+- - 50
+  - 2346
+- - 50
+  - 3765
+- - 1591
+  - 474
+- - 1591
+  - 6927
+- - 6204
+  - 706
+- - 6204
+  - 2453
+- - 2109
+  - 1323
+- - 5183
+  - 2724
+- - 5183
+  - 719
+- - 5183
+  - 7015
+- - 5183
+  - 6033
+- - 3648
+  - 4742
+- - 3648
+  - 767
+- - 3135
+  - 3921
+- - 5699
+  - 4264
+- - 5699
+  - 584
+- - 583
+  - 2184
+- - 584
+  - 1853
+- - 3148
+  - 1810
+- - 3148
+  - 4267
+- - 6225
+  - 4721
+- - 6231
+  - 225
+- - 6231
+  - 6391
+- - 6231
+  - 1633
+- - 7256
+  - 5601
+- - 7256
+  - 3058
+- - 5720
+  - 5805
+- - 5720
+  - 2376
+- - 7258
+  - 5986
+- - 7258
+  - 1845
+- - 5721
+  - 1845
+- - 1633
+  - 753
+- - 4710
+  - 4087
+- - 4710
+  - 7112
+- - 103
+  - 6480
+- - 616
+  - 5945
+- - 616
+  - 734
+- - 4206
+  - 7051
+- - 4719
+  - 899
+- - 4719
+  - 5233
+- - 4721
+  - 6093
+- - 5233
+  - 945
+- - 5233
+  - 1022
+- - 6775
+  - 2202
+- - 6775
+  - 6093
+- - 2680
+  - 945
+- - 2680
+  - 746
+- - 2173
+  - 6480
+- - 2173
+  - 164
+- - 4742
+  - 6433
+- - 3206
+  - 1426
+- - 3206
+  - 5561
+- - 2184
+  - 3336
+- - 4233
+  - 4507
+- - 4233
+  - 1398
+- - 4237
+  - 427
+- - 145
+  - 1305
+- - 145
+  - 2412
+- - 4241
+  - 2873
+- - 4241
+  - 3814
+- - 4245
+  - 2202
+- - 4245
+  - 3265
+- - 4245
+  - 5488
+- - 2202
+  - 6608
+- - 7325
+  - 2401
+- - 7325
+  - 6608
+- - 2724
+  - 3324
+- - 164
+  - 3427
+- - 4262
+  - 3814
+- - 6823
+  - 3324
+- - 6823
+  - 719
+- - 4264
+  - 6075
+- - 4264
+  - 4886
+- - 4267
+  - 6544
+- - 5805
+  - 2401
+- - 7354
+  - 876
+- - 7354
+  - 2995
+- - 7354
+  - 5986
+- - 706
+  - 6033
+- - 1729
+  - 3505
+- - 1729
+  - 3346
+- - 7361
+  - 3525
+- - 7361
+  - 6491
+- - 197
+  - 1853
+- - 197
+  - 6418
+- - 719
+  - 1940
+- - 5847
+  - 3058
+- - 734
+  - 3336
+- - 225
+  - 4880
+- - 225
+  - 945
+- - 3811
+  - 7051
+- - 6371
+  - 3505
+- - 3301
+  - 6093
+- - 4836
+  - 6075
+- - 4836
+  - 3525
+- - 746
+  - 1022
+- - 746
+  - 1323
+- - 753
+  - 6519
+- - 2294
+  - 5105
+- - 2294
+  - 347
+- - 6391
+  - 4885
+- - 6391
+  - 899
+- - 4857
+  - 5577
+- - 3324
+  - 767
+- - 767
+  - 4486
+- - 6408
+  - 1810
+- - 6927
+  - 6433
+- - 4880
+  - 6544
+- - 3346
+  - 474
+- - 6418
+  - 4433
+- - 2325
+  - 1398
+- - 2325
+  - 797
+- - 6935
+  - 1842
+- - 1305
+  - 5051
+- - 797
+  - 2543
+- - 1314
+  - 4392
+- - 4392
+  - 4953
+- - 2346
+  - 3489
+- - 4908
+  - 2553
+- - 3378
+  - 6519
+- - 3378
+  - 4507
+- - 1842
+  - 5561
+- - 1842
+  - 2873
+- - 1334
+  - 6480
+- - 3390
+  - 3058
+- - 3390
+  - 2453
+- - 2879
+  - 4604
+- - 2879
+  - 4087
+- - 2376
+  - 5451
+- - 4433
+  - 3505
+- - 6996
+  - 6589
+- - 4953
+  - 1022
+- - 4445
+  - 1940
+- - 5986
+  - 3049
+- - 876
+  - 6599
+- - 6519
+  - 1426
+- - 7051
+  - 5577
+- - 427
+  - 5561
+- - 2995
+  - 449
+- - 6075
+  - 3049
+- - 6599
+  - 2553
+- - 6087
+  - 5105
+- - 2543
+  - 4604
+edge_attributes:
+  flags:
+    ? !!python/tuple
+    - 3108
+    - 5051
+    : - add
+    ? !!python/tuple
+    - 3108
+    - 7325
+    : - add
+    ? !!python/tuple
+    - 4136
+    - 6408
+    : - add
+    ? !!python/tuple
+    - 50
+    - 2346
+    : - add
+    ? !!python/tuple
+    - 7258
+    - 5986
+    : - add
+    ? !!python/tuple
+    - 3378
+    - 6519
+    : - add
+    ? !!python/tuple
+    - 427
+    - 5561
+    : - add
+node_attributes:
+  pos:
+    513:
+    - 520523.67
+    - 5682526.06
+    - 156.58
+    2565:
+    - 520458.44
+    - 5682554.56
+    - 128.26
+    518:
+    - 520515.46
+    - 5682528.54
+    - 147.77
+    6664:
+    - 520517.7
+    - 5682520.18
+    - 129.41
+    1033:
+    - 520422.67
+    - 5682568.8
+    - 125.52
+    522:
+    - 520420.46
+    - 5682572.01
+    - 125.52
+    6672:
+    - 520519.73
+    - 5682516.26
+    - 128.2
+    2583:
+    - 520518.71
+    - 5682515.66
+    - 128.22
+    541:
+    - 520500.78
+    - 5682532.1
+    - 143.46
+    543:
+    - 520512.55
+    - 5682530.2
+    - 144.62
+    3108:
+    - 520453.29
+    - 5682568.98
+    - 126.41
+    4136:
+    - 520471.4
+    - 5682557.26
+    - 131.26
+    7212:
+    - 520476.37
+    - 5682567.35
+    - 125.22
+    5682:
+    - 520459.13
+    - 5682560.63
+    - 128.22
+    50:
+    - 520460.54
+    - 5682559.42
+    - 128.35
+    1591:
+    - 520477.04
+    - 5682532.7
+    - 128.45
+    6204:
+    - 520448.97
+    - 5682562.31
+    - 130.29
+    2109:
+    - 520499.27
+    - 5682535.67
+    - 142.28
+    5183:
+    - 520456.56
+    - 5682555.83
+    - 130.88
+    3648:
+    - 520462.95
+    - 5682550.49
+    - 129.0
+    3135:
+    - 520513.25
+    - 5682529.34
+    - 144.87
+    5699:
+    - 520503.33
+    - 5682507.15
+    - 127.68
+    583:
+    - 520531.8
+    - 5682524.47
+    - 160.04
+    584:
+    - 520501.23
+    - 5682508.64
+    - 127.33
+    3148:
+    - 520480.04
+    - 5682551.37
+    - 132.98
+    6225:
+    - 520482.13
+    - 5682564.38
+    - 132.85
+    6231:
+    - 520498.38
+    - 5682542.39
+    - 136.44
+    7256:
+    - 520437.61
+    - 5682576.09
+    - 125.33
+    5720:
+    - 520461.27
+    - 5682563.75
+    - 128.62
+    7258:
+    - 520512.22
+    - 5682513.62
+    - 127.48
+    5721:
+    - 520510.54
+    - 5682518.23
+    - 128.94
+    1633:
+    - 520500.96
+    - 5682543.78
+    - 137.04
+    4710:
+    - 520510.58
+    - 5682531.75
+    - 141.04
+    103:
+    - 520516.19
+    - 5682527.0
+    - 152.05
+    616:
+    - 520529.08
+    - 5682526.63
+    - 156.69
+    4206:
+    - 520421.16
+    - 5682559.52
+    - 125.35
+    4719:
+    - 520497.59
+    - 5682541.95
+    - 143.56
+    4721:
+    - 520474.74
+    - 5682559.85
+    - 131.32
+    5233:
+    - 520493.78
+    - 5682541.21
+    - 142.76
+    6775:
+    - 520469.99
+    - 5682565.12
+    - 127.22
+    2680:
+    - 520495.55
+    - 5682540.68
+    - 140.15
+    2173:
+    - 520516.59
+    - 5682526.93
+    - 156.76
+    4742:
+    - 520467.75
+    - 5682546.61
+    - 130.05
+    3206:
+    - 520518.25
+    - 5682531.68
+    - 130.96
+    2184:
+    - 520531.85
+    - 5682523.86
+    - 157.71
+    4233:
+    - 520515.28
+    - 5682535.5
+    - 141.3
+    4237:
+    - 520525.23
+    - 5682526.95
+    - 131.09
+    145:
+    - 520449.01
+    - 5682574.61
+    - 131.33
+    4241:
+    - 520525.71
+    - 5682521.98
+    - 129.8
+    4245:
+    - 520468.84
+    - 5682570.17
+    - 126.79
+    2202:
+    - 520466.11
+    - 5682566.34
+    - 126.87
+    7325:
+    - 520456.18
+    - 5682565.0
+    - 126.2
+    2724:
+    - 520454.82
+    - 5682555.88
+    - 130.81
+    164:
+    - 520518.47
+    - 5682527.1
+    - 156.7
+    4262:
+    - 520519.64
+    - 5682521.03
+    - 129.53
+    6823:
+    - 520460.55
+    - 5682555.69
+    - 130.68
+    4264:
+    - 520510.26
+    - 5682503.63
+    - 127.47
+    4267:
+    - 520482.68
+    - 5682549.68
+    - 134.1
+    5805:
+    - 520459.11
+    - 5682564.75
+    - 128.2
+    3765:
+    - 520462.57
+    - 5682561.35
+    - 130.1
+    7354:
+    - 520512.23
+    - 5682516.06
+    - 127.49
+    3265:
+    - 520471.25
+    - 5682570.36
+    - 126.05
+    706:
+    - 520452.15
+    - 5682560.65
+    - 130.43
+    1729:
+    - 520481.74
+    - 5682525.55
+    - 127.81
+    7361:
+    - 520523.07
+    - 5682496.62
+    - 127.18
+    197:
+    - 520493.99
+    - 5682514.24
+    - 127.69
+    719:
+    - 520457.74
+    - 5682558.03
+    - 131.26
+    5847:
+    - 520447.29
+    - 5682570.75
+    - 126.43
+    734:
+    - 520531.34
+    - 5682524.1
+    - 156.38
+    3807:
+    - 520518.54
+    - 5682516.89
+    - 128.54
+    225:
+    - 520492.61
+    - 5682544.04
+    - 136.76
+    3811:
+    - 520422.85
+    - 5682564.75
+    - 126.02
+    6371:
+    - 520475.69
+    - 5682526.44
+    - 127.81
+    3301:
+    - 520473.81
+    - 5682559.24
+    - 132.79
+    3814:
+    - 520523.08
+    - 5682520.4
+    - 129.43
+    4836:
+    - 520518.35
+    - 5682501.77
+    - 126.53
+    746:
+    - 520496.14
+    - 5682539.21
+    - 142.2
+    753:
+    - 520507.86
+    - 5682541.13
+    - 136.49
+    2294:
+    - 520506.03
+    - 5682530.66
+    - 144.88
+    6391:
+    - 520501.42
+    - 5682540.12
+    - 136.69
+    4857:
+    - 520418.27
+    - 5682563.66
+    - 127.47
+    3324:
+    - 520457.94
+    - 5682551.83
+    - 129.81
+    767:
+    - 520460.0
+    - 5682551.18
+    - 129.33
+    6408:
+    - 520470.27
+    - 5682560.69
+    - 132.46
+    3336:
+    - 520531.85
+    - 5682524.54
+    - 156.61
+    6927:
+    - 520473.78
+    - 5682538.28
+    - 130.08
+    4880:
+    - 520489.57
+    - 5682545.72
+    - 134.56
+    1810:
+    - 520477.14
+    - 5682555.15
+    - 132.76
+    3346:
+    - 520480.86
+    - 5682527.99
+    - 128.52
+    6418:
+    - 520491.66
+    - 5682516.18
+    - 126.7
+    4885:
+    - 520502.28
+    - 5682537.94
+    - 137.1
+    2325:
+    - 520514.01
+    - 5682532.7
+    - 140.23
+    6935:
+    - 520534.79
+    - 5682520.81
+    - 129.39
+    4886:
+    - 520509.83
+    - 5682502.03
+    - 130.71
+    1305:
+    - 520448.76
+    - 5682574.48
+    - 131.23
+    797:
+    - 520514.79
+    - 5682531.95
+    - 140.1
+    6433:
+    - 520469.9
+    - 5682542.9
+    - 130.63
+    1314:
+    - 520485.96
+    - 5682540.78
+    - 144.03
+    4392:
+    - 520492.52
+    - 5682540.51
+    - 143.34
+    2346:
+    - 520460.92
+    - 5682559.89
+    - 128.99
+    1323:
+    - 520497.27
+    - 5682538.16
+    - 142.28
+    4908:
+    - 520498.55
+    - 5682534.05
+    - 126.25
+    3378:
+    - 520512.75
+    - 5682536.47
+    - 135.68
+    1842:
+    - 520531.1
+    - 5682525.27
+    - 130.41
+    1845:
+    - 520514.25
+    - 5682514.96
+    - 128.24
+    1334:
+    - 520516.43
+    - 5682526.34
+    - 161.6
+    2873:
+    - 520527.42
+    - 5682524.19
+    - 130.02
+    5945:
+    - 520527.94
+    - 5682526.42
+    - 156.49
+    1853:
+    - 520498.77
+    - 5682511.23
+    - 127.64
+    3390:
+    - 520444.84
+    - 5682568.28
+    - 127.73
+    2879:
+    - 520511.15
+    - 5682530.78
+    - 140.38
+    2376:
+    - 520461.59
+    - 5682563.73
+    - 129.79
+    5451:
+    - 520461.92
+    - 5682561.77
+    - 130.11
+    6480:
+    - 520516.91
+    - 5682525.49
+    - 156.34
+    4433:
+    - 520491.17
+    - 5682516.52
+    - 126.72
+    3921:
+    - 520513.1
+    - 5682529.45
+    - 144.1
+    6996:
+    - 520456.67
+    - 5682561.01
+    - 131.2
+    4953:
+    - 520493.61
+    - 5682539.86
+    - 142.83
+    6491:
+    - 520525.27
+    - 5682494.45
+    - 128.04
+    347:
+    - 520504.34
+    - 5682528.67
+    - 144.83
+    4445:
+    - 520467.44
+    - 5682557.79
+    - 131.11
+    2401:
+    - 520457.92
+    - 5682565.26
+    - 127.3
+    5986:
+    - 520512.28
+    - 5682511.33
+    - 126.89
+    3427:
+    - 520521.4
+    - 5682527.54
+    - 156.7
+    7015:
+    - 520446.14
+    - 5682545.24
+    - 128.8
+    2412:
+    - 520450.97
+    - 5682575.55
+    - 132.08
+    876:
+    - 520510.04
+    - 5682518.04
+    - 127.6
+    5488:
+    - 520463.58
+    - 5682572.03
+    - 127.98
+    1398:
+    - 520515.0
+    - 5682533.12
+    - 140.29
+    6519:
+    - 520511.76
+    - 5682539.11
+    - 136.24
+    899:
+    - 520498.29
+    - 5682541.65
+    - 143.54
+    4486:
+    - 520461.75
+    - 5682548.1
+    - 129.52
+    7051:
+    - 520423.14
+    - 5682562.19
+    - 126.43
+    6544:
+    - 520487.47
+    - 5682546.88
+    - 135.27
+    6033:
+    - 520454.82
+    - 5682557.54
+    - 129.94
+    1426:
+    - 520513.83
+    - 5682536.53
+    - 135.49
+    1940:
+    - 520462.67
+    - 5682559.66
+    - 131.54
+    2453:
+    - 520446.05
+    - 5682565.84
+    - 130.19
+    4507:
+    - 520514.89
+    - 5682536.12
+    - 140.47
+    3489:
+    - 520462.98
+    - 5682556.89
+    - 131.64
+    427:
+    - 520525.43
+    - 5682529.13
+    - 131.43
+    945:
+    - 520492.92
+    - 5682542.58
+    - 137.31
+    3505:
+    - 520482.53
+    - 5682521.91
+    - 126.94
+    2995:
+    - 520510.69
+    - 5682515.71
+    - 127.24
+    5561:
+    - 520526.54
+    - 5682528.08
+    - 130.75
+    5051:
+    - 520444.88
+    - 5682572.62
+    - 129.75
+    6075:
+    - 520512.06
+    - 5682502.21
+    - 126.98
+    6589:
+    - 520458.28
+    - 5682559.69
+    - 128.64
+    449:
+    - 520506.05
+    - 5682518.77
+    - 129.49
+    3525:
+    - 520521.63
+    - 5682499.25
+    - 126.77
+    6599:
+    - 520508.49
+    - 5682521.76
+    - 127.21
+    7112:
+    - 520513.42
+    - 5682529.73
+    - 144.85
+    5577:
+    - 520419.83
+    - 5682562.33
+    - 126.6
+    6087:
+    - 520511.21
+    - 5682529.66
+    - 144.89
+    6093:
+    - 520474.94
+    - 5682561.72
+    - 130.67
+    6608:
+    - 520460.09
+    - 5682567.9
+    - 126.35
+    474:
+    - 520479.42
+    - 5682530.38
+    - 128.14
+    5601:
+    - 520430.88
+    - 5682573.57
+    - 125.71
+    3049:
+    - 520513.57
+    - 5682503.29
+    - 125.62
+    2543:
+    - 520513.81
+    - 5682531.86
+    - 139.85
+    5105:
+    - 520508.43
+    - 5682530.78
+    - 145.3
+    3058:
+    - 520441.28
+    - 5682571.64
+    - 126.77
+    4087:
+    - 520511.68
+    - 5682531.09
+    - 141.04
+    2553:
+    - 520507.55
+    - 5682528.15
+    - 126.92
+    4604:
+    - 520510.99
+    - 5682531.16
+    - 139.53
+    1022:
+    - 520494.59
+    - 5682540.54
+    - 143.31
+  fulladdress:
+    513:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.6
+    2565:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.10
+    518:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.12
+    6664:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.54
+    1033:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.6
+    522:
+    - CheddarCatchment.UpperFlood.RoyalIcing.EP.5
+    6672:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.56
+    2583:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.57
+    541:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.0
+    543:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.5
+    3108:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.54
+    4136:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.41
+    7212:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.51
+    5682:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.8
+    50:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.9
+    1591:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.30
+    6204:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.17
+    2109:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.31
+    5183:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.20
+    3648:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.26
+    3135:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.6
+    5699:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.7
+    583:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.0
+    584:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.8
+    3148:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.22
+    6225:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.45
+    6231:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.40
+    7256:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.13
+    5720:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.7
+    7258:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.60
+    5721:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.59
+    1633:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.42
+    4710:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.8
+    103:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.11
+    616:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.4
+    4206:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.10
+    4719:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.37
+    4721:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.44
+    5233:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.36
+    6775:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.46
+    2680:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.28
+    2173:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.9
+    4742:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.27
+    3206:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.46
+    2184:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.1
+    4233:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.16
+    4237:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.47b
+    145:
+    - CheddarCatchment.UpperFlood.EastPassage.DeepPoolTube.4
+    4241:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.51
+    4245:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.48
+    2202:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.47
+    7325:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.53
+    2724:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.21
+    164:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.8
+    4262:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.53
+    6823:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.37
+    4264:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.5
+    4267:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.23
+    5805:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.6
+    3765:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.11
+    7354:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.64
+    3265:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.50
+    706:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.18
+    1729:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.33
+    7361:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.14
+    197:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.10
+    719:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.38
+    5847:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.55
+    734:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.3
+    3807:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.55
+    225:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.26
+    3811:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.7
+    6371:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.36
+    3301:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.42
+    3814:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.52
+    4836:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.12
+    746:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.29
+    753:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.43
+    2294:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.2
+    6391:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.39
+    4857:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.11
+    3324:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.23
+    767:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.24
+    6408:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.20
+    3336:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.2
+    6927:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.29
+    4880:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.25
+    1810:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.21
+    3346:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.32
+    6418:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.35s
+    4885:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.41
+    2325:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.14
+    6935:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.49
+    4886:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.6
+    1305:
+    - CheddarCatchment.UpperFlood.EastPassage.DeepPoolTube.4a
+    797:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.13
+    6433:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.28
+    1314:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.35
+    4392:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.34
+    2346:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.12
+    1323:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.30
+    4908:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.70
+    3378:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_DistoX.1.18
+    1842:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.48
+    1845:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.58
+    1334:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.10u
+    2873:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.50
+    5945:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.5
+    1853:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.9
+    3390:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.15
+    2879:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.10
+    2376:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.16
+    5451:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.17
+    6480:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.10
+    4433:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.35
+    3921:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.13
+    6996:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.15
+    4953:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.33
+    6491:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.15
+    347:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.1
+    4445:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.40
+    2401:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.5
+    5986:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.61
+    3427:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven2.1.7
+    7015:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.22d
+    2412:
+    - CheddarCatchment.UpperFlood.EastPassage.DeepPoolTube.4b
+    876:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.67
+    5488:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.49
+    1398:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.15
+    6519:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.44
+    899:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.38
+    4486:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.25
+    7051:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.8
+    6544:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.24
+    6033:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.19
+    1426:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.45
+    1940:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.39
+    2453:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.16
+    4507:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.17
+    3489:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.13
+    427:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.47a
+    945:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.27
+    3505:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.34
+    2995:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.65
+    5561:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.47
+    5051:
+    - CheddarCatchment.UpperFlood.EastPassage.DeepPoolTube.3
+    6075:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.4
+    6589:
+    - CheddarCatchment.UpperFlood.EastPassage.DownUnder.14
+    449:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.66
+    3525:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.13
+    6599:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.68
+    7112:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.7
+    5577:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.9
+    6087:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.4
+    6093:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.43
+    6608:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.52
+    474:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.31
+    5601:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_Pony.12
+    3049:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.CrossRift2.1.3
+    2543:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.12
+    5105:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.3
+    3058:
+    - CheddarCatchment.UpperFlood.EastPassage.EP_CL.E6
+    4087:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.9
+    2553:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.69
+    4604:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.AwolAven.AwolAven1.1.11
+    1022:
+    - CheddarCatchment.UpperFlood.EastPassage.BeyondZebraAven.BZA_Pony.32
+  splays:
+    513:
+    - - 520523.59
+      - 5682525.87
+      - 156.78
+    - - 520523.86
+      - 5682526.95
+      - 156.74
+    - - 520523.66
+      - 5682526.27
+      - 156.71
+    - - 520523.81
+      - 5682526.89
+      - 156.68
+    518:
+    - - 520514.9
+      - 5682529.3
+      - 147.73
+    - - 520513.89
+      - 5682530.27
+      - 147.72
+    - - 520514.57
+      - 5682529.03
+      - 147.76
+    - - 520515.11
+      - 5682528.29
+      - 147.76
+    543:
+    - - 520512.86
+      - 5682530.44
+      - 144.6
+    3135:
+    - - 520514.42
+      - 5682528.93
+      - 144.48
+    - - 520514.61
+      - 5682528.99
+      - 144.56
+    - - 520513.7
+      - 5682528.35
+      - 144.24
+    - - 520512.87
+      - 5682528.05
+      - 144.25
+    - - 520512.06
+      - 5682528.68
+      - 144.33
+    - - 520513.24
+      - 5682529.7
+      - 143.87
+    - - 520513.09
+      - 5682528.05
+      - 144.21
+    - - 520513.41
+      - 5682529.75
+      - 143.94
+    - - 520513.26
+      - 5682529.32
+      - 144.1
+    - - 520513.6
+      - 5682530.29
+      - 144.77
+    5699:
+    - - 520503.16
+      - 5682506.96
+      - 126.89
+    - - 520503.57
+      - 5682507.91
+      - 126.72
+    - - 520502.45
+      - 5682506.39
+      - 131.58
+    - - 520503.15
+      - 5682506.84
+      - 127.63
+    584:
+    - - 520501.12
+      - 5682507.88
+      - 130.48
+    - - 520501.65
+      - 5682509.55
+      - 126.65
+    - - 520501.53
+      - 5682509.0
+      - 127.32
+    7258:
+    - - 520512.21
+      - 5682513.51
+      - 128.28
+    - - 520512.04
+      - 5682513.18
+      - 129.78
+    - - 520511.34
+      - 5682513.26
+      - 128.18
+    - - 520510.96
+      - 5682512.96
+      - 126.95
+    - - 520511.34
+      - 5682513.25
+      - 126.09
+    - - 520512.42
+      - 5682514.12
+      - 128.09
+    616:
+    - - 520529.09
+      - 5682526.65
+      - 156.35
+    - - 520528.68
+      - 5682525.88
+      - 156.78
+    - - 520528.72
+      - 5682525.9
+      - 156.69
+    - - 520528.98
+      - 5682526.33
+      - 156.5
+    2173:
+    - - 520517.12
+      - 5682526.3
+      - 156.54
+    - - 520517.59
+      - 5682525.66
+      - 156.8
+    - - 520517.45
+      - 5682526.07
+      - 157.12
+    - - 520516.86
+      - 5682526.55
+      - 157.16
+    - - 520516.61
+      - 5682526.86
+      - 157.07
+    - - 520516.5
+      - 5682527.06
+      - 156.95
+    - - 520518.41
+      - 5682527.02
+      - 156.62
+    - - 520518.0
+      - 5682528.16
+      - 156.87
+    2184:
+    - - 520531.84
+      - 5682524.16
+      - 157.74
+    - - 520532.22
+      - 5682523.99
+      - 157.73
+    - - 520531.96
+      - 5682523.76
+      - 159.0
+    - - 520532.77
+      - 5682522.33
+      - 158.33
+    4233:
+    - - 520513.79
+      - 5682533.93
+      - 140.72
+    - - 520515.92
+      - 5682533.3
+      - 140.26
+    - - 520515.57
+      - 5682531.93
+      - 139.9
+    - - 520515.28
+      - 5682532.9
+      - 140.2
+    - - 520516.33
+      - 5682534.45
+      - 140.66
+    - - 520514.59
+      - 5682535.5
+      - 141.05
+    164:
+    - - 520515.36
+      - 5682526.8
+      - 156.82
+    4264:
+    - - 520509.84
+      - 5682502.95
+      - 127.83
+    - - 520509.83
+      - 5682502.34
+      - 127.99
+    - - 520509.82
+      - 5682501.75
+      - 128.19
+    - - 520510.09
+      - 5682502.27
+      - 127.67
+    - - 520510.5
+      - 5682501.11
+      - 128.09
+    - - 520511.79
+      - 5682501.34
+      - 127.45
+    - - 520510.48
+      - 5682504.33
+      - 126.3
+    - - 520510.17
+      - 5682503.49
+      - 126.43
+    - - 520510.06
+      - 5682503.19
+      - 127.34
+    7361:
+    - - 520523.04
+      - 5682496.39
+      - 127.66
+    - - 520522.34
+      - 5682496.17
+      - 128.73
+    - - 520522.22
+      - 5682495.71
+      - 128.36
+    - - 520522.42
+      - 5682495.99
+      - 126.83
+    - - 520523.52
+      - 5682496.96
+      - 126.76
+    - - 520523.97
+      - 5682494.83
+      - 126.93
+    - - 520523.69
+      - 5682494.58
+      - 128.0
+    - - 520524.77
+      - 5682495.07
+      - 127.33
+    - - 520524.48
+      - 5682494.79
+      - 127.27
+    - - 520525.37
+      - 5682494.43
+      - 128.06
+    197:
+    - - 520494.59
+      - 5682512.85
+      - 131.68
+    - - 520494.39
+      - 5682513.35
+      - 131.24
+    - - 520494.02
+      - 5682514.31
+      - 126.83
+    - - 520494.32
+      - 5682514.92
+      - 126.72
+    - - 520494.2
+      - 5682514.58
+      - 127.73
+    734:
+    - - 520530.6
+      - 5682525.82
+      - 156.4
+    - - 520529.77
+      - 5682525.15
+      - 156.44
+    - - 520532.05
+      - 5682524.41
+      - 156.4
+    - - 520532.6
+      - 5682524.24
+      - 156.28
+    - - 520532.28
+      - 5682523.48
+      - 156.33
+    - - 520532.33
+      - 5682522.85
+      - 156.26
+    - - 520531.88
+      - 5682523.09
+      - 156.27
+    - - 520530.35
+      - 5682524.56
+      - 156.34
+    - - 520530.22
+      - 5682524.01
+      - 156.46
+    4836:
+    - - 520518.18
+      - 5682501.18
+      - 126.97
+    - - 520517.87
+      - 5682500.79
+      - 126.81
+    - - 520518.57
+      - 5682502.28
+      - 125.66
+    - - 520517.77
+      - 5682500.59
+      - 126.43
+    - - 520517.84
+      - 5682500.56
+      - 126.49
+    2294:
+    - - 520505.57
+      - 5682530.42
+      - 145.02
+    - - 520506.81
+      - 5682531.28
+      - 145.3
+    - - 520506.74
+      - 5682531.83
+      - 145.48
+    - - 520505.94
+      - 5682531.73
+      - 145.41
+    - - 520506.06
+      - 5682529.89
+      - 144.87
+    - - 520505.26
+      - 5682530.71
+      - 145.08
+    - - 520505.95
+      - 5682530.56
+      - 145.32
+    6391:
+    - - 520500.91
+      - 5682539.81
+      - 136.67
+    - - 520502.04
+      - 5682537.82
+      - 137.09
+    - - 520502.19
+      - 5682537.81
+      - 137.11
+    4880:
+    - - 520489.46
+      - 5682545.9
+      - 132.35
+    - - 520489.49
+      - 5682545.76
+      - 134.14
+    - - 520489.67
+      - 5682546.07
+      - 134.58
+    797:
+    - - 520513.87
+      - 5682532.22
+      - 140.09
+    5945:
+    - - 520527.43
+      - 5682526.54
+      - 156.51
+    - - 520526.48
+      - 5682526.53
+      - 156.47
+    - - 520527.32
+      - 5682526.69
+      - 156.27
+    - - 520526.09
+      - 5682525.61
+      - 156.47
+    - - 520527.16
+      - 5682525.91
+      - 156.47
+    - - 520528.03
+      - 5682526.78
+      - 156.2
+    - - 520527.99
+      - 5682526.63
+      - 156.16
+    - - 520527.95
+      - 5682526.41
+      - 156.21
+    - - 520527.84
+      - 5682526.16
+      - 156.31
+    - - 520527.67
+      - 5682525.87
+      - 156.37
+    - - 520527.99
+      - 5682526.95
+      - 156.51
+    1853:
+    - - 520499.23
+      - 5682511.98
+      - 126.65
+    - - 520498.33
+      - 5682510.38
+      - 130.38
+    - - 520498.47
+      - 5682510.89
+      - 127.57
+    - - 520498.68
+      - 5682511.19
+      - 126.93
+    2879:
+    - - 520511.73
+      - 5682530.59
+      - 139.59
+    - - 520511.99
+      - 5682529.87
+      - 139.8
+    - - 520510.74
+      - 5682531.36
+      - 139.53
+    - - 520510.49
+      - 5682530.68
+      - 139.48
+    6480:
+    - - 520517.05
+      - 5682525.78
+      - 159.26
+    - - 520517.46
+      - 5682525.31
+      - 158.09
+    - - 520517.6
+      - 5682525.52
+      - 156.37
+    - - 520517.43
+      - 5682524.94
+      - 156.3
+    - - 520514.59
+      - 5682528.73
+      - 156.64
+    - - 520515.15
+      - 5682527.81
+      - 156.6
+    - - 520515.37
+      - 5682527.91
+      - 156.67
+    - - 520516.38
+      - 5682526.89
+      - 156.69
+    - - 520517.4
+      - 5682525.76
+      - 156.48
+    347:
+    - - 520504.38
+      - 5682528.75
+      - 146.67
+    - - 520504.41
+      - 5682528.83
+      - 145.44
+    - - 520506.08
+      - 5682527.45
+      - 145.16
+    - - 520504.98
+      - 5682528.73
+      - 144.76
+    - - 520504.99
+      - 5682528.81
+      - 144.31
+    - - 520504.49
+      - 5682529.04
+      - 144.22
+    - - 520504.28
+      - 5682529.52
+      - 144.72
+    - - 520500.99
+      - 5682531.84
+      - 145.14
+    5986:
+    - - 520513.54
+      - 5682503.95
+      - 125.71
+    - - 520513.2
+      - 5682504.71
+      - 125.93
+    - - 520512.74
+      - 5682504.92
+      - 125.68
+    - - 520512.69
+      - 5682505.05
+      - 125.81
+    - - 520513.57
+      - 5682504.81
+      - 125.88
+    - - 520513.38
+      - 5682507.3
+      - 126.26
+    - - 520513.38
+      - 5682509.24
+      - 126.5
+    - - 520511.96
+      - 5682506.58
+      - 126.39
+    - - 520511.4
+      - 5682508.81
+      - 126.66
+    - - 520511.42
+      - 5682510.29
+      - 126.87
+    - - 520514.01
+      - 5682513.59
+      - 127.44
+    - - 520515.25
+      - 5682511.74
+      - 127.34
+    - - 520514.75
+      - 5682510.78
+      - 127.12
+    - - 520512.23
+      - 5682512.62
+      - 126.76
+    - - 520512.62
+      - 5682512.19
+      - 126.78
+    - - 520513.52
+      - 5682511.8
+      - 126.6
+    - - 520514.19
+      - 5682510.91
+      - 126.7
+    - - 520512.27
+      - 5682511.33
+      - 127.25
+    - - 520513.17
+      - 5682510.74
+      - 127.54
+    - - 520514.1
+      - 5682509.91
+      - 126.75
+    - - 520513.41
+      - 5682510.39
+      - 126.1
+    3427:
+    - - 520521.34
+      - 5682528.12
+      - 156.9
+    - - 520521.12
+      - 5682526.5
+      - 156.64
+    6519:
+    - - 520510.49
+      - 5682538.22
+      - 135.48
+    - - 520511.65
+      - 5682539.15
+      - 135.44
+    - - 520511.5
+      - 5682538.57
+      - 138.21
+    - - 520510.7
+      - 5682538.26
+      - 136.15
+    - - 520510.49
+      - 5682538.22
+      - 135.48
+    - - 520511.65
+      - 5682539.15
+      - 135.44
+    - - 520511.5
+      - 5682538.57
+      - 138.21
+    - - 520510.7
+      - 5682538.26
+      - 136.15
+    4507:
+    - - 520515.1
+      - 5682536.32
+      - 144.92
+    - - 520515.46
+      - 5682535.49
+      - 144.3
+    - - 520516.88
+      - 5682534.45
+      - 141.59
+    - - 520514.47
+      - 5682535.56
+      - 140.42
+    - - 520513.44
+      - 5682536.84
+      - 140.25
+    6075:
+    - - 520513.9
+      - 5682503.33
+      - 125.75
+    - - 520512.63
+      - 5682503.37
+      - 126.02
+    3525:
+    - - 520522.02
+      - 5682499.56
+      - 125.99
+    - - 520521.24
+      - 5682499.19
+      - 127.19
+    - - 520520.98
+      - 5682499.12
+      - 127.41
+    - - 520521.01
+      - 5682499.02
+      - 127.19
+    - - 520519.75
+      - 5682498.2
+      - 127.79
+    - - 520519.47
+      - 5682497.9
+      - 126.32
+    7112:
+    - - 520511.19
+      - 5682531.87
+      - 144.57
+    - - 520514.5
+      - 5682529.0
+      - 144.57
+    - - 520514.74
+      - 5682529.19
+      - 144.82
+    - - 520513.93
+      - 5682529.96
+      - 144.85
+    6087:
+    - - 520512.11
+      - 5682531.19
+      - 144.82
+    - - 520512.01
+      - 5682530.21
+      - 144.55
+    - - 520511.68
+      - 5682529.96
+      - 144.9
+    - - 520511.59
+      - 5682530.37
+      - 144.89
+    - - 520511.18
+      - 5682529.02
+      - 144.5
+    - - 520511.2
+      - 5682529.66
+      - 144.51
+    - - 520511.05
+      - 5682529.68
+      - 145.92
+    - - 520511.29
+      - 5682530.07
+      - 144.91
+    2543:
+    - - 520515.42
+      - 5682531.38
+      - 139.77
+    - - 520514.89
+      - 5682531.78
+      - 140.07
+    - - 520515.0
+      - 5682531.13
+      - 139.78
+    - - 520510.53
+      - 5682531.48
+      - 139.78
+    - - 520514.2
+      - 5682530.86
+      - 139.54
+    - - 520513.16
+      - 5682530.71
+      - 139.54
+    - - 520512.84
+      - 5682530.47
+      - 139.38
+    5105:
+    - - 520508.44
+      - 5682530.81
+      - 144.96
+    - - 520508.44
+      - 5682530.22
+      - 144.88
+    - - 520507.85
+      - 5682530.44
+      - 146.7
+    - - 520508.35
+      - 5682530.2
+      - 146.56
+    - - 520508.65
+      - 5682531.47
+      - 145.41
+    - - 520508.25
+      - 5682530.41
+      - 145.25
+    4087:
+    - - 520510.57
+      - 5682531.75
+      - 141.05
+    - - 520511.35
+      - 5682530.48
+      - 140.82
+    - - 520512.14
+      - 5682529.93
+      - 140.78
+    - - 520511.16
+      - 5682530.91
+      - 141.03
+    - - 520510.37
+      - 5682532.43
+      - 141.21
+  idsql:
+    513:
+    - 23634
+    2565:
+    - 23448
+    518:
+    - 23603
+    6664:
+    - 23728
+    1033:
+    - 23913
+    522:
+    - 23425
+    6672:
+    - 23863
+    2583:
+    - 23862
+    541:
+    - 23717
+    543:
+    - 23600
+    3108:
+    - 23430
+    4136:
+    - 23460
+    7212:
+    - 23453
+    5682:
+    - 23441
+    50:
+    - 23444
+    1591:
+    - 23787
+    6204:
+    - 23806
+    2109:
+    - 23892
+    5183:
+    - 23799
+    3648:
+    - 23791
+    3135:
+    - 23601
+    5699:
+    - 23771
+    583:
+    - 23672
+    584:
+    - 23772
+    3148:
+    - 23901
+    6225:
+    - 23458
+    6231:
+    - 23524
+    7256:
+    - 23427
+    5720:
+    - 23438
+    7258:
+    - 23853
+    5721:
+    - 23861
+    1633:
+    - 23525
+    4710:
+    - 23594
+    103:
+    - 23608
+    616:
+    - 23651
+    4206:
+    - 23918
+    4719:
+    - 23884
+    4721:
+    - 23457
+    5233:
+    - 23883
+    6775:
+    - 23455
+    2680:
+    - 23893
+    2173:
+    - 23620
+    4742:
+    - 23790
+    3206:
+    - 23719
+    2184:
+    - 23667
+    4233:
+    - 23563
+    4237:
+    - 23722
+    145:
+    - 23433
+    4241:
+    - 23869
+    4245:
+    - 23451
+    2202:
+    - 23450
+    7325:
+    - 23435
+    2724:
+    - 23801
+    164:
+    - 23629
+    4262:
+    - 23867
+    6823:
+    - 23795
+    4264:
+    - 23770
+    4267:
+    - 23900
+    5805:
+    - 23437
+    3765:
+    - 23447
+    7354:
+    - 23738
+    3265:
+    - 23452
+    706:
+    - 23805
+    1729:
+    - 23784
+    7361:
+    - 23747
+    197:
+    - 23774
+    719:
+    - 23796
+    5847:
+    - 23429
+    734:
+    - 23656
+    3807:
+    - 23864
+    225:
+    - 23881
+    3811:
+    - 23914
+    6371:
+    - 23783
+    3301:
+    - 23459
+    3814:
+    - 23868
+    4836:
+    - 23745
+    746:
+    - 23890
+    753:
+    - 23526
+    2294:
+    - 23700
+    6391:
+    - 23519
+    4857:
+    - 23917
+    3324:
+    - 23794
+    767:
+    - 23792
+    6408:
+    - 23461
+    3336:
+    - 23666
+    6927:
+    - 23788
+    4880:
+    - 23487
+    1810:
+    - 23902
+    3346:
+    - 23785
+    6418:
+    - 23780
+    4885:
+    - 23523
+    2325:
+    - 23571
+    6935:
+    - 23880
+    4886:
+    - 23826
+    1305:
+    - 23432
+    797:
+    - 23572
+    6433:
+    - 23789
+    1314:
+    - 23889
+    4392:
+    - 23888
+    2346:
+    - 23445
+    1323:
+    - 23891
+    4908:
+    - 23734
+    3378:
+    - 23552
+    1842:
+    - 23723
+    1845:
+    - 23860
+    1334:
+    - 23610
+    2873:
+    - 23870
+    5945:
+    - 23639
+    1853:
+    - 23773
+    3390:
+    - 23808
+    2879:
+    - 23583
+    2376:
+    - 23439
+    5451:
+    - 23440
+    6480:
+    - 23609
+    4433:
+    - 23781
+    3921:
+    - 23602
+    6996:
+    - 23443
+    4953:
+    - 23887
+    6491:
+    - 23758
+    347:
+    - 23708
+    4445:
+    - 23798
+    2401:
+    - 23436
+    5986:
+    - 23741
+    3427:
+    - 23631
+    7015:
+    - 23800
+    2412:
+    - 23434
+    876:
+    - 23737
+    5488:
+    - 23454
+    1398:
+    - 23570
+    6519:
+    - 23527
+    899:
+    - 23885
+    4486:
+    - 23793
+    7051:
+    - 23915
+    6544:
+    - 23899
+    6033:
+    - 23804
+    1426:
+    - 23718
+    1940:
+    - 23797
+    2453:
+    - 23807
+    4507:
+    - 23557
+    3489:
+    - 23446
+    427:
+    - 23721
+    945:
+    - 23882
+    3505:
+    - 23782
+    2995:
+    - 23739
+    5561:
+    - 23720
+    5051:
+    - 23431
+    6075:
+    - 23743
+    6589:
+    - 23442
+    449:
+    - 23740
+    3525:
+    - 23746
+    6599:
+    - 23736
+    7112:
+    - 23595
+    5577:
+    - 23916
+    6087:
+    - 23684
+    6093:
+    - 23456
+    6608:
+    - 23449
+    474:
+    - 23786
+    5601:
+    - 23426
+    3049:
+    - 23742
+    2543:
+    - 23574
+    5105:
+    - 23693
+    3058:
+    - 23428
+    4087:
+    - 23588
+    2553:
+    - 23735
+    4604:
+    - 23582
+    1022:
+    - 23886
+  flags:
+    513:
+    - fix
+    2565:
+    - fix
+    518:
+    - fix
+    6664:
+    - fix
+    1033:
+    - fix
+    522:
+    - fix
+    6672:
+    - fix
+    2583:
+    - fix
+    541:
+    - fix
+    543:
+    - fix
+    3108:
+    - fix
+    4136:
+    - fix
+    7212:
+    - fix
+    5682:
+    - fix
+    50:
+    - fix
+    1591:
+    - fix
+    6204:
+    - fix
+    2109:
+    - fix
+    5183:
+    - fix
+    3648:
+    - fix
+    3135:
+    - fix
+    5699:
+    - fix
+    583:
+    - fix
+    584:
+    - fix
+    3148:
+    - fix
+    6225:
+    - fix
+    6231:
+    - fix
+    7256:
+    - fix
+    5720:
+    - fix
+    7258:
+    - fix
+    5721:
+    - fix
+    1633:
+    - fix
+    4710:
+    - fix
+    103:
+    - fix
+    616:
+    - fix
+    4206:
+    - fix
+    4719:
+    - fix
+    4721:
+    - fix
+    5233:
+    - fix
+    6775:
+    - fix
+    2680:
+    - fix
+    2173:
+    - fix
+    4742:
+    - fix
+    3206:
+    - fix
+    2184:
+    - fix
+    4233:
+    - fix
+    4237:
+    - fix
+    145:
+    - fix
+    4241:
+    - fix
+    4245:
+    - fix
+    2202:
+    - fix
+    7325:
+    - fix
+    2724:
+    - fix
+    164:
+    - fix
+    4262:
+    - fix
+    6823:
+    - fix
+    4264:
+    - fix
+    4267:
+    - fix
+    5805:
+    - fix
+    3765:
+    - fix
+    7354:
+    - fix
+    3265:
+    - fix
+    706:
+    - fix
+    1729:
+    - fix
+    7361:
+    - fix
+    197:
+    - fix
+    719:
+    - fix
+    5847:
+    - fix
+    734:
+    - fix
+    3807:
+    - fix
+    225:
+    - fix
+    3811:
+    - fix
+    6371:
+    - fix
+    3301:
+    - fix
+    3814:
+    - fix
+    4836:
+    - fix
+    746:
+    - fix
+    753:
+    - fix
+    2294:
+    - fix
+    6391:
+    - fix
+    4857:
+    - fix
+    3324:
+    - fix
+    767:
+    - fix
+    6408:
+    - fix
+    3336:
+    - fix
+    6927:
+    - fix
+    4880:
+    - fix
+    1810:
+    - fix
+    3346:
+    - fix
+    6418:
+    - fix
+    4885:
+    - fix
+    2325:
+    - fix
+    6935:
+    - fix
+    4886:
+    - fix
+    1305:
+    - fix
+    797:
+    - fix
+    6433:
+    - fix
+    1314:
+    - fix
+    4392:
+    - fix
+    2346:
+    - fix
+    1323:
+    - fix
+    4908:
+    - fix
+    3378:
+    - fix
+    1842:
+    - fix
+    1845:
+    - fix
+    1334:
+    - fix
+    2873:
+    - fix
+    5945:
+    - fix
+    1853:
+    - fix
+    3390:
+    - fix
+    2879:
+    - fix
+    2376:
+    - fix
+    5451:
+    - fix
+    6480:
+    - fix
+    4433:
+    - fix
+    3921:
+    - fix
+    6996:
+    - fix
+    4953:
+    - fix
+    6491:
+    - fix
+    347:
+    - fix
+    4445:
+    - fix
+    2401:
+    - fix
+    5986:
+    - fix
+    3427:
+    - fix
+    7015:
+    - fix
+    2412:
+    - fix
+    876:
+    - fix
+    5488:
+    - fix
+    1398:
+    - fix
+    6519:
+    - fix
+    899:
+    - fix
+    4486:
+    - fix
+    7051:
+    - fix
+    6544:
+    - fix
+    6033:
+    - fix
+    1426:
+    - fix
+    1940:
+    - fix
+    2453:
+    - fix
+    4507:
+    - fix
+    3489:
+    - fix
+    427:
+    - fix
+    945:
+    - fix
+    3505:
+    - fix
+    2995:
+    - fix
+    5561:
+    - fix
+    5051:
+    - fix
+    6075:
+    - fix
+    6589:
+    - fix
+    449:
+    - fix
+    3525:
+    - fix
+    6599:
+    - fix
+    7112:
+    - fix
+    5577:
+    - fix
+    6087:
+    - fix
+    6093:
+    - fix
+    6608:
+    - fix
+    474:
+    - fix
+    5601:
+    - fix
+    3049:
+    - fix
+    2543:
+    - fix
+    5105:
+    - fix
+    3058:
+    - fix
+    4087:
+    - fix
+    2553:
+    - fix
+    4604:
+    - fix
+    1022:
+    - fix
+  csdim:
+    513:
+    - 0.07
+    - 0.21
+    518:
+    - 2.27
+    - 0.28
+    543:
+    - 0.39
+    - 0.39
+    3135:
+    - 2.22
+    - 1.44
+    5699:
+    - 0.32
+    - 2.5
+    584:
+    - 0.65
+    - 3.74
+    7258:
+    - 1.71
+    - 3.65
+    616:
+    - 0.15
+    - 0.64
+    2173:
+    - 2.28
+    - 0.65
+    2184:
+    - 0.88
+    - 1.31
+    4233:
+    - 3.42
+    - 2.1
+    164:
+    - 3.12
+    - 0.08
+    4264:
+    - 1.56
+    - 1.56
+    7361:
+    - 3.33
+    - 2.38
+    197:
+    - 1.88
+    - 1.63
+    734:
+    - 2.86
+    - 0.71
+    4836:
+    - 0.18
+    - 1.02
+    2294:
+    - 1.82
+    - 0.88
+    6391:
+    - 1.83
+    - 1.83
+    4880:
+    - 1.0
+    - 1.0
+    797:
+    - 0.05
+    - 0.06
+    5945:
+    - 2.2
+    - 0.83
+    1853:
+    - 0.34
+    - 4.1
+    2879:
+    - 1.82
+    - 0.96
+    6480:
+    - 2.02
+    - 2.02
+    347:
+    - 4.94
+    - 2.37
+    5986:
+    - 3.29
+    - 3.29
+    3427:
+    - 0.18
+    - 0.17
+    6519:
+    - 1.49
+    - 1.49
+    4507:
+    - 3.68
+    - 4.54
+    6075:
+    - 2.05
+    - 2.05
+    3525:
+    - 0.4
+    - 1.52
+    7112:
+    - 0.74
+    - 2.18
+    6087:
+    - 1.07
+    - 1.46
+    2543:
+    - 4.89
+    - 1.39
+    5105:
+    - 0.63
+    - 1.71
+    4087:
+    - 2.28
+    - 1.31

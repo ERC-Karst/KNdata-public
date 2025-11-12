@@ -1,0 +1,941 @@
+metadata:
+  id_dataset: 008
+  short_name: UltimaPatagonia
+  id_subset: 018
+  status: clean
+  type_of_correction: no correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: Centre Terre. (2024). Survey Data for the Ultima Patagonia Cave Exploration
+    project [Dataset]. https://github.com/tr1813/ultima-patag
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 701
+  total_depth: 366.0
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 73
+  number_edges: 72
+  mean_degree: 1.5
+  min_degree: 1.0
+  max_degree: 7.0
+  cv_degree: 0.667
+  number_cycles: 0
+  mean_length: 233.67
+  cv_length: 0.98
+  length_entropy: 0.48
+  orientation_3d_entropy: 0.636
+  aspl: 1.5
+  cpd: 1.0
+  correlation_vertex_degree: -1.0
+  original_format: Therion
+  comments_cave_info: .nan
+  full_name: Ultima Patagonia
+  geometry: .nan
+  units: meter
+  country: Chile
+  state: "Regi\xF3n de Magallanes y de la Ant\xE1rtica Chilena"
+  area: Natales
+  locality: Archipielago Madre de Dios
+  grotto_id: "64835 (Condors) / 65033 (D\xE9tente) / 65042 (Lobos) / 65017 (Passoire)\
+    \ / 65016 (Ptit Creux) / 65011 (Com\xE8te)"
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: Local ?
+  latitude: -50.2946
+  longitude: -75.2895
+  altitude: '141'
+  cave_url: https://grottocenter.org/ui/entrances/64835
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/tr1813/ultima-patagonia-topo
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 2948
+  - 1770
+- - 2948
+  - 192
+- - 5252
+  - 1021
+- - 5252
+  - 4554
+- - 6
+  - 4639
+- - 6
+  - 5373
+- - 4871
+  - 3269
+- - 4871
+  - 2842
+- - 4733
+  - 724
+- - 4733
+  - 2964
+- - 2186
+  - 3923
+- - 2186
+  - 3800
+- - 1934
+  - 1489
+- - 1934
+  - 1440
+- - 2960
+  - 2256
+- - 2960
+  - 4709
+- - 1021
+  - 5473
+- - 2964
+  - 3023
+- - 1301
+  - 2284
+- - 1301
+  - 4886
+- - 4886
+  - 5337
+- - 4502
+  - 153
+- - 4502
+  - 838
+- - 1816
+  - 4443
+- - 1816
+  - 2517
+- - 153
+  - 5337
+- - 2842
+  - 1090
+- - 2843
+  - 2742
+- - 2843
+  - 3105
+- - 3611
+  - 3411
+- - 3611
+  - 2891
+- - 4124
+  - 2551
+- - 4124
+  - 2742
+- - 4639
+  - 3023
+- - 1440
+  - 2672
+- - 1951
+  - 4840
+- - 1951
+  - 1770
+- - 3105
+  - 4834
+- - 4643
+  - 192
+- - 4643
+  - 3520
+- - 4263
+  - 3019
+- - 4263
+  - 3569
+- - 4651
+  - 3701
+- - 4651
+  - 2284
+- - 433
+  - 4315
+- - 433
+  - 4443
+- - 2099
+  - 3836
+- - 2099
+  - 2551
+- - 317
+  - 5373
+- - 317
+  - 5473
+- - 192
+  - 3411
+- - 1090
+  - 3701
+- - 3395
+  - 744
+- - 3395
+  - 3923
+- - 3269
+  - 3314
+- - 838
+  - 5107
+- - 199
+  - 3144
+- - 199
+  - 724
+- - 3144
+  - 5217
+- - 4554
+  - 3946
+- - 3019
+  - 2672
+- - 2891
+  - 987
+- - 1489
+  - 2517
+- - 3800
+  - 4840
+- - 4315
+  - 3557
+- - 732
+  - 3946
+- - 732
+  - 744
+- - 987
+  - 3836
+- - 5217
+  - 4578
+- - 4578
+  - 3569
+- - 4834
+  - 3314
+- - 3557
+  - 4709
+node_attributes:
+  flags:
+    2948:
+    - fix
+    5252:
+    - fix
+    6:
+    - fix
+    4871:
+    - fix
+    4733:
+    - fix
+    2186:
+    - fix
+    1934:
+    - fix
+    2960:
+    - fix
+    1021:
+    - fix
+    2964:
+    - fix
+    1301:
+    - fix
+    4886:
+    - fix
+    4502:
+    - fix
+    1816:
+    - fix
+    153:
+    - fix
+    2842:
+    - fix
+    2843:
+    - fix
+    3611:
+    - fix
+    4124:
+    - fix
+    4639:
+    - fix
+    1440:
+    - fix
+    1951:
+    - fix
+    3105:
+    - fix
+    4643:
+    - fix
+    4263:
+    - fix
+    4651:
+    - fix
+    433:
+    - fix
+    2099:
+    - fix
+    2742:
+    - fix
+    317:
+    - fix
+    192:
+    - fix
+    3520:
+    - fix
+    1090:
+    - fix
+    3395:
+    - fix
+    3269:
+    - fix
+    838:
+    - fix
+    199:
+    - fix
+    3144:
+    - fix
+    4554:
+    - fix
+    3019:
+    - fix
+    2891:
+    - fix
+    3023:
+    - fix
+    2256:
+    - ent
+    - fix
+    1489:
+    - fix
+    3923:
+    - fix
+    724:
+    - fix
+    2517:
+    - fix
+    3411:
+    - fix
+    3800:
+    - fix
+    5337:
+    - fix
+    4443:
+    - fix
+    4315:
+    - fix
+    732:
+    - fix
+    987:
+    - fix
+    5217:
+    - fix
+    4578:
+    - fix
+    5473:
+    - fix
+    4834:
+    - fix
+    3557:
+    - fix
+    4709:
+    - fix
+    744:
+    - fix
+    4840:
+    - fix
+    3946:
+    - fix
+    1770:
+    - fix
+    2284:
+    - fix
+    2672:
+    - fix
+    3569:
+    - fix
+    3314:
+    - fix
+    5107:
+    - fix
+    3701:
+    - fix
+    2551:
+    - fix
+    3836:
+    - fix
+    5373:
+    - fix
+  pos:
+    2948:
+    - 493454.87
+    - 4304208.81
+    - 225.33
+    5252:
+    - 493475.53
+    - 4304156.91
+    - 309.78
+    6:
+    - 493498.22
+    - 4304158.91
+    - 348.32
+    4871:
+    - 493461.8
+    - 4304281.0
+    - 205.43
+    4733:
+    - 493488.53
+    - 4304141.37
+    - 377.82
+    2186:
+    - 493464.13
+    - 4304181.49
+    - 255.37
+    1934:
+    - 493494.15
+    - 4304107.88
+    - 435.15
+    2960:
+    - 493519.0
+    - 4304030.0
+    - 540.0
+    1021:
+    - 493479.86
+    - 4304157.43
+    - 316.49
+    2964:
+    - 493503.74
+    - 4304140.01
+    - 368.28
+    1301:
+    - 493457.12
+    - 4304321.16
+    - 204.22
+    4886:
+    - 493460.9
+    - 4304333.44
+    - 202.18
+    4502:
+    - 493451.83
+    - 4304369.76
+    - 193.1
+    1816:
+    - 493503.09
+    - 4304079.02
+    - 464.39
+    153:
+    - 493452.43
+    - 4304362.79
+    - 192.86
+    2842:
+    - 493460.16
+    - 4304288.76
+    - 204.45
+    2843:
+    - 493467.87
+    - 4304267.45
+    - 207.62
+    3611:
+    - 493464.07
+    - 4304217.82
+    - 211.73
+    4124:
+    - 493465.96
+    - 4304257.85
+    - 207.03
+    4639:
+    - 493498.22
+    - 4304158.91
+    - 351.32
+    1440:
+    - 493487.94
+    - 4304121.26
+    - 424.82
+    1951:
+    - 493462.9
+    - 4304183.07
+    - 225.37
+    3105:
+    - 493468.56
+    - 4304272.97
+    - 205.38
+    4643:
+    - 493460.09
+    - 4304230.74
+    - 213.45
+    4263:
+    - 493486.48
+    - 4304130.97
+    - 407.98
+    4651:
+    - 493461.25
+    - 4304305.35
+    - 205.64
+    433:
+    - 493496.58
+    - 4304067.69
+    - 476.71
+    2099:
+    - 493469.41
+    - 4304244.64
+    - 211.66
+    2742:
+    - 493466.18
+    - 4304263.83
+    - 207.55
+    317:
+    - 493491.24
+    - 4304156.06
+    - 340.77
+    192:
+    - 493459.61
+    - 4304221.76
+    - 213.76
+    3520:
+    - 493462.77
+    - 4304241.41
+    - 213.45
+    1090:
+    - 493460.48
+    - 4304292.38
+    - 206.14
+    3395:
+    - 493466.49
+    - 4304179.64
+    - 275.37
+    3269:
+    - 493465.62
+    - 4304280.18
+    - 206.26
+    838:
+    - 493449.91
+    - 4304383.54
+    - 187.48
+    199:
+    - 493480.35
+    - 4304141.81
+    - 390.56
+    3144:
+    - 493479.44
+    - 4304142.2
+    - 390.56
+    4554:
+    - 493474.21
+    - 4304160.37
+    - 303.84
+    3019:
+    - 493486.12
+    - 4304128.09
+    - 408.75
+    2891:
+    - 493466.04
+    - 4304217.65
+    - 211.45
+    3023:
+    - 493500.05
+    - 4304153.87
+    - 355.82
+    2256:
+    - 493519.0
+    - 4304030.0
+    - 545.0
+    1489:
+    - 493493.87
+    - 4304093.26
+    - 448.79
+    3923:
+    - 493466.49
+    - 4304179.64
+    - 255.37
+    724:
+    - 493480.35
+    - 4304141.81
+    - 383.56
+    2517:
+    - 493503.09
+    - 4304079.02
+    - 459.39
+    3411:
+    - 493460.73
+    - 4304218.98
+    - 213.61
+    3800:
+    - 493464.13
+    - 4304181.49
+    - 234.37
+    5337:
+    - 493454.43
+    - 4304354.69
+    - 196.23
+    4443:
+    - 493503.08
+    - 4304073.72
+    - 467.2
+    4315:
+    - 493498.72
+    - 4304058.38
+    - 486.95
+    732:
+    - 493470.7
+    - 4304168.77
+    - 296.4
+    987:
+    - 493472.77
+    - 4304230.8
+    - 208.85
+    5217:
+    - 493477.97
+    - 4304139.96
+    - 393.53
+    4578:
+    - 493483.16
+    - 4304133.75
+    - 397.48
+    5473:
+    - 493483.54
+    - 4304158.14
+    - 325.76
+    4834:
+    - 493466.27
+    - 4304276.25
+    - 205.24
+    3557:
+    - 493503.68
+    - 4304044.69
+    - 497.53
+    4709:
+    - 493509.12
+    - 4304029.67
+    - 509.57
+    744:
+    - 493471.24
+    - 4304178.8
+    - 285.26
+    4840:
+    - 493462.9
+    - 4304183.07
+    - 234.37
+    3946:
+    - 493474.5
+    - 4304161.88
+    - 302.56
+    1770:
+    - 493458.47
+    - 4304195.29
+    - 225.82
+    2284:
+    - 493457.87
+    - 4304310.2
+    - 204.6
+    2672:
+    - 493486.12
+    - 4304128.09
+    - 417.75
+    3569:
+    - 493486.48
+    - 4304130.97
+    - 399.98
+    3314:
+    - 493466.8
+    - 4304279.19
+    - 204.98
+    5107:
+    - 493448.31
+    - 4304391.87
+    - 179.0
+    3701:
+    - 493463.71
+    - 4304294.63
+    - 205.45
+    2551:
+    - 493466.1
+    - 4304249.4
+    - 210.11
+    3836:
+    - 493471.22
+    - 4304239.66
+    - 208.85
+    5373:
+    - 493497.24
+    - 4304158.72
+    - 348.32
+  idsql:
+    2948:
+    - 15055
+    5252:
+    - 15043
+    6:
+    - 15038
+    4871:
+    - 15071
+    4733:
+    - 15034
+    2186:
+    - 15050
+    1934:
+    - 15023
+    2960:
+    - 15014
+    1021:
+    - 15042
+    2964:
+    - 15035
+    1301:
+    - 15077
+    4886:
+    - 15078
+    4502:
+    - 15081
+    1816:
+    - 15020
+    153:
+    - 15080
+    2842:
+    - 15072
+    2843:
+    - 15066
+    3611:
+    - 15058
+    4124:
+    - 15064
+    4639:
+    - 15037
+    1440:
+    - 15024
+    1951:
+    - 15053
+    3105:
+    - 15067
+    4643:
+    - 15084
+    4263:
+    - 15027
+    4651:
+    - 15075
+    433:
+    - 15018
+    2099:
+    - 15062
+    2742:
+    - 15065
+    317:
+    - 15040
+    192:
+    - 15056
+    3520:
+    - 15085
+    1090:
+    - 15073
+    3395:
+    - 15048
+    3269:
+    - 15070
+    838:
+    - 15082
+    199:
+    - 15032
+    3144:
+    - 15031
+    4554:
+    - 15044
+    3019:
+    - 15026
+    2891:
+    - 15059
+    3023:
+    - 15036
+    2256:
+    - 15013
+    1489:
+    - 15022
+    3923:
+    - 15049
+    724:
+    - 15033
+    2517:
+    - 15021
+    3411:
+    - 15057
+    3800:
+    - 15051
+    5337:
+    - 15079
+    4443:
+    - 15019
+    4315:
+    - 15017
+    732:
+    - 15046
+    987:
+    - 15060
+    5217:
+    - 15030
+    4578:
+    - 15029
+    5473:
+    - 15041
+    4834:
+    - 15068
+    3557:
+    - 15016
+    4709:
+    - 15015
+    744:
+    - 15047
+    4840:
+    - 15052
+    3946:
+    - 15045
+    1770:
+    - 15054
+    2284:
+    - 15076
+    2672:
+    - 15025
+    3569:
+    - 15028
+    3314:
+    - 15069
+    5107:
+    - 15083
+    3701:
+    - 15074
+    2551:
+    - 15063
+    3836:
+    - 15061
+    5373:
+    - 15039
+  fulladdress:
+    2948:
+    - UltimaPatagonia.304.SumideroFuturo.408
+    5252:
+    - UltimaPatagonia.304.SumideroFuturo.304
+    6:
+    - UltimaPatagonia.304.SumideroFuturo.223
+    4871:
+    - UltimaPatagonia.304.SumideroFuturo.515
+    4733:
+    - UltimaPatagonia.304.SumideroFuturo.219
+    2186:
+    - UltimaPatagonia.304.SumideroFuturo.403
+    1934:
+    - UltimaPatagonia.304.SumideroFuturo.208
+    2960:
+    - UltimaPatagonia.304.SumideroFuturo.101
+    1021:
+    - UltimaPatagonia.304.SumideroFuturo.305
+    2964:
+    - UltimaPatagonia.304.SumideroFuturo.220
+    1301:
+    - UltimaPatagonia.304.SumideroFuturo.606
+    4886:
+    - UltimaPatagonia.304.SumideroFuturo.605
+    4502:
+    - UltimaPatagonia.304.SumideroFuturo.602
+    1816:
+    - UltimaPatagonia.304.SumideroFuturo.205
+    153:
+    - UltimaPatagonia.304.SumideroFuturo.603
+    2842:
+    - UltimaPatagonia.304.SumideroFuturo.516
+    2843:
+    - UltimaPatagonia.304.SumideroFuturo.510
+    3611:
+    - UltimaPatagonia.304.SumideroFuturo.502
+    4124:
+    - UltimaPatagonia.304.SumideroFuturo.508
+    4639:
+    - UltimaPatagonia.304.SumideroFuturo.222
+    1440:
+    - UltimaPatagonia.304.SumideroFuturo.209
+    1951:
+    - UltimaPatagonia.304.SumideroFuturo.406
+    3105:
+    - UltimaPatagonia.304.SumideroFuturo.511
+    4643:
+    - UltimaPatagonia.304.SumideroFuturo.410
+    4263:
+    - UltimaPatagonia.304.SumideroFuturo.212
+    4651:
+    - UltimaPatagonia.304.SumideroFuturo.608
+    433:
+    - UltimaPatagonia.304.SumideroFuturo.203
+    2099:
+    - UltimaPatagonia.304.SumideroFuturo.506
+    2742:
+    - UltimaPatagonia.304.SumideroFuturo.509
+    317:
+    - UltimaPatagonia.304.SumideroFuturo.307
+    192:
+    - UltimaPatagonia.304.SumideroFuturo.409
+    3520:
+    - UltimaPatagonia.304.SumideroFuturo.411
+    1090:
+    - UltimaPatagonia.304.SumideroFuturo.517
+    3395:
+    - UltimaPatagonia.304.SumideroFuturo.401
+    3269:
+    - UltimaPatagonia.304.SumideroFuturo.514
+    838:
+    - UltimaPatagonia.304.SumideroFuturo.601
+    199:
+    - UltimaPatagonia.304.SumideroFuturo.217
+    3144:
+    - UltimaPatagonia.304.SumideroFuturo.216
+    4554:
+    - UltimaPatagonia.304.SumideroFuturo.303
+    3019:
+    - UltimaPatagonia.304.SumideroFuturo.211
+    2891:
+    - UltimaPatagonia.304.SumideroFuturo.503
+    3023:
+    - UltimaPatagonia.304.SumideroFuturo.221
+    2256:
+    - UltimaPatagonia.304.SumideroFuturo.100
+    1489:
+    - UltimaPatagonia.304.SumideroFuturo.207
+    3923:
+    - UltimaPatagonia.304.SumideroFuturo.402
+    724:
+    - UltimaPatagonia.304.SumideroFuturo.218
+    2517:
+    - UltimaPatagonia.304.SumideroFuturo.206
+    3411:
+    - UltimaPatagonia.304.SumideroFuturo.501
+    3800:
+    - UltimaPatagonia.304.SumideroFuturo.404
+    5337:
+    - UltimaPatagonia.304.SumideroFuturo.604
+    4443:
+    - UltimaPatagonia.304.SumideroFuturo.204
+    4315:
+    - UltimaPatagonia.304.SumideroFuturo.202
+    732:
+    - UltimaPatagonia.304.SumideroFuturo.301
+    987:
+    - UltimaPatagonia.304.SumideroFuturo.504
+    5217:
+    - UltimaPatagonia.304.SumideroFuturo.215
+    4578:
+    - UltimaPatagonia.304.SumideroFuturo.214
+    5473:
+    - UltimaPatagonia.304.SumideroFuturo.306
+    4834:
+    - UltimaPatagonia.304.SumideroFuturo.512
+    3557:
+    - UltimaPatagonia.304.SumideroFuturo.201
+    4709:
+    - UltimaPatagonia.304.SumideroFuturo.102
+    744:
+    - UltimaPatagonia.304.SumideroFuturo.300
+    4840:
+    - UltimaPatagonia.304.SumideroFuturo.405
+    3946:
+    - UltimaPatagonia.304.SumideroFuturo.302
+    1770:
+    - UltimaPatagonia.304.SumideroFuturo.407
+    2284:
+    - UltimaPatagonia.304.SumideroFuturo.607
+    2672:
+    - UltimaPatagonia.304.SumideroFuturo.210
+    3569:
+    - UltimaPatagonia.304.SumideroFuturo.213
+    3314:
+    - UltimaPatagonia.304.SumideroFuturo.513
+    5107:
+    - UltimaPatagonia.304.SumideroFuturo.600
+    3701:
+    - UltimaPatagonia.304.SumideroFuturo.518
+    2551:
+    - UltimaPatagonia.304.SumideroFuturo.507
+    3836:
+    - UltimaPatagonia.304.SumideroFuturo.505
+    5373:
+    - UltimaPatagonia.304.SumideroFuturo.308

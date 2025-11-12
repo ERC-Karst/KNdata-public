@@ -1,0 +1,57 @@
+id_dataset: '074'
+short_name: Yeux
+id_subset: '000'
+status: ready for cleaning
+type_of_correction: .nan
+last_processing_date: 11 Nov 2025
+license: .nan
+citation: ask Patrick Degouve for citation
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1312
+total_depth: 263.75
+percentage_csdim: 30
+number_connected_components: 1
+number_nodes: 190
+number_edges: 189
+mean_degree: 1.97
+min_degree: 1.0
+max_degree: 6.0
+cv_degree: 0.639
+number_cycles: 0
+mean_length: 23.03
+cv_length: 1.13
+length_entropy: 0.49
+orientation_3d_entropy: 0.79
+aspl: 6.87
+cpd: 0.566
+correlation_vertex_degree: -0.376
+original_format: Visual Topo
+comments_cave_info: .nan
+full_name: 3 Yeux n°2201
+geometry: .nan
+units: meter
+country: Spain
+state: .nan
+area: .nan
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+cave_url: .nan
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

@@ -1,0 +1,1732 @@
+metadata:
+  id_dataset: '014'
+  short_name: CheddarCatchment
+  id_subset: '010'
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "University of Bristol Spel\xE6ological Society. (1919). Cheddar Catchment\
+    \ Area Cave Survey [Creative Commons BY-NC-SA 4.0 dataset]. Cave Survey Archive.\
+    \ https://www.ubss.org.uk"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 963
+  total_depth: 99.68
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 138
+  number_edges: 137
+  mean_degree: 1.9
+  min_degree: 1.0
+  max_degree: 6.0
+  cv_degree: 0.573
+  number_cycles: 0
+  mean_length: 48.16
+  cv_length: 1.32
+  length_entropy: 0.59
+  orientation_3d_entropy: 0.639
+  aspl: 4.47
+  cpd: 0.411
+  correlation_vertex_degree: -0.429
+  original_format: Therion
+  comments_cave_info: "Contact UBSS??, coordinate system originall in osgb:ST. traduit\
+    \ en epsg:27700 avec therion.  Data come from version \"CheddarCatchment - Revision\
+    \ 459: /\"\nHad to modify the therion project:\n- missing GoWest.th data. had\
+    \ to comment anything related to this. \n- dates where sometimes not formatted\
+    \ correctly. had to remove space and put . instead\n- there is some lrud in the\
+    \ datasets. should export them when code to do it is ready"
+  full_name: Cheddar Catchment
+  geometry: lrud/splays
+  units: meter
+  country: UK
+  state: England
+  area: Somerset
+  locality: Cheddar
+  grotto_id: 23469 (Coxs) 23491 (Goughs)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:27700 / Local
+  latitude: 51.2814
+  longitude: -2.7642
+  altitude: .nan
+  cave_url: https://grottocenter.org/ui/entrances/23491
+  supplemental_links: .nan
+  data_reception_date: '2023'
+  data_received_by: Celia
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://ubss.org.uk/research/cave_surveys
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 5
+  - 642
+- - 5
+  - 1361
+- - 15
+  - 5877
+- - 15
+  - 95
+- - 5649
+  - 66
+- - 5649
+  - 2613
+- - 3091
+  - 2538
+- - 3091
+  - 5107
+- - 6677
+  - 4228
+- - 2076
+  - 2134
+- - 2076
+  - 810
+- - 4641
+  - 884
+- - 4641
+  - 4763
+- - 1059
+  - 3727
+- - 5159
+  - 4240
+- - 5159
+  - 119
+- - 6184
+  - 138
+- - 6184
+  - 5927
+- - 6184
+  - 5229
+- - 4651
+  - 3885
+- - 6187
+  - 4003
+- - 6187
+  - 888
+- - 5683
+  - 1589
+- - 5683
+  - 5915
+- - 1589
+  - 3002
+- - 1589
+  - 2017
+- - 2613
+  - 4003
+- - 6200
+  - 1461
+- - 6200
+  - 1183
+- - 4152
+  - 482
+- - 4152
+  - 6381
+- - 66
+  - 5920
+- - 3654
+  - 6514
+- - 3654
+  - 4579
+- - 2134
+  - 838
+- - 5215
+  - 4515
+- - 5215
+  - 5278
+- - 1120
+  - 1374
+- - 1120
+  - 2271
+- - 5216
+  - 119
+- - 5216
+  - 5877
+- - 6242
+  - 6099
+- - 6242
+  - 1967
+- - 95
+  - 1409
+- - 6752
+  - 1781
+- - 6752
+  - 5862
+- - 5733
+  - 983
+- - 5733
+  - 5088
+- - 5229
+  - 6257
+- - 6257
+  - 1258
+- - 4730
+  - 4744
+- - 4730
+  - 884
+- - 642
+  - 5843
+- - 4228
+  - 2017
+- - 4228
+  - 5600
+- - 4228
+  - 6098
+- - 4231
+  - 2700
+- - 4231
+  - 7012
+- - 4744
+  - 1258
+- - 138
+  - 5022
+- - 138
+  - 1686
+- - 2700
+  - 2529
+- - 3725
+  - 4504
+- - 3725
+  - 2206
+- - 3725
+  - 5514
+- - 3727
+  - 5868
+- - 4239
+  - 1919
+- - 4239
+  - 1955
+- - 4240
+  - 1183
+- - 6287
+  - 1529
+- - 6287
+  - 1800
+- - 6291
+  - 5301
+- - 6291
+  - 4504
+- - 5783
+  - 2427
+- - 5783
+  - 7016
+- - 1689
+  - 2989
+- - 1689
+  - 2799
+- - 4763
+  - 6026
+- - 6137
+  - 2781
+- - 6137
+  - 2869
+- - 5278
+  - 838
+- - 2206
+  - 7379
+- - 2212
+  - 289
+- - 2212
+  - 5843
+- - 179
+  - 4425
+- - 179
+  - 2989
+- - 5301
+  - 1971
+- - 6866
+  - 4579
+- - 6866
+  - 5936
+- - 7379
+  - 5920
+- - 2781
+  - 1800
+- - 2271
+  - 2538
+- - 5862
+  - 983
+- - 5868
+  - 5915
+- - 6381
+  - 5022
+- - 2799
+  - 923
+- - 3823
+  - 4890
+- - 3823
+  - 6514
+- - 1781
+  - 3958
+- - 3840
+  - 6936
+- - 3840
+  - 4428
+- - 769
+  - 5600
+- - 769
+  - 1362
+- - 769
+  - 3885
+- - 1290
+  - 6471
+- - 1290
+  - 4515
+- - 3339
+  - 810
+- - 3339
+  - 6527
+- - 1298
+  - 6605
+- - 1298
+  - 1374
+- - 6936
+  - 5088
+- - 4890
+  - 2869
+- - 4380
+  - 3885
+- - 4380
+  - 5572
+- - 2332
+  - 5572
+- - 2332
+  - 3532
+- - 289
+  - 4903
+- - 4903
+  - 3052
+- - 810
+  - 2427
+- - 6471
+  - 3532
+- - 3400
+  - 5107
+- - 3400
+  - 2558
+- - 4425
+  - 2558
+- - 1361
+  - 6605
+- - 7012
+  - 1971
+- - 7016
+  - 1461
+- - 3958
+  - 888
+- - 1919
+  - 6527
+- - 1409
+  - 2529
+- - 3973
+  - 5514
+- - 3973
+  - 5612
+- - 6026
+  - 4520
+- - 923
+  - 6099
+- - 1955
+  - 1529
+- - 1967
+  - 3002
+- - 5600
+  - 503
+- - 482
+  - 5612
+edge_attributes:
+  flags:
+    ? !!python/tuple
+    - 3725
+    - 2206
+    : - add
+node_attributes:
+  flags:
+    5:
+    - fix
+    15:
+    - fix
+    5649:
+    - fix
+    3091:
+    - fix
+    6677:
+    - fix
+    2076:
+    - fix
+    4641:
+    - fix
+    1059:
+    - fix
+    5159:
+    - fix
+    6184:
+    - fix
+    4651:
+    - fix
+    6187:
+    - fix
+    5683:
+    - fix
+    1589:
+    - fix
+    2613:
+    - fix
+    6200:
+    - fix
+    4152:
+    - fix
+    66:
+    - fix
+    3654:
+    - fix
+    2134:
+    - fix
+    5215:
+    - fix
+    1120:
+    - fix
+    5216:
+    - fix
+    6242:
+    - fix
+    95:
+    - fix
+    6752:
+    - fix
+    5733:
+    - fix
+    5229:
+    - fix
+    6257:
+    - fix
+    119:
+    - fix
+    4730:
+    - fix
+    642:
+    - fix
+    4228:
+    - fix
+    4231:
+    - fix
+    4744:
+    - fix
+    138:
+    - fix
+    2700:
+    - fix
+    3725:
+    - fix
+    3727:
+    - fix
+    4239:
+    - fix
+    4240:
+    - fix
+    6287:
+    - fix
+    6291:
+    - fix
+    1686:
+    - fix
+    5783:
+    - fix
+    1689:
+    - fix
+    4763:
+    - fix
+    6137:
+    - fix
+    5278:
+    - fix
+    1183:
+    - fix
+    2206:
+    - fix
+    2212:
+    - fix
+    179:
+    - fix
+    5301:
+    - fix
+    6866:
+    - fix
+    5843:
+    - fix
+    7379:
+    - fix
+    2781:
+    - fix
+    2271:
+    - fix
+    5862:
+    - fix
+    1258:
+    - fix
+    5868:
+    - fix
+    6381:
+    - fix
+    2799:
+    - fix
+    3823:
+    - fix
+    5877:
+    - fix
+    1781:
+    - fix
+    3840:
+    - fix
+    769:
+    - fix
+    1800:
+    - fix
+    1290:
+    - fix
+    3339:
+    - fix
+    1298:
+    - fix
+    6936:
+    - fix
+    4890:
+    - fix
+    5915:
+    - fix
+    4380:
+    - fix
+    2332:
+    - fix
+    5920:
+    - fix
+    289:
+    - fix
+    4903:
+    - fix
+    5927:
+    - fix
+    810:
+    - fix
+    3885:
+    - fix
+    5936:
+    - fix
+    2869:
+    - fix
+    838:
+    - fix
+    6471:
+    - fix
+    3400:
+    - fix
+    4425:
+    - fix
+    4428:
+    - fix
+    1361:
+    - fix
+    1362:
+    - fix
+    1374:
+    - fix
+    7012:
+    - fix
+    7016:
+    - fix
+    6514:
+    - fix
+    884:
+    - fix
+    3958:
+    - fix
+    888:
+    - fix
+    2427:
+    - fix
+    1919:
+    - fix
+    6527:
+    - fix
+    1409:
+    - fix
+    3973:
+    - fix
+    5514:
+    - fix
+    6026:
+    - fix
+    4504:
+    - fix
+    923:
+    - fix
+    5022:
+    - fix
+    4515:
+    - fix
+    1955:
+    - fix
+    4003:
+    - fix
+    4520:
+    - fix
+    2989:
+    - fix
+    1967:
+    - fix
+    1971:
+    - fix
+    1461:
+    - fix
+    3002:
+    - fix
+    5572:
+    - fix
+    3532:
+    - fix
+    6605:
+    - fix
+    6098:
+    - fix
+    6099:
+    - fix
+    983:
+    - fix
+    5600:
+    - fix
+    2017:
+    - fix
+    2529:
+    - fix
+    4579:
+    - fix
+    482:
+    - fix
+    5088:
+    - fix
+    2538:
+    - fix
+    3052:
+    - ent
+    - fix
+    5612:
+    - fix
+    5107:
+    - fix
+    503:
+    - fix
+    1529:
+    - fix
+    2558:
+    - fix
+  pos:
+    5:
+    - 525376.78
+    - 5679950.48
+    - 242.05
+    15:
+    - 525577.55
+    - 5679927.54
+    - 172.93
+    5649:
+    - 525636.68
+    - 5679928.66
+    - 178.75
+    3091:
+    - 525383.45
+    - 5679932.33
+    - 234.28
+    6677:
+    - 525380.35
+    - 5679899.61
+    - 196.03
+    2076:
+    - 525398.87
+    - 5679908.24
+    - 174.08
+    4641:
+    - 525711.65
+    - 5679986.38
+    - 172.94
+    1059:
+    - 525390.54
+    - 5679868.65
+    - 212.9
+    5159:
+    - 525485.73
+    - 5679916.01
+    - 172.86
+    6184:
+    - 525713.2
+    - 5679962.34
+    - 172.94
+    4651:
+    - 525385.72
+    - 5679897.04
+    - 190.02
+    6187:
+    - 525644.15
+    - 5679913.81
+    - 186.21
+    5683:
+    - 525380.93
+    - 5679897.08
+    - 214.75
+    1589:
+    - 525378.86
+    - 5679903.57
+    - 214.86
+    2613:
+    - 525640.31
+    - 5679925.18
+    - 179.55
+    6200:
+    - 525447.17
+    - 5679909.65
+    - 172.85
+    4152:
+    - 525674.21
+    - 5679953.22
+    - 172.94
+    66:
+    - 525636.3
+    - 5679929.69
+    - 181.32
+    3654:
+    - 525430.56
+    - 5679846.94
+    - 173.91
+    2134:
+    - 525397.75
+    - 5679907.81
+    - 174.08
+    5215:
+    - 525397.24
+    - 5679907.52
+    - 182.18
+    1120:
+    - 525382.31
+    - 5679942.07
+    - 236.69
+    5216:
+    - 525509.55
+    - 5679921.74
+    - 172.87
+    6242:
+    - 525377.09
+    - 5679916.66
+    - 218.54
+    95:
+    - 525581.38
+    - 5679928.21
+    - 172.93
+    6752:
+    - 525667.01
+    - 5679877.22
+    - 187.7
+    5733:
+    - 525678.48
+    - 5679866.36
+    - 192.13
+    5229:
+    - 525712.62
+    - 5679968.41
+    - 172.94
+    6257:
+    - 525706.72
+    - 5679969.94
+    - 172.94
+    119:
+    - 525500.03
+    - 5679919.36
+    - 172.87
+    4730:
+    - 525707.84
+    - 5679983.14
+    - 172.94
+    642:
+    - 525373.92
+    - 5679952.62
+    - 242.75
+    4228:
+    - 525380.35
+    - 5679899.61
+    - 202.53
+    4231:
+    - 525594.63
+    - 5679932.75
+    - 172.93
+    4744:
+    - 525706.36
+    - 5679982.08
+    - 172.94
+    138:
+    - 525707.16
+    - 5679953.56
+    - 172.94
+    2700:
+    - 525591.86
+    - 5679932.5
+    - 172.93
+    3725:
+    - 525605.85
+    - 5679937.59
+    - 172.94
+    3727:
+    - 525389.89
+    - 5679874.21
+    - 212.9
+    4239:
+    - 525419.26
+    - 5679895.43
+    - 174.18
+    4240:
+    - 525462.8
+    - 5679911.27
+    - 172.85
+    6287:
+    - 525433.42
+    - 5679877.36
+    - 174.73
+    6291:
+    - 525612.3
+    - 5679931.86
+    - 172.94
+    1686:
+    - 525707.16
+    - 5679953.56
+    - 182.08
+    5783:
+    - 525402.69
+    - 5679907.89
+    - 172.83
+    1689:
+    - 525377.76
+    - 5679924.0
+    - 225.15
+    4763:
+    - 525711.65
+    - 5679986.38
+    - 165.32
+    6137:
+    - 525436.45
+    - 5679871.67
+    - 174.01
+    5278:
+    - 525397.24
+    - 5679907.52
+    - 175.48
+    1183:
+    - 525457.01
+    - 5679910.29
+    - 172.85
+    2206:
+    - 525613.18
+    - 5679938.13
+    - 172.94
+    2212:
+    - 525377.53
+    - 5679975.83
+    - 245.0
+    179:
+    - 525379.18
+    - 5679926.33
+    - 229.64
+    5301:
+    - 525604.31
+    - 5679928.19
+    - 172.93
+    6866:
+    - 525433.39
+    - 5679840.51
+    - 173.98
+    5843:
+    - 525373.71
+    - 5679956.32
+    - 242.75
+    7379:
+    - 525622.34
+    - 5679934.64
+    - 175.38
+    2781:
+    - 525436.08
+    - 5679870.21
+    - 174.01
+    2271:
+    - 525382.41
+    - 5679939.43
+    - 235.28
+    5862:
+    - 525669.48
+    - 5679874.58
+    - 191.85
+    1258:
+    - 525707.08
+    - 5679974.5
+    - 172.94
+    5868:
+    - 525388.91
+    - 5679882.54
+    - 218.34
+    6381:
+    - 525676.81
+    - 5679950.65
+    - 172.94
+    2799:
+    - 525377.76
+    - 5679924.0
+    - 225.56
+    3823:
+    - 525436.45
+    - 5679852.0
+    - 173.78
+    5877:
+    - 525528.64
+    - 5679925.92
+    - 172.88
+    1781:
+    - 525659.04
+    - 5679889.89
+    - 188.48
+    3840:
+    - 525694.22
+    - 5679859.58
+    - 190.83
+    769:
+    - 525383.92
+    - 5679898.13
+    - 196.06
+    1800:
+    - 525440.82
+    - 5679874.9
+    - 174.6
+    1290:
+    - 525394.97
+    - 5679908.78
+    - 183.93
+    3339:
+    - 525405.35
+    - 5679904.27
+    - 174.24
+    1298:
+    - 525380.86
+    - 5679941.69
+    - 238.16
+    6936:
+    - 525688.9
+    - 5679859.0
+    - 190.08
+    4890:
+    - 525434.87
+    - 5679858.51
+    - 174.01
+    5915:
+    - 525386.31
+    - 5679884.19
+    - 215.48
+    4380:
+    - 525387.7
+    - 5679902.12
+    - 195.15
+    2332:
+    - 525390.95
+    - 5679909.25
+    - 194.06
+    5920:
+    - 525629.79
+    - 5679931.65
+    - 178.15
+    289:
+    - 525377.53
+    - 5679975.83
+    - 255.0
+    4903:
+    - 525375.24
+    - 5679964.05
+    - 255.0
+    5927:
+    - 525734.47
+    - 5679960.65
+    - 172.94
+    810:
+    - 525399.83
+    - 5679907.63
+    - 173.67
+    3885:
+    - 525385.72
+    - 5679897.04
+    - 195.92
+    5936:
+    - 525433.91
+    - 5679839.43
+    - 173.98
+    2869:
+    - 525433.15
+    - 5679867.64
+    - 174.01
+    838:
+    - 525397.75
+    - 5679907.81
+    - 175.48
+    6471:
+    - 525392.04
+    - 5679910.36
+    - 185.28
+    3400:
+    - 525383.19
+    - 5679930.75
+    - 232.18
+    4425:
+    - 525380.89
+    - 5679927.51
+    - 229.93
+    4428:
+    - 525698.72
+    - 5679856.45
+    - 192.0
+    1361:
+    - 525376.78
+    - 5679950.48
+    - 239.53
+    1362:
+    - 525381.79
+    - 5679894.76
+    - 197.67
+    1374:
+    - 525382.31
+    - 5679942.07
+    - 238.19
+    7012:
+    - 525598.93
+    - 5679933.11
+    - 172.93
+    7016:
+    - 525424.5
+    - 5679908.52
+    - 172.84
+    6514:
+    - 525429.09
+    - 5679853.48
+    - 173.91
+    884:
+    - 525708.61
+    - 5679986.09
+    - 172.94
+    3958:
+    - 525652.97
+    - 5679897.34
+    - 188.31
+    888:
+    - 525647.98
+    - 5679909.59
+    - 186.21
+    2427:
+    - 525399.83
+    - 5679907.63
+    - 172.83
+    1919:
+    - 525411.71
+    - 5679899.5
+    - 174.63
+    6527:
+    - 525409.02
+    - 5679899.52
+    - 174.44
+    1409:
+    - 525584.42
+    - 5679931.33
+    - 172.93
+    3973:
+    - 525665.87
+    - 5679946.77
+    - 172.94
+    5514:
+    - 525667.44
+    - 5679943.47
+    - 172.94
+    6026:
+    - 525717.71
+    - 5679986.96
+    - 165.32
+    4504:
+    - 525607.91
+    - 5679933.67
+    - 172.94
+    923:
+    - 525377.72
+    - 5679917.31
+    - 223.89
+    5022:
+    - 525691.98
+    - 5679952.1
+    - 172.94
+    4515:
+    - 525396.77
+    - 5679908.38
+    - 183.44
+    1955:
+    - 525428.49
+    - 5679890.44
+    - 174.73
+    4003:
+    - 525642.49
+    - 5679923.09
+    - 183.15
+    4520:
+    - 525713.79
+    - 5679995.22
+    - 165.32
+    2989:
+    - 525377.76
+    - 5679924.0
+    - 229.25
+    1967:
+    - 525376.3
+    - 5679916.54
+    - 218.54
+    1971:
+    - 525604.57
+    - 5679931.46
+    - 172.93
+    1461:
+    - 525442.31
+    - 5679909.24
+    - 172.85
+    3002:
+    - 525377.3
+    - 5679909.97
+    - 216.51
+    5572:
+    - 525389.07
+    - 5679905.43
+    - 196.05
+    3532:
+    - 525390.95
+    - 5679909.25
+    - 185.66
+    6605:
+    - 525377.28
+    - 5679945.86
+    - 238.55
+    6098:
+    - 525380.35
+    - 5679899.61
+    - 198.43
+    6099:
+    - 525377.09
+    - 5679916.66
+    - 223.89
+    983:
+    - 525672.09
+    - 5679868.18
+    - 192.95
+    5600:
+    - 525380.35
+    - 5679899.61
+    - 194.18
+    2017:
+    - 525378.86
+    - 5679903.57
+    - 204.06
+    2529:
+    - 525587.81
+    - 5679930.98
+    - 172.93
+    4579:
+    - 525430.6
+    - 5679843.24
+    - 173.91
+    482:
+    - 525669.24
+    - 5679949.68
+    - 172.94
+    5088:
+    - 525685.23
+    - 5679862.65
+    - 189.63
+    2538:
+    - 525381.38
+    - 5679937.26
+    - 235.03
+    3052:
+    - 525375.24
+    - 5679964.05
+    - 265.0
+    5612:
+    - 525664.69
+    - 5679949.25
+    - 172.94
+    5107:
+    - 525383.45
+    - 5679932.33
+    - 232.18
+    503:
+    - 525378.37
+    - 5679895.23
+    - 194.18
+    1529:
+    - 525429.82
+    - 5679880.53
+    - 174.73
+    2558:
+    - 525383.19
+    - 5679930.75
+    - 230.48
+  idsql:
+    5:
+    - 27038
+    15:
+    - 27099
+    5649:
+    - 27115
+    3091:
+    - 27046
+    6677:
+    - 27068
+    2076:
+    - 27086
+    4641:
+    - 27147
+    1059:
+    - 27065
+    5159:
+    - 27095
+    6184:
+    - 27139
+    4651:
+    - 27074
+    6187:
+    - 27118
+    5683:
+    - 27061
+    1589:
+    - 27060
+    2613:
+    - 27116
+    6200:
+    - 27092
+    4152:
+    - 27134
+    66:
+    - 27114
+    3654:
+    - 27165
+    2134:
+    - 27085
+    5215:
+    - 27082
+    1120:
+    - 27043
+    5216:
+    - 27097
+    6242:
+    - 27057
+    95:
+    - 27100
+    6752:
+    - 27122
+    5733:
+    - 27125
+    5229:
+    - 27141
+    6257:
+    - 27142
+    119:
+    - 27096
+    4730:
+    - 27145
+    642:
+    - 27037
+    4228:
+    - 27067
+    4231:
+    - 27104
+    4744:
+    - 27144
+    138:
+    - 27137
+    2700:
+    - 27103
+    3725:
+    - 27110
+    3727:
+    - 27064
+    4239:
+    - 27154
+    4240:
+    - 27094
+    6287:
+    - 27157
+    6291:
+    - 27108
+    1686:
+    - 27138
+    5783:
+    - 27089
+    1689:
+    - 27053
+    4763:
+    - 27148
+    6137:
+    - 27160
+    5278:
+    - 27083
+    1183:
+    - 27093
+    2206:
+    - 27111
+    2212:
+    - 27035
+    179:
+    - 27051
+    5301:
+    - 27107
+    6866:
+    - 27167
+    5843:
+    - 27036
+    7379:
+    - 27112
+    2781:
+    - 27159
+    2271:
+    - 27044
+    5862:
+    - 27123
+    1258:
+    - 27143
+    5868:
+    - 27063
+    6381:
+    - 27135
+    2799:
+    - 27054
+    3823:
+    - 27163
+    5877:
+    - 27098
+    1781:
+    - 27121
+    3840:
+    - 27128
+    769:
+    - 27071
+    1800:
+    - 27158
+    1290:
+    - 27080
+    3339:
+    - 27151
+    1298:
+    - 27041
+    6936:
+    - 27127
+    4890:
+    - 27162
+    5915:
+    - 27062
+    4380:
+    - 27075
+    2332:
+    - 27077
+    5920:
+    - 27113
+    289:
+    - 27034
+    4903:
+    - 27033
+    5927:
+    - 27140
+    810:
+    - 27087
+    3885:
+    - 27073
+    5936:
+    - 27168
+    2869:
+    - 27161
+    838:
+    - 27084
+    6471:
+    - 27079
+    3400:
+    - 27048
+    4425:
+    - 27050
+    4428:
+    - 27129
+    1361:
+    - 27039
+    1362:
+    - 27072
+    1374:
+    - 27042
+    7012:
+    - 27105
+    7016:
+    - 27090
+    6514:
+    - 27164
+    884:
+    - 27146
+    3958:
+    - 27120
+    888:
+    - 27119
+    2427:
+    - 27088
+    1919:
+    - 27153
+    6527:
+    - 27152
+    1409:
+    - 27101
+    3973:
+    - 27131
+    5514:
+    - 27130
+    6026:
+    - 27149
+    4504:
+    - 27109
+    923:
+    - 27055
+    5022:
+    - 27136
+    4515:
+    - 27081
+    1955:
+    - 27155
+    4003:
+    - 27117
+    4520:
+    - 27150
+    2989:
+    - 27052
+    1967:
+    - 27058
+    1971:
+    - 27106
+    1461:
+    - 27091
+    3002:
+    - 27059
+    5572:
+    - 27076
+    3532:
+    - 27078
+    6605:
+    - 27040
+    6098:
+    - 27169
+    6099:
+    - 27056
+    983:
+    - 27124
+    5600:
+    - 27069
+    2017:
+    - 27066
+    2529:
+    - 27102
+    4579:
+    - 27166
+    482:
+    - 27133
+    5088:
+    - 27126
+    2538:
+    - 27045
+    3052:
+    - 27032
+    5612:
+    - 27132
+    5107:
+    - 27047
+    503:
+    - 27070
+    1529:
+    - 27156
+    2558:
+    - 27049
+  fulladdress:
+    5:
+    - CheddarCatchment.Wigmore.sheet_1.3
+    15:
+    - CheddarCatchment.Wigmore.sumps.13
+    5649:
+    - CheddarCatchment.Wigmore.YoungBloods.5
+    3091:
+    - CheddarCatchment.Wigmore.sheet_1.11
+    6677:
+    - CheddarCatchment.Wigmore.sheet_2.27a
+    2076:
+    - CheddarCatchment.Wigmore.sheet_3.54
+    4641:
+    - CheddarCatchment.Wigmore.Vindication.3a
+    1059:
+    - CheddarCatchment.Wigmore.sheet_1.34
+    5159:
+    - CheddarCatchment.Wigmore.sumps.9
+    6184:
+    - CheddarCatchment.Wigmore.Vindication.10
+    4651:
+    - CheddarCatchment.Wigmore.sheet_2.42a
+    6187:
+    - CheddarCatchment.Wigmore.YoungBloods.8
+    5683:
+    - CheddarCatchment.Wigmore.sheet_1.30
+    1589:
+    - CheddarCatchment.Wigmore.sheet_1.25
+    2613:
+    - CheddarCatchment.Wigmore.YoungBloods.6
+    6200:
+    - CheddarCatchment.Wigmore.sumps.6
+    4152:
+    - CheddarCatchment.Wigmore.Vindication.14
+    66:
+    - CheddarCatchment.Wigmore.YoungBloods.4
+    3654:
+    - CheddarCatchment.Wigmore.sheet_4.70
+    2134:
+    - CheddarCatchment.Wigmore.sheet_3.53
+    5215:
+    - CheddarCatchment.Wigmore.sheet_3.50
+    1120:
+    - CheddarCatchment.Wigmore.sheet_1.8
+    5216:
+    - CheddarCatchment.Wigmore.sumps.11
+    6242:
+    - CheddarCatchment.Wigmore.sheet_1.22
+    95:
+    - CheddarCatchment.Wigmore.sumps.14
+    6752:
+    - CheddarCatchment.Wigmore.YoungBloods.12
+    5733:
+    - CheddarCatchment.Wigmore.YoungBloods.15
+    5229:
+    - CheddarCatchment.Wigmore.Vindication.9
+    6257:
+    - CheddarCatchment.Wigmore.Vindication.8
+    119:
+    - CheddarCatchment.Wigmore.sumps.10
+    4730:
+    - CheddarCatchment.Wigmore.Vindication.5
+    642:
+    - CheddarCatchment.Wigmore.sheet_1.2
+    4228:
+    - CheddarCatchment.Wigmore.sheet_1.27
+    4231:
+    - CheddarCatchment.Wigmore.Vindication.25
+    4744:
+    - CheddarCatchment.Wigmore.Vindication.6
+    138:
+    - CheddarCatchment.Wigmore.Vindication.11
+    2700:
+    - CheddarCatchment.Wigmore.Vindication.26
+    3725:
+    - CheddarCatchment.Wigmore.Vindication.19
+    3727:
+    - CheddarCatchment.Wigmore.sheet_1.33
+    4239:
+    - CheddarCatchment.Wigmore.sheet_3.59
+    4240:
+    - CheddarCatchment.Wigmore.sumps.8
+    6287:
+    - CheddarCatchment.Wigmore.sheet_3.62
+    6291:
+    - CheddarCatchment.Wigmore.Vindication.21
+    1686:
+    - CheddarCatchment.Wigmore.Vindication.11a
+    5783:
+    - CheddarCatchment.Wigmore.sumps.3
+    1689:
+    - CheddarCatchment.Wigmore.sheet_1.18
+    4763:
+    - CheddarCatchment.Wigmore.Vindication.3
+    6137:
+    - CheddarCatchment.Wigmore.sheet_4.65
+    5278:
+    - CheddarCatchment.Wigmore.sheet_3.51
+    1183:
+    - CheddarCatchment.Wigmore.sumps.7
+    2206:
+    - CheddarCatchment.Wigmore.Vindication.19a
+    2212:
+    - CheddarCatchment.Wigmore.entrance.4
+    179:
+    - CheddarCatchment.Wigmore.sheet_1.16
+    5301:
+    - CheddarCatchment.Wigmore.Vindication.22
+    6866:
+    - CheddarCatchment.Wigmore.sheet_4.72
+    5843:
+    - CheddarCatchment.Wigmore.entrance.5
+    7379:
+    - CheddarCatchment.Wigmore.YoungBloods.2
+    2781:
+    - CheddarCatchment.Wigmore.sheet_3.64
+    2271:
+    - CheddarCatchment.Wigmore.sheet_1.9
+    5862:
+    - CheddarCatchment.Wigmore.YoungBloods.13
+    1258:
+    - CheddarCatchment.Wigmore.Vindication.7
+    5868:
+    - CheddarCatchment.Wigmore.sheet_1.32
+    6381:
+    - CheddarCatchment.Wigmore.Vindication.13
+    2799:
+    - CheddarCatchment.Wigmore.sheet_1.19
+    3823:
+    - CheddarCatchment.Wigmore.sheet_4.68
+    5877:
+    - CheddarCatchment.Wigmore.sumps.12
+    1781:
+    - CheddarCatchment.Wigmore.YoungBloods.11
+    3840:
+    - CheddarCatchment.Wigmore.YoungBloods.18
+    769:
+    - CheddarCatchment.Wigmore.sheet_2.41
+    1800:
+    - CheddarCatchment.Wigmore.sheet_3.63
+    1290:
+    - CheddarCatchment.Wigmore.sheet_3.48
+    3339:
+    - CheddarCatchment.Wigmore.sheet_3.56
+    1298:
+    - CheddarCatchment.Wigmore.sheet_1.6
+    6936:
+    - CheddarCatchment.Wigmore.YoungBloods.17
+    4890:
+    - CheddarCatchment.Wigmore.sheet_4.67
+    5915:
+    - CheddarCatchment.Wigmore.sheet_1.31
+    4380:
+    - CheddarCatchment.Wigmore.sheet_2.43
+    2332:
+    - CheddarCatchment.Wigmore.sheet_3.45
+    5920:
+    - CheddarCatchment.Wigmore.YoungBloods.3
+    289:
+    - CheddarCatchment.Wigmore.entrance.3
+    4903:
+    - CheddarCatchment.Wigmore.entrance.2
+    5927:
+    - CheddarCatchment.Wigmore.Vindication.10a
+    810:
+    - CheddarCatchment.Wigmore.sheet_3.55
+    3885:
+    - CheddarCatchment.Wigmore.sheet_2.42
+    5936:
+    - CheddarCatchment.Wigmore.sheet_4.73
+    2869:
+    - CheddarCatchment.Wigmore.sheet_4.66
+    838:
+    - CheddarCatchment.Wigmore.sheet_3.52
+    6471:
+    - CheddarCatchment.Wigmore.sheet_3.47
+    3400:
+    - CheddarCatchment.Wigmore.sheet_1.13
+    4425:
+    - CheddarCatchment.Wigmore.sheet_1.15
+    4428:
+    - CheddarCatchment.Wigmore.YoungBloods.19
+    1361:
+    - CheddarCatchment.Wigmore.sheet_1.4
+    1362:
+    - CheddarCatchment.Wigmore.sheet_2.41a
+    1374:
+    - CheddarCatchment.Wigmore.sheet_1.7
+    7012:
+    - CheddarCatchment.Wigmore.Vindication.24
+    7016:
+    - CheddarCatchment.Wigmore.sumps.4
+    6514:
+    - CheddarCatchment.Wigmore.sheet_4.69
+    884:
+    - CheddarCatchment.Wigmore.Vindication.4
+    3958:
+    - CheddarCatchment.Wigmore.YoungBloods.10
+    888:
+    - CheddarCatchment.Wigmore.YoungBloods.9
+    2427:
+    - CheddarCatchment.Wigmore.sumps.2
+    1919:
+    - CheddarCatchment.Wigmore.sheet_3.58
+    6527:
+    - CheddarCatchment.Wigmore.sheet_3.57
+    1409:
+    - CheddarCatchment.Wigmore.Vindication.28
+    3973:
+    - CheddarCatchment.Wigmore.Vindication.17
+    5514:
+    - CheddarCatchment.Wigmore.Vindication.18
+    6026:
+    - CheddarCatchment.Wigmore.Vindication.2
+    4504:
+    - CheddarCatchment.Wigmore.Vindication.20
+    923:
+    - CheddarCatchment.Wigmore.sheet_1.20
+    5022:
+    - CheddarCatchment.Wigmore.Vindication.12
+    4515:
+    - CheddarCatchment.Wigmore.sheet_3.49
+    1955:
+    - CheddarCatchment.Wigmore.sheet_3.60
+    4003:
+    - CheddarCatchment.Wigmore.YoungBloods.7
+    4520:
+    - CheddarCatchment.Wigmore.Vindication.1
+    2989:
+    - CheddarCatchment.Wigmore.sheet_1.17
+    1967:
+    - CheddarCatchment.Wigmore.sheet_1.23
+    1971:
+    - CheddarCatchment.Wigmore.Vindication.23
+    1461:
+    - CheddarCatchment.Wigmore.sumps.5
+    3002:
+    - CheddarCatchment.Wigmore.sheet_1.24
+    5572:
+    - CheddarCatchment.Wigmore.sheet_3.44
+    3532:
+    - CheddarCatchment.Wigmore.sheet_3.46
+    6605:
+    - CheddarCatchment.Wigmore.sheet_1.5
+    6098:
+    - CheddarCatchment.Wigmore.sheet_1.28
+    6099:
+    - CheddarCatchment.Wigmore.sheet_1.21
+    983:
+    - CheddarCatchment.Wigmore.YoungBloods.14
+    5600:
+    - CheddarCatchment.Wigmore.sheet_2.40
+    2017:
+    - CheddarCatchment.Wigmore.sheet_1.26
+    2529:
+    - CheddarCatchment.Wigmore.Vindication.27
+    4579:
+    - CheddarCatchment.Wigmore.sheet_4.71
+    482:
+    - CheddarCatchment.Wigmore.Vindication.15
+    5088:
+    - CheddarCatchment.Wigmore.YoungBloods.16
+    2538:
+    - CheddarCatchment.Wigmore.sheet_1.10
+    3052:
+    - CheddarCatchment.Wigmore.entrance.1
+    5612:
+    - CheddarCatchment.Wigmore.Vindication.16
+    5107:
+    - CheddarCatchment.Wigmore.sheet_1.12
+    503:
+    - CheddarCatchment.Wigmore.sheet_2.40a
+    1529:
+    - CheddarCatchment.Wigmore.sheet_3.61
+    2558:
+    - CheddarCatchment.Wigmore.sheet_1.14

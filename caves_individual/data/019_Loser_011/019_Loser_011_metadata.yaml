@@ -1,0 +1,58 @@
+id_dataset: 019
+short_name: Loser
+id_subset: '011'
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 11 Nov 2025
+license: TBD
+citation: CUCC. (2024). Loser Plateau cave survey [Dataset, Survex]. Cambridge University
+  Caving Club. https://expo.survex.com/
+thanks: .nan
+sharing_conditions: .nan
+total_length: 3086
+total_depth: 106.18
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 524
+number_edges: 528
+mean_degree: 2.07
+min_degree: 1.0
+max_degree: 17.0
+cv_degree: 0.499
+number_cycles: 5
+mean_length: 27.81
+cv_length: 0.91
+length_entropy: 0.65
+orientation_3d_entropy: 0.905
+aspl: 10.81
+cpd: 0.519
+correlation_vertex_degree: -0.349
+original_format: Survex
+comments_cave_info: 'Contains: Schoenberg and Schwarzmooskogel'
+full_name: Loser Plateau
+geometry: .nan
+units: meter
+country: Austria
+state: Steiermark
+area: Bad Aussee
+locality: Loser/Augst-Eck Plateau
+grotto_id: 23661 (Schönberg)
+country_cave_id: 1626/300 (Schönberg) 1623/40 (Schwarzmooskogel)
+local_id: .nan
+local_coordinate_system: Local
+latitude: 47.7015
+longitude: 13.7723
+altitude: .nan
+cave_url: https://www.zobodat.at/pdf/Hoehle_056_0072-0076.pdf
+supplemental_links: https://grottocenter.org/ui/entrances/23661
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

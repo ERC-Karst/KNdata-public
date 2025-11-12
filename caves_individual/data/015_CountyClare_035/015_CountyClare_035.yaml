@@ -1,0 +1,624 @@
+metadata:
+  id_dataset: '015'
+  short_name: CountyClare
+  id_subset: '035'
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "University of Bristol Spel\xE6ological Society. (1919). County Clare\
+    \ Cave Survey (Ireland) [Creative Commons BY-NC-SA 4.0 dataset]. https://www.ubss.org.uk\n"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 975
+  total_depth: 29.6
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 46
+  number_edges: 45
+  mean_degree: 1.75
+  min_degree: 1.0
+  max_degree: 5.0
+  cv_degree: 0.591
+  number_cycles: 0
+  mean_length: 139.32
+  cv_length: 1.14
+  length_entropy: 0.5
+  orientation_3d_entropy: 0.344
+  aspl: 2.32
+  cpd: 0.565
+  correlation_vertex_degree: -0.556
+  original_format: Survex
+  comments_cave_info: 'mulitple waring messages when compiling therion: "Forwards
+    and backwards reading do not match, year 1958 magnetic declination used for undated
+    surveys
+
+    - commented fix points with weird values in cullauns folder, and changed the epsg:
+    29903 to 2157 for cullauns in Burren.th'
+  full_name: The Caves of County Clare
+  geometry: splays
+  units: meter
+  country: Ireland
+  state: County Clare
+  area: 'The Burren '
+  locality: 'Carrownacleary
+
+    '
+  grotto_id: 10799 (Cullaun Zero Cave) / 10787 (Coolagh River Cave) / 10793 (Cullaun
+    1 Cave)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:2157 / Local
+  latitude: 53.0571
+  longitude: -9.3057
+  altitude: '172'
+  cave_url: https://grottomap.org/en/list/IE/County%20Clare
+  supplemental_links: https://www.ukcaves.co.uk/map-clare
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://ubss.org.uk/research/cave_surveys/clare/
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 1537
+  - 9409
+- - 1537
+  - 7870
+- - 8450
+  - 1943
+- - 8450
+  - 11428
+- - 1667
+  - 12094
+- - 1667
+  - 10858
+- - 8840
+  - 6639
+- - 8840
+  - 7769
+- - 8842
+  - 4159
+- - 8842
+  - 10923
+- - 8842
+  - 8851
+- - 8851
+  - 11071
+- - 1943
+  - 9672
+- - 664
+  - 461
+- - 664
+  - 6990
+- - 11038
+  - 12084
+- - 11038
+  - 12539
+- - 10014
+  - 6334
+- - 10014
+  - 10461
+- - 11428
+  - 212
+- - 5796
+  - 7416
+- - 5796
+  - 6334
+- - 11820
+  - 8429
+- - 11820
+  - 5969
+- - 12084
+  - 5852
+- - 12084
+  - 4159
+- - 1974
+  - 212
+- - 1974
+  - 461
+- - 3385
+  - 12620
+- - 3385
+  - 4178
+- - 9914
+  - 7870
+- - 9914
+  - 7511
+- - 12094
+  - 7769
+- - 9409
+  - 10461
+- - 9672
+  - 10858
+- - 714
+  - 12404
+- - 714
+  - 7416
+- - 7370
+  - 5969
+- - 7370
+  - 8180
+- - 7370
+  - 5852
+- - 6990
+  - 1997
+- - 1997
+  - 12404
+- - 4178
+  - 6639
+- - 7511
+  - 8429
+- - 984
+  - 8180
+node_attributes:
+  flags:
+    1537:
+    - fix
+    8450:
+    - fix
+    1667:
+    - fix
+    8840:
+    - fix
+    8842:
+    - fix
+    8851:
+    - fix
+    1943:
+    - fix
+    664:
+    - fix
+    11038:
+    - fix
+    10014:
+    - fix
+    11428:
+    - fix
+    5796:
+    - fix
+    10923:
+    - fix
+    11820:
+    - fix
+    12084:
+    - fix
+    1974:
+    - fix
+    3385:
+    - fix
+    9914:
+    - fix
+    12094:
+    - fix
+    6334:
+    - fix
+    7870:
+    - fix
+    9409:
+    - fix
+    4159:
+    - fix
+    11071:
+    - fix
+    9672:
+    - fix
+    714:
+    - fix
+    7370:
+    - fix
+    12620:
+    - ent
+    - fix
+    461:
+    - fix
+    6990:
+    - fix
+    1997:
+    - fix
+    5969:
+    - fix
+    4178:
+    - fix
+    212:
+    - fix
+    7511:
+    - fix
+    984:
+    - fix
+    7769:
+    - fix
+    5852:
+    - fix
+    10461:
+    - fix
+    10858:
+    - fix
+    8429:
+    - fix
+    6639:
+    - fix
+    12404:
+    - fix
+    8180:
+    - fix
+    7416:
+    - fix
+    12539:
+    - fix
+  pos:
+    1537:
+    - 516290.08
+    - 702131.03
+    - 206.8
+    8450:
+    - 516339.6
+    - 702456.01
+    - 213.0
+    1667:
+    - 516334.76
+    - 702461.07
+    - 213.0
+    8840:
+    - 516328.35
+    - 702468.33
+    - 213.0
+    8842:
+    - 516225.06
+    - 701812.24
+    - 183.4
+    8851:
+    - 516221.58
+    - 701792.54
+    - 183.4
+    1943:
+    - 516339.8
+    - 702457.08
+    - 213.0
+    664:
+    - 516343.08
+    - 702444.84
+    - 213.0
+    11038:
+    - 516242.16
+    - 701859.22
+    - 184.0
+    10014:
+    - 516291.82
+    - 702140.88
+    - 206.8
+    11428:
+    - 516341.04
+    - 702454.61
+    - 213.0
+    5796:
+    - 516329.68
+    - 702355.57
+    - 206.8
+    10923:
+    - 516218.11
+    - 701851.63
+    - 183.4
+    11820:
+    - 516285.57
+    - 702105.42
+    - 201.4
+    12084:
+    - 516242.16
+    - 701859.22
+    - 183.4
+    1974:
+    - 516341.02
+    - 702449.96
+    - 213.0
+    3385:
+    - 516323.79
+    - 702474.71
+    - 213.0
+    9914:
+    - 516285.92
+    - 702107.39
+    - 203.8
+    12094:
+    - 516331.77
+    - 702463.16
+    - 213.0
+    6334:
+    - 516308.32
+    - 702234.43
+    - 206.8
+    7870:
+    - 516285.92
+    - 702107.39
+    - 206.8
+    9409:
+    - 516290.08
+    - 702131.03
+    - 208.8
+    4159:
+    - 516235.32
+    - 701840.43
+    - 183.4
+    11071:
+    - 516211.16
+    - 701733.45
+    - 183.4
+    9672:
+    - 516338.26
+    - 702457.13
+    - 213.0
+    714:
+    - 516344.09
+    - 702437.3
+    - 213.0
+    7370:
+    - 516276.02
+    - 702051.26
+    - 183.4
+    12620:
+    - 516320.0
+    - 702478.0
+    - 213.0
+    461:
+    - 516342.03
+    - 702449.06
+    - 213.0
+    6990:
+    - 516342.0
+    - 702443.11
+    - 213.0
+    1997:
+    - 516342.61
+    - 702441.42
+    - 213.0
+    5969:
+    - 516285.57
+    - 702105.42
+    - 183.4
+    4178:
+    - 516327.64
+    - 702470.43
+    - 213.0
+    212:
+    - 516341.43
+    - 702450.88
+    - 213.0
+    7511:
+    - 516285.74
+    - 702106.41
+    - 203.8
+    984:
+    - 516252.49
+    - 702015.41
+    - 183.4
+    7769:
+    - 516329.79
+    - 702464.76
+    - 213.0
+    5852:
+    - 516263.0
+    - 701977.4
+    - 183.4
+    10461:
+    - 516291.82
+    - 702140.88
+    - 208.8
+    10858:
+    - 516337.74
+    - 702460.04
+    - 213.0
+    8429:
+    - 516285.74
+    - 702106.41
+    - 201.4
+    6639:
+    - 516327.29
+    - 702468.46
+    - 213.0
+    12404:
+    - 516343.66
+    - 702441.36
+    - 213.0
+    8180:
+    - 516266.17
+    - 702053.0
+    - 183.4
+    7416:
+    - 516329.68
+    - 702355.57
+    - 213.0
+    12539:
+    - 516293.58
+    - 701920.51
+    - 184.0
+  idsql:
+    1537:
+    - 7111
+    8450:
+    - 7095
+    1667:
+    - 7091
+    8840:
+    - 7088
+    8842:
+    - 7126
+    8851:
+    - 7128
+    1943:
+    - 7094
+    664:
+    - 7100
+    11038:
+    - 7123
+    10014:
+    - 7108
+    11428:
+    - 7096
+    5796:
+    - 7106
+    10923:
+    - 7127
+    11820:
+    - 7116
+    12084:
+    - 7122
+    1974:
+    - 7098
+    3385:
+    - 7084
+    9914:
+    - 7113
+    12094:
+    - 7090
+    6334:
+    - 7107
+    7870:
+    - 7112
+    9409:
+    - 7110
+    4159:
+    - 7125
+    11071:
+    - 7129
+    9672:
+    - 7093
+    714:
+    - 7104
+    7370:
+    - 7118
+    12620:
+    - 7085
+    461:
+    - 7099
+    6990:
+    - 7101
+    1997:
+    - 7102
+    5969:
+    - 7117
+    4178:
+    - 7086
+    212:
+    - 7097
+    7511:
+    - 7114
+    984:
+    - 7120
+    7769:
+    - 7089
+    5852:
+    - 7121
+    10461:
+    - 7109
+    10858:
+    - 7092
+    8429:
+    - 7115
+    6639:
+    - 7087
+    12404:
+    - 7103
+    8180:
+    - 7119
+    7416:
+    - 7105
+    12539:
+    - 7124
+  fulladdress:
+    1537:
+    - CountyClare.TheBurren.polnagollum.bullockpot.27
+    8450:
+    - CountyClare.TheBurren.polnagollum.bullockpot.11
+    1667:
+    - CountyClare.TheBurren.polnagollum.bullockpot.7
+    8840:
+    - CountyClare.TheBurren.polnagollum.bullockpot.4
+    8842:
+    - CountyClare.TheBurren.polnagollum.bullockpot.42
+    8851:
+    - CountyClare.TheBurren.polnagollum.bullockpot.44
+    1943:
+    - CountyClare.TheBurren.polnagollum.bullockpot.10
+    664:
+    - CountyClare.TheBurren.polnagollum.bullockpot.16
+    11038:
+    - CountyClare.TheBurren.polnagollum.bullockpot.39
+    10014:
+    - CountyClare.TheBurren.polnagollum.bullockpot.24
+    11428:
+    - CountyClare.TheBurren.polnagollum.bullockpot.12
+    5796:
+    - CountyClare.TheBurren.polnagollum.bullockpot.22
+    10923:
+    - CountyClare.TheBurren.polnagollum.bullockpot.43
+    11820:
+    - CountyClare.TheBurren.polnagollum.bullockpot.32
+    12084:
+    - CountyClare.TheBurren.polnagollum.bullockpot.38
+    1974:
+    - CountyClare.TheBurren.polnagollum.bullockpot.14
+    3385:
+    - CountyClare.TheBurren.polnagollum.bullockpot.1
+    9914:
+    - CountyClare.TheBurren.polnagollum.bullockpot.29
+    12094:
+    - CountyClare.TheBurren.polnagollum.bullockpot.6
+    6334:
+    - CountyClare.TheBurren.polnagollum.bullockpot.23
+    7870:
+    - CountyClare.TheBurren.polnagollum.bullockpot.28
+    9409:
+    - CountyClare.TheBurren.polnagollum.bullockpot.26
+    4159:
+    - CountyClare.TheBurren.polnagollum.bullockpot.41
+    11071:
+    - CountyClare.TheBurren.polnagollum.bullockpot.45
+    9672:
+    - CountyClare.TheBurren.polnagollum.bullockpot.9
+    714:
+    - CountyClare.TheBurren.polnagollum.bullockpot.20
+    7370:
+    - CountyClare.TheBurren.polnagollum.bullockpot.34
+    12620:
+    - CountyClare.TheBurren.polnagollum.bullockpot.0
+    461:
+    - CountyClare.TheBurren.polnagollum.bullockpot.15
+    6990:
+    - CountyClare.TheBurren.polnagollum.bullockpot.17
+    1997:
+    - CountyClare.TheBurren.polnagollum.bullockpot.18
+    5969:
+    - CountyClare.TheBurren.polnagollum.bullockpot.33
+    4178:
+    - CountyClare.TheBurren.polnagollum.bullockpot.2
+    212:
+    - CountyClare.TheBurren.polnagollum.bullockpot.13
+    7511:
+    - CountyClare.TheBurren.polnagollum.bullockpot.30
+    984:
+    - CountyClare.TheBurren.polnagollum.bullockpot.36
+    7769:
+    - CountyClare.TheBurren.polnagollum.bullockpot.5
+    5852:
+    - CountyClare.TheBurren.polnagollum.bullockpot.37
+    10461:
+    - CountyClare.TheBurren.polnagollum.bullockpot.25
+    10858:
+    - CountyClare.TheBurren.polnagollum.bullockpot.8
+    8429:
+    - CountyClare.TheBurren.polnagollum.bullockpot.31
+    6639:
+    - CountyClare.TheBurren.polnagollum.bullockpot.3
+    12404:
+    - CountyClare.TheBurren.polnagollum.bullockpot.19
+    8180:
+    - CountyClare.TheBurren.polnagollum.bullockpot.35
+    7416:
+    - CountyClare.TheBurren.polnagollum.bullockpot.21
+    12539:
+    - CountyClare.TheBurren.polnagollum.bullockpot.40

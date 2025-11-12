@@ -1,0 +1,57 @@
+id_dataset: 068
+short_name: Mandra
+id_subset: '000'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: 'Karst3D Team (2019). KARST3D. OSU OREME. (Collection). DOI: 10.15148/940C2882-49F1-49DB-A97E-12303CACE752'
+thanks: .nan
+sharing_conditions: .nan
+total_length: 844
+total_depth: 94.49
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 152
+number_edges: 152
+mean_degree: 2.0
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.525
+number_cycles: 1
+mean_length: 29.11
+cv_length: 1.43
+length_entropy: 0.52
+orientation_3d_entropy: 0.695
+aspl: 5.4
+cpd: 0.456
+correlation_vertex_degree: -0.398
+original_format: Therion
+comments_cave_info: .nan
+full_name: Trauc de la Mandra
+geometry: lrud
+units: meter
+country: France
+state: Occitanie
+area: Aude
+locality: Sougraigne
+grotto_id: '5724'
+country_cave_id: 66 (KARST 3D)
+local_id: 60 (CDS Aude)
+local_coordinate_system: 'EPSG:27573 '
+latitude: 42.9095
+longitude: 2.3893
+altitude: '625'
+cave_url: https://grottocenter.org/ui/entrances/5724
+supplemental_links: https://data.oreme.org/karst3d/karst3d_map#selected_layer=karst3d_station&selected_station=66
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

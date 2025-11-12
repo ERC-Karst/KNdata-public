@@ -1,0 +1,613 @@
+metadata:
+  id_dataset: '004'
+  short_name: Matienzo
+  id_subset: '111'
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: 'Matienzo Caves Project Expeditions. (2025). Matienzo Cave Survey Data
+    1960-2025 [Dataset, Aven .3d]. Matienzo Caves Project. https://matienzocaves.org.uk/maps_photos.htm
+
+    '
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 609
+  total_depth: 31.45
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 43
+  number_edges: 42
+  mean_degree: 1.94
+  min_degree: 1.0
+  max_degree: 11.0
+  cv_degree: 0.679
+  number_cycles: 0
+  mean_length: 20.31
+  cv_length: 0.52
+  length_entropy: 0.85
+  orientation_3d_entropy: 0.636
+  aspl: 4.85
+  cpd: 0.518
+  correlation_vertex_degree: -0.458
+  original_format: Survex
+  comments_cave_info: Marco Dentz sent the link to the repo. we should contact them
+    to see if we can get the svx project
+  full_name: Matienzo caves
+  geometry: splays
+  units: meter
+  country: Spain
+  state: Cantabria
+  area: Castro Urdiales
+  locality: Matienzo
+  grotto_id: 33375 (Bollon) / 33388 (Calleja Rebollo) / 33447 (Colmenas) /  33465
+    (Covern) / 33807 (Suviejo)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:27573
+  latitude: 43.3067
+  longitude: -3.6315
+  altitude: '293'
+  cave_url: https://matienzocaves.org.uk/Systems/intro.htm
+  supplemental_links: https://www.matienzocaves.org.uk/Leaflet/Leaflet-latest.html?center=348&zoom=16&map_type=GV_HYBRID
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 69125
+  - 78366
+- - 48646
+  - 83355
+- - 48646
+  - 6116
+- - 65030
+  - 23649
+- - 56456
+  - 47789
+- - 56456
+  - 43716
+- - 33799
+  - 23649
+- - 33799
+  - 47789
+- - 33799
+  - 14066
+- - 80905
+  - 42175
+- - 95628
+  - 12713
+- - 60307
+  - 42175
+- - 83355
+  - 11000
+- - 78366
+  - 43716
+- - 78366
+  - 32378
+- - 81182
+  - 54515
+- - 81182
+  - 41840
+- - 12713
+  - 20442
+- - 12713
+  - 24433
+- - 62124
+  - 42175
+- - 47150
+  - 43187
+- - 22701
+  - 54515
+- - 22701
+  - 36205
+- - 43187
+  - 94909
+- - 43187
+  - 23649
+- - 43187
+  - 56290
+- - 94909
+  - 24433
+- - 94909
+  - 104521
+- - 42175
+  - 74733
+- - 43716
+  - 72416
+- - 43716
+  - 17367
+- - 104521
+  - 4053
+- - 49228
+  - 102740
+- - 73551
+  - 20442
+- - 73551
+  - 102740
+- - 68434
+  - 74733
+- - 48991
+  - 74733
+- - 72416
+  - 54515
+- - 23649
+  - 68322
+- - 74733
+  - 11000
+- - 54515
+  - 11000
+- - 56695
+  - 11000
+node_attributes:
+  pos:
+    69125:
+    - 452026.85
+    - 4796160.56
+    - 200.95
+    48646:
+    - 451964.06
+    - 4796109.61
+    - 225.48
+    65030:
+    - 452030.8
+    - 4796134.12
+    - 215.09
+    56456:
+    - 452019.03
+    - 4796141.31
+    - 210.99
+    33799:
+    - 452038.21
+    - 4796160.44
+    - 211.52
+    80905:
+    - 451943.3
+    - 4796142.5
+    - 224.2
+    95628:
+    - 452119.36
+    - 4796122.24
+    - 228.59
+    60307:
+    - 451936.1
+    - 4796151.46
+    - 228.9
+    83355:
+    - 451959.8
+    - 4796119.04
+    - 226.57
+    78366:
+    - 452014.27
+    - 4796160.82
+    - 201.61
+    81182:
+    - 451979.96
+    - 4796121.16
+    - 214.84
+    12713:
+    - 452132.84
+    - 4796138.19
+    - 229.68
+    62124:
+    - 451932.65
+    - 4796136.3
+    - 226.04
+    47789:
+    - 452028.39
+    - 4796151.64
+    - 212.21
+    47150:
+    - 452081.53
+    - 4796153.04
+    - 220.57
+    22701:
+    - 451969.45
+    - 4796150.13
+    - 211.68
+    43187:
+    - 452074.4
+    - 4796139.74
+    - 221.1
+    94909:
+    - 452093.39
+    - 4796134.95
+    - 225.62
+    42175:
+    - 451937.24
+    - 4796141.93
+    - 224.63
+    43716:
+    - 452010.88
+    - 4796143.67
+    - 206.29
+    104521:
+    - 452091.11
+    - 4796119.12
+    - 226.18
+    49228:
+    - 452148.24
+    - 4796167.57
+    - 230.49
+    73551:
+    - 452146.73
+    - 4796174.77
+    - 231.83
+    68434:
+    - 451938.91
+    - 4796121.38
+    - 220.87
+    102740:
+    - 452148.24
+    - 4796167.57
+    - 230.39
+    4053:
+    - 452101.61
+    - 4796120.75
+    - 229.03
+    17367:
+    - 452013.07
+    - 4796134.04
+    - 211.99
+    20442:
+    - 452148.81
+    - 4796158.52
+    - 232.4
+    48991:
+    - 451943.7
+    - 4796139.82
+    - 221.87
+    72416:
+    - 451997.69
+    - 4796143.24
+    - 209.58
+    23649:
+    - 452053.95
+    - 4796144.33
+    - 215.09
+    56290:
+    - 452063.36
+    - 4796128.59
+    - 221.65
+    68322:
+    - 452037.47
+    - 4796143.53
+    - 214.8
+    6116:
+    - 451964.43
+    - 4796105.3
+    - 227.78
+    74733:
+    - 451941.53
+    - 4796129.35
+    - 221.31
+    36205:
+    - 451958.42
+    - 4796149.19
+    - 212.46
+    41840:
+    - 451996.31
+    - 4796125.18
+    - 216.31
+    24433:
+    - 452110.17
+    - 4796136.66
+    - 227.69
+    14066:
+    - 452046.8
+    - 4796165.16
+    - 211.69
+    54515:
+    - 451982.5
+    - 4796136.05
+    - 211.35
+    56695:
+    - 451967.55
+    - 4796135.61
+    - 214.88
+    11000:
+    - 451961.95
+    - 4796128.23
+    - 218.07
+    32378:
+    - 452000.49
+    - 4796163.29
+    - 201.36
+  fulladdress:
+    69125:
+    - Matienzo.all.0065_cofresnedo.2000s-02.44
+    48646:
+    - Matienzo.all.0065_cofresnedo.1993e.18
+    65030:
+    - Matienzo.all.0065_cofresnedo.2000s-02.40
+    56456:
+    - Matienzo.all.0065_cofresnedo.1993e.9
+    33799:
+    - Matienzo.all.0065_cofresnedo.2000s-02.7
+    80905:
+    - Matienzo.all.0065_cofresnedo.extra.51
+    95628:
+    - Matienzo.all.0065_cofresnedo.2000s-02.37
+    60307:
+    - Matienzo.all.0065_cofresnedo.1993e.16
+    83355:
+    - Matienzo.all.0065_cofresnedo.1993e.17
+    78366:
+    - Matienzo.all.0065_cofresnedo.2000s-02.22
+    81182:
+    - Matienzo.all.0065_cofresnedo.2000s-02.45
+    12713:
+    - Matienzo.all.0065_cofresnedo.2000s-02.2
+    62124:
+    - Matienzo.all.0065_cofresnedo.extra.50
+    47789:
+    - Matienzo.all.0065_cofresnedo.1993e.8
+    47150:
+    - Matienzo.all.0065_cofresnedo.2000s-02.38
+    22701:
+    - Matienzo.all.0065_cofresnedo.1993e.20
+    43187:
+    - Matienzo.all.0065_cofresnedo.2000s-02.5
+    94909:
+    - Matienzo.all.0065_cofresnedo.2000s-01.4
+    42175:
+    - Matienzo.all.0065_cofresnedo.extra.15
+    43716:
+    - Matienzo.all.0065_cofresnedo.2000s-02.10
+    104521:
+    - Matienzo.all.0065_cofresnedo.2000s-01.34
+    49228:
+    - Matienzo.all.0065_cofresnedo.2000s-01.28
+    73551:
+    - Matienzo.all.0065_cofresnedo.2000s-01.26
+    68434:
+    - Matienzo.all.0065_cofresnedo.2000s-02.48
+    102740:
+    - Matienzo.all.0065_cofresnedo.2000s-01.27
+    4053:
+    - Matienzo.all.0065_cofresnedo.2000s-01.35
+    17367:
+    - Matienzo.all.0065_cofresnedo.2000s-02.43
+    20442:
+    - Matienzo.all.0065_cofresnedo.2000s-01.1
+    48991:
+    - Matienzo.all.0065_cofresnedo.2000s-02.49
+    72416:
+    - Matienzo.all.0065_cofresnedo.1993e.11
+    23649:
+    - Matienzo.all.0065_cofresnedo.2000s-02.6
+    56290:
+    - Matienzo.all.0065_cofresnedo.2000s-02.39
+    68322:
+    - Matienzo.all.0065_cofresnedo.2000s-02.41
+    6116:
+    - Matienzo.all.0065_cofresnedo.1993e.19
+    74733:
+    - Matienzo.all.0065_cofresnedo.2000s-02.14
+    36205:
+    - Matienzo.all.0065_cofresnedo.1993e.21
+    41840:
+    - Matienzo.all.0065_cofresnedo.2000s-02.46
+    24433:
+    - Matienzo.all.0065_cofresnedo.1993e.3
+    14066:
+    - Matienzo.all.0065_cofresnedo.2000s-02.42
+    54515:
+    - Matienzo.all.0065_cofresnedo.2000s-02.12
+    56695:
+    - Matienzo.all.0065_cofresnedo.2000s-02.47
+    11000:
+    - Matienzo.all.0065_cofresnedo.2000s-02.13
+    32378:
+    - Matienzo.all.0065_cofresnedo.1993e.23
+  splays:
+    94909:
+    - - 452094.03
+      - 4796144.93
+      - 225.45
+    - - 452097.99
+      - 4796143.9
+      - 226.5
+    - - 452100.63
+      - 4796145.6
+      - 226.3
+    - - 452087.23
+      - 4796123.93
+      - 228.3
+    20442:
+    - - 452167.0
+      - 4796162.0
+      - 235.0
+    - - 452134.27
+      - 4796148.78
+      - 232.7
+    - - 452134.8
+      - 4796169.15
+      - 231.78
+    - - 452151.32
+      - 4796142.33
+      - 231.54
+    - - 452157.31
+      - 4796155.05
+      - 233.04
+  idsql:
+    69125:
+    - 46017
+    48646:
+    - 45991
+    65030:
+    - 46013
+    56456:
+    - 45982
+    33799:
+    - 45980
+    80905:
+    - 46024
+    95628:
+    - 46010
+    60307:
+    - 45989
+    83355:
+    - 45990
+    78366:
+    - 45995
+    81182:
+    - 46018
+    12713:
+    - 45975
+    62124:
+    - 46023
+    47789:
+    - 45981
+    47150:
+    - 46011
+    22701:
+    - 45993
+    43187:
+    - 45978
+    94909:
+    - 45977
+    42175:
+    - 45988
+    43716:
+    - 45983
+    104521:
+    - 46007
+    49228:
+    - 46001
+    73551:
+    - 45999
+    68434:
+    - 46021
+    102740:
+    - 46000
+    4053:
+    - 46008
+    17367:
+    - 46016
+    20442:
+    - 45974
+    48991:
+    - 46022
+    72416:
+    - 45984
+    23649:
+    - 45979
+    56290:
+    - 46012
+    68322:
+    - 46014
+    6116:
+    - 45992
+    74733:
+    - 45987
+    36205:
+    - 45994
+    41840:
+    - 46019
+    24433:
+    - 45976
+    14066:
+    - 46015
+    54515:
+    - 45985
+    56695:
+    - 46020
+    11000:
+    - 45986
+    32378:
+    - 45996
+  flags:
+    69125:
+    - fix
+    48646:
+    - fix
+    65030:
+    - fix
+    56456:
+    - fix
+    33799:
+    - fix
+    80905:
+    - fix
+    95628:
+    - fix
+    60307:
+    - fix
+    83355:
+    - fix
+    78366:
+    - fix
+    81182:
+    - fix
+    12713:
+    - fix
+    62124:
+    - fix
+    47789:
+    - fix
+    47150:
+    - fix
+    22701:
+    - fix
+    43187:
+    - fix
+    94909:
+    - fix
+    42175:
+    - fix
+    43716:
+    - fix
+    104521:
+    - fix
+    49228:
+    - fix
+    73551:
+    - fix
+    68434:
+    - fix
+    102740:
+    - fix
+    4053:
+    - fix
+    17367:
+    - fix
+    20442:
+    - fix
+    48991:
+    - fix
+    72416:
+    - fix
+    23649:
+    - fix
+    56290:
+    - fix
+    68322:
+    - fix
+    6116:
+    - fix
+    74733:
+    - fix
+    36205:
+    - fix
+    41840:
+    - fix
+    24433:
+    - fix
+    14066:
+    - fix
+    54515:
+    - fix
+    56695:
+    - fix
+    11000:
+    - fix
+    32378:
+    - fix

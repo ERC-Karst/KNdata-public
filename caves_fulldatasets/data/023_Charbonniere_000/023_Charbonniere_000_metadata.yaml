@@ -1,0 +1,57 @@
+id_dataset: '023'
+short_name: Charbonniere
+id_subset: '000'
+status: clean
+type_of_correction: no correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: SCJ. (2024). Relevé topographiques [Dataset]. Spéléo-Club Jura. https://speleoclubjura.com/index.php/scj
+thanks: .nan
+sharing_conditions: .nan
+total_length: 116
+total_depth: 23.72
+percentage_csdim: 100
+number_connected_components: 1
+number_nodes: 21
+number_edges: 20
+mean_degree: 1.5
+min_degree: 1.0
+max_degree: 3.0
+cv_degree: 0.667
+number_cycles: 0
+mean_length: 38.96
+cv_length: 1.56
+length_entropy: 0.28
+orientation_3d_entropy: 0.511
+aspl: 1.5
+cpd: 1.0
+correlation_vertex_degree: -1.0
+original_format: Toporobot
+comments_cave_info: .nan
+full_name: Grotte de la Charbonnière
+geometry: lrud
+units: meter
+country: Switzerland
+state: Jura
+area: .nan
+locality: Mettembert
+grotto_id: /
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: CH1903/LV03
+latitude: 47.2349
+longitude: 7.2127
+altitude: '525'
+cave_url: .nan
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

@@ -1,0 +1,57 @@
+id_dataset: 069
+short_name: Argent
+id_subset: '000'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC
+citation: 'Karst3D Team (2019). KARST3D. OSU OREME. (Collection). DOI: 10.15148/940C2882-49F1-49DB-A97E-12303CACE752'
+thanks: .nan
+sharing_conditions: .nan
+total_length: 527
+total_depth: 23.97
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 86
+number_edges: 86
+mean_degree: 2.0
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.559
+number_cycles: 1
+mean_length: 31.01
+cv_length: 1.17
+length_entropy: 0.64
+orientation_3d_entropy: 0.701
+aspl: 3.69
+cpd: 0.385
+correlation_vertex_degree: -0.519
+original_format: Therion
+comments_cave_info: .nan
+full_name: Rec d'Argent
+geometry: lrud
+units: meter
+country: France
+state: Occitanie
+area: Massif de la Clape
+locality: Gruissan
+grotto_id: '6178'
+country_cave_id: 68 (KARST3D)
+local_id: 96 (CDS Aude)
+local_coordinate_system: EPSG:27573
+latitude: 43.1359
+longitude: 3.0871
+altitude: '90'
+cave_url: https://grottocenter.org/ui/entrances/6178
+supplemental_links: https://data.oreme.org/karst3d/karst3d_map#selected_layer=karst3d_station&selected_station=68
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

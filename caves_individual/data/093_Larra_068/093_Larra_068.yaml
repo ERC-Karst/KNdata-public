@@ -1,0 +1,760 @@
+metadata:
+  id_dataset: 093
+  short_name: Larra
+  id_subset: 068
+  status: ready for cleaning
+  type_of_correction: .nan
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Pont, A., & ARSIP, collectif d\u2019exploration du massif de la P. S.\
+    \ M. (2025). Base de donn\xE9es Topographiques des syst\xE8mes karstiques du massif\
+    \ de la Pierre Saint Martin\u2014Larra (France) [Creative Commons BY-NC-SA 4.0\
+    \ dataset, Therion project]. https://github.com/Alex38Lyon/Synthese-PSM_LARRA"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 530
+  total_depth: 281.98
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 67
+  number_edges: 67
+  mean_degree: 2.0
+  min_degree: 1.0
+  max_degree: 10.0
+  cv_degree: 0.567
+  number_cycles: 1
+  mean_length: 35.38
+  cv_length: 1.04
+  length_entropy: 0.78
+  orientation_3d_entropy: 0.534
+  aspl: 3.22
+  cpd: 0.524
+  correlation_vertex_degree: -0.41
+  original_format: Therion
+  comments_cave_info: data not available for compiling. but sql file was created
+  full_name: "Syst\xE8mes karstiques du massif de la Pierre Saint Martin - Larra"
+  geometry: .nan
+  units: meter
+  country: France
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/Alex38Lyon/Synthese-PSM_LARRA
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 2567
+  - 15868
+- - 12424
+  - 32616
+- - 12424
+  - 26132
+- - 14471
+  - 23490
+- - 14471
+  - 8379
+- - 12299
+  - 34008
+- - 27661
+  - 47695
+- - 27661
+  - 35023
+- - 4371
+  - 3778
+- - 4371
+  - 47695
+- - 25108
+  - 13942
+- - 25108
+  - 35168
+- - 47891
+  - 31684
+- - 47891
+  - 12391
+- - 2070
+  - 8543
+- - 2070
+  - 46040
+- - 29205
+  - 44747
+- - 29205
+  - 16061
+- - 41364
+  - 32616
+- - 41364
+  - 40109
+- - 18457
+  - 32878
+- - 18457
+  - 7090
+- - 32154
+  - 37725
+- - 32154
+  - 22057
+- - 21151
+  - 46040
+- - 21151
+  - 7405
+- - 34851
+  - 35023
+- - 34851
+  - 3636
+- - 19112
+  - 3636
+- - 19112
+  - 9449
+- - 17065
+  - 3636
+- - 17065
+  - 21464
+- - 22057
+  - 48477
+- - 46380
+  - 40109
+- - 46380
+  - 15868
+- - 38701
+  - 26079
+- - 38701
+  - 34812
+- - 7090
+  - 3778
+- - 13620
+  - 32878
+- - 18746
+  - 31684
+- - 18746
+  - 16086
+- - 8379
+  - 44747
+- - 33211
+  - 48477
+- - 33211
+  - 25953
+- - 16061
+  - 11903
+- - 16061
+  - 9443
+- - 703
+  - 33511
+- - 703
+  - 37725
+- - 15681
+  - 9449
+- - 15681
+  - 40188
+- - 15681
+  - 13942
+- - 45633
+  - 26079
+- - 31684
+  - 17533
+- - 23490
+  - 8543
+- - 28242
+  - 16086
+- - 28242
+  - 42708
+- - 40188
+  - 26462
+- - 21464
+  - 6105
+- - 6105
+  - 7016
+- - 34008
+  - 34812
+- - 26462
+  - 26079
+- - 26079
+  - 1385
+- - 35168
+  - 12391
+- - 8543
+  - 1385
+- - 25953
+  - 32616
+- - 7016
+  - 17533
+- - 33511
+  - 7405
+node_attributes:
+  flags:
+    13620:
+    - ent
+    - fix
+  pos:
+    2567:
+    - 681378.36
+    - 4756462.59
+    - 1458.02
+    12424:
+    - 681341.75
+    - 4756469.8
+    - 1468.14
+    14471:
+    - 681364.3
+    - 4756458.26
+    - 1552.91
+    12299:
+    - 681389.47
+    - 4756449.98
+    - 1563.56
+    27661:
+    - 681381.99
+    - 4756461.87
+    - 1678.14
+    4371:
+    - 681377.75
+    - 4756460.09
+    - 1688.63
+    25108:
+    - 681379.93
+    - 4756455.71
+    - 1638.67
+    47891:
+    - 681382.45
+    - 4756455.68
+    - 1627.53
+    2070:
+    - 681359.65
+    - 4756460.17
+    - 1550.94
+    29205:
+    - 681366.54
+    - 4756466.95
+    - 1518.66
+    41364:
+    - 681353.95
+    - 4756468.83
+    - 1471.62
+    18457:
+    - 681383.65
+    - 4756464.21
+    - 1732.75
+    32154:
+    - 681352.72
+    - 4756469.81
+    - 1504.35
+    26132:
+    - 681339.5
+    - 4756469.43
+    - 1471.86
+    21151:
+    - 681361.64
+    - 4756463.46
+    - 1519.93
+    34851:
+    - 681380.31
+    - 4756459.51
+    - 1652.62
+    19112:
+    - 681378.91
+    - 4756458.13
+    - 1646.34
+    17065:
+    - 681380.39
+    - 4756459.41
+    - 1643.75
+    22057:
+    - 681351.4
+    - 4756470.61
+    - 1502.16
+    46380:
+    - 681356.39
+    - 4756468.25
+    - 1471.62
+    38701:
+    - 681380.99
+    - 4756449.17
+    - 1574.03
+    40109:
+    - 681354.44
+    - 4756468.71
+    - 1471.62
+    7090:
+    - 681381.17
+    - 4756460.38
+    - 1728.33
+    13620:
+    - 681377.0
+    - 4756464.0
+    - 1740.0
+    3636:
+    - 681380.4
+    - 4756459.41
+    - 1643.76
+    18746:
+    - 681384.94
+    - 4756456.68
+    - 1626.53
+    8379:
+    - 681365.12
+    - 4756459.88
+    - 1547.86
+    33211:
+    - 681347.32
+    - 4756469.18
+    - 1497.73
+    16061:
+    - 681367.04
+    - 4756469.4
+    - 1518.66
+    703:
+    - 681360.26
+    - 4756467.75
+    - 1508.78
+    15681:
+    - 681377.71
+    - 4756457.36
+    - 1643.38
+    3778:
+    - 681381.17
+    - 4756460.38
+    - 1699.82
+    45633:
+    - 681363.15
+    - 4756446.88
+    - 1574.03
+    31684:
+    - 681382.47
+    - 4756455.68
+    - 1627.54
+    23490:
+    - 681364.37
+    - 4756456.33
+    - 1560.41
+    44747:
+    - 681366.54
+    - 4756466.95
+    - 1536.5
+    47695:
+    - 681379.72
+    - 4756462.28
+    - 1686.11
+    35023:
+    - 681381.99
+    - 4756461.87
+    - 1655.34
+    28242:
+    - 681390.48
+    - 4756460.64
+    - 1614.59
+    42708:
+    - 681395.04
+    - 4756463.29
+    - 1614.59
+    40188:
+    - 681374.39
+    - 4756453.41
+    - 1642.14
+    16086:
+    - 681387.82
+    - 4756458.81
+    - 1614.18
+    21464:
+    - 681380.14
+    - 4756457.93
+    - 1643.62
+    6105:
+    - 681379.87
+    - 4756457.64
+    - 1642.42
+    34008:
+    - 681386.48
+    - 4756449.73
+    - 1563.56
+    46040:
+    - 681359.65
+    - 4756460.17
+    - 1521.74
+    15868:
+    - 681366.48
+    - 4756465.01
+    - 1460.34
+    37725:
+    - 681355.88
+    - 4756470.38
+    - 1508.78
+    26462:
+    - 681370.82
+    - 4756450.86
+    - 1639.46
+    26079:
+    - 681370.82
+    - 4756450.86
+    - 1574.03
+    35168:
+    - 681379.8
+    - 4756454.0
+    - 1630.43
+    8543:
+    - 681364.25
+    - 4756453.28
+    - 1570.93
+    48477:
+    - 681349.05
+    - 4756468.88
+    - 1498.63
+    9443:
+    - 681375.76
+    - 4756467.36
+    - 1517.81
+    25953:
+    - 681347.1
+    - 4756468.26
+    - 1497.4
+    12391:
+    - 681381.79
+    - 4756455.13
+    - 1629.05
+    7016:
+    - 681379.85
+    - 4756457.64
+    - 1641.24
+    9449:
+    - 681377.69
+    - 4756457.36
+    - 1646.35
+    1385:
+    - 681366.49
+    - 4756453.48
+    - 1574.03
+    33511:
+    - 681360.26
+    - 4756467.75
+    - 1515.32
+    32616:
+    - 681347.1
+    - 4756468.26
+    - 1469.39
+    7405:
+    - 681359.44
+    - 4756466.99
+    - 1516.27
+    32878:
+    - 681380.66
+    - 4756464.91
+    - 1737.26
+    13942:
+    - 681377.96
+    - 4756456.69
+    - 1643.39
+    34812:
+    - 681386.48
+    - 4756449.73
+    - 1567.56
+    17533:
+    - 681380.55
+    - 4756456.93
+    - 1641.23
+    11903:
+    - 681361.7
+    - 4756470.65
+    - 1518.23
+  idsql:
+    2567:
+    - 52928
+    12424:
+    - 52930
+    14471:
+    - 52908
+    12299:
+    - 52904
+    27661:
+    - 52863
+    4371:
+    - 52861
+    25108:
+    - 52896
+    47891:
+    - 52893
+    2070:
+    - 52875
+    29205:
+    - 52911
+    41364:
+    - 52924
+    18457:
+    - 52858
+    32154:
+    - 52882
+    - 52917
+    - 52918
+    26132:
+    - 52931
+    21151:
+    - 52877
+    34851:
+    - 52865
+    19112:
+    - 52867
+    17065:
+    - 52883
+    22057:
+    - 52919
+    46380:
+    - 52926
+    38701:
+    - 52901
+    40109:
+    - 52925
+    7090:
+    - 52859
+    13620:
+    - 52855
+    - 52856
+    3636:
+    - 52866
+    18746:
+    - 52889
+    8379:
+    - 52909
+    33211:
+    - 52921
+    16061:
+    - 52912
+    - 52913
+    - 52915
+    703:
+    - 52880
+    15681:
+    - 52869
+    3778:
+    - 52860
+    45633:
+    - 52899
+    31684:
+    - 52888
+    23490:
+    - 52907
+    44747:
+    - 52910
+    47695:
+    - 52862
+    35023:
+    - 52864
+    28242:
+    - 52891
+    42708:
+    - 52892
+    40188:
+    - 52870
+    16086:
+    - 52890
+    21464:
+    - 52884
+    6105:
+    - 52885
+    34008:
+    - 52903
+    46040:
+    - 52876
+    15868:
+    - 52927
+    37725:
+    - 52881
+    26462:
+    - 52871
+    26079:
+    - 52872
+    - 52898
+    - 52900
+    35168:
+    - 52895
+    8543:
+    - 52874
+    - 52905
+    - 52906
+    48477:
+    - 52920
+    9443:
+    - 52916
+    25953:
+    - 52922
+    12391:
+    - 52894
+    7016:
+    - 52886
+    9449:
+    - 52868
+    1385:
+    - 52873
+    33511:
+    - 52879
+    32616:
+    - 52923
+    - 52929
+    7405:
+    - 52878
+    32878:
+    - 52857
+    13942:
+    - 52897
+    34812:
+    - 52902
+    17533:
+    - 52887
+    11903:
+    - 52914
+  fulladdress:
+    2567:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU2/10
+    12424:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU3/1
+    14471:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU8/2
+    12299:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU7/4
+    27661:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/7
+    4371:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/5
+    25108:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU5/3
+    47891:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU5/0
+    2070:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/19
+    29205:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU8/5
+    41364:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU2/6
+    18457:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/2
+    32154:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/26
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU1/26
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU2/0
+    26132:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU3/2
+    21151:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/21
+    34851:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/9
+    19112:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/11
+    17065:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU4/0
+    22057:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU2/1
+    46380:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU2/8
+    38701:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU7/1
+    40109:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU2/7
+    7090:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/3
+    13620:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAUF
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/0
+    3636:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/10
+    18746:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU4/6
+    8379:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU8/3
+    33211:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU2/3
+    16061:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU8/6
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU9/0
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU10/0
+    703:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/24
+    15681:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/13
+    3778:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/4
+    45633:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU6/1
+    31684:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU4/5
+    23490:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU8/1
+    44747:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU8/4
+    47695:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/6
+    35023:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/8
+    28242:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU4/8
+    42708:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU4/9
+    40188:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/14
+    16086:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU4/7
+    21464:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU4/1
+    6105:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU4/2
+    34008:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU7/3
+    46040:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/20
+    15868:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU2/9
+    37725:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/25
+    26462:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/15
+    26079:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/16
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU6/0
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU7/0
+    35168:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU5/2
+    8543:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/18
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU1/18
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU8/0
+    48477:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU2/2
+    9443:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU10/1
+    25953:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU2/4
+    12391:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU5/1
+    7016:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU4/3
+    9449:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/12
+    1385:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/17
+    33511:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/23
+    32616:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU2/5
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_03_1993_08_07.Explo_03_1993_08_07.BEAU3/0
+    7405:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/22
+    32878:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU1/1
+    13942:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU5/4
+    34812:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU7/2
+    17533:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_01_1991_08_12.Explo_01_1991_08_12.BEAU4/4
+    11903:
+    - Synthese-PSM_LARRA.UK600-Sima_Beauf.Explo_02_1992_08_13.Explo_02_1992_08_13.BEAU9/1

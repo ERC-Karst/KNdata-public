@@ -1,0 +1,700 @@
+metadata:
+  id_dataset: 093
+  short_name: Larra
+  id_subset: '074'
+  status: ready for cleaning
+  type_of_correction: .nan
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Pont, A., & ARSIP, collectif d\u2019exploration du massif de la P. S.\
+    \ M. (2025). Base de donn\xE9es Topographiques des syst\xE8mes karstiques du massif\
+    \ de la Pierre Saint Martin\u2014Larra (France) [Creative Commons BY-NC-SA 4.0\
+    \ dataset, Therion project]. https://github.com/Alex38Lyon/Synthese-PSM_LARRA"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 552
+  total_depth: 52.42
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 62
+  number_edges: 61
+  mean_degree: 1.75
+  min_degree: 1.0
+  max_degree: 10.0
+  cv_degree: 0.591
+  number_cycles: 0
+  mean_length: 78.91
+  cv_length: 0.81
+  length_entropy: 0.67
+  orientation_3d_entropy: 0.616
+  aspl: 2.32
+  cpd: 0.565
+  correlation_vertex_degree: -0.556
+  original_format: Therion
+  comments_cave_info: data not available for compiling. but sql file was created
+  full_name: "Syst\xE8mes karstiques du massif de la Pierre Saint Martin - Larra"
+  geometry: .nan
+  units: meter
+  country: France
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/Alex38Lyon/Synthese-PSM_LARRA
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 41347
+  - 25737
+- - 11656
+  - 12281
+- - 11656
+  - 14031
+- - 37385
+  - 24436
+- - 37385
+  - 34742
+- - 25737
+  - 16237
+- - 25737
+  - 47147
+- - 28043
+  - 47260
+- - 28043
+  - 840
+- - 18572
+  - 23227
+- - 18572
+  - 24436
+- - 46092
+  - 15794
+- - 46092
+  - 31186
+- - 24717
+  - 31186
+- - 24717
+  - 43994
+- - 37903
+  - 22237
+- - 37903
+  - 30708
+- - 30355
+  - 29906
+- - 30355
+  - 23227
+- - 18967
+  - 3609
+- - 18967
+  - 22247
+- - 9624
+  - 10138
+- - 9624
+  - 15093
+- - 3609
+  - 15093
+- - 10138
+  - 44205
+- - 47260
+  - 29409
+- - 33310
+  - 30644
+- - 33310
+  - 25084
+- - 33310
+  - 12281
+- - 4257
+  - 47147
+- - 11810
+  - 42084
+- - 11810
+  - 16237
+- - 23722
+  - 30560
+- - 15789
+  - 20413
+- - 44205
+  - 14176
+- - 15794
+  - 27600
+- - 30644
+  - 32190
+- - 34742
+  - 41033
+- - 26295
+  - 840
+- - 26295
+  - 32190
+- - 20413
+  - 41033
+- - 9795
+  - 19908
+- - 9795
+  - 2917
+- - 19908
+  - 734
+- - 34639
+  - 25084
+- - 34639
+  - 16998
+- - 14031
+  - 27600
+- - 29906
+  - 16998
+- - 29906
+  - 22237
+- - 2521
+  - 43994
+- - 2521
+  - 32351
+- - 734
+  - 30708
+- - 32351
+  - 21499
+- - 14176
+  - 20971
+- - 29409
+  - 34659
+- - 48349
+  - 30560
+- - 48349
+  - 20971
+- - 34659
+  - 22247
+- - 42084
+  - 21499
+- - 2917
+  - 34929
+- - 45550
+  - 34929
+node_attributes:
+  pos:
+    41347:
+    - 680091.53
+    - 4754275.71
+    - 997.57
+    11656:
+    - 679970.57
+    - 4754276.18
+    - 980.97
+    37385:
+    - 680056.67
+    - 4754331.57
+    - 979.42
+    25737:
+    - 680086.51
+    - 4754273.76
+    - 993.36
+    28043:
+    - 679939.64
+    - 4754279.43
+    - 964.83
+    18572:
+    - 680001.63
+    - 4754314.28
+    - 975.57
+    46092:
+    - 680013.5
+    - 4754275.1
+    - 979.82
+    24717:
+    - 680035.1
+    - 4754277.55
+    - 982.35
+    37903:
+    - 679963.61
+    - 4754296.78
+    - 964.84
+    30355:
+    - 679975.18
+    - 4754299.74
+    - 973.5
+    18967:
+    - 679917.94
+    - 4754277.58
+    - 964.37
+    9624:
+    - 679896.52
+    - 4754269.26
+    - 958.78
+    3609:
+    - 679910.79
+    - 4754274.55
+    - 962.95
+    10138:
+    - 679886.44
+    - 4754269.58
+    - 956.01
+    47260:
+    - 679936.61
+    - 4754278.22
+    - 964.93
+    33310:
+    - 679961.4
+    - 4754275.9
+    - 977.33
+    4257:
+    - 680066.9
+    - 4754271.03
+    - 1003.64
+    11810:
+    - 680073.6
+    - 4754275.4
+    - 985.63
+    23722:
+    - 679828.91
+    - 4754264.37
+    - 951.22
+    47147:
+    - 680083.7
+    - 4754271.94
+    - 1003.59
+    15789:
+    - 680078.96
+    - 4754358.88
+    - 961.21
+    44205:
+    - 679883.13
+    - 4754269.84
+    - 956.3
+    15794:
+    - 680008.51
+    - 4754274.47
+    - 981.85
+    30644:
+    - 679956.62
+    - 4754271.78
+    - 977.62
+    34742:
+    - 680062.47
+    - 4754330.69
+    - 978.91
+    26295:
+    - 679939.46
+    - 4754275.17
+    - 968.48
+    23227:
+    - 679984.11
+    - 4754307.63
+    - 974.33
+    20413:
+    - 680067.88
+    - 4754346.78
+    - 972.81
+    32190:
+    - 679952.26
+    - 4754276.02
+    - 973.75
+    9795:
+    - 679990.17
+    - 4754308.76
+    - 967.11
+    19908:
+    - 679978.89
+    - 4754303.3
+    - 965.42
+    840:
+    - 679942.65
+    - 4754280.57
+    - 967.11
+    41033:
+    - 680065.03
+    - 4754338.09
+    - 975.73
+    34639:
+    - 679965.71
+    - 4754284.36
+    - 972.21
+    14031:
+    - 679978.55
+    - 4754274.13
+    - 980.98
+    27600:
+    - 679990.66
+    - 4754274.4
+    - 980.35
+    29906:
+    - 679968.97
+    - 4754294.27
+    - 968.1
+    31186:
+    - 680028.71
+    - 4754276.4
+    - 980.48
+    2521:
+    - 680047.17
+    - 4754278.54
+    - 979.4
+    43994:
+    - 680036.27
+    - 4754278.66
+    - 982.28
+    22237:
+    - 679964.58
+    - 4754295.18
+    - 966.54
+    734:
+    - 679973.09
+    - 4754304.55
+    - 965.02
+    32351:
+    - 680056.1
+    - 4754274.49
+    - 980.69
+    14176:
+    - 679878.52
+    - 4754269.01
+    - 957.8
+    29409:
+    - 679934.23
+    - 4754278.25
+    - 964.55
+    48349:
+    - 679862.16
+    - 4754264.98
+    - 955.64
+    34659:
+    - 679927.17
+    - 4754278.29
+    - 965.57
+    42084:
+    - 680066.63
+    - 4754272.81
+    - 981.09
+    2917:
+    - 679997.13
+    - 4754309.8
+    - 969.51
+    16998:
+    - 679966.28
+    - 4754287.45
+    - 971.97
+    22247:
+    - 679923.45
+    - 4754278.23
+    - 964.62
+    30560:
+    - 679844.72
+    - 4754267.04
+    - 952.55
+    20971:
+    - 679873.09
+    - 4754266.92
+    - 956.11
+    16237:
+    - 680077.09
+    - 4754272.02
+    - 987.61
+    45550:
+    - 680009.7
+    - 4754314.89
+    - 969.81
+    34929:
+    - 680003.28
+    - 4754314.64
+    - 969.11
+    24436:
+    - 680024.81
+    - 4754313.72
+    - 977.56
+    30708:
+    - 679965.18
+    - 4754300.37
+    - 964.34
+    15093:
+    - 679905.25
+    - 4754270.2
+    - 960.34
+    12281:
+    - 679963.46
+    - 4754274.35
+    - 979.03
+    21499:
+    - 680062.48
+    - 4754274.11
+    - 980.04
+    25084:
+    - 679960.93
+    - 4754281.15
+    - 975.41
+  idsql:
+    41347:
+    - 26163
+    - 26164
+    11656:
+    - 26148
+    37385:
+    - 25913
+    25737:
+    - 26162
+    28043:
+    - 25899
+    18572:
+    - 25911
+    46092:
+    - 26152
+    24717:
+    - 26154
+    37903:
+    - 26170
+    30355:
+    - 25909
+    18967:
+    - 25894
+    9624:
+    - 25891
+    3609:
+    - 25893
+    - 26179
+    10138:
+    - 25890
+    47260:
+    - 25898
+    33310:
+    - 25904
+    - 26146
+    4257:
+    - 26166
+    - 26167
+    11810:
+    - 26160
+    23722:
+    - 25884
+    47147:
+    - 26165
+    15789:
+    - 25917
+    - 26404
+    - 31398
+    44205:
+    - 25889
+    15794:
+    - 26151
+    30644:
+    - 25903
+    34742:
+    - 25914
+    26295:
+    - 25901
+    23227:
+    - 25910
+    20413:
+    - 25916
+    32190:
+    - 25902
+    9795:
+    - 26174
+    19908:
+    - 26173
+    840:
+    - 25900
+    41033:
+    - 25915
+    34639:
+    - 25906
+    14031:
+    - 26149
+    27600:
+    - 26150
+    29906:
+    - 25908
+    - 26168
+    31186:
+    - 26153
+    2521:
+    - 26156
+    43994:
+    - 26155
+    22237:
+    - 26169
+    734:
+    - 26172
+    32351:
+    - 26157
+    14176:
+    - 25888
+    29409:
+    - 25897
+    48349:
+    - 25886
+    34659:
+    - 25896
+    42084:
+    - 26159
+    2917:
+    - 26175
+    16998:
+    - 25907
+    22247:
+    - 25895
+    30560:
+    - 25885
+    20971:
+    - 25887
+    16237:
+    - 26161
+    45550:
+    - 26177
+    - 26178
+    34929:
+    - 26176
+    24436:
+    - 25912
+    30708:
+    - 26171
+    15093:
+    - 25892
+    12281:
+    - 26147
+    21499:
+    - 26158
+    25084:
+    - 25905
+  fulladdress:
+    41347:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.17
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.17_hab
+    11656:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.2
+    37385:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU34
+    25737:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.16
+    28043:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU16
+    18572:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU32
+    46092:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.6
+    24717:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.8
+    37903:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU29.1
+    30355:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU30
+    18967:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU11
+    9624:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU8
+    3609:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU10
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU10
+    10138:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU7
+    47260:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU15
+    33310:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU21
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21
+    4257:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.19
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.19_hab
+    11810:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.14
+    23722:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU1
+    47147:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.18
+    15789:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU38
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_80_2019_08_10.Explo_80_2019_08_10._d_BU56_f_LU38
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_153_2024_08_08.Explo_153_2024_08_08._d_BU56_f_LU38
+    44205:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU6
+    15794:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.5
+    30644:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU20
+    34742:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU35
+    26295:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU18
+    23227:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU31
+    20413:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU37
+    32190:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU19
+    9795:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU29.5
+    19908:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU29.4
+    840:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU17
+    41033:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU36
+    34639:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU27
+    14031:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.3
+    27600:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.4
+    29906:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU29
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU29
+    31186:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.7
+    2521:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.10
+    43994:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.9
+    22237:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU29.0
+    734:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU29.3
+    32351:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.11
+    14176:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU5
+    29409:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU14
+    48349:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU3
+    34659:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU13
+    42084:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.13
+    2917:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU29.6
+    16998:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU28
+    22247:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU12
+    30560:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU2
+    20971:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU4
+    16237:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.15
+    45550:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU29.8
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU29.8_hab
+    34929:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU29.7
+    24436:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU33
+    30708:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU29.2
+    15093:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU9
+    12281:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.1
+    21499:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_74_2019_08_01.Explo_74_2019_08_01._d_BU56_f_LU21.12
+    25084:
+    - Synthese-PSM_LARRA.Complexe_BU56_Ilamina.Explo_63_2018_08_02.Explo_63_2018_08_02._d_BU56_f_LU26

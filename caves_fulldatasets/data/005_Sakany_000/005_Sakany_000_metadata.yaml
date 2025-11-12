@@ -1,0 +1,61 @@
+id_dataset: '005'
+short_name: Sakany
+id_subset: '000'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: 'Groupe de Recherches et d’Activités Spéléologiques de Lourdes. (2024).
+  Base de données topographiques de la grotte Sakany (Version Version of the 25/07/2015)
+  [GHTopo]. Examples de grotte du programme GHTopo. https://ghtopo.blog4ever.com/reseau-sakany
+
+  '
+thanks: .nan
+sharing_conditions: .nan
+total_length: 6846
+total_depth: 140.71
+percentage_csdim: 94
+number_connected_components: 12
+number_nodes: 1776
+number_edges: 1816
+mean_degree: 2.19
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.509
+number_cycles: 52
+mean_length: 15.45
+cv_length: 0.9
+length_entropy: 0.59
+orientation_3d_entropy: 0.94
+aspl: 11.88
+cpd: 0.195
+correlation_vertex_degree: -0.136
+original_format: GHTopo
+comments_cave_info: .nan
+full_name: Reseau Sakany
+geometry: lrud
+units: meter
+country: France
+state: Occitanie
+area: Ariège
+locality: Quié
+grotto_id: '75318'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:27573
+latitude: 42.8359
+longitude: 1.5959
+altitude: '138'
+cave_url: https://grottocenter.org/ui/caves/75318
+supplemental_links: http://lecrad.free.fr/Topos/bdd_topos/sakany.htm
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: mars 2012
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://ghtopo.blog4ever.com/reseau-sakany
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

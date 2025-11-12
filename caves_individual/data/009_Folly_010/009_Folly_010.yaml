@@ -1,0 +1,1698 @@
+metadata:
+  id_dataset: 009
+  short_name: Folly
+  id_subset: '010'
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Robert, X. (2021). Base de donn\xE9es Topographiques des syst\xE8mes\
+    \ karstiques du massif du Folly (Samo\xEBns, 74, France) (Version v1.0.0) [Dataset].\
+    \ Zenodo. https://doi.org/DOI: 10.5281/ZENODO.4745567"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 601
+  total_depth: 180.31
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 136
+  number_edges: 135
+  mean_degree: 1.88
+  min_degree: 1.0
+  max_degree: 9.0
+  cv_degree: 0.547
+  number_cycles: 0
+  mean_length: 40.11
+  cv_length: 1.03
+  length_entropy: 0.67
+  orientation_3d_entropy: 0.67
+  aspl: 3.74
+  cpd: 0.431
+  correlation_vertex_degree: -0.429
+  original_format: Therion
+  comments_cave_info: Synclinal Jean Bernard + Systeme Combe des Puaires +Systeme
+    Mirolda
+  full_name: Massif du Folly
+  geometry: lrud/splays
+  units: meter
+  country: France
+  state: "Auvergne-Rh\xF4ne-Alpes"
+  area: Haute-Savoie
+  locality: "Samo\xEBns"
+  grotto_id: 75262 (Jean-Bernard)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: Local
+  latitude: 46.1022
+  longitude: 6.7796
+  altitude: '1836'
+  cave_url: https://grottocenter.org/ui/caves/75262
+  supplemental_links: https://groupe-speleo-vulcain.com/explorations/explorations-a-samoens/topographies-du-synclinal-du-jean-bernard-samoens-france/
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/robertxa/Topographies-Samoens_Folly
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 8192
+  - 8347
+- - 8192
+  - 5116
+- - 5637
+  - 11523
+- - 5637
+  - 1406
+- - 1032
+  - 2170
+- - 1032
+  - 13176
+- - 2569
+  - 14268
+- - 9236
+  - 13288
+- - 9236
+  - 4246
+- - 2071
+  - 7710
+- - 2071
+  - 12622
+- - 8731
+  - 3429
+- - 8731
+  - 4226
+- - 7710
+  - 5476
+- - 10275
+  - 6105
+- - 10275
+  - 7446
+- - 13349
+  - 2175
+- - 13349
+  - 2994
+- - 5674
+  - 1244
+- - 5674
+  - 11386
+- - 5674
+  - 7426
+- - 10795
+  - 12731
+- - 10795
+  - 3743
+- - 9798
+  - 8580
+- - 9798
+  - 2175
+- - 1607
+  - 10649
+- - 1607
+  - 2640
+- - 6216
+  - 7041
+- - 6216
+  - 14170
+- - 3149
+  - 11386
+- - 3149
+  - 9356
+- - 2640
+  - 622
+- - 2130
+  - 9124
+- - 2130
+  - 8306
+- - 8275
+  - 10854
+- - 8275
+  - 8580
+- - 8275
+  - 12544
+- - 12888
+  - 2315
+- - 12888
+  - 14250
+- - 9820
+  - 5382
+- - 12896
+  - 14250
+- - 10854
+  - 3569
+- - 7790
+  - 12650
+- - 7790
+  - 9580
+- - 622
+  - 8842
+- - 8306
+  - 5514
+- - 7802
+  - 3506
+- - 7802
+  - 13250
+- - 2170
+  - 12544
+- - 10880
+  - 9580
+- - 10880
+  - 4977
+- - 4226
+  - 13288
+- - 8842
+  - 3422
+- - 9356
+  - 12474
+- - 9868
+  - 10011
+- - 9868
+  - 14268
+- - 5116
+  - 3429
+- - 9361
+  - 8497
+- - 9361
+  - 6965
+- - 4246
+  - 9202
+- - 8347
+  - 8010
+- - 8862
+  - 11695
+- - 8862
+  - 13220
+- - 3743
+  - 3569
+- - 2220
+  - 217
+- - 2220
+  - 12589
+- - 2740
+  - 5514
+- - 2740
+  - 12650
+- - 2741
+  - 12230
+- - 2741
+  - 14050
+- - 12474
+  - 11673
+- - 1725
+  - 10994
+- - 1725
+  - 13131
+- - 217
+  - 11047
+- - 1244
+  - 7446
+- - 2783
+  - 10495
+- - 14050
+  - 1294
+- - 1252
+  - 2000
+- - 13540
+  - 407
+- - 13540
+  - 12123
+- - 12009
+  - 13250
+- - 12009
+  - 297
+- - 10994
+  - 12045
+- - 10994
+  - 11523
+- - 5365
+  - 1406
+- - 5365
+  - 12230
+- - 5373
+  - 9073
+- - 5373
+  - 10495
+- - 7426
+  - 12045
+- - 5382
+  - 11263
+- - 2315
+  - 6924
+- - 6924
+  - 2994
+- - 1294
+  - 485
+- - 5395
+  - 12772
+- - 10011
+  - 11648
+- - 11047
+  - 9703
+- - 11047
+  - 11695
+- - 297
+  - 11722
+- - 12589
+  - 11648
+- - 8497
+  - 12622
+- - 6965
+  - 7041
+- - 9534
+  - 3422
+- - 9534
+  - 9703
+- - 10565
+  - 12123
+- - 10565
+  - 12772
+- - 8010
+  - 14177
+- - 13131
+  - 13153
+- - 14170
+  - 7530
+- - 13147
+  - 6518
+- - 13147
+  - 14214
+- - 5980
+  - 4977
+- - 5980
+  - 12731
+- - 3422
+  - 6098
+- - 13153
+  - 11624
+- - 14177
+  - 10719
+- - 5476
+  - 13208
+- - 11624
+  - 2042
+- - 8043
+  - 14214
+- - 8043
+  - 11155
+- - 7530
+  - 10719
+- - 9073
+  - 10236
+- - 6518
+  - 13176
+- - 10107
+  - 11673
+- - 2429
+  - 14250
+- - 2429
+  - 13208
+- - 14225
+  - 6105
+- - 1426
+  - 2042
+- - 1426
+  - 2000
+- - 11155
+  - 11263
+- - 407
+  - 13220
+- - 10649
+  - 9202
+- - 9124
+  - 11722
+- - 3506
+  - 485
+- - 434
+  - 14268
+- - 434
+  - 10236
+node_attributes:
+  flags:
+    8192:
+    - fix
+    5637:
+    - fix
+    1032:
+    - fix
+    2569:
+    - fix
+    9236:
+    - fix
+    2071:
+    - fix
+    8731:
+    - fix
+    7710:
+    - fix
+    10275:
+    - fix
+    13349:
+    - fix
+    5674:
+    - fix
+    10795:
+    - fix
+    9798:
+    - fix
+    1607:
+    - fix
+    6216:
+    - fix
+    3149:
+    - fix
+    2640:
+    - fix
+    2130:
+    - fix
+    8275:
+    - fix
+    12888:
+    - fix
+    9820:
+    - fix
+    12896:
+    - fix
+    10854:
+    - fix
+    7790:
+    - fix
+    622:
+    - fix
+    8306:
+    - fix
+    11386:
+    - fix
+    7802:
+    - fix
+    2170:
+    - fix
+    2175:
+    - fix
+    10880:
+    - fix
+    4226:
+    - fix
+    8842:
+    - fix
+    9356:
+    - fix
+    9868:
+    - fix
+    5116:
+    - fix
+    9361:
+    - fix
+    4246:
+    - fix
+    8347:
+    - fix
+    8862:
+    - fix
+    3743:
+    - fix
+    2220:
+    - fix
+    2740:
+    - fix
+    2741:
+    - fix
+    12474:
+    - fix
+    1725:
+    - fix
+    217:
+    - fix
+    1244:
+    - fix
+    2783:
+    - fix
+    14050:
+    - fix
+    1252:
+    - fix
+    13540:
+    - fix
+    12009:
+    - fix
+    10994:
+    - fix
+    5365:
+    - fix
+    5373:
+    - fix
+    10495:
+    - fix
+    12544:
+    - fix
+    7426:
+    - fix
+    11523:
+    - fix
+    5382:
+    - fix
+    2315:
+    - fix
+    6924:
+    - fix
+    12045:
+    - fix
+    1294:
+    - fix
+    5395:
+    - fix
+    7446:
+    - fix
+    10011:
+    - fix
+    11047:
+    - fix
+    297:
+    - fix
+    12589:
+    - fix
+    8497:
+    - fix
+    6965:
+    - fix
+    9534:
+    - fix
+    10565:
+    - fix
+    8010:
+    - fix
+    13131:
+    - fix
+    12622:
+    - fix
+    14170:
+    - fix
+    13147:
+    - fix
+    5980:
+    - fix
+    12123:
+    - fix
+    3422:
+    - fix
+    13153:
+    - fix
+    14177:
+    - fix
+    5476:
+    - fix
+    3429:
+    - fix
+    11624:
+    - fix
+    12650:
+    - fix
+    8043:
+    - fix
+    9580:
+    - fix
+    7530:
+    - fix
+    4977:
+    - fix
+    9073:
+    - fix
+    6518:
+    - fix
+    13176:
+    - fix
+    10107:
+    - fix
+    2429:
+    - fix
+    1406:
+    - fix
+    11648:
+    - fix
+    7041:
+    - fix
+    8580:
+    - fix
+    14214:
+    - fix
+    5514:
+    - fix
+    14225:
+    - ent
+    - fix
+    1426:
+    - fix
+    11155:
+    - fix
+    407:
+    - fix
+    13208:
+    - fix
+    11673:
+    - fix
+    10649:
+    - fix
+    9124:
+    - fix
+    13220:
+    - fix
+    14250:
+    - fix
+    11695:
+    - fix
+    3506:
+    - fix
+    2994:
+    - fix
+    434:
+    - fix
+    12731:
+    - fix
+    14268:
+    - fix
+    13250:
+    - fix
+    12230:
+    - fix
+    11722:
+    - fix
+    2000:
+    - fix
+    6098:
+    - fix
+    6105:
+    - fix
+    10719:
+    - fix
+    12772:
+    - fix
+    485:
+    - fix
+    9703:
+    - fix
+    13288:
+    - fix
+    3569:
+    - fix
+    9202:
+    - fix
+    2042:
+    - fix
+    10236:
+    - fix
+    11263:
+    - fix
+  pos:
+    8192:
+    - 329421.97
+    - 5108030.36
+    - 2030.72
+    5637:
+    - 329412.03
+    - 5108115.77
+    - 2124.16
+    1032:
+    - 329412.88
+    - 5108069.66
+    - 2017.3
+    2569:
+    - 329445.64
+    - 5107986.52
+    - 2013.27
+    9236:
+    - 329423.78
+    - 5108020.2
+    - 2024.1
+    2071:
+    - 329413.63
+    - 5108056.47
+    - 2046.23
+    8731:
+    - 329423.95
+    - 5108024.29
+    - 2027.15
+    7710:
+    - 329411.92
+    - 5108058.07
+    - 2046.3
+    10275:
+    - 329405.14
+    - 5108119.77
+    - 2165.55
+    13349:
+    - 329417.96
+    - 5108071.12
+    - 2053.8
+    5674:
+    - 329405.59
+    - 5108120.76
+    - 2152.77
+    10795:
+    - 329412.54
+    - 5108085.21
+    - 2048.64
+    9798:
+    - 329414.91
+    - 5108074.91
+    - 2056.02
+    1607:
+    - 329426.68
+    - 5108016.11
+    - 2022.86
+    6216:
+    - 329420.34
+    - 5108041.98
+    - 2027.83
+    3149:
+    - 329405.59
+    - 5108120.76
+    - 2143.01
+    2640:
+    - 329426.54
+    - 5108013.85
+    - 2022.5
+    2130:
+    - 329399.92
+    - 5108101.84
+    - 2065.2
+    8275:
+    - 329413.17
+    - 5108076.51
+    - 2041.72
+    12888:
+    - 329410.99
+    - 5108067.85
+    - 2045.53
+    9820:
+    - 329412.07
+    - 5108064.94
+    - 1995.69
+    12896:
+    - 329410.06
+    - 5108064.79
+    - 2040.8
+    10854:
+    - 329413.79
+    - 5108079.92
+    - 2043.23
+    7790:
+    - 329407.46
+    - 5108093.32
+    - 2057.89
+    622:
+    - 329425.36
+    - 5108013.42
+    - 2021.56
+    8306:
+    - 329399.92
+    - 5108101.84
+    - 2059.89
+    11386:
+    - 329405.59
+    - 5108120.76
+    - 2143.84
+    7802:
+    - 329408.77
+    - 5108116.73
+    - 2089.76
+    2170:
+    - 329410.87
+    - 5108073.84
+    - 2017.3
+    2175:
+    - 329417.96
+    - 5108071.12
+    - 2058.5
+    10880:
+    - 329405.05
+    - 5108091.73
+    - 2052.49
+    4226:
+    - 329423.66
+    - 5108022.21
+    - 2025.62
+    8842:
+    - 329424.06
+    - 5108014.76
+    - 2022.13
+    9356:
+    - 329405.59
+    - 5108120.76
+    - 2140.24
+    9868:
+    - 329442.45
+    - 5107988.44
+    - 2013.46
+    5116:
+    - 329422.34
+    - 5108027.51
+    - 2028.49
+    9361:
+    - 329417.24
+    - 5108049.17
+    - 2036.21
+    4246:
+    - 329424.96
+    - 5108018.98
+    - 2024.9
+    8347:
+    - 329421.15
+    - 5108031.95
+    - 2031.24
+    8862:
+    - 329419.97
+    - 5108011.45
+    - 2022.12
+    3743:
+    - 329414.52
+    - 5108081.96
+    - 2045.78
+    2220:
+    - 329434.68
+    - 5107996.95
+    - 2014.62
+    2740:
+    - 329403.38
+    - 5108098.23
+    - 2058.67
+    2741:
+    - 329410.18
+    - 5108120.78
+    - 2112.62
+    12474:
+    - 329405.31
+    - 5108118.8
+    - 2139.78
+    1725:
+    - 329416.2
+    - 5108115.14
+    - 2143.68
+    217:
+    - 329431.23
+    - 5108002.92
+    - 2017.69
+    1244:
+    - 329405.59
+    - 5108120.76
+    - 2159.81
+    2783:
+    - 329439.87
+    - 5107998.41
+    - 2014.71
+    14050:
+    - 329409.87
+    - 5108118.04
+    - 2111.11
+    1252:
+    - 329426.94
+    - 5108113.81
+    - 2123.24
+    13540:
+    - 329403.15
+    - 5108023.95
+    - 2026.93
+    12009:
+    - 329407.2
+    - 5108111.95
+    - 2088.22
+    10994:
+    - 329415.04
+    - 5108116.08
+    - 2145.66
+    5365:
+    - 329411.16
+    - 5108119.88
+    - 2119.12
+    5373:
+    - 329437.48
+    - 5108005.76
+    - 2021.71
+    10495:
+    - 329439.87
+    - 5107998.41
+    - 2018.27
+    12544:
+    - 329410.87
+    - 5108073.84
+    - 2032.82
+    7426:
+    - 329408.99
+    - 5108122.4
+    - 2152.77
+    11523:
+    - 329415.04
+    - 5108116.08
+    - 2140.06
+    5382:
+    - 329409.37
+    - 5108063.64
+    - 1995.69
+    2315:
+    - 329410.99
+    - 5108067.85
+    - 2051.19
+    6924:
+    - 329412.69
+    - 5108068.79
+    - 2054.86
+    12045:
+    - 329411.8
+    - 5108118.97
+    - 2148.05
+    1294:
+    - 329408.6
+    - 5108118.37
+    - 2111.11
+    5395:
+    - 329389.87
+    - 5108030.91
+    - 2031.06
+    7446:
+    - 329405.59
+    - 5108120.76
+    - 2164.47
+    10011:
+    - 329440.09
+    - 5107988.24
+    - 2012.31
+    11047:
+    - 329424.96
+    - 5108007.3
+    - 2020.47
+    297:
+    - 329406.34
+    - 5108111.25
+    - 2089.36
+    12589:
+    - 329435.53
+    - 5107990.94
+    - 2012.64
+    8497:
+    - 329417.24
+    - 5108049.17
+    - 2039.98
+    6965:
+    - 329418.86
+    - 5108044.49
+    - 2036.21
+    9534:
+    - 329423.93
+    - 5108012.46
+    - 2018.71
+    10565:
+    - 329396.06
+    - 5108027.76
+    - 2029.26
+    8010:
+    - 329420.96
+    - 5108033.46
+    - 2030.52
+    13131:
+    - 329417.81
+    - 5108113.3
+    - 2141.38
+    12622:
+    - 329417.11
+    - 5108050.18
+    - 2043.11
+    14170:
+    - 329420.35
+    - 5108041.04
+    - 2026.0
+    13147:
+    - 329411.96
+    - 5108069.95
+    - 2006.9
+    5980:
+    - 329410.2
+    - 5108086.03
+    - 2047.57
+    12123:
+    - 329398.34
+    - 5108027.06
+    - 2028.14
+    3422:
+    - 329422.47
+    - 5108014.16
+    - 2021.49
+    13153:
+    - 329419.1
+    - 5108113.39
+    - 2139.82
+    14177:
+    - 329421.18
+    - 5108035.05
+    - 2029.43
+    5476:
+    - 329411.11
+    - 5108059.08
+    - 2046.3
+    3429:
+    - 329422.58
+    - 5108025.99
+    - 2028.49
+    11624:
+    - 329420.19
+    - 5108114.58
+    - 2136.53
+    12650:
+    - 329404.18
+    - 5108096.85
+    - 2057.66
+    8043:
+    - 329409.55
+    - 5108069.65
+    - 2005.77
+    9580:
+    - 329408.97
+    - 5108092.52
+    - 2053.93
+    7530:
+    - 329421.45
+    - 5108039.69
+    - 2026.78
+    4977:
+    - 329407.86
+    - 5108090.33
+    - 2051.36
+    9073:
+    - 329440.27
+    - 5108002.55
+    - 2023.01
+    6518:
+    - 329411.96
+    - 5108069.95
+    - 2011.83
+    13176:
+    - 329412.88
+    - 5108069.66
+    - 2011.83
+    10107:
+    - 329405.31
+    - 5108118.8
+    - 2122.47
+    2429:
+    - 329410.53
+    - 5108061.86
+    - 2047.18
+    1406:
+    - 329411.68
+    - 5108116.81
+    - 2121.39
+    11648:
+    - 329436.82
+    - 5107989.56
+    - 2012.31
+    7041:
+    - 329419.48
+    - 5108042.58
+    - 2027.83
+    8580:
+    - 329413.14
+    - 5108075.39
+    - 2046.39
+    14214:
+    - 329409.58
+    - 5108070.78
+    - 2006.9
+    5514:
+    - 329403.38
+    - 5108098.23
+    - 2062.24
+    14225:
+    - 329406.03
+    - 5108121.31
+    - 2176.0
+    1426:
+    - 329421.59
+    - 5108114.35
+    - 2132.65
+    11155:
+    - 329406.99
+    - 5108068.41
+    - 2001.97
+    407:
+    - 329408.01
+    - 5108022.37
+    - 2026.48
+    13208:
+    - 329410.92
+    - 5108060.72
+    - 2047.18
+    11673:
+    - 329405.31
+    - 5108118.8
+    - 2123.07
+    10649:
+    - 329425.89
+    - 5108016.9
+    - 2022.84
+    9124:
+    - 329406.06
+    - 5108105.97
+    - 2066.01
+    13220:
+    - 329414.51
+    - 5108013.11
+    - 2023.02
+    14250:
+    - 329410.06
+    - 5108064.79
+    - 2046.8
+    11695:
+    - 329422.62
+    - 5108007.38
+    - 2020.63
+    3506:
+    - 329408.77
+    - 5108116.73
+    - 2095.64
+    2994:
+    - 329414.35
+    - 5108067.6
+    - 2055.35
+    434:
+    - 329444.02
+    - 5107997.27
+    - 2020.65
+    12731:
+    - 329412.54
+    - 5108085.21
+    - 2046.8
+    14268:
+    - 329443.77
+    - 5107990.02
+    - 2015.38
+    13250:
+    - 329412.33
+    - 5108111.44
+    - 2091.72
+    12230:
+    - 329410.18
+    - 5108120.78
+    - 2117.41
+    11722:
+    - 329406.06
+    - 5108105.97
+    - 2088.52
+    2000:
+    - 329423.32
+    - 5108114.64
+    - 2126.96
+    6098:
+    - 329422.47
+    - 5108014.16
+    - 2007.49
+    6105:
+    - 329405.14
+    - 5108119.77
+    - 2173.3
+    10719:
+    - 329421.11
+    - 5108036.55
+    - 2028.27
+    12772:
+    - 329391.65
+    - 5108030.0
+    - 2031.06
+    485:
+    - 329408.6
+    - 5108118.37
+    - 2096.52
+    9703:
+    - 329423.7
+    - 5108009.49
+    - 2020.11
+    13288:
+    - 329423.93
+    - 5108020.83
+    - 2026.21
+    3569:
+    - 329414.77
+    - 5108080.81
+    - 2044.22
+    9202:
+    - 329425.85
+    - 5108017.68
+    - 2025.53
+    2042:
+    - 329421.59
+    - 5108114.35
+    - 2135.19
+    10236:
+    - 329442.34
+    - 5108000.17
+    - 2022.29
+    11263:
+    - 329407.22
+    - 5108066.27
+    - 1999.2
+  idsql:
+    8192:
+    - 9770
+    5637:
+    - 9713
+    1032:
+    - 9815
+    2569:
+    - 9796
+    9236:
+    - 9776
+    2071:
+    - 9757
+    8731:
+    - 9773
+    7710:
+    - 9756
+    10275:
+    - 9691
+    13349:
+    - 9747
+    5674:
+    - 9694
+    10795:
+    - 9739
+    9798:
+    - 9745
+    1607:
+    - 9780
+    6216:
+    - 9763
+    3149:
+    - 9696
+    2640:
+    - 9781
+    2130:
+    - 9728
+    8275:
+    - 9743
+    12888:
+    - 9751
+    9820:
+    - 9824
+    12896:
+    - 9812
+    10854:
+    - 9742
+    7790:
+    - 9733
+    622:
+    - 9782
+    8306:
+    - 9729
+    11386:
+    - 9695
+    7802:
+    - 9722
+    2170:
+    - 9814
+    2175:
+    - 9746
+    10880:
+    - 9735
+    4226:
+    - 9774
+    8842:
+    - 9783
+    9356:
+    - 9697
+    9868:
+    - 9794
+    5116:
+    - 9771
+    9361:
+    - 9760
+    4246:
+    - 9777
+    8347:
+    - 9769
+    8862:
+    - 9804
+    3743:
+    - 9740
+    2220:
+    - 9790
+    2740:
+    - 9731
+    2741:
+    - 9717
+    12474:
+    - 9698
+    1725:
+    - 9704
+    217:
+    - 9789
+    1244:
+    - 9693
+    2783:
+    - 9802
+    14050:
+    - 9718
+    1252:
+    - 9711
+    13540:
+    - 9807
+    12009:
+    - 9724
+    10994:
+    - 9703
+    5365:
+    - 9715
+    5373:
+    - 9800
+    10495:
+    - 9801
+    12544:
+    - 9813
+    7426:
+    - 9701
+    11523:
+    - 9712
+    5382:
+    - 9823
+    2315:
+    - 9750
+    6924:
+    - 9749
+    12045:
+    - 9702
+    1294:
+    - 9719
+    5395:
+    - 9811
+    7446:
+    - 9692
+    10011:
+    - 9793
+    11047:
+    - 9788
+    297:
+    - 9725
+    12589:
+    - 9791
+    8497:
+    - 9759
+    6965:
+    - 9761
+    9534:
+    - 9786
+    10565:
+    - 9809
+    8010:
+    - 9768
+    13131:
+    - 9705
+    12622:
+    - 9758
+    14170:
+    - 9764
+    13147:
+    - 9818
+    5980:
+    - 9737
+    12123:
+    - 9808
+    3422:
+    - 9784
+    13153:
+    - 9706
+    14177:
+    - 9767
+    5476:
+    - 9755
+    3429:
+    - 9772
+    11624:
+    - 9707
+    12650:
+    - 9732
+    8043:
+    - 9820
+    9580:
+    - 9734
+    7530:
+    - 9765
+    4977:
+    - 9736
+    9073:
+    - 9799
+    6518:
+    - 9817
+    13176:
+    - 9816
+    10107:
+    - 9700
+    2429:
+    - 9753
+    1406:
+    - 9714
+    11648:
+    - 9792
+    7041:
+    - 9762
+    8580:
+    - 9744
+    14214:
+    - 9819
+    5514:
+    - 9730
+    14225:
+    - 9689
+    1426:
+    - 9709
+    11155:
+    - 9821
+    407:
+    - 9806
+    13208:
+    - 9754
+    11673:
+    - 9699
+    10649:
+    - 9779
+    9124:
+    - 9727
+    13220:
+    - 9805
+    14250:
+    - 9752
+    11695:
+    - 9803
+    3506:
+    - 9721
+    2994:
+    - 9748
+    434:
+    - 9797
+    12731:
+    - 9738
+    14268:
+    - 9795
+    13250:
+    - 9723
+    12230:
+    - 9716
+    11722:
+    - 9726
+    2000:
+    - 9710
+    6098:
+    - 9785
+    6105:
+    - 9690
+    10719:
+    - 9766
+    12772:
+    - 9810
+    485:
+    - 9720
+    9703:
+    - 9787
+    13288:
+    - 9775
+    3569:
+    - 9741
+    9202:
+    - 9778
+    2042:
+    - 9708
+    10236:
+    - 9798
+    11263:
+    - 9822
+  fulladdress:
+    8192:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B27
+    5637:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.10
+    1032:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.43
+    2569:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.U7
+    9236:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S5
+    2071:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B14
+    8731:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S2
+    7710:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B13
+    10275:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.2
+    13349:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B4
+    5674:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.5
+    10795:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.36
+    9798:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B2
+    1607:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S9
+    6216:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B20
+    3149:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.F4
+    2640:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S10
+    2130:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.25
+    8275:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.40
+    12888:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B8
+    9820:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.52
+    12896:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B9b
+    10854:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.39
+    7790:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.30
+    622:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S11
+    8306:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.26
+    11386:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.F5
+    7802:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.19
+    2170:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.42
+    2175:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B3
+    10880:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.32
+    4226:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S3
+    8842:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S12
+    9356:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.F3
+    9868:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.U8
+    5116:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B28
+    9361:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B17
+    4246:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S6
+    8347:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B26
+    8862:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T2
+    3743:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.37
+    2220:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T11
+    2740:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.28
+    2741:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.14
+    12474:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.F2
+    1725:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.E7
+    217:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T10
+    1244:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.4
+    2783:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.U0
+    14050:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.15
+    1252:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.E0
+    13540:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T5
+    12009:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.21
+    10994:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.8
+    5365:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.12
+    5373:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.U2
+    10495:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.U1
+    12544:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.41
+    7426:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.6
+    11523:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.9
+    5382:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.51
+    2315:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B7
+    6924:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B6
+    12045:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.7
+    1294:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.16
+    5395:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T9
+    7446:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.3
+    10011:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.U9
+    11047:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S16
+    297:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.22
+    12589:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T12
+    8497:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B16
+    6965:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B18
+    9534:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S14
+    10565:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T7
+    8010:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B25
+    13131:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.E6
+    12622:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B15
+    14170:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B21
+    13147:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.46
+    5980:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.34
+    12123:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T6
+    3422:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S13
+    13153:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.E5
+    14177:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B24
+    5476:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B12
+    3429:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S1
+    11624:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.E4
+    12650:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.29
+    8043:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.48
+    9580:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.31
+    7530:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B22
+    4977:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.33
+    9073:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.U3
+    6518:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.45
+    13176:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.44
+    10107:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.F0
+    2429:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B10
+    1406:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.11
+    11648:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.U10
+    7041:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B19
+    8580:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B1
+    14214:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.47
+    5514:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.27
+    14225:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.D33
+    1426:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.E2
+    11155:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.49
+    407:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T4
+    13208:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B11
+    11673:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.F1
+    10649:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S8
+    9124:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.24
+    13220:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T3
+    14250:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B9
+    11695:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T1
+    3506:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.18
+    2994:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B5
+    434:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.U5
+    12731:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.35
+    14268:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.U6
+    13250:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.20
+    12230:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.13
+    11722:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.23
+    2000:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.E1
+    6098:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S13b
+    6105:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.1
+    10719:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.B23
+    12772:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.T8
+    485:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.17
+    9703:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S15
+    13288:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S4
+    3569:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.38
+    9202:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.S7
+    2042:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.E3
+    10236:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.U4
+    11263:
+    - MassifFolly.SynclinalJB.zoneD.D33.D33.50

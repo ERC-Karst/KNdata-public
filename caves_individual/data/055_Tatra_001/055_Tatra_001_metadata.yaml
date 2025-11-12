@@ -1,0 +1,63 @@
+id_dataset: '055'
+short_name: Tatra
+id_subset: '001'
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: Speleoklub Warszawski, Grzeszek, J., Jurczyk, J., Kowalczyk, K., Teleman,
+  K., Kobus, M., Lewandowski, M., Wągrodzki, M., Małgorzata Pawlak, Michał Gabzdyl,
+  Michał Smaga, Michał Smaga, Paweł Nowikowski, Radost Waszkiewicz, Stanislaw Mielczarek,
+  & Weronika Gutfeter. (2024). Tatra mountains cave survey [Creative Commons BY-NC-SA
+  4.0 dataset]. Github. https://github.com/RadostW/jaskinie/
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2472
+total_depth: 130.21
+percentage_csdim: 2
+number_connected_components: 1
+number_nodes: 457
+number_edges: 457
+mean_degree: 2.0
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.49
+number_cycles: 1
+mean_length: 103.03
+cv_length: 1.91
+length_entropy: 0.4
+orientation_3d_entropy: 0.879
+aspl: 5.3
+cpd: 0.392
+correlation_vertex_degree: -0.408
+original_format: Therion
+comments_cave_info: .nan
+full_name: Tatra Mountains caves
+geometry: .nan
+units: meter
+country: Poland
+state: Tatry
+area: Kresanica
+locality: Kościelisko
+grotto_id: 20478 (Zimna)
+country_cave_id: T.D-11.01 (Mietusia)
+local_id: .nan
+local_coordinate_system: EPSG:32634
+latitude: 49.2399
+longitude: 19.9016
+altitude: '1589.7'
+cave_url: https://grottocenter.org/ui/entrances/20478
+supplemental_links: https://jaskiniepolski.pgi.gov.pl/Details/Information/1197
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: 'https://github.com/RadostW/jaskinie
+
+  (larger version with issues: https://github.com/dlubom/Jaskiniowy-Kataster-Tatr-Zachodnich/)'
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

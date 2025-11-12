@@ -1,0 +1,845 @@
+metadata:
+  id_dataset: 008
+  short_name: UltimaPatagonia
+  id_subset: '022'
+  status: clean
+  type_of_correction: no correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: Centre Terre. (2024). Survey Data for the Ultima Patagonia Cave Exploration
+    project [Dataset]. https://github.com/tr1813/ultima-patag
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 501
+  total_depth: 157.05
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 65
+  number_edges: 64
+  mean_degree: 1.75
+  min_degree: 1.0
+  max_degree: 7.0
+  cv_degree: 0.591
+  number_cycles: 0
+  mean_length: 71.69
+  cv_length: 0.85
+  length_entropy: 0.76
+  orientation_3d_entropy: 0.668
+  aspl: 2.32
+  cpd: 0.565
+  correlation_vertex_degree: -0.556
+  original_format: Therion
+  comments_cave_info: .nan
+  full_name: Ultima Patagonia
+  geometry: .nan
+  units: meter
+  country: Chile
+  state: "Regi\xF3n de Magallanes y de la Ant\xE1rtica Chilena"
+  area: Natales
+  locality: Archipielago Madre de Dios
+  grotto_id: "64835 (Condors) / 65033 (D\xE9tente) / 65042 (Lobos) / 65017 (Passoire)\
+    \ / 65016 (Ptit Creux) / 65011 (Com\xE8te)"
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: Local ?
+  latitude: -50.2946
+  longitude: -75.2895
+  altitude: '141'
+  cave_url: https://grottocenter.org/ui/entrances/64835
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/tr1813/ultima-patagonia-topo
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 4993
+  - 2275
+- - 4993
+  - 2736
+- - 386
+  - 5389
+- - 386
+  - 1196
+- - 1926
+  - 1162
+- - 1926
+  - 369
+- - 263
+  - 3535
+- - 263
+  - 5331
+- - 264
+  - 584
+- - 264
+  - 610
+- - 264
+  - 1088
+- - 1162
+  - 5041
+- - 5389
+  - 5239
+- - 4622
+  - 2736
+- - 4622
+  - 4444
+- - 1808
+  - 1351
+- - 1808
+  - 5428
+- - 5009
+  - 3362
+- - 5009
+  - 677
+- - 3859
+  - 3555
+- - 3859
+  - 5041
+- - 3606
+  - 3882
+- - 3606
+  - 2427
+- - 2710
+  - 677
+- - 2710
+  - 5239
+- - 5274
+  - 610
+- - 5274
+  - 757
+- - 27
+  - 2160
+- - 27
+  - 418
+- - 4764
+  - 2591
+- - 4764
+  - 1985
+- - 2591
+  - 120
+- - 418
+  - 4005
+- - 1571
+  - 1868
+- - 1571
+  - 1645
+- - 3362
+  - 4279
+- - 4005
+  - 4461
+- - 5286
+  - 5428
+- - 5286
+  - 4927
+- - 1188
+  - 1196
+- - 1188
+  - 3535
+- - 3882
+  - 4461
+- - 2602
+  - 5331
+- - 1077
+  - 3547
+- - 1077
+  - 3653
+- - 1975
+  - 3653
+- - 1975
+  - 5314
+- - 4279
+  - 3422
+- - 4927
+  - 2278
+- - 321
+  - 2115
+- - 321
+  - 2160
+- - 5314
+  - 120
+- - 2115
+  - 757
+- - 1985
+  - 1624
+- - 1351
+  - 1645
+- - 584
+  - 4325
+- - 1868
+  - 4461
+- - 1868
+  - 3547
+- - 978
+  - 2427
+- - 978
+  - 3422
+- - 1624
+  - 4476
+- - 3555
+  - 2278
+- - 2275
+  - 369
+- - 4325
+  - 4081
+node_attributes:
+  flags:
+    4993:
+    - fix
+    386:
+    - fix
+    1926:
+    - fix
+    263:
+    - fix
+    264:
+    - fix
+    1162:
+    - fix
+    5389:
+    - fix
+    4622:
+    - fix
+    1808:
+    - fix
+    5009:
+    - fix
+    3859:
+    - fix
+    3606:
+    - fix
+    2710:
+    - fix
+    5274:
+    - fix
+    27:
+    - fix
+    4764:
+    - fix
+    2591:
+    - fix
+    418:
+    - fix
+    1571:
+    - fix
+    3362:
+    - fix
+    4005:
+    - fix
+    5286:
+    - fix
+    677:
+    - fix
+    1188:
+    - fix
+    3882:
+    - fix
+    2602:
+    - fix
+    1196:
+    - fix
+    2736:
+    - fix
+    5041:
+    - fix
+    5428:
+    - fix
+    1077:
+    - fix
+    1975:
+    - fix
+    4279:
+    - fix
+    4927:
+    - fix
+    1088:
+    - fix
+    321:
+    - fix
+    5314:
+    - fix
+    2115:
+    - fix
+    1985:
+    - fix
+    3653:
+    - fix
+    1351:
+    - fix
+    584:
+    - fix
+    1868:
+    - fix
+    3535:
+    - fix
+    978:
+    - fix
+    5331:
+    - fix
+    1624:
+    - fix
+    3547:
+    - fix
+    4444:
+    - fix
+    3422:
+    - fix
+    610:
+    - fix
+    3555:
+    - fix
+    2275:
+    - fix
+    4325:
+    - fix
+    2278:
+    - fix
+    4461:
+    - fix
+    1645:
+    - fix
+    2160:
+    - fix
+    4081:
+    - ent
+    - fix
+    369:
+    - fix
+    757:
+    - fix
+    5239:
+    - fix
+    120:
+    - fix
+    2427:
+    - fix
+    4476:
+    - fix
+  pos:
+    4993:
+    - 472956.12
+    - 4429094.38
+    - 162.64
+    386:
+    - 472870.95
+    - 4429260.33
+    - 112.36
+    1926:
+    - 472949.66
+    - 4429101.46
+    - 162.64
+    263:
+    - 472862.42
+    - 4429270.98
+    - 102.48
+    264:
+    - 472966.48
+    - 4429189.75
+    - 225.38
+    1162:
+    - 472952.64
+    - 4429105.85
+    - 162.64
+    5389:
+    - 472873.02
+    - 4429255.86
+    - 118.66
+    4622:
+    - 472958.99
+    - 4429091.66
+    - 162.64
+    1808:
+    - 472948.3
+    - 4429169.62
+    - 161.96
+    5009:
+    - 472887.95
+    - 4429237.85
+    - 128.05
+    3859:
+    - 472961.99
+    - 4429113.44
+    - 162.64
+    3606:
+    - 472908.91
+    - 4429221.2
+    - 153.2
+    2710:
+    - 472886.66
+    - 4429242.53
+    - 125.62
+    5274:
+    - 472957.4
+    - 4429190.75
+    - 215.26
+    27:
+    - 472929.59
+    - 4429194.24
+    - 187.52
+    4764:
+    - 472904.17
+    - 4429234.1
+    - 153.42
+    2591:
+    - 472907.17
+    - 4429237.2
+    - 156.33
+    418:
+    - 472925.33
+    - 4429195.76
+    - 173.59
+    1571:
+    - 472938.73
+    - 4429205.71
+    - 161.22
+    3362:
+    - 472890.51
+    - 4429234.04
+    - 130.19
+    4005:
+    - 472924.15
+    - 4429203.28
+    - 168.26
+    5286:
+    - 472948.21
+    - 4429161.05
+    - 162.18
+    677:
+    - 472885.34
+    - 4429238.91
+    - 127.02
+    1188:
+    - 472871.67
+    - 4429268.03
+    - 104.7
+    3882:
+    - 472916.72
+    - 4429218.03
+    - 157.5
+    2602:
+    - 472842.03
+    - 4429263.25
+    - 92.95
+    1196:
+    - 472871.44
+    - 4429264.84
+    - 110.24
+    2736:
+    - 472957.08
+    - 4429093.05
+    - 162.64
+    5041:
+    - 472955.48
+    - 4429110.56
+    - 162.64
+    5428:
+    - 472952.57
+    - 4429166.61
+    - 162.05
+    1077:
+    - 472912.12
+    - 4429223.3
+    - 153.42
+    1975:
+    - 472910.47
+    - 4429228.82
+    - 155.43
+    4279:
+    - 472891.53
+    - 4429232.77
+    - 131.56
+    4927:
+    - 472947.33
+    - 4429156.57
+    - 162.26
+    1088:
+    - 472959.69
+    - 4429184.54
+    - 226.28
+    321:
+    - 472936.65
+    - 4429195.38
+    - 189.49
+    5314:
+    - 472912.21
+    - 4429231.69
+    - 156.33
+    2115:
+    - 472936.5
+    - 4429192.93
+    - 197.53
+    1985:
+    - 472902.56
+    - 4429240.62
+    - 152.84
+    3653:
+    - 472911.31
+    - 4429226.83
+    - 153.42
+    1351:
+    - 472951.37
+    - 4429182.76
+    - 161.73
+    584:
+    - 472975.01
+    - 4429193.27
+    - 231.37
+    1868:
+    - 472923.89
+    - 4429214.67
+    - 160.92
+    3535:
+    - 472866.77
+    - 4429273.69
+    - 103.38
+    978:
+    - 472897.8
+    - 4429226.01
+    - 137.76
+    5331:
+    - 472857.08
+    - 4429267.53
+    - 97.14
+    1624:
+    - 472898.0
+    - 4429237.67
+    - 151.48
+    3547:
+    - 472916.1
+    - 4429225.06
+    - 153.42
+    4444:
+    - 472959.85
+    - 4429091.39
+    - 162.64
+    3422:
+    - 472893.7
+    - 4429229.98
+    - 135.09
+    610:
+    - 472964.4
+    - 4429191.79
+    - 224.32
+    3555:
+    - 472958.47
+    - 4429138.9
+    - 162.64
+    2275:
+    - 472953.79
+    - 4429094.88
+    - 162.64
+    4325:
+    - 472978.12
+    - 4429198.77
+    - 237.06
+    2278:
+    - 472948.42
+    - 4429148.64
+    - 162.4
+    4461:
+    - 472919.04
+    - 4429213.82
+    - 160.05
+    1645:
+    - 472942.7
+    - 4429186.82
+    - 161.56
+    2160:
+    - 472934.04
+    - 4429195.73
+    - 187.85
+    4081:
+    - 472991.0
+    - 4429200.0
+    - 250.0
+    369:
+    - 472952.45
+    - 4429097.31
+    - 162.64
+    757:
+    - 472947.27
+    - 4429194.54
+    - 207.69
+    5239:
+    - 472877.17
+    - 4429250.53
+    - 120.85
+    120:
+    - 472907.31
+    - 4429233.1
+    - 156.33
+    2427:
+    - 472902.71
+    - 4429222.42
+    - 143.84
+    4476:
+    - 472895.85
+    - 4429236.98
+    - 150.66
+  idsql:
+    4993:
+    - 13093
+    386:
+    - 13109
+    1926:
+    - 13090
+    263:
+    - 13113
+    264:
+    - 13055
+    1162:
+    - 13089
+    5389:
+    - 13108
+    4622:
+    - 13095
+    1808:
+    - 13081
+    5009:
+    - 13104
+    3859:
+    - 13087
+    3606:
+    - 13098
+    2710:
+    - 13106
+    5274:
+    - 13057
+    27:
+    - 13062
+    4764:
+    - 13074
+    2591:
+    - 13073
+    418:
+    - 13063
+    1571:
+    - 13078
+    3362:
+    - 13103
+    4005:
+    - 13064
+    5286:
+    - 13083
+    677:
+    - 13105
+    1188:
+    - 13111
+    3882:
+    - 13097
+    2602:
+    - 13115
+    1196:
+    - 13110
+    2736:
+    - 13094
+    5041:
+    - 13088
+    5428:
+    - 13082
+    1077:
+    - 13068
+    1975:
+    - 13070
+    4279:
+    - 13102
+    4927:
+    - 13084
+    1088:
+    - 13116
+    321:
+    - 13060
+    5314:
+    - 13071
+    2115:
+    - 13059
+    1985:
+    - 13075
+    3653:
+    - 13069
+    1351:
+    - 13080
+    584:
+    - 13054
+    1868:
+    - 13066
+    3535:
+    - 13112
+    978:
+    - 13100
+    5331:
+    - 13114
+    1624:
+    - 13076
+    3547:
+    - 13067
+    4444:
+    - 13096
+    3422:
+    - 13101
+    610:
+    - 13056
+    3555:
+    - 13086
+    2275:
+    - 13092
+    4325:
+    - 13053
+    2278:
+    - 13085
+    4461:
+    - 13065
+    1645:
+    - 13079
+    2160:
+    - 13061
+    4081:
+    - 13052
+    369:
+    - 13091
+    757:
+    - 13058
+    5239:
+    - 13107
+    120:
+    - 13072
+    2427:
+    - 13099
+    4476:
+    - 13077
+  fulladdress:
+    4993:
+    - UltimaPatagonia.205.PerteDesDents.1.3
+    386:
+    - UltimaPatagonia.205.PerteDesDents.2.15
+    1926:
+    - UltimaPatagonia.205.PerteDesDents.1.6
+    263:
+    - UltimaPatagonia.205.PerteDesDents.2.19
+    264:
+    - UltimaPatagonia.205.PerteDesDents.3
+    1162:
+    - UltimaPatagonia.205.PerteDesDents.1.7
+    5389:
+    - UltimaPatagonia.205.PerteDesDents.2.14
+    4622:
+    - UltimaPatagonia.205.PerteDesDents.1.1
+    1808:
+    - UltimaPatagonia.205.PerteDesDents.1.15
+    5009:
+    - UltimaPatagonia.205.PerteDesDents.2.10
+    3859:
+    - UltimaPatagonia.205.PerteDesDents.1.9
+    3606:
+    - UltimaPatagonia.205.PerteDesDents.2.3
+    2710:
+    - UltimaPatagonia.205.PerteDesDents.2.12
+    5274:
+    - UltimaPatagonia.205.PerteDesDents.5
+    27:
+    - UltimaPatagonia.205.PerteDesDents.10
+    4764:
+    - UltimaPatagonia.205.PerteDesDents.1.27
+    2591:
+    - UltimaPatagonia.205.PerteDesDents.1.26
+    418:
+    - UltimaPatagonia.205.PerteDesDents.11
+    1571:
+    - UltimaPatagonia.205.PerteDesDents.1.18
+    3362:
+    - UltimaPatagonia.205.PerteDesDents.2.9
+    4005:
+    - UltimaPatagonia.205.PerteDesDents.12
+    5286:
+    - UltimaPatagonia.205.PerteDesDents.1.13
+    677:
+    - UltimaPatagonia.205.PerteDesDents.2.11
+    1188:
+    - UltimaPatagonia.205.PerteDesDents.2.17
+    3882:
+    - UltimaPatagonia.205.PerteDesDents.2.2
+    2602:
+    - UltimaPatagonia.205.PerteDesDents.2.21
+    1196:
+    - UltimaPatagonia.205.PerteDesDents.2.16
+    2736:
+    - UltimaPatagonia.205.PerteDesDents.1.2
+    5041:
+    - UltimaPatagonia.205.PerteDesDents.1.8
+    5428:
+    - UltimaPatagonia.205.PerteDesDents.1.14
+    1077:
+    - UltimaPatagonia.205.PerteDesDents.1.21
+    1975:
+    - UltimaPatagonia.205.PerteDesDents.1.23
+    4279:
+    - UltimaPatagonia.205.PerteDesDents.2.8
+    4927:
+    - UltimaPatagonia.205.PerteDesDents.1.12
+    1088:
+    - UltimaPatagonia.205.PerteDesDents.3A
+    321:
+    - UltimaPatagonia.205.PerteDesDents.8
+    5314:
+    - UltimaPatagonia.205.PerteDesDents.1.24
+    2115:
+    - UltimaPatagonia.205.PerteDesDents.7
+    1985:
+    - UltimaPatagonia.205.PerteDesDents.1.28
+    3653:
+    - UltimaPatagonia.205.PerteDesDents.1.22
+    1351:
+    - UltimaPatagonia.205.PerteDesDents.1.16
+    584:
+    - UltimaPatagonia.205.PerteDesDents.2
+    1868:
+    - UltimaPatagonia.205.PerteDesDents.1.19
+    3535:
+    - UltimaPatagonia.205.PerteDesDents.2.18
+    978:
+    - UltimaPatagonia.205.PerteDesDents.2.5
+    5331:
+    - UltimaPatagonia.205.PerteDesDents.2.20
+    1624:
+    - UltimaPatagonia.205.PerteDesDents.1.29
+    3547:
+    - UltimaPatagonia.205.PerteDesDents.1.20
+    4444:
+    - UltimaPatagonia.205.PerteDesDents.1.0
+    3422:
+    - UltimaPatagonia.205.PerteDesDents.2.7
+    610:
+    - UltimaPatagonia.205.PerteDesDents.4
+    3555:
+    - UltimaPatagonia.205.PerteDesDents.1.10
+    2275:
+    - UltimaPatagonia.205.PerteDesDents.1.4
+    4325:
+    - UltimaPatagonia.205.PerteDesDents.1
+    2278:
+    - UltimaPatagonia.205.PerteDesDents.1.11
+    4461:
+    - UltimaPatagonia.205.PerteDesDents.2.1
+    1645:
+    - UltimaPatagonia.205.PerteDesDents.1.17
+    2160:
+    - UltimaPatagonia.205.PerteDesDents.9
+    4081:
+    - UltimaPatagonia.205.PerteDesDents.0
+    369:
+    - UltimaPatagonia.205.PerteDesDents.1.5
+    757:
+    - UltimaPatagonia.205.PerteDesDents.6
+    5239:
+    - UltimaPatagonia.205.PerteDesDents.2.13
+    120:
+    - UltimaPatagonia.205.PerteDesDents.1.25
+    2427:
+    - UltimaPatagonia.205.PerteDesDents.2.4
+    4476:
+    - UltimaPatagonia.205.PerteDesDents.1.30

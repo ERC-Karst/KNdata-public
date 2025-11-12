@@ -1,0 +1,61 @@
+id_dataset: '060'
+short_name: ClotAspres
+id_subset: '000'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: 'Urruty, B., Fourgous, B., Garnier, C., Gerbaux, M., Hereil, J.-P., & ARSIP.
+  (2025). Base de données topographiques des systèmes karstiques du du Clot d’Aspres
+  (38, France) [Creative Commons BY-NC-SA 4.0 dataset, Therion project]. https://doi.org/10.5281/zenodo.17455918
+
+  '
+thanks: .nan
+sharing_conditions: .nan
+total_length: 38258
+total_depth: 1134.58
+percentage_csdim: 5
+number_connected_components: 15
+number_nodes: 4230
+number_edges: 4254
+mean_degree: 2.07
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.526
+number_cycles: 39
+mean_length: 58.68
+cv_length: 1.63
+length_entropy: 0.33
+orientation_3d_entropy: 0.926
+aspl: 13.36
+cpd: 0.076
+correlation_vertex_degree: -0.354
+original_format: Therion
+comments_cave_info: .nan
+full_name: Système karstique du Clot d'Aspres
+geometry: .nan
+units: meter
+country: France
+state: Auvergne-Rhône-Alpes
+area: Col des Deux Soeurs
+locality: Villard-de-Lans
+grotto_id: '75346'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:32631
+latitude: 45.0265
+longitude: 5.5752
+altitude: '2017'
+cave_url: https://grottocenter.org/ui/caves/75346
+supplemental_links: https://fr.wikipedia.org/wiki/Réseau_du_Clot_d%27Aspres
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: '-'
+end_contract: '-'
+cave_survey_owner: .nan
+website: https://github.com/BenoitURRUTY/Synthese-Clot-d-Aspres
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

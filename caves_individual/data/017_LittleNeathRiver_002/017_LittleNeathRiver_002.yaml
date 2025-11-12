@@ -1,0 +1,1346 @@
+metadata:
+  id_dataset: '017'
+  short_name: LittleNeathRiver
+  id_subset: '002'
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "University of Bristol Spel\xE6ological Society. (1919). The Little Neath\
+    \ River Cave Survey [Creative Commons BY-NC-SA 4.0 dataset]. Cave Survey Archive.\
+    \ https://www.ubss.org.uk\n"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 677
+  total_depth: 28.21
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 105
+  number_edges: 107
+  mean_degree: 2.25
+  min_degree: 1.0
+  max_degree: 6.0
+  cv_degree: 0.473
+  number_cycles: 3
+  mean_length: 39.88
+  cv_length: 1.66
+  length_entropy: 0.38
+  orientation_3d_entropy: 0.584
+  aspl: 3.53
+  cpd: 0.538
+  correlation_vertex_degree: -0.249
+  original_format: Survex
+  comments_cave_info: coordinate system originall in osgb:SN. traduit en epsg:27700
+    avec therion
+  full_name: The Little Neath River Cave
+  geometry: splays
+  units: meter
+  country: UK
+  state: Wales
+  area: Aberdare
+  locality: Ystradfellte
+  grotto_id: '70363'
+  country_cave_id: .nan
+  local_id: 474 (CCC)
+  local_coordinate_system: OSGB:SN
+  latitude: 51.8111
+  longitude: -3.5811
+  altitude: '304'
+  cave_url: https://grottocenter.org/ui/entrances/70363
+  supplemental_links: https://www.ubss.org.uk/resources/proceedings/vol11/UBSS_Proc_11_2_186-200.pdf
+  data_reception_date: '2023'
+  data_received_by: Celia
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://ubss.org.uk/research/cave_surveys/neath/
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 0
+  - 527
+- - 0
+  - 631
+- - 518
+  - 637
+- - 518
+  - 877
+- - 8
+  - 654
+- - 8
+  - 897
+- - 12
+  - 153
+- - 12
+  - 30
+- - 13
+  - 782
+- - 13
+  - 527
+- - 17
+  - 50
+- - 17
+  - 574
+- - 531
+  - 336
+- - 531
+  - 710
+- - 30
+  - 588
+- - 554
+  - 754
+- - 554
+  - 404
+- - 45
+  - 914
+- - 559
+  - 157
+- - 559
+  - 865
+- - 50
+  - 454
+- - 50
+  - 793
+- - 50
+  - 326
+- - 565
+  - 404
+- - 565
+  - 137
+- - 53
+  - 222
+- - 53
+  - 113
+- - 574
+  - 324
+- - 575
+  - 312
+- - 575
+  - 153
+- - 63
+  - 399
+- - 63
+  - 272
+- - 577
+  - 485
+- - 577
+  - 175
+- - 67
+  - 82
+- - 67
+  - 178
+- - 67
+  - 808
+- - 69
+  - 833
+- - 69
+  - 909
+- - 588
+  - 745
+- - 80
+  - 175
+- - 80
+  - 835
+- - 592
+  - 698
+- - 592
+  - 344
+- - 82
+  - 454
+- - 597
+  - 750
+- - 597
+  - 441
+- - 598
+  - 649
+- - 598
+  - 698
+- - 616
+  - 710
+- - 616
+  - 687
+- - 107
+  - 324
+- - 623
+  - 468
+- - 623
+  - 157
+- - 113
+  - 766
+- - 626
+  - 851
+- - 626
+  - 731
+- - 631
+  - 649
+- - 632
+  - 877
+- - 632
+  - 141
+- - 637
+  - 344
+- - 638
+  - 897
+- - 638
+  - 892
+- - 137
+  - 768
+- - 140
+  - 878
+- - 140
+  - 399
+- - 141
+  - 914
+- - 654
+  - 731
+- - 157
+  - 178
+- - 687
+  - 330
+- - 691
+  - 766
+- - 691
+  - 720
+- - 697
+  - 793
+- - 697
+  - 939
+- - 697
+  - 473
+- - 719
+  - 430
+- - 720
+  - 817
+- - 222
+  - 775
+- - 745
+  - 851
+- - 235
+  - 356
+- - 235
+  - 833
+- - 750
+  - 835
+- - 754
+  - 441
+- - 768
+  - 397
+- - 775
+  - 392
+- - 782
+  - 892
+- - 272
+  - 430
+- - 793
+  - 330
+- - 804
+  - 909
+- - 804
+  - 312
+- - 808
+  - 326
+- - 811
+  - 320
+- - 811
+  - 850
+- - 301
+  - 306
+- - 301
+  - 392
+- - 303
+  - 356
+- - 303
+  - 878
+- - 817
+  - 356
+- - 306
+  - 850
+- - 320
+  - 910
+- - 336
+  - 377
+- - 850
+  - 392
+- - 377
+  - 462
+- - 397
+  - 918
+- - 910
+  - 918
+- - 454
+  - 468
+- - 462
+  - 485
+edge_attributes:
+  flags:
+    ? !!python/tuple
+    - 336
+    - 377
+    : - add
+      - add
+    ? !!python/tuple
+    - 850
+    - 392
+    : - add
+      - add
+node_attributes:
+  flags:
+    0:
+    - fix
+    518:
+    - fix
+    8:
+    - fix
+    12:
+    - fix
+    13:
+    - fix
+    527:
+    - fix
+    17:
+    - fix
+    531:
+    - fix
+    30:
+    - fix
+    554:
+    - fix
+    45:
+    - fix
+    559:
+    - fix
+    50:
+    - fix
+    565:
+    - fix
+    53:
+    - fix
+    574:
+    - fix
+    575:
+    - fix
+    63:
+    - fix
+    577:
+    - fix
+    67:
+    - fix
+    69:
+    - fix
+    588:
+    - fix
+    80:
+    - fix
+    592:
+    - fix
+    82:
+    - fix
+    597:
+    - fix
+    598:
+    - fix
+    616:
+    - fix
+    107:
+    - fix
+    623:
+    - fix
+    113:
+    - fix
+    626:
+    - fix
+    631:
+    - fix
+    632:
+    - fix
+    637:
+    - fix
+    638:
+    - fix
+    137:
+    - fix
+    649:
+    - fix
+    140:
+    - fix
+    141:
+    - fix
+    654:
+    - fix
+    153:
+    - fix
+    157:
+    - fix
+    687:
+    - fix
+    175:
+    - fix
+    178:
+    - fix
+    691:
+    - fix
+    697:
+    - fix
+    698:
+    - fix
+    710:
+    - fix
+    719:
+    - fix
+    720:
+    - fix
+    731:
+    - fix
+    222:
+    - fix
+    745:
+    - fix
+    235:
+    - fix
+    750:
+    - fix
+    754:
+    - fix
+    766:
+    - fix
+    768:
+    - fix
+    775:
+    - fix
+    782:
+    - fix
+    272:
+    - fix
+    793:
+    - fix
+    804:
+    - fix
+    808:
+    - fix
+    811:
+    - fix
+    301:
+    - fix
+    303:
+    - fix
+    817:
+    - fix
+    306:
+    - fix
+    312:
+    - fix
+    320:
+    - fix
+    833:
+    - fix
+    835:
+    - fix
+    324:
+    - ent
+    - fix
+    326:
+    - fix
+    330:
+    - fix
+    336:
+    - ent
+    - fix
+    850:
+    - fix
+    851:
+    - fix
+    344:
+    - fix
+    865:
+    - fix
+    356:
+    - fix
+    877:
+    - fix
+    878:
+    - fix
+    377:
+    - ent
+    - fix
+    892:
+    - fix
+    897:
+    - fix
+    392:
+    - fix
+    397:
+    - fix
+    910:
+    - fix
+    909:
+    - fix
+    399:
+    - fix
+    914:
+    - fix
+    404:
+    - fix
+    918:
+    - fix
+    939:
+    - fix
+    430:
+    - fix
+    441:
+    - fix
+    454:
+    - fix
+    462:
+    - fix
+    468:
+    - fix
+    473:
+    - fix
+    485:
+    - fix
+  pos:
+    0:
+    - 460106.9
+    - 5739946.0
+    - 276.5
+    518:
+    - 460113.64
+    - 5739928.35
+    - 274.64
+    8:
+    - 460088.63
+    - 5739974.42
+    - 280.02
+    12:
+    - 460074.52
+    - 5739994.47
+    - 282.47
+    13:
+    - 460102.1
+    - 5739962.51
+    - 278.35
+    527:
+    - 460105.61
+    - 5739956.84
+    - 277.65
+    17:
+    - 459931.43
+    - 5740208.83
+    - 297.72
+    531:
+    - 459928.93
+    - 5740202.08
+    - 299.43
+    30:
+    - 460073.39
+    - 5739991.69
+    - 281.94
+    554:
+    - 460009.18
+    - 5740131.84
+    - 292.61
+    45:
+    - 460114.44
+    - 5739897.89
+    - 273.36
+    559:
+    - 459929.92
+    - 5740233.8
+    - 299.05
+    50:
+    - 459925.77
+    - 5740229.81
+    - 298.15
+    565:
+    - 460010.34
+    - 5740137.8
+    - 291.93
+    53:
+    - 460029.96
+    - 5740072.75
+    - 289.7
+    574:
+    - 459939.34
+    - 5740201.59
+    - 298.16
+    575:
+    - 460065.64
+    - 5740001.23
+    - 282.8
+    63:
+    - 460057.03
+    - 5740068.91
+    - 288.33
+    577:
+    - 459961.66
+    - 5740160.92
+    - 295.4
+    67:
+    - 459928.47
+    - 5740231.8
+    - 301.57
+    69:
+    - 460047.92
+    - 5740031.1
+    - 284.24
+    588:
+    - 460076.4
+    - 5739986.11
+    - 281.05
+    80:
+    - 459987.41
+    - 5740147.87
+    - 294.25
+    592:
+    - 460111.27
+    - 5739936.37
+    - 275.73
+    82:
+    - 459928.02
+    - 5740233.49
+    - 301.06
+    597:
+    - 459991.31
+    - 5740141.76
+    - 293.22
+    598:
+    - 460110.0
+    - 5739940.77
+    - 276.15
+    616:
+    - 459924.07
+    - 5740204.21
+    - 299.6
+    107:
+    - 459943.6
+    - 5740191.43
+    - 298.23
+    623:
+    - 459928.52
+    - 5740232.45
+    - 298.97
+    113:
+    - 460033.16
+    - 5740061.03
+    - 288.43
+    626:
+    - 460083.99
+    - 5739978.56
+    - 281.15
+    631:
+    - 460108.87
+    - 5739945.2
+    - 276.32
+    632:
+    - 460109.48
+    - 5739915.08
+    - 273.92
+    637:
+    - 460115.07
+    - 5739928.96
+    - 274.64
+    638:
+    - 460093.17
+    - 5739971.51
+    - 279.7
+    137:
+    - 460012.7
+    - 5740137.64
+    - 291.77
+    649:
+    - 460111.87
+    - 5739941.77
+    - 275.96
+    140:
+    - 460050.59
+    - 5740055.54
+    - 286.41
+    141:
+    - 460112.53
+    - 5739907.45
+    - 273.49
+    654:
+    - 460087.77
+    - 5739978.53
+    - 280.35
+    153:
+    - 460067.37
+    - 5740000.63
+    - 282.8
+    157:
+    - 459928.64
+    - 5740232.97
+    - 299.05
+    687:
+    - 459922.68
+    - 5740221.59
+    - 299.94
+    175:
+    - 459980.24
+    - 5740163.8
+    - 294.25
+    178:
+    - 459929.05
+    - 5740232.93
+    - 301.47
+    691:
+    - 460040.08
+    - 5740051.95
+    - 287.78
+    697:
+    - 459921.33
+    - 5740248.35
+    - 299.4
+    698:
+    - 460112.46
+    - 5739937.76
+    - 275.81
+    710:
+    - 459926.45
+    - 5740201.64
+    - 298.83
+    719:
+    - 460058.17
+    - 5740082.09
+    - 289.59
+    720:
+    - 460042.22
+    - 5740054.12
+    - 287.16
+    731:
+    - 460084.63
+    - 5739976.58
+    - 280.67
+    222:
+    - 460027.4
+    - 5740080.51
+    - 287.97
+    745:
+    - 460077.81
+    - 5739980.35
+    - 281.46
+    235:
+    - 460049.0
+    - 5740035.66
+    - 284.63
+    750:
+    - 459990.1
+    - 5740144.42
+    - 293.04
+    754:
+    - 459999.57
+    - 5740131.29
+    - 292.77
+    766:
+    - 460038.78
+    - 5740055.27
+    - 287.65
+    768:
+    - 460013.68
+    - 5740133.14
+    - 292.17
+    775:
+    - 460026.03
+    - 5740092.02
+    - 288.68
+    782:
+    - 460103.9
+    - 5739965.32
+    - 278.06
+    272:
+    - 460055.21
+    - 5740074.78
+    - 289.47
+    793:
+    - 459921.26
+    - 5740231.31
+    - 298.51
+    804:
+    - 460054.64
+    - 5740008.86
+    - 283.38
+    808:
+    - 459927.13
+    - 5740227.43
+    - 301.28
+    811:
+    - 460021.11
+    - 5740105.11
+    - 290.04
+    301:
+    - 460021.19
+    - 5740098.07
+    - 289.42
+    303:
+    - 460048.79
+    - 5740043.77
+    - 285.47
+    817:
+    - 460044.14
+    - 5740050.55
+    - 284.91
+    306:
+    - 460021.19
+    - 5740098.07
+    - 289.88
+    312:
+    - 460060.14
+    - 5740005.05
+    - 283.09
+    320:
+    - 460019.95
+    - 5740106.76
+    - 289.58
+    833:
+    - 460045.92
+    - 5740034.52
+    - 284.37
+    835:
+    - 459988.92
+    - 5740143.07
+    - 293.36
+    324:
+    - 459939.34
+    - 5740191.15
+    - 298.23
+    326:
+    - 459926.35
+    - 5740228.71
+    - 298.7
+    330:
+    - 459922.54
+    - 5740228.36
+    - 299.65
+    336:
+    - 459932.41
+    - 5740186.86
+    - 299.38
+    850:
+    - 460019.69
+    - 5740105.0
+    - 290.37
+    851:
+    - 460081.29
+    - 5739978.64
+    - 280.67
+    344:
+    - 460111.59
+    - 5739933.21
+    - 274.69
+    865:
+    - 459937.53
+    - 5740233.65
+    - 299.05
+    356:
+    - 460048.27
+    - 5740041.38
+    - 285.09
+    877:
+    - 460112.92
+    - 5739915.62
+    - 273.53
+    878:
+    - 460050.2
+    - 5740050.89
+    - 286.36
+    377:
+    - 459937.3
+    - 5740160.76
+    - 298.39
+    892:
+    - 460100.73
+    - 5739970.76
+    - 279.17
+    897:
+    - 460092.55
+    - 5739975.43
+    - 279.91
+    392:
+    - 460023.36
+    - 5740093.27
+    - 289.14
+    397:
+    - 460018.4
+    - 5740114.66
+    - 290.5
+    910:
+    - 460021.84
+    - 5740107.21
+    - 288.87
+    909:
+    - 460048.36
+    - 5740017.1
+    - 283.75
+    399:
+    - 460056.47
+    - 5740054.11
+    - 286.78
+    914:
+    - 460113.96
+    - 5739900.28
+    - 273.36
+    404:
+    - 460009.68
+    - 5740134.15
+    - 291.35
+    918:
+    - 460020.47
+    - 5740111.62
+    - 289.52
+    939:
+    - 459919.72
+    - 5740257.66
+    - 299.4
+    430:
+    - 460056.07
+    - 5740081.12
+    - 289.47
+    441:
+    - 459996.2
+    - 5740140.92
+    - 293.13
+    454:
+    - 459927.5
+    - 5740230.15
+    - 298.79
+    462:
+    - 459946.05
+    - 5740161.72
+    - 297.31
+    468:
+    - 459928.96
+    - 5740231.52
+    - 298.87
+    473:
+    - 459914.33
+    - 5740254.7
+    - 299.4
+    485:
+    - 459946.98
+    - 5740159.05
+    - 297.21
+  idsql:
+    0:
+    - 544
+    518:
+    - 552
+    8:
+    - 537
+    12:
+    - 529
+    13:
+    - 542
+    527:
+    - 543
+    17:
+    - 188
+    531:
+    - 158
+    30:
+    - 530
+    554:
+    - 498
+    45:
+    - 557
+    559:
+    - 571
+    50:
+    - 1
+    565:
+    - 500
+    53:
+    - 514
+    574:
+    - 189
+    575:
+    - 527
+    63:
+    - 562
+    577:
+    - 490
+    67:
+    - 180
+    69:
+    - 523
+    588:
+    - 531
+    80:
+    - 492
+    592:
+    - 549
+    82:
+    - 185
+    597:
+    - 495
+    598:
+    - 547
+    616:
+    - 160
+    107:
+    - 567
+    623:
+    - 183
+    113:
+    - 515
+    626:
+    - 534
+    631:
+    - 545
+    632:
+    - 554
+    637:
+    - 551
+    638:
+    - 539
+    137:
+    - 501
+    649:
+    - 546
+    140:
+    - 560
+    141:
+    - 555
+    654:
+    - 536
+    153:
+    - 528
+    157:
+    - 182
+    687:
+    - 161
+    175:
+    - 491
+    178:
+    - 181
+    691:
+    - 517
+    697:
+    - 568
+    698:
+    - 548
+    710:
+    - 159
+    719:
+    - 565
+    720:
+    - 518
+    731:
+    - 535
+    222:
+    - 513
+    745:
+    - 532
+    235:
+    - 521
+    750:
+    - 494
+    754:
+    - 497
+    766:
+    - 516
+    768:
+    - 502
+    775:
+    - 512
+    782:
+    - 541
+    272:
+    - 563
+    793:
+    - 163
+    804:
+    - 525
+    808:
+    - 187
+    811:
+    - 507
+    301:
+    - 510
+    303:
+    - 558
+    817:
+    - 519
+    306:
+    - 509
+    312:
+    - 526
+    320:
+    - 506
+    833:
+    - 522
+    835:
+    - 493
+    324:
+    - 190
+    326:
+    - 186
+    330:
+    - 162
+    336:
+    - 157
+    850:
+    - 508
+    851:
+    - 533
+    344:
+    - 550
+    865:
+    - 572
+    356:
+    - 520
+    877:
+    - 553
+    878:
+    - 559
+    377:
+    - 487
+    892:
+    - 540
+    897:
+    - 538
+    392:
+    - 511
+    397:
+    - 503
+    910:
+    - 505
+    909:
+    - 524
+    399:
+    - 561
+    914:
+    - 556
+    404:
+    - 499
+    918:
+    - 504
+    939:
+    - 569
+    430:
+    - 564
+    441:
+    - 496
+    454:
+    - 2
+    462:
+    - 488
+    468:
+    - 184
+    473:
+    - 570
+    485:
+    - 489
+  fulladdress:
+    0:
+    - LittleNeatRiver.lnrc.town_drain.13
+    518:
+    - LittleNeatRiver.lnrc.town_drain.5
+    8:
+    - LittleNeatRiver.lnrc.town_drain.20
+    12:
+    - LittleNeatRiver.lnrc.town_drain.28
+    13:
+    - LittleNeatRiver.lnrc.town_drain.15
+    527:
+    - LittleNeatRiver.lnrc.town_drain.14
+    17:
+    - LittleNeatRiver.lnrc.white_lady.6
+    531:
+    - LittleNeatRiver.lnrc.white_lady.13
+    30:
+    - LittleNeatRiver.lnrc.town_drain.27
+    554:
+    - LittleNeatRiver.lnrc.town_drain.59
+    45:
+    - LittleNeatRiver.lnrc.town_drain.0
+    559:
+    - LittleNeatRiver.lnrc.white_lady.22
+    50:
+    - LittleNeatRiver.lnrc.white_lady.7
+    565:
+    - LittleNeatRiver.lnrc.town_drain.57
+    53:
+    - LittleNeatRiver.lnrc.town_drain.43
+    574:
+    - LittleNeatRiver.lnrc.white_lady.5
+    575:
+    - LittleNeatRiver.lnrc.town_drain.30
+    63:
+    - LittleNeatRiver.lnrc.town_drain.e
+    577:
+    - LittleNeatRiver.lnrc.town_drain.67
+    67:
+    - LittleNeatRiver.lnrc.white_lady.26
+    69:
+    - LittleNeatRiver.lnrc.town_drain.34
+    588:
+    - LittleNeatRiver.lnrc.town_drain.26
+    80:
+    - LittleNeatRiver.lnrc.town_drain.65
+    592:
+    - LittleNeatRiver.lnrc.town_drain.8
+    82:
+    - LittleNeatRiver.lnrc.white_lady.25
+    597:
+    - LittleNeatRiver.lnrc.town_drain.62
+    598:
+    - LittleNeatRiver.lnrc.town_drain.10
+    616:
+    - LittleNeatRiver.lnrc.white_lady.15
+    107:
+    - LittleNeatRiver.lnrc.white_lady.4
+    623:
+    - LittleNeatRiver.lnrc.white_lady.20
+    113:
+    - LittleNeatRiver.lnrc.town_drain.42
+    626:
+    - LittleNeatRiver.lnrc.town_drain.23
+    631:
+    - LittleNeatRiver.lnrc.town_drain.12
+    632:
+    - LittleNeatRiver.lnrc.town_drain.3
+    637:
+    - LittleNeatRiver.lnrc.town_drain.6
+    638:
+    - LittleNeatRiver.lnrc.town_drain.18
+    137:
+    - LittleNeatRiver.lnrc.town_drain.56
+    649:
+    - LittleNeatRiver.lnrc.town_drain.11
+    140:
+    - LittleNeatRiver.lnrc.town_drain.c
+    141:
+    - LittleNeatRiver.lnrc.town_drain.2
+    654:
+    - LittleNeatRiver.lnrc.town_drain.21
+    153:
+    - LittleNeatRiver.lnrc.town_drain.29
+    157:
+    - LittleNeatRiver.lnrc.white_lady.21
+    687:
+    - LittleNeatRiver.lnrc.white_lady.16
+    175:
+    - LittleNeatRiver.lnrc.town_drain.66
+    178:
+    - LittleNeatRiver.lnrc.white_lady.24
+    691:
+    - LittleNeatRiver.lnrc.town_drain.40
+    697:
+    - LittleNeatRiver.lnrc.white_lady.9
+    698:
+    - LittleNeatRiver.lnrc.town_drain.9
+    710:
+    - LittleNeatRiver.lnrc.white_lady.14
+    719:
+    - LittleNeatRiver.lnrc.town_drain.h
+    720:
+    - LittleNeatRiver.lnrc.town_drain.39
+    731:
+    - LittleNeatRiver.lnrc.town_drain.22
+    222:
+    - LittleNeatRiver.lnrc.town_drain.44
+    745:
+    - LittleNeatRiver.lnrc.town_drain.25
+    235:
+    - LittleNeatRiver.lnrc.town_drain.36
+    750:
+    - LittleNeatRiver.lnrc.town_drain.63
+    754:
+    - LittleNeatRiver.lnrc.town_drain.60
+    766:
+    - LittleNeatRiver.lnrc.town_drain.41
+    768:
+    - LittleNeatRiver.lnrc.town_drain.55
+    775:
+    - LittleNeatRiver.lnrc.town_drain.45
+    782:
+    - LittleNeatRiver.lnrc.town_drain.16
+    272:
+    - LittleNeatRiver.lnrc.town_drain.f
+    793:
+    - LittleNeatRiver.lnrc.white_lady.8
+    804:
+    - LittleNeatRiver.lnrc.town_drain.32
+    808:
+    - LittleNeatRiver.lnrc.white_lady.27
+    811:
+    - LittleNeatRiver.lnrc.town_drain.50
+    301:
+    - LittleNeatRiver.lnrc.town_drain.47
+    303:
+    - LittleNeatRiver.lnrc.town_drain.a
+    817:
+    - LittleNeatRiver.lnrc.town_drain.38
+    306:
+    - LittleNeatRiver.lnrc.town_drain.48
+    312:
+    - LittleNeatRiver.lnrc.town_drain.31
+    320:
+    - LittleNeatRiver.lnrc.town_drain.51
+    833:
+    - LittleNeatRiver.lnrc.town_drain.35
+    835:
+    - LittleNeatRiver.lnrc.town_drain.64
+    324:
+    - LittleNeatRiver.lnrc.white_lady.3
+    326:
+    - LittleNeatRiver.lnrc.white_lady.28
+    330:
+    - LittleNeatRiver.lnrc.white_lady.17
+    336:
+    - LittleNeatRiver.lnrc.white_lady.12
+    850:
+    - LittleNeatRiver.lnrc.town_drain.49
+    851:
+    - LittleNeatRiver.lnrc.town_drain.24
+    344:
+    - LittleNeatRiver.lnrc.town_drain.7
+    865:
+    - LittleNeatRiver.lnrc.white_lady.23
+    356:
+    - LittleNeatRiver.lnrc.town_drain.37
+    877:
+    - LittleNeatRiver.lnrc.town_drain.4
+    878:
+    - LittleNeatRiver.lnrc.town_drain.b
+    377:
+    - LittleNeatRiver.lnrc.town_drain.70
+    892:
+    - LittleNeatRiver.lnrc.town_drain.17
+    897:
+    - LittleNeatRiver.lnrc.town_drain.19
+    392:
+    - LittleNeatRiver.lnrc.town_drain.46
+    397:
+    - LittleNeatRiver.lnrc.town_drain.54
+    910:
+    - LittleNeatRiver.lnrc.town_drain.52
+    909:
+    - LittleNeatRiver.lnrc.town_drain.33
+    399:
+    - LittleNeatRiver.lnrc.town_drain.d
+    914:
+    - LittleNeatRiver.lnrc.town_drain.1
+    404:
+    - LittleNeatRiver.lnrc.town_drain.58
+    918:
+    - LittleNeatRiver.lnrc.town_drain.53
+    939:
+    - LittleNeatRiver.lnrc.white_lady.10
+    430:
+    - LittleNeatRiver.lnrc.town_drain.g
+    441:
+    - LittleNeatRiver.lnrc.town_drain.61
+    454:
+    - LittleNeatRiver.lnrc.white_lady.18
+    462:
+    - LittleNeatRiver.lnrc.town_drain.69
+    468:
+    - LittleNeatRiver.lnrc.white_lady.19
+    473:
+    - LittleNeatRiver.lnrc.white_lady.11
+    485:
+    - LittleNeatRiver.lnrc.town_drain.68

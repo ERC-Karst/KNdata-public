@@ -1,0 +1,1300 @@
+metadata:
+  id_dataset: 009
+  short_name: Folly
+  id_subset: '011'
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Robert, X. (2021). Base de donn\xE9es Topographiques des syst\xE8mes\
+    \ karstiques du massif du Folly (Samo\xEBns, 74, France) (Version v1.0.0) [Dataset].\
+    \ Zenodo. https://doi.org/DOI: 10.5281/ZENODO.4745567"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 821
+  total_depth: 82.04
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 102
+  number_edges: 102
+  mean_degree: 2.0
+  min_degree: 1.0
+  max_degree: 9.0
+  cv_degree: 0.545
+  number_cycles: 1
+  mean_length: 25.67
+  cv_length: 0.87
+  length_entropy: 0.73
+  orientation_3d_entropy: 0.695
+  aspl: 5.3
+  cpd: 0.549
+  correlation_vertex_degree: -0.331
+  original_format: Therion
+  comments_cave_info: Synclinal Jean Bernard + Systeme Combe des Puaires +Systeme
+    Mirolda
+  full_name: Massif du Folly
+  geometry: lrud/splays
+  units: meter
+  country: France
+  state: "Auvergne-Rh\xF4ne-Alpes"
+  area: Haute-Savoie
+  locality: "Samo\xEBns"
+  grotto_id: 75262 (Jean-Bernard)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: Local
+  latitude: 46.1022
+  longitude: 6.7796
+  altitude: '1836'
+  cave_url: https://grottocenter.org/ui/caves/75262
+  supplemental_links: https://groupe-speleo-vulcain.com/explorations/explorations-a-samoens/topographies-du-synclinal-du-jean-bernard-samoens-france/
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/robertxa/Topographies-Samoens_Folly
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 7174
+  - 7850
+- - 7174
+  - 2068
+- - 5128
+  - 1748
+- - 5128
+  - 757
+- - 2065
+  - 768
+- - 7699
+  - 8357
+- - 7699
+  - 768
+- - 2068
+  - 589
+- - 14357
+  - 5032
+- - 14357
+  - 1748
+- - 9244
+  - 7478
+- - 9244
+  - 11040
+- - 5159
+  - 6073
+- - 5159
+  - 5399
+- - 13887
+  - 4695
+- - 13887
+  - 12040
+- - 3655
+  - 13014
+- - 3655
+  - 5032
+- - 3148
+  - 6821
+- - 589
+  - 8453
+- - 3152
+  - 9660
+- - 3152
+  - 9970
+- - 4695
+  - 10207
+- - 4695
+  - 9914
+- - 11364
+  - 10657
+- - 11364
+  - 2430
+- - 11382
+  - 8446
+- - 11382
+  - 11457
+- - 10363
+  - 757
+- - 1149
+  - 9015
+- - 1149
+  - 4299
+- - 2686
+  - 6073
+- - 2686
+  - 9532
+- - 8319
+  - 13728
+- - 8319
+  - 5949
+- - 8319
+  - 12117
+- - 8334
+  - 3065
+- - 8334
+  - 5924
+- - 12943
+  - 932
+- - 3744
+  - 2430
+- - 3744
+  - 4386
+- - 6821
+  - 4790
+- - 6821
+  - 4990
+- - 8357
+  - 11445
+- - 10405
+  - 9970
+- - 10405
+  - 1439
+- - 7850
+  - 4844
+- - 7850
+  - 9660
+- - 10419
+  - 12542
+- - 10419
+  - 5070
+- - 11445
+  - 4839
+- - 4790
+  - 2430
+- - 4790
+  - 12741
+- - 14012
+  - 7655
+- - 14012
+  - 13728
+- - 10429
+  - 12117
+- - 14017
+  - 4386
+- - 14017
+  - 7037
+- - 4299
+  - 8446
+- - 13014
+  - 7037
+- - 8919
+  - 3583
+- - 8919
+  - 11076
+- - 1245
+  - 1001
+- - 1245
+  - 13723
+- - 1245
+  - 12542
+- - 5862
+  - 13243
+- - 6374
+  - 3024
+- - 6374
+  - 14185
+- - 4839
+  - 11004
+- - 4839
+  - 10207
+- - 13036
+  - 7655
+- - 13036
+  - 3065
+- - 4844
+  - 3463
+- - 2287
+  - 13723
+- - 10485
+  - 12741
+- - 11004
+  - 11076
+- - 8453
+  - 1304
+- - 12040
+  - 3450
+- - 5399
+  - 6045
+- - 5399
+  - 1928
+- - 1304
+  - 5401
+- - 7962
+  - 2920
+- - 7962
+  - 6051
+- - 7478
+  - 10702
+- - 9015
+  - 4010
+- - 9532
+  - 10702
+- - 5949
+  - 13728
+- - 9554
+  - 5535
+- - 9554
+  - 932
+- - 2920
+  - 4990
+- - 14185
+  - 5535
+- - 3450
+  - 3463
+- - 5535
+  - 1001
+- - 10657
+  - 13243
+- - 1439
+  - 10695
+- - 6051
+  - 3024
+- - 5032
+  - 3583
+- - 4010
+  - 5070
+- - 6073
+  - 3065
+- - 6073
+  - 13243
+- - 10695
+  - 6094
+- - 10195
+  - 3065
+edge_attributes:
+  flags:
+    ? !!python/tuple
+    - 14012
+    - 13728
+    : - add
+      - add
+node_attributes:
+  flags:
+    7174:
+    - fix
+    5128:
+    - fix
+    2065:
+    - fix
+    7699:
+    - fix
+    2068:
+    - fix
+    14357:
+    - fix
+    9244:
+    - fix
+    5159:
+    - fix
+    13887:
+    - fix
+    3655:
+    - fix
+    3148:
+    - fix
+    589:
+    - fix
+    3152:
+    - fix
+    4695:
+    - fix
+    11364:
+    - fix
+    11382:
+    - fix
+    10363:
+    - fix
+    1149:
+    - fix
+    2686:
+    - fix
+    8319:
+    - fix
+    8334:
+    - fix
+    12943:
+    - fix
+    3744:
+    - fix
+    6821:
+    - fix
+    8357:
+    - fix
+    10405:
+    - fix
+    7850:
+    - fix
+    10419:
+    - fix
+    11445:
+    - fix
+    4790:
+    - fix
+    9914:
+    - fix
+    14012:
+    - ent
+    - fix
+    10429:
+    - fix
+    14017:
+    - fix
+    11457:
+    - fix
+    4299:
+    - fix
+    1748:
+    - fix
+    13014:
+    - fix
+    8919:
+    - fix
+    1245:
+    - fix
+    5862:
+    - fix
+    6374:
+    - fix
+    4839:
+    - fix
+    13036:
+    - fix
+    4844:
+    - fix
+    2287:
+    - fix
+    9970:
+    - fix
+    10485:
+    - fix
+    757:
+    - fix
+    11004:
+    - fix
+    12542:
+    - fix
+    8446:
+    - fix
+    768:
+    - fix
+    8453:
+    - fix
+    12040:
+    - fix
+    5399:
+    - fix
+    1304:
+    - fix
+    5401:
+    - fix
+    7962:
+    - fix
+    11040:
+    - fix
+    4386:
+    - fix
+    5924:
+    - fix
+    7478:
+    - fix
+    9015:
+    - fix
+    9532:
+    - fix
+    5949:
+    - fix
+    11076:
+    - fix
+    9554:
+    - fix
+    12117:
+    - fix
+    2920:
+    - fix
+    14185:
+    - fix
+    3450:
+    - fix
+    7037:
+    - fix
+    4990:
+    - fix
+    2430:
+    - fix
+    3463:
+    - fix
+    1928:
+    - fix
+    13723:
+    - fix
+    6045:
+    - fix
+    5535:
+    - fix
+    13728:
+    - ent
+    - fix
+    10657:
+    - fix
+    1439:
+    - fix
+    6051:
+    - fix
+    932:
+    - fix
+    5032:
+    - fix
+    4010:
+    - fix
+    6073:
+    - fix
+    13243:
+    - fix
+    9660:
+    - fix
+    12741:
+    - fix
+    10695:
+    - fix
+    10702:
+    - fix
+    5070:
+    - fix
+    3024:
+    - fix
+    6094:
+    - fix
+    10195:
+    - fix
+    10207:
+    - fix
+    7655:
+    - fix
+    1001:
+    - fix
+    3065:
+    - fix
+    3583:
+    - fix
+  pos:
+    7174:
+    - 327215.26
+    - 5109042.98
+    - 1589.52
+    5128:
+    - 327302.46
+    - 5109069.24
+    - 1607.4
+    2065:
+    - 327263.69
+    - 5109069.34
+    - 1613.75
+    7699:
+    - 327263.0
+    - 5109063.13
+    - 1602.29
+    2068:
+    - 327218.64
+    - 5109041.6
+    - 1591.15
+    14357:
+    - 327301.78
+    - 5109065.72
+    - 1603.69
+    9244:
+    - 327419.1
+    - 5109111.38
+    - 1594.97
+    5159:
+    - 327416.01
+    - 5109122.64
+    - 1611.51
+    13887:
+    - 327238.29
+    - 5109056.51
+    - 1597.73
+    3655:
+    - 327307.94
+    - 5109070.21
+    - 1602.48
+    3148:
+    - 327375.76
+    - 5109085.81
+    - 1602.96
+    589:
+    - 327221.55
+    - 5109043.85
+    - 1593.27
+    3152:
+    - 327170.83
+    - 5109021.66
+    - 1571.63
+    4695:
+    - 327238.38
+    - 5109056.49
+    - 1597.76
+    11364:
+    - 327374.19
+    - 5109090.21
+    - 1589.57
+    11382:
+    - 327300.81
+    - 5109035.44
+    - 1570.51
+    10363:
+    - 327303.55
+    - 5109080.51
+    - 1619.41
+    1149:
+    - 327310.07
+    - 5109040.99
+    - 1574.88
+    2686:
+    - 327411.21
+    - 5109114.73
+    - 1602.72
+    8319:
+    - 327443.28
+    - 5109156.37
+    - 1624.37
+    8334:
+    - 327417.4
+    - 5109136.55
+    - 1615.43
+    12943:
+    - 327352.78
+    - 5109051.93
+    - 1588.22
+    3744:
+    - 327356.19
+    - 5109092.1
+    - 1604.08
+    6821:
+    - 327371.36
+    - 5109082.86
+    - 1600.14
+    8357:
+    - 327259.91
+    - 5109061.29
+    - 1599.11
+    10405:
+    - 327151.41
+    - 5108996.28
+    - 1556.45
+    7850:
+    - 327208.95
+    - 5109039.65
+    - 1586.35
+    10419:
+    - 327324.31
+    - 5109047.78
+    - 1579.46
+    11445:
+    - 327259.78
+    - 5109058.84
+    - 1596.34
+    4790:
+    - 327368.39
+    - 5109081.91
+    - 1599.42
+    9914:
+    - 327238.63
+    - 5109065.04
+    - 1602.12
+    14012:
+    - 327416.0
+    - 5109147.0
+    - 1623.0
+    10429:
+    - 327462.4
+    - 5109162.16
+    - 1628.98
+    14017:
+    - 327340.11
+    - 5109082.58
+    - 1603.94
+    11457:
+    - 327300.16
+    - 5109036.26
+    - 1569.17
+    4299:
+    - 327304.41
+    - 5109036.6
+    - 1573.49
+    1748:
+    - 327301.37
+    - 5109068.4
+    - 1607.15
+    13014:
+    - 327333.98
+    - 5109080.12
+    - 1603.94
+    8919:
+    - 327291.46
+    - 5109059.56
+    - 1603.46
+    1245:
+    - 327327.57
+    - 5109051.53
+    - 1580.4
+    5862:
+    - 327378.25
+    - 5109111.98
+    - 1605.8
+    6374:
+    - 327343.39
+    - 5109053.07
+    - 1586.34
+    4839:
+    - 327259.26
+    - 5109054.7
+    - 1594.65
+    13036:
+    - 327410.39
+    - 5109139.31
+    - 1617.24
+    4844:
+    - 327209.63
+    - 5109047.94
+    - 1587.52
+    2287:
+    - 327337.25
+    - 5109054.41
+    - 1587.01
+    9970:
+    - 327170.93
+    - 5109014.38
+    - 1568.31
+    10485:
+    - 327358.96
+    - 5109088.42
+    - 1606.19
+    757:
+    - 327301.43
+    - 5109075.87
+    - 1617.35
+    11004:
+    - 327276.63
+    - 5109057.71
+    - 1602.5
+    12542:
+    - 327325.83
+    - 5109050.2
+    - 1581.11
+    8446:
+    - 327303.59
+    - 5109034.68
+    - 1572.11
+    768:
+    - 327262.75
+    - 5109068.07
+    - 1610.52
+    8453:
+    - 327224.32
+    - 5109049.76
+    - 1595.52
+    12040:
+    - 327235.55
+    - 5109057.36
+    - 1596.86
+    5399:
+    - 327415.2
+    - 5109124.39
+    - 1612.33
+    1304:
+    - 327225.8
+    - 5109046.56
+    - 1596.27
+    5401:
+    - 327231.32
+    - 5109046.64
+    - 1598.61
+    7962:
+    - 327352.39
+    - 5109059.05
+    - 1590.26
+    11040:
+    - 327422.07
+    - 5109109.51
+    - 1590.48
+    4386:
+    - 327346.19
+    - 5109085.14
+    - 1603.65
+    5924:
+    - 327425.93
+    - 5109142.27
+    - 1617.62
+    7478:
+    - 327417.06
+    - 5109110.95
+    - 1594.72
+    9015:
+    - 327318.52
+    - 5109044.38
+    - 1576.81
+    9532:
+    - 327416.31
+    - 5109113.81
+    - 1598.96
+    5949:
+    - 327436.92
+    - 5109151.75
+    - 1621.45
+    11076:
+    - 327282.93
+    - 5109059.73
+    - 1605.59
+    9554:
+    - 327347.8
+    - 5109051.09
+    - 1586.21
+    12117:
+    - 327454.94
+    - 5109159.9
+    - 1627.18
+    2920:
+    - 327359.84
+    - 5109066.21
+    - 1593.41
+    14185:
+    - 327340.9
+    - 5109052.17
+    - 1585.43
+    3450:
+    - 327235.47
+    - 5109057.41
+    - 1596.82
+    7037:
+    - 327340.02
+    - 5109082.54
+    - 1603.94
+    4990:
+    - 327367.83
+    - 5109075.34
+    - 1596.44
+    2430:
+    - 327366.54
+    - 5109091.17
+    - 1594.4
+    3463:
+    - 327231.53
+    - 5109060.25
+    - 1594.96
+    1928:
+    - 327422.81
+    - 5109129.31
+    - 1615.81
+    13723:
+    - 327331.98
+    - 5109054.06
+    - 1583.58
+    6045:
+    - 327410.89
+    - 5109127.21
+    - 1618.46
+    5535:
+    - 327341.65
+    - 5109048.87
+    - 1583.7
+    13728:
+    - 327440.31
+    - 5109157.41
+    - 1625.29
+    10657:
+    - 327379.1
+    - 5109094.6
+    - 1589.92
+    1439:
+    - 327148.86
+    - 5108984.47
+    - 1553.22
+    6051:
+    - 327348.35
+    - 5109059.85
+    - 1589.42
+    932:
+    - 327349.99
+    - 5109050.2
+    - 1587.03
+    5032:
+    - 327302.4
+    - 5109064.69
+    - 1603.58
+    4010:
+    - 327321.44
+    - 5109044.81
+    - 1577.33
+    6073:
+    - 327410.3
+    - 5109120.0
+    - 1605.22
+    13243:
+    - 327391.44
+    - 5109106.87
+    - 1597.3
+    9660:
+    - 327200.76
+    - 5109033.05
+    - 1583.92
+    12741:
+    - 327359.7
+    - 5109085.81
+    - 1604.92
+    10695:
+    - 327142.6
+    - 5108982.82
+    - 1550.06
+    10702:
+    - 327415.89
+    - 5109112.46
+    - 1597.77
+    5070:
+    - 327323.5
+    - 5109045.47
+    - 1578.1
+    3024:
+    - 327345.47
+    - 5109056.72
+    - 1587.95
+    6094:
+    - 327134.49
+    - 5108983.13
+    - 1546.94
+    10195:
+    - 327406.03
+    - 5109140.98
+    - 1620.24
+    10207:
+    - 327246.88
+    - 5109050.72
+    - 1594.43
+    7655:
+    - 327412.31
+    - 5109143.58
+    - 1619.73
+    1001:
+    - 327337.04
+    - 5109048.24
+    - 1581.63
+    3065:
+    - 327406.5
+    - 5109135.43
+    - 1612.29
+    3583:
+    - 327295.09
+    - 5109060.59
+    - 1603.0
+  idsql:
+    7174:
+    - 27663
+    5128:
+    - 27641
+    2065:
+    - 27653
+    7699:
+    - 27651
+    2068:
+    - 27664
+    14357:
+    - 27639
+    9244:
+    - 27591
+    5159:
+    - 27593
+    13887:
+    - 27657
+    3655:
+    - 27637
+    3148:
+    - 27606
+    589:
+    - 27665
+    3152:
+    - 27670
+    4695:
+    - 27655
+    11364:
+    - 27600
+    11382:
+    - 27630
+    10363:
+    - 27643
+    1149:
+    - 27627
+    2686:
+    - 27587
+    8319:
+    - 27576
+    8334:
+    - 27584
+    12943:
+    - 27617
+    3744:
+    - 27632
+    6821:
+    - 27605
+    8357:
+    - 27650
+    10405:
+    - 27672
+    7850:
+    - 27662
+    10419:
+    - 27623
+    11445:
+    - 27649
+    4790:
+    - 27602
+    9914:
+    - 27656
+    14012:
+    - 27569
+    10429:
+    - 27579
+    14017:
+    - 27634
+    11457:
+    - 27631
+    4299:
+    - 27628
+    1748:
+    - 27640
+    13014:
+    - 27636
+    8919:
+    - 27645
+    1245:
+    - 27619
+    5862:
+    - 27598
+    6374:
+    - 27612
+    4839:
+    - 27648
+    13036:
+    - 27581
+    4844:
+    - 27661
+    2287:
+    - 27621
+    9970:
+    - 27671
+    10485:
+    - 27604
+    757:
+    - 27642
+    11004:
+    - 27647
+    12542:
+    - 27622
+    8446:
+    - 27629
+    768:
+    - 27652
+    8453:
+    - 27666
+    12040:
+    - 27658
+    5399:
+    - 27594
+    1304:
+    - 27667
+    5401:
+    - 27668
+    7962:
+    - 27609
+    11040:
+    - 27592
+    4386:
+    - 27633
+    5924:
+    - 27585
+    7478:
+    - 27590
+    9015:
+    - 27626
+    9532:
+    - 27588
+    5949:
+    - 27577
+    11076:
+    - 27646
+    9554:
+    - 27615
+    12117:
+    - 27578
+    2920:
+    - 27608
+    14185:
+    - 27613
+    3450:
+    - 27659
+    7037:
+    - 27635
+    4990:
+    - 27607
+    2430:
+    - 27601
+    3463:
+    - 27660
+    1928:
+    - 27596
+    13723:
+    - 27620
+    6045:
+    - 27595
+    5535:
+    - 27614
+    13728:
+    - 27575
+    10657:
+    - 27599
+    1439:
+    - 27673
+    6051:
+    - 27610
+    932:
+    - 27616
+    5032:
+    - 27638
+    4010:
+    - 27625
+    6073:
+    - 27586
+    13243:
+    - 27597
+    9660:
+    - 27669
+    12741:
+    - 27603
+    10695:
+    - 27674
+    10702:
+    - 27589
+    5070:
+    - 27624
+    3024:
+    - 27611
+    6094:
+    - 27675
+    10195:
+    - 27583
+    10207:
+    - 27654
+    7655:
+    - 27580
+    1001:
+    - 27618
+    3065:
+    - 27582
+    3583:
+    - 27644
+  fulladdress:
+    7174:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.4.1
+    5128:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.6.3
+    2065:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.5.5
+    7699:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.5.3
+    2068:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.4.2
+    14357:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.6.1
+    9244:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.2.5
+    5159:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.1.1
+    13887:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.12
+    3655:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.14
+    3148:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.2a
+    589:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.4.3
+    3152:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.5
+    4695:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.13
+    11364:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.7
+    11382:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.9.9
+    10363:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.6.5
+    1149:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.9.6
+    2686:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.2.1
+    8319:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.7.8
+    8334:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.03a
+    12943:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.10c
+    3744:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.9
+    6821:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.2
+    8357:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.5.2
+    10405:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.3
+    7850:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.7
+    10419:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.9.2
+    11445:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.5.1
+    4790:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.1
+    9914:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.13a
+    14012:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.Antre
+    10429:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.7.10
+    14017:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.11
+    11457:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.9.10
+    4299:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.9.7
+    1748:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.6.2
+    13014:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.13
+    8919:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.18
+    1245:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.12
+    5862:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.05a
+    6374:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.8
+    4839:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.15
+    13036:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.2
+    4844:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.8
+    2287:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.51
+    9970:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.4
+    10485:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.b
+    757:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.6.4
+    11004:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.16
+    12542:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.9.1
+    8446:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.9.8
+    768:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.5.4
+    8453:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.4.5
+    12040:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.11
+    5399:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.1.2
+    1304:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.4.6
+    5401:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.4.7
+    7962:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.5
+    11040:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.2.6
+    4386:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.10
+    5924:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.03b
+    7478:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.2.4
+    9015:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.9.5
+    9532:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.2.2
+    5949:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.7.7
+    11076:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.17
+    9554:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.10a
+    12117:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.7.9
+    2920:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.4
+    14185:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.9
+    3450:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.10
+    7037:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.12
+    4990:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.3
+    2430:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.8
+    3463:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.9
+    1928:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.1.3
+    13723:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.50
+    6045:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.1.3a
+    5535:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.10
+    13728:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.Yeux
+    10657:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.6
+    1439:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.2
+    6051:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.6
+    932:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.10b
+    5032:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.15
+    4010:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.9.4
+    6073:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.4
+    13243:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.5
+    9660:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.6
+    12741:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.a
+    10695:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.1
+    10702:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.2.3
+    5070:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.9.3
+    3024:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.7
+    6094:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.0
+    10195:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.3k
+    10207:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.14
+    7655:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.1
+    1001:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.8.11
+    3065:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.0.3
+    3583:
+    - MassifFolly.SystemeBossetan.AntreOddaz.AntreOddaz.3.19

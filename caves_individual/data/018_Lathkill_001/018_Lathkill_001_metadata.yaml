@@ -1,0 +1,59 @@
+id_dataset: 018
+short_name: Lathkill
+id_subset: '001'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: University of Bristol Spelæological Society. (1919). The River Lathkill
+  Catchment Area Cave Survey [Creative Commons BY-NC-SA 4.0 dataset]. Cave Survey
+  Archive. https://www.ubss.org.uk
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2218
+total_depth: 61.67
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 388
+number_edges: 389
+mean_degree: 2.03
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.604
+number_cycles: 2
+mean_length: 37.61
+cv_length: 1.44
+length_entropy: 0.46
+orientation_3d_entropy: 0.76
+aspl: 7.63
+cpd: 0.552
+correlation_vertex_degree: -0.455
+original_format: Survex
+comments_cave_info: initially OSGB:SK
+full_name: The River Lathkill Catchment Area
+geometry: .nan
+units: meter
+country: UK
+state: East Midlands
+area: Derbyshire Dales
+locality: Monyash
+grotto_id: '32146'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:27700
+latitude: 53.1904
+longitude: -1.7512
+altitude: '216.55'
+cave_url: https://peakdistrictcaving.info/home/the-caves/lathkill-dale
+supplemental_links: https://peakdistrictcaving.info/home/the-caves/surveys
+data_reception_date: '2023'
+data_received_by: Celia
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://cave-registry.org.uk
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

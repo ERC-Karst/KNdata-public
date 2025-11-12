@@ -1,0 +1,451 @@
+metadata:
+  id_dataset: '050'
+  short_name: Andara
+  id_subset: '033'
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: .nan
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 880
+  total_depth: 78.68
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 32
+  number_edges: 31
+  mean_degree: 1.75
+  min_degree: 1.0
+  max_degree: 17.0
+  cv_degree: 0.591
+  number_cycles: 0
+  mean_length: 125.74
+  cv_length: 0.98
+  length_entropy: 0.64
+  orientation_3d_entropy: 0.572
+  aspl: 2.32
+  cpd: 0.565
+  correlation_vertex_degree: -0.556
+  original_format: Survex
+  comments_cave_info: used .3d instead of translating project. too many issues with
+    translation
+  full_name: Andara
+  geometry: .nan
+  units: meter
+  country: Spain
+  state: Cantabrie
+  area: Parc national des Picos de Europa
+  locality: Palacio
+  grotto_id: /
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:32630
+  latitude: 43.2161538
+  longitude: -4.7242563
+  altitude: '1785'
+  cave_url: https://hinko.org/hinko/Dowloads/BCRA/BCRA%2011-4-1984.pdf
+  supplemental_links: https://tresvisocaves.info/tresviso.php?cave=65
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 8448
+  - 1163
+- - 8448
+  - 1960
+- - 8833
+  - 9148
+- - 8833
+  - 2420
+- - 2818
+  - 1960
+- - 5764
+  - 6641
+- - 5764
+  - 10151
+- - 6404
+  - 9429
+- - 6404
+  - 8027
+- - 4
+  - 1960
+- - 4
+  - 8514
+- - 4
+  - 7096
+- - 1163
+  - 9559
+- - 2066
+  - 6842
+- - 2066
+  - 9752
+- - 2836
+  - 7096
+- - 9752
+  - 9148
+- - 10151
+  - 4195
+- - 9643
+  - 3794
+- - 9908
+  - 4813
+- - 9908
+  - 6842
+- - 8514
+  - 1890
+- - 8138
+  - 6641
+- - 6092
+  - 4195
+- - 6092
+  - 9559
+- - 4813
+  - 4054
+- - 3794
+  - 1890
+- - 9429
+  - 2420
+- - 4054
+  - 9945
+- - 8027
+  - 4209
+- - 4209
+  - 6641
+node_attributes:
+  pos:
+    8448:
+    - 364360.68
+    - 4790280.5
+    - 680.28
+    8833:
+    - 364505.91
+    - 4790117.64
+    - 679.14
+    2818:
+    - 364315.49
+    - 4790254.41
+    - 644.77
+    5764:
+    - 364433.63
+    - 4790288.45
+    - 671.99
+    6404:
+    - 364493.68
+    - 4790196.69
+    - 671.99
+    4:
+    - 364353.6
+    - 4790238.24
+    - 666.37
+    1163:
+    - 364364.61
+    - 4790279.15
+    - 668.39
+    2066:
+    - 364511.91
+    - 4790082.98
+    - 703.32
+    2836:
+    - 364356.68
+    - 4790208.9
+    - 631.32
+    9752:
+    - 364522.38
+    - 4790108.89
+    - 696.33
+    10151:
+    - 364403.54
+    - 4790252.6
+    - 671.99
+    1960:
+    - 364315.49
+    - 4790254.41
+    - 666.37
+    9643:
+    - 364381.5
+    - 4790151.23
+    - 694.09
+    9908:
+    - 364531.34
+    - 4790084.4
+    - 710.0
+    7096:
+    - 364356.68
+    - 4790208.9
+    - 645.72
+    6842:
+    - 364519.32
+    - 4790072.79
+    - 703.32
+    9148:
+    - 364505.91
+    - 4790117.64
+    - 685.44
+    8514:
+    - 364338.09
+    - 4790190.49
+    - 694.61
+    8138:
+    - 364490.02
+    - 4790335.3
+    - 671.99
+    6092:
+    - 364367.06
+    - 4790255.87
+    - 671.99
+    4813:
+    - 364543.79
+    - 4790056.44
+    - 710.0
+    3794:
+    - 364346.09
+    - 4790168.5
+    - 690.11
+    9429:
+    - 364514.11
+    - 4790156.59
+    - 671.99
+    4054:
+    - 364560.01
+    - 4790045.09
+    - 710.0
+    9559:
+    - 364364.61
+    - 4790279.15
+    - 671.99
+    9945:
+    - 364563.0
+    - 4790031.0
+    - 710.0
+    8027:
+    - 364458.16
+    - 4790209.61
+    - 671.99
+    1890:
+    - 364338.09
+    - 4790190.49
+    - 690.11
+    4195:
+    - 364384.79
+    - 4790233.18
+    - 671.99
+    4209:
+    - 364467.45
+    - 4790268.28
+    - 671.99
+    6641:
+    - 364452.99
+    - 4790284.33
+    - 671.99
+    2420:
+    - 364505.2
+    - 4790118.01
+    - 671.99
+  comments:
+    9945:
+    - Cueva de Conjtina
+  fulladdress:
+    8448:
+    - andara.tresviso.t8_conjuntina.21
+    8833:
+    - andara.tresviso.t8_conjuntina.8
+    2818:
+    - andara.tresviso.t8_conjuntina.31
+    5764:
+    - andara.tresviso.t8_conjuntina.15
+    6404:
+    - andara.tresviso.t8_conjuntina.11
+    4:
+    - andara.tresviso.t8_conjuntina.23
+    1163:
+    - andara.tresviso.t8_conjuntina.20
+    2066:
+    - andara.tresviso.t8_conjuntina.5
+    2836:
+    - andara.tresviso.t8_conjuntina.29
+    9752:
+    - andara.tresviso.t8_conjuntina.6
+    10151:
+    - andara.tresviso.t8_conjuntina.16
+    1960:
+    - andara.tresviso.t8_conjuntina.22
+    9643:
+    - andara.tresviso.t8_conjuntina.27
+    9908:
+    - andara.tresviso.t8_conjuntina.3
+    7096:
+    - andara.tresviso.t8_conjuntina.28
+    6842:
+    - andara.tresviso.t8_conjuntina.4
+    9148:
+    - andara.tresviso.t8_conjuntina.7
+    8514:
+    - andara.tresviso.t8_conjuntina.24
+    8138:
+    - andara.tresviso.t8_conjuntina.30
+    6092:
+    - andara.tresviso.t8_conjuntina.18
+    4813:
+    - andara.tresviso.t8_conjuntina.2
+    3794:
+    - andara.tresviso.t8_conjuntina.26
+    9429:
+    - andara.tresviso.t8_conjuntina.10
+    4054:
+    - andara.tresviso.t8_conjuntina.1
+    9559:
+    - andara.tresviso.t8_conjuntina.19
+    9945:
+    - andara.tresviso.t8
+    8027:
+    - andara.tresviso.t8_conjuntina.12
+    1890:
+    - andara.tresviso.t8_conjuntina.25
+    4195:
+    - andara.tresviso.t8_conjuntina.17
+    4209:
+    - andara.tresviso.t8_conjuntina.13
+    6641:
+    - andara.tresviso.t8_conjuntina.14
+    2420:
+    - andara.tresviso.t8_conjuntina.9
+  idsql:
+    8448:
+    - 23476
+    8833:
+    - 23463
+    2818:
+    - 23486
+    5764:
+    - 23470
+    6404:
+    - 23466
+    4:
+    - 23478
+    1163:
+    - 23475
+    2066:
+    - 23460
+    2836:
+    - 23484
+    9752:
+    - 23461
+    10151:
+    - 23471
+    1960:
+    - 23477
+    9643:
+    - 23482
+    9908:
+    - 23458
+    7096:
+    - 23483
+    6842:
+    - 23459
+    9148:
+    - 23462
+    8514:
+    - 23479
+    8138:
+    - 23485
+    6092:
+    - 23473
+    4813:
+    - 23457
+    3794:
+    - 23481
+    9429:
+    - 23465
+    4054:
+    - 23456
+    9559:
+    - 23474
+    9945:
+    - 23455
+    8027:
+    - 23467
+    1890:
+    - 23480
+    4195:
+    - 23472
+    4209:
+    - 23468
+    6641:
+    - 23469
+    2420:
+    - 23464
+  flags:
+    8448:
+    - fix
+    8833:
+    - fix
+    2818:
+    - fix
+    5764:
+    - fix
+    6404:
+    - fix
+    4:
+    - fix
+    1163:
+    - fix
+    2066:
+    - fix
+    2836:
+    - fix
+    9752:
+    - fix
+    10151:
+    - fix
+    1960:
+    - fix
+    9643:
+    - fix
+    9908:
+    - fix
+    7096:
+    - fix
+    6842:
+    - fix
+    9148:
+    - fix
+    8514:
+    - fix
+    8138:
+    - fix
+    6092:
+    - fix
+    4813:
+    - fix
+    3794:
+    - fix
+    9429:
+    - fix
+    4054:
+    - fix
+    9559:
+    - fix
+    9945:
+    - fix
+    - ent
+    8027:
+    - fix
+    1890:
+    - fix
+    4195:
+    - fix
+    4209:
+    - fix
+    6641:
+    - fix
+    2420:
+    - fix

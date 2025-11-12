@@ -1,0 +1,57 @@
+id_dataset: 089
+short_name: Queou
+id_subset: '000'
+status: ready for cleaning
+type_of_correction: .nan
+last_processing_date: 11 Nov 2025
+license: .nan
+citation: ask Patrick Degouve for citation
+thanks: .nan
+sharing_conditions: .nan
+total_length: 4769
+total_depth: 457.65
+percentage_csdim: 41
+number_connected_components: 1
+number_nodes: 548
+number_edges: 550
+mean_degree: 2.04
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.543
+number_cycles: 3
+mean_length: 44.16
+cv_length: 1.12
+length_entropy: 0.59
+orientation_3d_entropy: 0.847
+aspl: 13.17
+cpd: 0.473
+correlation_vertex_degree: -0.327
+original_format: Visual Topo
+comments_cave_info: .nan
+full_name: Gouffre du Quéou
+geometry: .nan
+units: meter
+country: France
+state: .nan
+area: Pyrénées
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+cave_url: .nan
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

@@ -1,0 +1,1639 @@
+metadata:
+  id_dataset: 008
+  short_name: UltimaPatagonia
+  id_subset: '012'
+  status: clean
+  type_of_correction: no correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: Centre Terre. (2024). Survey Data for the Ultima Patagonia Cave Exploration
+    project [Dataset]. https://github.com/tr1813/ultima-patag
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 710
+  total_depth: 34.46
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 131
+  number_edges: 131
+  mean_degree: 2.0
+  min_degree: 1.0
+  max_degree: 7.0
+  cv_degree: 0.518
+  number_cycles: 1
+  mean_length: 17.33
+  cv_length: 0.93
+  length_entropy: 0.63
+  orientation_3d_entropy: 0.814
+  aspl: 7.59
+  cpd: 0.42
+  correlation_vertex_degree: -0.268
+  original_format: Therion
+  comments_cave_info: .nan
+  full_name: Ultima Patagonia
+  geometry: .nan
+  units: meter
+  country: Chile
+  state: "Regi\xF3n de Magallanes y de la Ant\xE1rtica Chilena"
+  area: Natales
+  locality: Archipielago Madre de Dios
+  grotto_id: "64835 (Condors) / 65033 (D\xE9tente) / 65042 (Lobos) / 65017 (Passoire)\
+    \ / 65016 (Ptit Creux) / 65011 (Com\xE8te)"
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: Local ?
+  latitude: -50.2946
+  longitude: -75.2895
+  altitude: '141'
+  cave_url: https://grottocenter.org/ui/entrances/64835
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/tr1813/ultima-patagonia-topo
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 3590
+  - 1499
+- - 9
+  - 4063
+- - 9
+  - 2874
+- - 9
+  - 4747
+- - 4618
+  - 1675
+- - 4618
+  - 1936
+- - 3598
+  - 2084
+- - 4113
+  - 4852
+- - 4113
+  - 3530
+- - 4113
+  - 4768
+- - 530
+  - 5335
+- - 530
+  - 3425
+- - 4120
+  - 4415
+- - 4120
+  - 5471
+- - 26
+  - 934
+- - 26
+  - 448
+- - 3102
+  - 1676
+- - 35
+  - 2198
+- - 35
+  - 1675
+- - 2084
+  - 3350
+- - 1060
+  - 1936
+- - 1060
+  - 3459
+- - 42
+  - 4223
+- - 42
+  - 4415
+- - 4141
+  - 2694
+- - 4141
+  - 1306
+- - 1081
+  - 448
+- - 1081
+  - 4480
+- - 58
+  - 2694
+- - 58
+  - 2008
+- - 58
+  - 1727
+- - 5188
+  - 5360
+- - 5188
+  - 463
+- - 5199
+  - 3425
+- - 5199
+  - 1341
+- - 2646
+  - 4852
+- - 2646
+  - 4768
+- - 599
+  - 2839
+- - 86
+  - 3366
+- - 86
+  - 4025
+- - 89
+  - 4399
+- - 89
+  - 3681
+- - 89
+  - 4055
+- - 3681
+  - 1153
+- - 3683
+  - 1376
+- - 3683
+  - 2370
+- - 4708
+  - 3459
+- - 4708
+  - 2969
+- - 1125
+  - 4063
+- - 1125
+  - 3843
+- - 4201
+  - 1751
+- - 4201
+  - 3921
+- - 2157
+  - 5037
+- - 2157
+  - 143
+- - 4223
+  - 1341
+- - 1153
+  - 4022
+- - 5250
+  - 794
+- - 5250
+  - 447
+- - 5250
+  - 311
+- - 2694
+  - 1405
+- - 1676
+  - 5517
+- - 1676
+  - 410
+- - 143
+  - 1405
+- - 2198
+  - 2874
+- - 663
+  - 4584
+- - 663
+  - 4771
+- - 3736
+  - 4771
+- - 3736
+  - 2718
+- - 2718
+  - 4891
+- - 4771
+  - 1452
+- - 4771
+  - 1960
+- - 686
+  - 2224
+- - 686
+  - 934
+- - 686
+  - 1427
+- - 2224
+  - 447
+- - 3761
+  - 3285
+- - 3761
+  - 3831
+- - 1712
+  - 4404
+- - 1730
+  - 1452
+- - 1730
+  - 5335
+- - 3285
+  - 2886
+- - 1751
+  - 377
+- - 219
+  - 4025
+- - 219
+  - 1340
+- - 228
+  - 2010
+- - 4844
+  - 1340
+- - 4844
+  - 3320
+- - 4335
+  - 5470
+- - 4335
+  - 4563
+- - 4335
+  - 4913
+- - 5360
+  - 890
+- - 5360
+  - 2026
+- - 4852
+  - 5062
+- - 3319
+  - 1823
+- - 3831
+  - 4389
+- - 3831
+  - 4399
+- - 3320
+  - 4015
+- - 2809
+  - 781
+- - 2809
+  - 4584
+- - 5372
+  - 5471
+- - 5372
+  - 2010
+- - 3843
+  - 5102
+- - 1800
+  - 4891
+- - 1800
+  - 5388
+- - 1800
+  - 3064
+- - 5388
+  - 894
+- - 781
+  - 1416
+- - 781
+  - 4404
+- - 3348
+  - 4563
+- - 3348
+  - 2839
+- - 3350
+  - 5102
+- - 1823
+  - 3048
+- - 1823
+  - 5517
+- - 4389
+  - 5470
+- - 3366
+  - 2008
+- - 1832
+  - 5471
+- - 2863
+  - 894
+- - 2863
+  - 396
+- - 3386
+  - 5512
+- - 3386
+  - 4063
+- - 2886
+  - 410
+- - 3921
+  - 1416
+- - 1376
+  - 3064
+- - 377
+  - 4015
+- - 890
+  - 1960
+- - 5512
+  - 448
+- - 396
+  - 499
+- - 2969
+  - 3048
+- - 934
+  - 1499
+- - 5037
+  - 3530
+- - 5062
+  - 4055
+node_attributes:
+  flags:
+    3590:
+    - fix
+    9:
+    - fix
+    4618:
+    - fix
+    3598:
+    - fix
+    4113:
+    - fix
+    530:
+    - fix
+    4120:
+    - fix
+    26:
+    - fix
+    3102:
+    - fix
+    35:
+    - fix
+    2084:
+    - fix
+    1060:
+    - fix
+    42:
+    - fix
+    4141:
+    - fix
+    1081:
+    - fix
+    58:
+    - fix
+    5188:
+    - fix
+    5199:
+    - fix
+    2646:
+    - fix
+    599:
+    - fix
+    86:
+    - fix
+    89:
+    - fix
+    3681:
+    - fix
+    3683:
+    - fix
+    4708:
+    - fix
+    1125:
+    - fix
+    4201:
+    - fix
+    2157:
+    - fix
+    4223:
+    - fix
+    1153:
+    - fix
+    5250:
+    - fix
+    2694:
+    - fix
+    4747:
+    - fix
+    1675:
+    - fix
+    1676:
+    - fix
+    143:
+    - fix
+    2198:
+    - fix
+    663:
+    - fix
+    3736:
+    - fix
+    2718:
+    - fix
+    4768:
+    - fix
+    4771:
+    - fix
+    686:
+    - fix
+    2224:
+    - fix
+    3761:
+    - fix
+    1712:
+    - fix
+    1727:
+    - fix
+    1730:
+    - fix
+    3285:
+    - fix
+    1751:
+    - fix
+    5335:
+    - fix
+    219:
+    - fix
+    228:
+    - fix
+    4844:
+    - fix
+    4335:
+    - fix
+    5360:
+    - fix
+    4852:
+    - fix
+    3319:
+    - fix
+    3831:
+    - fix
+    3320:
+    - fix
+    2809:
+    - fix
+    5372:
+    - fix
+    3843:
+    - fix
+    1800:
+    - fix
+    5388:
+    - fix
+    781:
+    - fix
+    3348:
+    - fix
+    3350:
+    - fix
+    2839:
+    - fix
+    794:
+    - ent
+    - fix
+    1306:
+    - fix
+    4891:
+    - fix
+    1823:
+    - fix
+    4389:
+    - fix
+    3366:
+    - fix
+    1832:
+    - fix
+    4399:
+    - fix
+    2863:
+    - fix
+    4913:
+    - fix
+    4404:
+    - fix
+    311:
+    - fix
+    3386:
+    - fix
+    2874:
+    - fix
+    1340:
+    - fix
+    1341:
+    - fix
+    4415:
+    - fix
+    2370:
+    - fix
+    2886:
+    - fix
+    3921:
+    - fix
+    5470:
+    - fix
+    5471:
+    - fix
+    1376:
+    - fix
+    3425:
+    - fix
+    377:
+    - fix
+    890:
+    - fix
+    1405:
+    - fix
+    894:
+    - fix
+    4480:
+    - fix
+    3459:
+    - fix
+    5512:
+    - fix
+    1416:
+    - fix
+    396:
+    - fix
+    5517:
+    - fix
+    1936:
+    - fix
+    1427:
+    - fix
+    2969:
+    - fix
+    410:
+    - fix
+    934:
+    - fix
+    1960:
+    - fix
+    1452:
+    - fix
+    5037:
+    - fix
+    4015:
+    - fix
+    4022:
+    - fix
+    4025:
+    - fix
+    447:
+    - fix
+    448:
+    - fix
+    5062:
+    - fix
+    3530:
+    - fix
+    463:
+    - fix
+    4563:
+    - fix
+    4055:
+    - fix
+    2008:
+    - fix
+    2010:
+    - fix
+    1499:
+    - fix
+    4063:
+    - fix
+    3048:
+    - fix
+    4584:
+    - fix
+    2026:
+    - fix
+    5102:
+    - fix
+    499:
+    - fix
+    3064:
+    - fix
+  pos:
+    3590:
+    - 482181.71
+    - 4447866.84
+    - 331.68
+    9:
+    - 482193.77
+    - 4447886.7
+    - 336.57
+    4618:
+    - 482187.7
+    - 4447906.23
+    - 339.09
+    3598:
+    - 482201.35
+    - 4447867.94
+    - 328.11
+    4113:
+    - 482174.39
+    - 4447968.84
+    - 343.22
+    530:
+    - 482166.19
+    - 4448004.08
+    - 345.13
+    4120:
+    - 482140.8
+    - 4448003.75
+    - 352.0
+    26:
+    - 482178.63
+    - 4447870.86
+    - 331.73
+    3102:
+    - 482123.99
+    - 4447948.7
+    - 326.06
+    35:
+    - 482195.18
+    - 4447896.03
+    - 340.99
+    2084:
+    - 482200.41
+    - 4447871.27
+    - 326.44
+    1060:
+    - 482162.49
+    - 4447919.65
+    - 333.09
+    42:
+    - 482149.71
+    - 4448000.55
+    - 350.45
+    4141:
+    - 482186.45
+    - 4447986.72
+    - 342.54
+    1081:
+    - 482182.13
+    - 4447868.91
+    - 334.17
+    58:
+    - 482188.63
+    - 4447993.24
+    - 340.26
+    5188:
+    - 482163.56
+    - 4448019.81
+    - 344.94
+    5199:
+    - 482164.36
+    - 4448001.66
+    - 345.68
+    2646:
+    - 482172.26
+    - 4447965.24
+    - 344.14
+    599:
+    - 482156.11
+    - 4447942.48
+    - 350.34
+    86:
+    - 482194.55
+    - 4447997.34
+    - 341.42
+    89:
+    - 482141.76
+    - 4447971.79
+    - 338.03
+    3681:
+    - 482134.64
+    - 4447974.55
+    - 337.21
+    3683:
+    - 482188.98
+    - 4447998.52
+    - 347.57
+    4708:
+    - 482154.86
+    - 4447933.38
+    - 335.11
+    1125:
+    - 482192.43
+    - 4447876.61
+    - 331.08
+    4201:
+    - 482186.5
+    - 4448005.84
+    - 338.61
+    2157:
+    - 482175.94
+    - 4447979.11
+    - 340.25
+    4223:
+    - 482158.53
+    - 4447999.88
+    - 348.56
+    1153:
+    - 482119.63
+    - 4447979.55
+    - 334.11
+    5250:
+    - 482170.14
+    - 4447847.56
+    - 331.26
+    2694:
+    - 482185.0
+    - 4447987.9
+    - 339.5
+    4747:
+    - 482200.98
+    - 4447887.19
+    - 334.93
+    1675:
+    - 482193.81
+    - 4447904.09
+    - 341.25
+    1676:
+    - 482130.14
+    - 4447947.71
+    - 329.89
+    143:
+    - 482183.64
+    - 4447980.98
+    - 338.95
+    2198:
+    - 482194.21
+    - 4447894.39
+    - 338.94
+    663:
+    - 482171.91
+    - 4448004.79
+    - 339.91
+    3736:
+    - 482178.24
+    - 4448010.36
+    - 342.99
+    2718:
+    - 482185.34
+    - 4448011.73
+    - 342.99
+    4768:
+    - 482181.1
+    - 4447964.2
+    - 345.69
+    4771:
+    - 482173.98
+    - 4448007.65
+    - 342.13
+    686:
+    - 482175.86
+    - 4447860.55
+    - 329.99
+    2224:
+    - 482175.69
+    - 4447857.61
+    - 330.09
+    3761:
+    - 482133.64
+    - 4447959.8
+    - 341.63
+    1712:
+    - 482173.8
+    - 4448005.69
+    - 327.81
+    1727:
+    - 482185.51
+    - 4447996.32
+    - 339.91
+    1730:
+    - 482168.74
+    - 4448006.62
+    - 342.85
+    3285:
+    - 482130.88
+    - 4447956.31
+    - 339.7
+    1751:
+    - 482188.85
+    - 4448008.07
+    - 338.29
+    5335:
+    - 482168.32
+    - 4448005.34
+    - 344.61
+    219:
+    - 482198.54
+    - 4448000.68
+    - 340.99
+    228:
+    - 482111.75
+    - 4448003.27
+    - 355.6
+    4844:
+    - 482195.5
+    - 4448006.23
+    - 342.61
+    4335:
+    - 482144.42
+    - 4447951.97
+    - 345.25
+    5360:
+    - 482169.0
+    - 4448018.4
+    - 340.64
+    4852:
+    - 482168.0
+    - 4447970.11
+    - 342.43
+    3319:
+    - 482142.47
+    - 4447948.8
+    - 341.6
+    3831:
+    - 482139.15
+    - 4447959.8
+    - 342.92
+    3320:
+    - 482192.69
+    - 4448006.69
+    - 342.44
+    2809:
+    - 482178.49
+    - 4448003.04
+    - 336.46
+    5372:
+    - 482130.18
+    - 4448004.97
+    - 353.68
+    3843:
+    - 482192.63
+    - 4447876.56
+    - 329.53
+    1800:
+    - 482186.23
+    - 4448009.15
+    - 344.11
+    5388:
+    - 482188.87
+    - 4448003.61
+    - 343.38
+    781:
+    - 482180.0
+    - 4448004.93
+    - 337.2
+    3348:
+    - 482146.62
+    - 4447945.56
+    - 346.82
+    3350:
+    - 482201.16
+    - 4447874.37
+    - 326.34
+    2839:
+    - 482149.86
+    - 4447942.62
+    - 348.71
+    794:
+    - 482166.0
+    - 4447844.0
+    - 330.0
+    1306:
+    - 482183.78
+    - 4447985.47
+    - 351.41
+    4891:
+    - 482186.21
+    - 4448011.7
+    - 344.83
+    1823:
+    - 482143.44
+    - 4447943.89
+    - 336.49
+    4389:
+    - 482141.83
+    - 4447956.79
+    - 344.86
+    3366:
+    - 482191.63
+    - 4447997.97
+    - 340.68
+    1832:
+    - 482139.23
+    - 4448003.19
+    - 360.52
+    4399:
+    - 482138.75
+    - 4447968.01
+    - 341.12
+    2863:
+    - 482190.67
+    - 4448002.67
+    - 342.86
+    4913:
+    - 482136.31
+    - 4447944.54
+    - 330.39
+    4404:
+    - 482176.67
+    - 4448004.95
+    - 333.26
+    311:
+    - 482163.95
+    - 4447852.11
+    - 327.18
+    3386:
+    - 482186.55
+    - 4447877.03
+    - 331.69
+    2874:
+    - 482190.59
+    - 4447891.16
+    - 336.33
+    1340:
+    - 482197.58
+    - 4448004.98
+    - 343.24
+    1341:
+    - 482162.39
+    - 4448001.15
+    - 347.57
+    4415:
+    - 482145.65
+    - 4448002.29
+    - 350.8
+    2370:
+    - 482189.72
+    - 4447999.51
+    - 344.8
+    2886:
+    - 482128.18
+    - 4447957.01
+    - 338.41
+    3921:
+    - 482183.17
+    - 4448006.87
+    - 337.95
+    5470:
+    - 482145.87
+    - 4447954.9
+    - 344.49
+    5471:
+    - 482135.43
+    - 4448005.23
+    - 353.54
+    1376:
+    - 482184.43
+    - 4447999.64
+    - 346.94
+    3425:
+    - 482167.28
+    - 4448002.65
+    - 344.39
+    377:
+    - 482190.33
+    - 4448006.04
+    - 339.91
+    890:
+    - 482168.75
+    - 4448015.61
+    - 339.84
+    1405:
+    - 482184.42
+    - 4447982.92
+    - 339.13
+    894:
+    - 482188.87
+    - 4448003.61
+    - 342.38
+    4480:
+    - 482180.49
+    - 4447864.75
+    - 332.18
+    3459:
+    - 482158.56
+    - 4447925.66
+    - 332.51
+    5512:
+    - 482183.19
+    - 4447875.58
+    - 330.74
+    1416:
+    - 482181.89
+    - 4448007.93
+    - 337.44
+    396:
+    - 482193.89
+    - 4448000.27
+    - 341.28
+    5517:
+    - 482134.77
+    - 4447947.12
+    - 334.54
+    1936:
+    - 482167.75
+    - 4447910.25
+    - 334.51
+    1427:
+    - 482171.76
+    - 4447860.65
+    - 328.42
+    2969:
+    - 482153.94
+    - 4447936.03
+    - 336.6
+    410:
+    - 482123.22
+    - 4447953.16
+    - 330.08
+    934:
+    - 482176.15
+    - 4447865.61
+    - 329.76
+    1960:
+    - 482170.98
+    - 4448010.07
+    - 342.35
+    1452:
+    - 482172.98
+    - 4448009.3
+    - 342.66
+    5037:
+    - 482172.94
+    - 4447976.0
+    - 339.4
+    4015:
+    - 482193.09
+    - 4448007.84
+    - 341.82
+    4022:
+    - 482114.04
+    - 4447981.57
+    - 330.46
+    4025:
+    - 482198.26
+    - 4447999.42
+    - 341.53
+    447:
+    - 482172.81
+    - 4447851.57
+    - 330.41
+    448:
+    - 482182.22
+    - 4447872.52
+    - 330.86
+    5062:
+    - 482162.92
+    - 4447970.86
+    - 340.44
+    3530:
+    - 482175.49
+    - 4447974.11
+    - 340.4
+    463:
+    - 482161.37
+    - 4448020.99
+    - 345.14
+    4563:
+    - 482144.38
+    - 4447948.05
+    - 345.55
+    4055:
+    - 482154.42
+    - 4447969.1
+    - 339.21
+    2008:
+    - 482189.03
+    - 4447995.89
+    - 340.85
+    2010:
+    - 482122.36
+    - 4448005.67
+    - 354.59
+    1499:
+    - 482179.45
+    - 4447867.13
+    - 331.55
+    4063:
+    - 482190.78
+    - 4447879.65
+    - 333.44
+    3048:
+    - 482146.69
+    - 4447940.49
+    - 335.63
+    4584:
+    - 482175.29
+    - 4448007.37
+    - 338.07
+    2026:
+    - 482170.98
+    - 4448016.72
+    - 338.63
+    5102:
+    - 482198.4
+    - 4447877.25
+    - 328.62
+    499:
+    - 482196.74
+    - 4447998.49
+    - 340.83
+    3064:
+    - 482184.43
+    - 4448003.28
+    - 347.05
+  idsql:
+    3590:
+    - 12123
+    9:
+    - 12006
+    4618:
+    - 12011
+    3598:
+    - 12119
+    4113:
+    - 12042
+    530:
+    - 12072
+    4120:
+    - 12079
+    26:
+    - 12001
+    3102:
+    - 12111
+    35:
+    - 12009
+    2084:
+    - 12118
+    1060:
+    - 12013
+    42:
+    - 12077
+    4141:
+    - 12107
+    1081:
+    - 12120
+    58:
+    - 12049
+    5188:
+    - 12089
+    5199:
+    - 12074
+    2646:
+    - 12110
+    599:
+    - 12032
+    86:
+    - 12052
+    89:
+    - 12035
+    3681:
+    - 12036
+    3683:
+    - 12102
+    4708:
+    - 12015
+    1125:
+    - 12114
+    4201:
+    - 12061
+    2157:
+    - 12045
+    4223:
+    - 12076
+    1153:
+    - 12037
+    5250:
+    - 11996
+    2694:
+    - 12048
+    4747:
+    - 12113
+    1675:
+    - 12010
+    1676:
+    - 12020
+    143:
+    - 12046
+    2198:
+    - 12008
+    663:
+    - 12067
+    3736:
+    - 12091
+    2718:
+    - 12092
+    4768:
+    - 12109
+    4771:
+    - 12068
+    686:
+    - 11999
+    2224:
+    - 11998
+    3761:
+    - 12024
+    1712:
+    - 12105
+    1727:
+    - 12106
+    1730:
+    - 12070
+    3285:
+    - 12023
+    1751:
+    - 12060
+    5335:
+    - 12071
+    219:
+    - 12054
+    228:
+    - 12083
+    4844:
+    - 12056
+    4335:
+    - 12028
+    5360:
+    - 12087
+    4852:
+    - 12041
+    3319:
+    - 12112
+    3831:
+    - 12025
+    3320:
+    - 12057
+    2809:
+    - 12065
+    5372:
+    - 12081
+    3843:
+    - 12115
+    1800:
+    - 12094
+    5388:
+    - 12095
+    781:
+    - 12064
+    3348:
+    - 12030
+    3350:
+    - 12117
+    2839:
+    - 12031
+    794:
+    - 11995
+    1306:
+    - 12108
+    4891:
+    - 12093
+    1823:
+    - 12018
+    4389:
+    - 12026
+    3366:
+    - 12051
+    1832:
+    - 12084
+    4399:
+    - 12034
+    2863:
+    - 12097
+    4913:
+    - 12033
+    4404:
+    - 12104
+    311:
+    - 12125
+    3386:
+    - 12004
+    2874:
+    - 12007
+    1340:
+    - 12055
+    1341:
+    - 12075
+    4415:
+    - 12078
+    2370:
+    - 12103
+    2886:
+    - 12022
+    3921:
+    - 12062
+    5470:
+    - 12027
+    5471:
+    - 12080
+    1376:
+    - 12101
+    3425:
+    - 12073
+    377:
+    - 12059
+    890:
+    - 12086
+    1405:
+    - 12047
+    894:
+    - 12096
+    4480:
+    - 12121
+    3459:
+    - 12014
+    5512:
+    - 12003
+    1416:
+    - 12063
+    396:
+    - 12098
+    5517:
+    - 12019
+    1936:
+    - 12012
+    1427:
+    - 12124
+    2969:
+    - 12016
+    410:
+    - 12021
+    934:
+    - 12000
+    1960:
+    - 12085
+    1452:
+    - 12069
+    5037:
+    - 12044
+    4015:
+    - 12058
+    4022:
+    - 12038
+    4025:
+    - 12053
+    447:
+    - 11997
+    448:
+    - 12002
+    5062:
+    - 12040
+    3530:
+    - 12043
+    463:
+    - 12090
+    4563:
+    - 12029
+    4055:
+    - 12039
+    2008:
+    - 12050
+    2010:
+    - 12082
+    1499:
+    - 12122
+    4063:
+    - 12005
+    3048:
+    - 12017
+    4584:
+    - 12066
+    2026:
+    - 12088
+    5102:
+    - 12116
+    499:
+    - 12099
+    3064:
+    - 12100
+  fulladdress:
+    3590:
+    - UltimaPatagonia.107.GrotteDeLAncien.9
+    9:
+    - UltimaPatagonia.107.GrotteDeLAncien.23
+    4618:
+    - UltimaPatagonia.107.GrotteDeLAncien.29
+    3598:
+    - UltimaPatagonia.107.GrotteDeLAncien.22
+    4113:
+    - UltimaPatagonia.107.GrotteDeLAncien.53
+    530:
+    - UltimaPatagonia.107.GrotteDeLAncien.108
+    4120:
+    - UltimaPatagonia.107.GrotteDeLAncien.115
+    26:
+    - UltimaPatagonia.107.GrotteDeLAncien.10
+    3102:
+    - UltimaPatagonia.107.GrotteDeLAncien.40
+    35:
+    - UltimaPatagonia.107.GrotteDeLAncien.27
+    2084:
+    - UltimaPatagonia.107.GrotteDeLAncien.21
+    1060:
+    - UltimaPatagonia.107.GrotteDeLAncien.31
+    42:
+    - UltimaPatagonia.107.GrotteDeLAncien.113
+    4141:
+    - UltimaPatagonia.107.GrotteDeLAncien.60
+    1081:
+    - UltimaPatagonia.107.GrotteDeLAncien.12
+    58:
+    - UltimaPatagonia.107.GrotteDeLAncien.62
+    5188:
+    - UltimaPatagonia.107.GrotteDeLAncien.102
+    5199:
+    - UltimaPatagonia.107.GrotteDeLAncien.110
+    2646:
+    - UltimaPatagonia.107.GrotteDeLAncien.51
+    599:
+    - UltimaPatagonia.107.GrotteDeLAncien.131
+    86:
+    - UltimaPatagonia.107.GrotteDeLAncien.66
+    89:
+    - UltimaPatagonia.107.GrotteDeLAncien.47
+    3681:
+    - UltimaPatagonia.107.GrotteDeLAncien.121
+    3683:
+    - UltimaPatagonia.107.GrotteDeLAncien.92
+    4708:
+    - UltimaPatagonia.107.GrotteDeLAncien.33
+    1125:
+    - UltimaPatagonia.107.GrotteDeLAncien.17
+    4201:
+    - UltimaPatagonia.107.GrotteDeLAncien.75
+    2157:
+    - UltimaPatagonia.107.GrotteDeLAncien.56
+    4223:
+    - UltimaPatagonia.107.GrotteDeLAncien.112
+    1153:
+    - UltimaPatagonia.107.GrotteDeLAncien.122
+    5250:
+    - UltimaPatagonia.107.GrotteDeLAncien.1
+    2694:
+    - UltimaPatagonia.107.GrotteDeLAncien.59
+    4747:
+    - UltimaPatagonia.107.GrotteDeLAncien.24
+    1675:
+    - UltimaPatagonia.107.GrotteDeLAncien.28
+    1676:
+    - UltimaPatagonia.107.GrotteDeLAncien.39
+    143:
+    - UltimaPatagonia.107.GrotteDeLAncien.57
+    2198:
+    - UltimaPatagonia.107.GrotteDeLAncien.26
+    663:
+    - UltimaPatagonia.107.GrotteDeLAncien.83
+    3736:
+    - UltimaPatagonia.107.GrotteDeLAncien.85
+    2718:
+    - UltimaPatagonia.107.GrotteDeLAncien.86
+    4768:
+    - UltimaPatagonia.107.GrotteDeLAncien.52
+    4771:
+    - UltimaPatagonia.107.GrotteDeLAncien.84
+    686:
+    - UltimaPatagonia.107.GrotteDeLAncien.5
+    2224:
+    - UltimaPatagonia.107.GrotteDeLAncien.4
+    3761:
+    - UltimaPatagonia.107.GrotteDeLAncien.44
+    1712:
+    - UltimaPatagonia.107.GrotteDeLAncien.80
+    1727:
+    - UltimaPatagonia.107.GrotteDeLAncien.63
+    1730:
+    - UltimaPatagonia.107.GrotteDeLAncien.106
+    3285:
+    - UltimaPatagonia.107.GrotteDeLAncien.43
+    1751:
+    - UltimaPatagonia.107.GrotteDeLAncien.74
+    5335:
+    - UltimaPatagonia.107.GrotteDeLAncien.107
+    219:
+    - UltimaPatagonia.107.GrotteDeLAncien.68
+    228:
+    - UltimaPatagonia.107.GrotteDeLAncien.120
+    4844:
+    - UltimaPatagonia.107.GrotteDeLAncien.70
+    4335:
+    - UltimaPatagonia.107.GrotteDeLAncien.126
+    5360:
+    - UltimaPatagonia.107.GrotteDeLAncien.101
+    4852:
+    - UltimaPatagonia.107.GrotteDeLAncien.50
+    3319:
+    - UltimaPatagonia.107.GrotteDeLAncien.37
+    3831:
+    - UltimaPatagonia.107.GrotteDeLAncien.45
+    3320:
+    - UltimaPatagonia.107.GrotteDeLAncien.71
+    2809:
+    - UltimaPatagonia.107.GrotteDeLAncien.81
+    5372:
+    - UltimaPatagonia.107.GrotteDeLAncien.118
+    3843:
+    - UltimaPatagonia.107.GrotteDeLAncien.18
+    1800:
+    - UltimaPatagonia.107.GrotteDeLAncien.88
+    5388:
+    - UltimaPatagonia.107.GrotteDeLAncien.94
+    781:
+    - UltimaPatagonia.107.GrotteDeLAncien.78
+    3348:
+    - UltimaPatagonia.107.GrotteDeLAncien.129
+    3350:
+    - UltimaPatagonia.107.GrotteDeLAncien.20
+    2839:
+    - UltimaPatagonia.107.GrotteDeLAncien.130
+    794:
+    - UltimaPatagonia.107.GrotteDeLAncien.0
+    1306:
+    - UltimaPatagonia.107.GrotteDeLAncien.61
+    4891:
+    - UltimaPatagonia.107.GrotteDeLAncien.87
+    1823:
+    - UltimaPatagonia.107.GrotteDeLAncien.36
+    4389:
+    - UltimaPatagonia.107.GrotteDeLAncien.124
+    3366:
+    - UltimaPatagonia.107.GrotteDeLAncien.65
+    1832:
+    - UltimaPatagonia.107.GrotteDeLAncien.117
+    4399:
+    - UltimaPatagonia.107.GrotteDeLAncien.46
+    2863:
+    - UltimaPatagonia.107.GrotteDeLAncien.96
+    4913:
+    - UltimaPatagonia.107.GrotteDeLAncien.127
+    4404:
+    - UltimaPatagonia.107.GrotteDeLAncien.79
+    311:
+    - UltimaPatagonia.107.GrotteDeLAncien.2
+    3386:
+    - UltimaPatagonia.107.GrotteDeLAncien.15
+    2874:
+    - UltimaPatagonia.107.GrotteDeLAncien.25
+    1340:
+    - UltimaPatagonia.107.GrotteDeLAncien.69
+    1341:
+    - UltimaPatagonia.107.GrotteDeLAncien.111
+    4415:
+    - UltimaPatagonia.107.GrotteDeLAncien.114
+    2370:
+    - UltimaPatagonia.107.GrotteDeLAncien.93
+    2886:
+    - UltimaPatagonia.107.GrotteDeLAncien.42
+    3921:
+    - UltimaPatagonia.107.GrotteDeLAncien.76
+    5470:
+    - UltimaPatagonia.107.GrotteDeLAncien.125
+    5471:
+    - UltimaPatagonia.107.GrotteDeLAncien.116
+    1376:
+    - UltimaPatagonia.107.GrotteDeLAncien.90
+    3425:
+    - UltimaPatagonia.107.GrotteDeLAncien.109
+    377:
+    - UltimaPatagonia.107.GrotteDeLAncien.73
+    890:
+    - UltimaPatagonia.107.GrotteDeLAncien.100
+    1405:
+    - UltimaPatagonia.107.GrotteDeLAncien.58
+    894:
+    - UltimaPatagonia.107.GrotteDeLAncien.95
+    4480:
+    - UltimaPatagonia.107.GrotteDeLAncien.13
+    3459:
+    - UltimaPatagonia.107.GrotteDeLAncien.32
+    5512:
+    - UltimaPatagonia.107.GrotteDeLAncien.14
+    1416:
+    - UltimaPatagonia.107.GrotteDeLAncien.77
+    396:
+    - UltimaPatagonia.107.GrotteDeLAncien.97
+    5517:
+    - UltimaPatagonia.107.GrotteDeLAncien.38
+    1936:
+    - UltimaPatagonia.107.GrotteDeLAncien.30
+    1427:
+    - UltimaPatagonia.107.GrotteDeLAncien.6
+    2969:
+    - UltimaPatagonia.107.GrotteDeLAncien.34
+    410:
+    - UltimaPatagonia.107.GrotteDeLAncien.41
+    934:
+    - UltimaPatagonia.107.GrotteDeLAncien.7
+    1960:
+    - UltimaPatagonia.107.GrotteDeLAncien.99
+    1452:
+    - UltimaPatagonia.107.GrotteDeLAncien.105
+    5037:
+    - UltimaPatagonia.107.GrotteDeLAncien.55
+    4015:
+    - UltimaPatagonia.107.GrotteDeLAncien.72
+    4022:
+    - UltimaPatagonia.107.GrotteDeLAncien.123
+    4025:
+    - UltimaPatagonia.107.GrotteDeLAncien.67
+    447:
+    - UltimaPatagonia.107.GrotteDeLAncien.3
+    448:
+    - UltimaPatagonia.107.GrotteDeLAncien.11
+    5062:
+    - UltimaPatagonia.107.GrotteDeLAncien.49
+    3530:
+    - UltimaPatagonia.107.GrotteDeLAncien.54
+    463:
+    - UltimaPatagonia.107.GrotteDeLAncien.103
+    4563:
+    - UltimaPatagonia.107.GrotteDeLAncien.128
+    4055:
+    - UltimaPatagonia.107.GrotteDeLAncien.48
+    2008:
+    - UltimaPatagonia.107.GrotteDeLAncien.64
+    2010:
+    - UltimaPatagonia.107.GrotteDeLAncien.119
+    1499:
+    - UltimaPatagonia.107.GrotteDeLAncien.8
+    4063:
+    - UltimaPatagonia.107.GrotteDeLAncien.16
+    3048:
+    - UltimaPatagonia.107.GrotteDeLAncien.35
+    4584:
+    - UltimaPatagonia.107.GrotteDeLAncien.82
+    2026:
+    - UltimaPatagonia.107.GrotteDeLAncien.104
+    5102:
+    - UltimaPatagonia.107.GrotteDeLAncien.19
+    499:
+    - UltimaPatagonia.107.GrotteDeLAncien.98
+    3064:
+    - UltimaPatagonia.107.GrotteDeLAncien.89

@@ -1,0 +1,2846 @@
+metadata:
+  id_dataset: '013'
+  short_name: BurringtonCombe
+  id_subset: '003'
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "University of Bristol Spel\xE6ological Society. (1919). Burrington Area\
+    \ Cave Survey [Creative Commons BY-NC-SA 4.0 dataset]. University of Bristol Spel\xE6\
+    ological Society. https://www.ubss.org.uk"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 888
+  total_depth: 47.03
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 231
+  number_edges: 231
+  mean_degree: 2.0
+  min_degree: 1.0
+  max_degree: 8.0
+  cv_degree: 0.564
+  number_cycles: 1
+  mean_length: 19.74
+  cv_length: 0.91
+  length_entropy: 0.72
+  orientation_3d_entropy: 0.786
+  aspl: 5.91
+  cpd: 0.511
+  correlation_vertex_degree: -0.307
+  original_format: Survex
+  comments_cave_info: Email Atkins to know bout citation. Only .3d available on the
+    website. May have geometry if we can get the .svx files
+  full_name: Burrington Combe Karst Area
+  geometry: none
+  units: meter
+  country: UK
+  state: England
+  area: North Somerset
+  locality: Burrington
+  grotto_id: 20044 (Avelines)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: .nan
+  latitude: 51.3244
+  longitude: -2.7531
+  altitude: '99'
+  cave_url: https://grottocenter.org/ui/entrances/20044
+  supplemental_links: https://www.mcra.org.uk/registry/sitedetails.php?id=3
+  data_reception_date: '2023'
+  data_received_by: Celia
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://ubss.org.uk/research/cave_surveys/burrington/
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 0
+  - 324
+- - 0
+  - 185
+- - 0
+  - 923
+- - 0
+  - 66
+- - 0
+  - 559
+- - 1025
+  - 933
+- - 1025
+  - 977
+- - 515
+  - 417
+- - 515
+  - 1526
+- - 1028
+  - 56
+- - 1028
+  - 1554
+- - 1541
+  - 1382
+- - 1541
+  - 1330
+- - 1540
+  - 778
+- - 1540
+  - 1174
+- - 518
+  - 236
+- - 518
+  - 1574
+- - 1032
+  - 945
+- - 1032
+  - 1719
+- - 522
+  - 1191
+- - 522
+  - 727
+- - 1037
+  - 1112
+- - 1037
+  - 1345
+- - 13
+  - 429
+- - 13
+  - 268
+- - 1039
+  - 1201
+- - 1039
+  - 1122
+- - 1040
+  - 727
+- - 1040
+  - 1581
+- - 1554
+  - 695
+- - 1049
+  - 196
+- - 1049
+  - 382
+- - 1052
+  - 1606
+- - 1052
+  - 1428
+- - 1053
+  - 1776
+- - 1053
+  - 849
+- - 30
+  - 1382
+- - 30
+  - 1150
+- - 545
+  - 1798
+- - 545
+  - 1606
+- - 33
+  - 239
+- - 33
+  - 446
+- - 37
+  - 811
+- - 37
+  - 445
+- - 38
+  - 1527
+- - 38
+  - 1483
+- - 1574
+  - 688
+- - 42
+  - 915
+- - 42
+  - 1767
+- - 555
+  - 659
+- - 555
+  - 196
+- - 1581
+  - 234
+- - 1069
+  - 1317
+- - 559
+  - 70
+- - 1071
+  - 1416
+- - 1071
+  - 1710
+- - 561
+  - 1815
+- - 561
+  - 1788
+- - 1074
+  - 234
+- - 1074
+  - 778
+- - 55
+  - 971
+- - 55
+  - 1628
+- - 56
+  - 328
+- - 570
+  - 800
+- - 570
+  - 1411
+- - 570
+  - 1317
+- - 574
+  - 1297
+- - 1087
+  - 740
+- - 66
+  - 257
+- - 1605
+  - 186
+- - 1605
+  - 842
+- - 70
+  - 371
+- - 585
+  - 646
+- - 585
+  - 938
+- - 1099
+  - 633
+- - 1099
+  - 1765
+- - 75
+  - 1411
+- - 75
+  - 166
+- - 1101
+  - 933
+- - 1101
+  - 393
+- - 85
+  - 376
+- - 85
+  - 418
+- - 1112
+  - 1483
+- - 88
+  - 1345
+- - 88
+  - 673
+- - 1624
+  - 1449
+- - 1624
+  - 607
+- - 90
+  - 1743
+- - 90
+  - 314
+- - 1628
+  - 1194
+- - 93
+  - 125
+- - 93
+  - 315
+- - 1630
+  - 1454
+- - 1630
+  - 368
+- - 607
+  - 1021
+- - 1631
+  - 1128
+- - 1631
+  - 1444
+- - 1631
+  - 376
+- - 608
+  - 268
+- - 608
+  - 854
+- - 1122
+  - 972
+- - 99
+  - 166
+- - 99
+  - 646
+- - 613
+  - 1512
+- - 1128
+  - 192
+- - 1641
+  - 905
+- - 1132
+  - 689
+- - 1132
+  - 1416
+- - 109
+  - 186
+- - 109
+  - 235
+- - 623
+  - 712
+- - 623
+  - 748
+- - 626
+  - 748
+- - 626
+  - 1338
+- - 115
+  - 912
+- - 1140
+  - 1021
+- - 1140
+  - 1454
+- - 1657
+  - 1816
+- - 1657
+  - 981
+- - 633
+  - 1150
+- - 125
+  - 1319
+- - 1150
+  - 1319
+- - 130
+  - 1526
+- - 130
+  - 1415
+- - 1156
+  - 1765
+- - 1156
+  - 1786
+- - 1675
+  - 674
+- - 654
+  - 842
+- - 654
+  - 1449
+- - 142
+  - 854
+- - 142
+  - 461
+- - 142
+  - 391
+- - 145
+  - 461
+- - 145
+  - 1821
+- - 659
+  - 314
+- - 660
+  - 417
+- - 660
+  - 1366
+- - 1172
+  - 1338
+- - 1172
+  - 750
+- - 1174
+  - 1722
+- - 1694
+  - 406
+- - 1694
+  - 863
+- - 673
+  - 224
+- - 1185
+  - 1818
+- - 1185
+  - 954
+- - 674
+  - 1238
+- - 674
+  - 968
+- - 1189
+  - 235
+- - 1189
+  - 1818
+- - 677
+  - 1520
+- - 677
+  - 1309
+- - 1191
+  - 315
+- - 1194
+  - 829
+- - 1194
+  - 326
+- - 1710
+  - 192
+- - 688
+  - 971
+- - 1201
+  - 1798
+- - 689
+  - 393
+- - 695
+  - 1525
+- - 1719
+  - 952
+- - 186
+  - 1732
+- - 1722
+  - 324
+- - 1211
+  - 1428
+- - 183
+  - 446
+- - 183
+  - 1764
+- - 190
+  - 477
+- - 190
+  - 1528
+- - 192
+  - 1737
+- - 1729
+  - 1494
+- - 1729
+  - 1815
+- - 1732
+  - 234
+- - 712
+  - 849
+- - 1743
+  - 796
+- - 1238
+  - 952
+- - 1244
+  - 1309
+- - 1244
+  - 933
+- - 224
+  - 367
+- - 1764
+  - 1816
+- - 740
+  - 938
+- - 1767
+  - 912
+- - 236
+  - 247
+- - 236
+  - 1532
+- - 750
+  - 900
+- - 239
+  - 382
+- - 1264
+  - 368
+- - 1264
+  - 357
+- - 1776
+  - 357
+- - 758
+  - 829
+- - 758
+  - 415
+- - 247
+  - 977
+- - 1272
+  - 1503
+- - 1272
+  - 1280
+- - 1271
+  - 445
+- - 1271
+  - 800
+- - 1788
+  - 1419
+- - 765
+  - 981
+- - 765
+  - 915
+- - 1280
+  - 389
+- - 257
+  - 1469
+- - 1798
+  - 863
+- - 1806
+  - 415
+- - 1806
+  - 1297
+- - 1297
+  - 811
+- - 793
+  - 1828
+- - 793
+  - 964
+- - 796
+  - 371
+- - 1828
+  - 954
+- - 814
+  - 1435
+- - 814
+  - 939
+- - 1330
+  - 1512
+- - 819
+  - 1366
+- - 819
+  - 945
+- - 1342
+  - 389
+- - 1342
+  - 406
+- - 1342
+  - 1469
+- - 1345
+  - 328
+- - 1382
+  - 367
+- - 376
+  - 1422
+- - 1410
+  - 964
+- - 1410
+  - 948
+- - 900
+  - 477
+- - 1415
+  - 1503
+- - 905
+  - 971
+- - 923
+  - 417
+- - 1435
+  - 948
+- - 1435
+  - 1019
+- - 1444
+  - 970
+- - 429
+  - 971
+- - 1494
+  - 1525
+- - 983
+  - 1528
+- - 983
+  - 1520
+node_attributes:
+  pos:
+    0:
+    - 517205.83
+    - 5685639.19
+    - 102.13
+    1025:
+    - 517150.61
+    - 5685704.77
+    - 103.71
+    515:
+    - 517207.02
+    - 5685632.75
+    - 106.52
+    1028:
+    - 517207.17
+    - 5685644.82
+    - 127.03
+    1541:
+    - 517208.66
+    - 5685656.74
+    - 117.59
+    1540:
+    - 517202.42
+    - 5685652.29
+    - 101.28
+    518:
+    - 517130.44
+    - 5685713.16
+    - 103.19
+    1032:
+    - 517210.91
+    - 5685632.31
+    - 114.63
+    522:
+    - 517206.32
+    - 5685655.53
+    - 106.47
+    1037:
+    - 517216.07
+    - 5685651.4
+    - 121.94
+    13:
+    - 517133.98
+    - 5685728.16
+    - 99.58
+    1039:
+    - 517242.79
+    - 5685606.76
+    - 101.91
+    1040:
+    - 517204.85
+    - 5685654.5
+    - 105.87
+    1554:
+    - 517210.35
+    - 5685644.44
+    - 125.86
+    1049:
+    - 517208.81
+    - 5685621.34
+    - 107.83
+    1052:
+    - 517250.9
+    - 5685612.99
+    - 103.66
+    1053:
+    - 517164.02
+    - 5685683.16
+    - 96.28
+    30:
+    - 517207.38
+    - 5685655.08
+    - 117.58
+    545:
+    - 517246.1
+    - 5685614.93
+    - 102.95
+    33:
+    - 517206.1
+    - 5685615.09
+    - 108.16
+    37:
+    - 517152.26
+    - 5685750.39
+    - 91.37
+    38:
+    - 517217.1
+    - 5685663.21
+    - 125.85
+    1574:
+    - 517129.03
+    - 5685718.98
+    - 100.77
+    42:
+    - 517214.94
+    - 5685599.0
+    - 115.64
+    555:
+    - 517207.35
+    - 5685624.48
+    - 107.41
+    1581:
+    - 517201.83
+    - 5685656.29
+    - 103.4
+    1069:
+    - 517145.55
+    - 5685754.1
+    - 96.07
+    559:
+    - 517204.53
+    - 5685639.44
+    - 102.34
+    1071:
+    - 517191.17
+    - 5685690.69
+    - 106.75
+    561:
+    - 517205.75
+    - 5685638.41
+    - 129.04
+    1074:
+    - 517199.56
+    - 5685657.98
+    - 101.04
+    55:
+    - 517129.59
+    - 5685727.91
+    - 101.39
+    56:
+    - 517209.18
+    - 5685650.14
+    - 124.84
+    570:
+    - 517152.12
+    - 5685760.38
+    - 92.47
+    574:
+    - 517153.37
+    - 5685747.22
+    - 92.08
+    1087:
+    - 517146.62
+    - 5685780.45
+    - 85.63
+    66:
+    - 517212.47
+    - 5685636.67
+    - 101.88
+    1605:
+    - 517185.62
+    - 5685667.8
+    - 96.74
+    70:
+    - 517203.15
+    - 5685636.58
+    - 103.82
+    1606:
+    - 517251.41
+    - 5685612.42
+    - 103.36
+    585:
+    - 517157.83
+    - 5685778.47
+    - 86.7
+    1099:
+    - 517201.3
+    - 5685655.21
+    - 120.21
+    75:
+    - 517153.15
+    - 5685766.89
+    - 87.94
+    1101:
+    - 517162.82
+    - 5685698.78
+    - 105.03
+    85:
+    - 517208.02
+    - 5685692.15
+    - 107.65
+    1112:
+    - 517215.46
+    - 5685652.32
+    - 122.73
+    88:
+    - 517213.25
+    - 5685649.11
+    - 124.88
+    1624:
+    - 517181.88
+    - 5685674.33
+    - 96.08
+    90:
+    - 517206.66
+    - 5685629.46
+    - 107.83
+    1628:
+    - 517130.41
+    - 5685731.61
+    - 101.99
+    93:
+    - 517207.96
+    - 5685656.4
+    - 111.9
+    1630:
+    - 517177.28
+    - 5685677.92
+    - 96.08
+    607:
+    - 517181.07
+    - 5685675.07
+    - 96.08
+    1631:
+    - 517204.56
+    - 5685689.98
+    - 107.56
+    608:
+    - 517137.61
+    - 5685724.81
+    - 96.98
+    1122:
+    - 517246.42
+    - 5685606.17
+    - 101.66
+    99:
+    - 517154.37
+    - 5685774.41
+    - 86.7
+    613:
+    - 517215.43
+    - 5685657.91
+    - 123.5
+    1128:
+    - 517200.38
+    - 5685690.98
+    - 106.64
+    1641:
+    - 517119.02
+    - 5685728.25
+    - 104.61
+    1132:
+    - 517184.35
+    - 5685689.65
+    - 108.69
+    109:
+    - 517186.83
+    - 5685670.07
+    - 98.83
+    623:
+    - 517156.52
+    - 5685691.34
+    - 95.94
+    626:
+    - 517153.31
+    - 5685693.95
+    - 96.43
+    115:
+    - 517220.97
+    - 5685607.35
+    - 119.82
+    1140:
+    - 517179.27
+    - 5685676.14
+    - 96.08
+    1657:
+    - 517201.78
+    - 5685605.61
+    - 116.78
+    633:
+    - 517204.59
+    - 5685655.92
+    - 117.07
+    125:
+    - 517207.96
+    - 5685656.4
+    - 113.1
+    1150:
+    - 517206.43
+    - 5685655.37
+    - 117.41
+    130:
+    - 517210.36
+    - 5685628.93
+    - 106.52
+    1156:
+    - 517198.8
+    - 5685651.47
+    - 128.49
+    646:
+    - 517156.67
+    - 5685775.94
+    - 85.8
+    1675:
+    - 517208.5
+    - 5685631.69
+    - 120.83
+    654:
+    - 517182.25
+    - 5685672.99
+    - 96.08
+    142:
+    - 517140.79
+    - 5685724.05
+    - 95.71
+    145:
+    - 517162.06
+    - 5685718.95
+    - 96.78
+    659:
+    - 517207.34
+    - 5685626.57
+    - 106.93
+    660:
+    - 517206.69
+    - 5685635.1
+    - 108.94
+    1172:
+    - 517151.09
+    - 5685695.9
+    - 96.96
+    1174:
+    - 517202.38
+    - 5685650.67
+    - 101.81
+    1694:
+    - 517241.1
+    - 5685622.74
+    - 103.07
+    673:
+    - 517211.89
+    - 5685650.04
+    - 124.88
+    1185:
+    - 517185.05
+    - 5685661.82
+    - 106.77
+    674:
+    - 517210.0
+    - 5685635.82
+    - 122.09
+    1189:
+    - 517186.54
+    - 5685661.85
+    - 104.17
+    677:
+    - 517156.11
+    - 5685707.26
+    - 96.61
+    1191:
+    - 517206.32
+    - 5685655.53
+    - 109.47
+    166:
+    - 517152.3
+    - 5685769.15
+    - 86.31
+    1194:
+    - 517135.86
+    - 5685739.3
+    - 106.19
+    1710:
+    - 517196.86
+    - 5685689.95
+    - 105.53
+    688:
+    - 517130.9
+    - 5685722.31
+    - 102.98
+    1201:
+    - 517246.01
+    - 5685615.05
+    - 102.07
+    689:
+    - 517174.24
+    - 5685693.2
+    - 106.8
+    695:
+    - 517207.72
+    - 5685642.29
+    - 125.86
+    1719:
+    - 517211.86
+    - 5685633.73
+    - 114.78
+    185:
+    - 517215.18
+    - 5685635.64
+    - 102.13
+    186:
+    - 517187.65
+    - 5685665.49
+    - 98.18
+    1722:
+    - 517204.3
+    - 5685646.94
+    - 101.88
+    1211:
+    - 517253.86
+    - 5685618.1
+    - 104.27
+    183:
+    - 517203.17
+    - 5685608.19
+    - 109.85
+    190:
+    - 517154.5
+    - 5685704.11
+    - 96.08
+    192:
+    - 517191.15
+    - 5685695.36
+    - 104.84
+    1729:
+    - 517202.91
+    - 5685642.36
+    - 128.24
+    1732:
+    - 517192.91
+    - 5685663.06
+    - 98.48
+    196:
+    - 517207.77
+    - 5685622.52
+    - 107.34
+    712:
+    - 517155.95
+    - 5685688.89
+    - 95.99
+    1737:
+    - 517187.38
+    - 5685698.13
+    - 103.14
+    1743:
+    - 517206.64
+    - 5685630.55
+    - 107.66
+    1238:
+    - 517209.72
+    - 5685634.45
+    - 119.85
+    727:
+    - 517205.75
+    - 5685654.79
+    - 105.88
+    1244:
+    - 517157.38
+    - 5685706.23
+    - 98.46
+    224:
+    - 517211.89
+    - 5685650.04
+    - 121.68
+    1764:
+    - 517200.97
+    - 5685605.55
+    - 113.95
+    1765:
+    - 517197.79
+    - 5685654.76
+    - 122.98
+    740:
+    - 517150.78
+    - 5685779.37
+    - 86.16
+    1767:
+    - 517216.35
+    - 5685600.95
+    - 116.11
+    234:
+    - 517198.0
+    - 5685660.37
+    - 99.19
+    235:
+    - 517186.99
+    - 5685661.85
+    - 104.17
+    748:
+    - 517153.31
+    - 5685693.95
+    - 96.67
+    236:
+    - 517135.8
+    - 5685711.59
+    - 101.59
+    750:
+    - 517155.82
+    - 5685699.2
+    - 96.56
+    239:
+    - 517209.37
+    - 5685617.4
+    - 109.61
+    1264:
+    - 517172.61
+    - 5685679.69
+    - 96.08
+    1776:
+    - 517167.39
+    - 5685681.29
+    - 96.08
+    758:
+    - 517137.83
+    - 5685743.19
+    - 102.32
+    247:
+    - 517139.73
+    - 5685708.37
+    - 103.05
+    1272:
+    - 517232.75
+    - 5685624.79
+    - 106.52
+    1271:
+    - 517152.33
+    - 5685753.26
+    - 92.06
+    1786:
+    - 517195.23
+    - 5685649.94
+    - 132.66
+    1788:
+    - 517205.75
+    - 5685638.41
+    - 130.64
+    765:
+    - 517209.59
+    - 5685601.67
+    - 117.19
+    1280:
+    - 517232.75
+    - 5685625.79
+    - 106.52
+    257:
+    - 517220.75
+    - 5685633.85
+    - 101.73
+    1798:
+    - 517246.1
+    - 5685614.93
+    - 102.33
+    778:
+    - 517200.17
+    - 5685655.15
+    - 101.09
+    268:
+    - 517136.4
+    - 5685726.45
+    - 99.68
+    1806:
+    - 517144.01
+    - 5685749.36
+    - 95.09
+    1297:
+    - 517147.58
+    - 5685749.14
+    - 91.87
+    1815:
+    - 517204.81
+    - 5685639.85
+    - 128.24
+    1816:
+    - 517200.97
+    - 5685605.55
+    - 116.2
+    793:
+    - 517175.97
+    - 5685662.38
+    - 106.71
+    1818:
+    - 517186.54
+    - 5685661.85
+    - 106.72
+    796:
+    - 517206.6
+    - 5685632.64
+    - 108.72
+    1309:
+    - 517156.99
+    - 5685708.47
+    - 96.34
+    1821:
+    - 517166.03
+    - 5685717.62
+    - 96.2
+    800:
+    - 517150.14
+    - 5685755.82
+    - 92.12
+    1828:
+    - 517181.0
+    - 5685661.14
+    - 107.16
+    1317:
+    - 517146.34
+    - 5685759.4
+    - 94.83
+    1319:
+    - 517206.43
+    - 5685655.37
+    - 115.21
+    811:
+    - 517150.59
+    - 5685748.96
+    - 91.76
+    814:
+    - 517172.75
+    - 5685665.81
+    - 100.33
+    1330:
+    - 517209.17
+    - 5685658.97
+    - 118.81
+    819:
+    - 517209.41
+    - 5685631.65
+    - 112.65
+    314:
+    - 517206.66
+    - 5685629.46
+    - 108.13
+    315:
+    - 517207.16
+    - 5685654.83
+    - 110.26
+    1338:
+    - 517151.97
+    - 5685693.7
+    - 96.67
+    829:
+    - 517134.87
+    - 5685739.95
+    - 106.0
+    1342:
+    - 517233.74
+    - 5685627.54
+    - 101.52
+    1345:
+    - 517213.25
+    - 5685649.11
+    - 125.58
+    324:
+    - 517203.33
+    - 5685644.27
+    - 101.53
+    326:
+    - 517141.46
+    - 5685739.85
+    - 100.57
+    328:
+    - 517209.41
+    - 5685651.77
+    - 123.97
+    842:
+    - 517181.99
+    - 5685671.81
+    - 96.08
+    849:
+    - 517158.63
+    - 5685684.73
+    - 95.99
+    1366:
+    - 517206.53
+    - 5685632.77
+    - 112.54
+    854:
+    - 517140.25
+    - 5685724.04
+    - 96.3
+    863:
+    - 517242.55
+    - 5685621.96
+    - 103.3
+    357:
+    - 517168.81
+    - 5685680.55
+    - 96.08
+    1382:
+    - 517209.4
+    - 5685654.73
+    - 118.5
+    367:
+    - 517212.08
+    - 5685652.24
+    - 120.13
+    368:
+    - 517174.42
+    - 5685679.11
+    - 96.08
+    371:
+    - 517206.6
+    - 5685632.64
+    - 107.22
+    376:
+    - 517205.33
+    - 5685689.85
+    - 106.07
+    382:
+    - 517209.24
+    - 5685619.17
+    - 109.1
+    1410:
+    - 517174.22
+    - 5685664.12
+    - 102.68
+    1411:
+    - 517152.76
+    - 5685766.06
+    - 90.93
+    900:
+    - 517152.64
+    - 5685700.5
+    - 96.74
+    389:
+    - 517233.74
+    - 5685627.54
+    - 106.52
+    1415:
+    - 517214.08
+    - 5685626.97
+    - 106.52
+    1416:
+    - 517188.52
+    - 5685688.33
+    - 107.76
+    393:
+    - 517165.75
+    - 5685696.7
+    - 106.48
+    905:
+    - 517130.77
+    - 5685725.24
+    - 102.9
+    1419:
+    - 517210.71
+    - 5685636.52
+    - 130.73
+    391:
+    - 517143.93
+    - 5685728.63
+    - 94.93
+    1422:
+    - 517208.32
+    - 5685687.02
+    - 107.49
+    912:
+    - 517217.71
+    - 5685606.94
+    - 118.22
+    915:
+    - 517212.38
+    - 5685601.3
+    - 116.69
+    1428:
+    - 517253.44
+    - 5685616.48
+    - 104.04
+    406:
+    - 517236.21
+    - 5685625.82
+    - 101.52
+    923:
+    - 517204.01
+    - 5685636.73
+    - 103.56
+    1435:
+    - 517172.75
+    - 5685665.81
+    - 100.93
+    415:
+    - 517141.42
+    - 5685745.14
+    - 97.09
+    417:
+    - 517205.95
+    - 5685633.65
+    - 106.52
+    418:
+    - 517205.76
+    - 5685694.0
+    - 105.53
+    1444:
+    - 517200.74
+    - 5685686.47
+    - 107.37
+    933:
+    - 517154.92
+    - 5685705.5
+    - 101.86
+    1449:
+    - 517182.24
+    - 5685673.19
+    - 96.08
+    938:
+    - 517153.39
+    - 5685778.51
+    - 85.92
+    939:
+    - 517170.4
+    - 5685667.33
+    - 98.58
+    429:
+    - 517133.35
+    - 5685725.03
+    - 100.62
+    1454:
+    - 517178.56
+    - 5685676.52
+    - 96.08
+    945:
+    - 517210.91
+    - 5685632.31
+    - 113.67
+    948:
+    - 517173.12
+    - 5685665.46
+    - 101.33
+    952:
+    - 517211.86
+    - 5685633.73
+    - 117.43
+    954:
+    - 517182.33
+    - 5685662.19
+    - 106.68
+    1469:
+    - 517220.75
+    - 5685633.85
+    - 101.13
+    446:
+    - 517204.21
+    - 5685613.6
+    - 107.73
+    445:
+    - 517151.91
+    - 5685751.48
+    - 91.0
+    964:
+    - 517175.97
+    - 5685662.38
+    - 105.96
+    968:
+    - 517211.48
+    - 5685633.06
+    - 124.91
+    970:
+    - 517196.09
+    - 5685690.16
+    - 105.44
+    1483:
+    - 517215.96
+    - 5685658.22
+    - 123.46
+    972:
+    - 517246.84
+    - 5685607.63
+    - 101.52
+    971:
+    - 517130.2
+    - 5685723.85
+    - 102.8
+    461:
+    - 517161.75
+    - 5685717.07
+    - 96.48
+    977:
+    - 517148.85
+    - 5685706.02
+    - 103.21
+    981:
+    - 517209.17
+    - 5685604.33
+    - 117.04
+    1494:
+    - 517202.91
+    - 5685642.36
+    - 129.29
+    983:
+    - 517153.96
+    - 5685705.41
+    - 97.01
+    477:
+    - 517154.5
+    - 5685704.11
+    - 96.39
+    1503:
+    - 517231.01
+    - 5685621.2
+    - 106.52
+    1512:
+    - 517210.29
+    - 5685661.62
+    - 119.69
+    1520:
+    - 517156.87
+    - 5685705.44
+    - 96.9
+    1525:
+    - 517207.72
+    - 5685642.29
+    - 126.51
+    1526:
+    - 517208.62
+    - 5685630.99
+    - 106.52
+    1527:
+    - 517217.1
+    - 5685663.21
+    - 129.0
+    1528:
+    - 517153.96
+    - 5685705.41
+    - 96.08
+    1019:
+    - 517172.73
+    - 5685670.75
+    - 98.08
+    1532:
+    - 517128.45
+    - 5685711.0
+    - 104.57
+    1021:
+    - 517180.28
+    - 5685675.49
+    - 96.08
+  comments:
+    1786:
+    - Entree Pierres Pot2 Aven
+    1527:
+    - Entree Pierres Pot1
+  fulladdress:
+    0:
+    - Burrington.PierresPot.Pierres1.70
+    1025:
+    - Burrington.PierresPot.Pierres3downstream.P3D25
+    515:
+    - Burrington.PierresPot.Twinkletoes.16
+    1028:
+    - Burrington.PierresPot.Pierres1.9
+    1541:
+    - Burrington.PierresPot.Pierres1.24
+    1540:
+    - Burrington.PierresPot.Pierres1.66
+    518:
+    - Burrington.PierresPot.Pierres3downstream.P3D30
+    1032:
+    - Burrington.PierresPot.Twinkletoes.7
+    522:
+    - Burrington.PierresPot.Pierres1.40
+    1037:
+    - Burrington.PierresPot.Pierres1.5
+    13:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D6
+    1039:
+    - Burrington.PierresPot.Pierres_upstream.PP6
+    1040:
+    - Burrington.PierresPot.Pierres1.42
+    1554:
+    - Burrington.PierresPot.Pierres1.10
+    1049:
+    - Burrington.PierresPot.Pierres1.81
+    1052:
+    - Burrington.PierresPot.Pierres_upstream.PP11
+    1053:
+    - Burrington.PierresPot.Pierres2.P2D2
+    30:
+    - Burrington.PierresPot.Pierres1.28
+    545:
+    - Burrington.PierresPot.Pierres_upstream.PP9
+    33:
+    - Burrington.PierresPot.Pierres1.84
+    37:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D10
+    38:
+    - Burrington.PierresPot.Pierres1.2
+    1574:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D2
+    42:
+    - Burrington.PierresPot.Pierres1.93
+    555:
+    - Burrington.PierresPot.Pierres1.79
+    1581:
+    - Burrington.PierresPot.Pierres1.43
+    1069:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D16
+    559:
+    - Burrington.PierresPot.Pierres1.71
+    1071:
+    - Burrington.PierresPot.Pierres3downstream.P3D13
+    561:
+    - Burrington.PierresPot.Pierres1.16
+    1074:
+    - Burrington.PierresPot.Pierres1.64
+    55:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D17
+    56:
+    - Burrington.PierresPot.Pierres1.8
+    570:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D14
+    574:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D8
+    1087:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D25
+    66:
+    - Burrington.PierresPot.Pierres1.97
+    1605:
+    - Burrington.PierresPot.Pierres1.62
+    70:
+    - Burrington.PierresPot.Pierres1.72
+    1606:
+    - Burrington.PierresPot.Pierres_upstream.PP10
+    585:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D22
+    1099:
+    - Burrington.PierresPot.Pierres1.31
+    75:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D18
+    1101:
+    - Burrington.PierresPot.Pierres3downstream.P3D8
+    85:
+    - Burrington.PierresPot.Pierres3downstream.P3D20
+    1112:
+    - Burrington.PierresPot.Pierres1.4
+    88:
+    - Burrington.PierresPot.Pierres1.19
+    1624:
+    - Burrington.PierresPot.Sumpone.P1M26
+    90:
+    - Burrington.PierresPot.Pierres1.76
+    1628:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D18
+    93:
+    - Burrington.PierresPot.Pierres1.37
+    1630:
+    - Burrington.PierresPot.Sumpone.P1M31
+    607:
+    - Burrington.PierresPot.Sumpone.P1M27
+    1631:
+    - Burrington.PierresPot.Pierres3downstream.P3D18
+    608:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D8
+    1122:
+    - Burrington.PierresPot.Pierres_upstream.PP7
+    99:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D20
+    613:
+    - Burrington.PierresPot.Pierres1.27
+    1128:
+    - Burrington.PierresPot.Pierres3downstream.P3D17
+    1641:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D16
+    1132:
+    - Burrington.PierresPot.Pierres3downstream.P3D11
+    109:
+    - Burrington.PierresPot.Pierres1.47
+    623:
+    - Burrington.PierresPot.Pierres2.P2D5
+    626:
+    - Burrington.PierresPot.Pierres2.P2D7
+    115:
+    - Burrington.PierresPot.Pierres1.96
+    1140:
+    - Burrington.PierresPot.Sumpone.P1M29
+    1657:
+    - Burrington.PierresPot.Pierres1.89
+    633:
+    - Burrington.PierresPot.Pierres1.30
+    125:
+    - Burrington.PierresPot.Pierres1.36
+    1150:
+    - Burrington.PierresPot.Pierres1.29
+    130:
+    - Burrington.PierresPot.Twinkletoes.18
+    1156:
+    - Burrington.PierresPot.Pierres1.33
+    646:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D21
+    1675:
+    - Burrington.PierresPot.Twinkletoes.1
+    654:
+    - Burrington.PierresPot.Sumpone.P1M24
+    142:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D10
+    145:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D13
+    659:
+    - Burrington.PierresPot.Pierres1.78
+    660:
+    - Burrington.PierresPot.Twinkletoes.11
+    1172:
+    - Burrington.PierresPot.Pierres2.P2D9
+    1174:
+    - Burrington.PierresPot.Pierres1.67
+    1694:
+    - Burrington.PierresPot.Pierres_upstream.PP2
+    673:
+    - Burrington.PierresPot.Pierres1.20
+    1185:
+    - Burrington.PierresPot.Pierres1.51
+    674:
+    - Burrington.PierresPot.Twinkletoes.2
+    1189:
+    - Burrington.PierresPot.Pierres1.49
+    677:
+    - Burrington.PierresPot.Pierres3downstream.P3D4
+    1191:
+    - Burrington.PierresPot.Pierres1.39
+    166:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D19
+    1194:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D19
+    1710:
+    - Burrington.PierresPot.Pierres3downstream.P3D14
+    688:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D3
+    1201:
+    - Burrington.PierresPot.Pierres_upstream.PP5
+    689:
+    - Burrington.PierresPot.Pierres3downstream.P3D10
+    695:
+    - Burrington.PierresPot.Pierres1.11
+    1719:
+    - Burrington.PierresPot.Twinkletoes.6
+    185:
+    - Burrington.PierresPot.Twinkletoes.15
+    186:
+    - Burrington.PierresPot.Pierres1.46
+    1722:
+    - Burrington.PierresPot.Pierres1.68
+    1211:
+    - Burrington.PierresPot.Pierres_upstream.PP13
+    183:
+    - Burrington.PierresPot.Pierres1.86
+    190:
+    - Burrington.PierresPot.Pierres3downstream.P2D45
+    192:
+    - Burrington.PierresPot.Pierres3downstream.P3D15
+    1729:
+    - Burrington.PierresPot.Pierres1.14
+    1732:
+    - Burrington.PierresPot.Pierres1.45
+    196:
+    - Burrington.PierresPot.Pierres1.80
+    712:
+    - Burrington.PierresPot.Pierres2.P2D4
+    1737:
+    - Burrington.PierresPot.Pierres3downstream.P3D16
+    1743:
+    - Burrington.PierresPot.Pierres1.75
+    1238:
+    - Burrington.PierresPot.Twinkletoes.4
+    727:
+    - Burrington.PierresPot.Pierres1.41
+    1244:
+    - Burrington.PierresPot.Pierres3downstream.P3D6
+    224:
+    - Burrington.PierresPot.Pierres1.21
+    1764:
+    - Burrington.PierresPot.Pierres1.87
+    1765:
+    - Burrington.PierresPot.Pierres1.32
+    740:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D24
+    1767:
+    - Burrington.PierresPot.Pierres1.94
+    234:
+    - Burrington.PierresPot.Pierres1.44
+    235:
+    - Burrington.PierresPot.Pierres1.48
+    748:
+    - Burrington.PierresPot.Pierres2.P2D6
+    236:
+    - Burrington.PierresPot.Pierres3downstream.P3D28
+    750:
+    - Burrington.PierresPot.Pierres2.P2D10
+    239:
+    - Burrington.PierresPot.Pierres1.83
+    1264:
+    - Burrington.PierresPot.Sumpone.P1M33
+    1776:
+    - Burrington.PierresPot.Sumpone.P1M35
+    758:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D4
+    247:
+    - Burrington.PierresPot.Pierres3downstream.P3D27
+    1272:
+    - Burrington.PierresPot.Twinkletoes.21
+    1271:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D12
+    1786:
+    - Burrington.PierresPot.Pierres1.34
+    1788:
+    - Burrington.PierresPot.Pierres1.17
+    765:
+    - Burrington.PierresPot.Pierres1.91
+    1280:
+    - Burrington.PierresPot.Twinkletoes.22
+    257:
+    - Burrington.PierresPot.Pierres1.98
+    1798:
+    - Burrington.PierresPot.Pierres_upstream.PP4
+    778:
+    - Burrington.PierresPot.Pierres1.65
+    268:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D7
+    1806:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D6
+    1297:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D7
+    1815:
+    - Burrington.PierresPot.Pierres1.15
+    1816:
+    - Burrington.PierresPot.Pierres1.88
+    793:
+    - Burrington.PierresPot.Pierres1.54
+    1818:
+    - Burrington.PierresPot.Pierres1.50
+    796:
+    - Burrington.PierresPot.Pierres1.74
+    1309:
+    - Burrington.PierresPot.Pierres3downstream.P3D5
+    1821:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D14
+    800:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D13
+    1828:
+    - Burrington.PierresPot.Pierres1.53
+    1317:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D15
+    1319:
+    - Burrington.PierresPot.Pierres1.35
+    811:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D9
+    814:
+    - Burrington.PierresPot.Pierres1.60
+    1330:
+    - Burrington.PierresPot.Pierres1.25
+    819:
+    - Burrington.PierresPot.Twinkletoes.9
+    314:
+    - Burrington.PierresPot.Pierres1.77
+    315:
+    - Burrington.PierresPot.Pierres1.38
+    1338:
+    - Burrington.PierresPot.Pierres2.P2D8
+    829:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D3
+    1342:
+    - Burrington.PierresPot.Twinkletoes.23a
+    1345:
+    - Burrington.PierresPot.Pierres1.6
+    324:
+    - Burrington.PierresPot.Pierres1.69
+    326:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D2
+    328:
+    - Burrington.PierresPot.Pierres1.7
+    842:
+    - Burrington.PierresPot.Pierres1.63
+    849:
+    - Burrington.PierresPot.Pierres2.P2D3
+    1366:
+    - Burrington.PierresPot.Twinkletoes.10
+    854:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D9
+    863:
+    - Burrington.PierresPot.Pierres_upstream.PP3
+    357:
+    - Burrington.PierresPot.Sumpone.P1M34
+    1382:
+    - Burrington.PierresPot.Pierres1.23
+    367:
+    - Burrington.PierresPot.Pierres1.22
+    368:
+    - Burrington.PierresPot.Sumpone.P1M32
+    371:
+    - Burrington.PierresPot.Pierres1.73
+    376:
+    - Burrington.PierresPot.Pierres3downstream.P3D19
+    382:
+    - Burrington.PierresPot.Pierres1.82
+    1410:
+    - Burrington.PierresPot.Pierres1.56
+    1411:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D17
+    900:
+    - Burrington.PierresPot.Pierres2.P2D11
+    389:
+    - Burrington.PierresPot.Twinkletoes.23
+    1415:
+    - Burrington.PierresPot.Twinkletoes.19
+    1416:
+    - Burrington.PierresPot.Pierres3downstream.P3D12
+    393:
+    - Burrington.PierresPot.Pierres3downstream.P3D9
+    905:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D15
+    1419:
+    - Burrington.PierresPot.Pierres1.18
+    391:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D11
+    1422:
+    - Burrington.PierresPot.Pierres3downstream.P3D22
+    912:
+    - Burrington.PierresPot.Pierres1.95
+    915:
+    - Burrington.PierresPot.Pierres1.92
+    1428:
+    - Burrington.PierresPot.Pierres_upstream.PP12
+    406:
+    - Burrington.PierresPot.Twinkletoes.24
+    923:
+    - Burrington.PierresPot.Twinkletoes.13
+    1435:
+    - Burrington.PierresPot.Pierres1.58
+    415:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D5
+    417:
+    - Burrington.PierresPot.Twinkletoes.12
+    418:
+    - Burrington.PierresPot.Pierres3downstream.P3D21
+    1444:
+    - Burrington.PierresPot.Pierres3downstream.P3D23
+    933:
+    - Burrington.PierresPot.Pierres3downstream.P3D7
+    1449:
+    - Burrington.PierresPot.Sumpone.P1M25
+    938:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D23
+    939:
+    - Burrington.PierresPot.Pierres1.61
+    429:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D5
+    1454:
+    - Burrington.PierresPot.Sumpone.P1M30
+    945:
+    - Burrington.PierresPot.Twinkletoes.8
+    948:
+    - Burrington.PierresPot.Pierres1.57
+    952:
+    - Burrington.PierresPot.Twinkletoes.5
+    954:
+    - Burrington.PierresPot.Pierres1.52
+    1469:
+    - Burrington.PierresPot.Pierres1.99
+    446:
+    - Burrington.PierresPot.Pierres1.85
+    445:
+    - Burrington.PierresPot.Pierres3downstreamtosump.P5D11
+    964:
+    - Burrington.PierresPot.Pierres1.55
+    968:
+    - Burrington.PierresPot.Twinkletoes.3
+    970:
+    - Burrington.PierresPot.Pierres3downstream.P3D24
+    1483:
+    - Burrington.PierresPot.Pierres1.3
+    972:
+    - Burrington.PierresPot.Pierres_upstream.PP8
+    971:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D4
+    461:
+    - Burrington.PierresPot.Pierres3Pepparami.P4D12
+    977:
+    - Burrington.PierresPot.Pierres3downstream.P3D26
+    981:
+    - Burrington.PierresPot.Pierres1.90
+    1494:
+    - Burrington.PierresPot.Pierres1.13
+    983:
+    - Burrington.PierresPot.Pierres3downstream.P3D2
+    477:
+    - Burrington.PierresPot.Pierres2.P2D12
+    1503:
+    - Burrington.PierresPot.Twinkletoes.20
+    1512:
+    - Burrington.PierresPot.Pierres1.26
+    1520:
+    - Burrington.PierresPot.Pierres3downstream.P3D3
+    1525:
+    - Burrington.PierresPot.Pierres1.12
+    1526:
+    - Burrington.PierresPot.Twinkletoes.17
+    1527:
+    - Burrington.PierresPot.Pierres1.1
+    1528:
+    - Burrington.PierresPot.Pierres3downstream.P3D1
+    1019:
+    - Burrington.PierresPot.Pierres1.59
+    1532:
+    - Burrington.PierresPot.Pierres3downstream.P3D29
+    1021:
+    - Burrington.PierresPot.Sumpone.P1M28
+  idsql:
+    0:
+    - 1322
+    1025:
+    - 1423
+    515:
+    - 1326
+    1028:
+    - 1531
+    1541:
+    - 1525
+    1540:
+    - 1318
+    518:
+    - 1427
+    1032:
+    - 1352
+    522:
+    - 1311
+    1037:
+    - 1297
+    13:
+    - 1461
+    1039:
+    - 1345
+    1040:
+    - 1313
+    1554:
+    - 1532
+    1049:
+    - 1372
+    1052:
+    - 1341
+    1053:
+    - 1404
+    30:
+    - 1304
+    545:
+    - 1339
+    33:
+    - 1375
+    37:
+    - 1440
+    38:
+    - 1287
+    1574:
+    - 1428
+    42:
+    - 1384
+    555:
+    - 1370
+    1581:
+    - 1314
+    1069:
+    - 1455
+    559:
+    - 1362
+    1071:
+    - 1492
+    561:
+    - 1538
+    1074:
+    - 1316
+    55:
+    - 1431
+    56:
+    - 1530
+    570:
+    - 1444
+    574:
+    - 1456
+    1087:
+    - 1453
+    66:
+    - 1359
+    1605:
+    - 1390
+    70:
+    - 1363
+    1606:
+    - 1340
+    585:
+    - 1450
+    1099:
+    - 1521
+    75:
+    - 1446
+    1101:
+    - 1487
+    85:
+    - 1502
+    1112:
+    - 1289
+    88:
+    - 1299
+    1624:
+    - 1394
+    90:
+    - 1367
+    1628:
+    - 1432
+    93:
+    - 1308
+    1630:
+    - 1399
+    607:
+    - 1395
+    1631:
+    - 1496
+    608:
+    - 1463
+    1122:
+    - 1346
+    99:
+    - 1448
+    613:
+    - 1528
+    1128:
+    - 1495
+    1641:
+    - 1459
+    1132:
+    - 1490
+    109:
+    - 1505
+    623:
+    - 1407
+    626:
+    - 1409
+    115:
+    - 1387
+    1140:
+    - 1397
+    1657:
+    - 1380
+    633:
+    - 1520
+    125:
+    - 1307
+    1150:
+    - 1305
+    130:
+    - 1328
+    1156:
+    - 1523
+    646:
+    - 1449
+    1675:
+    - 1358
+    654:
+    - 1392
+    142:
+    - 1465
+    145:
+    - 1467
+    659:
+    - 1369
+    660:
+    - 1348
+    1172:
+    - 1411
+    1174:
+    - 1319
+    1694:
+    - 1336
+    673:
+    - 1300
+    1185:
+    - 1509
+    674:
+    - 1356
+    1189:
+    - 1507
+    677:
+    - 1419
+    1191:
+    - 1310
+    166:
+    - 1447
+    1194:
+    - 1433
+    1710:
+    - 1493
+    688:
+    - 1429
+    1201:
+    - 1344
+    689:
+    - 1489
+    695:
+    - 1533
+    1719:
+    - 1353
+    185:
+    - 1323
+    186:
+    - 1389
+    1722:
+    - 1320
+    1211:
+    - 1343
+    183:
+    - 1377
+    190:
+    - 1415
+    192:
+    - 1494
+    1729:
+    - 1536
+    1732:
+    - 1388
+    196:
+    - 1371
+    712:
+    - 1406
+    1737:
+    - 1504
+    1743:
+    - 1366
+    1238:
+    - 1355
+    727:
+    - 1312
+    1244:
+    - 1421
+    224:
+    - 1301
+    1764:
+    - 1378
+    1765:
+    - 1522
+    740:
+    - 1452
+    1767:
+    - 1385
+    234:
+    - 1315
+    235:
+    - 1506
+    748:
+    - 1408
+    236:
+    - 1426
+    750:
+    - 1412
+    239:
+    - 1374
+    1264:
+    - 1401
+    1776:
+    - 1403
+    758:
+    - 1435
+    247:
+    - 1425
+    1272:
+    - 1331
+    1271:
+    - 1442
+    1786:
+    - 1524
+    1788:
+    - 1539
+    765:
+    - 1382
+    1280:
+    - 1332
+    257:
+    - 1360
+    1798:
+    - 1338
+    778:
+    - 1317
+    268:
+    - 1462
+    1806:
+    - 1437
+    1297:
+    - 1438
+    1815:
+    - 1537
+    1816:
+    - 1379
+    793:
+    - 1512
+    1818:
+    - 1508
+    796:
+    - 1365
+    1309:
+    - 1420
+    1821:
+    - 1468
+    800:
+    - 1443
+    1828:
+    - 1511
+    1317:
+    - 1454
+    1319:
+    - 1306
+    811:
+    - 1439
+    814:
+    - 1517
+    1330:
+    - 1526
+    819:
+    - 1350
+    314:
+    - 1368
+    315:
+    - 1309
+    1338:
+    - 1410
+    829:
+    - 1434
+    1342:
+    - 1334
+    1345:
+    - 1298
+    324:
+    - 1321
+    326:
+    - 1457
+    328:
+    - 1529
+    842:
+    - 1391
+    849:
+    - 1405
+    1366:
+    - 1349
+    854:
+    - 1464
+    863:
+    - 1337
+    357:
+    - 1402
+    1382:
+    - 1303
+    367:
+    - 1302
+    368:
+    - 1400
+    371:
+    - 1364
+    376:
+    - 1500
+    382:
+    - 1373
+    1410:
+    - 1514
+    1411:
+    - 1445
+    900:
+    - 1413
+    389:
+    - 1333
+    1415:
+    - 1329
+    1416:
+    - 1491
+    393:
+    - 1488
+    905:
+    - 1458
+    1419:
+    - 1540
+    391:
+    - 1469
+    1422:
+    - 1501
+    912:
+    - 1386
+    915:
+    - 1383
+    1428:
+    - 1342
+    406:
+    - 1335
+    923:
+    - 1324
+    1435:
+    - 1516
+    415:
+    - 1436
+    417:
+    - 1325
+    418:
+    - 1503
+    1444:
+    - 1498
+    933:
+    - 1422
+    1449:
+    - 1393
+    938:
+    - 1451
+    939:
+    - 1518
+    429:
+    - 1460
+    1454:
+    - 1398
+    945:
+    - 1351
+    948:
+    - 1515
+    952:
+    - 1354
+    954:
+    - 1510
+    1469:
+    - 1361
+    446:
+    - 1376
+    445:
+    - 1441
+    964:
+    - 1513
+    968:
+    - 1357
+    970:
+    - 1499
+    1483:
+    - 1288
+    972:
+    - 1347
+    971:
+    - 1430
+    461:
+    - 1466
+    977:
+    - 1424
+    981:
+    - 1381
+    1494:
+    - 1535
+    983:
+    - 1417
+    477:
+    - 1414
+    1503:
+    - 1330
+    1512:
+    - 1527
+    1520:
+    - 1418
+    1525:
+    - 1534
+    1526:
+    - 1327
+    1527:
+    - 1286
+    1528:
+    - 1416
+    1019:
+    - 1519
+    1532:
+    - 1486
+    1021:
+    - 1396
+  flags:
+    0:
+    - fix
+    1025:
+    - fix
+    515:
+    - fix
+    1028:
+    - fix
+    1541:
+    - fix
+    1540:
+    - fix
+    518:
+    - fix
+    1032:
+    - fix
+    522:
+    - fix
+    1037:
+    - fix
+    13:
+    - fix
+    1039:
+    - fix
+    1040:
+    - fix
+    1554:
+    - fix
+    1049:
+    - fix
+    1052:
+    - fix
+    1053:
+    - fix
+    30:
+    - fix
+    545:
+    - fix
+    33:
+    - fix
+    37:
+    - fix
+    38:
+    - fix
+    1574:
+    - fix
+    42:
+    - fix
+    555:
+    - fix
+    1581:
+    - fix
+    1069:
+    - fix
+    559:
+    - fix
+    1071:
+    - fix
+    561:
+    - fix
+    1074:
+    - fix
+    55:
+    - fix
+    56:
+    - fix
+    570:
+    - fix
+    574:
+    - fix
+    1087:
+    - fix
+    66:
+    - fix
+    1605:
+    - fix
+    70:
+    - fix
+    1606:
+    - fix
+    585:
+    - fix
+    1099:
+    - fix
+    75:
+    - fix
+    1101:
+    - fix
+    85:
+    - fix
+    1112:
+    - fix
+    88:
+    - fix
+    1624:
+    - fix
+    90:
+    - fix
+    1628:
+    - fix
+    93:
+    - fix
+    1630:
+    - fix
+    607:
+    - fix
+    1631:
+    - fix
+    608:
+    - fix
+    1122:
+    - fix
+    99:
+    - fix
+    613:
+    - fix
+    1128:
+    - fix
+    1641:
+    - fix
+    1132:
+    - fix
+    109:
+    - fix
+    623:
+    - fix
+    626:
+    - fix
+    115:
+    - fix
+    1140:
+    - fix
+    1657:
+    - fix
+    633:
+    - fix
+    125:
+    - fix
+    1150:
+    - fix
+    130:
+    - fix
+    1156:
+    - fix
+    646:
+    - fix
+    1675:
+    - fix
+    654:
+    - fix
+    142:
+    - fix
+    145:
+    - fix
+    659:
+    - fix
+    660:
+    - fix
+    1172:
+    - fix
+    1174:
+    - fix
+    1694:
+    - fix
+    673:
+    - fix
+    1185:
+    - fix
+    674:
+    - fix
+    1189:
+    - fix
+    677:
+    - fix
+    1191:
+    - fix
+    166:
+    - fix
+    1194:
+    - fix
+    1710:
+    - fix
+    688:
+    - fix
+    1201:
+    - fix
+    689:
+    - fix
+    695:
+    - fix
+    1719:
+    - fix
+    185:
+    - fix
+    186:
+    - fix
+    1722:
+    - fix
+    1211:
+    - fix
+    183:
+    - fix
+    190:
+    - fix
+    192:
+    - fix
+    1729:
+    - fix
+    1732:
+    - fix
+    196:
+    - fix
+    712:
+    - fix
+    1737:
+    - fix
+    1743:
+    - fix
+    1238:
+    - fix
+    727:
+    - fix
+    1244:
+    - fix
+    224:
+    - fix
+    1764:
+    - fix
+    1765:
+    - fix
+    740:
+    - fix
+    1767:
+    - fix
+    234:
+    - fix
+    235:
+    - fix
+    748:
+    - fix
+    236:
+    - fix
+    750:
+    - fix
+    239:
+    - fix
+    1264:
+    - fix
+    1776:
+    - fix
+    758:
+    - fix
+    247:
+    - fix
+    1272:
+    - fix
+    1271:
+    - fix
+    1786:
+    - ent
+    - fix
+    1788:
+    - fix
+    765:
+    - fix
+    1280:
+    - fix
+    257:
+    - fix
+    1798:
+    - fix
+    778:
+    - fix
+    268:
+    - fix
+    1806:
+    - fix
+    1297:
+    - fix
+    1815:
+    - fix
+    1816:
+    - fix
+    793:
+    - fix
+    1818:
+    - fix
+    796:
+    - fix
+    1309:
+    - fix
+    1821:
+    - fix
+    800:
+    - fix
+    1828:
+    - fix
+    1317:
+    - fix
+    1319:
+    - fix
+    811:
+    - fix
+    814:
+    - fix
+    1330:
+    - fix
+    819:
+    - fix
+    314:
+    - fix
+    315:
+    - fix
+    1338:
+    - fix
+    829:
+    - fix
+    1342:
+    - fix
+    1345:
+    - fix
+    324:
+    - fix
+    326:
+    - fix
+    328:
+    - fix
+    842:
+    - fix
+    849:
+    - fix
+    1366:
+    - fix
+    854:
+    - fix
+    863:
+    - fix
+    357:
+    - fix
+    1382:
+    - fix
+    367:
+    - fix
+    368:
+    - fix
+    371:
+    - fix
+    376:
+    - fix
+    382:
+    - fix
+    1410:
+    - fix
+    1411:
+    - fix
+    900:
+    - fix
+    389:
+    - fix
+    1415:
+    - fix
+    1416:
+    - fix
+    393:
+    - fix
+    905:
+    - fix
+    1419:
+    - fix
+    391:
+    - fix
+    1422:
+    - fix
+    912:
+    - fix
+    915:
+    - fix
+    1428:
+    - fix
+    406:
+    - fix
+    923:
+    - fix
+    1435:
+    - fix
+    415:
+    - fix
+    417:
+    - fix
+    418:
+    - fix
+    1444:
+    - fix
+    933:
+    - fix
+    1449:
+    - fix
+    938:
+    - fix
+    939:
+    - fix
+    429:
+    - fix
+    1454:
+    - fix
+    945:
+    - fix
+    948:
+    - fix
+    952:
+    - fix
+    954:
+    - fix
+    1469:
+    - fix
+    446:
+    - fix
+    445:
+    - fix
+    964:
+    - fix
+    968:
+    - fix
+    970:
+    - fix
+    1483:
+    - fix
+    972:
+    - fix
+    971:
+    - fix
+    461:
+    - fix
+    977:
+    - fix
+    981:
+    - fix
+    1494:
+    - fix
+    983:
+    - fix
+    477:
+    - fix
+    1503:
+    - fix
+    1512:
+    - fix
+    1520:
+    - fix
+    1525:
+    - fix
+    1526:
+    - fix
+    1527:
+    - ent
+    - fix
+    1528:
+    - fix
+    1019:
+    - fix
+    1532:
+    - fix
+    1021:
+    - fix

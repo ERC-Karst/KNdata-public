@@ -1,0 +1,1712 @@
+metadata:
+  id_dataset: '033'
+  short_name: WestKingsdale
+  id_subset: '006'
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: UK Cave Registry. (2024). Cave survey [Creative Commons BY-NC-SA 4.0 dataset].
+    https://cave-registry.org.uk
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 710
+  total_depth: 18.98
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 134
+  number_edges: 134
+  mean_degree: 2.0
+  min_degree: 1.0
+  max_degree: 5.0
+  cv_degree: 0.488
+  number_cycles: 1
+  mean_length: 35.53
+  cv_length: 1.57
+  length_entropy: 0.51
+  orientation_3d_entropy: 0.649
+  aspl: 4.83
+  cpd: 0.453
+  correlation_vertex_degree: -0.424
+  original_format: Survex
+  comments_cave_info: From cave registy. org - in NorthernEngland folder
+  full_name: West Kingsdale
+  geometry: .nan
+  units: meter
+  country: UK
+  state: Yorkshire and the Humber
+  area: Carnforth
+  locality: Ingleton
+  grotto_id: '75388'
+  country_cave_id: .nan
+  local_id: 1597 (Keld Head) (Northern Caves)
+  local_coordinate_system: OSGB:SD
+  latitude: 54.1839
+  longitude: -2.4675
+  altitude: '252.81'
+  cave_url: https://grottocenter.org/ui/caves/75388
+  supplemental_links: http://cavemaps.org/cavePages/West%20Kingsdale__Valley%20Entrance.htm
+  data_reception_date: '2023'
+  data_received_by: Celia
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://cave-registry.org.uk
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 513
+  - 1832
+- - 513
+  - 786
+- - 4101
+  - 136
+- - 4101
+  - 2665
+- - 2572
+  - 2443
+- - 2572
+  - 3717
+- - 1549
+  - 1863
+- - 1549
+  - 3841
+- - 3608
+  - 1296
+- - 3608
+  - 4313
+- - 24
+  - 772
+- - 24
+  - 1064
+- - 1055
+  - 833
+- - 1055
+  - 4172
+- - 34
+  - 2491
+- - 34
+  - 668
+- - 37
+  - 3321
+- - 3111
+  - 4033
+- - 3111
+  - 3028
+- - 1064
+  - 111
+- - 4141
+  - 2909
+- - 4141
+  - 3765
+- - 561
+  - 177
+- - 561
+  - 278
+- - 61
+  - 4172
+- - 61
+  - 1490
+- - 3647
+  - 2509
+- - 3647
+  - 3748
+- - 3647
+  - 3928
+- - 3648
+  - 3949
+- - 3648
+  - 4290
+- - 2111
+  - 1863
+- - 2111
+  - 1988
+- - 2629
+  - 2118
+- - 2629
+  - 3056
+- - 4166
+  - 309
+- - 4166
+  - 3844
+- - 4166
+  - 298
+- - 2118
+  - 2391
+- - 1608
+  - 4000
+- - 3657
+  - 1490
+- - 3657
+  - 3885
+- - 1613
+  - 126
+- - 1613
+  - 2650
+- - 1109
+  - 905
+- - 1109
+  - 3875
+- - 2650
+  - 104
+- - 1115
+  - 111
+- - 1115
+  - 126
+- - 609
+  - 2195
+- - 2149
+  - 1250
+- - 2149
+  - 309
+- - 2149
+  - 1882
+- - 104
+  - 2391
+- - 2665
+  - 2878
+- - 2667
+  - 4025
+- - 2667
+  - 4038
+- - 2165
+  - 4006
+- - 2165
+  - 708
+- - 1149
+  - 1793
+- - 639
+  - 4299
+- - 639
+  - 833
+- - 3204
+  - 1186
+- - 3204
+  - 3811
+- - 3717
+  - 2824
+- - 136
+  - 3361
+- - 136
+  - 265
+- - 4233
+  - 4370
+- - 2195
+  - 1296
+- - 662
+  - 1423
+- - 662
+  - 3377
+- - 668
+  - 3361
+- - 1186
+  - 2043
+- - 3748
+  - 3949
+- - 3241
+  - 3328
+- - 3241
+  - 2836
+- - 177
+  - 3377
+- - 3765
+  - 2443
+- - 4281
+  - 2813
+- - 4281
+  - 867
+- - 4290
+  - 2353
+- - 708
+  - 321
+- - 4299
+  - 489
+- - 2765
+  - 867
+- - 2765
+  - 1752
+- - 1752
+  - 1525
+- - 4313
+  - 1882
+- - 4314
+  - 3885
+- - 4314
+  - 1986
+- - 1250
+  - 3844
+- - 3811
+  - 4006
+- - 3821
+  - 2824
+- - 3821
+  - 2964
+- - 3310
+  - 1776
+- - 3310
+  - 388
+- - 1776
+  - 3547
+- - 753
+  - 1793
+- - 753
+  - 1421
+- - 3321
+  - 4000
+- - 2813
+  - 2824
+- - 3328
+  - 3849
+- - 1793
+  - 4038
+- - 772
+  - 1932
+- - 3849
+  - 2430
+- - 1296
+  - 2878
+- - 786
+  - 2043
+- - 1810
+  - 4370
+- - 1810
+  - 3390
+- - 3860
+  - 2960
+- - 3860
+  - 1506
+- - 2836
+  - 2875
+- - 278
+  - 3518
+- - 2844
+  - 1421
+- - 2844
+  - 1863
+- - 3875
+  - 2509
+- - 1832
+  - 2875
+- - 298
+  - 3036
+- - 2353
+  - 4025
+- - 3390
+  - 3547
+- - 321
+  - 1423
+- - 3928
+  - 3036
+- - 2909
+  - 4072
+- - 891
+  - 2475
+- - 2430
+  - 4016
+- - 388
+  - 4033
+- - 905
+  - 1986
+- - 1932
+  - 1988
+- - 2960
+  - 440
+- - 2960
+  - 2475
+- - 4000
+  - 2491
+- - 4016
+  - 1525
+- - 440
+  - 3056
+- - 3518
+  - 489
+- - 3028
+  - 4072
+edge_attributes:
+  flags:
+    ? !!python/tuple
+    - 3647
+    - 2509
+    : - add
+      - add
+    ? !!python/tuple
+    - 4166
+    - 3844
+    : - add
+    ? !!python/tuple
+    - 2149
+    - 1250
+    : - add
+    ? !!python/tuple
+    - 3821
+    - 2824
+    : - add
+    ? !!python/tuple
+    - 1776
+    - 3547
+    : - add
+      - add
+    ? !!python/tuple
+    - 4016
+    - 1525
+    : - add
+      - add
+node_attributes:
+  flags:
+    513:
+    - fix
+    4101:
+    - fix
+    2572:
+    - fix
+    1549:
+    - fix
+    3608:
+    - fix
+    24:
+    - fix
+    1055:
+    - fix
+    34:
+    - fix
+    37:
+    - ent
+    - fix
+    3111:
+    - fix
+    1064:
+    - fix
+    4141:
+    - fix
+    561:
+    - fix
+    61:
+    - fix
+    3647:
+    - fix
+    3648:
+    - fix
+    2111:
+    - fix
+    2629:
+    - fix
+    4166:
+    - fix
+    2118:
+    - ent
+    - fix
+    1608:
+    - ent
+    - fix
+    3657:
+    - fix
+    4172:
+    - fix
+    1613:
+    - ent
+    - fix
+    1109:
+    - fix
+    2650:
+    - fix
+    1115:
+    - fix
+    609:
+    - fix
+    2149:
+    - fix
+    104:
+    - fix
+    2665:
+    - fix
+    2667:
+    - fix
+    111:
+    - fix
+    2165:
+    - fix
+    1149:
+    - fix
+    126:
+    - fix
+    639:
+    - fix
+    3204:
+    - fix
+    3717:
+    - fix
+    136:
+    - fix
+    4233:
+    - ent
+    - fix
+    2195:
+    - fix
+    662:
+    - fix
+    668:
+    - fix
+    1186:
+    - fix
+    3748:
+    - fix
+    3241:
+    - fix
+    177:
+    - fix
+    3765:
+    - fix
+    4281:
+    - fix
+    4290:
+    - fix
+    708:
+    - fix
+    4299:
+    - fix
+    2765:
+    - fix
+    1752:
+    - fix
+    4313:
+    - fix
+    4314:
+    - fix
+    1250:
+    - fix
+    3811:
+    - fix
+    3821:
+    - fix
+    3310:
+    - fix
+    1776:
+    - ent
+    - fix
+    753:
+    - fix
+    3321:
+    - fix
+    2813:
+    - fix
+    3328:
+    - fix
+    1793:
+    - fix
+    3841:
+    - fix
+    3844:
+    - fix
+    772:
+    - fix
+    2824:
+    - fix
+    265:
+    - ent
+    - fix
+    3849:
+    - fix
+    1296:
+    - fix
+    786:
+    - fix
+    1810:
+    - fix
+    3860:
+    - fix
+    2836:
+    - fix
+    278:
+    - fix
+    4370:
+    - fix
+    2844:
+    - fix
+    3361:
+    - fix
+    3875:
+    - fix
+    1832:
+    - ent
+    - fix
+    298:
+    - fix
+    3885:
+    - fix
+    2353:
+    - fix
+    3377:
+    - fix
+    309:
+    - fix
+    2875:
+    - fix
+    2878:
+    - fix
+    3390:
+    - fix
+    833:
+    - fix
+    321:
+    - fix
+    1863:
+    - fix
+    2391:
+    - fix
+    3928:
+    - fix
+    1882:
+    - fix
+    2909:
+    - fix
+    867:
+    - fix
+    3949:
+    - fix
+    891:
+    - ent
+    - fix
+    2430:
+    - fix
+    388:
+    - fix
+    905:
+    - fix
+    2443:
+    - fix
+    1932:
+    - fix
+    1421:
+    - fix
+    1423:
+    - fix
+    2960:
+    - fix
+    2964:
+    - fix
+    4000:
+    - fix
+    4006:
+    - fix
+    2475:
+    - fix
+    4016:
+    - fix
+    440:
+    - fix
+    4025:
+    - fix
+    2491:
+    - fix
+    3518:
+    - fix
+    4033:
+    - fix
+    1986:
+    - fix
+    1988:
+    - fix
+    4038:
+    - fix
+    2509:
+    - fix
+    1490:
+    - fix
+    3028:
+    - fix
+    3547:
+    - ent
+    - fix
+    3036:
+    - fix
+    1506:
+    - fix
+    4072:
+    - fix
+    489:
+    - fix
+    3056:
+    - fix
+    1525:
+    - fix
+    2043:
+    - fix
+  pos:
+    513:
+    - 534942.78
+    - 6005780.84
+    - 365.24
+    4101:
+    - 534941.89
+    - 6005573.73
+    - 356.21
+    2572:
+    - 534977.81
+    - 6005863.15
+    - 367.01
+    1549:
+    - 534898.49
+    - 6005586.88
+    - 362.51
+    3608:
+    - 534926.76
+    - 6005581.99
+    - 357.49
+    24:
+    - 534890.18
+    - 6005588.19
+    - 361.14
+    1055:
+    - 534941.38
+    - 6005693.99
+    - 359.52
+    34:
+    - 534951.64
+    - 6005582.16
+    - 352.65
+    37:
+    - 534960.77
+    - 6005590.52
+    - 351.95
+    3111:
+    - 534993.21
+    - 6005912.53
+    - 367.86
+    1064:
+    - 534887.76
+    - 6005589.4
+    - 361.73
+    4141:
+    - 534983.05
+    - 6005882.55
+    - 367.26
+    561:
+    - 534938.36
+    - 6005719.63
+    - 363.81
+    61:
+    - 534940.29
+    - 6005690.05
+    - 358.69
+    3647:
+    - 534933.69
+    - 6005639.96
+    - 358.93
+    3648:
+    - 534929.84
+    - 6005638.29
+    - 359.1
+    2111:
+    - 534897.34
+    - 6005588.59
+    - 361.73
+    2629:
+    - 534849.93
+    - 6005569.34
+    - 364.23
+    4166:
+    - 534925.76
+    - 6005609.17
+    - 358.28
+    2118:
+    - 534855.01
+    - 6005572.66
+    - 363.24
+    1608:
+    - 534965.5
+    - 6005591.67
+    - 350.61
+    3657:
+    - 534937.86
+    - 6005676.6
+    - 359.39
+    4172:
+    - 534939.86
+    - 6005692.19
+    - 359.06
+    1613:
+    - 534865.69
+    - 6005577.01
+    - 363.22
+    1109:
+    - 534934.76
+    - 6005647.63
+    - 358.33
+    2650:
+    - 534862.25
+    - 6005573.77
+    - 363.73
+    1115:
+    - 534882.05
+    - 6005584.34
+    - 361.94
+    609:
+    - 534926.93
+    - 6005567.48
+    - 358.86
+    2149:
+    - 534929.94
+    - 6005603.07
+    - 358.31
+    104:
+    - 534860.72
+    - 6005574.24
+    - 363.72
+    2665:
+    - 534938.13
+    - 6005567.68
+    - 356.32
+    2667:
+    - 534912.45
+    - 6005608.28
+    - 360.74
+    111:
+    - 534883.33
+    - 6005587.39
+    - 361.91
+    2165:
+    - 534933.02
+    - 6005752.72
+    - 364.84
+    1149:
+    - 534907.09
+    - 6005606.03
+    - 360.54
+    126:
+    - 534866.42
+    - 6005580.24
+    - 362.79
+    639:
+    - 534943.11
+    - 6005701.48
+    - 360.62
+    3204:
+    - 534936.16
+    - 6005759.44
+    - 365.1
+    3717:
+    - 534971.92
+    - 6005848.93
+    - 366.37
+    136:
+    - 534942.37
+    - 6005572.94
+    - 355.98
+    4233:
+    - 535020.08
+    - 6005936.39
+    - 369.56
+    2195:
+    - 534929.32
+    - 6005571.28
+    - 358.81
+    662:
+    - 534937.19
+    - 6005731.31
+    - 364.22
+    668:
+    - 534945.63
+    - 6005584.29
+    - 354.2
+    1186:
+    - 534940.98
+    - 6005769.47
+    - 365.18
+    3748:
+    - 534932.03
+    - 6005644.64
+    - 359.27
+    3241:
+    - 534956.44
+    - 6005794.03
+    - 366.17
+    177:
+    - 534939.98
+    - 6005723.07
+    - 363.46
+    3765:
+    - 534980.64
+    - 6005872.01
+    - 366.78
+    4281:
+    - 534965.47
+    - 6005829.22
+    - 365.82
+    4290:
+    - 534923.55
+    - 6005620.02
+    - 359.51
+    708:
+    - 534931.06
+    - 6005748.09
+    - 364.64
+    4299:
+    - 534943.52
+    - 6005712.19
+    - 359.88
+    2765:
+    - 534964.02
+    - 6005822.95
+    - 366.05
+    1752:
+    - 534962.41
+    - 6005822.82
+    - 366.23
+    4313:
+    - 534929.09
+    - 6005593.47
+    - 358.0
+    4314:
+    - 534935.95
+    - 6005667.81
+    - 358.87
+    1250:
+    - 534927.76
+    - 6005604.19
+    - 359.55
+    3811:
+    - 534935.3
+    - 6005759.42
+    - 364.85
+    3821:
+    - 534969.06
+    - 6005838.01
+    - 366.23
+    3310:
+    - 535002.77
+    - 6005925.75
+    - 368.33
+    1776:
+    - 535004.04
+    - 6005928.87
+    - 369.15
+    753:
+    - 534905.16
+    - 6005602.53
+    - 360.59
+    3321:
+    - 534958.56
+    - 6005593.24
+    - 351.08
+    2813:
+    - 534966.81
+    - 6005832.64
+    - 366.04
+    3328:
+    - 534959.93
+    - 6005801.75
+    - 366.19
+    1793:
+    - 534907.13
+    - 6005602.53
+    - 360.48
+    3841:
+    - 534897.42
+    - 6005582.01
+    - 362.6
+    3844:
+    - 534928.84
+    - 6005611.06
+    - 360.24
+    772:
+    - 534892.03
+    - 6005590.04
+    - 360.98
+    2824:
+    - 534969.84
+    - 6005838.47
+    - 366.32
+    265:
+    - 534942.37
+    - 6005572.94
+    - 358.48
+    3849:
+    - 534957.01
+    - 6005810.64
+    - 366.32
+    1296:
+    - 534931.4
+    - 6005574.42
+    - 356.76
+    786:
+    - 534942.73
+    - 6005774.31
+    - 365.15
+    1810:
+    - 535015.34
+    - 6005936.22
+    - 369.34
+    3860:
+    - 534836.91
+    - 6005567.01
+    - 364.61
+    2836:
+    - 534956.44
+    - 6005790.56
+    - 366.21
+    278:
+    - 534938.22
+    - 6005716.09
+    - 363.28
+    4370:
+    - 535018.13
+    - 6005935.32
+    - 369.59
+    2844:
+    - 534900.24
+    - 6005595.29
+    - 361.86
+    3361:
+    - 534943.42
+    - 6005575.81
+    - 356.0
+    3875:
+    - 534931.78
+    - 6005647.42
+    - 358.51
+    1832:
+    - 534950.64
+    - 6005786.43
+    - 365.99
+    298:
+    - 534931.04
+    - 6005614.36
+    - 358.45
+    3885:
+    - 534937.71
+    - 6005670.78
+    - 359.48
+    2353:
+    - 534915.11
+    - 6005614.88
+    - 359.51
+    3377:
+    - 534936.66
+    - 6005729.48
+    - 363.82
+    309:
+    - 534925.0
+    - 6005605.28
+    - 358.3
+    2875:
+    - 534954.3
+    - 6005786.21
+    - 366.07
+    2878:
+    - 534930.01
+    - 6005571.1
+    - 357.22
+    3390:
+    - 535012.71
+    - 6005935.36
+    - 369.35
+    833:
+    - 534941.63
+    - 6005696.34
+    - 360.23
+    321:
+    - 534932.7
+    - 6005742.86
+    - 364.32
+    1863:
+    - 534899.87
+    - 6005591.85
+    - 361.88
+    2391:
+    - 534856.43
+    - 6005570.77
+    - 363.9
+    3928:
+    - 534929.17
+    - 6005631.86
+    - 358.37
+    1882:
+    - 534932.17
+    - 6005596.94
+    - 358.58
+    2909:
+    - 534985.83
+    - 6005886.36
+    - 367.22
+    867:
+    - 534965.83
+    - 6005826.85
+    - 366.47
+    3949:
+    - 534929.64
+    - 6005643.5
+    - 359.15
+    891:
+    - 534836.64
+    - 6005558.36
+    - 365.69
+    2430:
+    - 534959.27
+    - 6005814.54
+    - 366.35
+    388:
+    - 535004.1
+    - 6005916.85
+    - 368.02
+    905:
+    - 534934.05
+    - 6005650.97
+    - 358.47
+    2443:
+    - 534979.1
+    - 6005869.59
+    - 366.76
+    1932:
+    - 534893.36
+    - 6005588.6
+    - 361.25
+    1421:
+    - 534903.03
+    - 6005598.93
+    - 361.42
+    1423:
+    - 534932.33
+    - 6005733.86
+    - 363.89
+    2960:
+    - 534840.4
+    - 6005564.52
+    - 364.16
+    2964:
+    - 534971.73
+    - 6005836.25
+    - 366.42
+    4000:
+    - 534958.83
+    - 6005595.61
+    - 351.42
+    4006:
+    - 534934.45
+    - 6005753.46
+    - 364.53
+    2475:
+    - 534838.92
+    - 6005564.12
+    - 364.27
+    4016:
+    - 534960.22
+    - 6005815.36
+    - 366.31
+    440:
+    - 534843.19
+    - 6005565.66
+    - 363.97
+    4025:
+    - 534914.91
+    - 6005612.83
+    - 359.44
+    2491:
+    - 534952.78
+    - 6005586.84
+    - 351.17
+    3518:
+    - 534941.64
+    - 6005713.62
+    - 362.87
+    4033:
+    - 534998.09
+    - 6005913.88
+    - 368.26
+    1986:
+    - 534935.95
+    - 6005661.3
+    - 358.68
+    1988:
+    - 534896.87
+    - 6005591.01
+    - 361.63
+    4038:
+    - 534910.93
+    - 6005604.14
+    - 360.24
+    2509:
+    - 534933.97
+    - 6005641.53
+    - 358.99
+    1490:
+    - 534940.68
+    - 6005683.76
+    - 359.0
+    3028:
+    - 534991.1
+    - 6005900.91
+    - 367.45
+    3547:
+    - 535009.24
+    - 6005935.85
+    - 369.13
+    3036:
+    - 534929.27
+    - 6005622.28
+    - 358.35
+    1506:
+    - 534833.36
+    - 6005567.32
+    - 365.36
+    4072:
+    - 534987.69
+    - 6005895.03
+    - 367.54
+    489:
+    - 534940.72
+    - 6005711.03
+    - 360.8
+    3056:
+    - 534847.0
+    - 6005570.36
+    - 364.19
+    1525:
+    - 534960.11
+    - 6005815.37
+    - 366.18
+    2043:
+    - 534941.51
+    - 6005772.82
+    - 365.47
+  idsql:
+    513:
+    - 359
+    4101:
+    - 172
+    2572:
+    - 341
+    1549:
+    - 2416
+    3608:
+    - 176
+    24:
+    - 2422
+    1055:
+    - 380
+    34:
+    - 168
+    37:
+    - 164
+    3111:
+    - 334
+    1064:
+    - 2423
+    4141:
+    - 338
+    561:
+    - 373
+    61:
+    - 382
+    3647:
+    - 393
+    3648:
+    - 2401
+    2111:
+    - 2418
+    2629:
+    - 2432
+    4166:
+    - 95
+    2118:
+    - 2431
+    1608:
+    - 2399
+    3657:
+    - 384
+    4172:
+    - 381
+    1613:
+    - 2427
+    1109:
+    - 389
+    2650:
+    - 2428
+    1115:
+    - 2425
+    609:
+    - 2410
+    2149:
+    - 92
+    104:
+    - 2429
+    2665:
+    - 173
+    2667:
+    - 2405
+    111:
+    - 2424
+    2165:
+    - 366
+    1149:
+    - 2408
+    126:
+    - 2426
+    639:
+    - 378
+    3204:
+    - 363
+    3717:
+    - 342
+    136:
+    - 171
+    4233:
+    - 324
+    2195:
+    - 2409
+    662:
+    - 370
+    668:
+    - 169
+    1186:
+    - 362
+    3748:
+    - 392
+    3241:
+    - 355
+    177:
+    - 372
+    3765:
+    - 339
+    4281:
+    - 345
+    4290:
+    - 2402
+    708:
+    - 367
+    4299:
+    - 377
+    2765:
+    - 347
+    1752:
+    - 348
+    4313:
+    - 177
+    4314:
+    - 386
+    1250:
+    - 93
+    3811:
+    - 364
+    3821:
+    - 2441
+    3310:
+    - 331
+    1776:
+    - 330
+    753:
+    - 2412
+    3321:
+    - 165
+    2813:
+    - 344
+    3328:
+    - 354
+    1793:
+    - 2407
+    3841:
+    - 2417
+    3844:
+    - 94
+    772:
+    - 2421
+    2824:
+    - 343
+    265:
+    - 2411
+    3849:
+    - 353
+    1296:
+    - 175
+    786:
+    - 360
+    1810:
+    - 326
+    3860:
+    - 2438
+    2836:
+    - 356
+    278:
+    - 374
+    4370:
+    - 325
+    2844:
+    - 2414
+    3361:
+    - 170
+    3875:
+    - 390
+    1832:
+    - 358
+    298:
+    - 396
+    3885:
+    - 385
+    2353:
+    - 2403
+    3377:
+    - 371
+    309:
+    - 96
+    2875:
+    - 357
+    2878:
+    - 174
+    3390:
+    - 327
+    833:
+    - 379
+    321:
+    - 368
+    1863:
+    - 2415
+    2391:
+    - 2430
+    3928:
+    - 394
+    1882:
+    - 178
+    2909:
+    - 337
+    867:
+    - 346
+    3949:
+    - 2400
+    891:
+    - 2437
+    2430:
+    - 352
+    388:
+    - 332
+    905:
+    - 388
+    2443:
+    - 340
+    1932:
+    - 2420
+    1421:
+    - 2413
+    1423:
+    - 369
+    2960:
+    - 2435
+    2964:
+    - 2442
+    4000:
+    - 166
+    4006:
+    - 365
+    2475:
+    - 2436
+    4016:
+    - 351
+    440:
+    - 2434
+    4025:
+    - 2404
+    2491:
+    - 167
+    3518:
+    - 375
+    4033:
+    - 333
+    1986:
+    - 387
+    1988:
+    - 2419
+    4038:
+    - 2406
+    2509:
+    - 391
+    1490:
+    - 383
+    3028:
+    - 335
+    3547:
+    - 328
+    3036:
+    - 395
+    1506:
+    - 2439
+    4072:
+    - 336
+    489:
+    - 376
+    3056:
+    - 2433
+    1525:
+    - 349
+    2043:
+    - 361
+  fulladdress:
+    513:
+    - wks.rowtencaves.jinglingmiddle.20
+    4101:
+    - wks.rowtencaves.rowtencavemiddle.25
+    2572:
+    - wks.rowtencaves.jinglingcavetop2.11
+    1549:
+    - wks.rowtencaves.rowtencavetop2.a
+    3608:
+    - wks.rowtencaves.rowtencavemiddle.21
+    24:
+    - wks.rowtencaves.rowtencavetop.18
+    1055:
+    - wks.rowtencaves.jinglinginlet2.4
+    34:
+    - wks.rowtencaves.rowtencavebottom.8
+    37:
+    - wks.rowtencaves.rowtencavebottom.3
+    3111:
+    - wks.rowtencaves.jinglingcavetop2.4
+    1064:
+    - wks.rowtencaves.rowtencavetop.17
+    4141:
+    - wks.rowtencaves.jinglingcavetop2.8
+    561:
+    - wks.rowtencaves.jinglingmiddle.6
+    61:
+    - wks.rowtencaves.jinglinginlet2.2
+    3647:
+    - wks.rowtencaves.rowtencavemiddle.12
+    3648:
+    - wks.rowtencaves.rowtencavemiddle.9
+    2111:
+    - wks.rowtencaves.rowtencavetop2.22
+    2629:
+    - wks.rowtencaves.rowtencavetop.8
+    4166:
+    - wks.rowtencaves.rowtencavemiddle.16
+    2118:
+    - wks.rowtencaves.rowtencavetop.9
+    1608:
+    - wks.rowtencaves.rowtencavebottom.6
+    3657:
+    - wks.rowtencaves.jinglinginlet.9
+    4172:
+    - wks.rowtencaves.jinglinginlet2.3
+    1613:
+    - wks.rowtencaves.rowtencavetop.13
+    1109:
+    - wks.rowtencaves.jinglinginlet.4
+    2650:
+    - wks.rowtencaves.rowtencavetop.12
+    1115:
+    - wks.rowtencaves.rowtencavetop.15
+    609:
+    - wks.rowtencaves.rowtencavemiddle.22b
+    2149:
+    - wks.rowtencaves.rowtencavemiddle.18
+    104:
+    - wks.rowtencaves.rowtencavetop.11
+    2665:
+    - wks.rowtencaves.rowtencavemiddle.24
+    2667:
+    - wks.rowtencaves.rowtencavemiddle.5
+    111:
+    - wks.rowtencaves.rowtencavetop.16
+    2165:
+    - wks.rowtencaves.jinglingmiddle.13
+    1149:
+    - wks.rowtencaves.rowtencavemiddle.3a
+    126:
+    - wks.rowtencaves.rowtencavetop.14
+    639:
+    - wks.rowtencaves.jinglingmiddle.1
+    3204:
+    - wks.rowtencaves.jinglingmiddle.16
+    3717:
+    - wks.rowtencaves.jinglingcavetop2.12
+    136:
+    - wks.rowtencaves.rowtencavemiddle.26
+    4233:
+    - wks.rowtencaves.jinglingcavetop.3
+    2195:
+    - wks.rowtencaves.rowtencavemiddle.22a
+    662:
+    - wks.rowtencaves.jinglingmiddle.9
+    668:
+    - wks.rowtencaves.rowtencavebottom.9
+    1186:
+    - wks.rowtencaves.jinglingmiddle.17
+    3748:
+    - wks.rowtencaves.rowtencavemiddle.x11
+    3241:
+    - wks.rowtencaves.jinglingmiddle.24
+    177:
+    - wks.rowtencaves.jinglingmiddle.7
+    3765:
+    - wks.rowtencaves.jinglingcavetop2.9
+    4281:
+    - wks.rowtencaves.jinglingcavetop2.15
+    4290:
+    - wks.rowtencaves.rowtencavemiddle.8
+    708:
+    - wks.rowtencaves.jinglingmiddle.12
+    4299:
+    - wks.rowtencaves.jinglingmiddle.2
+    2765:
+    - wks.rowtencaves.jinglingcavetop2.17
+    1752:
+    - wks.rowtencaves.jinglingcavetop2.18
+    4313:
+    - wks.rowtencaves.rowtencavemiddle.x20
+    4314:
+    - wks.rowtencaves.jinglinginlet.7
+    1250:
+    - wks.rowtencaves.rowtencavemiddle.18a
+    3811:
+    - wks.rowtencaves.jinglingmiddle.15
+    3821:
+    - wks.rowtencaves.jinglingcavetop2.13a
+    3310:
+    - wks.rowtencaves.jinglingcavetop2.1
+    1776:
+    - wks.rowtencaves.jinglingcavetop2.9x
+    753:
+    - wks.rowtencaves.rowtencavemiddle.2
+    3321:
+    - wks.rowtencaves.rowtencavebottom.4
+    2813:
+    - wks.rowtencaves.jinglingcavetop2.14
+    3328:
+    - wks.rowtencaves.jinglingmiddle.25
+    1793:
+    - wks.rowtencaves.rowtencavemiddle.3
+    3841:
+    - wks.rowtencaves.rowtencavetop2.b
+    3844:
+    - wks.rowtencaves.rowtencavemiddle.18b
+    772:
+    - wks.rowtencaves.rowtencavetop2.19
+    2824:
+    - wks.rowtencaves.jinglingcavetop2.13
+    265:
+    - wks.rowtencaves.rowtencavemiddle.26e
+    3849:
+    - wks.rowtencaves.jinglingmiddle.26
+    1296:
+    - wks.rowtencaves.rowtencavemiddle.22
+    786:
+    - wks.rowtencaves.jinglingmiddle.19
+    1810:
+    - wks.rowtencaves.jinglingcavetop.5
+    3860:
+    - wks.rowtencaves.rowtencavetop.4
+    2836:
+    - wks.rowtencaves.jinglingmiddle.23
+    278:
+    - wks.rowtencaves.jinglingmiddle.5
+    4370:
+    - wks.rowtencaves.jinglingcavetop.4
+    2844:
+    - wks.rowtencaves.rowtencavetop2.24
+    3361:
+    - wks.rowtencaves.rowtencavebottom.10
+    3875:
+    - wks.rowtencaves.jinglinginlet.3
+    1832:
+    - wks.rowtencaves.jinglingmiddle.21
+    298:
+    - wks.rowtencaves.rowtencavemiddle.15
+    3885:
+    - wks.rowtencaves.jinglinginlet.8
+    2353:
+    - wks.rowtencaves.rowtencavemiddle.7
+    3377:
+    - wks.rowtencaves.jinglingmiddle.8
+    309:
+    - wks.rowtencaves.rowtencavemiddle.17
+    2875:
+    - wks.rowtencaves.jinglingmiddle.22
+    2878:
+    - wks.rowtencaves.rowtencavemiddle.23
+    3390:
+    - wks.rowtencaves.jinglingcavetop.6
+    833:
+    - wks.rowtencaves.jinglinginlet2.5
+    321:
+    - wks.rowtencaves.jinglingmiddle.11
+    1863:
+    - wks.rowtencaves.rowtencavetop2.23
+    2391:
+    - wks.rowtencaves.rowtencavetop.10
+    3928:
+    - wks.rowtencaves.rowtencavemiddle.13
+    1882:
+    - wks.rowtencaves.rowtencavemiddle.19
+    2909:
+    - wks.rowtencaves.jinglingcavetop2.7
+    867:
+    - wks.rowtencaves.jinglingcavetop2.16
+    3949:
+    - wks.rowtencaves.rowtencavemiddle.10
+    891:
+    - wks.rowtencaves.rowtencavetop.1
+    2430:
+    - wks.rowtencaves.jinglingmiddle.27
+    388:
+    - wks.rowtencaves.jinglingcavetop2.2
+    905:
+    - wks.rowtencaves.jinglinginlet.5
+    2443:
+    - wks.rowtencaves.jinglingcavetop2.10
+    1932:
+    - wks.rowtencaves.rowtencavetop2.20
+    1421:
+    - wks.rowtencaves.rowtencavetop2.25
+    1423:
+    - wks.rowtencaves.jinglingmiddle.10
+    2960:
+    - wks.rowtencaves.rowtencavetop.3
+    2964:
+    - wks.rowtencaves.jinglingcavetop2.13b
+    4000:
+    - wks.rowtencaves.rowtencavebottom.5
+    4006:
+    - wks.rowtencaves.jinglingmiddle.14
+    2475:
+    - wks.rowtencaves.rowtencavetop.2
+    4016:
+    - wks.rowtencaves.jinglingmiddle.28
+    440:
+    - wks.rowtencaves.rowtencavetop.6
+    4025:
+    - wks.rowtencaves.rowtencavemiddle.6
+    2491:
+    - wks.rowtencaves.rowtencavebottom.7
+    3518:
+    - wks.rowtencaves.jinglingmiddle.4
+    4033:
+    - wks.rowtencaves.jinglingcavetop2.3
+    1986:
+    - wks.rowtencaves.jinglinginlet.6
+    1988:
+    - wks.rowtencaves.rowtencavetop2.21
+    4038:
+    - wks.rowtencaves.rowtencavemiddle.4
+    2509:
+    - wks.rowtencaves.jinglinginlet.2
+    1490:
+    - wks.rowtencaves.jinglinginlet2.1
+    3028:
+    - wks.rowtencaves.jinglingcavetop2.5
+    3547:
+    - wks.rowtencaves.jinglingcavetop.7
+    3036:
+    - wks.rowtencaves.rowtencavemiddle.14
+    1506:
+    - wks.rowtencaves.rowtencavetop.5
+    4072:
+    - wks.rowtencaves.jinglingcavetop2.6
+    489:
+    - wks.rowtencaves.jinglingmiddle.3
+    3056:
+    - wks.rowtencaves.rowtencavetop.7
+    1525:
+    - wks.rowtencaves.jinglingcavetop2.19
+    2043:
+    - wks.rowtencaves.jinglingmiddle.18

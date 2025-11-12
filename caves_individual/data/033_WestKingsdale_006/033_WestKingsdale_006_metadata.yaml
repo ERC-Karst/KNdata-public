@@ -1,0 +1,58 @@
+id_dataset: '033'
+short_name: WestKingsdale
+id_subset: '006'
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: UK Cave Registry. (2024). Cave survey [Creative Commons BY-NC-SA 4.0 dataset].
+  https://cave-registry.org.uk
+thanks: .nan
+sharing_conditions: .nan
+total_length: 710
+total_depth: 18.98
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 134
+number_edges: 134
+mean_degree: 2.0
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.488
+number_cycles: 1
+mean_length: 35.53
+cv_length: 1.57
+length_entropy: 0.51
+orientation_3d_entropy: 0.649
+aspl: 4.83
+cpd: 0.453
+correlation_vertex_degree: -0.424
+original_format: Survex
+comments_cave_info: From cave registy. org - in NorthernEngland folder
+full_name: West Kingsdale
+geometry: .nan
+units: meter
+country: UK
+state: Yorkshire and the Humber
+area: Carnforth
+locality: Ingleton
+grotto_id: '75388'
+country_cave_id: .nan
+local_id: 1597 (Keld Head) (Northern Caves)
+local_coordinate_system: OSGB:SD
+latitude: 54.1839
+longitude: -2.4675
+altitude: '252.81'
+cave_url: https://grottocenter.org/ui/caves/75388
+supplemental_links: http://cavemaps.org/cavePages/West%20Kingsdale__Valley%20Entrance.htm
+data_reception_date: '2023'
+data_received_by: Celia
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://cave-registry.org.uk
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

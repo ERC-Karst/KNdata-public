@@ -1,0 +1,58 @@
+id_dataset: '037'
+short_name: FountainsFell
+id_subset: '002'
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: UK Cave Registry. (2024). Cave survey [Creative Commons BY-NC-SA 4.0 dataset].
+  https://cave-registry.org.uk
+thanks: .nan
+sharing_conditions: .nan
+total_length: 3766
+total_depth: 44.12
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 349
+number_edges: 348
+mean_degree: 1.96
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.534
+number_cycles: 0
+mean_length: 85.61
+cv_length: 1.37
+length_entropy: 0.54
+orientation_3d_entropy: 0.68
+aspl: 7.89
+cpd: 0.392
+correlation_vertex_degree: -0.333
+original_format: Survex
+comments_cave_info: .nan
+full_name: Fountains Fell
+geometry: .nan
+units: meter
+country: UK
+state: Yorkshire
+area: Helwith Bridge
+locality: Pen-y-ghent
+grotto_id: 31815 (Gingling) 31813 (Dale Head) 31814 (Echo) 31818 (Hammer) 31821 (Foul)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: OSGB:SD / Local
+latitude: 54.137652
+longitude: -2.234087
+altitude: .nan
+cave_url: https://grottocenter.org/ui/entrances/31815
+supplemental_links: http://cavemaps.org/cavesnc2.htm
+data_reception_date: '2023'
+data_received_by: Celia
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://cave-registry.org.uk/svn/NorthernEngland/
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

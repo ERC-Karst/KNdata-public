@@ -1,0 +1,58 @@
+id_dataset: '036'
+short_name: ShkembejtJames
+id_subset: '000'
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 11 Nov 2025
+license: TBD
+citation: .nan
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2808
+total_depth: 532.54
+percentage_csdim: 0
+number_connected_components: 7
+number_nodes: 420
+number_edges: 413
+mean_degree: 1.52
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.626
+number_cycles: 0
+mean_length: 127.66
+cv_length: 1.06
+length_entropy: 0.8
+orientation_3d_entropy: 0.822
+aspl: 1.64
+cpd: 0.029
+correlation_vertex_degree: -0.582
+original_format: Survex
+comments_cave_info: Cave was named Albania. the cave is not present in the grotto
+  center. in folder Northern England, Foreign bodies
+full_name: shkembejt e james
+geometry: .nan
+units: meter
+country: Albania
+state: Shkodër
+area: Berizhdoli
+locality: Shkembejt e James
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:32634
+latitude: 42.504
+longitude: 19.7439
+altitude: '1810'
+cave_url: .nan
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

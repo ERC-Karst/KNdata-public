@@ -1,0 +1,63 @@
+id_dataset: '007'
+short_name: Tsanfleuron
+id_subset: '005'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: Groupe de Spéléologie Rhodanien (GSR), Société Spéléologique Genevoise (SSG),
+  Spéléo-Club Jura (SCJ), & Groupe Spéléo Lausanne (GSL). (2024). Base de données
+  topographique des systèmes karstique du lapiaz de Tsanfleuron (Unpublished raw data).
+  [Dataset].
+thanks: 'Thanks to Louis Stahelin for sharing the data with us, and to the GSR (Groupe
+  de Spéléologie Rhodanien), SSG (Société Spéléologique Genevoise), SCJ (Spéléo-Club
+  Jura), and GSL (Groupe Spéléo Lausanne) who explored, surveyed and mapped the conduits,
+  and whithout whom this work would not have been possible. '
+sharing_conditions: .nan
+total_length: 631
+total_depth: 132.48
+percentage_csdim: 100
+number_connected_components: 1
+number_nodes: 99
+number_edges: 99
+mean_degree: 2.0
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.624
+number_cycles: 1
+mean_length: 37.15
+cv_length: 1.5
+length_entropy: 0.56
+orientation_3d_entropy: 0.642
+aspl: 4.0
+cpd: 0.424
+correlation_vertex_degree: -0.53
+original_format: Visual Topo
+comments_cave_info: Tenir Louis au courant du travail de Ana
+full_name: Lapiaz Tsanfleuron
+geometry: lrud
+units: meter
+country: Switzerland
+state: Valais/Wallis
+area: Glacier de Tsanfleuron
+locality: Savièse
+grotto_id: 37275 (G16)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: CH1903/LV03
+latitude: 46.3149
+longitude: 7.2739
+altitude: '2290'
+cave_url: https://grottocenter.org/ui/entrances/36666
+supplemental_links: http://mdemierre.speleologie.ch/?p=2584
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: GSR,SSG,SCJ,GSL
+website: .nan
+email_correspondant: louis.stahelin@icloud.com
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

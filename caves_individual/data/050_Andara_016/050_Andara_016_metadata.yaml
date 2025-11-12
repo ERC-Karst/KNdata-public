@@ -1,0 +1,58 @@
+id_dataset: '050'
+short_name: Andara
+id_subset: '016'
+status: clean
+type_of_correction: semi-automatic correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: .nan
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1043
+total_depth: 456.11
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 68
+number_edges: 67
+mean_degree: 1.75
+min_degree: 1.0
+max_degree: 17.0
+cv_degree: 0.591
+number_cycles: 0
+mean_length: 149.0
+cv_length: 0.91
+length_entropy: 0.76
+orientation_3d_entropy: 0.591
+aspl: 2.32
+cpd: 0.565
+correlation_vertex_degree: -0.556
+original_format: Survex
+comments_cave_info: used .3d instead of translating project. too many issues with
+  translation
+full_name: Andara
+geometry: .nan
+units: meter
+country: Spain
+state: Cantabrie
+area: Parc national des Picos de Europa
+locality: Palacio
+grotto_id: /
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:32630
+latitude: 43.2161538
+longitude: -4.7242563
+altitude: '1785'
+cave_url: https://hinko.org/hinko/Dowloads/BCRA/BCRA%2011-4-1984.pdf
+supplemental_links: https://tresvisocaves.info/tresviso.php?cave=65
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

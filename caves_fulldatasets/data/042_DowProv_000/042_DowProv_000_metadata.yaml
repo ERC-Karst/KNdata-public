@@ -1,0 +1,58 @@
+id_dataset: '042'
+short_name: DowProv
+id_subset: '000'
+status: clean
+type_of_correction: no correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: UK Cave Registry. (2024). Cave survey [Creative Commons BY-NC-SA 4.0 dataset].
+  https://cave-registry.org.uk
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2621
+total_depth: 75.14
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 412
+number_edges: 412
+mean_degree: 2.0
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.548
+number_cycles: 1
+mean_length: 53.5
+cv_length: 1.72
+length_entropy: 0.4
+orientation_3d_entropy: 0.651
+aspl: 8.88
+cpd: 0.411
+correlation_vertex_degree: -0.499
+original_format: Survex
+comments_cave_info: .nan
+full_name: Dow Prov
+geometry: .nan
+units: meter
+country: UK
+state: England
+area: North Yorkshire
+locality: Kettlewell
+grotto_id: 31672 (Dow) 31677 (Providence)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: OSGB:SD
+latitude: 54.1645
+longitude: -2.027533
+altitude: '400'
+cave_url: https://grottocenter.org/ui/entrances/31672
+supplemental_links: https://grottocenter.org/ui/entrances/31677
+data_reception_date: '2023'
+data_received_by: Celia
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://cave-registry.org.uk/svn/NorthernEngland/
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

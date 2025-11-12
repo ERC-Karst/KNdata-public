@@ -1,0 +1,68 @@
+id_dataset: '015'
+short_name: CountyClare
+id_subset: '017'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: 'University of Bristol Spelæological Society. (1919). County Clare Cave
+  Survey (Ireland) [Creative Commons BY-NC-SA 4.0 dataset]. https://www.ubss.org.uk
+
+  '
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1114
+total_depth: 73.71
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 194
+number_edges: 194
+mean_degree: 2.0
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.507
+number_cycles: 1
+mean_length: 29.34
+cv_length: 0.87
+length_entropy: 0.75
+orientation_3d_entropy: 0.773
+aspl: 6.19
+cpd: 0.426
+correlation_vertex_degree: -0.333
+original_format: Survex
+comments_cave_info: 'mulitple waring messages when compiling therion: "Forwards and
+  backwards reading do not match, year 1958 magnetic declination used for undated
+  surveys
+
+  - commented fix points with weird values in cullauns folder, and changed the epsg:
+  29903 to 2157 for cullauns in Burren.th'
+full_name: The Caves of County Clare
+geometry: splays
+units: meter
+country: Ireland
+state: County Clare
+area: 'The Burren '
+locality: 'Carrownacleary
+
+  '
+grotto_id: 10799 (Cullaun Zero Cave) / 10787 (Coolagh River Cave) / 10793 (Cullaun
+  1 Cave)
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: EPSG:2157 / Local
+latitude: 53.0571
+longitude: -9.3057
+altitude: '172'
+cave_url: https://grottomap.org/en/list/IE/County%20Clare
+supplemental_links: https://www.ukcaves.co.uk/map-clare
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://ubss.org.uk/research/cave_surveys/clare/
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

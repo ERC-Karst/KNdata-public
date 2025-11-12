@@ -1,0 +1,61 @@
+id_dataset: '017'
+short_name: LittleNeathRiver
+id_subset: '000'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: 'University of Bristol Spelæological Society. (1919). The Little Neath River
+  Cave Survey [Creative Commons BY-NC-SA 4.0 dataset]. Cave Survey Archive. https://www.ubss.org.uk
+
+  '
+thanks: .nan
+sharing_conditions: .nan
+total_length: 8633
+total_depth: 122.43
+percentage_csdim: 0
+number_connected_components: 2
+number_nodes: 902
+number_edges: 925
+mean_degree: 2.24
+min_degree: 1.0
+max_degree: 6.0
+cv_degree: 0.481
+number_cycles: 25
+mean_length: 42.74
+cv_length: 1.28
+length_entropy: 0.43
+orientation_3d_entropy: 0.721
+aspl: 14.21
+cpd: 0.416
+correlation_vertex_degree: -0.287
+original_format: Survex
+comments_cave_info: coordinate system originall in osgb:SN. traduit en epsg:27700
+  avec therion
+full_name: The Little Neath River Cave
+geometry: splays
+units: meter
+country: UK
+state: Wales
+area: Aberdare
+locality: Ystradfellte
+grotto_id: '70363'
+country_cave_id: .nan
+local_id: 474 (CCC)
+local_coordinate_system: OSGB:SN
+latitude: 51.8111
+longitude: -3.5811
+altitude: '304'
+cave_url: https://grottocenter.org/ui/entrances/70363
+supplemental_links: https://www.ubss.org.uk/resources/proceedings/vol11/UBSS_Proc_11_2_186-200.pdf
+data_reception_date: '2023'
+data_received_by: Celia
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://ubss.org.uk/research/cave_surveys/neath/
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

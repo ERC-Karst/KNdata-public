@@ -1,0 +1,747 @@
+metadata:
+  id_dataset: '050'
+  short_name: Andara
+  id_subset: 019
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: .nan
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 693
+  total_depth: 432.23
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 57
+  number_edges: 56
+  mean_degree: 1.67
+  min_degree: 1.0
+  max_degree: 17.0
+  cv_degree: 0.62
+  number_cycles: 0
+  mean_length: 138.6
+  cv_length: 1.0
+  length_entropy: 0.58
+  orientation_3d_entropy: 0.396
+  aspl: 1.93
+  cpd: 0.56
+  correlation_vertex_degree: -0.667
+  original_format: Survex
+  comments_cave_info: used .3d instead of translating project. too many issues with
+    translation
+  full_name: Andara
+  geometry: .nan
+  units: meter
+  country: Spain
+  state: Cantabrie
+  area: Parc national des Picos de Europa
+  locality: Palacio
+  grotto_id: /
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:32630
+  latitude: 43.2161538
+  longitude: -4.7242563
+  altitude: '1785'
+  cave_url: https://hinko.org/hinko/Dowloads/BCRA/BCRA%2011-4-1984.pdf
+  supplemental_links: https://tresvisocaves.info/tresviso.php?cave=65
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 4613
+  - 7400
+- - 4613
+  - 3848
+- - 3591
+  - 5674
+- - 3591
+  - 7086
+- - 3848
+  - 2917
+- - 137
+  - 9740
+- - 137
+  - 5411
+- - 10
+  - 2284
+- - 9740
+  - 6705
+- - 8973
+  - 5411
+- - 8973
+  - 8528
+- - 15
+  - 1682
+- - 15
+  - 5192
+- - 9232
+  - 1521
+- - 9232
+  - 664
+- - 1682
+  - 2917
+- - 530
+  - 838
+- - 530
+  - 4094
+- - 6037
+  - 5985
+- - 6037
+  - 838
+- - 2583
+  - 4094
+- - 2583
+  - 5205
+- - 664
+  - 5985
+- - 537
+  - 4472
+- - 537
+  - 2353
+- - 5402
+  - 3553
+- - 5402
+  - 3703
+- - 5402
+  - 4472
+- - 2458
+  - 7086
+- - 2458
+  - 598
+- - 4775
+  - 4094
+- - 4775
+  - 6705
+- - 1064
+  - 10030
+- - 1064
+  - 5674
+- - 5932
+  - 5205
+- - 10030
+  - 2284
+- - 2353
+  - 5329
+- - 2228
+  - 3703
+- - 5940
+  - 4175
+- - 5940
+  - 5707
+- - 2614
+  - 5707
+- - 2614
+  - 3262
+- - 3262
+  - 1521
+- - 1216
+  - 7875
+- - 1216
+  - 4183
+- - 1986
+  - 8951
+- - 1986
+  - 5109
+- - 7875
+  - 8528
+- - 5192
+  - 3553
+- - 4175
+  - 234
+- - 9552
+  - 2412
+- - 9552
+  - 7400
+- - 5329
+  - 234
+- - 598
+  - 8951
+- - 2412
+  - 8946
+- - 8946
+  - 5109
+node_attributes:
+  flags:
+    4613:
+    - fix
+    3591:
+    - fix
+    3848:
+    - fix
+    137:
+    - fix
+    10:
+    - fix
+    9740:
+    - fix
+    8973:
+    - fix
+    15:
+    - fix
+    9232:
+    - fix
+    1682:
+    - fix
+    530:
+    - fix
+    6037:
+    - fix
+    2583:
+    - fix
+    664:
+    - fix
+    537:
+    - fix
+    5402:
+    - fix
+    2458:
+    - fix
+    5411:
+    - fix
+    4775:
+    - fix
+    1064:
+    - fix
+    5674:
+    - fix
+    5932:
+    - fix
+    10030:
+    - fix
+    7086:
+    - fix
+    2353:
+    - fix
+    6705:
+    - fix
+    2228:
+    - fix
+    5940:
+    - fix
+    2614:
+    - fix
+    3262:
+    - fix
+    1216:
+    - fix
+    1986:
+    - fix
+    7875:
+    - fix
+    838:
+    - fix
+    5192:
+    - fix
+    5707:
+    - fix
+    4175:
+    - fix
+    9552:
+    - fix
+    5329:
+    - fix
+    8528:
+    - fix
+    5205:
+    - fix
+    598:
+    - fix
+    4183:
+    - fix
+    3553:
+    - fix
+    5985:
+    - fix
+    2917:
+    - fix
+    7400:
+    - fix
+    234:
+    - fix
+    8951:
+    - fix
+    2284:
+    - fix
+    2412:
+    - fix
+    1521:
+    - fix
+    8946:
+    - fix
+    5109:
+    - fix
+    3703:
+    - fix
+    4472:
+    - fix
+    4094:
+    - fix
+  pos:
+    4613:
+    - 363241.16
+    - 4785108.93
+    - 1768.93
+    3591:
+    - 363255.68
+    - 4785123.26
+    - 1926.88
+    3848:
+    - 363235.02
+    - 4785115.51
+    - 1768.93
+    137:
+    - 363250.48
+    - 4785108.86
+    - 1574.34
+    10:
+    - 363259.0
+    - 4785128.0
+    - 1975.0
+    9740:
+    - 363246.65
+    - 4785105.65
+    - 1574.34
+    8973:
+    - 363258.9
+    - 4785115.68
+    - 1555.43
+    15:
+    - 363205.4
+    - 4785099.99
+    - 1749.78
+    9232:
+    - 363227.91
+    - 4785077.66
+    - 1708.46
+    1682:
+    - 363227.15
+    - 4785099.99
+    - 1759.93
+    530:
+    - 363235.1
+    - 4785080.44
+    - 1708.41
+    6037:
+    - 363231.02
+    - 4785080.66
+    - 1708.41
+    2583:
+    - 363235.21
+    - 4785086.44
+    - 1708.67
+    664:
+    - 363228.91
+    - 4785077.66
+    - 1708.41
+    537:
+    - 363204.02
+    - 4785069.35
+    - 1739.34
+    5402:
+    - 363214.69
+    - 4785070.28
+    - 1745.14
+    2458:
+    - 363253.02
+    - 4785121.6
+    - 1923.34
+    5411:
+    - 363258.9
+    - 4785115.68
+    - 1572.43
+    4775:
+    - 363235.15
+    - 4785083.44
+    - 1578.52
+    1064:
+    - 363259.0
+    - 4785126.59
+    - 1956.59
+    5674:
+    - 363255.68
+    - 4785123.26
+    - 1954.88
+    5932:
+    - 363241.88
+    - 4785095.27
+    - 1708.67
+    10030:
+    - 363259.0
+    - 4785126.59
+    - 1961.59
+    7086:
+    - 363254.26
+    - 4785123.31
+    - 1925.46
+    2353:
+    - 363202.37
+    - 4785066.9
+    - 1738.82
+    6705:
+    - 363248.73
+    - 4785085.83
+    - 1576.08
+    2228:
+    - 363222.0
+    - 4785063.47
+    - 1745.22
+    5940:
+    - 363197.84
+    - 4785061.59
+    - 1715.82
+    2614:
+    - 363217.03
+    - 4785077.82
+    - 1708.36
+    3262:
+    - 363220.97
+    - 4785080.9
+    - 1708.36
+    1216:
+    - 363265.45
+    - 4785121.3
+    - 1550.77
+    1986:
+    - 363253.02
+    - 4785120.18
+    - 1850.93
+    7875:
+    - 363266.84
+    - 4785119.9
+    - 1551.12
+    838:
+    - 363232.94
+    - 4785078.36
+    - 1708.41
+    5192:
+    - 363218.59
+    - 4785086.33
+    - 1749.12
+    5707:
+    - 363214.69
+    - 4785063.06
+    - 1709.67
+    4175:
+    - 363201.25
+    - 4785065.25
+    - 1715.82
+    9552:
+    - 363242.66
+    - 4785111.53
+    - 1822.93
+    5329:
+    - 363202.37
+    - 4785066.9
+    - 1730.82
+    8528:
+    - 363266.84
+    - 4785119.9
+    - 1555.12
+    5205:
+    - 363241.01
+    - 4785090.35
+    - 1708.67
+    598:
+    - 363253.02
+    - 4785121.6
+    - 1858.34
+    4183:
+    - 363265.45
+    - 4785121.3
+    - 1542.77
+    3553:
+    - 363204.08
+    - 4785080.17
+    - 1751.9
+    5985:
+    - 363229.02
+    - 4785080.66
+    - 1708.41
+    2917:
+    - 363233.49
+    - 4785114.23
+    - 1768.93
+    7400:
+    - 363242.66
+    - 4785111.53
+    - 1768.93
+    234:
+    - 363201.25
+    - 4785065.25
+    - 1730.82
+    8951:
+    - 363253.02
+    - 4785120.18
+    - 1856.93
+    2284:
+    - 363259.0
+    - 4785128.0
+    - 1963.0
+    2412:
+    - 363246.66
+    - 4785118.46
+    - 1822.93
+    1521:
+    - 363227.97
+    - 4785080.66
+    - 1708.36
+    8946:
+    - 363251.65
+    - 4785118.72
+    - 1822.93
+    5109:
+    - 363251.65
+    - 4785118.72
+    - 1850.93
+    3703:
+    - 363218.34
+    - 4785066.87
+    - 1744.96
+    4472:
+    - 363202.05
+    - 4785072.28
+    - 1742.88
+    4094:
+    - 363235.15
+    - 4785083.44
+    - 1708.52
+  idsql:
+    4613:
+    - 9261
+    3591:
+    - 9250
+    3848:
+    - 9262
+    137:
+    - 9295
+    10:
+    - 9245
+    9740:
+    - 9294
+    8973:
+    - 9297
+    15:
+    - 9265
+    9232:
+    - 9282
+    1682:
+    - 9264
+    530:
+    - 9287
+    6037:
+    - 9285
+    2583:
+    - 9289
+    664:
+    - 9283
+    537:
+    - 9272
+    5402:
+    - 9268
+    2458:
+    - 9252
+    5411:
+    - 9296
+    4775:
+    - 9292
+    1064:
+    - 9248
+    5674:
+    - 9249
+    5932:
+    - 9291
+    10030:
+    - 9247
+    7086:
+    - 9251
+    2353:
+    - 9273
+    6705:
+    - 9293
+    2228:
+    - 9270
+    5940:
+    - 9277
+    2614:
+    - 9279
+    3262:
+    - 9280
+    1216:
+    - 9300
+    1986:
+    - 9255
+    7875:
+    - 9299
+    838:
+    - 9286
+    5192:
+    - 9266
+    5707:
+    - 9278
+    4175:
+    - 9276
+    9552:
+    - 9259
+    5329:
+    - 9274
+    8528:
+    - 9298
+    5205:
+    - 9290
+    598:
+    - 9253
+    4183:
+    - 9301
+    3553:
+    - 9267
+    5985:
+    - 9284
+    2917:
+    - 9263
+    7400:
+    - 9260
+    234:
+    - 9275
+    8951:
+    - 9254
+    2284:
+    - 9246
+    2412:
+    - 9258
+    1521:
+    - 9281
+    8946:
+    - 9257
+    5109:
+    - 9256
+    3703:
+    - 9269
+    4472:
+    - 9271
+    4094:
+    - 9288
+  fulladdress:
+    4613:
+    - andara.samelar.s33_hendida.16
+    3591:
+    - andara.samelar.s33_hendida.5
+    3848:
+    - andara.samelar.s33_hendida.17
+    137:
+    - andara.samelar.s33_hendida.45
+    10:
+    - andara.samelar.s33
+    9740:
+    - andara.samelar.s33_hendida.44
+    8973:
+    - andara.samelar.s33_hendida.47
+    15:
+    - andara.samelar.s33_hendida.20
+    9232:
+    - andara.samelar.s33_hendida.35
+    1682:
+    - andara.samelar.s33_hendida.19
+    530:
+    - andara.samelar.s33_hendida.40
+    6037:
+    - andara.samelar.s33_hendida.38
+    2583:
+    - andara.samelar.s33_hendida.41a
+    664:
+    - andara.samelar.s33_hendida.36
+    537:
+    - andara.samelar.s33_hendida.25
+    5402:
+    - andara.samelar.s33_hendida.23
+    2458:
+    - andara.samelar.s33_hendida.7
+    5411:
+    - andara.samelar.s33_hendida.46
+    4775:
+    - andara.samelar.s33_hendida.42
+    1064:
+    - andara.samelar.s33_hendida.3
+    5674:
+    - andara.samelar.s33_hendida.4
+    5932:
+    - andara.samelar.s33_hendida.41c
+    10030:
+    - andara.samelar.s33_hendida.2
+    7086:
+    - andara.samelar.s33_hendida.6
+    2353:
+    - andara.samelar.s33_hendida.26
+    6705:
+    - andara.samelar.s33_hendida.43
+    2228:
+    - andara.samelar.s33_hendida.23b
+    5940:
+    - andara.samelar.s33_hendida.30
+    2614:
+    - andara.samelar.s33_hendida.32
+    3262:
+    - andara.samelar.s33_hendida.33
+    1216:
+    - andara.samelar.s33_hendida.50
+    1986:
+    - andara.samelar.s33_hendida.10
+    7875:
+    - andara.samelar.s33_hendida.49
+    838:
+    - andara.samelar.s33_hendida.39
+    5192:
+    - andara.samelar.s33_hendida.21
+    5707:
+    - andara.samelar.s33_hendida.31
+    4175:
+    - andara.samelar.s33_hendida.29
+    9552:
+    - andara.samelar.s33_hendida.14
+    5329:
+    - andara.samelar.s33_hendida.27
+    8528:
+    - andara.samelar.s33_hendida.48
+    5205:
+    - andara.samelar.s33_hendida.41b
+    598:
+    - andara.samelar.s33_hendida.8
+    4183:
+    - andara.samelar.s33_hendida.51
+    3553:
+    - andara.samelar.s33_hendida.22
+    5985:
+    - andara.samelar.s33_hendida.37
+    2917:
+    - andara.samelar.s33_hendida.18
+    7400:
+    - andara.samelar.s33_hendida.15
+    234:
+    - andara.samelar.s33_hendida.28
+    8951:
+    - andara.samelar.s33_hendida.9
+    2284:
+    - andara.samelar.s33_hendida.1
+    2412:
+    - andara.samelar.s33_hendida.13
+    1521:
+    - andara.samelar.s33_hendida.34
+    8946:
+    - andara.samelar.s33_hendida.12
+    5109:
+    - andara.samelar.s33_hendida.11
+    3703:
+    - andara.samelar.s33_hendida.23a
+    4472:
+    - andara.samelar.s33_hendida.24
+    4094:
+    - andara.samelar.s33_hendida.41

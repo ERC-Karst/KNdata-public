@@ -1,0 +1,57 @@
+id_dataset: '024'
+short_name: Lajoux
+id_subset: '000'
+status: clean
+type_of_correction: no correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: SCJ. (2024). Relevé topographiques [Dataset]. Spéléo-Club Jura. https://speleoclubjura.com/index.php/scj
+thanks: .nan
+sharing_conditions: .nan
+total_length: 1305
+total_depth: 220.16
+percentage_csdim: 95
+number_connected_components: 1
+number_nodes: 327
+number_edges: 326
+mean_degree: 1.97
+min_degree: 1.0
+max_degree: 4.0
+cv_degree: 0.55
+number_cycles: 0
+mean_length: 22.51
+cv_length: 1.19
+length_entropy: 0.61
+orientation_3d_entropy: 0.744
+aspl: 7.43
+cpd: 0.571
+correlation_vertex_degree: -0.251
+original_format: Visual Topo
+comments_cave_info: 'csdim issue : many heigth values equal zero in raw file'
+full_name: Gouffre de Lajoux
+geometry: lrud
+units: meter
+country: Switzerland
+state: Jura
+area: Etang des Beusses
+locality: Lajoux
+grotto_id: '37250'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: Local ?
+latitude: 47.2844
+longitude: 7.1492
+altitude: '971'
+cave_url: https://grottocenter.org/ui/entrances/37250
+supplemental_links: http://mdemierre.speleologie.ch/?p=2584
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

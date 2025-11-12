@@ -1,0 +1,57 @@
+id_dataset: 029
+short_name: RougeEau
+id_subset: '000'
+status: clean
+type_of_correction: no correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: SCJ. (2024). Relevé topographiques [Dataset]. Spéléo-Club Jura. https://speleoclubjura.com/index.php/scj
+thanks: .nan
+sharing_conditions: .nan
+total_length: 655
+total_depth: 131.06
+percentage_csdim: 98
+number_connected_components: 1
+number_nodes: 138
+number_edges: 137
+mean_degree: 1.94
+min_degree: 1.0
+max_degree: 3.0
+cv_degree: 0.522
+number_cycles: 0
+mean_length: 19.85
+cv_length: 1.22
+length_entropy: 0.66
+orientation_3d_entropy: 0.705
+aspl: 6.02
+cpd: 0.492
+correlation_vertex_degree: -0.375
+original_format: Toporobot
+comments_cave_info: .nan
+full_name: Gouffre de la Rouge-Eau
+geometry: lrud
+units: meter
+country: Switzerland
+state: Bern/Berne
+area: .nan
+locality: Saicourt
+grotto_id: '5497'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: CH1903/LV03
+latitude: 47.2516
+longitude: 7.1838
+altitude: '137'
+cave_url: https://grottocenter.org/ui/entrances/5497
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: .nan
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

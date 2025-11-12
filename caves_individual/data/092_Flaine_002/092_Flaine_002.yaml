@@ -1,0 +1,1485 @@
+metadata:
+  id_dataset: 092
+  short_name: Flaine
+  id_subset: '002'
+  status: ready for cleaning
+  type_of_correction: .nan
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Pont, A., Sp\xE9l\xE9o Club du Mont-Blanc, CESAME, & Comit\xE9 D\xE9\
+    partemental de Sp\xE9l\xE9ologie de Haute-Savoie (CDS74). (n.d.). Base de donn\xE9\
+    es topographiques des syst\xE8mes karstiques du massif Flaine-Plat\xE9 (Haute-Savoie\
+    \ 74, France) [Creative Commons BY-NC-SA 4.0 dataset, Therion project]. Retrieved\
+    \ May 31, 2024, from https://github.com/BenoitURRUTY/Synthese-Clot-d-Aspres\n"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 748
+  total_depth: 296.19
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 118
+  number_edges: 118
+  mean_degree: 2.0
+  min_degree: 1.0
+  max_degree: 5.0
+  cv_degree: 0.51
+  number_cycles: 1
+  mean_length: 28.77
+  cv_length: 1.25
+  length_entropy: 0.53
+  orientation_3d_entropy: 0.701
+  aspl: 4.91
+  cpd: 0.357
+  correlation_vertex_degree: -0.333
+  original_format: Therion
+  comments_cave_info: .nan
+  full_name: "Syst\xE8mes karstiques du massif de Flaine-Plat\xE9"
+  geometry: .nan
+  units: meter
+  country: France
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/Alex38Lyon/Synthese-Flaine-Plate
+  email_correspondant: alexandre.pont@yahoo.fr
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 0
+  - 27
+- - 0
+  - 56
+- - 4
+  - 329
+- - 11
+  - 80
+- - 11
+  - 30
+- - 11
+  - 217
+- - 15
+  - 263
+- - 15
+  - 268
+- - 16
+  - 212
+- - 16
+  - 276
+- - 18
+  - 100
+- - 18
+  - 37
+- - 21
+  - 238
+- - 21
+  - 24
+- - 22
+  - 211
+- - 22
+  - 112
+- - 22
+  - 290
+- - 27
+  - 334
+- - 28
+  - 56
+- - 30
+  - 380
+- - 31
+  - 229
+- - 31
+  - 305
+- - 35
+  - 164
+- - 35
+  - 391
+- - 36
+  - 58
+- - 36
+  - 65
+- - 42
+  - 339
+- - 42
+  - 109
+- - 43
+  - 305
+- - 43
+  - 364
+- - 45
+  - 251
+- - 45
+  - 160
+- - 49
+  - 145
+- - 49
+  - 329
+- - 50
+  - 218
+- - 50
+  - 119
+- - 56
+  - 385
+- - 58
+  - 118
+- - 59
+  - 111
+- - 59
+  - 121
+- - 59
+  - 334
+- - 65
+  - 242
+- - 67
+  - 281
+- - 67
+  - 211
+- - 68
+  - 242
+- - 68
+  - 359
+- - 73
+  - 391
+- - 73
+  - 357
+- - 73
+  - 377
+- - 76
+  - 205
+- - 76
+  - 353
+- - 80
+  - 184
+- - 83
+  - 276
+- - 83
+  - 283
+- - 84
+  - 173
+- - 84
+  - 382
+- - 85
+  - 219
+- - 85
+  - 282
+- - 95
+  - 319
+- - 95
+  - 263
+- - 97
+  - 124
+- - 97
+  - 227
+- - 100
+  - 390
+- - 103
+  - 363
+- - 103
+  - 118
+- - 105
+  - 143
+- - 107
+  - 355
+- - 107
+  - 229
+- - 109
+  - 362
+- - 111
+  - 370
+- - 112
+  - 212
+- - 115
+  - 143
+- - 115
+  - 151
+- - 119
+  - 255
+- - 119
+  - 339
+- - 124
+  - 380
+- - 124
+  - 182
+- - 135
+  - 249
+- - 135
+  - 390
+- - 137
+  - 181
+- - 137
+  - 220
+- - 143
+  - 220
+- - 144
+  - 290
+- - 145
+  - 358
+- - 145
+  - 185
+- - 151
+  - 323
+- - 160
+  - 388
+- - 164
+  - 388
+- - 173
+  - 227
+- - 181
+  - 353
+- - 185
+  - 275
+- - 189
+  - 381
+- - 189
+  - 219
+- - 199
+  - 377
+- - 199
+  - 256
+- - 205
+  - 210
+- - 210
+  - 324
+- - 218
+  - 373
+- - 224
+  - 362
+- - 224
+  - 251
+- - 227
+  - 241
+- - 230
+  - 238
+- - 230
+  - 373
+- - 238
+  - 364
+- - 249
+  - 256
+- - 268
+  - 372
+- - 275
+  - 355
+- - 275
+  - 277
+- - 277
+  - 385
+- - 281
+  - 282
+- - 283
+  - 363
+- - 316
+  - 362
+- - 316
+  - 370
+- - 319
+  - 382
+- - 323
+  - 381
+- - 324
+  - 338
+- - 338
+  - 357
+- - 358
+  - 372
+node_attributes:
+  flags:
+    0:
+    - fix
+    4:
+    - fix
+    11:
+    - fix
+    15:
+    - fix
+    16:
+    - fix
+    18:
+    - fix
+    21:
+    - fix
+    22:
+    - fix
+    24:
+    - fix
+    27:
+    - fix
+    28:
+    - fix
+    30:
+    - fix
+    31:
+    - fix
+    35:
+    - fix
+    36:
+    - fix
+    37:
+    - fix
+    42:
+    - fix
+    43:
+    - fix
+    45:
+    - fix
+    49:
+    - fix
+    50:
+    - fix
+    56:
+    - fix
+    58:
+    - fix
+    59:
+    - fix
+    65:
+    - fix
+    67:
+    - fix
+    68:
+    - fix
+    73:
+    - fix
+    76:
+    - fix
+    80:
+    - fix
+    83:
+    - fix
+    84:
+    - fix
+    85:
+    - fix
+    95:
+    - fix
+    97:
+    - fix
+    100:
+    - fix
+    103:
+    - fix
+    105:
+    - fix
+    107:
+    - fix
+    109:
+    - fix
+    111:
+    - fix
+    112:
+    - fix
+    115:
+    - fix
+    118:
+    - fix
+    119:
+    - fix
+    121:
+    - fix
+    124:
+    - fix
+    135:
+    - fix
+    137:
+    - fix
+    143:
+    - fix
+    144:
+    - fix
+    145:
+    - fix
+    151:
+    - fix
+    160:
+    - fix
+    164:
+    - fix
+    173:
+    - fix
+    181:
+    - fix
+    182:
+    - fix
+    184:
+    - ent
+    - fix
+    185:
+    - fix
+    189:
+    - fix
+    199:
+    - fix
+    205:
+    - fix
+    210:
+    - fix
+    211:
+    - fix
+    212:
+    - fix
+    217:
+    - fix
+    218:
+    - fix
+    219:
+    - fix
+    220:
+    - fix
+    224:
+    - fix
+    227:
+    - fix
+    229:
+    - fix
+    230:
+    - fix
+    238:
+    - fix
+    241:
+    - fix
+    242:
+    - fix
+    249:
+    - fix
+    251:
+    - fix
+    255:
+    - fix
+    256:
+    - fix
+    263:
+    - fix
+    268:
+    - fix
+    275:
+    - fix
+    276:
+    - fix
+    277:
+    - fix
+    281:
+    - fix
+    282:
+    - fix
+    283:
+    - fix
+    290:
+    - fix
+    305:
+    - fix
+    316:
+    - fix
+    319:
+    - fix
+    323:
+    - fix
+    324:
+    - fix
+    329:
+    - fix
+    334:
+    - fix
+    338:
+    - fix
+    339:
+    - fix
+    353:
+    - fix
+    355:
+    - fix
+    357:
+    - fix
+    358:
+    - fix
+    359:
+    - fix
+    362:
+    - fix
+    363:
+    - fix
+    364:
+    - fix
+    370:
+    - fix
+    372:
+    - fix
+    373:
+    - fix
+    377:
+    - fix
+    380:
+    - fix
+    381:
+    - fix
+    382:
+    - fix
+    385:
+    - fix
+    388:
+    - fix
+    390:
+    - fix
+    391:
+    - fix
+  pos:
+    0:
+    - 322974.39
+    - 5094882.63
+    - 2235.78
+    4:
+    - 322985.57
+    - 5094885.35
+    - 2263.82
+    11:
+    - 322895.82
+    - 5094854.7
+    - 2289.73
+    15:
+    - 322968.97
+    - 5094876.43
+    - 2284.22
+    16:
+    - 322973.64
+    - 5094900.91
+    - 2140.17
+    18:
+    - 322926.19
+    - 5094883.64
+    - 2216.31
+    21:
+    - 322988.3
+    - 5094888.33
+    - 2224.41
+    22:
+    - 322964.16
+    - 5094905.62
+    - 2161.51
+    24:
+    - 322985.62
+    - 5094889.12
+    - 2209.63
+    27:
+    - 322976.08
+    - 5094889.98
+    - 2230.49
+    28:
+    - 322978.68
+    - 5094881.91
+    - 2224.44
+    30:
+    - 322904.79
+    - 5094858.2
+    - 2289.1
+    31:
+    - 322981.7
+    - 5094886.81
+    - 2253.58
+    35:
+    - 322938.67
+    - 5094882.67
+    - 2216.72
+    36:
+    - 322979.41
+    - 5094913.51
+    - 2053.13
+    37:
+    - 322923.73
+    - 5094882.91
+    - 2214.36
+    42:
+    - 322975.51
+    - 5094891.32
+    - 2213.52
+    43:
+    - 322991.28
+    - 5094890.11
+    - 2254.89
+    45:
+    - 322962.35
+    - 5094887.68
+    - 2217.88
+    49:
+    - 322978.85
+    - 5094883.51
+    - 2264.06
+    50:
+    - 322983.47
+    - 5094894.4
+    - 2215.07
+    56:
+    - 322974.39
+    - 5094882.64
+    - 2235.77
+    58:
+    - 322985.23
+    - 5094909.97
+    - 2073.84
+    59:
+    - 322974.44
+    - 5094889.0
+    - 2216.1
+    65:
+    - 322977.26
+    - 5094915.44
+    - 2048.45
+    67:
+    - 322963.09
+    - 5094905.94
+    - 2164.74
+    68:
+    - 322964.07
+    - 5094930.26
+    - 2017.97
+    73:
+    - 322933.32
+    - 5094887.75
+    - 2203.64
+    76:
+    - 322937.04
+    - 5094910.27
+    - 2201.47
+    80:
+    - 322897.57
+    - 5094854.07
+    - 2293.72
+    83:
+    - 322977.2
+    - 5094901.85
+    - 2113.26
+    84:
+    - 322945.34
+    - 5094867.98
+    - 2285.28
+    85:
+    - 322961.98
+    - 5094910.21
+    - 2164.54
+    95:
+    - 322960.5
+    - 5094873.52
+    - 2283.2
+    97:
+    - 322931.91
+    - 5094862.39
+    - 2287.55
+    100:
+    - 322928.49
+    - 5094882.72
+    - 2217.05
+    103:
+    - 322987.24
+    - 5094909.69
+    - 2084.16
+    105:
+    - 322938.61
+    - 5094902.89
+    - 2165.33
+    107:
+    - 322980.51
+    - 5094885.06
+    - 2259.07
+    109:
+    - 322972.99
+    - 5094890.91
+    - 2213.04
+    111:
+    - 322974.44
+    - 5094889.0
+    - 2216.11
+    112:
+    - 322965.02
+    - 5094906.73
+    - 2156.47
+    115:
+    - 322941.64
+    - 5094911.33
+    - 2166.04
+    118:
+    - 322986.86
+    - 5094909.38
+    - 2074.17
+    119:
+    - 322983.47
+    - 5094894.4
+    - 2215.06
+    121:
+    - 322978.16
+    - 5094889.45
+    - 2211.46
+    124:
+    - 322918.25
+    - 5094861.12
+    - 2289.43
+    135:
+    - 322932.95
+    - 5094883.37
+    - 2217.17
+    137:
+    - 322942.98
+    - 5094913.01
+    - 2177.47
+    143:
+    - 322937.08
+    - 5094910.68
+    - 2166.37
+    144:
+    - 322975.35
+    - 5094900.85
+    - 2163.9
+    145:
+    - 322976.65
+    - 5094880.7
+    - 2275.03
+    151:
+    - 322946.77
+    - 5094912.46
+    - 2165.52
+    160:
+    - 322951.88
+    - 5094885.42
+    - 2218.18
+    164:
+    - 322944.3
+    - 5094883.88
+    - 2216.86
+    173:
+    - 322939.07
+    - 5094865.81
+    - 2284.8
+    181:
+    - 322939.04
+    - 5094913.88
+    - 2186.33
+    182:
+    - 322920.82
+    - 5094856.89
+    - 2294.21
+    184:
+    - 322898.0
+    - 5094854.0
+    - 2300.0
+    185:
+    - 322976.39
+    - 5094882.01
+    - 2272.86
+    189:
+    - 322959.16
+    - 5094913.37
+    - 2165.06
+    199:
+    - 322933.83
+    - 5094884.05
+    - 2215.48
+    205:
+    - 322935.04
+    - 5094904.77
+    - 2202.82
+    210:
+    - 322935.83
+    - 5094901.04
+    - 2202.86
+    211:
+    - 322963.95
+    - 5094905.9
+    - 2164.38
+    212:
+    - 322969.59
+    - 5094902.91
+    - 2138.02
+    217:
+    - 322891.38
+    - 5094854.97
+    - 2289.05
+    218:
+    - 322985.15
+    - 5094893.63
+    - 2218.45
+    219:
+    - 322961.09
+    - 5094912.64
+    - 2164.72
+    220:
+    - 322937.83
+    - 5094911.46
+    - 2175.64
+    224:
+    - 322967.64
+    - 5094889.4
+    - 2216.32
+    227:
+    - 322934.11
+    - 5094863.18
+    - 2287.5
+    229:
+    - 322980.82
+    - 5094885.84
+    - 2258.96
+    230:
+    - 322990.53
+    - 5094891.56
+    - 2225.2
+    238:
+    - 322993.06
+    - 5094889.9
+    - 2226.08
+    241:
+    - 322933.59
+    - 5094858.64
+    - 2286.82
+    242:
+    - 322977.76
+    - 5094919.24
+    - 2049.28
+    249:
+    - 322937.8
+    - 5094884.8
+    - 2216.6
+    251:
+    - 322965.45
+    - 5094888.9
+    - 2216.8
+    255:
+    - 322987.75
+    - 5094892.85
+    - 2234.02
+    256:
+    - 322935.41
+    - 5094883.99
+    - 2216.33
+    263:
+    - 322964.66
+    - 5094874.42
+    - 2285.97
+    268:
+    - 322969.46
+    - 5094877.47
+    - 2284.61
+    275:
+    - 322976.41
+    - 5094883.76
+    - 2259.06
+    276:
+    - 322976.54
+    - 5094901.99
+    - 2122.44
+    277:
+    - 322975.08
+    - 5094883.2
+    - 2244.39
+    281:
+    - 322963.16
+    - 5094907.6
+    - 2165.38
+    282:
+    - 322962.22
+    - 5094908.06
+    - 2165.04
+    283:
+    - 322979.63
+    - 5094906.61
+    - 2092.44
+    290:
+    - 322967.25
+    - 5094904.46
+    - 2162.33
+    305:
+    - 322987.17
+    - 5094888.86
+    - 2254.12
+    316:
+    - 322970.99
+    - 5094889.44
+    - 2213.79
+    319:
+    - 322953.37
+    - 5094870.29
+    - 2284.85
+    323:
+    - 322948.85
+    - 5094911.58
+    - 2165.22
+    324:
+    - 322934.05
+    - 5094898.94
+    - 2202.57
+    329:
+    - 322980.94
+    - 5094884.42
+    - 2264.21
+    334:
+    - 322975.71
+    - 5094888.17
+    - 2224.54
+    338:
+    - 322932.61
+    - 5094893.03
+    - 2202.65
+    339:
+    - 322980.01
+    - 5094892.81
+    - 2217.56
+    353:
+    - 322938.34
+    - 5094912.63
+    - 2200.43
+    355:
+    - 322976.41
+    - 5094883.76
+    - 2259.05
+    357:
+    - 322930.88
+    - 5094888.97
+    - 2204.27
+    358:
+    - 322971.46
+    - 5094878.17
+    - 2283.56
+    359:
+    - 322960.2
+    - 5094933.36
+    - 2003.81
+    362:
+    - 322970.51
+    - 5094890.46
+    - 2212.68
+    363:
+    - 322983.73
+    - 5094908.97
+    - 2085.79
+    364:
+    - 322990.12
+    - 5094889.86
+    - 2240.79
+    370:
+    - 322974.62
+    - 5094887.02
+    - 2216.2
+    372:
+    - 322970.22
+    - 5094876.96
+    - 2283.82
+    373:
+    - 322987.49
+    - 5094894.05
+    - 2218.87
+    377:
+    - 322931.53
+    - 5094884.71
+    - 2214.76
+    380:
+    - 322909.38
+    - 5094858.7
+    - 2290.43
+    381:
+    - 322953.16
+    - 5094912.2
+    - 2164.62
+    382:
+    - 322948.56
+    - 5094869.06
+    - 2284.24
+    385:
+    - 322974.15
+    - 5094883.63
+    - 2243.34
+    388:
+    - 322946.95
+    - 5094884.17
+    - 2218.64
+    390:
+    - 322930.44
+    - 5094883.45
+    - 2217.39
+    391:
+    - 322934.1
+    - 5094882.43
+    - 2213.58
+  idsql:
+    0:
+    - 113
+    4:
+    - 24
+    11:
+    - 3
+    15:
+    - 17
+    16:
+    - 82
+    18:
+    - 104
+    21:
+    - 35
+    22:
+    - 79
+    24:
+    - 36
+    27:
+    - 112
+    28:
+    - 117
+    30:
+    - 4
+    31:
+    - 30
+    35:
+    - 53
+    36:
+    - 90
+    37:
+    - 105
+    42:
+    - 44
+    43:
+    - 32
+    45:
+    - 49
+    49:
+    - 22
+    50:
+    - 40
+    56:
+    - 114
+    58:
+    - 89
+    59:
+    - 109
+    65:
+    - 91
+    67:
+    - 77
+    68:
+    - 93
+    73:
+    - 55
+    76:
+    - 61
+    80:
+    - 2
+    83:
+    - 84
+    84:
+    - 12
+    85:
+    - 74
+    95:
+    - 15
+    97:
+    - 8
+    100:
+    - 103
+    103:
+    - 87
+    105:
+    - 67
+    107:
+    - 28
+    109:
+    - 45
+    111:
+    - 108
+    112:
+    - 80
+    115:
+    - 68
+    118:
+    - 88
+    119:
+    - 41
+    121:
+    - 110
+    124:
+    - 6
+    135:
+    - 101
+    137:
+    - 64
+    143:
+    - 66
+    144:
+    - 96
+    145:
+    - 21
+    151:
+    - 69
+    160:
+    - 50
+    164:
+    - 52
+    173:
+    - 11
+    181:
+    - 63
+    182:
+    - 7
+    184:
+    - 1
+    185:
+    - 25
+    189:
+    - 72
+    199:
+    - 98
+    205:
+    - 60
+    210:
+    - 59
+    211:
+    - 78
+    212:
+    - 81
+    217:
+    - 118
+    218:
+    - 39
+    219:
+    - 73
+    220:
+    - 65
+    224:
+    - 47
+    227:
+    - 9
+    229:
+    - 29
+    230:
+    - 37
+    238:
+    - 34
+    241:
+    - 10
+    242:
+    - 92
+    249:
+    - 100
+    251:
+    - 48
+    255:
+    - 42
+    256:
+    - 99
+    263:
+    - 16
+    268:
+    - 18
+    275:
+    - 26
+    276:
+    - 83
+    277:
+    - 116
+    281:
+    - 76
+    282:
+    - 75
+    283:
+    - 85
+    290:
+    - 95
+    305:
+    - 31
+    316:
+    - 106
+    319:
+    - 14
+    323:
+    - 70
+    324:
+    - 58
+    329:
+    - 23
+    334:
+    - 111
+    338:
+    - 57
+    339:
+    - 43
+    353:
+    - 62
+    355:
+    - 27
+    357:
+    - 56
+    358:
+    - 20
+    359:
+    - 94
+    362:
+    - 46
+    363:
+    - 86
+    364:
+    - 33
+    370:
+    - 107
+    372:
+    - 19
+    373:
+    - 38
+    377:
+    - 97
+    380:
+    - 5
+    381:
+    - 71
+    382:
+    - 13
+    385:
+    - 115
+    388:
+    - 51
+    390:
+    - 102
+    391:
+    - 54
+  fulladdress:
+    0:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.11.0
+    4:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.15.3
+    11:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.1.0
+    15:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.12
+    16:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.6
+    18:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.1
+    21:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.21.1
+    22:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.3
+    24:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.21.2
+    27:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.11.1
+    28:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.10.0
+    30:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.1
+    31:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.8
+    35:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.13.7
+    36:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.14
+    37:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.0
+    42:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.12.5
+    43:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.6
+    45:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.13.3
+    49:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.15.1
+    50:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.0
+    56:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.10.1
+    58:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.13
+    59:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.11.3
+    65:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.15
+    67:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.1
+    68:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.17
+    73:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.13.9
+    76:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.15
+    80:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.1.1
+    83:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.8
+    84:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.7
+    85:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.27
+    95:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.10
+    97:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.4
+    100:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.2
+    103:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.11
+    105:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.31.1
+    107:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.10
+    109:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.12.4
+    111:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.12.0
+    112:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.4
+    115:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.21
+    118:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.12
+    119:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.12.7
+    121:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.11.4
+    124:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.3
+    135:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.4
+    137:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.18
+    143:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.20
+    144:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.42.2
+    145:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.10.6
+    151:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.22
+    160:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.13.4
+    164:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.13.6
+    173:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.6
+    181:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.17
+    182:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.3.1
+    184:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle
+    185:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.10.5
+    189:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.25
+    199:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.7
+    205:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.14
+    210:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.13
+    211:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.2
+    212:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.5
+    217:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2f.1
+    218:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.1
+    219:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.26
+    220:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.19
+    224:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.13.1
+    227:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.5
+    229:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.9
+    230:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.3
+    238:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.4
+    241:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.4.0
+    242:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.16
+    249:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.5
+    251:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.13.2
+    255:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.12.8
+    256:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.6
+    263:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.11
+    268:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.13
+    275:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.10.4
+    276:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.7
+    277:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.10.3
+    281:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.29
+    282:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.28
+    283:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.9
+    290:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.42.1
+    305:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.7
+    316:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.12.2
+    319:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.9
+    323:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.23
+    324:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.12
+    329:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.15.2
+    334:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.11.2
+    338:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.11
+    339:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.12.6
+    353:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.16
+    355:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.11
+    357:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.10
+    358:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.10.7
+    359:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.18
+    362:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.12.3
+    363:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.41.10
+    364:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.5
+    370:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.12.1
+    372:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.10.8
+    373:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.20.2
+    377:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.8
+    380:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.2
+    381:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.24
+    382:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.2.8
+    385:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.10.2
+    388:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.13.5
+    390:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.30.3
+    391:
+    - Flaine_Plate.Gouffre_de_la_petite_Marielle.Gouffre_de_la_petite_Marielle.13.8

@@ -1,0 +1,3130 @@
+metadata:
+  id_dataset: '037'
+  short_name: FountainsFell
+  id_subset: '003'
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: UK Cave Registry. (2024). Cave survey [Creative Commons BY-NC-SA 4.0 dataset].
+    https://cave-registry.org.uk
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 952
+  total_depth: 160.1
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 255
+  number_edges: 255
+  mean_degree: 2.0
+  min_degree: 1.0
+  max_degree: 5.0
+  cv_degree: 0.483
+  number_cycles: 1
+  mean_length: 68.01
+  cv_length: 0.96
+  length_entropy: 0.64
+  orientation_3d_entropy: 0.572
+  aspl: 3.95
+  cpd: 0.415
+  correlation_vertex_degree: -0.463
+  original_format: Survex
+  comments_cave_info: .nan
+  full_name: Fountains Fell
+  geometry: .nan
+  units: meter
+  country: UK
+  state: Yorkshire
+  area: Helwith Bridge
+  locality: Pen-y-ghent
+  grotto_id: 31815 (Gingling) 31813 (Dale Head) 31814 (Echo) 31818 (Hammer) 31821
+    (Foul)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: OSGB:SD / Local
+  latitude: 54.137652
+  longitude: -2.234087
+  altitude: .nan
+  cave_url: https://grottocenter.org/ui/entrances/31815
+  supplemental_links: http://cavemaps.org/cavesnc2.htm
+  data_reception_date: '2023'
+  data_received_by: Celia
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://cave-registry.org.uk/svn/NorthernEngland/
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 2048
+  - 14
+- - 2048
+  - 4916
+- - 2
+  - 1244
+- - 2
+  - 4454
+- - 3
+  - 5124
+- - 3
+  - 3194
+- - 5124
+  - 3650
+- - 5126
+  - 1826
+- - 5126
+  - 4854
+- - 1030
+  - 449
+- - 1030
+  - 1579
+- - 4104
+  - 4434
+- - 4104
+  - 3627
+- - 4109
+  - 1475
+- - 4109
+  - 1236
+- - 14
+  - 2677
+- - 3599
+  - 4664
+- - 3599
+  - 1378
+- - 1552
+  - 3115
+- - 1552
+  - 31
+- - 2064
+  - 2189
+- - 2064
+  - 1711
+- - 20
+  - 3989
+- - 20
+  - 3767
+- - 3094
+  - 4423
+- - 3094
+  - 421
+- - 1559
+  - 3565
+- - 1559
+  - 2437
+- - 1561
+  - 4698
+- - 1561
+  - 4794
+- - 537
+  - 3651
+- - 537
+  - 2274
+- - 539
+  - 2939
+- - 539
+  - 3730
+- - 539
+  - 3650
+- - 31
+  - 2151
+- - 3103
+  - 4140
+- - 3103
+  - 2189
+- - 1060
+  - 2699
+- - 1060
+  - 1098
+- - 3112
+  - 590
+- - 3112
+  - 4698
+- - 2090
+  - 4049
+- - 2090
+  - 1616
+- - 5163
+  - 1468
+- - 5163
+  - 323
+- - 3115
+  - 3464
+- - 45
+  - 1178
+- - 45
+  - 98
+- - 4140
+  - 790
+- - 2093
+  - 1466
+- - 2093
+  - 5082
+- - 3627
+  - 3731
+- - 2608
+  - 400
+- - 2608
+  - 3989
+- - 562
+  - 4218
+- - 562
+  - 4049
+- - 4147
+  - 2657
+- - 4147
+  - 3239
+- - 1075
+  - 4450
+- - 1075
+  - 4583
+- - 4664
+  - 2650
+- - 2105
+  - 1692
+- - 2105
+  - 5373
+- - 3130
+  - 1236
+- - 3130
+  - 1468
+- - 4668
+  - 3745
+- - 3651
+  - 3453
+- - 1092
+  - 170
+- - 1092
+  - 852
+- - 1094
+  - 5301
+- - 1094
+  - 3513
+- - 2631
+  - 3316
+- - 2631
+  - 3936
+- - 1098
+  - 4439
+- - 1098
+  - 2664
+- - 590
+  - 181
+- - 2127
+  - 4826
+- - 2127
+  - 2969
+- - 1616
+  - 996
+- - 4688
+  - 5362
+- - 4688
+  - 4451
+- - 5200
+  - 4453
+- - 85
+  - 2309
+- - 85
+  - 1244
+- - 1111
+  - 3971
+- - 1111
+  - 4774
+- - 2650
+  - 1487
+- - 3677
+  - 323
+- - 3677
+  - 1442
+- - 606
+  - 5296
+- - 606
+  - 1385
+- - 1120
+  - 1151
+- - 1120
+  - 3829
+- - 1120
+  - 3263
+- - 2657
+  - 396
+- - 98
+  - 2176
+- - 1123
+  - 2486
+- - 1123
+  - 2699
+- - 2151
+  - 3336
+- - 2664
+  - 3976
+- - 618
+  - 5318
+- - 618
+  - 807
+- - 4205
+  - 2172
+- - 4205
+  - 4774
+- - 1649
+  - 1711
+- - 1649
+  - 3039
+- - 1141
+  - 2172
+- - 1141
+  - 3453
+- - 2677
+  - 3730
+- - 2168
+  - 2542
+- - 2168
+  - 3276
+- - 3194
+  - 1184
+- - 4218
+  - 351
+- - 2172
+  - 351
+- - 126
+  - 4983
+- - 126
+  - 176
+- - 4735
+  - 293
+- - 4735
+  - 1938
+- - 2176
+  - 204
+- - 1151
+  - 3811
+- - 4740
+  - 2546
+- - 4740
+  - 3491
+- - 2181
+  - 3446
+- - 2181
+  - 2766
+- - 5255
+  - 1184
+- - 5255
+  - 4572
+- - 2697
+  - 4525
+- - 2697
+  - 784
+- - 1676
+  - 5044
+- - 1676
+  - 1364
+- - 3731
+  - 3355
+- - 1178
+  - 886
+- - 1692
+  - 2995
+- - 1185
+  - 1385
+- - 1185
+  - 3450
+- - 3745
+  - 2414
+- - 5287
+  - 2276
+- - 5287
+  - 4385
+- - 2728
+  - 4531
+- - 2728
+  - 790
+- - 3239
+  - 4308
+- - 170
+  - 4794
+- - 176
+  - 863
+- - 5296
+  - 5373
+- - 4785
+  - 1364
+- - 4785
+  - 1466
+- - 1712
+  - 1938
+- - 1712
+  - 4374
+- - 181
+  - 4308
+- - 5301
+  - 4583
+- - 3767
+  - 3446
+- - 1722
+  - 4444
+- - 1722
+  - 2309
+- - 5307
+  - 996
+- - 5307
+  - 1733
+- - 1211
+  - 2437
+- - 1211
+  - 3050
+- - 3770
+  - 3366
+- - 3770
+  - 3011
+- - 3263
+  - 3464
+- - 708
+  - 1941
+- - 708
+  - 5044
+- - 1733
+  - 745
+- - 5318
+  - 1405
+- - 3276
+  - 3017
+- - 204
+  - 2879
+- - 3284
+  - 4439
+- - 3284
+  - 4553
+- - 4826
+  - 3017
+- - 2274
+  - 3032
+- - 3811
+  - 4572
+- - 2276
+  - 4472
+- - 1255
+  - 3939
+- - 1255
+  - 4472
+- - 745
+  - 3857
+- - 1258
+  - 1315
+- - 2286
+  - 852
+- - 2286
+  - 4525
+- - 751
+  - 3032
+- - 751
+  - 5084
+- - 752
+  - 4374
+- - 752
+  - 1487
+- - 239
+  - 990
+- - 239
+  - 1451
+- - 239
+  - 449
+- - 1778
+  - 3857
+- - 1778
+  - 2542
+- - 5362
+  - 3336
+- - 3316
+  - 4525
+- - 3829
+  - 1941
+- - 4854
+  - 1475
+- - 3319
+  - 3366
+- - 3319
+  - 2329
+- - 5367
+  - 1579
+- - 5367
+  - 4975
+- - 1789
+  - 3513
+- - 1789
+  - 990
+- - 770
+  - 3355
+- - 770
+  - 1335
+- - 262
+  - 829
+- - 262
+  - 3352
+- - 3342
+  - 3556
+- - 3342
+  - 1328
+- - 784
+  - 293
+- - 2329
+  - 4450
+- - 4893
+  - 4451
+- - 4893
+  - 1315
+- - 2848
+  - 3976
+- - 2848
+  - 386
+- - 4385
+  - 4061
+- - 1826
+  - 4916
+- - 3366
+  - 876
+- - 807
+  - 886
+- - 1328
+  - 4966
+- - 1335
+  - 400
+- - 829
+  - 3963
+- - 830
+  - 1378
+- - 830
+  - 3565
+- - 2879
+  - 2931
+- - 4415
+  - 4945
+- - 4415
+  - 2938
+- - 2884
+  - 4061
+- - 2884
+  - 1353
+- - 3910
+  - 3050
+- - 3910
+  - 876
+- - 4423
+  - 1442
+- - 1353
+  - 1405
+- - 4945
+  - 4966
+- - 4434
+  - 3491
+- - 4444
+  - 5084
+- - 863
+  - 3971
+- - 3936
+  - 4461
+- - 3939
+  - 2969
+- - 4454
+  - 2995
+- - 4456
+  - 3011
+- - 4456
+  - 2019
+- - 4453
+  - 386
+- - 4461
+  - 3556
+- - 2414
+  - 2019
+- - 4975
+  - 2486
+- - 2931
+  - 4490
+- - 4983
+  - 893
+- - 3450
+  - 2939
+- - 2938
+  - 1948
+- - 893
+  - 421
+- - 3963
+  - 509
+- - 2947
+  - 5082
+- - 2947
+  - 2003
+- - 4490
+  - 4531
+- - 3468
+  - 2003
+- - 3468
+  - 2546
+- - 396
+  - 3039
+- - 1948
+  - 509
+- - 4553
+  - 1523
+node_attributes:
+  pos:
+    2048:
+    - 549315.95
+    - 5999698.25
+    - 303.26
+    2:
+    - 549304.67
+    - 5999704.37
+    - 328.6
+    3:
+    - 549319.18
+    - 5999695.24
+    - 297.91
+    5124:
+    - 549318.65
+    - 5999695.67
+    - 297.91
+    5126:
+    - 549310.02
+    - 5999703.68
+    - 303.33
+    1030:
+    - 549358.52
+    - 5999448.18
+    - 401.64
+    4104:
+    - 549337.27
+    - 5999685.62
+    - 274.81
+    4109:
+    - 549306.17
+    - 5999708.28
+    - 303.39
+    14:
+    - 549316.37
+    - 5999697.96
+    - 303.25
+    3599:
+    - 549350.73
+    - 5999527.67
+    - 401.64
+    1552:
+    - 549342.36
+    - 5999675.6
+    - 296.11
+    2064:
+    - 549335.06
+    - 5999622.22
+    - 401.64
+    20:
+    - 549349.95
+    - 5999675.0
+    - 264.61
+    3094:
+    - 549287.82
+    - 5999724.45
+    - 303.62
+    1559:
+    - 549349.13
+    - 5999517.34
+    - 401.64
+    1561:
+    - 549338.2
+    - 5999586.16
+    - 401.64
+    537:
+    - 549293.23
+    - 5999713.94
+    - 328.44
+    539:
+    - 549317.9
+    - 5999696.5
+    - 303.21
+    31:
+    - 549344.64
+    - 5999674.22
+    - 296.11
+    3103:
+    - 549339.44
+    - 5999628.81
+    - 401.64
+    1060:
+    - 549339.27
+    - 5999457.6
+    - 401.64
+    3112:
+    - 549326.73
+    - 5999594.56
+    - 401.64
+    2090:
+    - 549287.94
+    - 5999712.25
+    - 351.04
+    5163:
+    - 549296.9
+    - 5999716.71
+    - 303.5
+    3115:
+    - 549341.66
+    - 5999676.38
+    - 296.11
+    45:
+    - 549338.59
+    - 5999636.45
+    - 393.64
+    4140:
+    - 549341.16
+    - 5999630.2
+    - 401.64
+    2093:
+    - 549323.81
+    - 5999695.19
+    - 287.71
+    3627:
+    - 549339.57
+    - 5999683.55
+    - 274.81
+    2608:
+    - 549345.99
+    - 5999678.52
+    - 264.61
+    562:
+    - 549287.95
+    - 5999713.43
+    - 347.04
+    4147:
+    - 549330.04
+    - 5999607.66
+    - 401.64
+    1075:
+    - 549379.48
+    - 5999491.58
+    - 401.64
+    4664:
+    - 549346.42
+    - 5999533.42
+    - 401.64
+    2105:
+    - 549313.59
+    - 5999696.28
+    - 318.07
+    3130:
+    - 549304.17
+    - 5999710.39
+    - 303.42
+    4668:
+    - 549399.41
+    - 5999509.44
+    - 401.64
+    3650:
+    - 549318.65
+    - 5999695.67
+    - 303.21
+    3651:
+    - 549291.64
+    - 5999715.02
+    - 328.42
+    1092:
+    - 549339.64
+    - 5999580.46
+    - 401.64
+    1094:
+    - 549377.23
+    - 5999479.69
+    - 401.64
+    2631:
+    - 549335.51
+    - 5999562.97
+    - 401.64
+    1098:
+    - 549336.5
+    - 5999457.12
+    - 401.64
+    590:
+    - 549327.69
+    - 5999599.88
+    - 401.64
+    2127:
+    - 549334.13
+    - 5999664.5
+    - 386.94
+    1616:
+    - 549287.94
+    - 5999712.25
+    - 358.54
+    4688:
+    - 549355.42
+    - 5999665.09
+    - 296.11
+    5200:
+    - 549297.37
+    - 5999482.58
+    - 401.64
+    85:
+    - 549300.98
+    - 5999707.28
+    - 328.56
+    1111:
+    - 549289.18
+    - 5999718.68
+    - 311.45
+    4698:
+    - 549330.35
+    - 5999590.92
+    - 401.64
+    2650:
+    - 549346.24
+    - 5999539.21
+    - 401.64
+    3677:
+    - 549293.06
+    - 5999720.62
+    - 303.55
+    606:
+    - 549316.86
+    - 5999695.19
+    - 314.16
+    1120:
+    - 549337.82
+    - 5999681.44
+    - 296.11
+    2657:
+    - 549328.19
+    - 5999611.47
+    - 401.64
+    98:
+    - 549338.59
+    - 5999636.45
+    - 395.24
+    1123:
+    - 549345.77
+    - 5999452.39
+    - 401.64
+    2151:
+    - 549347.64
+    - 5999671.59
+    - 296.11
+    2664:
+    - 549329.02
+    - 5999458.61
+    - 401.64
+    618:
+    - 549334.97
+    - 5999638.84
+    - 390.54
+    4205:
+    - 549288.07
+    - 5999715.55
+    - 311.48
+    1649:
+    - 549332.18
+    - 5999618.23
+    - 401.64
+    1141:
+    - 549289.95
+    - 5999715.47
+    - 339.05
+    2677:
+    - 549316.91
+    - 5999697.48
+    - 303.24
+    2168:
+    - 549313.85
+    - 5999684.83
+    - 386.94
+    3194:
+    - 549320.48
+    - 5999694.25
+    - 297.91
+    4218:
+    - 549288.0
+    - 5999714.07
+    - 347.04
+    2172:
+    - 549288.09
+    - 5999715.57
+    - 339.04
+    126:
+    - 549287.89
+    - 5999723.01
+    - 309.35
+    4735:
+    - 549349.55
+    - 5999557.58
+    - 401.64
+    2176:
+    - 549337.96
+    - 5999634.5
+    - 395.24
+    1151:
+    - 549337.82
+    - 5999681.44
+    - 297.91
+    4740:
+    - 549331.91
+    - 5999690.31
+    - 279.31
+    2181:
+    - 549352.98
+    - 5999673.36
+    - 263.09
+    5255:
+    - 549329.12
+    - 5999686.14
+    - 297.91
+    2697:
+    - 549345.01
+    - 5999566.32
+    - 401.64
+    2699:
+    - 549341.69
+    - 5999456.08
+    - 401.64
+    1676:
+    - 549329.17
+    - 5999689.68
+    - 293.01
+    2189:
+    - 549338.21
+    - 5999626.08
+    - 401.64
+    3730:
+    - 549317.48
+    - 5999696.79
+    - 303.22
+    3731:
+    - 549341.55
+    - 5999681.87
+    - 274.81
+    1178:
+    - 549337.09
+    - 5999639.06
+    - 393.64
+    1692:
+    - 549313.59
+    - 5999696.28
+    - 328.72
+    1184:
+    - 549326.09
+    - 5999688.61
+    - 297.91
+    1185:
+    - 549317.35
+    - 5999695.66
+    - 311.13
+    3745:
+    - 549394.42
+    - 5999508.22
+    - 401.64
+    4774:
+    - 549288.74
+    - 5999717.04
+    - 311.47
+    5287:
+    - 549336.19
+    - 5999643.34
+    - 386.94
+    2728:
+    - 549341.85
+    - 5999631.01
+    - 400.04
+    3239:
+    - 549328.89
+    - 5999606.35
+    - 401.64
+    170:
+    - 549341.4
+    - 5999585.81
+    - 401.64
+    1711:
+    - 549333.53
+    - 5999619.36
+    - 401.64
+    176:
+    - 549287.79
+    - 5999721.91
+    - 309.36
+    5296:
+    - 549316.86
+    - 5999695.19
+    - 318.11
+    4785:
+    - 549325.55
+    - 5999693.45
+    - 293.01
+    1712:
+    - 549349.56
+    - 5999549.85
+    - 401.64
+    181:
+    - 549327.59
+    - 5999601.86
+    - 401.64
+    5301:
+    - 549377.45
+    - 5999483.62
+    - 401.64
+    3767:
+    - 549351.05
+    - 5999674.07
+    - 264.61
+    1722:
+    - 549298.66
+    - 5999709.05
+    - 328.53
+    5307:
+    - 549287.41
+    - 5999708.5
+    - 369.64
+    4794:
+    - 549340.27
+    - 5999587.17
+    - 401.64
+    1211:
+    - 549354.25
+    - 5999514.47
+    - 401.64
+    3770:
+    - 549375.73
+    - 5999503.53
+    - 401.64
+    3263:
+    - 549338.94
+    - 5999680.32
+    - 296.11
+    708:
+    - 549334.21
+    - 5999685.63
+    - 293.01
+    1733:
+    - 549288.81
+    - 5999706.32
+    - 369.64
+    5318:
+    - 549334.38
+    - 5999639.55
+    - 390.54
+    3276:
+    - 549316.22
+    - 5999681.04
+    - 386.94
+    204:
+    - 549337.96
+    - 5999634.5
+    - 396.84
+    2766:
+    - 549352.98
+    - 5999673.36
+    - 259.74
+    1236:
+    - 549305.35
+    - 5999709.2
+    - 303.4
+    4308:
+    - 549327.12
+    - 5999603.74
+    - 401.64
+    3284:
+    - 549336.58
+    - 5999453.16
+    - 401.64
+    4826:
+    - 549327.73
+    - 5999673.38
+    - 386.94
+    1244:
+    - 549302.18
+    - 5999706.47
+    - 328.58
+    2274:
+    - 549294.28
+    - 5999712.98
+    - 328.46
+    3811:
+    - 549335.2
+    - 5999680.7
+    - 297.91
+    2276:
+    - 549336.86
+    - 5999644.06
+    - 386.94
+    1255:
+    - 549338.63
+    - 5999646.06
+    - 386.94
+    745:
+    - 549288.81
+    - 5999706.32
+    - 372.74
+    1258:
+    - 549363.28
+    - 5999659.11
+    - 296.11
+    2286:
+    - 549341.97
+    - 5999569.41
+    - 401.64
+    751:
+    - 549296.58
+    - 5999710.72
+    - 328.49
+    752:
+    - 549350.13
+    - 5999546.55
+    - 401.64
+    239:
+    - 549366.05
+    - 5999453.74
+    - 401.64
+    1778:
+    - 549293.21
+    - 5999702.86
+    - 386.94
+    5362:
+    - 549352.24
+    - 5999667.78
+    - 296.11
+    3316:
+    - 549338.94
+    - 5999565.55
+    - 401.64
+    3829:
+    - 549336.58
+    - 5999683.15
+    - 296.11
+    4854:
+    - 549309.35
+    - 5999704.89
+    - 303.35
+    3319:
+    - 549382.37
+    - 5999498.54
+    - 401.64
+    5367:
+    - 549354.66
+    - 5999450.04
+    - 401.64
+    5373:
+    - 549316.02
+    - 5999694.16
+    - 318.1
+    1789:
+    - 549369.69
+    - 5999468.99
+    - 401.64
+    770:
+    - 549342.58
+    - 5999680.59
+    - 269.01
+    2309:
+    - 549299.6
+    - 5999708.36
+    - 328.55
+    262:
+    - 549317.47
+    - 5999539.1
+    - 419.84
+    3336:
+    - 549348.3
+    - 5999671.11
+    - 296.11
+    1579:
+    - 549356.82
+    - 5999448.46
+    - 401.64
+    3342:
+    - 549316.69
+    - 5999543.21
+    - 401.64
+    784:
+    - 549350.95
+    - 5999567.57
+    - 401.64
+    3857:
+    - 549293.21
+    - 5999702.86
+    - 372.74
+    790:
+    - 549341.85
+    - 5999631.01
+    - 401.64
+    4374:
+    - 549350.57
+    - 5999547.75
+    - 401.64
+    3352:
+    - 549315.39
+    - 5999541.19
+    - 419.84
+    2329:
+    - 549384.43
+    - 5999496.85
+    - 401.64
+    3355:
+    - 549341.55
+    - 5999681.87
+    - 269.01
+    4893:
+    - 549360.02
+    - 5999661.46
+    - 296.11
+    2848:
+    - 549314.42
+    - 5999469.55
+    - 401.64
+    4385:
+    - 549336.19
+    - 5999643.34
+    - 387.84
+    1826:
+    - 549312.08
+    - 5999702.28
+    - 303.31
+    1315:
+    - 549361.95
+    - 5999660.16
+    - 296.11
+    293:
+    - 549350.65
+    - 5999562.28
+    - 401.64
+    3366:
+    - 549373.97
+    - 5999501.96
+    - 401.64
+    807:
+    - 549334.97
+    - 5999638.84
+    - 392.04
+    1328:
+    - 549323.84
+    - 5999534.0
+    - 401.64
+    4916:
+    - 549314.82
+    - 5999699.69
+    - 303.28
+    1335:
+    - 549342.58
+    - 5999680.59
+    - 264.61
+    829:
+    - 549317.47
+    - 5999539.1
+    - 413.14
+    830:
+    - 549348.16
+    - 5999524.34
+    - 401.64
+    2879:
+    - 549338.68
+    - 5999632.93
+    - 396.84
+    4415:
+    - 549323.12
+    - 5999532.98
+    - 407.84
+    323:
+    - 549293.82
+    - 5999719.93
+    - 303.54
+    2884:
+    - 549335.2
+    - 5999642.03
+    - 388.44
+    3910:
+    - 549360.34
+    - 5999510.87
+    - 401.64
+    4423:
+    - 549290.55
+    - 5999722.67
+    - 303.59
+    1353:
+    - 549334.1
+    - 5999640.89
+    - 388.44
+    4945:
+    - 549323.12
+    - 5999532.98
+    - 401.64
+    4434:
+    - 549337.27
+    - 5999685.62
+    - 277.51
+    1364:
+    - 549327.41
+    - 5999691.65
+    - 293.01
+    852:
+    - 549342.13
+    - 5999577.25
+    - 401.64
+    4439:
+    - 549337.49
+    - 5999455.0
+    - 401.64
+    4444:
+    - 549297.72
+    - 5999709.9
+    - 328.52
+    863:
+    - 549287.8
+    - 5999721.91
+    - 311.42
+    351:
+    - 549288.0
+    - 5999714.07
+    - 339.04
+    3936:
+    - 549329.63
+    - 5999561.53
+    - 401.64
+    1378:
+    - 549349.53
+    - 5999525.52
+    - 401.64
+    3939:
+    - 549344.77
+    - 5999651.97
+    - 386.94
+    4451:
+    - 549358.57
+    - 5999663.03
+    - 296.11
+    4450:
+    - 549383.91
+    - 5999493.93
+    - 401.64
+    4454:
+    - 549309.38
+    - 5999699.81
+    - 328.67
+    4966:
+    - 549324.1
+    - 5999531.81
+    - 401.64
+    4456:
+    - 549381.05
+    - 5999504.95
+    - 401.64
+    1385:
+    - 549317.35
+    - 5999695.66
+    - 314.18
+    4453:
+    - 549305.08
+    - 5999476.52
+    - 401.64
+    876:
+    - 549366.95
+    - 5999503.22
+    - 401.64
+    4461:
+    - 549327.22
+    - 5999554.18
+    - 401.64
+    2414:
+    - 549390.06
+    - 5999506.98
+    - 401.64
+    4975:
+    - 549351.99
+    - 5999451.72
+    - 401.64
+    2931:
+    - 549338.68
+    - 5999632.93
+    - 398.44
+    886:
+    - 549337.09
+    - 5999639.06
+    - 392.04
+    4983:
+    - 549287.89
+    - 5999723.0
+    - 307.3
+    4472:
+    - 549337.52
+    - 5999644.85
+    - 386.94
+    3446:
+    - 549351.05
+    - 5999674.07
+    - 263.09
+    3450:
+    - 549317.6
+    - 5999695.94
+    - 311.14
+    2939:
+    - 549317.6
+    - 5999695.94
+    - 303.2
+    2938:
+    - 549321.43
+    - 5999534.95
+    - 407.84
+    893:
+    - 549287.94
+    - 5999723.64
+    - 307.28
+    3453:
+    - 549289.95
+    - 5999715.48
+    - 328.41
+    1405:
+    - 549334.1
+    - 5999640.89
+    - 390.54
+    3963:
+    - 549319.78
+    - 5999536.85
+    - 413.14
+    386:
+    - 549310.45
+    - 5999472.14
+    - 401.64
+    3971:
+    - 549288.2
+    - 5999720.89
+    - 311.43
+    2947:
+    - 549324.83
+    - 5999696.37
+    - 287.71
+    2437:
+    - 549351.9
+    - 5999515.79
+    - 401.64
+    3464:
+    - 549340.07
+    - 5999678.42
+    - 296.11
+    3976:
+    - 549321.62
+    - 5999464.84
+    - 401.64
+    4490:
+    - 549341.5
+    - 5999632.27
+    - 398.44
+    3468:
+    - 549327.02
+    - 5999695.15
+    - 279.31
+    396:
+    - 549327.1
+    - 5999613.04
+    - 401.64
+    400:
+    - 549344.32
+    - 5999679.06
+    - 264.61
+    1938:
+    - 549349.05
+    - 5999553.56
+    - 401.64
+    1941:
+    - 549334.21
+    - 5999685.63
+    - 296.11
+    3989:
+    - 549348.5
+    - 5999676.61
+    - 264.61
+    2969:
+    - 549339.62
+    - 5999658.37
+    - 386.94
+    1948:
+    - 549321.43
+    - 5999534.95
+    - 410.94
+    1442:
+    - 549292.55
+    - 5999721.08
+    - 303.57
+    3491:
+    - 549331.91
+    - 5999690.31
+    - 277.51
+    421:
+    - 549287.94
+    - 5999723.64
+    - 303.63
+    1451:
+    - 549368.17
+    - 5999451.53
+    - 401.64
+    4525:
+    - 549341.84
+    - 5999565.94
+    - 401.64
+    2995:
+    - 549312.39
+    - 5999697.36
+    - 328.7
+    5044:
+    - 549331.53
+    - 5999687.88
+    - 293.01
+    4531:
+    - 549341.5
+    - 5999632.27
+    - 400.04
+    2486:
+    - 549349.49
+    - 5999451.99
+    - 401.64
+    3513:
+    - 549376.84
+    - 5999475.4
+    - 401.64
+    1466:
+    - 549323.81
+    - 5999695.19
+    - 293.01
+    1468:
+    - 549301.04
+    - 5999713.33
+    - 303.46
+    449:
+    - 549362.16
+    - 5999450.73
+    - 401.64
+    1475:
+    - 549308.44
+    - 5999706.56
+    - 303.37
+    3011:
+    - 549378.32
+    - 5999503.57
+    - 401.64
+    3017:
+    - 549322.97
+    - 5999679.08
+    - 386.94
+    4553:
+    - 549335.63
+    - 5999451.94
+    - 401.64
+    1487:
+    - 549347.59
+    - 5999544.2
+    - 401.64
+    4049:
+    - 549287.95
+    - 5999713.43
+    - 351.04
+    2003:
+    - 549327.02
+    - 5999695.15
+    - 287.71
+    3032:
+    - 549295.64
+    - 5999711.81
+    - 328.47
+    5082:
+    - 549324.21
+    - 5999695.81
+    - 287.71
+    5084:
+    - 549297.07
+    - 5999710.32
+    - 328.5
+    4061:
+    - 549335.2
+    - 5999642.03
+    - 387.84
+    4572:
+    - 549332.34
+    - 5999683.11
+    - 297.91
+    3039:
+    - 549329.51
+    - 5999617.37
+    - 401.64
+    990:
+    - 549368.44
+    - 5999462.0
+    - 401.64
+    2019:
+    - 549384.59
+    - 5999505.63
+    - 401.64
+    996:
+    - 549287.41
+    - 5999708.5
+    - 358.54
+    3556:
+    - 549319.71
+    - 5999551.9
+    - 401.64
+    4583:
+    - 549373.94
+    - 5999486.09
+    - 401.64
+    3050:
+    - 549356.25
+    - 5999512.79
+    - 401.64
+    3565:
+    - 549347.31
+    - 5999518.47
+    - 401.64
+    2542:
+    - 549306.14
+    - 5999694.08
+    - 386.94
+    2546:
+    - 549328.32
+    - 5999693.8
+    - 279.31
+    1523:
+    - 549336.42
+    - 5999450.37
+    - 401.64
+    509:
+    - 549319.78
+    - 5999536.85
+    - 410.94
+  comments:
+    3352:
+    - Dale Head Pot
+  fulladdress:
+    2048:
+    - fountainsfell.daleheadpot_reconstruction.main_route.86
+    2:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.13
+    3:
+    - fountainsfell.daleheadpot_reconstruction.main_route.92
+    5124:
+    - fountainsfell.daleheadpot_reconstruction.main_route.91a
+    5126:
+    - fountainsfell.daleheadpot_reconstruction.main_route.83
+    1030:
+    - fountainsfell.daleheadpot_reconstruction.path4153.35
+    4104:
+    - fountainsfell.daleheadpot_reconstruction.main_route.111a
+    4109:
+    - fountainsfell.daleheadpot_reconstruction.main_route.80
+    14:
+    - fountainsfell.daleheadpot_reconstruction.main_route.87
+    3599:
+    - fountainsfell.daleheadpot_reconstruction.path4153.12
+    1552:
+    - fountainsfell.daleheadpot_reconstruction.path4232.4
+    2064:
+    - fountainsfell.daleheadpot_reconstruction.main_route.32
+    20:
+    - fountainsfell.daleheadpot_reconstruction.main_route.118
+    3094:
+    - fountainsfell.daleheadpot_reconstruction.main_route.71
+    1559:
+    - fountainsfell.daleheadpot_reconstruction.path4153.16
+    1561:
+    - fountainsfell.daleheadpot_reconstruction.main_route.19
+    537:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.3
+    539:
+    - fountainsfell.daleheadpot_reconstruction.main_route.90
+    31:
+    - fountainsfell.daleheadpot_reconstruction.path4232.5
+    3103:
+    - fountainsfell.daleheadpot_reconstruction.main_route.34
+    1060:
+    - fountainsfell.daleheadpot_reconstruction.path4153.42
+    3112:
+    - fountainsfell.daleheadpot_reconstruction.main_route.21
+    2090:
+    - fountainsfell.daleheadpot_reconstruction.main_route.61a
+    5163:
+    - fountainsfell.daleheadpot_reconstruction.main_route.76
+    3115:
+    - fountainsfell.daleheadpot_reconstruction.path4232.3
+    45:
+    - fountainsfell.daleheadpot_reconstruction.main_route.40a
+    4140:
+    - fountainsfell.daleheadpot_reconstruction.main_route.35
+    2093:
+    - fountainsfell.daleheadpot_reconstruction.main_route.105a
+    3627:
+    - fountainsfell.daleheadpot_reconstruction.main_route.112
+    2608:
+    - fountainsfell.daleheadpot_reconstruction.main_route.116
+    562:
+    - fountainsfell.daleheadpot_reconstruction.main_route.62a
+    4147:
+    - fountainsfell.daleheadpot_reconstruction.main_route.26
+    1075:
+    - fountainsfell.daleheadpot_reconstruction.path4153.26
+    4664:
+    - fountainsfell.daleheadpot_reconstruction.path4153.11
+    2105:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.16a
+    3130:
+    - fountainsfell.daleheadpot_reconstruction.main_route.78
+    4668:
+    - fountainsfell.daleheadpot_reconstruction.path4156.7
+    3650:
+    - fountainsfell.daleheadpot_reconstruction.main_route.91
+    3651:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.2
+    1092:
+    - fountainsfell.daleheadpot_reconstruction.main_route.16
+    1094:
+    - fountainsfell.daleheadpot_reconstruction.path4153.29
+    2631:
+    - fountainsfell.daleheadpot_reconstruction.main_route.11
+    1098:
+    - fountainsfell.daleheadpot_reconstruction.path4238.0
+    590:
+    - fountainsfell.daleheadpot_reconstruction.main_route.22
+    2127:
+    - fountainsfell.daleheadpot_reconstruction.main_route.52
+    1616:
+    - fountainsfell.daleheadpot_reconstruction.main_route.61
+    4688:
+    - fountainsfell.daleheadpot_reconstruction.path4232.9
+    5200:
+    - fountainsfell.daleheadpot_reconstruction.path4153.49
+    85:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.11
+    1111:
+    - fountainsfell.daleheadpot_reconstruction.main_route.66
+    4698:
+    - fountainsfell.daleheadpot_reconstruction.main_route.20
+    2650:
+    - fountainsfell.daleheadpot_reconstruction.path4153.10
+    3677:
+    - fountainsfell.daleheadpot_reconstruction.main_route.74
+    606:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.18a
+    1120:
+    - fountainsfell.daleheadpot_reconstruction.path4232.0
+    2657:
+    - fountainsfell.daleheadpot_reconstruction.main_route.27
+    98:
+    - fountainsfell.daleheadpot_reconstruction.main_route.40
+    1123:
+    - fountainsfell.daleheadpot_reconstruction.path4153.40
+    2151:
+    - fountainsfell.daleheadpot_reconstruction.path4232.6
+    2664:
+    - fountainsfell.daleheadpot_reconstruction.path4153.44
+    618:
+    - fountainsfell.daleheadpot_reconstruction.main_route.42a
+    4205:
+    - fountainsfell.daleheadpot_reconstruction.main_route.64a
+    1649:
+    - fountainsfell.daleheadpot_reconstruction.main_route.30
+    1141:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.1
+    2677:
+    - fountainsfell.daleheadpot_reconstruction.main_route.88
+    2168:
+    - fountainsfell.daleheadpot_reconstruction.main_route.56
+    3194:
+    - fountainsfell.daleheadpot_reconstruction.main_route.93
+    4218:
+    - fountainsfell.daleheadpot_reconstruction.main_route.63
+    2172:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.0
+    126:
+    - fountainsfell.daleheadpot_reconstruction.main_route.69
+    4735:
+    - fountainsfell.daleheadpot_reconstruction.path4153.4
+    2176:
+    - fountainsfell.daleheadpot_reconstruction.main_route.39a
+    1151:
+    - fountainsfell.daleheadpot_reconstruction.main_route.98a
+    4740:
+    - fountainsfell.daleheadpot_reconstruction.main_route.110
+    2181:
+    - fountainsfell.daleheadpot_reconstruction.main_route.120
+    5255:
+    - fountainsfell.daleheadpot_reconstruction.main_route.95
+    2697:
+    - fountainsfell.daleheadpot_reconstruction.path4153.1
+    2699:
+    - fountainsfell.daleheadpot_reconstruction.path4153.41
+    1676:
+    - fountainsfell.daleheadpot_reconstruction.main_route.102
+    2189:
+    - fountainsfell.daleheadpot_reconstruction.main_route.33
+    3730:
+    - fountainsfell.daleheadpot_reconstruction.main_route.89
+    3731:
+    - fountainsfell.daleheadpot_reconstruction.main_route.113
+    1178:
+    - fountainsfell.daleheadpot_reconstruction.main_route.41
+    1692:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.16
+    1184:
+    - fountainsfell.daleheadpot_reconstruction.main_route.94
+    1185:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.19a
+    3745:
+    - fountainsfell.daleheadpot_reconstruction.path4156.6
+    4774:
+    - fountainsfell.daleheadpot_reconstruction.main_route.65
+    5287:
+    - fountainsfell.daleheadpot_reconstruction.main_route.46a
+    2728:
+    - fountainsfell.daleheadpot_reconstruction.main_route.36a
+    3239:
+    - fountainsfell.daleheadpot_reconstruction.main_route.25
+    170:
+    - fountainsfell.daleheadpot_reconstruction.main_route.17
+    1711:
+    - fountainsfell.daleheadpot_reconstruction.main_route.31
+    176:
+    - fountainsfell.daleheadpot_reconstruction.main_route.68a
+    5296:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.18
+    4785:
+    - fountainsfell.daleheadpot_reconstruction.main_route.104
+    1712:
+    - fountainsfell.daleheadpot_reconstruction.path4153.6
+    181:
+    - fountainsfell.daleheadpot_reconstruction.main_route.23
+    5301:
+    - fountainsfell.daleheadpot_reconstruction.path4153.28
+    3767:
+    - fountainsfell.daleheadpot_reconstruction.main_route.119
+    1722:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.9
+    5307:
+    - fountainsfell.daleheadpot_reconstruction.main_route.60
+    4794:
+    - fountainsfell.daleheadpot_reconstruction.main_route.18
+    1211:
+    - fountainsfell.daleheadpot_reconstruction.path4153.18
+    3770:
+    - fountainsfell.daleheadpot_reconstruction.path4156.1
+    3263:
+    - fountainsfell.daleheadpot_reconstruction.path4232.1
+    708:
+    - fountainsfell.daleheadpot_reconstruction.main_route.100a
+    1733:
+    - fountainsfell.daleheadpot_reconstruction.main_route.59a
+    5318:
+    - fountainsfell.daleheadpot_reconstruction.main_route.43
+    3276:
+    - fountainsfell.daleheadpot_reconstruction.main_route.55
+    204:
+    - fountainsfell.daleheadpot_reconstruction.main_route.39
+    2766:
+    - fountainsfell.daleheadpot_reconstruction.main_route.120a
+    1236:
+    - fountainsfell.daleheadpot_reconstruction.main_route.79
+    4308:
+    - fountainsfell.daleheadpot_reconstruction.main_route.24
+    3284:
+    - fountainsfell.daleheadpot_reconstruction.path4238.2
+    4826:
+    - fountainsfell.daleheadpot_reconstruction.main_route.53
+    1244:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.12
+    2274:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.4
+    3811:
+    - fountainsfell.daleheadpot_reconstruction.main_route.97
+    2276:
+    - fountainsfell.daleheadpot_reconstruction.main_route.47
+    1255:
+    - fountainsfell.daleheadpot_reconstruction.main_route.49
+    745:
+    - fountainsfell.daleheadpot_reconstruction.main_route.59
+    1258:
+    - fountainsfell.daleheadpot_reconstruction.path4232.13
+    2286:
+    - fountainsfell.daleheadpot_reconstruction.main_route.14
+    751:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.6
+    752:
+    - fountainsfell.daleheadpot_reconstruction.path4153.8
+    239:
+    - fountainsfell.daleheadpot_reconstruction.path4235.0
+    1778:
+    - fountainsfell.daleheadpot_reconstruction.main_route.58
+    5362:
+    - fountainsfell.daleheadpot_reconstruction.path4232.8
+    3316:
+    - fountainsfell.daleheadpot_reconstruction.main_route.12
+    3829:
+    - fountainsfell.daleheadpot_reconstruction.main_route.99
+    4854:
+    - fountainsfell.daleheadpot_reconstruction.main_route.82
+    3319:
+    - fountainsfell.daleheadpot_reconstruction.path4153.23
+    5367:
+    - fountainsfell.daleheadpot_reconstruction.path4153.37
+    5373:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.17
+    1789:
+    - fountainsfell.daleheadpot_reconstruction.path4153.31
+    770:
+    - fountainsfell.daleheadpot_reconstruction.main_route.114
+    2309:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.10
+    262:
+    - fountainsfell.daleheadpot_reconstruction.main_route.1
+    3336:
+    - fountainsfell.daleheadpot_reconstruction.path4232.7
+    1579:
+    - fountainsfell.daleheadpot_reconstruction.path4153.36
+    3342:
+    - fountainsfell.daleheadpot_reconstruction.main_route.7
+    784:
+    - fountainsfell.daleheadpot_reconstruction.path4153.2
+    3857:
+    - fountainsfell.daleheadpot_reconstruction.main_route.58a
+    790:
+    - fountainsfell.daleheadpot_reconstruction.main_route.36
+    4374:
+    - fountainsfell.daleheadpot_reconstruction.path4153.7
+    3352:
+    - fountainsfell.ffgps.dh1
+    2329:
+    - fountainsfell.daleheadpot_reconstruction.path4153.24
+    3355:
+    - fountainsfell.daleheadpot_reconstruction.main_route.113a
+    4893:
+    - fountainsfell.daleheadpot_reconstruction.path4232.11
+    2848:
+    - fountainsfell.daleheadpot_reconstruction.path4153.46
+    4385:
+    - fountainsfell.daleheadpot_reconstruction.main_route.46
+    1826:
+    - fountainsfell.daleheadpot_reconstruction.main_route.84
+    1315:
+    - fountainsfell.daleheadpot_reconstruction.path4232.12
+    293:
+    - fountainsfell.daleheadpot_reconstruction.path4153.3
+    3366:
+    - fountainsfell.daleheadpot_reconstruction.path4156.0
+    807:
+    - fountainsfell.daleheadpot_reconstruction.main_route.42
+    1328:
+    - fountainsfell.daleheadpot_reconstruction.main_route.6
+    4916:
+    - fountainsfell.daleheadpot_reconstruction.main_route.85
+    1335:
+    - fountainsfell.daleheadpot_reconstruction.main_route.114a
+    829:
+    - fountainsfell.daleheadpot_reconstruction.main_route.1a
+    830:
+    - fountainsfell.daleheadpot_reconstruction.path4153.14
+    2879:
+    - fountainsfell.daleheadpot_reconstruction.main_route.38a
+    4415:
+    - fountainsfell.daleheadpot_reconstruction.main_route.4
+    323:
+    - fountainsfell.daleheadpot_reconstruction.main_route.75
+    2884:
+    - fountainsfell.daleheadpot_reconstruction.main_route.45
+    3910:
+    - fountainsfell.daleheadpot_reconstruction.path4153.20
+    4423:
+    - fountainsfell.daleheadpot_reconstruction.main_route.72
+    1353:
+    - fountainsfell.daleheadpot_reconstruction.main_route.44a
+    4945:
+    - fountainsfell.daleheadpot_reconstruction.main_route.4a
+    4434:
+    - fountainsfell.daleheadpot_reconstruction.main_route.111
+    1364:
+    - fountainsfell.daleheadpot_reconstruction.main_route.103
+    852:
+    - fountainsfell.daleheadpot_reconstruction.main_route.15
+    4439:
+    - fountainsfell.daleheadpot_reconstruction.path4238.1
+    4444:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.8
+    863:
+    - fountainsfell.daleheadpot_reconstruction.main_route.68
+    351:
+    - fountainsfell.daleheadpot_reconstruction.main_route.63a
+    3936:
+    - fountainsfell.daleheadpot_reconstruction.main_route.10
+    1378:
+    - fountainsfell.daleheadpot_reconstruction.path4153.13
+    3939:
+    - fountainsfell.daleheadpot_reconstruction.main_route.50
+    4451:
+    - fountainsfell.daleheadpot_reconstruction.path4232.10
+    4450:
+    - fountainsfell.daleheadpot_reconstruction.path4153.25
+    4454:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.14
+    4966:
+    - fountainsfell.daleheadpot_reconstruction.main_route.5
+    4456:
+    - fountainsfell.daleheadpot_reconstruction.path4156.3
+    1385:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.19
+    4453:
+    - fountainsfell.daleheadpot_reconstruction.path4153.48
+    876:
+    - fountainsfell.daleheadpot_reconstruction.path4153.21
+    4461:
+    - fountainsfell.daleheadpot_reconstruction.main_route.9
+    2414:
+    - fountainsfell.daleheadpot_reconstruction.path4156.5
+    4975:
+    - fountainsfell.daleheadpot_reconstruction.path4153.38
+    2931:
+    - fountainsfell.daleheadpot_reconstruction.main_route.38
+    886:
+    - fountainsfell.daleheadpot_reconstruction.main_route.41a
+    4983:
+    - fountainsfell.daleheadpot_reconstruction.main_route.69a
+    4472:
+    - fountainsfell.daleheadpot_reconstruction.main_route.48
+    3446:
+    - fountainsfell.daleheadpot_reconstruction.main_route.119a
+    3450:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.20
+    2939:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.20a
+    2938:
+    - fountainsfell.daleheadpot_reconstruction.main_route.3a
+    893:
+    - fountainsfell.daleheadpot_reconstruction.main_route.70
+    3453:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.1a
+    1405:
+    - fountainsfell.daleheadpot_reconstruction.main_route.44
+    3963:
+    - fountainsfell.daleheadpot_reconstruction.main_route.2
+    386:
+    - fountainsfell.daleheadpot_reconstruction.path4153.47
+    3971:
+    - fountainsfell.daleheadpot_reconstruction.main_route.67
+    2947:
+    - fountainsfell.daleheadpot_reconstruction.main_route.107
+    2437:
+    - fountainsfell.daleheadpot_reconstruction.path4153.17
+    3464:
+    - fountainsfell.daleheadpot_reconstruction.path4232.2
+    3976:
+    - fountainsfell.daleheadpot_reconstruction.path4153.45
+    4490:
+    - fountainsfell.daleheadpot_reconstruction.main_route.37a
+    3468:
+    - fountainsfell.daleheadpot_reconstruction.main_route.108a
+    396:
+    - fountainsfell.daleheadpot_reconstruction.main_route.28
+    400:
+    - fountainsfell.daleheadpot_reconstruction.main_route.115
+    1938:
+    - fountainsfell.daleheadpot_reconstruction.path4153.5
+    1941:
+    - fountainsfell.daleheadpot_reconstruction.main_route.100
+    3989:
+    - fountainsfell.daleheadpot_reconstruction.main_route.117
+    2969:
+    - fountainsfell.daleheadpot_reconstruction.main_route.51
+    1948:
+    - fountainsfell.daleheadpot_reconstruction.main_route.3
+    1442:
+    - fountainsfell.daleheadpot_reconstruction.main_route.73
+    3491:
+    - fountainsfell.daleheadpot_reconstruction.main_route.110a
+    421:
+    - fountainsfell.daleheadpot_reconstruction.main_route.70a
+    1451:
+    - fountainsfell.daleheadpot_reconstruction.path4235.1
+    4525:
+    - fountainsfell.daleheadpot_reconstruction.path4153.0
+    2995:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.15
+    5044:
+    - fountainsfell.daleheadpot_reconstruction.main_route.101
+    4531:
+    - fountainsfell.daleheadpot_reconstruction.main_route.37
+    2486:
+    - fountainsfell.daleheadpot_reconstruction.path4153.39
+    3513:
+    - fountainsfell.daleheadpot_reconstruction.path4153.30
+    1466:
+    - fountainsfell.daleheadpot_reconstruction.main_route.105
+    1468:
+    - fountainsfell.daleheadpot_reconstruction.main_route.77
+    449:
+    - fountainsfell.daleheadpot_reconstruction.path4153.34
+    1475:
+    - fountainsfell.daleheadpot_reconstruction.main_route.81
+    3011:
+    - fountainsfell.daleheadpot_reconstruction.path4156.2
+    3017:
+    - fountainsfell.daleheadpot_reconstruction.main_route.54
+    4553:
+    - fountainsfell.daleheadpot_reconstruction.path4238.3
+    1487:
+    - fountainsfell.daleheadpot_reconstruction.path4153.9
+    4049:
+    - fountainsfell.daleheadpot_reconstruction.main_route.62
+    2003:
+    - fountainsfell.daleheadpot_reconstruction.main_route.108
+    3032:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.5
+    5082:
+    - fountainsfell.daleheadpot_reconstruction.main_route.106
+    5084:
+    - fountainsfell.daleheadpot_reconstruction.mud_rift.7
+    4061:
+    - fountainsfell.daleheadpot_reconstruction.main_route.45a
+    4572:
+    - fountainsfell.daleheadpot_reconstruction.main_route.96
+    3039:
+    - fountainsfell.daleheadpot_reconstruction.main_route.29
+    990:
+    - fountainsfell.daleheadpot_reconstruction.path4153.32
+    2019:
+    - fountainsfell.daleheadpot_reconstruction.path4156.4
+    996:
+    - fountainsfell.daleheadpot_reconstruction.main_route.60a
+    3556:
+    - fountainsfell.daleheadpot_reconstruction.main_route.8
+    4583:
+    - fountainsfell.daleheadpot_reconstruction.path4153.27
+    3050:
+    - fountainsfell.daleheadpot_reconstruction.path4153.19
+    3565:
+    - fountainsfell.daleheadpot_reconstruction.path4153.15
+    2542:
+    - fountainsfell.daleheadpot_reconstruction.main_route.57
+    2546:
+    - fountainsfell.daleheadpot_reconstruction.main_route.109
+    1523:
+    - fountainsfell.daleheadpot_reconstruction.path4238.4
+    509:
+    - fountainsfell.daleheadpot_reconstruction.main_route.2a
+  idsql:
+    2048:
+    - 515
+    2:
+    - 499
+    3:
+    - 5187
+    5124:
+    - 5186
+    5126:
+    - 518
+    1030:
+    - 5268
+    4104:
+    - 5212
+    4109:
+    - 521
+    14:
+    - 514
+    3599:
+    - 5237
+    1552:
+    - 5290
+    2064:
+    - 445
+    20:
+    - 5221
+    3094:
+    - 530
+    1559:
+    - 5241
+    1561:
+    - 458
+    537:
+    - 489
+    539:
+    - 511
+    31:
+    - 5291
+    3103:
+    - 443
+    1060:
+    - 5275
+    3112:
+    - 456
+    2090:
+    - 402
+    5163:
+    - 525
+    3115:
+    - 5289
+    45:
+    - 432
+    4140:
+    - 442
+    2093:
+    - 5203
+    3627:
+    - 5213
+    2608:
+    - 5219
+    562:
+    - 400
+    4147:
+    - 451
+    1075:
+    - 5258
+    4664:
+    - 5236
+    2105:
+    - 503
+    3130:
+    - 523
+    4668:
+    - 5254
+    3650:
+    - 5185
+    3651:
+    - 488
+    1092:
+    - 461
+    1094:
+    - 5261
+    2631:
+    - 466
+    1098:
+    - 5276
+    590:
+    - 455
+    2127:
+    - 415
+    1616:
+    - 403
+    4688:
+    - 5295
+    5200:
+    - 5286
+    85:
+    - 497
+    1111:
+    - 538
+    4698:
+    - 457
+    2650:
+    - 5235
+    3677:
+    - 527
+    606:
+    - 506
+    1120:
+    - 5194
+    2657:
+    - 450
+    98:
+    - 433
+    1123:
+    - 5273
+    2151:
+    - 5292
+    2664:
+    - 5281
+    618:
+    - 428
+    4205:
+    - 540
+    1649:
+    - 447
+    1141:
+    - 486
+    2677:
+    - 513
+    2168:
+    - 411
+    3194:
+    - 5188
+    4218:
+    - 399
+    2172:
+    - 397
+    126:
+    - 534
+    4735:
+    - 5229
+    2176:
+    - 434
+    1151:
+    - 5193
+    4740:
+    - 5209
+    2181:
+    - 5224
+    5255:
+    - 5190
+    2697:
+    - 5226
+    2699:
+    - 5274
+    1676:
+    - 5199
+    2189:
+    - 444
+    3730:
+    - 512
+    3731:
+    - 5214
+    1178:
+    - 431
+    1692:
+    - 502
+    1184:
+    - 5189
+    1185:
+    - 508
+    3745:
+    - 5253
+    4774:
+    - 539
+    5287:
+    - 421
+    2728:
+    - 440
+    3239:
+    - 452
+    170:
+    - 460
+    1711:
+    - 446
+    176:
+    - 535
+    5296:
+    - 505
+    4785:
+    - 5201
+    1712:
+    - 5231
+    181:
+    - 454
+    5301:
+    - 5260
+    3767:
+    - 5222
+    1722:
+    - 495
+    5307:
+    - 405
+    4794:
+    - 459
+    1211:
+    - 5243
+    3770:
+    - 5248
+    3263:
+    - 5287
+    708:
+    - 5197
+    1733:
+    - 406
+    5318:
+    - 427
+    3276:
+    - 412
+    204:
+    - 435
+    2766:
+    - 5225
+    1236:
+    - 522
+    4308:
+    - 453
+    3284:
+    - 5278
+    4826:
+    - 414
+    1244:
+    - 498
+    2274:
+    - 490
+    3811:
+    - 5192
+    2276:
+    - 420
+    1255:
+    - 418
+    745:
+    - 407
+    1258:
+    - 5299
+    2286:
+    - 463
+    751:
+    - 492
+    752:
+    - 5233
+    239:
+    - 5265
+    1778:
+    - 409
+    5362:
+    - 5294
+    3316:
+    - 465
+    3829:
+    - 5195
+    4854:
+    - 519
+    3319:
+    - 5255
+    5367:
+    - 5270
+    5373:
+    - 504
+    1789:
+    - 5263
+    770:
+    - 5216
+    2309:
+    - 496
+    262:
+    - 480
+    3336:
+    - 5293
+    1579:
+    - 5269
+    3342:
+    - 470
+    784:
+    - 5227
+    3857:
+    - 408
+    790:
+    - 441
+    4374:
+    - 5232
+    3352:
+    - 481
+    2329:
+    - 5256
+    3355:
+    - 5215
+    4893:
+    - 5297
+    2848:
+    - 5283
+    4385:
+    - 422
+    1826:
+    - 517
+    1315:
+    - 5298
+    293:
+    - 5228
+    3366:
+    - 5247
+    807:
+    - 429
+    1328:
+    - 471
+    4916:
+    - 516
+    1335:
+    - 5217
+    829:
+    - 479
+    830:
+    - 5239
+    2879:
+    - 436
+    4415:
+    - 474
+    323:
+    - 526
+    2884:
+    - 424
+    3910:
+    - 5245
+    4423:
+    - 529
+    1353:
+    - 425
+    4945:
+    - 473
+    4434:
+    - 5211
+    1364:
+    - 5200
+    852:
+    - 462
+    4439:
+    - 5277
+    4444:
+    - 494
+    863:
+    - 536
+    351:
+    - 398
+    3936:
+    - 467
+    1378:
+    - 5238
+    3939:
+    - 417
+    4451:
+    - 5296
+    4450:
+    - 5257
+    4454:
+    - 500
+    4966:
+    - 472
+    4456:
+    - 5250
+    1385:
+    - 507
+    4453:
+    - 5285
+    876:
+    - 5246
+    4461:
+    - 468
+    2414:
+    - 5252
+    4975:
+    - 5271
+    2931:
+    - 437
+    886:
+    - 430
+    4983:
+    - 533
+    4472:
+    - 419
+    3446:
+    - 5223
+    3450:
+    - 509
+    2939:
+    - 510
+    2938:
+    - 475
+    893:
+    - 532
+    3453:
+    - 487
+    1405:
+    - 426
+    3963:
+    - 478
+    386:
+    - 5284
+    3971:
+    - 537
+    2947:
+    - 5205
+    2437:
+    - 5242
+    3464:
+    - 5288
+    3976:
+    - 5282
+    4490:
+    - 438
+    3468:
+    - 5207
+    396:
+    - 449
+    400:
+    - 5218
+    1938:
+    - 5230
+    1941:
+    - 5196
+    3989:
+    - 5220
+    2969:
+    - 416
+    1948:
+    - 476
+    1442:
+    - 528
+    3491:
+    - 5210
+    421:
+    - 531
+    1451:
+    - 5266
+    4525:
+    - 464
+    2995:
+    - 501
+    5044:
+    - 5198
+    4531:
+    - 439
+    2486:
+    - 5272
+    3513:
+    - 5262
+    1466:
+    - 5202
+    1468:
+    - 524
+    449:
+    - 5267
+    1475:
+    - 520
+    3011:
+    - 5249
+    3017:
+    - 413
+    4553:
+    - 5279
+    1487:
+    - 5234
+    4049:
+    - 401
+    2003:
+    - 5206
+    3032:
+    - 491
+    5082:
+    - 5204
+    5084:
+    - 493
+    4061:
+    - 423
+    4572:
+    - 5191
+    3039:
+    - 448
+    990:
+    - 5264
+    2019:
+    - 5251
+    996:
+    - 404
+    3556:
+    - 469
+    4583:
+    - 5259
+    3050:
+    - 5244
+    3565:
+    - 5240
+    2542:
+    - 410
+    2546:
+    - 5208
+    1523:
+    - 5280
+    509:
+    - 477
+  flags:
+    2048:
+    - fix
+    2:
+    - fix
+    3:
+    - fix
+    5124:
+    - fix
+    5126:
+    - fix
+    1030:
+    - fix
+    4104:
+    - fix
+    4109:
+    - fix
+    14:
+    - fix
+    3599:
+    - fix
+    1552:
+    - fix
+    2064:
+    - fix
+    20:
+    - fix
+    3094:
+    - fix
+    1559:
+    - fix
+    1561:
+    - fix
+    537:
+    - fix
+    539:
+    - fix
+    31:
+    - fix
+    3103:
+    - fix
+    1060:
+    - fix
+    3112:
+    - fix
+    2090:
+    - fix
+    5163:
+    - fix
+    3115:
+    - fix
+    45:
+    - fix
+    4140:
+    - fix
+    2093:
+    - fix
+    3627:
+    - fix
+    2608:
+    - fix
+    562:
+    - fix
+    4147:
+    - fix
+    1075:
+    - fix
+    4664:
+    - fix
+    2105:
+    - fix
+    3130:
+    - fix
+    4668:
+    - fix
+    3650:
+    - fix
+    3651:
+    - fix
+    1092:
+    - fix
+    1094:
+    - fix
+    2631:
+    - fix
+    1098:
+    - fix
+    590:
+    - fix
+    2127:
+    - fix
+    1616:
+    - fix
+    4688:
+    - fix
+    5200:
+    - fix
+    85:
+    - fix
+    1111:
+    - fix
+    4698:
+    - fix
+    2650:
+    - fix
+    3677:
+    - fix
+    606:
+    - fix
+    1120:
+    - fix
+    2657:
+    - fix
+    98:
+    - fix
+    1123:
+    - fix
+    2151:
+    - fix
+    2664:
+    - fix
+    618:
+    - fix
+    4205:
+    - fix
+    1649:
+    - fix
+    1141:
+    - fix
+    2677:
+    - fix
+    2168:
+    - fix
+    3194:
+    - fix
+    4218:
+    - fix
+    2172:
+    - fix
+    126:
+    - fix
+    4735:
+    - fix
+    2176:
+    - fix
+    1151:
+    - fix
+    4740:
+    - fix
+    2181:
+    - fix
+    5255:
+    - fix
+    2697:
+    - fix
+    2699:
+    - fix
+    1676:
+    - fix
+    2189:
+    - fix
+    3730:
+    - fix
+    3731:
+    - fix
+    1178:
+    - fix
+    1692:
+    - fix
+    1184:
+    - fix
+    1185:
+    - fix
+    3745:
+    - fix
+    4774:
+    - fix
+    5287:
+    - fix
+    2728:
+    - fix
+    3239:
+    - fix
+    170:
+    - fix
+    1711:
+    - fix
+    176:
+    - fix
+    5296:
+    - fix
+    4785:
+    - fix
+    1712:
+    - fix
+    181:
+    - fix
+    5301:
+    - fix
+    3767:
+    - fix
+    1722:
+    - fix
+    5307:
+    - fix
+    4794:
+    - fix
+    1211:
+    - fix
+    3770:
+    - fix
+    3263:
+    - fix
+    708:
+    - fix
+    1733:
+    - fix
+    5318:
+    - fix
+    3276:
+    - fix
+    204:
+    - fix
+    2766:
+    - fix
+    1236:
+    - fix
+    4308:
+    - fix
+    3284:
+    - fix
+    4826:
+    - fix
+    1244:
+    - fix
+    2274:
+    - fix
+    3811:
+    - fix
+    2276:
+    - fix
+    1255:
+    - fix
+    745:
+    - fix
+    1258:
+    - fix
+    2286:
+    - fix
+    751:
+    - fix
+    752:
+    - fix
+    239:
+    - fix
+    1778:
+    - fix
+    5362:
+    - fix
+    3316:
+    - fix
+    3829:
+    - fix
+    4854:
+    - fix
+    3319:
+    - fix
+    5367:
+    - fix
+    5373:
+    - fix
+    1789:
+    - fix
+    770:
+    - fix
+    2309:
+    - fix
+    262:
+    - fix
+    3336:
+    - fix
+    1579:
+    - fix
+    3342:
+    - fix
+    784:
+    - fix
+    3857:
+    - fix
+    790:
+    - fix
+    4374:
+    - fix
+    3352:
+    - fix
+    - ent
+    2329:
+    - fix
+    3355:
+    - fix
+    4893:
+    - fix
+    2848:
+    - fix
+    4385:
+    - fix
+    1826:
+    - fix
+    1315:
+    - fix
+    293:
+    - fix
+    3366:
+    - fix
+    807:
+    - fix
+    1328:
+    - fix
+    4916:
+    - fix
+    1335:
+    - fix
+    829:
+    - fix
+    830:
+    - fix
+    2879:
+    - fix
+    4415:
+    - fix
+    323:
+    - fix
+    2884:
+    - fix
+    3910:
+    - fix
+    4423:
+    - fix
+    1353:
+    - fix
+    4945:
+    - fix
+    4434:
+    - fix
+    1364:
+    - fix
+    852:
+    - fix
+    4439:
+    - fix
+    4444:
+    - fix
+    863:
+    - fix
+    351:
+    - fix
+    3936:
+    - fix
+    1378:
+    - fix
+    3939:
+    - fix
+    4451:
+    - fix
+    4450:
+    - fix
+    4454:
+    - fix
+    4966:
+    - fix
+    4456:
+    - fix
+    1385:
+    - fix
+    4453:
+    - fix
+    876:
+    - fix
+    4461:
+    - fix
+    2414:
+    - fix
+    4975:
+    - fix
+    2931:
+    - fix
+    886:
+    - fix
+    4983:
+    - fix
+    4472:
+    - fix
+    3446:
+    - fix
+    3450:
+    - fix
+    2939:
+    - fix
+    2938:
+    - fix
+    893:
+    - fix
+    3453:
+    - fix
+    1405:
+    - fix
+    3963:
+    - fix
+    386:
+    - fix
+    3971:
+    - fix
+    2947:
+    - fix
+    2437:
+    - fix
+    3464:
+    - fix
+    3976:
+    - fix
+    4490:
+    - fix
+    3468:
+    - fix
+    396:
+    - fix
+    400:
+    - fix
+    1938:
+    - fix
+    1941:
+    - fix
+    3989:
+    - fix
+    2969:
+    - fix
+    1948:
+    - fix
+    1442:
+    - fix
+    3491:
+    - fix
+    421:
+    - fix
+    1451:
+    - fix
+    4525:
+    - fix
+    2995:
+    - fix
+    5044:
+    - fix
+    4531:
+    - fix
+    2486:
+    - fix
+    3513:
+    - fix
+    1466:
+    - fix
+    1468:
+    - fix
+    449:
+    - fix
+    1475:
+    - fix
+    3011:
+    - fix
+    3017:
+    - fix
+    4553:
+    - fix
+    1487:
+    - fix
+    4049:
+    - fix
+    2003:
+    - fix
+    3032:
+    - fix
+    5082:
+    - fix
+    5084:
+    - fix
+    4061:
+    - fix
+    4572:
+    - fix
+    3039:
+    - fix
+    990:
+    - fix
+    2019:
+    - fix
+    996:
+    - fix
+    3556:
+    - fix
+    4583:
+    - fix
+    3050:
+    - fix
+    3565:
+    - fix
+    2542:
+    - fix
+    2546:
+    - fix
+    1523:
+    - fix
+    509:
+    - fix

@@ -1,0 +1,1882 @@
+metadata:
+  id_dataset: 093
+  short_name: Larra
+  id_subset: 038
+  status: ready for cleaning
+  type_of_correction: .nan
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Pont, A., & ARSIP, collectif d\u2019exploration du massif de la P. S.\
+    \ M. (2025). Base de donn\xE9es Topographiques des syst\xE8mes karstiques du massif\
+    \ de la Pierre Saint Martin\u2014Larra (France) [Creative Commons BY-NC-SA 4.0\
+    \ dataset, Therion project]. https://github.com/Alex38Lyon/Synthese-PSM_LARRA"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 1084
+  total_depth: 87.98
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 179
+  number_edges: 178
+  mean_degree: 1.94
+  min_degree: 1.0
+  max_degree: 10.0
+  cv_degree: 0.59
+  number_cycles: 0
+  mean_length: 33.9
+  cv_length: 1.84
+  length_entropy: 0.35
+  orientation_3d_entropy: 0.718
+  aspl: 6.03
+  cpd: 0.425
+  correlation_vertex_degree: -0.446
+  original_format: Therion
+  comments_cave_info: data not available for compiling. but sql file was created
+  full_name: "Syst\xE8mes karstiques du massif de la Pierre Saint Martin - Larra"
+  geometry: .nan
+  units: meter
+  country: France
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/Alex38Lyon/Synthese-PSM_LARRA
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 13826
+  - 37665
+- - 13826
+  - 5154
+- - 44040
+  - 17318
+- - 44040
+  - 633
+- - 43528
+  - 34338
+- - 43528
+  - 26061
+- - 3081
+  - 14948
+- - 15884
+  - 47702
+- - 15884
+  - 32445
+- - 38931
+  - 30542
+- - 38931
+  - 30373
+- - 9748
+  - 31440
+- - 9748
+  - 32849
+- - 32284
+  - 16529
+- - 32284
+  - 8752
+- - 29725
+  - 15774
+- - 29725
+  - 8510
+- - 28701
+  - 4158
+- - 28701
+  - 34525
+- - 37919
+  - 6075
+- - 37919
+  - 32244
+- - 16927
+  - 45101
+- - 16927
+  - 18636
+- - 34338
+  - 15297
+- - 5154
+  - 3338
+- - 34343
+  - 34204
+- - 34343
+  - 38577
+- - 1576
+  - 38290
+- - 1576
+  - 8000
+- - 1576
+  - 2523
+- - 38955
+  - 43516
+- - 38955
+  - 5714
+- - 45101
+  - 37863
+- - 43566
+  - 842
+- - 43566
+  - 24575
+- - 8752
+  - 5354
+- - 30769
+  - 21091
+- - 30769
+  - 27334
+- - 22579
+  - 40167
+- - 22579
+  - 47853
+- - 34869
+  - 24575
+- - 20022
+  - 37665
+- - 6198
+  - 29604
+- - 6198
+  - 15616
+- - 12857
+  - 4435
+- - 12857
+  - 30176
+- - 11323
+  - 20951
+- - 11323
+  - 26990
+- - 35901
+  - 28057
+- - 35901
+  - 4179
+- - 37950
+  - 14948
+- - 4158
+  - 8510
+- - 16959
+  - 38271
+- - 16959
+  - 39293
+- - 24126
+  - 21906
+- - 24126
+  - 22836
+- - 34373
+  - 15616
+- - 34373
+  - 4435
+- - 41542
+  - 38577
+- - 41542
+  - 33163
+- - 8773
+  - 5107
+- - 8773
+  - 45195
+- - 11853
+  - 12157
+- - 11853
+  - 319
+- - 32849
+  - 22836
+- - 5714
+  - 42147
+- - 4179
+  - 7908
+- - 35923
+  - 26820
+- - 2645
+  - 7302
+- - 2645
+  - 37863
+- - 47702
+  - 1936
+- - 11349
+  - 17063
+- - 11349
+  - 43362
+- - 16991
+  - 45195
+- - 16991
+  - 48606
+- - 4192
+  - 337
+- - 4192
+  - 26820
+- - 41058
+  - 29604
+- - 21091
+  - 4002
+- - 14948
+  - 37168
+- - 14948
+  - 30123
+- - 25197
+  - 47853
+- - 25197
+  - 29977
+- - 26744
+  - 29639
+- - 16505
+  - 319
+- - 633
+  - 17034
+- - 18044
+  - 29977
+- - 18044
+  - 24824
+- - 7302
+  - 35099
+- - 23174
+  - 14688
+- - 23174
+  - 10543
+- - 23174
+  - 41963
+- - 41608
+  - 4384
+- - 41608
+  - 10214
+- - 17034
+  - 1406
+- - 34955
+  - 4565
+- - 34955
+  - 34204
+- - 40076
+  - 18636
+- - 40076
+  - 5474
+- - 20112
+  - 369
+- - 16529
+  - 31225
+- - 1682
+  - 37707
+- - 1682
+  - 12723
+- - 9878
+  - 12723
+- - 9878
+  - 18417
+- - 24214
+  - 48606
+- - 24214
+  - 4933
+- - 43675
+  - 26572
+- - 43675
+  - 6957
+- - 42147
+  - 6605
+- - 30373
+  - 22989
+- - 17063
+  - 37168
+- - 3755
+  - 47519
+- - 3755
+  - 36309
+- - 37552
+  - 22936
+- - 37552
+  - 25566
+- - 32433
+  - 28085
+- - 32433
+  - 9448
+- - 32445
+  - 1322
+- - 26820
+  - 3997
+- - 26820
+  - 14282
+- - 27334
+  - 5381
+- - 37067
+  - 1406
+- - 37067
+  - 26572
+- - 14543
+  - 25566
+- - 14543
+  - 6075
+- - 31440
+  - 43388
+- - 26833
+  - 33081
+- - 22737
+  - 22857
+- - 22737
+  - 15821
+- - 22737
+  - 337
+- - 34525
+  - 842
+- - 8419
+  - 24575
+- - 7908
+  - 43238
+- - 43238
+  - 4384
+- - 40167
+  - 26990
+- - 9448
+  - 1936
+- - 39144
+  - 29639
+- - 39144
+  - 47519
+- - 5354
+  - 16619
+- - 16619
+  - 27040
+- - 24824
+  - 42957
+- - 3338
+  - 7076
+- - 3338
+  - 14688
+- - 35099
+  - 1322
+- - 37665
+  - 33163
+- - 6957
+  - 24911
+- - 39731
+  - 15297
+- - 39731
+  - 20951
+- - 33081
+  - 24911
+- - 319
+  - 30123
+- - 4933
+  - 31225
+- - 22857
+  - 2523
+- - 37707
+  - 14282
+- - 30542
+  - 25577
+- - 337
+  - 21401
+- - 4435
+  - 13151
+- - 5474
+  - 28057
+- - 43362
+  - 4565
+- - 19820
+  - 36309
+- - 19820
+  - 6605
+- - 20334
+  - 29604
+- - 20334
+  - 38271
+- - 369
+  - 46052
+- - 43388
+  - 43516
+- - 12157
+  - 33739
+- - 39293
+  - 25577
+- - 1936
+  - 46052
+- - 38290
+  - 24575
+- - 21906
+  - 6075
+- - 22936
+  - 27040
+- - 15774
+  - 22989
+- - 4002
+  - 32244
+- - 17318
+  - 42957
+- - 28085
+  - 41963
+- - 33739
+  - 18417
+- - 26061
+  - 10214
+- - 30176
+  - 5107
+node_attributes:
+  pos:
+    13826:
+    - 676873.97
+    - 4757507.36
+    - 908.47
+    44040:
+    - 677140.02
+    - 4757560.55
+    - 935.2
+    43528:
+    - 677035.43
+    - 4757538.0
+    - 931.07
+    3081:
+    - 676781.51
+    - 4757504.92
+    - 896.93
+    15884:
+    - 676907.95
+    - 4757512.39
+    - 910.76
+    38931:
+    - 676668.95
+    - 4757514.4
+    - 876.22
+    9748:
+    - 676576.34
+    - 4757511.11
+    - 861.47
+    32284:
+    - 676633.46
+    - 4757521.68
+    - 862.11
+    29725:
+    - 676676.93
+    - 4757522.05
+    - 877.19
+    28701:
+    - 676684.76
+    - 4757533.26
+    - 877.36
+    37919:
+    - 676573.83
+    - 4757515.59
+    - 854.77
+    16927:
+    - 676951.68
+    - 4757526.3
+    - 916.54
+    34338:
+    - 677049.75
+    - 4757538.75
+    - 932.53
+    5154:
+    - 676873.51
+    - 4757507.7
+    - 910.83
+    34343:
+    - 676842.89
+    - 4757498.84
+    - 903.8
+    1576:
+    - 676706.11
+    - 4757546.62
+    - 876.57
+    38955:
+    - 676554.47
+    - 4757514.47
+    - 866.86
+    45101:
+    - 676948.85
+    - 4757521.36
+    - 917.24
+    43566:
+    - 676698.61
+    - 4757545.74
+    - 878.68
+    8752:
+    - 676630.71
+    - 4757520.2
+    - 862.49
+    30769:
+    - 676558.92
+    - 4757515.45
+    - 852.7
+    22579:
+    - 677086.93
+    - 4757540.32
+    - 932.38
+    34869:
+    - 676699.39
+    - 4757538.86
+    - 880.66
+    20022:
+    - 676880.99
+    - 4757507.49
+    - 906.6
+    6198:
+    - 676649.89
+    - 4757510.34
+    - 873.76
+    12857:
+    - 676639.2
+    - 4757514.8
+    - 870.48
+    11323:
+    - 677065.41
+    - 4757534.49
+    - 932.67
+    35901:
+    - 676975.64
+    - 4757523.73
+    - 922.36
+    37950:
+    - 676759.31
+    - 4757505.36
+    - 894.51
+    4158:
+    - 676679.97
+    - 4757530.76
+    - 877.45
+    16959:
+    - 676661.95
+    - 4757506.99
+    - 876.89
+    24126:
+    - 676585.34
+    - 4757514.1
+    - 860.03
+    34373:
+    - 676638.1
+    - 4757509.79
+    - 874.06
+    41542:
+    - 676852.25
+    - 4757506.59
+    - 906.32
+    8773:
+    - 676651.59
+    - 4757527.85
+    - 869.05
+    11853:
+    - 676743.21
+    - 4757513.87
+    - 888.97
+    32849:
+    - 676578.47
+    - 4757512.07
+    - 860.9
+    5714:
+    - 676554.96
+    - 4757514.78
+    - 867.16
+    4179:
+    - 676986.39
+    - 4757523.3
+    - 922.27
+    35923:
+    - 676720.85
+    - 4757544.41
+    - 879.45
+    2645:
+    - 676936.46
+    - 4757521.26
+    - 913.13
+    47702:
+    - 676906.06
+    - 4757509.95
+    - 909.7
+    11349:
+    - 676794.88
+    - 4757498.65
+    - 897.45
+    16991:
+    - 676645.86
+    - 4757529.29
+    - 869.5
+    4192:
+    - 676722.71
+    - 4757550.08
+    - 879.32
+    41058:
+    - 676648.5
+    - 4757510.38
+    - 872.97
+    21091:
+    - 676558.76
+    - 4757513.18
+    - 851.74
+    14948:
+    - 676772.98
+    - 4757501.1
+    - 895.58
+    25197:
+    - 677096.11
+    - 4757541.72
+    - 932.29
+    26744:
+    - 676518.08
+    - 4757510.49
+    - 867.6
+    16505:
+    - 676759.12
+    - 4757512.12
+    - 900.27
+    633:
+    - 677144.59
+    - 4757562.52
+    - 935.17
+    18044:
+    - 677113.72
+    - 4757547.44
+    - 932.04
+    7302:
+    - 676923.57
+    - 4757517.58
+    - 913.13
+    23174:
+    - 676881.18
+    - 4757509.19
+    - 912.76
+    41608:
+    - 677018.98
+    - 4757530.51
+    - 927.23
+    17034:
+    - 677148.81
+    - 4757565.59
+    - 935.27
+    34955:
+    - 676835.59
+    - 4757499.07
+    - 905.58
+    40076:
+    - 676964.31
+    - 4757526.34
+    - 917.54
+    45195:
+    - 676649.61
+    - 4757529.87
+    - 868.22
+    20112:
+    - 676886.26
+    - 4757507.23
+    - 906.56
+    16529:
+    - 676633.73
+    - 4757522.53
+    - 866.4
+    1682:
+    - 676733.91
+    - 4757543.45
+    - 882.15
+    9878:
+    - 676730.73
+    - 4757531.5
+    - 882.17
+    24214:
+    - 676644.97
+    - 4757532.68
+    - 869.63
+    43675:
+    - 677171.83
+    - 4757582.53
+    - 935.33
+    42147:
+    - 676553.3
+    - 4757515.31
+    - 867.96
+    30373:
+    - 676669.18
+    - 4757515.95
+    - 876.48
+    17063:
+    - 676778.7
+    - 4757496.43
+    - 894.93
+    3755:
+    - 676531.74
+    - 4757513.45
+    - 868.1
+    37552:
+    - 676605.95
+    - 4757513.05
+    - 857.6
+    32433:
+    - 676894.7
+    - 4757510.75
+    - 914.5
+    38577:
+    - 676848.72
+    - 4757502.94
+    - 903.93
+    32445:
+    - 676910.41
+    - 4757513.8
+    - 913.66
+    26820:
+    - 676723.06
+    - 4757543.84
+    - 879.61
+    27334:
+    - 676555.84
+    - 4757515.64
+    - 852.71
+    37067:
+    - 677154.94
+    - 4757567.51
+    - 934.81
+    18636:
+    - 676955.5
+    - 4757525.56
+    - 917.01
+    14543:
+    - 676590.66
+    - 4757513.59
+    - 856.29
+    31440:
+    - 676569.14
+    - 4757511.68
+    - 861.23
+    26833:
+    - 677187.11
+    - 4757585.38
+    - 938.71
+    22737:
+    - 676714.89
+    - 4757555.43
+    - 879.6
+    34525:
+    - 676689.88
+    - 4757540.93
+    - 877.55
+    8419:
+    - 676700.71
+    - 4757548.65
+    - 880.65
+    7908:
+    - 676996.43
+    - 4757527.69
+    - 923.67
+    43238:
+    - 677004.78
+    - 4757526.38
+    - 926.13
+    40167:
+    - 677079.27
+    - 4757537.32
+    - 932.25
+    9448:
+    - 676898.86
+    - 4757509.41
+    - 912.46
+    39144:
+    - 676526.88
+    - 4757511.49
+    - 867.44
+    5354:
+    - 676623.06
+    - 4757514.54
+    - 861.64
+    16619:
+    - 676622.61
+    - 4757512.54
+    - 861.32
+    47853:
+    - 677089.45
+    - 4757543.22
+    - 932.41
+    24824:
+    - 677122.1
+    - 4757548.89
+    - 933.01
+    15616:
+    - 676642.76
+    - 4757510.66
+    - 872.85
+    5381:
+    - 676549.56
+    - 4757512.07
+    - 851.55
+    3338:
+    - 676870.02
+    - 4757507.3
+    - 911.29
+    29977:
+    - 677105.0
+    - 4757543.39
+    - 932.21
+    35099:
+    - 676921.12
+    - 4757516.33
+    - 914.18
+    4384:
+    - 677010.0
+    - 4757527.59
+    - 926.64
+    37665:
+    - 676871.25
+    - 4757507.49
+    - 908.2
+    1322:
+    - 676915.6
+    - 4757515.57
+    - 915.01
+    6957:
+    - 677177.28
+    - 4757583.23
+    - 936.73
+    10543:
+    - 676881.14
+    - 4757509.1
+    - 910.19
+    37168:
+    - 676773.86
+    - 4757500.26
+    - 894.67
+    39731:
+    - 677057.0
+    - 4757532.14
+    - 932.0
+    22836:
+    - 676580.21
+    - 4757515.14
+    - 861.07
+    33081:
+    - 677186.4
+    - 4757585.66
+    - 939.53
+    8510:
+    - 676679.57
+    - 4757528.41
+    - 877.31
+    319:
+    - 676753.15
+    - 4757508.39
+    - 894.03
+    8000:
+    - 676708.71
+    - 4757550.53
+    - 879.16
+    4933:
+    - 676644.09
+    - 4757532.02
+    - 867.32
+    22857:
+    - 676712.06
+    - 4757551.52
+    - 879.38
+    842:
+    - 676696.24
+    - 4757545.73
+    - 878.99
+    37707:
+    - 676735.0
+    - 4757546.33
+    - 880.26
+    30542:
+    - 676666.69
+    - 4757511.18
+    - 875.85
+    24911:
+    - 677180.33
+    - 4757585.58
+    - 937.46
+    337:
+    - 676720.05
+    - 4757556.87
+    - 879.08
+    4435:
+    - 676636.3
+    - 4757512.41
+    - 874.95
+    13151:
+    - 676631.58
+    - 4757513.65
+    - 876.85
+    14688:
+    - 676874.82
+    - 4757508.94
+    - 912.61
+    5474:
+    - 676968.41
+    - 4757525.71
+    - 920.76
+    43362:
+    - 676801.25
+    - 4757503.59
+    - 898.1
+    19820:
+    - 676542.07
+    - 4757513.34
+    - 868.27
+    26990:
+    - 677069.59
+    - 4757535.73
+    - 932.3
+    20334:
+    - 676654.84
+    - 4757506.82
+    - 879.45
+    369:
+    - 676894.6
+    - 4757507.64
+    - 907.16
+    43388:
+    - 676566.97
+    - 4757512.38
+    - 861.13
+    12157:
+    - 676732.01
+    - 4757517.93
+    - 884.19
+    1406:
+    - 677149.9
+    - 4757567.07
+    - 934.2
+    39293:
+    - 676663.76
+    - 4757508.44
+    - 876.08
+    38271:
+    - 676660.01
+    - 4757506.85
+    - 878.29
+    33163:
+    - 676865.49
+    - 4757506.3
+    - 906.16
+    1936:
+    - 676900.34
+    - 4757509.53
+    - 909.02
+    38290:
+    - 676700.58
+    - 4757543.82
+    - 878.4
+    21906:
+    - 676585.28
+    - 4757513.5
+    - 854.66
+    22936:
+    - 676610.29
+    - 4757511.97
+    - 858.36
+    28057:
+    - 676975.32
+    - 4757526.43
+    - 922.24
+    21401:
+    - 676719.93
+    - 4757560.92
+    - 878.5
+    34204:
+    - 676837.75
+    - 4757499.08
+    - 904.6
+    3997:
+    - 676727.5
+    - 4757547.36
+    - 880.03
+    15774:
+    - 676673.27
+    - 4757522.62
+    - 876.92
+    47519:
+    - 676529.39
+    - 4757511.0
+    - 867.74
+    27040:
+    - 676614.4
+    - 4757512.76
+    - 859.67
+    4002:
+    - 676563.48
+    - 4757512.61
+    - 853.64
+    7076:
+    - 676865.01
+    - 4757507.16
+    - 910.14
+    29604:
+    - 676655.38
+    - 4757512.39
+    - 878.18
+    17318:
+    - 677132.95
+    - 4757554.55
+    - 933.48
+    30123:
+    - 676759.33
+    - 4757505.23
+    - 894.56
+    12723:
+    - 676730.92
+    - 4757539.16
+    - 882.51
+    28085:
+    - 676891.04
+    - 4757510.37
+    - 914.44
+    6075:
+    - 676588.82
+    - 4757513.15
+    - 855.06
+    15297:
+    - 677056.71
+    - 4757533.99
+    - 932.2
+    29639:
+    - 676521.2
+    - 4757510.87
+    - 867.64
+    14282:
+    - 676728.72
+    - 4757544.93
+    - 882.62
+    33739:
+    - 676734.2
+    - 4757524.85
+    - 882.74
+    26572:
+    - 677160.63
+    - 4757570.39
+    - 934.23
+    42957:
+    - 677128.13
+    - 4757552.31
+    - 932.81
+    26061:
+    - 677028.42
+    - 4757537.49
+    - 928.8
+    15821:
+    - 676708.81
+    - 4757550.43
+    - 880.83
+    22989:
+    - 676671.18
+    - 4757518.45
+    - 876.58
+    6605:
+    - 676550.03
+    - 4757513.32
+    - 868.09
+    4565:
+    - 676815.66
+    - 4757500.84
+    - 902.73
+    36309:
+    - 676539.06
+    - 4757513.13
+    - 868.23
+    20951:
+    - 677058.29
+    - 4757531.06
+    - 931.88
+    2523:
+    - 676709.12
+    - 4757545.97
+    - 877.33
+    48606:
+    - 676644.3
+    - 4757528.63
+    - 868.46
+    25566:
+    - 676599.38
+    - 4757512.53
+    - 857.21
+    30176:
+    - 676645.33
+    - 4757519.81
+    - 874.65
+    46052:
+    - 676898.15
+    - 4757508.57
+    - 908.43
+    10214:
+    - 677020.81
+    - 4757534.6
+    - 927.41
+    37863:
+    - 676937.73
+    - 4757520.03
+    - 915.96
+    25577:
+    - 676665.66
+    - 4757508.81
+    - 875.82
+    41963:
+    - 676884.98
+    - 4757510.15
+    - 914.16
+    18417:
+    - 676736.64
+    - 4757539.87
+    - 881.78
+    5107:
+    - 676647.43
+    - 4757523.39
+    - 873.53
+    32244:
+    - 676568.07
+    - 4757514.91
+    - 852.66
+    31225:
+    - 676635.65
+    - 4757525.72
+    - 867.78
+    43516:
+    - 676568.13
+    - 4757514.3
+    - 861.75
+    24575:
+    - 676700.85
+    - 4757545.66
+    - 878.56
+  idsql:
+    13826:
+    - 38790
+    44040:
+    - 38752
+    43528:
+    - 38828
+    3081:
+    - 38775
+    15884:
+    - 38807
+    38931:
+    - 38856
+    9748:
+    - 38976
+    32284:
+    - 38915
+    29725:
+    - 38860
+    28701:
+    - 38863
+    37919:
+    - 38925
+    16927:
+    - 38815
+    34338:
+    - 38829
+    5154:
+    - 38791
+    34343:
+    - 38784
+    1576:
+    - 38871
+    38955:
+    - 38971
+    - 38972
+    - 38993
+    45101:
+    - 38814
+    43566:
+    - 38866
+    8752:
+    - 38916
+    30769:
+    - 38929
+    22579:
+    - 38744
+    34869:
+    - 38870
+    20022:
+    - 38789
+    6198:
+    - 38899
+    12857:
+    - 38904
+    11323:
+    - 38741
+    35901:
+    - 38820
+    37950:
+    - 38774
+    4158:
+    - 38862
+    16959:
+    - 38852
+    24126:
+    - 38979
+    34373:
+    - 38901
+    41542:
+    - 38786
+    8773:
+    - 38907
+    11853:
+    - 38891
+    32849:
+    - 38977
+    5714:
+    - 38992
+    4179:
+    - 38821
+    35923:
+    - 38881
+    2645:
+    - 38812
+    47702:
+    - 38806
+    11349:
+    - 38778
+    16991:
+    - 38909
+    4192:
+    - 38879
+    41058:
+    - 38847
+    21091:
+    - 38928
+    14948:
+    - 38772
+    - 38773
+    - 38896
+    25197:
+    - 38746
+    26744:
+    - 38984
+    16505:
+    - 38894
+    633:
+    - 38753
+    18044:
+    - 38748
+    7302:
+    - 38811
+    23174:
+    - 38795
+    41608:
+    - 38825
+    17034:
+    - 38754
+    34955:
+    - 38782
+    40076:
+    - 38817
+    45195:
+    - 38908
+    20112:
+    - 38805
+    16529:
+    - 38914
+    1682:
+    - 38885
+    9878:
+    - 38887
+    24214:
+    - 38911
+    43675:
+    - 38732
+    - 38831
+    42147:
+    - 38991
+    30373:
+    - 38857
+    17063:
+    - 38777
+    3755:
+    - 38987
+    37552:
+    - 38921
+    32433:
+    - 38799
+    38577:
+    - 38785
+    32445:
+    - 38808
+    26820:
+    - 38880
+    27334:
+    - 38930
+    37067:
+    - 38730
+    18636:
+    - 38816
+    14543:
+    - 38923
+    31440:
+    - 38975
+    26833:
+    - 38736
+    22737:
+    - 38875
+    34525:
+    - 38864
+    8419:
+    - 38868
+    7908:
+    - 38822
+    43238:
+    - 38823
+    40167:
+    - 38743
+    9448:
+    - 38800
+    39144:
+    - 38985
+    5354:
+    - 38917
+    16619:
+    - 38918
+    47853:
+    - 38745
+    24824:
+    - 38749
+    15616:
+    - 38900
+    5381:
+    - 38931
+    3338:
+    - 38792
+    29977:
+    - 38747
+    35099:
+    - 38810
+    4384:
+    - 38824
+    37665:
+    - 38788
+    1322:
+    - 38809
+    6957:
+    - 38733
+    10543:
+    - 38796
+    37168:
+    - 38776
+    39731:
+    - 38739
+    22836:
+    - 38978
+    33081:
+    - 38735
+    8510:
+    - 38861
+    319:
+    - 38893
+    8000:
+    - 38872
+    4933:
+    - 38912
+    22857:
+    - 38874
+    842:
+    - 38865
+    37707:
+    - 38884
+    30542:
+    - 38855
+    24911:
+    - 38734
+    337:
+    - 38877
+    4435:
+    - 38902
+    13151:
+    - 38903
+    14688:
+    - 38794
+    5474:
+    - 38818
+    43362:
+    - 38780
+    19820:
+    - 38989
+    26990:
+    - 38742
+    20334:
+    - 38848
+    369:
+    - 38804
+    43388:
+    - 38974
+    12157:
+    - 38890
+    1406:
+    - 38729
+    - 38755
+    39293:
+    - 38853
+    38271:
+    - 38851
+    33163:
+    - 38787
+    1936:
+    - 38802
+    38290:
+    - 38869
+    21906:
+    - 38980
+    22936:
+    - 38920
+    28057:
+    - 38819
+    21401:
+    - 38878
+    34204:
+    - 38783
+    3997:
+    - 38882
+    15774:
+    - 38859
+    47519:
+    - 38986
+    27040:
+    - 38919
+    4002:
+    - 38927
+    7076:
+    - 38793
+    29604:
+    - 38845
+    - 38846
+    - 38897
+    - 38898
+    17318:
+    - 38751
+    30123:
+    - 38895
+    12723:
+    - 38886
+    28085:
+    - 38798
+    6075:
+    - 38924
+    - 38981
+    15297:
+    - 38737
+    - 38738
+    - 38830
+    29639:
+    - 38982
+    - 38983
+    14282:
+    - 38883
+    33739:
+    - 38889
+    26572:
+    - 38731
+    42957:
+    - 38750
+    26061:
+    - 38827
+    15821:
+    - 38876
+    22989:
+    - 38858
+    6605:
+    - 38990
+    4565:
+    - 38781
+    36309:
+    - 38988
+    20951:
+    - 38740
+    2523:
+    - 38873
+    48606:
+    - 38910
+    25566:
+    - 38922
+    30176:
+    - 38905
+    46052:
+    - 38803
+    10214:
+    - 38826
+    37863:
+    - 38813
+    25577:
+    - 38854
+    41963:
+    - 38797
+    18417:
+    - 38888
+    5107:
+    - 38906
+    32244:
+    - 38926
+    31225:
+    - 38913
+    43516:
+    - 38973
+    - 39020
+    24575:
+    - 38867
+  fulladdress:
+    13826:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI17
+    44040:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG14
+    43528:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI55
+    3081:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI2
+    15884:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI34
+    38931:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA10
+    9748:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_62_2024_08_06.Explo_62_2024_08_06._d_OURS_f_HC4
+    32284:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB17
+    29725:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA14
+    28701:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA17
+    37919:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB27
+    16927:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI42
+    34338:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI56
+    5154:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI18
+    34343:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI11
+    1576:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA25
+    38955:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_62_2024_08_06.Explo_62_2024_08_06._d_OURS_f_HC0
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_62_2024_08_06.Explo_62_2024_08_06._d_OURS_f_HC0_hab
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HC0
+    45101:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI41
+    43566:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA20
+    8752:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB18
+    30769:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB31
+    22579:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG6
+    34869:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA24
+    20022:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI16
+    6198:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB1
+    12857:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB6
+    11323:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG3
+    35901:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI47
+    37950:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI1
+    4158:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA16
+    16959:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA6
+    24126:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_62_2024_08_06.Explo_62_2024_08_06._d_OURS_f_HC7
+    34373:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB3
+    41542:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI13
+    8773:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB9
+    11853:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA45
+    32849:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_62_2024_08_06.Explo_62_2024_08_06._d_OURS_f_HC5
+    5714:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HE9
+    4179:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI48
+    35923:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA35
+    2645:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI39
+    47702:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI33
+    11349:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI5
+    16991:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB11
+    4192:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA33
+    41058:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA1
+    21091:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB30
+    14948:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI0
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI0_hab
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_GI0
+    25197:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG8
+    26744:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HE1
+    16505:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA48
+    633:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG15
+    18044:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG10
+    7302:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI38
+    23174:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI22
+    41608:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI52
+    17034:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG16
+    34955:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI9
+    40076:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI44
+    45195:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB10
+    20112:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI32
+    16529:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB16
+    1682:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA39
+    9878:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA41
+    24214:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB13
+    43675:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_51_2023_09_27.Explo_51_2023_09_27._d_OURS_f_GF30
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_55_2023_09_30.Explo_55_2023_09_30._d_OURS_f_GF30
+    42147:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HE8
+    30373:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA11
+    17063:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI4
+    3755:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HE4
+    37552:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB23
+    32433:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI26
+    38577:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI12
+    32445:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI35
+    26820:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA34
+    27334:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB32
+    37067:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_51_2023_09_27.Explo_51_2023_09_27._d_OURS_f_GF28
+    18636:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI43
+    14543:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB25
+    31440:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_62_2024_08_06.Explo_62_2024_08_06._d_OURS_f_HC3
+    26833:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_51_2023_09_27.Explo_51_2023_09_27._d_OURS_f_GF34
+    22737:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA29
+    34525:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA18
+    8419:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA22
+    7908:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI49
+    43238:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI50
+    40167:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG5
+    9448:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI27
+    39144:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HE2
+    5354:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB19
+    16619:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB20
+    47853:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG7
+    24824:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG11
+    15616:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB2
+    5381:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB33
+    3338:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI19
+    29977:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG9
+    35099:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI37
+    4384:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI51
+    37665:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI15
+    1322:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI36
+    6957:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_51_2023_09_27.Explo_51_2023_09_27._d_OURS_f_GF31
+    10543:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI23
+    37168:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI3
+    39731:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG1
+    22836:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_62_2024_08_06.Explo_62_2024_08_06._d_OURS_f_HC6
+    33081:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_51_2023_09_27.Explo_51_2023_09_27._d_OURS_f_GF33
+    8510:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA15
+    319:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA47
+    8000:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA26
+    4933:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB14
+    22857:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA28
+    842:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA19
+    37707:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA38
+    30542:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA9
+    24911:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_51_2023_09_27.Explo_51_2023_09_27._d_OURS_f_GF32
+    337:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA31
+    4435:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB4
+    13151:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB5
+    14688:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI21
+    5474:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI45
+    43362:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI7
+    19820:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HE6
+    26990:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG4
+    20334:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA2
+    369:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI31
+    43388:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_62_2024_08_06.Explo_62_2024_08_06._d_OURS_f_HC2
+    12157:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA44
+    1406:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_51_2023_09_27.Explo_51_2023_09_27._d_OURS_f_GF27
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GF27
+    39293:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA7
+    38271:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA5
+    33163:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI14
+    1936:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI29
+    38290:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA23
+    21906:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_62_2024_08_06.Explo_62_2024_08_06._d_OURS_f_HC8
+    22936:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB22
+    28057:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI46
+    21401:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA32
+    34204:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI10
+    3997:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA36
+    15774:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA13
+    47519:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HE3
+    27040:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB21
+    4002:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB29
+    7076:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI20
+    29604:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA0
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA0_hab
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HA0
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HA0_hab
+    17318:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG13
+    30123:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA49
+    12723:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA40
+    28085:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI25
+    6075:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB26
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_62_2024_08_06.Explo_62_2024_08_06._d_OURS_f_HB26
+    15297:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG0
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG0_hab
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GG0
+    29639:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HE0
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HE0_hab
+    14282:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA37
+    33739:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA43
+    26572:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_51_2023_09_27.Explo_51_2023_09_27._d_OURS_f_GF29
+    42957:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG12
+    26061:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI54
+    15821:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA30
+    22989:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA12
+    6605:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HE7
+    4565:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI8
+    36309:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_63_2024_08_09.Explo_63_2024_08_09._d_OURS_f_HE5
+    20951:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_52_2023_09_29.Explo_52_2023_09_29._d_OURS_f_GG2
+    2523:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA27
+    48606:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB12
+    25566:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB24
+    30176:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB7
+    46052:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI30
+    10214:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI53
+    37863:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI40
+    25577:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA8
+    41963:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_54_2023_09_30.Explo_54_2023_09_30._d_OURS_f_GI24
+    18417:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA42
+    5107:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB8
+    32244:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB28
+    31225:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_60_2024_08_05.Explo_60_2024_08_05._d_OURS_f_HB15
+    43516:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_62_2024_08_06.Explo_62_2024_08_06._d_OURS_f_HC1
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_64_2024_08_09.Explo_64_2024_08_09._d_OURS_f_HC1
+    24575:
+    - Synthese-PSM_LARRA.Complexe_Ours-Veau.Explo_59_2024_06_17.Explo_59_2024_06_17._d_OURS_f_HA21

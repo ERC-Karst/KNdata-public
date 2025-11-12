@@ -1,0 +1,785 @@
+metadata:
+  id_dataset: '050'
+  short_name: Andara
+  id_subset: 018
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: .nan
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 529
+  total_depth: 128.92
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 60
+  number_edges: 60
+  mean_degree: 2.0
+  min_degree: 1.0
+  max_degree: 17.0
+  cv_degree: 0.564
+  number_cycles: 1
+  mean_length: 48.13
+  cv_length: 1.31
+  length_entropy: 0.64
+  orientation_3d_entropy: 0.538
+  aspl: 2.91
+  cpd: 0.486
+  correlation_vertex_degree: -0.394
+  original_format: Survex
+  comments_cave_info: used .3d instead of translating project. too many issues with
+    translation
+  full_name: Andara
+  geometry: .nan
+  units: meter
+  country: Spain
+  state: Cantabrie
+  area: Parc national des Picos de Europa
+  locality: Palacio
+  grotto_id: /
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:32630
+  latitude: 43.2161538
+  longitude: -4.7242563
+  altitude: '1785'
+  cave_url: https://hinko.org/hinko/Dowloads/BCRA/BCRA%2011-4-1984.pdf
+  supplemental_links: https://tresvisocaves.info/tresviso.php?cave=65
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 4225
+  - 5623
+- - 4225
+  - 3188
+- - 7938
+  - 4410
+- - 7938
+  - 4642
+- - 3075
+  - 3021
+- - 3075
+  - 2094
+- - 2316
+  - 1112
+- - 2316
+  - 3130
+- - 2957
+  - 4642
+- - 9102
+  - 103
+- - 9102
+  - 3028
+- - 5776
+  - 5813
+- - 5776
+  - 4677
+- - 5521
+  - 5213
+- - 5521
+  - 1559
+- - 1683
+  - 5198
+- - 1683
+  - 3573
+- - 7830
+  - 8043
+- - 7830
+  - 2084
+- - 1559
+  - 8695
+- - 6040
+  - 4220
+- - 8095
+  - 2084
+- - 8095
+  - 435
+- - 9248
+  - 2745
+- - 9248
+  - 7843
+- - 7843
+  - 344
+- - 2983
+  - 3130
+- - 2983
+  - 8539
+- - 8103
+  - 3573
+- - 8103
+  - 5986
+- - 5930
+  - 1505
+- - 5930
+  - 4580
+- - 5930
+  - 6858
+- - 6316
+  - 2645
+- - 2094
+  - 7798
+- - 2094
+  - 4574
+- - 435
+  - 6763
+- - 5813
+  - 3188
+- - 183
+  - 3788
+- - 2745
+  - 5213
+- - 4410
+  - 3274
+- - 7874
+  - 7798
+- - 7874
+  - 3315
+- - 3524
+  - 4220
+- - 3524
+  - 3440
+- - 4677
+  - 3021
+- - 3274
+  - 344
+- - 3788
+  - 6763
+- - 5198
+  - 3028
+- - 9557
+  - 7256
+- - 9557
+  - 8043
+- - 2645
+  - 3315
+- - 7256
+  - 1505
+- - 1112
+  - 8695
+- - 8539
+  - 103
+- - 5213
+  - 5860
+- - 4574
+  - 4220
+- - 1505
+  - 4580
+- - 1505
+  - 5860
+- - 5986
+  - 5623
+node_attributes:
+  flags:
+    4225:
+    - fix
+    7938:
+    - fix
+    3075:
+    - fix
+    2316:
+    - fix
+    2957:
+    - fix
+    9102:
+    - fix
+    5776:
+    - fix
+    5521:
+    - fix
+    1683:
+    - fix
+    7830:
+    - fix
+    1559:
+    - fix
+    6040:
+    - fix
+    8095:
+    - fix
+    9248:
+    - fix
+    4642:
+    - fix
+    7843:
+    - fix
+    2084:
+    - fix
+    2983:
+    - fix
+    8103:
+    - fix
+    5930:
+    - fix
+    6316:
+    - fix
+    2094:
+    - fix
+    435:
+    - fix
+    5813:
+    - fix
+    183:
+    - fix
+    2745:
+    - fix
+    4410:
+    - fix
+    3130:
+    - fix
+    7874:
+    - fix
+    3524:
+    - fix
+    4677:
+    - fix
+    6858:
+    - fix
+    3274:
+    - fix
+    3788:
+    - fix
+    3021:
+    - fix
+    5198:
+    - fix
+    3028:
+    - fix
+    9557:
+    - fix
+    2645:
+    - fix
+    344:
+    - fix
+    7256:
+    - fix
+    1112:
+    - fix
+    8539:
+    - fix
+    5213:
+    - fix
+    4574:
+    - fix
+    1505:
+    - fix
+    5986:
+    - fix
+    8695:
+    - fix
+    5860:
+    - fix
+    4580:
+    - fix
+    103:
+    - fix
+    8043:
+    - fix
+    6763:
+    - fix
+    3440:
+    - fix
+    3315:
+    - fix
+    3188:
+    - fix
+    3573:
+    - fix
+    7798:
+    - fix
+    5623:
+    - fix
+    4220:
+    - fix
+  pos:
+    4225:
+    - 363825.25
+    - 4786075.96
+    - 1592.08
+    7938:
+    - 363836.43
+    - 4785905.29
+    - 1611.97
+    3075:
+    - 363829.36
+    - 4786108.3
+    - 1585.36
+    2316:
+    - 363822.12
+    - 4785989.83
+    - 1594.1
+    2957:
+    - 363840.21
+    - 4785899.91
+    - 1611.74
+    9102:
+    - 363841.51
+    - 4786016.19
+    - 1593.56
+    5776:
+    - 363829.08
+    - 4786092.36
+    - 1592.08
+    5521:
+    - 363816.32
+    - 4785968.84
+    - 1606.34
+    1683:
+    - 363843.7
+    - 4786029.67
+    - 1592.19
+    7830:
+    - 363819.72
+    - 4785954.55
+    - 1697.72
+    1559:
+    - 363814.77
+    - 4785979.84
+    - 1604.97
+    6040:
+    - 363801.47
+    - 4786093.05
+    - 1602.51
+    8095:
+    - 363822.3
+    - 4785952.6
+    - 1702.32
+    9248:
+    - 363821.55
+    - 4785939.68
+    - 1610.14
+    4642:
+    - 363838.32
+    - 4785902.6
+    - 1611.86
+    7843:
+    - 363825.15
+    - 4785931.96
+    - 1610.88
+    2084:
+    - 363821.93
+    - 4785954.75
+    - 1700.36
+    2983:
+    - 363827.21
+    - 4786000.07
+    - 1594.1
+    8103:
+    - 363843.13
+    - 4786038.87
+    - 1592.19
+    5930:
+    - 363819.96
+    - 4785953.01
+    - 1694.19
+    6316:
+    - 363806.82
+    - 4786160.01
+    - 1583.08
+    2094:
+    - 363823.21
+    - 4786118.95
+    - 1585.36
+    435:
+    - 363825.23
+    - 4785952.6
+    - 1704.45
+    5813:
+    - 363826.19
+    - 4786093.41
+    - 1592.08
+    183:
+    - 363828.0
+    - 4785950.0
+    - 1712.0
+    2745:
+    - 363818.22
+    - 4785946.81
+    - 1609.45
+    4410:
+    - 363826.57
+    - 4785908.88
+    - 1611.24
+    3130:
+    - 363821.96
+    - 4785994.45
+    - 1594.1
+    7874:
+    - 363815.6
+    - 4786123.47
+    - 1584.69
+    3524:
+    - 363808.31
+    - 4786121.87
+    - 1610.16
+    4677:
+    - 363827.75
+    - 4786099.94
+    - 1592.08
+    6858:
+    - 363819.39
+    - 4785955.17
+    - 1694.0
+    3274:
+    - 363823.17
+    - 4785913.73
+    - 1611.03
+    3788:
+    - 363828.0
+    - 4785950.0
+    - 1707.38
+    3021:
+    - 363817.18
+    - 4786098.07
+    - 1591.15
+    5198:
+    - 363845.67
+    - 4786027.31
+    - 1592.19
+    3028:
+    - 363845.67
+    - 4786018.13
+    - 1593.16
+    9557:
+    - 363817.47
+    - 4785955.17
+    - 1695.92
+    2645:
+    - 363813.32
+    - 4786146.07
+    - 1583.35
+    344:
+    - 363818.9
+    - 4785921.14
+    - 1610.88
+    7256:
+    - 363817.04
+    - 4785953.53
+    - 1694.73
+    1112:
+    - 363820.61
+    - 4785988.03
+    - 1596.07
+    8539:
+    - 363833.36
+    - 4786000.07
+    - 1594.2
+    5213:
+    - 363818.22
+    - 4785953.33
+    - 1608.53
+    4574:
+    - 363816.22
+    - 4786110.62
+    - 1596.24
+    1505:
+    - 363818.22
+    - 4785953.33
+    - 1694.69
+    5986:
+    - 363828.52
+    - 4786064.18
+    - 1592.19
+    8695:
+    - 363820.61
+    - 4785985.67
+    - 1598.05
+    5860:
+    - 363818.22
+    - 4785953.33
+    - 1660.84
+    4580:
+    - 363818.24
+    - 4785952.46
+    - 1695.47
+    103:
+    - 363841.51
+    - 4786013.11
+    - 1593.67
+    8043:
+    - 363818.37
+    - 4785955.69
+    - 1695.83
+    6763:
+    - 363826.5
+    - 4785951.09
+    - 1705.83
+    3440:
+    - 363803.41
+    - 4786116.04
+    - 1617.78
+    3315:
+    - 363807.94
+    - 4786136.74
+    - 1583.35
+    3188:
+    - 363823.11
+    - 4786088.08
+    - 1592.08
+    3573:
+    - 363846.21
+    - 4786033.54
+    - 1592.19
+    7798:
+    - 363820.14
+    - 4786124.27
+    - 1584.93
+    5623:
+    - 363827.55
+    - 4786070.26
+    - 1592.19
+    4220:
+    - 363811.32
+    - 4786104.79
+    - 1603.85
+  idsql:
+    4225:
+    - 24057
+    7938:
+    - 24037
+    3075:
+    - 24063
+    2316:
+    - 24044
+    2957:
+    - 24039
+    9102:
+    - 24049
+    5776:
+    - 24060
+    5521:
+    - 24040
+    1683:
+    - 24052
+    7830:
+    - 1568
+    1559:
+    - 24041
+    6040:
+    - 24072
+    8095:
+    - 1570
+    9248:
+    - 24032
+    4642:
+    - 24038
+    7843:
+    - 24033
+    2084:
+    - 1569
+    2983:
+    - 24046
+    8103:
+    - 24054
+    5930:
+    - 1564
+    6316:
+    - 24069
+    2094:
+    - 24064
+    435:
+    - 1571
+    5813:
+    - 24059
+    183:
+    - 1574
+    2745:
+    - 24031
+    4410:
+    - 24036
+    3130:
+    - 24045
+    7874:
+    - 24066
+    3524:
+    - 24073
+    4677:
+    - 24061
+    6858:
+    - 24028
+    3274:
+    - 24035
+    3788:
+    - 1573
+    3021:
+    - 24062
+    5198:
+    - 24051
+    3028:
+    - 24050
+    9557:
+    - 1566
+    2645:
+    - 24068
+    344:
+    - 24034
+    7256:
+    - 1565
+    1112:
+    - 24043
+    8539:
+    - 24047
+    5213:
+    - 24030
+    4574:
+    - 24070
+    1505:
+    - 1562
+    5986:
+    - 24055
+    8695:
+    - 24042
+    5860:
+    - 24029
+    4580:
+    - 1563
+    103:
+    - 24048
+    8043:
+    - 1567
+    6763:
+    - 1572
+    3440:
+    - 24074
+    3315:
+    - 24067
+    3188:
+    - 24058
+    3573:
+    - 24053
+    7798:
+    - 24065
+    5623:
+    - 24056
+    4220:
+    - 24071
+  fulladdress:
+    4225:
+    - andara.vaodeloslobos.vl52.30
+    7938:
+    - andara.vaodeloslobos.vl52.12g
+    3075:
+    - andara.vaodeloslobos.vl52.36
+    2316:
+    - andara.vaodeloslobos.vl52.17
+    2957:
+    - andara.vaodeloslobos.vl52.12i
+    9102:
+    - andara.vaodeloslobos.vl52.22
+    5776:
+    - andara.vaodeloslobos.vl52.33
+    5521:
+    - andara.vaodeloslobos.vl52.13
+    1683:
+    - andara.vaodeloslobos.vl52.25
+    7830:
+    - andara.vaodeloslobos.vl52.6
+    1559:
+    - andara.vaodeloslobos.vl52.14
+    6040:
+    - andara.vaodeloslobos.vl52.37c
+    8095:
+    - andara.vaodeloslobos.vl52.4
+    9248:
+    - andara.vaodeloslobos.vl52.12b
+    4642:
+    - andara.vaodeloslobos.vl52.12h
+    7843:
+    - andara.vaodeloslobos.vl52.12c
+    2084:
+    - andara.vaodeloslobos.vl52.5
+    2983:
+    - andara.vaodeloslobos.vl52.19
+    8103:
+    - andara.vaodeloslobos.vl52.27
+    5930:
+    - andara.vaodeloslobos.vl52.10b
+    6316:
+    - andara.vaodeloslobos.vl52.42
+    2094:
+    - andara.vaodeloslobos.vl52.37
+    435:
+    - andara.vaodeloslobos.vl52.3
+    5813:
+    - andara.vaodeloslobos.vl52.32
+    183:
+    - andara.vaodeloslobos.vl-52
+    2745:
+    - andara.vaodeloslobos.vl52.12a
+    4410:
+    - andara.vaodeloslobos.vl52.12f
+    3130:
+    - andara.vaodeloslobos.vl52.18
+    7874:
+    - andara.vaodeloslobos.vl52.39
+    3524:
+    - andara.vaodeloslobos.vl52.37d
+    4677:
+    - andara.vaodeloslobos.vl52.34
+    6858:
+    - andara.vaodeloslobos.vl52.10c
+    3274:
+    - andara.vaodeloslobos.vl52.12e
+    3788:
+    - andara.vaodeloslobos.vl52.1
+    3021:
+    - andara.vaodeloslobos.vl52.35
+    5198:
+    - andara.vaodeloslobos.vl52.24
+    3028:
+    - andara.vaodeloslobos.vl52.23
+    9557:
+    - andara.vaodeloslobos.vl52.8
+    2645:
+    - andara.vaodeloslobos.vl52.41
+    344:
+    - andara.vaodeloslobos.vl52.12d
+    7256:
+    - andara.vaodeloslobos.vl52.9
+    1112:
+    - andara.vaodeloslobos.vl52.16
+    8539:
+    - andara.vaodeloslobos.vl52.20
+    5213:
+    - andara.vaodeloslobos.vl52.12
+    4574:
+    - andara.vaodeloslobos.vl52.37a
+    1505:
+    - andara.vaodeloslobos.vl52.10
+    5986:
+    - andara.vaodeloslobos.vl52.28
+    8695:
+    - andara.vaodeloslobos.vl52.15
+    5860:
+    - andara.vaodeloslobos.vl52.11
+    4580:
+    - andara.vaodeloslobos.vl52.10a
+    103:
+    - andara.vaodeloslobos.vl52.21
+    8043:
+    - andara.vaodeloslobos.vl52.7
+    6763:
+    - andara.vaodeloslobos.vl52.2
+    3440:
+    - andara.vaodeloslobos.vl52.37e
+    3315:
+    - andara.vaodeloslobos.vl52.40
+    3188:
+    - andara.vaodeloslobos.vl52.31
+    3573:
+    - andara.vaodeloslobos.vl52.26
+    7798:
+    - andara.vaodeloslobos.vl52.38
+    5623:
+    - andara.vaodeloslobos.vl52.29
+    4220:
+    - andara.vaodeloslobos.vl52.37b

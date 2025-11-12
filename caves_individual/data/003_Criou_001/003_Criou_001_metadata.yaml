@@ -1,0 +1,60 @@
+id_dataset: '003'
+short_name: Criou
+id_subset: '001'
+status: clean
+type_of_correction: manual correction
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: Robert, X., & Collectif Criou. (2023). Base de données topographiques des
+  systèmes karstiques du massif du Criou (Samoëns, 74, France) (Version 1.0.0) [Dataset].
+  Zenodo. https://doi.org/10.5281/zenodo.10020918
+thanks: .nan
+sharing_conditions: .nan
+total_length: 23267
+total_depth: 1660.65
+percentage_csdim: 38
+number_connected_components: 1
+number_nodes: 3721
+number_edges: 3741
+mean_degree: 2.09
+min_degree: 1.0
+max_degree: 5.0
+cv_degree: 0.501
+number_cycles: 21
+mean_length: 51.02
+cv_length: 1.85
+length_entropy: 0.23
+orientation_3d_entropy: 0.92
+aspl: 28.95
+cpd: 0.473
+correlation_vertex_degree: -0.312
+original_format: Therion
+comments_cave_info: This system contains multiple connected components, because it
+  is composed of different caves
+full_name: Folly
+geometry: splays
+units: meter
+country: France
+state: Auvergne-Rhône-Alpes
+area: Haute-Savoie
+locality: Samoëns
+grotto_id: '75501'
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: epsg:25832
+latitude: 46.0889
+longitude: 6.7705
+altitude: '1880'
+cave_url: https://grottocenter.org/ui/caves/75501
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: '-'
+end_contract: '-'
+cave_survey_owner: .nan
+website: https://github.com/robertxa/Mirolda
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

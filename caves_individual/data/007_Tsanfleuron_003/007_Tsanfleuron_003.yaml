@@ -1,0 +1,1534 @@
+metadata:
+  id_dataset: '007'
+  short_name: Tsanfleuron
+  id_subset: '003'
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Groupe de Sp\xE9l\xE9ologie Rhodanien (GSR), Soci\xE9t\xE9 Sp\xE9l\xE9\
+    ologique Genevoise (SSG), Sp\xE9l\xE9o-Club Jura (SCJ), & Groupe Sp\xE9l\xE9o\
+    \ Lausanne (GSL). (2024). Base de donn\xE9es topographique des syst\xE8mes karstique\
+    \ du lapiaz de Tsanfleuron (Unpublished raw data). [Dataset]."
+  thanks: "Thanks to Louis Stahelin for sharing the data with us, and to the GSR (Groupe\
+    \ de Sp\xE9l\xE9ologie Rhodanien), SSG (Soci\xE9t\xE9 Sp\xE9l\xE9ologique Genevoise),\
+    \ SCJ (Sp\xE9l\xE9o-Club Jura), and GSL (Groupe Sp\xE9l\xE9o Lausanne) who explored,\
+    \ surveyed and mapped the conduits, and whithout whom this work would not have\
+    \ been possible. "
+  sharing_conditions: .nan
+  total_length: 541
+  total_depth: 162.18
+  percentage_csdim: 100
+  number_connected_components: 1
+  number_nodes: 112
+  number_edges: 111
+  mean_degree: 1.5
+  min_degree: 1.0
+  max_degree: 5.0
+  cv_degree: 0.667
+  number_cycles: 0
+  mean_length: 180.57
+  cv_length: 0.95
+  length_entropy: 0.48
+  orientation_3d_entropy: 0.726
+  aspl: 1.5
+  cpd: 1.0
+  correlation_vertex_degree: -1.0
+  original_format: Visual Topo
+  comments_cave_info: Tenir Louis au courant du travail de Ana
+  full_name: Lapiaz Tsanfleuron
+  geometry: lrud
+  units: meter
+  country: Switzerland
+  state: Valais/Wallis
+  area: Glacier de Tsanfleuron
+  locality: "Savi\xE8se"
+  grotto_id: 37275 (G16)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: CH1903/LV03
+  latitude: 46.3149
+  longitude: 7.2739
+  altitude: '2290'
+  cave_url: https://grottocenter.org/ui/entrances/36666
+  supplemental_links: http://mdemierre.speleologie.ch/?p=2584
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: GSR,SSG,SCJ,GSL
+  website: .nan
+  email_correspondant: louis.stahelin@icloud.com
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 1025
+  - 1295
+- - 1025
+  - 355
+- - 513
+  - 1063
+- - 513
+  - 379
+- - 1037
+  - 1258
+- - 1037
+  - 632
+- - 526
+  - 1411
+- - 526
+  - 973
+- - 1042
+  - 909
+- - 1042
+  - 691
+- - 1045
+  - 702
+- - 1045
+  - 1288
+- - 22
+  - 595
+- - 22
+  - 354
+- - 541
+  - 572
+- - 541
+  - 909
+- - 32
+  - 470
+- - 32
+  - 208
+- - 37
+  - 1288
+- - 37
+  - 834
+- - 1063
+  - 1106
+- - 1063
+  - 305
+- - 42
+  - 164
+- - 42
+  - 1396
+- - 555
+  - 821
+- - 555
+  - 846
+- - 1076
+  - 479
+- - 1076
+  - 580
+- - 59
+  - 268
+- - 59
+  - 723
+- - 572
+  - 834
+- - 1086
+  - 736
+- - 1086
+  - 268
+- - 580
+  - 398
+- - 581
+  - 746
+- - 581
+  - 952
+- - 70
+  - 1108
+- - 70
+  - 1362
+- - 77
+  - 1151
+- - 77
+  - 656
+- - 1106
+  - 278
+- - 595
+  - 136
+- - 1108
+  - 422
+- - 1117
+  - 1174
+- - 1117
+  - 702
+- - 610
+  - 1396
+- - 610
+  - 817
+- - 116
+  - 1361
+- - 116
+  - 655
+- - 118
+  - 270
+- - 118
+  - 272
+- - 632
+  - 718
+- - 1154
+  - 676
+- - 1154
+  - 404
+- - 1160
+  - 810
+- - 1160
+  - 301
+- - 648
+  - 846
+- - 648
+  - 1411
+- - 138
+  - 692
+- - 138
+  - 1225
+- - 650
+  - 952
+- - 650
+  - 960
+- - 136
+  - 960
+- - 655
+  - 869
+- - 656
+  - 304
+- - 1174
+  - 202
+- - 676
+  - 379
+- - 164
+  - 1433
+- - 1188
+  - 1223
+- - 1188
+  - 203
+- - 1199
+  - 320
+- - 1199
+  - 1454
+- - 1201
+  - 1342
+- - 1201
+  - 853
+- - 691
+  - 299
+- - 692
+  - 398
+- - 1211
+  - 272
+- - 1211
+  - 365
+- - 1215
+  - 413
+- - 1215
+  - 444
+- - 1219
+  - 1282
+- - 1219
+  - 932
+- - 1223
+  - 723
+- - 1225
+  - 821
+- - 202
+  - 294
+- - 205
+  - 355
+- - 205
+  - 810
+- - 718
+  - 746
+- - 208
+  - 337
+- - 736
+  - 817
+- - 1258
+  - 444
+- - 750
+  - 305
+- - 750
+  - 1369
+- - 767
+  - 995
+- - 767
+  - 1342
+- - 1282
+  - 337
+- - 771
+  - 354
+- - 771
+  - 470
+- - 264
+  - 932
+- - 264
+  - 995
+- - 270
+  - 1454
+- - 1295
+  - 304
+- - 278
+  - 853
+- - 294
+  - 973
+- - 299
+  - 320
+- - 301
+  - 479
+- - 1361
+  - 1362
+- - 345
+  - 365
+- - 345
+  - 422
+- - 869
+  - 413
+- - 404
+  - 1433
+node_attributes:
+  pos:
+    1025:
+    - 587317.98
+    - 129312.28
+    - 2281.43
+    513:
+    - 587400.56
+    - 129268.09
+    - 2132.33
+    1037:
+    - 587357.03
+    - 129281.1
+    - 2162.77
+    526:
+    - 587336.42
+    - 129303.85
+    - 2220.38
+    1042:
+    - 587348.12
+    - 129282.35
+    - 2196.36
+    1045:
+    - 587348.65
+    - 129297.25
+    - 2210.3
+    22:
+    - 587384.23
+    - 129282.17
+    - 2158.79
+    541:
+    - 587347.58
+    - 129285.62
+    - 2198.24
+    32:
+    - 587391.99
+    - 129271.7
+    - 2158.64
+    37:
+    - 587348.24
+    - 129291.9
+    - 2207.54
+    1063:
+    - 587393.5
+    - 129263.16
+    - 2132.93
+    42:
+    - 587449.03
+    - 129305.0
+    - 2130.96
+    555:
+    - 587326.12
+    - 129314.05
+    - 2244.83
+    1076:
+    - 587318.54
+    - 129314.42
+    - 2268.82
+    59:
+    - 587510.64
+    - 129335.65
+    - 2129.5
+    572:
+    - 587345.86
+    - 129288.44
+    - 2199.8
+    1086:
+    - 587497.47
+    - 129335.07
+    - 2127.95
+    580:
+    - 587318.54
+    - 129314.42
+    - 2266.72
+    581:
+    - 587371.37
+    - 129287.07
+    - 2161.36
+    70:
+    - 587335.56
+    - 129261.02
+    - 2164.67
+    77:
+    - 587318.33
+    - 129302.84
+    - 2287.91
+    1106:
+    - 587390.66
+    - 129261.72
+    - 2133.43
+    595:
+    - 587382.61
+    - 129288.98
+    - 2158.9
+    1108:
+    - 587337.27
+    - 129259.64
+    - 2165.16
+    1117:
+    - 587345.28
+    - 129296.11
+    - 2214.04
+    610:
+    - 587465.26
+    - 129313.66
+    - 2130.88
+    116:
+    - 587337.46
+    - 129269.89
+    - 2162.59
+    118:
+    - 587349.53
+    - 129258.03
+    - 2169.4
+    632:
+    - 587360.35
+    - 129283.19
+    - 2162.34
+    1151:
+    - 587320.0
+    - 129300.0
+    - 2290.0
+    1154:
+    - 587415.14
+    - 129286.65
+    - 2132.31
+    1160:
+    - 587319.82
+    - 129319.52
+    - 2278.11
+    648:
+    - 587331.59
+    - 129306.84
+    - 2226.55
+    138:
+    - 587321.27
+    - 129316.21
+    - 2258.98
+    650:
+    - 587377.43
+    - 129288.43
+    - 2160.34
+    136:
+    - 587382.51
+    - 129292.27
+    - 2159.06
+    655:
+    - 587344.61
+    - 129271.12
+    - 2162.48
+    656:
+    - 587317.41
+    - 129304.29
+    - 2286.89
+    1174:
+    - 587343.65
+    - 129298.69
+    - 2214.57
+    676:
+    - 587410.5
+    - 129278.71
+    - 2132.63
+    164:
+    - 587437.07
+    - 129298.22
+    - 2131.03
+    1188:
+    - 587527.13
+    - 129348.33
+    - 2127.82
+    1199:
+    - 587349.37
+    - 129271.49
+    - 2187.88
+    1201:
+    - 587383.5
+    - 129253.41
+    - 2134.73
+    691:
+    - 587349.2
+    - 129280.23
+    - 2195.16
+    692:
+    - 587320.28
+    - 129314.9
+    - 2260.02
+    1211:
+    - 587346.23
+    - 129258.32
+    - 2168.16
+    702:
+    - 587348.65
+    - 129297.25
+    - 2213.0
+    1215:
+    - 587352.08
+    - 129276.54
+    - 2162.82
+    1219:
+    - 587396.79
+    - 129263.09
+    - 2147.25
+    1223:
+    - 587519.05
+    - 129347.96
+    - 2128.1
+    1225:
+    - 587322.25
+    - 129315.37
+    - 2257.61
+    202:
+    - 587342.28
+    - 129297.04
+    - 2215.42
+    203:
+    - 587528.3
+    - 129344.7
+    - 2128.26
+    205:
+    - 587319.88
+    - 129315.68
+    - 2280.38
+    718:
+    - 587365.9
+    - 129283.79
+    - 2161.9
+    208:
+    - 587393.01
+    - 129270.34
+    - 2158.56
+    723:
+    - 587514.43
+    - 129343.64
+    - 2128.88
+    736:
+    - 587487.0
+    - 129326.46
+    - 2129.14
+    1258:
+    - 587354.41
+    - 129278.71
+    - 2162.15
+    746:
+    - 587368.76
+    - 129285.53
+    - 2161.74
+    750:
+    - 587395.89
+    - 129253.74
+    - 2133.67
+    767:
+    - 587387.16
+    - 129253.25
+    - 2135.55
+    1282:
+    - 587396.25
+    - 129266.54
+    - 2152.38
+    771:
+    - 587386.51
+    - 129275.13
+    - 2159.12
+    1288:
+    - 587350.4
+    - 129293.35
+    - 2209.49
+    264:
+    - 587392.75
+    - 129260.98
+    - 2147.35
+    268:
+    - 587504.43
+    - 129334.12
+    - 2128.2
+    270:
+    - 587346.06
+    - 129266.47
+    - 2180.79
+    1295:
+    - 587315.21
+    - 129310.27
+    - 2282.14
+    272:
+    - 587347.49
+    - 129257.67
+    - 2168.65
+    278:
+    - 587388.18
+    - 129259.44
+    - 2133.73
+    294:
+    - 587340.03
+    - 129300.06
+    - 2216.45
+    810:
+    - 587319.09
+    - 129317.9
+    - 2279.4
+    299:
+    - 587349.86
+    - 129279.4
+    - 2194.25
+    301:
+    - 587320.57
+    - 129316.39
+    - 2270.68
+    304:
+    - 587316.99
+    - 129308.88
+    - 2284.27
+    305:
+    - 587394.32
+    - 129257.33
+    - 2133.29
+    817:
+    - 587472.98
+    - 129319.62
+    - 2129.68
+    821:
+    - 587324.56
+    - 129313.63
+    - 2249.56
+    1342:
+    - 587386.35
+    - 129254.85
+    - 2135.55
+    320:
+    - 587349.16
+    - 129276.06
+    - 2190.13
+    834:
+    - 587348.98
+    - 129289.84
+    - 2201.47
+    846:
+    - 587327.3
+    - 129308.71
+    - 2228.84
+    1361:
+    - 587333.28
+    - 129268.9
+    - 2162.73
+    1362:
+    - 587332.18
+    - 129264.01
+    - 2163.36
+    337:
+    - 587393.47
+    - 129267.4
+    - 2153.7
+    853:
+    - 587384.45
+    - 129256.65
+    - 2133.89
+    345:
+    - 587340.87
+    - 129259.3
+    - 2165.94
+    1369:
+    - 587399.74
+    - 129254.65
+    - 2133.73
+    354:
+    - 587386.69
+    - 129280.37
+    - 2159.37
+    355:
+    - 587319.45
+    - 129314.92
+    - 2281.05
+    869:
+    - 587347.08
+    - 129274.0
+    - 2162.72
+    365:
+    - 587343.53
+    - 129257.16
+    - 2167.36
+    1396:
+    - 587455.96
+    - 129306.94
+    - 2131.46
+    379:
+    - 587403.19
+    - 129274.87
+    - 2132.2
+    1411:
+    - 587333.33
+    - 129308.28
+    - 2224.43
+    909:
+    - 587348.16
+    - 129283.36
+    - 2197.1
+    398:
+    - 587318.54
+    - 129314.42
+    - 2260.02
+    404:
+    - 587421.87
+    - 129288.71
+    - 2132.19
+    1433:
+    - 587429.24
+    - 129295.28
+    - 2131.32
+    413:
+    - 587347.68
+    - 129275.27
+    - 2163.25
+    932:
+    - 587393.17
+    - 129262.41
+    - 2147.54
+    422:
+    - 587339.72
+    - 129261.19
+    - 2165.3
+    1454:
+    - 587348.41
+    - 129269.3
+    - 2184.25
+    952:
+    - 587373.8
+    - 129287.98
+    - 2161.15
+    444:
+    - 587354.46
+    - 129278.32
+    - 2162.15
+    960:
+    - 587380.37
+    - 129293.55
+    - 2159.02
+    973:
+    - 587338.37
+    - 129300.54
+    - 2217.1
+    470:
+    - 587388.67
+    - 129272.51
+    - 2159.12
+    479:
+    - 587320.73
+    - 129316.01
+    - 2268.82
+    995:
+    - 587390.91
+    - 129253.42
+    - 2137.32
+  comments:
+    1151:
+    - Entree G16 Gouffre du Cirque Enrage
+  fulladdress:
+    1025:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.5
+    513:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.91
+    1037:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.61
+    526:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.23
+    1042:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.37
+    1045:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.30
+    22:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.71
+    541:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.35
+    32:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.75
+    37:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.32
+    1063:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.90
+    42:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.98
+    555:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.19
+    1076:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.12
+    59:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.105
+    572:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.34
+    1086:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.103
+    580:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.13
+    581:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.65
+    70:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.51
+    77:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.1
+    1106:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.89
+    595:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.70
+    1108:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.50
+    1117:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.28
+    610:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.100
+    116:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.54
+    118:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.44
+    632:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.62
+    1151:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.0
+    1154:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.94
+    1160:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.9
+    648:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.21
+    138:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.16
+    650:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.67
+    136:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.69
+    655:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.55
+    656:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.2
+    1174:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.27
+    676:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.93
+    164:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.97
+    1188:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.108
+    1199:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.41
+    1201:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.85
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.86
+    691:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.38
+    692:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.15
+    1211:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.46
+    702:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.29
+    1215:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.58
+    1219:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.79
+    1223:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.107
+    1225:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.17
+    202:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.26
+    203:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.109
+    205:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.7
+    718:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.63
+    208:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.76
+    723:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.106
+    736:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.102
+    1258:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.60
+    746:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.64
+    750:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.502
+    767:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.83
+    1282:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.78
+    771:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.73
+    1288:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.31
+    264:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.81
+    268:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.104
+    270:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.43
+    1295:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.4
+    272:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.45
+    278:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.88
+    294:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.25
+    810:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.8
+    299:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.39
+    301:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.10
+    304:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.3
+    305:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.501
+    817:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.101
+    821:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.18
+    1342:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.84
+    320:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.40
+    834:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.33
+    846:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.20
+    1361:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.53
+    1362:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.52
+    337:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.77
+    853:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.87
+    345:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.48
+    1369:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.503
+    354:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.72
+    355:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.6
+    869:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.56
+    365:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.47
+    1396:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.99
+    379:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.92
+    1411:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.22
+    909:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.36
+    398:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.14
+    404:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.95
+    1433:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.96
+    413:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.57
+    932:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.80
+    422:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.49
+    1454:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.42
+    952:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.66
+    444:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.59
+    960:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.68
+    973:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.24
+    470:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.74
+    479:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.11
+    995:
+    - Tsanfleuron.G16_GouffreDuCriquetEnrage.82
+  idsql:
+    1025:
+    - 117
+    513:
+    - 203
+    1037:
+    - 173
+    526:
+    - 135
+    1042:
+    - 149
+    1045:
+    - 142
+    22:
+    - 183
+    541:
+    - 147
+    32:
+    - 187
+    37:
+    - 144
+    1063:
+    - 202
+    42:
+    - 210
+    555:
+    - 131
+    1076:
+    - 124
+    59:
+    - 217
+    572:
+    - 146
+    1086:
+    - 215
+    580:
+    - 125
+    581:
+    - 177
+    70:
+    - 163
+    77:
+    - 113
+    1106:
+    - 201
+    595:
+    - 182
+    1108:
+    - 162
+    1117:
+    - 140
+    610:
+    - 212
+    116:
+    - 166
+    118:
+    - 156
+    632:
+    - 174
+    1151:
+    - 112
+    1154:
+    - 206
+    1160:
+    - 121
+    648:
+    - 133
+    138:
+    - 128
+    650:
+    - 179
+    136:
+    - 181
+    655:
+    - 167
+    656:
+    - 114
+    1174:
+    - 139
+    676:
+    - 205
+    164:
+    - 209
+    1188:
+    - 220
+    1199:
+    - 153
+    1201:
+    - 197
+    - 198
+    691:
+    - 150
+    692:
+    - 127
+    1211:
+    - 158
+    702:
+    - 141
+    1215:
+    - 170
+    1219:
+    - 191
+    1223:
+    - 219
+    1225:
+    - 129
+    202:
+    - 138
+    203:
+    - 221
+    205:
+    - 119
+    718:
+    - 175
+    208:
+    - 188
+    723:
+    - 218
+    736:
+    - 214
+    1258:
+    - 172
+    746:
+    - 176
+    750:
+    - 223
+    767:
+    - 195
+    1282:
+    - 190
+    771:
+    - 185
+    1288:
+    - 143
+    264:
+    - 193
+    268:
+    - 216
+    270:
+    - 155
+    1295:
+    - 116
+    272:
+    - 157
+    278:
+    - 200
+    294:
+    - 137
+    810:
+    - 120
+    299:
+    - 151
+    301:
+    - 122
+    304:
+    - 115
+    305:
+    - 222
+    817:
+    - 213
+    821:
+    - 130
+    1342:
+    - 196
+    320:
+    - 152
+    834:
+    - 145
+    846:
+    - 132
+    1361:
+    - 165
+    1362:
+    - 164
+    337:
+    - 189
+    853:
+    - 199
+    345:
+    - 160
+    1369:
+    - 224
+    354:
+    - 184
+    355:
+    - 118
+    869:
+    - 168
+    365:
+    - 159
+    1396:
+    - 211
+    379:
+    - 204
+    1411:
+    - 134
+    909:
+    - 148
+    398:
+    - 126
+    404:
+    - 207
+    1433:
+    - 208
+    413:
+    - 169
+    932:
+    - 192
+    422:
+    - 161
+    1454:
+    - 154
+    952:
+    - 178
+    444:
+    - 171
+    960:
+    - 180
+    973:
+    - 136
+    470:
+    - 186
+    479:
+    - 123
+    995:
+    - 194
+  flags:
+    1151:
+    - ent
+    - fix
+  csdim:
+    1025:
+    - 0.6
+    - 0.8
+    513:
+    - 0.45
+    - 1.0
+    1037:
+    - 0.6
+    - 0.7
+    526:
+    - 0.8
+    - 0.8
+    1042:
+    - 0.6
+    - 5.5
+    1045:
+    - 1.5
+    - 0.9
+    22:
+    - 2.2
+    - 0.8
+    541:
+    - 1.0
+    - 3.3
+    32:
+    - 0.8
+    - 3.2
+    37:
+    - 0.1
+    - 0.9
+    1063:
+    - 1.2
+    - 1.8
+    42:
+    - 0.1
+    - 0.9
+    555:
+    - 0.8
+    - 2.0
+    1076:
+    - 1.4
+    - 0.6
+    59:
+    - 0.4
+    - 0.8
+    572:
+    - 4.0
+    - 1.5
+    1086:
+    - 0.4
+    - 3.5
+    580:
+    - 0.8
+    - 3.2
+    581:
+    - 0.4
+    - 2.2
+    70:
+    - 2.2
+    - 1.3
+    77:
+    - 0.3
+    - 0.6
+    1106:
+    - 2.0
+    - 0.7
+    595:
+    - 1.7
+    - 0.5
+    1108:
+    - 0.6
+    - 0.6
+    1117:
+    - 0.6
+    - 1.0
+    610:
+    - 1.0
+    - 3.5
+    116:
+    - 0.7
+    - 5.0
+    118:
+    - 1.0
+    - 3.0
+    632:
+    - 2.0
+    - 0.6
+    1151:
+    - 0.6
+    - 4.0
+    1154:
+    - 1.0
+    - 0.2
+    1160:
+    - 0.5
+    - 0.6
+    648:
+    - 0.5
+    - 0.8
+    138:
+    - 0.5
+    - 0.7
+    650:
+    - 0.5
+    - 1.0
+    136:
+    - 0.4
+    - 0.9
+    655:
+    - 0.5
+    - 2.5
+    656:
+    - 0.6
+    - 1.21
+    1174:
+    - 0.6
+    - 0.5
+    676:
+    - 0.9
+    - 1.0
+    164:
+    - 0.6
+    - 2.6
+    1188:
+    - 0.9
+    - 2.8
+    1199:
+    - 0.6
+    - 1.0
+    1201:
+    - 1.65
+    - 4.8
+    691:
+    - 0.5
+    - 0.9
+    692:
+    - 1.6
+    - 6.8
+    1211:
+    - 2.1
+    - 0.8
+    702:
+    - 0.5
+    - 3.5
+    1215:
+    - 1.6
+    - 0.6
+    1219:
+    - 0.6
+    - 0.6
+    1223:
+    - 2.2
+    - 1.3
+    1225:
+    - 0.4
+    - 0.7
+    202:
+    - 0.8
+    - 0.65
+    203:
+    - 0.5
+    - 3.0
+    205:
+    - 2.2
+    - 0.8
+    718:
+    - 0.5
+    - 0.5
+    208:
+    - 0.4
+    - 0.4
+    723:
+    - 1.3
+    - 1.7
+    736:
+    - 1.0
+    - 1.0
+    1258:
+    - 0.9
+    - 2.0
+    746:
+    - 0.6
+    - 1.0
+    750:
+    - 0.5
+    - 6.5
+    767:
+    - 0.6
+    - 0.6
+    1282:
+    - 0.4
+    - 0.5
+    771:
+    - 0.7
+    - 1.0
+    1288:
+    - 0.6
+    - 0.9
+    264:
+    - 1.2
+    - 1.1
+    268:
+    - 3.0
+    - 9.0
+    270:
+    - 1.0
+    - 2.0
+    1295:
+    - 1.6
+    - 0.7
+    272:
+    - 2.0
+    - 0.2
+    278:
+    - 0.8
+    - 0.8
+    294:
+    - 1.5
+    - 1.2
+    810:
+    - 0.6
+    - 1.2
+    299:
+    - 0.6
+    - 0.8
+    301:
+    - 0.7
+    - 1.0
+    304:
+    - 0.8
+    - 1.7
+    305:
+    - 2.3
+    - 1.5
+    817:
+    - 0.5
+    - 1.3
+    821:
+    - 3.0
+    - 9.0
+    1342:
+    - 1.5
+    - 0.4
+    320:
+    - 0.6
+    - 0.8
+    834:
+    - 0.8
+    - 0.6
+    846:
+    - 0.6
+    - 1.4
+    1361:
+    - 0.4
+    - 0.8
+    1362:
+    - 1.85
+    - 7.75
+    337:
+    - 0.5
+    - 2.7
+    853:
+    - 0.4
+    - 1.0
+    345:
+    - 0.6
+    - 0.6
+    1369:
+    - 2.4
+    - 0.8
+    354:
+    - 0.5
+    - 2.5
+    355:
+    - 1.7
+    - 0.7
+    869:
+    - 2.0
+    - 1.5
+    365:
+    - 1.1
+    - 1.05
+    1396:
+    - 0.4
+    - 1.6
+    379:
+    - 0.4
+    - 0.9
+    1411:
+    - 0.5
+    - 2.7
+    909:
+    - 0.9
+    - 6.0
+    398:
+    - 0.7
+    - 0.7
+    404:
+    - 1.5
+    - 0.5
+    1433:
+    - 0.4
+    - 1.0
+    413:
+    - 1.7
+    - 7.4
+    932:
+    - 0.8
+    - 0.7
+    422:
+    - 0.6
+    - 0.8
+    1454:
+    - 1.5
+    - 4.9
+    952:
+    - 0.6
+    - 1.0
+    444:
+    - 1.4
+    - 1.0
+    960:
+    - 0.8
+    - 0.7
+    973:
+    - 0.5
+    - 0.8
+    470:
+    - 0.6
+    - 1.5
+    479:
+    - 0.75
+    - 3.05
+    995:
+    - 0.7
+    - 5.5

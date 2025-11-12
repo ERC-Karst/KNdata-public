@@ -1,0 +1,60 @@
+id_dataset: 093
+short_name: Larra
+id_subset: '014'
+status: ready for cleaning
+type_of_correction: .nan
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: Pont, A., & ARSIP, collectif d’exploration du massif de la P. S. M. (2025).
+  Base de données Topographiques des systèmes karstiques du massif de la Pierre Saint
+  Martin—Larra (France) [Creative Commons BY-NC-SA 4.0 dataset, Therion project].
+  https://github.com/Alex38Lyon/Synthese-PSM_LARRA
+thanks: .nan
+sharing_conditions: .nan
+total_length: 5435
+total_depth: 696.11
+percentage_csdim: 0
+number_connected_components: 1
+number_nodes: 681
+number_edges: 680
+mean_degree: 1.93
+min_degree: 1.0
+max_degree: 10.0
+cv_degree: 0.525
+number_cycles: 0
+mean_length: 187.45
+cv_length: 1.86
+length_entropy: 0.38
+orientation_3d_entropy: 0.802
+aspl: 5.6
+cpd: 0.48
+correlation_vertex_degree: -0.381
+original_format: Therion
+comments_cave_info: data not available for compiling. but sql file was created
+full_name: Systèmes karstiques du massif de la Pierre Saint Martin - Larra
+geometry: .nan
+units: meter
+country: France
+state: .nan
+area: .nan
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+cave_url: .nan
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: '-'
+end_contract: '-'
+cave_survey_owner: .nan
+website: https://github.com/Alex38Lyon/Synthese-PSM_LARRA
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

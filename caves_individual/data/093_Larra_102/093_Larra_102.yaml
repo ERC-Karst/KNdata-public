@@ -1,0 +1,516 @@
+metadata:
+  id_dataset: 093
+  short_name: Larra
+  id_subset: '102'
+  status: ready for cleaning
+  type_of_correction: .nan
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Pont, A., & ARSIP, collectif d\u2019exploration du massif de la P. S.\
+    \ M. (2025). Base de donn\xE9es Topographiques des syst\xE8mes karstiques du massif\
+    \ de la Pierre Saint Martin\u2014Larra (France) [Creative Commons BY-NC-SA 4.0\
+    \ dataset, Therion project]. https://github.com/Alex38Lyon/Synthese-PSM_LARRA"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 636
+  total_depth: 90.36
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 42
+  number_edges: 41
+  mean_degree: 1.89
+  min_degree: 1.0
+  max_degree: 10.0
+  cv_degree: 0.541
+  number_cycles: 0
+  mean_length: 37.44
+  cv_length: 1.71
+  length_entropy: 0.34
+  orientation_3d_entropy: 0.641
+  aspl: 3.77
+  cpd: 0.556
+  correlation_vertex_degree: -0.417
+  original_format: Therion
+  comments_cave_info: data not available for compiling. but sql file was created
+  full_name: "Syst\xE8mes karstiques du massif de la Pierre Saint Martin - Larra"
+  geometry: .nan
+  units: meter
+  country: France
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/Alex38Lyon/Synthese-PSM_LARRA
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 24835
+  - 33291
+- - 9219
+  - 45714
+- - 9219
+  - 39009
+- - 48007
+  - 13104
+- - 48007
+  - 9646
+- - 48007
+  - 39347
+- - 14090
+  - 16618
+- - 33291
+  - 43210
+- - 33291
+  - 37477
+- - 23052
+  - 5692
+- - 30731
+  - 2405
+- - 29326
+  - 14493
+- - 29326
+  - 27080
+- - 29326
+  - 43210
+- - 45714
+  - 23622
+- - 11035
+  - 16243
+- - 11035
+  - 20562
+- - 11035
+  - 25448
+- - 14493
+  - 39879
+- - 932
+  - 20562
+- - 9646
+  - 9185
+- - 13104
+  - 21465
+- - 18226
+  - 9185
+- - 18226
+  - 27485
+- - 39347
+  - 31099
+- - 39347
+  - 16618
+- - 5692
+  - 16618
+- - 12995
+  - 46319
+- - 23622
+  - 37753
+- - 39879
+  - 16243
+- - 39879
+  - 27485
+- - 8775
+  - 39009
+- - 8775
+  - 16243
+- - 27080
+  - 28512
+- - 30284
+  - 37477
+- - 26829
+  - 27124
+- - 26829
+  - 37753
+- - 21465
+  - 16496
+- - 28512
+  - 16879
+- - 2405
+  - 27124
+- - 25448
+  - 46319
+node_attributes:
+  pos:
+    24835:
+    - 680430.17
+    - 4757428.06
+    - 1407.67
+    9219:
+    - 680554.6
+    - 4757446.74
+    - 1425.5
+    48007:
+    - 680407.34
+    - 4757490.06
+    - 1345.6
+    14090:
+    - 680376.63
+    - 4757487.52
+    - 1375.6
+    33291:
+    - 680433.02
+    - 4757430.8
+    - 1409.15
+    23052:
+    - 680386.65
+    - 4757466.68
+    - 1365.02
+    30731:
+    - 680694.85
+    - 4757493.88
+    - 1395.0
+    29326:
+    - 680437.65
+    - 4757432.43
+    - 1412.29
+    45714:
+    - 680570.9
+    - 4757462.73
+    - 1430.6
+    11035:
+    - 680463.62
+    - 4757443.44
+    - 1396.51
+    14493:
+    - 680448.02
+    - 4757428.75
+    - 1413.02
+    932:
+    - 680439.11
+    - 4757442.5
+    - 1387.0
+    9646:
+    - 680401.78
+    - 4757452.66
+    - 1369.97
+    13104:
+    - 680406.43
+    - 4757495.35
+    - 1344.25
+    18226:
+    - 680418.83
+    - 4757444.01
+    - 1376.75
+    39347:
+    - 680389.96
+    - 4757489.89
+    - 1358.09
+    5692:
+    - 680384.8
+    - 4757473.04
+    - 1370.01
+    12995:
+    - 680434.11
+    - 4757463.1
+    - 1385.24
+    23622:
+    - 680597.88
+    - 4757468.04
+    - 1430.84
+    39879:
+    - 680453.81
+    - 4757436.62
+    - 1401.57
+    8775:
+    - 680490.91
+    - 4757443.81
+    - 1403.67
+    27080:
+    - 680435.7
+    - 4757435.09
+    - 1415.11
+    43210:
+    - 680434.91
+    - 4757429.95
+    - 1412.51
+    30284:
+    - 680429.4
+    - 4757429.29
+    - 1413.15
+    26829:
+    - 680628.65
+    - 4757494.68
+    - 1405.55
+    20562:
+    - 680447.16
+    - 4757444.19
+    - 1389.41
+    21465:
+    - 680406.72
+    - 4757494.72
+    - 1341.74
+    27485:
+    - 680437.04
+    - 4757432.39
+    - 1391.54
+    28512:
+    - 680435.1
+    - 4757434.85
+    - 1415.72
+    9185:
+    - 680398.88
+    - 4757449.23
+    - 1372.14
+    39009:
+    - 680527.17
+    - 4757452.61
+    - 1411.88
+    37477:
+    - 680431.06
+    - 4757429.53
+    - 1409.5
+    2405:
+    - 680680.32
+    - 4757503.12
+    - 1395.42
+    25448:
+    - 680450.36
+    - 4757450.3
+    - 1389.04
+    16618:
+    - 680382.98
+    - 4757479.83
+    - 1367.26
+    46319:
+    - 680438.92
+    - 4757459.07
+    - 1386.75
+    16496:
+    - 680406.43
+    - 4757491.45
+    - 1340.48
+    16879:
+    - 680433.11
+    - 4757439.48
+    - 1416.55
+    16243:
+    - 680476.53
+    - 4757437.99
+    - 1401.74
+    27124:
+    - 680640.46
+    - 4757509.98
+    - 1395.91
+    37753:
+    - 680622.43
+    - 4757481.56
+    - 1411.65
+    31099:
+    - 680392.92
+    - 4757470.67
+    - 1364.71
+  idsql:
+    24835:
+    - 14973
+    9219:
+    - 12643
+    - 13230
+    48007:
+    - 12597
+    - 12652
+    - 13807
+    - 14187
+    - 14207
+    - 14208
+    - 14457
+    14090:
+    - 12603
+    - 13269
+    33291:
+    - 14972
+    23052:
+    - 12602
+    30731:
+    - 12635
+    - 12636
+    29326:
+    - 14967
+    45714:
+    - 12642
+    11035:
+    - 12658
+    14493:
+    - 14966
+    932:
+    - 12663
+    9646:
+    - 12651
+    13104:
+    - 12653
+    - 13193
+    18226:
+    - 12649
+    39347:
+    - 12598
+    5692:
+    - 12601
+    12995:
+    - 12662
+    23622:
+    - 12641
+    39879:
+    - 12647
+    - 12783
+    - 14964
+    - 14965
+    8775:
+    - 12645
+    27080:
+    - 14968
+    43210:
+    - 14971
+    30284:
+    - 14975
+    26829:
+    - 12639
+    - 13084
+    20562:
+    - 12659
+    21465:
+    - 13194
+    27485:
+    - 12648
+    28512:
+    - 14969
+    9185:
+    - 12574
+    - 12650
+    - 13954
+    39009:
+    - 12644
+    37477:
+    - 14974
+    2405:
+    - 12637
+    25448:
+    - 12660
+    16618:
+    - 12600
+    46319:
+    - 12661
+    16496:
+    - 13195
+    16879:
+    - 14970
+    16243:
+    - 12646
+    27124:
+    - 12638
+    37753:
+    - 12640
+    31099:
+    - 12599
+  fulladdress:
+    24835:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43HG8
+    9219:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG7
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_239_2013_07_30.Explo_239_2013_07_30.AN43DG7
+    48007:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_204_2012_08_06.Explo_204_2012_08_06.AN43DG16
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG16
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_261_2013_10_03.Explo_261_2013_10_03.AN43DG16
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_283_2014_10_28.Explo_283_2014_10_28.AN43DG16
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_285_2014_10_31.Explo_285_2014_10_31.AN43DG16
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_285_2014_10_31.Explo_285_2014_10_31.AN43DG16_hab
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_300_2015_08_14.Explo_300_2015_08_14.AN43DG16
+    14090:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_204_2012_08_06.Explo_204_2012_08_06.AN43DI6
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_243_2013_08_05.Explo_243_2013_08_05.AN43DI6
+    33291:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43HG7
+    23052:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_204_2012_08_06.Explo_204_2012_08_06.AN43DI5
+    30731:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG1
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG1_hab
+    29326:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43HG2
+    45714:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG6
+    11035:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DJ30
+    14493:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43HG1
+    932:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DJ35
+    9646:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG15
+    13104:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG17
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_237_2012_10_31.Explo_237_2012_10_31.AN43DG17
+    18226:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG13
+    39347:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_204_2012_08_06.Explo_204_2012_08_06.AN43DI1
+    5692:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_204_2012_08_06.Explo_204_2012_08_06.AN43DI4
+    12995:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DJ34
+    23622:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG5
+    39879:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG11
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_211_2012_08_10.Explo_211_2012_08_10.AN43DG11
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43DG11
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43DG11_hab
+    8775:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG9
+    27080:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43HG3
+    43210:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43HG6
+    30284:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43HG10
+    26829:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG4
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_229_2012_09_25.Explo_229_2012_09_25.AN43DG4
+    20562:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DJ31
+    21465:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_237_2012_10_31.Explo_237_2012_10_31.AN43DT9
+    27485:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG12
+    28512:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43HG4
+    9185:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_203_2012_08_05.Explo_203_2012_08_05.AN43DG14
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG14
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_269_2014_08_12.Explo_269_2014_08_12.AN43DG14
+    39009:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG8
+    37477:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43HG9
+    2405:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG2
+    25448:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DJ32
+    16618:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_204_2012_08_06.Explo_204_2012_08_06.AN43DI3
+    46319:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DJ33
+    16496:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_237_2012_10_31.Explo_237_2012_10_31.AN43DT10
+    16879:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_324_2016_09_30.Explo_324_2016_09_30.AN43HG5
+    16243:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG10
+    27124:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN43DG3
+    37753:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_206_2012_08_08.Explo_206_2012_08_08.AN435
+    31099:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_204_2012_08_06.Explo_204_2012_08_06.AN43DI2

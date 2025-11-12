@@ -1,0 +1,1496 @@
+metadata:
+  id_dataset: '037'
+  short_name: FountainsFell
+  id_subset: '005'
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: UK Cave Registry. (2024). Cave survey [Creative Commons BY-NC-SA 4.0 dataset].
+    https://cave-registry.org.uk
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 614
+  total_depth: 131.02
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 119
+  number_edges: 118
+  mean_degree: 1.83
+  min_degree: 1.0
+  max_degree: 5.0
+  cv_degree: 0.562
+  number_cycles: 0
+  mean_length: 55.86
+  cv_length: 1.64
+  length_entropy: 0.45
+  orientation_3d_entropy: 0.522
+  aspl: 2.92
+  cpd: 0.564
+  correlation_vertex_degree: -0.467
+  original_format: Survex
+  comments_cave_info: .nan
+  full_name: Fountains Fell
+  geometry: .nan
+  units: meter
+  country: UK
+  state: Yorkshire
+  area: Helwith Bridge
+  locality: Pen-y-ghent
+  grotto_id: 31815 (Gingling) 31813 (Dale Head) 31814 (Echo) 31818 (Hammer) 31821
+    (Foul)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: OSGB:SD / Local
+  latitude: 54.137652
+  longitude: -2.234087
+  altitude: .nan
+  cave_url: https://grottocenter.org/ui/entrances/31815
+  supplemental_links: http://cavemaps.org/cavesnc2.htm
+  data_reception_date: '2023'
+  data_received_by: Celia
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://cave-registry.org.uk/svn/NorthernEngland/
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 5120
+  - 1686
+- - 5120
+  - 5122
+- - 5122
+  - 2344
+- - 515
+  - 33
+- - 1540
+  - 1631
+- - 1540
+  - 4574
+- - 1031
+  - 3291
+- - 1031
+  - 5104
+- - 3080
+  - 4448
+- - 3080
+  - 3421
+- - 4118
+  - 3763
+- - 4118
+  - 1661
+- - 33
+  - 1409
+- - 571
+  - 3137
+- - 571
+  - 3947
+- - 1595
+  - 2014
+- - 1595
+  - 4398
+- - 61
+  - 4398
+- - 61
+  - 1424
+- - 3137
+  - 3421
+- - 5189
+  - 1118
+- - 5189
+  - 4211
+- - 1099
+  - 4934
+- - 1099
+  - 4448
+- - 81
+  - 2419
+- - 81
+  - 4084
+- - 597
+  - 4254
+- - 597
+  - 3871
+- - 4187
+  - 3228
+- - 4187
+  - 2377
+- - 1117
+  - 2250
+- - 1117
+  - 1118
+- - 1631
+  - 984
+- - 1127
+  - 3271
+- - 1127
+  - 2014
+- - 4211
+  - 2485
+- - 117
+  - 5330
+- - 1655
+  - 1187
+- - 1655
+  - 2238
+- - 1661
+  - 263
+- - 1153
+  - 4382
+- - 1153
+  - 2493
+- - 3717
+  - 4574
+- - 3717
+  - 961
+- - 2187
+  - 783
+- - 2187
+  - 2547
+- - 3729
+  - 2485
+- - 3729
+  - 3259
+- - 1686
+  - 699
+- - 1686
+  - 4787
+- - 3228
+  - 4318
+- - 4252
+  - 2853
+- - 4252
+  - 4254
+- - 1187
+  - 5370
+- - 3235
+  - 416
+- - 3763
+  - 2792
+- - 4788
+  - 1302
+- - 4788
+  - 756
+- - 4792
+  - 5011
+- - 4792
+  - 892
+- - 699
+  - 1443
+- - 3259
+  - 3260
+- - 3260
+  - 865
+- - 2238
+  - 335
+- - 1732
+  - 5379
+- - 1732
+  - 1334
+- - 3271
+  - 892
+- - 2250
+  - 3871
+- - 5330
+  - 1896
+- - 3291
+  - 1896
+- - 4318
+  - 2516
+- - 2792
+  - 4019
+- - 1256
+  - 793
+- - 1256
+  - 2853
+- - 756
+  - 5089
+- - 5370
+  - 426
+- - 5379
+  - 1302
+- - 1284
+  - 5104
+- - 1284
+  - 3572
+- - 263
+  - 2516
+- - 783
+  - 4084
+- - 1302
+  - 4089
+- - 793
+  - 335
+- - 5403
+  - 3930
+- - 5403
+  - 4382
+- - 1821
+  - 961
+- - 1320
+  - 3572
+- - 1320
+  - 3057
+- - 1323
+  - 5030
+- - 1323
+  - 2398
+- - 1840
+  - 1500
+- - 1840
+  - 307
+- - 307
+  - 1393
+- - 1334
+  - 5030
+- - 2875
+  - 1016
+- - 2875
+  - 3018
+- - 2875
+  - 3534
+- - 4934
+  - 1424
+- - 2377
+  - 984
+- - 3930
+  - 2398
+- - 865
+  - 415
+- - 3947
+  - 2426
+- - 1393
+  - 4058
+- - 2419
+  - 2426
+- - 1409
+  - 921
+- - 5011
+  - 4058
+- - 921
+  - 2493
+- - 415
+  - 416
+- - 1443
+  - 1016
+- - 426
+  - 1490
+- - 4019
+  - 3557
+- - 444
+  - 5089
+- - 444
+  - 445
+- - 445
+  - 1490
+- - 961
+  - 1016
+- - 3018
+  - 4089
+- - 1500
+  - 3057
+- - 3557
+  - 2547
+node_attributes:
+  pos:
+    5120:
+    - 550184.73
+    - 5997994.76
+    - 363.93
+    5122:
+    - 550189.02
+    - 5998000.69
+    - 363.93
+    515:
+    - 550124.83
+    - 5998026.42
+    - 301.48
+    1540:
+    - 550153.34
+    - 5998015.79
+    - 402.03
+    1031:
+    - 550296.49
+    - 5998049.41
+    - 419.7
+    3080:
+    - 550197.84
+    - 5998053.03
+    - 413.6
+    4118:
+    - 550138.65
+    - 5998032.06
+    - 404.76
+    33:
+    - 550124.83
+    - 5998026.42
+    - 303.3
+    571:
+    - 550194.21
+    - 5998054.72
+    - 405.67
+    1595:
+    - 550216.77
+    - 5998084.12
+    - 416.04
+    61:
+    - 550215.57
+    - 5998078.46
+    - 413.6
+    3137:
+    - 550194.21
+    - 5998054.72
+    - 406.28
+    5189:
+    - 550174.72
+    - 5998019.7
+    - 357.97
+    1099:
+    - 550205.02
+    - 5998056.9
+    - 413.6
+    81:
+    - 550171.28
+    - 5998052.52
+    - 405.67
+    597:
+    - 550169.74
+    - 5998017.98
+    - 357.72
+    4187:
+    - 550143.32
+    - 5998024.24
+    - 402.94
+    1117:
+    - 550174.08
+    - 5998019.68
+    - 357.72
+    1118:
+    - 550174.08
+    - 5998019.68
+    - 357.97
+    1631:
+    - 550153.34
+    - 5998015.79
+    - 402.94
+    1127:
+    - 550215.93
+    - 5998084.99
+    - 416.65
+    4211:
+    - 550176.67
+    - 5998020.89
+    - 357.97
+    117:
+    - 550299.61
+    - 5998042.99
+    - 432.5
+    1655:
+    - 550165.5
+    - 5998013.12
+    - 353.72
+    1661:
+    - 550143.18
+    - 5998029.76
+    - 404.76
+    1153:
+    - 550130.75
+    - 5998022.87
+    - 312.13
+    3717:
+    - 550164.33
+    - 5998007.85
+    - 402.03
+    2187:
+    - 550154.52
+    - 5998046.21
+    - 405.67
+    3729:
+    - 550178.73
+    - 5998022.47
+    - 358.22
+    1686:
+    - 550184.73
+    - 5997994.76
+    - 388.93
+    3228:
+    - 550143.32
+    - 5998024.24
+    - 403.85
+    4252:
+    - 550168.03
+    - 5998016.82
+    - 357.22
+    4254:
+    - 550168.03
+    - 5998016.82
+    - 357.72
+    1187:
+    - 550164.65
+    - 5998013.17
+    - 353.72
+    3235:
+    - 550184.51
+    - 5998028.03
+    - 358.22
+    3763:
+    - 550134.21
+    - 5998034.04
+    - 404.76
+    4787:
+    - 550189.9
+    - 5997994.59
+    - 388.93
+    4788:
+    - 550165.69
+    - 5998009.42
+    - 350.22
+    4792:
+    - 550219.47
+    - 5998092.93
+    - 416.65
+    699:
+    - 550177.61
+    - 5997998.23
+    - 388.93
+    3259:
+    - 550180.5
+    - 5998023.89
+    - 358.22
+    3260:
+    - 550180.5
+    - 5998023.89
+    - 358.47
+    2238:
+    - 550166.02
+    - 5998012.98
+    - 353.72
+    1732:
+    - 550154.19
+    - 5998011.01
+    - 336.81
+    3271:
+    - 550212.61
+    - 5998090.53
+    - 416.65
+    2250:
+    - 550172.15
+    - 5998019.77
+    - 357.72
+    5330:
+    - 550299.61
+    - 5998042.99
+    - 429.45
+    3291:
+    - 550299.21
+    - 5998046.68
+    - 419.7
+    4318:
+    - 550147.75
+    - 5998026.31
+    - 403.85
+    2792:
+    - 550134.21
+    - 5998034.04
+    - 405.67
+    1256:
+    - 550165.05
+    - 5998014.74
+    - 357.22
+    756:
+    - 550164.66
+    - 5998011.17
+    - 350.22
+    5370:
+    - 550164.65
+    - 5998013.17
+    - 352.22
+    5379:
+    - 550167.08
+    - 5998007.32
+    - 336.81
+    1284:
+    - 550274.28
+    - 5998064.92
+    - 418.48
+    263:
+    - 550147.68
+    - 5998027.57
+    - 404.76
+    783:
+    - 550159.08
+    - 5998050.61
+    - 405.67
+    1302:
+    - 550167.08
+    - 5998007.32
+    - 350.22
+    793:
+    - 550165.43
+    - 5998013.97
+    - 357.22
+    5403:
+    - 550137.52
+    - 5998021.07
+    - 314.87
+    1821:
+    - 550154.95
+    - 5998014.65
+    - 392.89
+    4382:
+    - 550137.52
+    - 5998021.07
+    - 312.13
+    3871:
+    - 550171.47
+    - 5998019.27
+    - 357.72
+    2853:
+    - 550165.85
+    - 5998015.58
+    - 357.22
+    1320:
+    - 550262.39
+    - 5998078.58
+    - 418.48
+    2344:
+    - 550196.34
+    - 5998000.96
+    - 363.93
+    1323:
+    - 550144.58
+    - 5998017.48
+    - 319.13
+    4398:
+    - 550215.57
+    - 5998078.46
+    - 416.04
+    1840:
+    - 550250.24
+    - 5998090.83
+    - 418.48
+    307:
+    - 550250.24
+    - 5998090.83
+    - 417.26
+    1334:
+    - 550154.19
+    - 5998011.01
+    - 330.71
+    2875:
+    - 550164.33
+    - 5998007.85
+    - 364.24
+    4934:
+    - 550210.06
+    - 5998062.7
+    - 413.6
+    2377:
+    - 550145.42
+    - 5998022.28
+    - 402.94
+    335:
+    - 550166.02
+    - 5998012.98
+    - 357.22
+    3930:
+    - 550141.01
+    - 5998020.58
+    - 314.87
+    3421:
+    - 550197.84
+    - 5998053.03
+    - 406.28
+    2398:
+    - 550141.01
+    - 5998020.58
+    - 319.13
+    4448:
+    - 550200.83
+    - 5998053.85
+    - 413.6
+    865:
+    - 550181.67
+    - 5998024.72
+    - 358.47
+    1896:
+    - 550299.21
+    - 5998046.68
+    - 429.45
+    3947:
+    - 550191.08
+    - 5998055.62
+    - 405.67
+    1393:
+    - 550238.06
+    - 5998089.76
+    - 417.26
+    2419:
+    - 550180.42
+    - 5998059.93
+    - 405.67
+    2426:
+    - 550184.33
+    - 5998057.93
+    - 405.67
+    892:
+    - 550215.14
+    - 5998093.16
+    - 416.65
+    1409:
+    - 550127.79
+    - 5998024.65
+    - 303.3
+    1424:
+    - 550217.22
+    - 5998074.17
+    - 413.6
+    5011:
+    - 550219.47
+    - 5998092.93
+    - 417.26
+    921:
+    - 550127.79
+    - 5998024.65
+    - 305.12
+    415:
+    - 550182.98
+    - 5998026.25
+    - 358.47
+    416:
+    - 550182.98
+    - 5998026.25
+    - 358.22
+    1443:
+    - 550177.61
+    - 5997998.23
+    - 387.71
+    5030:
+    - 550144.58
+    - 5998017.48
+    - 330.71
+    426:
+    - 550163.69
+    - 5998013.08
+    - 352.22
+    4019:
+    - 550136.23
+    - 5998035.51
+    - 405.67
+    2485:
+    - 550178.73
+    - 5998022.47
+    - 357.97
+    444:
+    - 550164.12
+    - 5998012.31
+    - 351.22
+    445:
+    - 550164.12
+    - 5998012.31
+    - 351.72
+    2493:
+    - 550130.75
+    - 5998022.87
+    - 305.12
+    961:
+    - 550164.33
+    - 5998007.85
+    - 392.89
+    3018:
+    - 550164.33
+    - 5998007.85
+    - 359.97
+    3534:
+    - 550142.84
+    - 5998021.78
+    - 364.24
+    1490:
+    - 550163.69
+    - 5998013.08
+    - 351.72
+    2516:
+    - 550147.75
+    - 5998026.31
+    - 404.76
+    984:
+    - 550147.61
+    - 5998020.1
+    - 402.94
+    4058:
+    - 550228.68
+    - 5998094.73
+    - 417.26
+    1500:
+    - 550253.54
+    - 5998084.07
+    - 418.48
+    2014:
+    - 550216.77
+    - 5998084.12
+    - 416.65
+    4574:
+    - 550158.09
+    - 5998012.23
+    - 402.03
+    5089:
+    - 550164.66
+    - 5998011.17
+    - 351.22
+    3557:
+    - 550138.8
+    - 5998037.91
+    - 405.67
+    5104:
+    - 550274.28
+    - 5998064.92
+    - 419.7
+    3057:
+    - 550258.21
+    - 5998083.91
+    - 418.48
+    2547:
+    - 550147.31
+    - 5998042.84
+    - 405.67
+    3572:
+    - 550275.18
+    - 5998067.87
+    - 418.48
+    4084:
+    - 550165.03
+    - 5998050.72
+    - 405.67
+    1016:
+    - 550164.33
+    - 5998007.85
+    - 387.71
+    4089:
+    - 550167.08
+    - 5998007.32
+    - 359.97
+  comments:
+    117:
+    - Echo Pot
+  fulladdress:
+    5120:
+    - fountainsfell.echopot_reconstruction.46b5
+    5122:
+    - fountainsfell.echopot_reconstruction.46b6
+    515:
+    - fountainsfell.echopot_reconstruction.54a
+    1540:
+    - fountainsfell.echopot_reconstruction.41a
+    1031:
+    - fountainsfell.echopot_reconstruction.2
+    3080:
+    - fountainsfell.echopot_reconstruction.21
+    4118:
+    - fountainsfell.echopot_reconstruction.34
+    33:
+    - fountainsfell.echopot_reconstruction.54
+    571:
+    - fountainsfell.echopot_reconstruction.22a
+    1595:
+    - fountainsfell.echopot_reconstruction.15a
+    61:
+    - fountainsfell.echopot_reconstruction.16a
+    3137:
+    - fountainsfell.echopot_reconstruction.22
+    5189:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.16
+    1099:
+    - fountainsfell.echopot_reconstruction.19
+    81:
+    - fountainsfell.echopot_reconstruction.26
+    597:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.12
+    4187:
+    - fountainsfell.echopot_reconstruction.38a
+    1117:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.15
+    1118:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.15a
+    1631:
+    - fountainsfell.echopot_reconstruction.41
+    1127:
+    - fountainsfell.echopot_reconstruction.14
+    4211:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.17
+    117:
+    - fountainsfell.ffgps.212
+    1655:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.6
+    1661:
+    - fountainsfell.echopot_reconstruction.35
+    1153:
+    - fountainsfell.echopot_reconstruction.52
+    3717:
+    - fountainsfell.echopot_reconstruction.46
+    2187:
+    - fountainsfell.echopot_reconstruction.29
+    3729:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.18a
+    1686:
+    - fountainsfell.echopot_reconstruction.46b3
+    3228:
+    - fountainsfell.echopot_reconstruction.38
+    4252:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.11
+    4254:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.11a
+    1187:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.5a
+    3235:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.22
+    3763:
+    - fountainsfell.echopot_reconstruction.33a
+    4787:
+    - fountainsfell.echopot_reconstruction.46b4
+    4788:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.1
+    4792:
+    - fountainsfell.echopot_reconstruction.11a
+    699:
+    - fountainsfell.echopot_reconstruction.46b2
+    3259:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.19
+    3260:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.19a
+    2238:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.7
+    1732:
+    - fountainsfell.echopot_reconstruction.48
+    3271:
+    - fountainsfell.echopot_reconstruction.13
+    2250:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.14
+    5330:
+    - fountainsfell.echopot_reconstruction.0a
+    3291:
+    - fountainsfell.echopot_reconstruction.1a
+    4318:
+    - fountainsfell.echopot_reconstruction.37a
+    2792:
+    - fountainsfell.echopot_reconstruction.33
+    1256:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.9
+    756:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.2
+    5370:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.5
+    5379:
+    - fountainsfell.echopot_reconstruction.47b
+    1284:
+    - fountainsfell.echopot_reconstruction.3a
+    263:
+    - fountainsfell.echopot_reconstruction.36
+    783:
+    - fountainsfell.echopot_reconstruction.28
+    1302:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.0
+    793:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.8
+    5403:
+    - fountainsfell.echopot_reconstruction.51
+    1821:
+    - fountainsfell.echopot_reconstruction.46a1
+    4382:
+    - fountainsfell.echopot_reconstruction.51a
+    3871:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.13
+    2853:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.10
+    1320:
+    - fountainsfell.echopot_reconstruction.5
+    2344:
+    - fountainsfell.echopot_reconstruction.46b7
+    1323:
+    - fountainsfell.echopot_reconstruction.49a
+    4398:
+    - fountainsfell.echopot_reconstruction.16
+    1840:
+    - fountainsfell.echopot_reconstruction.8
+    307:
+    - fountainsfell.echopot_reconstruction.8a
+    1334:
+    - fountainsfell.echopot_reconstruction.48a
+    2875:
+    - fountainsfell.echopot_reconstruction.46c
+    4934:
+    - fountainsfell.echopot_reconstruction.18
+    2377:
+    - fountainsfell.echopot_reconstruction.39
+    335:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.7a
+    3930:
+    - fountainsfell.echopot_reconstruction.50a
+    3421:
+    - fountainsfell.echopot_reconstruction.21a
+    2398:
+    - fountainsfell.echopot_reconstruction.50
+    4448:
+    - fountainsfell.echopot_reconstruction.20
+    865:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.20
+    1896:
+    - fountainsfell.echopot_reconstruction.1
+    3947:
+    - fountainsfell.echopot_reconstruction.23
+    1393:
+    - fountainsfell.echopot_reconstruction.9
+    2419:
+    - fountainsfell.echopot_reconstruction.25
+    2426:
+    - fountainsfell.echopot_reconstruction.24
+    892:
+    - fountainsfell.echopot_reconstruction.12
+    1409:
+    - fountainsfell.echopot_reconstruction.53a
+    1424:
+    - fountainsfell.echopot_reconstruction.17
+    5011:
+    - fountainsfell.echopot_reconstruction.11
+    921:
+    - fountainsfell.echopot_reconstruction.53
+    415:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.21
+    416:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.21a
+    1443:
+    - fountainsfell.echopot_reconstruction.46b1
+    5030:
+    - fountainsfell.echopot_reconstruction.49
+    426:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.4a
+    4019:
+    - fountainsfell.echopot_reconstruction.32
+    2485:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.18
+    444:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.3
+    445:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.3a
+    2493:
+    - fountainsfell.echopot_reconstruction.52a
+    961:
+    - fountainsfell.echopot_reconstruction.46a
+    3018:
+    - fountainsfell.echopot_reconstruction.46d
+    3534:
+    - fountainsfell.echopot_reconstruction.46c1
+    1490:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.4
+    2516:
+    - fountainsfell.echopot_reconstruction.37
+    984:
+    - fountainsfell.echopot_reconstruction.40
+    4058:
+    - fountainsfell.echopot_reconstruction.10
+    1500:
+    - fountainsfell.echopot_reconstruction.7
+    2014:
+    - fountainsfell.echopot_reconstruction.15
+    4574:
+    - fountainsfell.echopot_reconstruction.42
+    5089:
+    - fountainsfell.echopot_reconstruction.farawayintime_reconstruction.2a
+    3557:
+    - fountainsfell.echopot_reconstruction.31
+    5104:
+    - fountainsfell.echopot_reconstruction.3
+    3057:
+    - fountainsfell.echopot_reconstruction.6
+    2547:
+    - fountainsfell.echopot_reconstruction.30
+    3572:
+    - fountainsfell.echopot_reconstruction.4
+    4084:
+    - fountainsfell.echopot_reconstruction.27
+    1016:
+    - fountainsfell.echopot_reconstruction.46b
+    4089:
+    - fountainsfell.echopot_reconstruction.47
+  idsql:
+    5120:
+    - 5400
+    5122:
+    - 5401
+    515:
+    - 5418
+    1540:
+    - 5354
+    1031:
+    - 5304
+    3080:
+    - 5328
+    4118:
+    - 5344
+    33:
+    - 5417
+    571:
+    - 5331
+    1595:
+    - 5321
+    61:
+    - 5323
+    3137:
+    - 5330
+    5189:
+    - 5385
+    1099:
+    - 5326
+    81:
+    - 5335
+    597:
+    - 5380
+    4187:
+    - 5350
+    1117:
+    - 5383
+    1118:
+    - 5384
+    1631:
+    - 5353
+    1127:
+    - 5319
+    4211:
+    - 5386
+    117:
+    - 5300
+    1655:
+    - 5372
+    1661:
+    - 5345
+    1153:
+    - 5413
+    3717:
+    - 5356
+    2187:
+    - 5338
+    3729:
+    - 5388
+    1686:
+    - 5398
+    3228:
+    - 5349
+    4252:
+    - 5378
+    4254:
+    - 5379
+    1187:
+    - 5371
+    3235:
+    - 5394
+    3763:
+    - 5343
+    4787:
+    - 5399
+    4788:
+    - 5363
+    4792:
+    - 5316
+    699:
+    - 5397
+    3259:
+    - 5389
+    3260:
+    - 5390
+    2238:
+    - 5373
+    1732:
+    - 5405
+    3271:
+    - 5318
+    2250:
+    - 5382
+    5330:
+    - 5301
+    3291:
+    - 5303
+    4318:
+    - 5348
+    2792:
+    - 5342
+    1256:
+    - 5376
+    756:
+    - 5364
+    5370:
+    - 5370
+    5379:
+    - 5404
+    1284:
+    - 5306
+    263:
+    - 5346
+    783:
+    - 5337
+    1302:
+    - 5362
+    793:
+    - 5375
+    5403:
+    - 5411
+    1821:
+    - 5395
+    4382:
+    - 5412
+    3871:
+    - 5381
+    2853:
+    - 5377
+    1320:
+    - 5308
+    2344:
+    - 5402
+    1323:
+    - 5408
+    4398:
+    - 5322
+    1840:
+    - 5311
+    307:
+    - 5312
+    1334:
+    - 5406
+    2875:
+    - 5359
+    4934:
+    - 5325
+    2377:
+    - 5351
+    335:
+    - 5374
+    3930:
+    - 5410
+    3421:
+    - 5329
+    2398:
+    - 5409
+    4448:
+    - 5327
+    865:
+    - 5391
+    1896:
+    - 5302
+    3947:
+    - 5332
+    1393:
+    - 5313
+    2419:
+    - 5334
+    2426:
+    - 5333
+    892:
+    - 5317
+    1409:
+    - 5416
+    1424:
+    - 5324
+    5011:
+    - 5315
+    921:
+    - 5415
+    415:
+    - 5392
+    416:
+    - 5393
+    1443:
+    - 5396
+    5030:
+    - 5407
+    426:
+    - 5369
+    4019:
+    - 5341
+    2485:
+    - 5387
+    444:
+    - 5366
+    445:
+    - 5367
+    2493:
+    - 5414
+    961:
+    - 5357
+    3018:
+    - 5360
+    3534:
+    - 5403
+    1490:
+    - 5368
+    2516:
+    - 5347
+    984:
+    - 5352
+    4058:
+    - 5314
+    1500:
+    - 5310
+    2014:
+    - 5320
+    4574:
+    - 5355
+    5089:
+    - 5365
+    3557:
+    - 5340
+    5104:
+    - 5305
+    3057:
+    - 5309
+    2547:
+    - 5339
+    3572:
+    - 5307
+    4084:
+    - 5336
+    1016:
+    - 5358
+    4089:
+    - 5361
+  flags:
+    5120:
+    - fix
+    5122:
+    - fix
+    515:
+    - fix
+    1540:
+    - fix
+    1031:
+    - fix
+    3080:
+    - fix
+    4118:
+    - fix
+    33:
+    - fix
+    571:
+    - fix
+    1595:
+    - fix
+    61:
+    - fix
+    3137:
+    - fix
+    5189:
+    - fix
+    1099:
+    - fix
+    81:
+    - fix
+    597:
+    - fix
+    4187:
+    - fix
+    1117:
+    - fix
+    1118:
+    - fix
+    1631:
+    - fix
+    1127:
+    - fix
+    4211:
+    - fix
+    117:
+    - fix
+    - ent
+    1655:
+    - fix
+    1661:
+    - fix
+    1153:
+    - fix
+    3717:
+    - fix
+    2187:
+    - fix
+    3729:
+    - fix
+    1686:
+    - fix
+    3228:
+    - fix
+    4252:
+    - fix
+    4254:
+    - fix
+    1187:
+    - fix
+    3235:
+    - fix
+    3763:
+    - fix
+    4787:
+    - fix
+    4788:
+    - fix
+    4792:
+    - fix
+    699:
+    - fix
+    3259:
+    - fix
+    3260:
+    - fix
+    2238:
+    - fix
+    1732:
+    - fix
+    3271:
+    - fix
+    2250:
+    - fix
+    5330:
+    - fix
+    3291:
+    - fix
+    4318:
+    - fix
+    2792:
+    - fix
+    1256:
+    - fix
+    756:
+    - fix
+    5370:
+    - fix
+    5379:
+    - fix
+    1284:
+    - fix
+    263:
+    - fix
+    783:
+    - fix
+    1302:
+    - fix
+    793:
+    - fix
+    5403:
+    - fix
+    1821:
+    - fix
+    4382:
+    - fix
+    3871:
+    - fix
+    2853:
+    - fix
+    1320:
+    - fix
+    2344:
+    - fix
+    1323:
+    - fix
+    4398:
+    - fix
+    1840:
+    - fix
+    307:
+    - fix
+    1334:
+    - fix
+    2875:
+    - fix
+    4934:
+    - fix
+    2377:
+    - fix
+    335:
+    - fix
+    3930:
+    - fix
+    3421:
+    - fix
+    2398:
+    - fix
+    4448:
+    - fix
+    865:
+    - fix
+    1896:
+    - fix
+    3947:
+    - fix
+    1393:
+    - fix
+    2419:
+    - fix
+    2426:
+    - fix
+    892:
+    - fix
+    1409:
+    - fix
+    1424:
+    - fix
+    5011:
+    - fix
+    921:
+    - fix
+    415:
+    - fix
+    416:
+    - fix
+    1443:
+    - fix
+    5030:
+    - fix
+    426:
+    - fix
+    4019:
+    - fix
+    2485:
+    - fix
+    444:
+    - fix
+    445:
+    - fix
+    2493:
+    - fix
+    961:
+    - fix
+    3018:
+    - fix
+    3534:
+    - fix
+    1490:
+    - fix
+    2516:
+    - fix
+    984:
+    - fix
+    4058:
+    - fix
+    1500:
+    - fix
+    2014:
+    - fix
+    4574:
+    - fix
+    5089:
+    - fix
+    3557:
+    - fix
+    5104:
+    - fix
+    3057:
+    - fix
+    2547:
+    - fix
+    3572:
+    - fix
+    4084:
+    - fix
+    1016:
+    - fix
+    4089:
+    - fix

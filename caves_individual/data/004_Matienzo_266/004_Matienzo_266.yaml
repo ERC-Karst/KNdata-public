@@ -1,0 +1,249 @@
+metadata:
+  id_dataset: '004'
+  short_name: Matienzo
+  id_subset: '266'
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: 'Matienzo Caves Project Expeditions. (2025). Matienzo Cave Survey Data
+    1960-2025 [Dataset, Aven .3d]. Matienzo Caves Project. https://matienzocaves.org.uk/maps_photos.htm
+
+    '
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 772
+  total_depth: 26.46
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 15
+  number_edges: 14
+  mean_degree: 1.5
+  min_degree: 1.0
+  max_degree: 11.0
+  cv_degree: 0.667
+  number_cycles: 0
+  mean_length: 257.39
+  cv_length: 1.59
+  length_entropy: 0.28
+  orientation_3d_entropy: 0.376
+  aspl: 1.5
+  cpd: 1.0
+  correlation_vertex_degree: -1.0
+  original_format: Survex
+  comments_cave_info: Marco Dentz sent the link to the repo. we should contact them
+    to see if we can get the svx project
+  full_name: Matienzo caves
+  geometry: splays
+  units: meter
+  country: Spain
+  state: Cantabria
+  area: Castro Urdiales
+  locality: Matienzo
+  grotto_id: 33375 (Bollon) / 33388 (Calleja Rebollo) / 33447 (Colmenas) /  33465
+    (Covern) / 33807 (Suviejo)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:27573
+  latitude: 43.3067
+  longitude: -3.6315
+  altitude: '293'
+  cave_url: https://matienzocaves.org.uk/Systems/intro.htm
+  supplemental_links: https://www.matienzocaves.org.uk/Leaflet/Leaflet-latest.html?center=348&zoom=16&map_type=GV_HYBRID
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: .nan
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 67012
+  - 62043
+- - 67012
+  - 105982
+- - 88870
+  - 20505
+- - 88870
+  - 25105
+- - 105982
+  - 1355
+- - 1355
+  - 80697
+- - 98605
+  - 35951
+- - 98605
+  - 69491
+- - 98605
+  - 105363
+- - 67918
+  - 25105
+- - 67918
+  - 2267
+- - 35951
+  - 99057
+- - 2267
+  - 62043
+- - 99057
+  - 80697
+node_attributes:
+  flags:
+    67012:
+    - fix
+    88870:
+    - fix
+    105982:
+    - fix
+    1355:
+    - fix
+    98605:
+    - fix
+    67918:
+    - fix
+    35951:
+    - fix
+    2267:
+    - fix
+    25105:
+    - fix
+    99057:
+    - fix
+    69491:
+    - ent
+    - fix
+    105363:
+    - fix
+    80697:
+    - fix
+    62043:
+    - fix
+    20505:
+    - ent
+    - fix
+  pos:
+    67012:
+    - 454919.08
+    - 4792983.54
+    - 147.23
+    88870:
+    - 455097.85
+    - 4792836.92
+    - 138.04
+    105982:
+    - 454794.92
+    - 4792976.46
+    - 150.77
+    1355:
+    - 454789.77
+    - 4793068.38
+    - 153.31
+    98605:
+    - 454637.15
+    - 4793168.08
+    - 154.46
+    67918:
+    - 455054.54
+    - 4792882.77
+    - 140.62
+    35951:
+    - 454723.31
+    - 4793129.15
+    - 153.92
+    2267:
+    - 455031.38
+    - 4792873.69
+    - 141.15
+    25105:
+    - 455093.69
+    - 4792840.85
+    - 140.08
+    99057:
+    - 454727.46
+    - 4793102.23
+    - 153.38
+    69491:
+    - 454605.0
+    - 4793176.0
+    - 155.0
+    105363:
+    - 454637.15
+    - 4793168.08
+    - 163.46
+    80697:
+    - 454751.62
+    - 4793085.31
+    - 153.85
+    62043:
+    - 454923.23
+    - 4792979.62
+    - 145.19
+    20505:
+    - 455145.0
+    - 4792779.0
+    - 137.0
+  idsql:
+    67012:
+    - 4718
+    88870:
+    - 4713
+    105982:
+    - 4719
+    1355:
+    - 4720
+    98605:
+    - 4724
+    67918:
+    - 4715
+    35951:
+    - 4723
+    2267:
+    - 4716
+    25105:
+    - 4714
+    99057:
+    - 4722
+    69491:
+    - 4725
+    105363:
+    - 40917
+    80697:
+    - 4721
+    62043:
+    - 4717
+    20505:
+    - 4712
+  fulladdress:
+    67012:
+    - Matienzo.all.0005.5
+    88870:
+    - Matienzo.all.0005.10
+    105982:
+    - Matienzo.all.0005.4
+    1355:
+    - Matienzo.all.0005.3
+    98605:
+    - Matienzo.all.0005.shaftbase
+    67918:
+    - Matienzo.all.0005.8
+    35951:
+    - Matienzo.all.0005.1
+    2267:
+    - Matienzo.all.0005.7
+    25105:
+    - Matienzo.all.0005.9
+    99057:
+    - Matienzo.all.0005.2
+    69491:
+    - Matienzo.all.0005.5-entr
+    105363:
+    - Matienzo.all.0005.shafttop
+    80697:
+    - Matienzo.all.0005.duck
+    62043:
+    - Matienzo.all.0005.6
+    20505:
+    - Matienzo.all.0005.4271-entr

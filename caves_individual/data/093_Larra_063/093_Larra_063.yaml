@@ -1,0 +1,906 @@
+metadata:
+  id_dataset: 093
+  short_name: Larra
+  id_subset: '063'
+  status: ready for cleaning
+  type_of_correction: .nan
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Pont, A., & ARSIP, collectif d\u2019exploration du massif de la P. S.\
+    \ M. (2025). Base de donn\xE9es Topographiques des syst\xE8mes karstiques du massif\
+    \ de la Pierre Saint Martin\u2014Larra (France) [Creative Commons BY-NC-SA 4.0\
+    \ dataset, Therion project]. https://github.com/Alex38Lyon/Synthese-PSM_LARRA"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 727
+  total_depth: 376.43
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 82
+  number_edges: 81
+  mean_degree: 1.88
+  min_degree: 1.0
+  max_degree: 10.0
+  cv_degree: 0.547
+  number_cycles: 0
+  mean_length: 48.52
+  cv_length: 1.03
+  length_entropy: 0.57
+  orientation_3d_entropy: 0.638
+  aspl: 3.74
+  cpd: 0.431
+  correlation_vertex_degree: -0.429
+  original_format: Therion
+  comments_cave_info: data not available for compiling. but sql file was created
+  full_name: "Syst\xE8mes karstiques du massif de la Pierre Saint Martin - Larra"
+  geometry: .nan
+  units: meter
+  country: France
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/Alex38Lyon/Synthese-PSM_LARRA
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 27136
+  - 11364
+- - 27136
+  - 35503
+- - 41481
+  - 24754
+- - 41481
+  - 17547
+- - 1035
+  - 5370
+- - 17423
+  - 29349
+- - 17423
+  - 43251
+- - 36882
+  - 29863
+- - 36882
+  - 2967
+- - 17941
+  - 1257
+- - 17941
+  - 16939
+- - 36378
+  - 583
+- - 36378
+  - 11364
+- - 16939
+  - 5967
+- - 35883
+  - 27515
+- - 35883
+  - 27317
+- - 25140
+  - 11364
+- - 25140
+  - 41036
+- - 26173
+  - 18779
+- - 5693
+  - 17547
+- - 5693
+  - 8407
+- - 3648
+  - 27317
+- - 3648
+  - 24754
+- - 40512
+  - 12497
+- - 40512
+  - 42940
+- - 2114
+  - 18085
+- - 2114
+  - 12497
+- - 583
+  - 35214
+- - 41036
+  - 46572
+- - 11343
+  - 1257
+- - 5728
+  - 18203
+- - 5728
+  - 37524
+- - 10856
+  - 8407
+- - 10856
+  - 11736
+- - 14454
+  - 24258
+- - 14454
+  - 11992
+- - 36471
+  - 12997
+- - 36471
+  - 18085
+- - 40066
+  - 16526
+- - 40066
+  - 29349
+- - 39564
+  - 11736
+- - 39564
+  - 34624
+- - 9870
+  - 37524
+- - 9870
+  - 48563
+- - 16526
+  - 14012
+- - 37524
+  - 43440
+- - 10389
+  - 13604
+- - 10389
+  - 15843
+- - 45723
+  - 46572
+- - 45723
+  - 10907
+- - 10907
+  - 13604
+- - 3741
+  - 14703
+- - 3741
+  - 18779
+- - 29863
+  - 8919
+- - 35501
+  - 40945
+- - 35501
+  - 17281
+- - 35503
+  - 6992
+- - 24754
+  - 40703
+- - 31410
+  - 6855
+- - 14012
+  - 47561
+- - 16574
+  - 33548
+- - 16574
+  - 27854
+- - 24258
+  - 18779
+- - 12997
+  - 40822
+- - 6855
+  - 42940
+- - 27854
+  - 35214
+- - 15055
+  - 34624
+- - 15055
+  - 29050
+- - 8919
+  - 43440
+- - 11992
+  - 36068
+- - 36068
+  - 16829
+- - 1257
+  - 5370
+- - 33548
+  - 17281
+- - 18203
+  - 5967
+- - 2338
+  - 47561
+- - 13604
+  - 14703
+- - 6992
+  - 40822
+- - 23930
+  - 48563
+- - 29050
+  - 40945
+- - 27515
+  - 2967
+- - 16829
+  - 47561
+node_attributes:
+  flags:
+    1035:
+    - ent
+    - fix
+  pos:
+    27136:
+    - 680726.69
+    - 4758204.92
+    - 1397.3
+    41481:
+    - 680725.96
+    - 4758198.23
+    - 1599.4
+    1035:
+    - 680689.0
+    - 4758199.0
+    - 1745.0
+    17423:
+    - 680681.15
+    - 4758223.59
+    - 1370.9
+    36882:
+    - 680707.98
+    - 4758201.42
+    - 1669.91
+    17941:
+    - 680697.18
+    - 4758196.39
+    - 1730.95
+    36378:
+    - 680721.05
+    - 4758193.9
+    - 1447.09
+    16939:
+    - 680699.23
+    - 4758200.39
+    - 1730.95
+    35883:
+    - 680713.07
+    - 4758202.74
+    - 1646.4
+    25140:
+    - 680718.46
+    - 4758200.02
+    - 1435.45
+    26173:
+    - 680692.65
+    - 4758210.76
+    - 1374.96
+    5693:
+    - 680719.32
+    - 4758191.71
+    - 1587.74
+    3648:
+    - 680714.33
+    - 4758202.69
+    - 1620.92
+    40512:
+    - 680744.15
+    - 4758230.29
+    - 1381.99
+    2114:
+    - 680741.22
+    - 4758223.81
+    - 1387.29
+    583:
+    - 680721.37
+    - 4758193.14
+    - 1451.81
+    41036:
+    - 680715.16
+    - 4758203.11
+    - 1428.49
+    11343:
+    - 680697.22
+    - 4758191.58
+    - 1746.01
+    5728:
+    - 680703.21
+    - 4758196.16
+    - 1714.29
+    11364:
+    - 680721.86
+    - 4758200.43
+    - 1434.73
+    10856:
+    - 680714.81
+    - 4758187.73
+    - 1567.42
+    14454:
+    - 680691.66
+    - 4758212.69
+    - 1412.29
+    36471:
+    - 680738.47
+    - 4758217.75
+    - 1389.43
+    40066:
+    - 680685.68
+    - 4758221.21
+    - 1370.93
+    17547:
+    - 680718.47
+    - 4758197.85
+    - 1599.4
+    39564:
+    - 680711.71
+    - 4758185.54
+    - 1559.33
+    9870:
+    - 680707.01
+    - 4758194.57
+    - 1689.84
+    16526:
+    - 680686.67
+    - 4758221.79
+    - 1372.5
+    37524:
+    - 680706.9
+    - 4758194.28
+    - 1698.84
+    10389:
+    - 680708.73
+    - 4758205.97
+    - 1404.26
+    45723:
+    - 680710.77
+    - 4758205.65
+    - 1421.4
+    10907:
+    - 680703.85
+    - 4758209.67
+    - 1421.4
+    3741:
+    - 680693.38
+    - 4758206.95
+    - 1417.78
+    18085:
+    - 680740.77
+    - 4758221.46
+    - 1387.84
+    29349:
+    - 680683.23
+    - 4758221.86
+    - 1370.75
+    29863:
+    - 680707.98
+    - 4758201.42
+    - 1685.41
+    35501:
+    - 680705.57
+    - 4758180.49
+    - 1489.77
+    35503:
+    - 680729.15
+    - 4758205.71
+    - 1396.51
+    24754:
+    - 680719.35
+    - 4758201.61
+    - 1606.82
+    31410:
+    - 680746.94
+    - 4758236.34
+    - 1379.51
+    27317:
+    - 680714.33
+    - 4758202.69
+    - 1642.92
+    14012:
+    - 680684.8
+    - 4758219.55
+    - 1382.48
+    16574:
+    - 680713.59
+    - 4758186.73
+    - 1465.13
+    24258:
+    - 680692.44
+    - 4758211.11
+    - 1413.47
+    12997:
+    - 680735.06
+    - 4758216.5
+    - 1391.53
+    6855:
+    - 680740.33
+    - 4758232.02
+    - 1379.93
+    27854:
+    - 680715.0
+    - 4758190.21
+    - 1461.98
+    15055:
+    - 680710.15
+    - 4758183.43
+    - 1546.74
+    12497:
+    - 680747.25
+    - 4758228.73
+    - 1383.99
+    8919:
+    - 680705.85
+    - 4758200.04
+    - 1690.85
+    8407:
+    - 680716.31
+    - 4758190.12
+    - 1568.44
+    11992:
+    - 680690.49
+    - 4758213.73
+    - 1405.72
+    36068:
+    - 680685.22
+    - 4758216.75
+    - 1405.72
+    1257:
+    - 680696.21
+    - 4758193.25
+    - 1732.14
+    43251:
+    - 680673.95
+    - 4758226.33
+    - 1369.58
+    5370:
+    - 680691.21
+    - 4758189.35
+    - 1735.1
+    40703:
+    - 680716.06
+    - 4758198.74
+    - 1586.28
+    33548:
+    - 680711.24
+    - 4758183.63
+    - 1487.18
+    18203:
+    - 680704.15
+    - 4758198.48
+    - 1714.29
+    2338:
+    - 680679.02
+    - 4758220.43
+    - 1390.42
+    13604:
+    - 680703.85
+    - 4758209.67
+    - 1409.4
+    34624:
+    - 680710.7
+    - 4758183.56
+    - 1553.22
+    5967:
+    - 680702.13
+    - 4758198.91
+    - 1722.02
+    6992:
+    - 680731.0
+    - 4758209.32
+    - 1395.43
+    18779:
+    - 680692.65
+    - 4758210.76
+    - 1414.96
+    14703:
+    - 680698.88
+    - 4758206.45
+    - 1422.09
+    40822:
+    - 680731.95
+    - 4758211.36
+    - 1391.53
+    23930:
+    - 680706.67
+    - 4758197.16
+    - 1677.73
+    29050:
+    - 680708.39
+    - 4758180.64
+    - 1546.74
+    27515:
+    - 680709.89
+    - 4758202.85
+    - 1664.42
+    17281:
+    - 680709.56
+    - 4758180.35
+    - 1489.77
+    35214:
+    - 680716.57
+    - 4758189.4
+    - 1460.5
+    2967:
+    - 680708.51
+    - 4758203.15
+    - 1664.93
+    43440:
+    - 680706.74
+    - 4758197.27
+    - 1698.84
+    48563:
+    - 680707.45
+    - 4758196.7
+    - 1681.11
+    42940:
+    - 680742.57
+    - 4758232.03
+    - 1380.79
+    16829:
+    - 680684.43
+    - 4758218.51
+    - 1391.85
+    47561:
+    - 680682.72
+    - 4758219.17
+    - 1386.47
+    11736:
+    - 680712.8
+    - 4758187.27
+    - 1564.96
+    15843:
+    - 680708.73
+    - 4758205.97
+    - 1380.26
+    46572:
+    - 680710.77
+    - 4758205.65
+    - 1425.9
+    40945:
+    - 680705.57
+    - 4758180.49
+    - 1514.37
+  idsql:
+    27136:
+    - 60442
+    41481:
+    - 60422
+    1035:
+    - 60402
+    - 60403
+    - 60459
+    - 60460
+    - 60461
+    17423:
+    - 60481
+    36882:
+    - 60415
+    17941:
+    - 60406
+    36378:
+    - 60440
+    16939:
+    - 60407
+    35883:
+    - 60418
+    25140:
+    - 60447
+    26173:
+    - 60458
+    5693:
+    - 60424
+    3648:
+    - 60420
+    40512:
+    - 60489
+    2114:
+    - 60487
+    583:
+    - 60439
+    41036:
+    - 60448
+    11343:
+    - 60469
+    5728:
+    - 60410
+    11364:
+    - 60441
+    10856:
+    - 60426
+    14454:
+    - 60472
+    36471:
+    - 60485
+    40066:
+    - 60479
+    17547:
+    - 60423
+    39564:
+    - 60428
+    9870:
+    - 60463
+    16526:
+    - 60478
+    37524:
+    - 60411
+    - 60462
+    10389:
+    - 60453
+    45723:
+    - 60450
+    10907:
+    - 60451
+    3741:
+    - 60456
+    18085:
+    - 60486
+    29349:
+    - 60480
+    29863:
+    - 60414
+    35501:
+    - 60433
+    35503:
+    - 60443
+    24754:
+    - 60421
+    - 60466
+    31410:
+    - 60492
+    27317:
+    - 60419
+    14012:
+    - 60477
+    16574:
+    - 60436
+    24258:
+    - 60471
+    12997:
+    - 60446
+    - 60484
+    6855:
+    - 60491
+    27854:
+    - 60437
+    15055:
+    - 60430
+    12497:
+    - 60488
+    8919:
+    - 60413
+    8407:
+    - 60425
+    11992:
+    - 60473
+    36068:
+    - 60474
+    1257:
+    - 60405
+    - 60468
+    43251:
+    - 60482
+    5370:
+    - 60404
+    40703:
+    - 60467
+    33548:
+    - 60435
+    18203:
+    - 60409
+    2338:
+    - 60483
+    13604:
+    - 60452
+    34624:
+    - 60429
+    5967:
+    - 60408
+    6992:
+    - 60444
+    18779:
+    - 60457
+    - 60470
+    14703:
+    - 60455
+    40822:
+    - 60445
+    23930:
+    - 60465
+    29050:
+    - 60431
+    27515:
+    - 60417
+    17281:
+    - 60434
+    35214:
+    - 60438
+    2967:
+    - 60416
+    43440:
+    - 60412
+    48563:
+    - 60464
+    42940:
+    - 60490
+    16829:
+    - 60475
+    47561:
+    - 60476
+    11736:
+    - 60427
+    15843:
+    - 60454
+    46572:
+    - 60449
+    40945:
+    - 60432
+  fulladdress:
+    27136:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_39
+    41481:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_19
+    1035:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_1_0
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_0
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_02_2007_08_08.Explo_02_2007_08_08.Z_150
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_02_2007_08_08.Explo_02_2007_08_08.Z150_d_1_0
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_02_2007_08_08.Explo_02_2007_08_08.Z150_d_*
+    17423:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_71
+    36882:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_12
+    17941:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_3
+    36378:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_37
+    16939:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_4
+    35883:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_15
+    25140:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_44
+    26173:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_55
+    5693:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_21
+    3648:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_17
+    40512:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_78
+    2114:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_76
+    583:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_36
+    41036:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_45
+    11343:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_60
+    5728:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_7
+    11364:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_38
+    10856:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_23
+    14454:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_62
+    36471:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_74
+    40066:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_69
+    17547:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_20
+    39564:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_25
+    9870:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_56
+    16526:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_68
+    37524:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_8
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_8
+    10389:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_50
+    45723:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_47
+    10907:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_48
+    3741:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_53
+    18085:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_75
+    29349:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_70
+    29863:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_11
+    35501:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_30
+    35503:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_40
+    24754:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_18
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_18
+    31410:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_81
+    27317:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_16
+    14012:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_67
+    16574:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_33
+    24258:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_61
+    12997:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_43
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_43
+    6855:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_80
+    27854:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_34
+    15055:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_27
+    12497:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_77
+    8919:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_10
+    8407:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_22
+    11992:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_63
+    36068:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_64
+    1257:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_2
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_2
+    43251:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_72
+    5370:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_1
+    40703:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_59
+    33548:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_32
+    18203:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_6
+    2338:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_73
+    13604:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_49
+    34624:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_26
+    5967:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_5
+    6992:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_41
+    18779:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_54
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_54
+    14703:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_52
+    40822:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_42
+    23930:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_58
+    29050:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_28
+    27515:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_14
+    17281:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_31
+    35214:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_35
+    2967:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_13
+    43440:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_9
+    48563:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_57
+    42940:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_79
+    16829:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_65
+    47561:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_03_2019_08_01.Explo_03_2019_08_01.Z150_d_66
+    11736:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_24
+    15843:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_51
+    46572:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_46
+    40945:
+    - Synthese-PSM_LARRA.Z150-Gouffre_Patrick_GROSDEMANCHE.Explo_01_2007_08_01.Explo_01_2007_08_01.Z150_d_29

@@ -1,0 +1,834 @@
+metadata:
+  id_dataset: 093
+  short_name: Larra
+  id_subset: '064'
+  status: ready for cleaning
+  type_of_correction: .nan
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Pont, A., & ARSIP, collectif d\u2019exploration du massif de la P. S.\
+    \ M. (2025). Base de donn\xE9es Topographiques des syst\xE8mes karstiques du massif\
+    \ de la Pierre Saint Martin\u2014Larra (France) [Creative Commons BY-NC-SA 4.0\
+    \ dataset, Therion project]. https://github.com/Alex38Lyon/Synthese-PSM_LARRA"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 539
+  total_depth: 83.98
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 76
+  number_edges: 75
+  mean_degree: 1.92
+  min_degree: 1.0
+  max_degree: 10.0
+  cv_degree: 0.531
+  number_cycles: 0
+  mean_length: 23.48
+  cv_length: 0.99
+  length_entropy: 0.73
+  orientation_3d_entropy: 0.753
+  aspl: 4.61
+  cpd: 0.484
+  correlation_vertex_degree: -0.394
+  original_format: Therion
+  comments_cave_info: data not available for compiling. but sql file was created
+  full_name: "Syst\xE8mes karstiques du massif de la Pierre Saint Martin - Larra"
+  geometry: .nan
+  units: meter
+  country: France
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/Alex38Lyon/Synthese-PSM_LARRA
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 13442
+  - 6477
+- - 13442
+  - 47272
+- - 23564
+  - 43104
+- - 23564
+  - 21673
+- - 28813
+  - 17466
+- - 20366
+  - 32569
+- - 20366
+  - 29405
+- - 28047
+  - 23672
+- - 28047
+  - 7102
+- - 10509
+  - 14784
+- - 10509
+  - 42291
+- - 26131
+  - 47640
+- - 26131
+  - 12669
+- - 11284
+  - 43614
+- - 11284
+  - 45208
+- - 21652
+  - 42456
+- - 21652
+  - 32286
+- - 46488
+  - 40063
+- - 47640
+  - 10432
+- - 17432
+  - 24284
+- - 15771
+  - 36672
+- - 19867
+  - 18771
+- - 19867
+  - 25971
+- - 11037
+  - 48475
+- - 11037
+  - 11726
+- - 45208
+  - 40395
+- - 45208
+  - 12495
+- - 32286
+  - 20209
+- - 2592
+  - 19064
+- - 2592
+  - 6477
+- - 38014
+  - 39103
+- - 38014
+  - 23672
+- - 23458
+  - 23672
+- - 23458
+  - 19786
+- - 47272
+  - 13777
+- - 19064
+  - 25014
+- - 19064
+  - 9645
+- - 9645
+  - 24284
+- - 16816
+  - 6591
+- - 16816
+  - 47669
+- - 19889
+  - 10494
+- - 19889
+  - 43825
+- - 43825
+  - 33717
+- - 42291
+  - 822
+- - 33717
+  - 43614
+- - 25014
+  - 30816
+- - 33462
+  - 20209
+- - 33462
+  - 32569
+- - 46518
+  - 43614
+- - 46518
+  - 43104
+- - 46518
+  - 2274
+- - 33721
+  - 26705
+- - 17466
+  - 48475
+- - 822
+  - 40395
+- - 39103
+  - 26705
+- - 10432
+  - 42989
+- - 36672
+  - 2274
+- - 36672
+  - 31326
+- - 6591
+  - 31940
+- - 31940
+  - 43104
+- - 20040
+  - 601
+- - 19786
+  - 48475
+- - 11726
+  - 27384
+- - 77
+  - 13777
+- - 77
+  - 16091
+- - 13777
+  - 18771
+- - 601
+  - 32765
+- - 7388
+  - 10494
+- - 7388
+  - 29405
+- - 30816
+  - 27384
+- - 42989
+  - 25971
+- - 47669
+  - 40063
+- - 47669
+  - 32765
+- - 12669
+  - 21627
+- - 21627
+  - 10494
+node_attributes:
+  pos:
+    13442:
+    - 685435.63
+    - 4756752.85
+    - 2089.11
+    23564:
+    - 685457.83
+    - 4756757.34
+    - 2036.03
+    28813:
+    - 685398.62
+    - 4756770.22
+    - 2064.76
+    20366:
+    - 685488.09
+    - 4756727.55
+    - 2032.35
+    28047:
+    - 685391.93
+    - 4756769.66
+    - 2039.4
+    10509:
+    - 685452.42
+    - 4756746.29
+    - 2054.92
+    26131:
+    - 685464.64
+    - 4756740.66
+    - 2060.99
+    11284:
+    - 685449.3
+    - 4756753.89
+    - 2044.38
+    21652:
+    - 685531.64
+    - 4756710.89
+    - 2011.06
+    46488:
+    - 685414.49
+    - 4756760.09
+    - 2043.12
+    47640:
+    - 685461.97
+    - 4756734.37
+    - 2064.55
+    17432:
+    - 685392.6
+    - 4756743.96
+    - 2066.03
+    15771:
+    - 685453.47
+    - 4756753.33
+    - 2034.7
+    19867:
+    - 685461.91
+    - 4756751.42
+    - 2082.54
+    11037:
+    - 685398.37
+    - 4756773.8
+    - 2063.45
+    45208:
+    - 685448.87
+    - 4756754.19
+    - 2046.72
+    32286:
+    - 685523.77
+    - 4756709.78
+    - 2016.27
+    2592:
+    - 685421.23
+    - 4756758.26
+    - 2081.71
+    38014:
+    - 685396.28
+    - 4756774.17
+    - 2032.29
+    23458:
+    - 685394.48
+    - 4756772.88
+    - 2044.08
+    47272:
+    - 685438.5
+    - 4756747.27
+    - 2091.24
+    21673:
+    - 685463.81
+    - 4756755.11
+    - 2031.85
+    19064:
+    - 685411.23
+    - 4756757.82
+    - 2077.75
+    9645:
+    - 685404.81
+    - 4756755.35
+    - 2075.12
+    16816:
+    - 685435.07
+    - 4756765.0
+    - 2045.17
+    19889:
+    - 685463.16
+    - 4756743.59
+    - 2050.19
+    43825:
+    - 685462.9
+    - 4756749.17
+    - 2043.6
+    42291:
+    - 685450.68
+    - 4756751.24
+    - 2053.27
+    33717:
+    - 685457.12
+    - 4756749.92
+    - 2046.72
+    25014:
+    - 685412.58
+    - 4756762.83
+    - 2075.97
+    33462:
+    - 685506.67
+    - 4756709.09
+    - 2014.41
+    46518:
+    - 685458.15
+    - 4756755.78
+    - 2037.79
+    33721:
+    - 685402.38
+    - 4756778.77
+    - 2007.26
+    17466:
+    - 685396.33
+    - 4756769.58
+    - 2063.0
+    32569:
+    - 685500.12
+    - 4756713.55
+    - 2020.48
+    23672:
+    - 685394.4
+    - 4756773.66
+    - 2041.79
+    822:
+    - 685445.64
+    - 4756748.89
+    - 2053.88
+    7102:
+    - 685385.87
+    - 4756773.75
+    - 2038.43
+    39103:
+    - 685399.78
+    - 4756778.72
+    - 2029.11
+    10432:
+    - 685457.78
+    - 4756739.84
+    - 2071.57
+    36672:
+    - 685451.42
+    - 4756752.5
+    - 2037.86
+    6591:
+    - 685438.73
+    - 4756759.93
+    - 2043.2
+    14784:
+    - 685450.07
+    - 4756745.94
+    - 2056.47
+    31940:
+    - 685448.25
+    - 4756760.69
+    - 2038.91
+    20040:
+    - 685410.15
+    - 4756761.31
+    - 2047.55
+    19786:
+    - 685394.05
+    - 4756774.44
+    - 2054.07
+    40395:
+    - 685444.06
+    - 4756753.76
+    - 2049.65
+    6477:
+    - 685428.99
+    - 4756758.41
+    - 2084.78
+    11726:
+    - 685401.8
+    - 4756772.16
+    - 2066.1
+    77:
+    - 685450.22
+    - 4756731.8
+    - 2086.51
+    12495:
+    - 685439.14
+    - 4756756.92
+    - 2047.73
+    26705:
+    - 685401.63
+    - 4756779.84
+    - 2022.79
+    13777:
+    - 685445.91
+    - 4756739.42
+    - 2088.93
+    18771:
+    - 685457.61
+    - 4756744.93
+    - 2084.45
+    42456:
+    - 685536.65
+    - 4756711.07
+    - 2009.45
+    601:
+    - 685416.11
+    - 4756764.84
+    - 2048.14
+    48475:
+    - 685394.91
+    - 4756772.22
+    - 2062.87
+    24284:
+    - 685398.76
+    - 4756751.12
+    - 2070.75
+    16091:
+    - 685443.15
+    - 4756730.86
+    - 2089.51
+    7388:
+    - 685468.3
+    - 4756739.2
+    - 2049.84
+    29405:
+    - 685477.35
+    - 4756737.08
+    - 2042.63
+    30816:
+    - 685408.36
+    - 4756770.92
+    - 2073.08
+    43614:
+    - 685452.79
+    - 4756755.12
+    - 2042.83
+    43104:
+    - 685455.22
+    - 4756757.66
+    - 2037.84
+    2274:
+    - 685455.21
+    - 4756756.1
+    - 2039.47
+    31326:
+    - 685451.53
+    - 4756747.99
+    - 2039.38
+    42989:
+    - 685458.68
+    - 4756747.91
+    - 2074.87
+    20209:
+    - 685516.54
+    - 4756710.61
+    - 2017.1
+    25971:
+    - 685459.4
+    - 4756751.03
+    - 2081.07
+    47669:
+    - 685422.09
+    - 4756763.93
+    - 2047.28
+    12669:
+    - 685465.48
+    - 4756740.55
+    - 2060.71
+    27384:
+    - 685404.7
+    - 4756770.27
+    - 2069.25
+    21627:
+    - 685465.01
+    - 4756738.61
+    - 2057.98
+    32765:
+    - 685420.49
+    - 4756764.57
+    - 2047.64
+    10494:
+    - 685466.01
+    - 4756743.02
+    - 2050.27
+    40063:
+    - 685418.11
+    - 4756762.17
+    - 2045.59
+  idsql:
+    13442:
+    - 14270
+    23564:
+    - 14528
+    28813:
+    - 14247
+    20366:
+    - 14419
+    28047:
+    - 14241
+    10509:
+    - 14531
+    26131:
+    - 14302
+    11284:
+    - 14537
+    21652:
+    - 14414
+    46488:
+    - 14520
+    47640:
+    - 14301
+    17432:
+    - 14288
+    15771:
+    - 14527
+    19867:
+    - 14297
+    11037:
+    - 14248
+    45208:
+    - 14535
+    32286:
+    - 14415
+    - 14542
+    2592:
+    - 14268
+    38014:
+    - 12705
+    23458:
+    - 14243
+    47272:
+    - 14271
+    21673:
+    - 14529
+    19064:
+    - 14267
+    9645:
+    - 14290
+    16816:
+    - 14517
+    19889:
+    - 14509
+    43825:
+    - 14510
+    42291:
+    - 14532
+    33717:
+    - 14511
+    25014:
+    - 14252
+    - 14266
+    33462:
+    - 14417
+    46518:
+    - 14513
+    33721:
+    - 12702
+    17466:
+    - 14246
+    32569:
+    - 14418
+    23672:
+    - 12706
+    - 14240
+    822:
+    - 14533
+    7102:
+    - 14242
+    39103:
+    - 12704
+    10432:
+    - 14300
+    36672:
+    - 14525
+    6591:
+    - 14516
+    14784:
+    - 14530
+    31940:
+    - 14515
+    20040:
+    - 14523
+    19786:
+    - 14244
+    40395:
+    - 14534
+    6477:
+    - 14269
+    11726:
+    - 14249
+    77:
+    - 14273
+    12495:
+    - 14536
+    26705:
+    - 12703
+    13777:
+    - 14272
+    18771:
+    - 14296
+    42456:
+    - 14412
+    601:
+    - 14522
+    48475:
+    - 14245
+    24284:
+    - 14289
+    16091:
+    - 14274
+    7388:
+    - 14422
+    29405:
+    - 14420
+    30816:
+    - 14251
+    43614:
+    - 14512
+    43104:
+    - 14514
+    2274:
+    - 14524
+    31326:
+    - 14526
+    42989:
+    - 14299
+    20209:
+    - 14416
+    25971:
+    - 14298
+    47669:
+    - 14518
+    12669:
+    - 14303
+    27384:
+    - 14250
+    21627:
+    - 14304
+    32765:
+    - 14521
+    10494:
+    - 14305
+    - 14423
+    - 14508
+    40063:
+    - 14519
+  fulladdress:
+    13442:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL16
+    23564:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI20
+    28813:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL7
+    20366:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_298_2015_08_12.Explo_298_2015_08_12.GK16
+    28047:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL1
+    10509:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI23
+    26131:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL47
+    11284:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI29
+    21652:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_298_2015_08_12.Explo_298_2015_08_12.GK11
+    46488:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI12
+    47640:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL46
+    17432:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL34
+    15771:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI19
+    19867:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL42
+    11037:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL8
+    45208:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI27
+    32286:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_298_2015_08_12.Explo_298_2015_08_12.GK12
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_303_2015_08_18.Explo_303_2015_08_18.GK12
+    2592:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL14
+    38014:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_207_2012_08_08.Explo_207_2012_08_08.CI6
+    23458:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL3
+    47272:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL17
+    21673:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI21
+    19064:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL13
+    9645:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL36
+    16816:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI9
+    19889:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI1
+    43825:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI2
+    42291:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI24
+    33717:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI3
+    25014:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL12
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL12
+    33462:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_298_2015_08_12.Explo_298_2015_08_12.GK14
+    46518:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI5
+    33721:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_207_2012_08_08.Explo_207_2012_08_08.CI3
+    17466:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL6
+    32569:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_298_2015_08_12.Explo_298_2015_08_12.GK15
+    23672:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_207_2012_08_08.Explo_207_2012_08_08.CI7
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.CI7
+    822:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI25
+    7102:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL2
+    39103:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_207_2012_08_08.Explo_207_2012_08_08.CI5
+    10432:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL45
+    36672:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI17
+    6591:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI8
+    14784:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI22
+    31940:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI7
+    20040:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI15
+    19786:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL4
+    40395:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI26
+    6477:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL15
+    11726:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL9
+    77:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL19
+    12495:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI28
+    26705:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_207_2012_08_08.Explo_207_2012_08_08.CI4
+    13777:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL18
+    18771:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL41
+    42456:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_298_2015_08_12.Explo_298_2015_08_12.GK9
+    601:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI14
+    48475:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL5
+    24284:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL35
+    16091:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL20
+    7388:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_298_2015_08_12.Explo_298_2015_08_12.GK19
+    29405:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_298_2015_08_12.Explo_298_2015_08_12.GK17
+    30816:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL11
+    43614:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI4
+    43104:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI6
+    2274:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI16
+    31326:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI18
+    42989:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL44
+    20209:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_298_2015_08_12.Explo_298_2015_08_12.GK13
+    25971:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL43
+    47669:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI10
+    12669:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL48
+    27384:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_288_2015_08_06.Explo_288_2015_08_06.LL10
+    21627:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL49
+    32765:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI13
+    10494:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_290_2015_08_07.Explo_290_2015_08_07.LL50
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_298_2015_08_12.Explo_298_2015_08_12.LL50
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.LL50
+    40063:
+    - Synthese-PSM_LARRA.Complexe_Anialarra.Explo_302_2015_08_17.Explo_302_2015_08_17.TI11

@@ -1,0 +1,1472 @@
+metadata:
+  id_dataset: 093
+  short_name: Larra
+  id_subset: '045'
+  status: ready for cleaning
+  type_of_correction: .nan
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Pont, A., & ARSIP, collectif d\u2019exploration du massif de la P. S.\
+    \ M. (2025). Base de donn\xE9es Topographiques des syst\xE8mes karstiques du massif\
+    \ de la Pierre Saint Martin\u2014Larra (France) [Creative Commons BY-NC-SA 4.0\
+    \ dataset, Therion project]. https://github.com/Alex38Lyon/Synthese-PSM_LARRA"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 750
+  total_depth: 431.36
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 138
+  number_edges: 137
+  mean_degree: 1.75
+  min_degree: 1.0
+  max_degree: 10.0
+  cv_degree: 0.591
+  number_cycles: 0
+  mean_length: 107.19
+  cv_length: 1.06
+  length_entropy: 0.76
+  orientation_3d_entropy: 0.684
+  aspl: 2.32
+  cpd: 0.565
+  correlation_vertex_degree: -0.556
+  original_format: Therion
+  comments_cave_info: data not available for compiling. but sql file was created
+  full_name: "Syst\xE8mes karstiques du massif de la Pierre Saint Martin - Larra"
+  geometry: .nan
+  units: meter
+  country: France
+  state: .nan
+  area: .nan
+  locality: .nan
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/Alex38Lyon/Synthese-PSM_LARRA
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 14340
+  - 21636
+- - 14340
+  - 46322
+- - 34820
+  - 44401
+- - 34820
+  - 44896
+- - 5637
+  - 45671
+- - 5637
+  - 28875
+- - 46602
+  - 15139
+- - 46602
+  - 47845
+- - 5135
+  - 21311
+- - 5135
+  - 45705
+- - 38929
+  - 21198
+- - 38929
+  - 7879
+- - 5650
+  - 16821
+- - 5650
+  - 30974
+- - 6164
+  - 21639
+- - 6164
+  - 43739
+- - 11799
+  - 46322
+- - 11799
+  - 24946
+- - 40473
+  - 21634
+- - 40473
+  - 22369
+- - 16922
+  - 25338
+- - 16922
+  - 33318
+- - 33318
+  - 4680
+- - 28711
+  - 6525
+- - 28711
+  - 31092
+- - 1062
+  - 36028
+- - 1062
+  - 37609
+- - 8746
+  - 34478
+- - 8746
+  - 43570
+- - 11819
+  - 2228
+- - 11819
+  - 33155
+- - 42541
+  - 44326
+- - 42541
+  - 41745
+- - 43570
+  - 32690
+- - 5685
+  - 14629
+- - 5685
+  - 23517
+- - 23104
+  - 26471
+- - 32837
+  - 15949
+- - 32837
+  - 21634
+- - 4680
+  - 36348
+- - 14409
+  - 45705
+- - 14409
+  - 15139
+- - 7240
+  - 22922
+- - 7240
+  - 12929
+- - 48202
+  - 36108
+- - 48202
+  - 1224
+- - 15949
+  - 33145
+- - 3154
+  - 6905
+- - 3154
+  - 27435
+- - 40537
+  - 17692
+- - 40537
+  - 46253
+- - 3166
+  - 31403
+- - 3166
+  - 37113
+- - 26719
+  - 28275
+- - 26719
+  - 24720
+- - 7777
+  - 44257
+- - 7777
+  - 2228
+- - 45671
+  - 14260
+- - 33388
+  - 6933
+- - 33388
+  - 33227
+- - 12911
+  - 8982
+- - 28275
+  - 1224
+- - 638
+  - 35022
+- - 638
+  - 44401
+- - 12929
+  - 31041
+- - 36995
+  - 37113
+- - 36995
+  - 26840
+- - 21636
+  - 48610
+- - 12418
+  - 46253
+- - 12418
+  - 34625
+- - 21639
+  - 22369
+- - 21639
+  - 11109
+- - 24720
+  - 14629
+- - 6801
+  - 47916
+- - 6801
+  - 11067
+- - 30359
+  - 37214
+- - 30359
+  - 44257
+- - 3737
+  - 34625
+- - 3737
+  - 31717
+- - 167
+  - 29510
+- - 167
+  - 44858
+- - 31403
+  - 23517
+- - 32941
+  - 39149
+- - 32941
+  - 4858
+- - 32941
+  - 24408
+- - 34478
+  - 1276
+- - 36028
+  - 19291
+- - 7879
+  - 3387
+- - 5323
+  - 42786
+- - 28875
+  - 26105
+- - 21198
+  - 39149
+- - 5838
+  - 27417
+- - 5838
+  - 21311
+- - 17614
+  - 47596
+- - 17614
+  - 24425
+- - 35022
+  - 20897
+- - 30414
+  - 4890
+- - 30414
+  - 11750
+- - 26840
+  - 17692
+- - 43739
+  - 22922
+- - 47845
+  - 29122
+- - 37609
+  - 48610
+- - 45291
+  - 9678
+- - 45291
+  - 27417
+- - 16111
+  - 21325
+- - 16111
+  - 33041
+- - 8435
+  - 42786
+- - 8435
+  - 47596
+- - 6904
+  - 44896
+- - 6904
+  - 15866
+- - 4858
+  - 31092
+- - 25338
+  - 40857
+- - 1276
+  - 31717
+- - 6905
+  - 32690
+- - 30974
+  - 44326
+- - 36108
+  - 21325
+- - 12047
+  - 3387
+- - 12047
+  - 8982
+- - 41745
+  - 20897
+- - 6933
+  - 11109
+- - 4890
+  - 36348
+- - 4906
+  - 26105
+- - 4906
+  - 1972
+- - 27435
+  - 37214
+- - 47916
+  - 36740
+- - 20784
+  - 24425
+- - 20784
+  - 6525
+- - 44858
+  - 21325
+- - 11067
+  - 40857
+- - 31041
+  - 19291
+- - 29510
+  - 24946
+- - 24408
+  - 9678
+- - 26471
+  - 33227
+- - 33145
+  - 11750
+- - 36740
+  - 15866
+- - 14260
+  - 29122
+- - 1972
+  - 16821
+node_attributes:
+  flags:
+    5323:
+    - ent
+    - fix
+  pos:
+    14340:
+    - 679648.83
+    - 4758900.47
+    - 1257.68
+    34820:
+    - 679605.34
+    - 4758937.31
+    - 1397.16
+    5637:
+    - 679593.61
+    - 4758931.71
+    - 1427.44
+    46602:
+    - 679576.92
+    - 4758921.12
+    - 1436.57
+    5135:
+    - 679568.38
+    - 4758916.16
+    - 1449.08
+    38929:
+    - 679555.24
+    - 4758898.46
+    - 1492.94
+    5650:
+    - 679601.53
+    - 4758938.36
+    - 1405.88
+    6164:
+    - 679646.09
+    - 4758912.85
+    - 1283.59
+    11799:
+    - 679653.1
+    - 4758899.23
+    - 1255.37
+    40473:
+    - 679646.15
+    - 4758914.31
+    - 1286.92
+    16922:
+    - 679616.62
+    - 4758928.08
+    - 1355.74
+    33318:
+    - 679616.81
+    - 4758924.53
+    - 1355.74
+    28711:
+    - 679577.78
+    - 4758905.01
+    - 1529.83
+    1062:
+    - 679642.74
+    - 4758902.6
+    - 1279.74
+    8746:
+    - 679680.61
+    - 4758896.19
+    - 1192.51
+    11819:
+    - 679704.32
+    - 4758902.58
+    - 1172.83
+    42541:
+    - 679605.37
+    - 4758944.39
+    - 1401.26
+    43570:
+    - 679679.47
+    - 4758898.79
+    - 1192.41
+    5685:
+    - 679633.28
+    - 4758876.54
+    - 1235.88
+    23104:
+    - 679649.68
+    - 4758913.38
+    - 1267.42
+    32837:
+    - 679641.34
+    - 4758918.57
+    - 1294.65
+    4680:
+    - 679621.05
+    - 4758917.74
+    - 1342.41
+    14409:
+    - 679571.96
+    - 4758919.55
+    - 1445.4
+    7240:
+    - 679643.0
+    - 4758908.8
+    - 1279.98
+    48202:
+    - 679645.27
+    - 4758885.92
+    - 1239.63
+    15949:
+    - 679641.34
+    - 4758918.57
+    - 1326.85
+    3154:
+    - 679683.08
+    - 4758902.68
+    - 1189.84
+    40537:
+    - 679653.63
+    - 4758885.96
+    - 1202.05
+    3166:
+    - 679637.02
+    - 4758868.7
+    - 1225.86
+    26719:
+    - 679644.07
+    - 4758879.25
+    - 1237.41
+    7777:
+    - 679701.66
+    - 4758902.59
+    - 1175.35
+    45671:
+    - 679589.75
+    - 4758928.91
+    - 1430.09
+    33388:
+    - 679648.13
+    - 4758913.53
+    - 1275.63
+    12911:
+    - 679549.47
+    - 4758902.64
+    - 1494.16
+    28275:
+    - 679646.95
+    - 4758880.12
+    - 1237.56
+    638:
+    - 679608.17
+    - 4758941.73
+    - 1397.29
+    12929:
+    - 679642.39
+    - 4758906.7
+    - 1277.38
+    21634:
+    - 679644.49
+    - 4758920.11
+    - 1294.65
+    36995:
+    - 679641.31
+    - 4758876.85
+    - 1217.62
+    21636:
+    - 679648.83
+    - 4758900.47
+    - 1266.28
+    12418:
+    - 679662.91
+    - 4758890.97
+    - 1197.06
+    21639:
+    - 679647.33
+    - 4758914.21
+    - 1282.3
+    45705:
+    - 679569.51
+    - 4758918.7
+    - 1448.84
+    24720:
+    - 679638.09
+    - 4758876.11
+    - 1237.29
+    6801:
+    - 679611.82
+    - 4758936.19
+    - 1388.65
+    30359:
+    - 679699.17
+    - 4758902.68
+    - 1178.14
+    3737:
+    - 679670.06
+    - 4758892.49
+    - 1195.34
+    167:
+    - 679646.46
+    - 4758896.84
+    - 1253.14
+    31403:
+    - 679634.71
+    - 4758872.02
+    - 1225.93
+    32941:
+    - 679559.19
+    - 4758906.97
+    - 1511.09
+    46253:
+    - 679655.39
+    - 4758887.96
+    - 1201.18
+    34478:
+    - 679679.16
+    - 4758894.8
+    - 1192.86
+    2228:
+    - 679704.32
+    - 4758902.58
+    - 1175.03
+    36028:
+    - 679643.11
+    - 4758903.85
+    - 1276.93
+    7879:
+    - 679554.63
+    - 4758897.67
+    - 1492.94
+    1224:
+    - 679647.26
+    - 4758882.96
+    - 1238.33
+    5323:
+    - 679576.0
+    - 4758895.0
+    - 1604.0
+    28875:
+    - 679593.61
+    - 4758931.71
+    - 1421.94
+    21198:
+    - 679559.94
+    - 4758904.6
+    - 1490.87
+    5838:
+    - 679566.38
+    - 4758917.23
+    - 1476.69
+    17614:
+    - 679578.62
+    - 4758899.85
+    - 1551.39
+    35022:
+    - 679604.98
+    - 4758940.24
+    - 1398.71
+    30414:
+    - 679629.55
+    - 4758919.66
+    - 1335.65
+    26840:
+    - 679646.14
+    - 4758880.73
+    - 1211.43
+    43739:
+    - 679644.08
+    - 4758910.08
+    - 1282.86
+    44257:
+    - 679699.17
+    - 4758902.68
+    - 1175.14
+    47845:
+    - 679578.5
+    - 4758920.95
+    - 1436.37
+    37609:
+    - 679642.18
+    - 4758901.05
+    - 1270.38
+    45291:
+    - 679559.75
+    - 4758915.68
+    - 1476.91
+    39149:
+    - 679559.19
+    - 4758906.97
+    - 1491.09
+    16111:
+    - 679649.48
+    - 4758891.52
+    - 1246.1
+    46322:
+    - 679653.1
+    - 4758899.23
+    - 1258.87
+    8435:
+    - 679577.59
+    - 4758898.74
+    - 1584.03
+    6904:
+    - 679604.24
+    - 4758933.14
+    - 1396.39
+    37113:
+    - 679638.21
+    - 4758876.92
+    - 1219.14
+    4858:
+    - 679565.89
+    - 4758905.31
+    - 1517.31
+    25338:
+    - 679616.62
+    - 4758928.08
+    - 1372.29
+    1276:
+    - 679678.7
+    - 4758893.78
+    - 1193.1
+    6905:
+    - 679680.21
+    - 4758901.29
+    - 1191.76
+    30974:
+    - 679602.88
+    - 4758941.72
+    - 1404.56
+    36108:
+    - 679646.9
+    - 4758887.49
+    - 1241.89
+    12047:
+    - 679552.12
+    - 4758896.27
+    - 1492.94
+    41745:
+    - 679606.73
+    - 4758943.37
+    - 1401.26
+    33041:
+    - 679652.36
+    - 4758890.95
+    - 1238.02
+    6933:
+    - 679646.66
+    - 4758913.76
+    - 1277.11
+    8982:
+    - 679550.23
+    - 4758900.82
+    - 1493.81
+    27417:
+    - 679563.08
+    - 4758916.09
+    - 1476.38
+    4890:
+    - 679626.07
+    - 4758922.01
+    - 1338.17
+    17692:
+    - 679649.41
+    - 4758883.45
+    - 1210.91
+    42786:
+    - 679576.0
+    - 4758895.0
+    - 1599.2
+    15139:
+    - 679576.41
+    - 4758923.16
+    - 1437.21
+    14629:
+    - 679634.93
+    - 4758876.97
+    - 1237.12
+    44326:
+    - 679602.88
+    - 4758941.72
+    - 1401.26
+    4906:
+    - 679597.58
+    - 4758932.71
+    - 1411.44
+    27435:
+    - 679693.13
+    - 4758903.33
+    - 1185.15
+    47916:
+    - 679610.95
+    - 4758937.63
+    - 1389.69
+    20784:
+    - 679581.13
+    - 4758902.57
+    - 1545.29
+    44858:
+    - 679646.44
+    - 4758895.73
+    - 1250.09
+    3387:
+    - 679554.02
+    - 4758896.88
+    - 1492.94
+    11067:
+    - 679612.32
+    - 4758932.6
+    - 1382.6
+    21311:
+    - 679566.84
+    - 4758917.15
+    - 1470.0
+    31041:
+    - 679642.28
+    - 4758906.32
+    - 1275.11
+    34625:
+    - 679666.87
+    - 4758890.95
+    - 1196.36
+    29510:
+    - 679647.44
+    - 4758896.74
+    - 1253.83
+    21325:
+    - 679646.99
+    - 4758892.24
+    - 1245.87
+    24408:
+    - 679557.72
+    - 4758908.99
+    - 1505.74
+    19291:
+    - 679644.19
+    - 4758907.6
+    - 1275.11
+    37214:
+    - 679696.51
+    - 4758903.26
+    - 1181.88
+    44896:
+    - 679604.65
+    - 4758936.06
+    - 1396.23
+    22369:
+    - 679649.44
+    - 4758915.64
+    - 1284.15
+    11109:
+    - 679646.66
+    - 4758913.76
+    - 1281.71
+    26471:
+    - 679650.4
+    - 4758915.24
+    - 1270.88
+    24425:
+    - 679579.67
+    - 4758900.71
+    - 1550.37
+    44401:
+    - 679608.04
+    - 4758939.83
+    - 1397.29
+    24946:
+    - 679649.97
+    - 4758897.36
+    - 1256.02
+    31092:
+    - 679569.86
+    - 4758904.17
+    - 1525.42
+    33145:
+    - 679636.11
+    - 4758918.39
+    - 1328.15
+    6525:
+    - 679577.78
+    - 4758905.01
+    - 1543.53
+    33155:
+    - 679706.41
+    - 4758902.64
+    - 1172.64
+    36740:
+    - 679608.04
+    - 4758934.39
+    - 1389.69
+    22922:
+    - 679644.08
+    - 4758910.08
+    - 1280.76
+    40857:
+    - 679613.19
+    - 4758930.22
+    - 1373.76
+    20897:
+    - 679605.36
+    - 4758942.05
+    - 1401.26
+    32690:
+    - 679681.18
+    - 4758899.27
+    - 1192.19
+    14260:
+    - 679586.45
+    - 4758926.33
+    - 1430.38
+    1972:
+    - 679599.13
+    - 4758935.5
+    - 1411.61
+    16821:
+    - 679601.53
+    - 4758938.36
+    - 1410.18
+    29122:
+    - 679583.62
+    - 4758924.03
+    - 1434.89
+    33227:
+    - 679650.4
+    - 4758915.24
+    - 1275.48
+    9678:
+    - 679558.47
+    - 4758910.54
+    - 1506.95
+    23517:
+    - 679634.15
+    - 4758872.69
+    - 1228.46
+    48610:
+    - 679646.28
+    - 4758900.97
+    - 1266.28
+    31717:
+    - 679674.18
+    - 4758892.33
+    - 1194.46
+    11750:
+    - 679629.55
+    - 4758919.66
+    - 1330.85
+    47596:
+    - 679578.62
+    - 4758899.85
+    - 1582.89
+    26105:
+    - 679597.58
+    - 4758932.71
+    - 1421.94
+    15866:
+    - 679604.64
+    - 4758933.41
+    - 1389.51
+    36348:
+    - 679624.46
+    - 4758920.5
+    - 1338.17
+  idsql:
+    14340:
+    - 48339
+    34820:
+    - 48295
+    5637:
+    - 48280
+    46602:
+    - 48275
+    5135:
+    - 48269
+    38929:
+    - 48242
+    5650:
+    - 48286
+    6164:
+    - 48327
+    11799:
+    - 48341
+    40473:
+    - 48316
+    16922:
+    - 48305
+    33318:
+    - 48306
+    28711:
+    - 48257
+    1062:
+    - 48335
+    8746:
+    - 48375
+    11819:
+    - 48386
+    42541:
+    - 48289
+    43570:
+    - 48376
+    5685:
+    - 48359
+    23104:
+    - 48324
+    32837:
+    - 48314
+    4680:
+    - 48307
+    14409:
+    - 48271
+    7240:
+    - 48330
+    48202:
+    - 48348
+    15949:
+    - 48313
+    3154:
+    - 48379
+    40537:
+    - 48367
+    3166:
+    - 48362
+    26719:
+    - 48356
+    7777:
+    - 48384
+    45671:
+    - 48279
+    33388:
+    - 48321
+    12911:
+    - 48247
+    28275:
+    - 48350
+    - 48354
+    - 48355
+    638:
+    - 48293
+    12929:
+    - 48331
+    21634:
+    - 48315
+    36995:
+    - 48364
+    21636:
+    - 48338
+    12418:
+    - 48369
+    21639:
+    - 48318
+    - 48325
+    - 48326
+    45705:
+    - 48270
+    24720:
+    - 48357
+    6801:
+    - 48301
+    30359:
+    - 48382
+    3737:
+    - 48371
+    167:
+    - 48344
+    31403:
+    - 48361
+    32941:
+    - 48238
+    - 48239
+    - 48260
+    46253:
+    - 48368
+    34478:
+    - 48374
+    2228:
+    - 48385
+    36028:
+    - 48334
+    7879:
+    - 48243
+    1224:
+    - 48349
+    5323:
+    - 48248
+    - 48249
+    28875:
+    - 48281
+    21198:
+    - 48241
+    5838:
+    - 48267
+    17614:
+    - 48253
+    35022:
+    - 48292
+    30414:
+    - 48310
+    26840:
+    - 48365
+    43739:
+    - 48328
+    44257:
+    - 48383
+    47845:
+    - 48276
+    37609:
+    - 48336
+    45291:
+    - 48265
+    39149:
+    - 48240
+    16111:
+    - 48352
+    46322:
+    - 48340
+    8435:
+    - 48251
+    6904:
+    - 48297
+    37113:
+    - 48363
+    4858:
+    - 48259
+    25338:
+    - 48304
+    1276:
+    - 48373
+    6905:
+    - 48378
+    30974:
+    - 48287
+    36108:
+    - 48347
+    12047:
+    - 48245
+    41745:
+    - 48290
+    33041:
+    - 48353
+    6933:
+    - 48320
+    8982:
+    - 48246
+    27417:
+    - 48266
+    4890:
+    - 48309
+    17692:
+    - 48366
+    42786:
+    - 48250
+    15139:
+    - 48272
+    - 48273
+    - 48274
+    14629:
+    - 48358
+    44326:
+    - 48288
+    4906:
+    - 48283
+    27435:
+    - 48380
+    47916:
+    - 48300
+    20784:
+    - 48255
+    44858:
+    - 48345
+    3387:
+    - 48244
+    11067:
+    - 48302
+    21311:
+    - 48268
+    31041:
+    - 48332
+    34625:
+    - 48370
+    29510:
+    - 48343
+    21325:
+    - 48346
+    - 48351
+    24408:
+    - 48261
+    - 48262
+    19291:
+    - 48333
+    37214:
+    - 48381
+    44896:
+    - 48296
+    22369:
+    - 48317
+    11109:
+    - 48319
+    26471:
+    - 48323
+    24425:
+    - 48254
+    44401:
+    - 48294
+    24946:
+    - 48342
+    31092:
+    - 48258
+    33145:
+    - 48312
+    6525:
+    - 48256
+    33155:
+    - 48387
+    36740:
+    - 48299
+    22922:
+    - 48329
+    40857:
+    - 48303
+    20897:
+    - 48291
+    32690:
+    - 48377
+    14260:
+    - 48278
+    1972:
+    - 48284
+    16821:
+    - 48285
+    29122:
+    - 48277
+    33227:
+    - 48322
+    9678:
+    - 48263
+    - 48264
+    23517:
+    - 48360
+    48610:
+    - 48337
+    31717:
+    - 48372
+    11750:
+    - 48311
+    47596:
+    - 48252
+    26105:
+    - 48282
+    15866:
+    - 48298
+    36348:
+    - 48308
+  fulladdress:
+    14340:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/13
+    34820:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/21
+    5637:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/6
+    46602:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/1
+    5135:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/20
+    38929:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_01_1971_08_01.Explo_01_1971_08_01.GOR_d_3/3
+    5650:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/12
+    6164:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/1
+    11799:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/15
+    40473:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/42
+    16922:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/31
+    33318:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/32
+    28711:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/8
+    1062:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/9
+    8746:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/20
+    11819:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/31
+    42541:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/15
+    43570:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/21
+    5685:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/4
+    23104:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/50
+    32837:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/40
+    4680:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/33
+    14409:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/22
+    7240:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/4
+    48202:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/22
+    15949:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/39
+    3154:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/24
+    40537:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/12
+    3166:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/7
+    26719:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/1
+    7777:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/29
+    45671:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/5
+    33388:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/47
+    12911:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_01_1971_08_01.Explo_01_1971_08_01.GOR_d_3/8
+    28275:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/24
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_4/24
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/0
+    638:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/19
+    12929:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/5
+    21634:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/41
+    36995:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/9
+    21636:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/12
+    12418:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/14
+    21639:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/44
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_2/44
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/0
+    45705:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/21
+    24720:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/2
+    6801:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/27
+    30359:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/27
+    3737:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/16
+    167:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/18
+    31403:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/6
+    32941:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_01_1971_08_01.Explo_01_1971_08_01.GOR_d_1/11
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_01_1971_08_01.Explo_01_1971_08_01.GOR_d_3/0
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/11
+    46253:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/13
+    34478:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/19
+    2228:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/30
+    36028:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/8
+    7879:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_01_1971_08_01.Explo_01_1971_08_01.GOR_d_3/4
+    1224:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/23
+    5323:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GORRIA
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/0
+    28875:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/7
+    21198:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_01_1971_08_01.Explo_01_1971_08_01.GOR_d_3/2
+    5838:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/18
+    17614:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/4
+    35022:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/18
+    30414:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/36
+    26840:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/10
+    43739:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/2
+    44257:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/28
+    47845:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/2
+    37609:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/10
+    45291:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/16
+    39149:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_01_1971_08_01.Explo_01_1971_08_01.GOR_d_3/1
+    16111:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_5/1
+    46322:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/14
+    8435:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/2
+    6904:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/23
+    37113:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/8
+    4858:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/10
+    25338:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/30
+    1276:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/18
+    6905:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/23
+    30974:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/13
+    36108:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/21
+    12047:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_01_1971_08_01.Explo_01_1971_08_01.GOR_d_3/6
+    41745:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/16
+    33041:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_5/2
+    6933:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/46
+    8982:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_01_1971_08_01.Explo_01_1971_08_01.GOR_d_3/7
+    27417:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/17
+    4890:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/35
+    17692:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/11
+    42786:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/1
+    15139:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/23
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_1/23
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/0
+    14629:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/3
+    44326:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/14
+    4906:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/9
+    27435:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/25
+    47916:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/26
+    20784:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/6
+    44858:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/19
+    3387:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_01_1971_08_01.Explo_01_1971_08_01.GOR_d_3/5
+    11067:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/28
+    21311:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/19
+    31041:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/6
+    34625:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/15
+    29510:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/17
+    21325:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/20
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_5/0
+    24408:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/12
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/13
+    19291:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/7
+    37214:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/26
+    44896:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/22
+    22369:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/43
+    11109:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/45
+    26471:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/49
+    24425:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/5
+    44401:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/20
+    24946:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/16
+    31092:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/9
+    33145:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/38
+    6525:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/7
+    33155:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/32
+    36740:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/25
+    22922:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/3
+    40857:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/29
+    20897:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/17
+    32690:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/22
+    14260:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/4
+    1972:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/10
+    16821:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/11
+    29122:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/3
+    33227:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/48
+    9678:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/14
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/15
+    23517:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/5
+    48610:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_04_1999_08_12.Explo_04_1999_08_12.GOR_d_4/11
+    31717:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_05_2000_08_01.Explo_05_2000_08_01.GOR_d_6/17
+    11750:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/37
+    47596:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_02_1998_08_10.Explo_02_1998_08_10.GOR_d_1/3
+    26105:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/8
+    15866:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/24
+    36348:
+    - Synthese-PSM_LARRA.Gorria_Lezia.Explo_03_1998_10_17.Explo_03_1998_10_17.GOR_d_2/34

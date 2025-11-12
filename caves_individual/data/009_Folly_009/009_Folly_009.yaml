@@ -1,0 +1,1735 @@
+metadata:
+  id_dataset: 009
+  short_name: Folly
+  id_subset: 009
+  status: clean
+  type_of_correction: manual correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: "Robert, X. (2021). Base de donn\xE9es Topographiques des syst\xE8mes\
+    \ karstiques du massif du Folly (Samo\xEBns, 74, France) (Version v1.0.0) [Dataset].\
+    \ Zenodo. https://doi.org/DOI: 10.5281/ZENODO.4745567"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 569
+  total_depth: 86.83
+  percentage_csdim: 0
+  number_connected_components: 1
+  number_nodes: 138
+  number_edges: 139
+  mean_degree: 2.08
+  min_degree: 1.0
+  max_degree: 9.0
+  cv_degree: 0.526
+  number_cycles: 2
+  mean_length: 22.79
+  cv_length: 1.05
+  length_entropy: 0.65
+  orientation_3d_entropy: 0.806
+  aspl: 4.7
+  cpd: 0.519
+  correlation_vertex_degree: -0.483
+  original_format: Therion
+  comments_cave_info: Synclinal Jean Bernard + Systeme Combe des Puaires +Systeme
+    Mirolda
+  full_name: Massif du Folly
+  geometry: lrud/splays
+  units: meter
+  country: France
+  state: "Auvergne-Rh\xF4ne-Alpes"
+  area: Haute-Savoie
+  locality: "Samo\xEBns"
+  grotto_id: 75262 (Jean-Bernard)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: Local
+  latitude: 46.1022
+  longitude: 6.7796
+  altitude: '1836'
+  cave_url: https://grottocenter.org/ui/caves/75262
+  supplemental_links: https://groupe-speleo-vulcain.com/explorations/explorations-a-samoens/topographies-du-synclinal-du-jean-bernard-samoens-france/
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: '-'
+  end_contract: '-'
+  cave_survey_owner: .nan
+  website: https://github.com/robertxa/Topographies-Samoens_Folly
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 9218
+  - 11322
+- - 9218
+  - 4691
+- - 5
+  - 12044
+- - 2053
+  - 1200
+- - 3592
+  - 1968
+- - 3592
+  - 9375
+- - 13834
+  - 5969
+- - 8204
+  - 10267
+- - 8204
+  - 3710
+- - 13839
+  - 6596
+- - 13839
+  - 3443
+- - 2074
+  - 12914
+- - 2074
+  - 1323
+- - 10267
+  - 5531
+- - 6172
+  - 1160
+- - 6172
+  - 6298
+- - 5662
+  - 4691
+- - 5662
+  - 1716
+- - 10271
+  - 8538
+- - 10271
+  - 8355
+- - 13856
+  - 50
+- - 13856
+  - 5223
+- - 4129
+  - 10492
+- - 3109
+  - 4732
+- - 6703
+  - 13427
+- - 6703
+  - 1585
+- - 1585
+  - 1139
+- - 50
+  - 353
+- - 1074
+  - 2728
+- - 11322
+  - 10969
+- - 2624
+  - 12928
+- - 2624
+  - 353
+- - 7749
+  - 3443
+- - 7749
+  - 10112
+- - 585
+  - 886
+- - 585
+  - 421
+- - 3676
+  - 11659
+- - 3676
+  - 7369
+- - 11360
+  - 3937
+- - 11360
+  - 5033
+- - 5220
+  - 1018
+- - 5220
+  - 3191
+- - 5222
+  - 1986
+- - 5222
+  - 2728
+- - 5223
+  - 5810
+- - 10344
+  - 9375
+- - 10344
+  - 8352
+- - 13928
+  - 12734
+- - 6762
+  - 12612
+- - 6762
+  - 12652
+- - 6763
+  - 5810
+- - 625
+  - 10492
+- - 625
+  - 504
+- - 12914
+  - 13265
+- - 13427
+  - 12530
+- - 1139
+  - 10670
+- - 3186
+  - 9136
+- - 3186
+  - 2182
+- - 4732
+  - 504
+- - 3710
+  - 10033
+- - 7806
+  - 3539
+- - 7806
+  - 5098
+- - 12928
+  - 7418
+- - 2182
+  - 2841
+- - 1160
+  - 12706
+- - 4233
+  - 3218
+- - 4233
+  - 3523
+- - 3218
+  - 9136
+- - 2708
+  - 3875
+- - 2708
+  - 14131
+- - 2196
+  - 10670
+- - 2196
+  - 13994
+- - 6298
+  - 3029
+- - 10396
+  - 2900
+- - 10396
+  - 10086
+- - 8352
+  - 7481
+- - 10912
+  - 353
+- - 10912
+  - 1986
+- - 8355
+  - 2900
+- - 675
+  - 5012
+- - 675
+  - 2333
+- - 13994
+  - 10639
+- - 1200
+  - 7593
+- - 1200
+  - 931
+- - 5810
+  - 1986
+- - 5810
+  - 10122
+- - 1716
+  - 12530
+- - 2242
+  - 1323
+- - 2242
+  - 1275
+- - 204
+  - 421
+- - 204
+  - 3539
+- - 8909
+  - 10492
+- - 8909
+  - 10959
+- - 10959
+  - 11127
+- - 10969
+  - 12564
+- - 4835
+  - 6968
+- - 4835
+  - 8538
+- - 4835
+  - 14148
+- - 1268
+  - 12233
+- - 1268
+  - 12654
+- - 7418
+  - 1275
+- - 10492
+  - 12605
+- - 12044
+  - 2841
+- - 12564
+  - 10525
+- - 10525
+  - 10112
+- - 2333
+  - 1018
+- - 3875
+  - 4922
+- - 1328
+  - 5098
+- - 1328
+  - 12612
+- - 1328
+  - 12605
+- - 10033
+  - 1843
+- - 5424
+  - 10639
+- - 5424
+  - 8066
+- - 5424
+  - 5012
+- - 1843
+  - 6596
+- - 14131
+  - 12706
+- - 310
+  - 5617
+- - 310
+  - 12233
+- - 6968
+  - 5969
+- - 7481
+  - 7593
+- - 4922
+  - 12652
+- - 4922
+  - 3937
+- - 10561
+  - 11127
+- - 4420
+  - 1968
+- - 4420
+  - 9641
+- - 14148
+  - 9641
+- - 13129
+  - 10122
+- - 13129
+  - 11659
+- - 8016
+  - 2900
+- - 8016
+  - 5617
+- - 10086
+  - 12734
+- - 12654
+  - 13265
+- - 886
+  - 931
+- - 886
+  - 5531
+- - 8066
+  - 7095
+- - 9614
+  - 7095
+- - 9614
+  - 9136
+- - 8087
+  - 3523
+- - 5033
+  - 3029
+edge_attributes:
+  flags:
+    ? !!python/tuple
+    - 4420
+    - 9641
+    : - add
+      - add
+node_attributes:
+  flags:
+    9218:
+    - fix
+    5:
+    - fix
+    2053:
+    - fix
+    3592:
+    - fix
+    13834:
+    - ent
+    - fix
+    8204:
+    - fix
+    13839:
+    - fix
+    2074:
+    - fix
+    10267:
+    - fix
+    6172:
+    - fix
+    5662:
+    - fix
+    10271:
+    - fix
+    13856:
+    - fix
+    4129:
+    - fix
+    3109:
+    - fix
+    6703:
+    - fix
+    1585:
+    - fix
+    50:
+    - fix
+    1074:
+    - ent
+    - fix
+    11322:
+    - fix
+    2624:
+    - fix
+    7749:
+    - fix
+    585:
+    - fix
+    4691:
+    - fix
+    3676:
+    - fix
+    11360:
+    - fix
+    5220:
+    - fix
+    5222:
+    - fix
+    5223:
+    - fix
+    10344:
+    - fix
+    13928:
+    - fix
+    6762:
+    - fix
+    6763:
+    - fix
+    625:
+    - fix
+    12914:
+    - fix
+    13427:
+    - fix
+    1139:
+    - fix
+    3186:
+    - fix
+    3191:
+    - fix
+    4732:
+    - fix
+    3710:
+    - fix
+    7806:
+    - fix
+    12928:
+    - fix
+    2182:
+    - fix
+    1160:
+    - fix
+    4233:
+    - fix
+    3218:
+    - fix
+    2708:
+    - fix
+    2196:
+    - fix
+    6298:
+    - fix
+    10396:
+    - fix
+    9375:
+    - fix
+    8352:
+    - fix
+    10912:
+    - fix
+    8355:
+    - fix
+    675:
+    - fix
+    2728:
+    - fix
+    13994:
+    - fix
+    1200:
+    - fix
+    5810:
+    - fix
+    1716:
+    - fix
+    2242:
+    - fix
+    7369:
+    - fix
+    204:
+    - fix
+    8909:
+    - fix
+    10959:
+    - fix
+    10969:
+    - fix
+    4835:
+    - fix
+    12530:
+    - fix
+    1268:
+    - fix
+    7418:
+    - fix
+    1275:
+    - fix
+    10492:
+    - fix
+    12044:
+    - fix
+    12564:
+    - fix
+    2841:
+    - fix
+    10525:
+    - fix
+    2333:
+    - fix
+    3875:
+    - fix
+    1323:
+    - fix
+    1328:
+    - fix
+    10033:
+    - fix
+    5424:
+    - fix
+    1843:
+    - fix
+    14131:
+    - fix
+    310:
+    - fix
+    6968:
+    - fix
+    7481:
+    - fix
+    4922:
+    - fix
+    12605:
+    - fix
+    10561:
+    - fix
+    4420:
+    - ent
+    - fix
+    14148:
+    - fix
+    12612:
+    - fix
+    13129:
+    - fix
+    8016:
+    - fix
+    5969:
+    - fix
+    2900:
+    - fix
+    8538:
+    - fix
+    3937:
+    - fix
+    353:
+    - fix
+    10086:
+    - fix
+    12652:
+    - fix
+    12654:
+    - fix
+    3443:
+    - fix
+    886:
+    - fix
+    11127:
+    - fix
+    10112:
+    - fix
+    8066:
+    - fix
+    10122:
+    - fix
+    11659:
+    - fix
+    9614:
+    - fix
+    10639:
+    - fix
+    5012:
+    - fix
+    8087:
+    - fix
+    5531:
+    - fix
+    12706:
+    - fix
+    931:
+    - fix
+    421:
+    - fix
+    9641:
+    - fix
+    7593:
+    - fix
+    5033:
+    - fix
+    10670:
+    - fix
+    1968:
+    - fix
+    9136:
+    - fix
+    7095:
+    - fix
+    12734:
+    - fix
+    1986:
+    - fix
+    3523:
+    - fix
+    6596:
+    - fix
+    12233:
+    - fix
+    13265:
+    - fix
+    3539:
+    - fix
+    3029:
+    - fix
+    5098:
+    - fix
+    5617:
+    - fix
+    504:
+    - fix
+    1018:
+    - fix
+  pos:
+    9218:
+    - 329294.32
+    - 5108883.45
+    - 1942.56
+    5:
+    - 329332.99
+    - 5108852.48
+    - 1903.27
+    2053:
+    - 329332.01
+    - 5108885.28
+    - 1977.45
+    3592:
+    - 329293.54
+    - 5108885.37
+    - 1971.63
+    13834:
+    - 329277.78
+    - 5108872.08
+    - 1960.0
+    8204:
+    - 329322.87
+    - 5108886.42
+    - 1963.36
+    13839:
+    - 329308.23
+    - 5108890.43
+    - 1954.96
+    2074:
+    - 329262.68
+    - 5108899.14
+    - 1912.43
+    10267:
+    - 329326.86
+    - 5108885.3
+    - 1965.9
+    6172:
+    - 329354.23
+    - 5108888.75
+    - 1984.26
+    5662:
+    - 329292.35
+    - 5108884.03
+    - 1938.49
+    10271:
+    - 329279.91
+    - 5108867.58
+    - 1946.94
+    13856:
+    - 329236.08
+    - 5108912.68
+    - 1917.08
+    4129:
+    - 329334.13
+    - 5108883.63
+    - 1966.36
+    3109:
+    - 329347.08
+    - 5108885.7
+    - 1970.62
+    6703:
+    - 329288.33
+    - 5108873.92
+    - 1933.69
+    1585:
+    - 329288.33
+    - 5108873.92
+    - 1931.54
+    50:
+    - 329238.68
+    - 5108910.94
+    - 1917.11
+    1074:
+    - 329228.97
+    - 5108913.36
+    - 1925.0
+    11322:
+    - 329295.74
+    - 5108884.0
+    - 1943.06
+    2624:
+    - 329241.54
+    - 5108914.09
+    - 1916.77
+    7749:
+    - 329305.27
+    - 5108888.61
+    - 1947.96
+    585:
+    - 329328.61
+    - 5108885.53
+    - 1971.08
+    4691:
+    - 329292.35
+    - 5108884.03
+    - 1940.97
+    3676:
+    - 329224.16
+    - 5108925.78
+    - 1904.92
+    11360:
+    - 329349.06
+    - 5108885.44
+    - 1981.17
+    5220:
+    - 329284.14
+    - 5108866.32
+    - 1898.39
+    5222:
+    - 329233.06
+    - 5108917.27
+    - 1921.72
+    5223:
+    - 329231.17
+    - 5108914.4
+    - 1913.51
+    10344:
+    - 329300.24
+    - 5108882.72
+    - 1973.9
+    13928:
+    - 329280.43
+    - 5108880.83
+    - 1946.11
+    6762:
+    - 329341.69
+    - 5108883.8
+    - 1976.5
+    6763:
+    - 329231.75
+    - 5108910.03
+    - 1915.41
+    625:
+    - 329336.46
+    - 5108881.33
+    - 1965.6
+    12914:
+    - 329264.87
+    - 5108895.56
+    - 1916.95
+    13427:
+    - 329288.84
+    - 5108874.67
+    - 1934.31
+    1139:
+    - 329287.96
+    - 5108872.24
+    - 1931.3
+    3186:
+    - 329312.72
+    - 5108859.8
+    - 1915.95
+    3191:
+    - 329283.99
+    - 5108868.93
+    - 1898.39
+    4732:
+    - 329343.23
+    - 5108882.85
+    - 1968.45
+    3710:
+    - 329312.88
+    - 5108890.83
+    - 1956.9
+    7806:
+    - 329335.2
+    - 5108882.14
+    - 1972.92
+    12928:
+    - 329250.23
+    - 5108909.39
+    - 1913.01
+    2182:
+    - 329323.39
+    - 5108858.88
+    - 1911.31
+    1160:
+    - 329354.87
+    - 5108889.54
+    - 1984.48
+    4233:
+    - 329304.97
+    - 5108863.1
+    - 1921.62
+    3218:
+    - 329305.86
+    - 5108860.8
+    - 1917.45
+    2708:
+    - 329349.85
+    - 5108882.52
+    - 1980.41
+    2196:
+    - 329287.82
+    - 5108866.88
+    - 1923.96
+    6298:
+    - 329352.28
+    - 5108887.13
+    - 1985.22
+    10396:
+    - 329274.02
+    - 5108875.44
+    - 1940.55
+    9375:
+    - 329296.82
+    - 5108883.92
+    - 1972.19
+    8352:
+    - 329302.0
+    - 5108881.59
+    - 1973.22
+    10912:
+    - 329236.33
+    - 5108915.44
+    - 1919.28
+    8355:
+    - 329277.23
+    - 5108867.9
+    - 1944.25
+    675:
+    - 329287.71
+    - 5108866.0
+    - 1910.31
+    2728:
+    - 329231.23
+    - 5108915.16
+    - 1922.99
+    13994:
+    - 329289.84
+    - 5108865.48
+    - 1923.85
+    1200:
+    - 329324.75
+    - 5108883.35
+    - 1975.01
+    5810:
+    - 329228.3
+    - 5108914.63
+    - 1912.73
+    1716:
+    - 329286.69
+    - 5108881.63
+    - 1937.22
+    2242:
+    - 329258.98
+    - 5108904.29
+    - 1911.86
+    7369:
+    - 329223.9
+    - 5108927.88
+    - 1903.79
+    204:
+    - 329329.57
+    - 5108883.3
+    - 1970.31
+    8909:
+    - 329340.05
+    - 5108878.64
+    - 1966.92
+    10959:
+    - 329343.57
+    - 5108876.45
+    - 1967.12
+    10969:
+    - 329296.4
+    - 5108885.49
+    - 1943.45
+    4835:
+    - 329280.4
+    - 5108872.81
+    - 1955.15
+    12530:
+    - 329288.95
+    - 5108879.47
+    - 1935.62
+    1268:
+    - 329265.74
+    - 5108888.65
+    - 1926.46
+    7418:
+    - 329254.07
+    - 5108907.06
+    - 1912.78
+    1275:
+    - 329257.69
+    - 5108905.62
+    - 1911.15
+    10492:
+    - 329335.72
+    - 5108880.31
+    - 1966.71
+    12044:
+    - 329332.04
+    - 5108852.94
+    - 1906.91
+    12564:
+    - 329297.79
+    - 5108886.29
+    - 1944.74
+    2841:
+    - 329329.02
+    - 5108859.46
+    - 1908.76
+    10525:
+    - 329299.94
+    - 5108887.54
+    - 1946.05
+    2333:
+    - 329286.19
+    - 5108867.23
+    - 1909.71
+    3875:
+    - 329348.01
+    - 5108881.91
+    - 1980.09
+    1323:
+    - 329261.79
+    - 5108902.58
+    - 1910.81
+    1328:
+    - 329338.09
+    - 5108881.62
+    - 1977.93
+    10033:
+    - 329311.13
+    - 5108891.01
+    - 1956.48
+    5424:
+    - 329292.54
+    - 5108867.59
+    - 1916.41
+    1843:
+    - 329310.23
+    - 5108891.62
+    - 1955.9
+    14131:
+    - 329354.64
+    - 5108885.85
+    - 1981.79
+    310:
+    - 329267.78
+    - 5108886.1
+    - 1934.07
+    6968:
+    - 329277.78
+    - 5108872.55
+    - 1954.82
+    7481:
+    - 329302.91
+    - 5108877.39
+    - 1969.19
+    4922:
+    - 329347.44
+    - 5108883.88
+    - 1979.99
+    12605:
+    - 329337.18
+    - 5108879.01
+    - 1972.71
+    10561:
+    - 329346.24
+    - 5108872.79
+    - 1964.66
+    4420:
+    - 329289.34
+    - 5108884.33
+    - 1970.0
+    14148:
+    - 329281.87
+    - 5108874.53
+    - 1956.13
+    12612:
+    - 329338.7
+    - 5108882.42
+    - 1978.82
+    13129:
+    - 329224.16
+    - 5108921.69
+    - 1906.83
+    8016:
+    - 329274.73
+    - 5108873.0
+    - 1938.44
+    5969:
+    - 329277.78
+    - 5108872.19
+    - 1959.95
+    2900:
+    - 329274.73
+    - 5108872.81
+    - 1941.33
+    8538:
+    - 329279.83
+    - 5108870.35
+    - 1951.69
+    3937:
+    - 329347.5
+    - 5108883.77
+    - 1980.71
+    353:
+    - 329240.16
+    - 5108912.17
+    - 1917.13
+    10086:
+    - 329277.1
+    - 5108876.89
+    - 1942.36
+    12652:
+    - 329343.94
+    - 5108885.11
+    - 1979.09
+    12654:
+    - 329265.74
+    - 5108888.92
+    - 1922.34
+    3443:
+    - 329306.66
+    - 5108889.83
+    - 1953.65
+    886:
+    - 329326.74
+    - 5108883.08
+    - 1972.08
+    11127:
+    - 329344.2
+    - 5108873.5
+    - 1965.4
+    10112:
+    - 329302.9
+    - 5108886.35
+    - 1947.44
+    8066:
+    - 329294.13
+    - 5108867.14
+    - 1918.28
+    10122:
+    - 329226.22
+    - 5108918.39
+    - 1910.72
+    11659:
+    - 329223.71
+    - 5108923.84
+    - 1905.85
+    9614:
+    - 329299.76
+    - 5108861.87
+    - 1920.89
+    10639:
+    - 329291.45
+    - 5108865.0
+    - 1922.89
+    5012:
+    - 329290.63
+    - 5108865.7
+    - 1911.53
+    8087:
+    - 329302.57
+    - 5108866.82
+    - 1923.49
+    5531:
+    - 329326.86
+    - 5108885.3
+    - 1971.73
+    12706:
+    - 329356.21
+    - 5108889.92
+    - 1983.32
+    931:
+    - 329326.97
+    - 5108881.36
+    - 1973.61
+    421:
+    - 329329.32
+    - 5108885.15
+    - 1969.61
+    9641:
+    - 329284.23
+    - 5108874.78
+    - 1957.97
+    7593:
+    - 329311.7
+    - 5108879.43
+    - 1969.61
+    5033:
+    - 329350.36
+    - 5108886.67
+    - 1982.65
+    10670:
+    - 329288.58
+    - 5108869.58
+    - 1926.52
+    1968:
+    - 329291.69
+    - 5108884.09
+    - 1970.15
+    9136:
+    - 329305.61
+    - 5108859.18
+    - 1919.87
+    7095:
+    - 329295.48
+    - 5108864.72
+    - 1920.65
+    12734:
+    - 329278.73
+    - 5108877.62
+    - 1944.42
+    1986:
+    - 329235.0
+    - 5108914.5
+    - 1919.85
+    3523:
+    - 329303.88
+    - 5108865.35
+    - 1919.92
+    6596:
+    - 329308.45
+    - 5108891.24
+    - 1955.24
+    12233:
+    - 329267.79
+    - 5108886.54
+    - 1928.21
+    13265:
+    - 329265.32
+    - 5108891.23
+    - 1922.44
+    3539:
+    - 329331.57
+    - 5108882.23
+    - 1971.21
+    3029:
+    - 329349.69
+    - 5108886.75
+    - 1984.96
+    5098:
+    - 329335.2
+    - 5108882.14
+    - 1976.66
+    5617:
+    - 329272.05
+    - 5108877.39
+    - 1936.08
+    504:
+    - 329338.11
+    - 5108881.75
+    - 1966.09
+    1018:
+    - 329284.14
+    - 5108866.32
+    - 1909.13
+  idsql:
+    9218:
+    - 13285
+    5:
+    - 13311
+    2053:
+    - 13267
+    3592:
+    - 13260
+    13834:
+    - 13427
+    8204:
+    - 13272
+    13839:
+    - 13277
+    2074:
+    - 13447
+    10267:
+    - 13271
+    6172:
+    - 13334
+    5662:
+    - 13287
+    10271:
+    - 13432
+    13856:
+    - 13462
+    4129:
+    - 13346
+    3109:
+    - 13350
+    6703:
+    - 13291
+    1585:
+    - 13292
+    50:
+    - 13463
+    1074:
+    - 13459
+    11322:
+    - 13284
+    2624:
+    - 13453
+    7749:
+    - 13279
+    585:
+    - 13318
+    4691:
+    - 13286
+    3676:
+    - 13468
+    11360:
+    - 13338
+    5220:
+    - 13316
+    5222:
+    - 13457
+    5223:
+    - 13461
+    10344:
+    - 13262
+    13928:
+    - 13438
+    6762:
+    - 13326
+    6763:
+    - 13464
+    625:
+    - 13347
+    12914:
+    - 13446
+    13427:
+    - 13290
+    1139:
+    - 13293
+    3186:
+    - 13307
+    3191:
+    - 13317
+    4732:
+    - 13349
+    3710:
+    - 13273
+    7806:
+    - 13322
+    12928:
+    - 13452
+    2182:
+    - 13308
+    1160:
+    - 13333
+    4233:
+    - 13304
+    3218:
+    - 13303
+    2708:
+    - 13330
+    2196:
+    - 13295
+    6298:
+    - 13335
+    10396:
+    - 13435
+    9375:
+    - 13261
+    8352:
+    - 13263
+    10912:
+    - 13455
+    8355:
+    - 13433
+    675:
+    - 13313
+    2728:
+    - 13458
+    13994:
+    - 13296
+    1200:
+    - 13266
+    5810:
+    - 13460
+    1716:
+    - 13288
+    2242:
+    - 13449
+    7369:
+    - 13469
+    204:
+    - 13320
+    8909:
+    - 13342
+    10959:
+    - 13343
+    10969:
+    - 13283
+    4835:
+    - 13430
+    12530:
+    - 13289
+    1268:
+    - 13443
+    7418:
+    - 13451
+    1275:
+    - 13450
+    10492:
+    - 13341
+    12044:
+    - 13310
+    12564:
+    - 13282
+    2841:
+    - 13309
+    10525:
+    - 13281
+    2333:
+    - 13314
+    3875:
+    - 13329
+    1323:
+    - 13448
+    1328:
+    - 13324
+    10033:
+    - 13274
+    5424:
+    - 13298
+    1843:
+    - 13275
+    14131:
+    - 13331
+    310:
+    - 13441
+    6968:
+    - 13429
+    7481:
+    - 13264
+    4922:
+    - 13328
+    12605:
+    - 13340
+    10561:
+    - 13345
+    4420:
+    - 13258
+    14148:
+    - 13470
+    12612:
+    - 13325
+    13129:
+    - 13466
+    8016:
+    - 13439
+    5969:
+    - 13428
+    2900:
+    - 13434
+    8538:
+    - 13431
+    3937:
+    - 13339
+    353:
+    - 13454
+    10086:
+    - 13436
+    12652:
+    - 13327
+    12654:
+    - 13444
+    3443:
+    - 13278
+    886:
+    - 13269
+    11127:
+    - 13344
+    10112:
+    - 13280
+    8066:
+    - 13299
+    10122:
+    - 13465
+    11659:
+    - 13467
+    9614:
+    - 13301
+    10639:
+    - 13297
+    5012:
+    - 13312
+    8087:
+    - 13306
+    5531:
+    - 13270
+    12706:
+    - 13332
+    931:
+    - 13268
+    421:
+    - 13319
+    9641:
+    - 13471
+    7593:
+    - 13265
+    5033:
+    - 13337
+    10670:
+    - 13294
+    1968:
+    - 13259
+    9136:
+    - 13302
+    7095:
+    - 13300
+    12734:
+    - 13437
+    1986:
+    - 13456
+    3523:
+    - 13305
+    6596:
+    - 13276
+    12233:
+    - 13442
+    13265:
+    - 13445
+    3539:
+    - 13321
+    3029:
+    - 13336
+    5098:
+    - 13323
+    5617:
+    - 13440
+    504:
+    - 13348
+    1018:
+    - 13315
+  fulladdress:
+    9218:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.64
+    5:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A8
+    2053:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.34
+    3592:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.40
+    13834:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.CP62
+    8204:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.52
+    13839:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.57
+    2074:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.17
+    10267:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.51'
+    6172:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.20
+    5662:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.65'
+    10271:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.6
+    13856:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.4
+    4129:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.5
+    3109:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.0
+    6703:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.69
+    1585:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.69'
+    50:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.5
+    1074:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.CP63
+    11322:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.63
+    2624:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.7
+    7749:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.58'
+    585:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.30
+    4691:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.65
+    3676:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.21
+    11360:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.16
+    5220:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.79'
+    5222:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.42
+    5223:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.3
+    10344:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.38
+    13928:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.20
+    6762:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.13
+    6763:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.2'
+    625:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.3
+    12914:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.16
+    13427:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.68
+    1139:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.70
+    3186:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A4
+    3191:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.80
+    4732:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.1
+    3710:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.53
+    7806:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.26
+    12928:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.8
+    2182:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A5
+    1160:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.21
+    4233:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A10
+    3218:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A9
+    2708:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.22-2
+    2196:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.72
+    6298:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.19
+    10396:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.22
+    9375:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.39
+    8352:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.37
+    10912:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.40
+    8355:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.7
+    675:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.77
+    2728:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.43
+    13994:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.73
+    1200:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.33
+    5810:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.2
+    1716:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.66
+    2242:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.11
+    7369:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.20
+    204:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.28
+    8909:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.6
+    10959:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.7
+    10969:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.62
+    4835:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2
+    12530:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.67
+    1268:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.13
+    7418:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.9
+    1275:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.10
+    10492:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.4
+    12044:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A7
+    12564:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.61
+    2841:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A6
+    10525:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.60
+    2333:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.78
+    3875:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.22-3
+    1323:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.18
+    1328:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.11
+    10033:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.54
+    5424:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.75
+    1843:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.55
+    14131:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.22-1
+    310:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.11
+    6968:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.1
+    7481:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.36
+    4922:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.15
+    12605:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.10
+    10561:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.9
+    4420:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.Cp32
+    14148:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.3
+    12612:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.12
+    13129:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.0
+    8016:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.9
+    5969:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.0
+    2900:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.8
+    8538:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.5
+    3937:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.15a
+    353:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.6
+    10086:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.21
+    12652:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.14
+    12654:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.14
+    3443:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.58
+    886:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.31
+    11127:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.8
+    10112:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.59
+    8066:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A0
+    10122:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.1
+    11659:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.22
+    9614:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A2
+    10639:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.74
+    5012:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.76
+    8087:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A12
+    5531:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.51
+    12706:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.22
+    931:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.32
+    421:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.29
+    9641:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.4
+    7593:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.35
+    5033:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.17
+    10670:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.71
+    1968:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.41
+    9136:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A3
+    7095:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A1
+    12734:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.19
+    1986:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.2.30
+    3523:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.A11
+    6596:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.56
+    12233:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.12
+    13265:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.15
+    3539:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.27
+    3029:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.18
+    5098:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.25
+    5617:
+    - MassifFolly.SystemeCP.zoneCP.CP62.CP62.10
+    504:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.2
+    1018:
+    - MassifFolly.SystemeCP.zoneCP.CP32.CP32.79

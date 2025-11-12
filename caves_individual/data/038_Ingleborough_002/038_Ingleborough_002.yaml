@@ -1,0 +1,5943 @@
+metadata:
+  id_dataset: 038
+  short_name: Ingleborough
+  id_subset: '002'
+  status: clean
+  type_of_correction: semi-automatic correction
+  last_processing_date: 11 Nov 2025
+  license: CC BY-NC-SA 4.0
+  citation: UK Cave Registry. (2024). Cave survey [Creative Commons BY-NC-SA 4.0 dataset].
+    https://cave-registry.org.uk
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 1053
+  total_depth: 18.44
+  percentage_csdim: 74
+  number_connected_components: 1
+  number_nodes: 184
+  number_edges: 183
+  mean_degree: 1.82
+  min_degree: 1.0
+  max_degree: 4.0
+  cv_degree: 0.642
+  number_cycles: 0
+  mean_length: 105.31
+  cv_length: 2.16
+  length_entropy: 0.28
+  orientation_3d_entropy: 0.667
+  aspl: 2.76
+  cpd: 0.493
+  correlation_vertex_degree: -0.63
+  original_format: Survex
+  comments_cave_info: .nan
+  full_name: Ingleborough
+  geometry: .nan
+  units: meter
+  country: UK
+  state: North Yorkshire
+  area: Ingleborough
+  locality: Ingleton
+  grotto_id: 31739 (Long Kin West) / 31747 (White Scar)
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: EPSG:4326
+  latitude: 54.146915
+  longitude: -2.41319
+  altitude: '415'
+  cave_url: https://grottocenter.org/ui/entrances/31739
+  supplemental_links: https://grottocenter.org/ui/entrances/31747
+  data_reception_date: '2023'
+  data_received_by: Celia
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://cave-registry.org.uk
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 1536
+  - 1604
+- - 1536
+  - 2282
+- - 512
+  - 1409
+- - 512
+  - 135
+- - 1026
+  - 3119
+- - 1026
+  - 2419
+- - 1539
+  - 2545
+- - 1539
+  - 2870
+- - 514
+  - 1790
+- - 514
+  - 2106
+- - 3075
+  - 3081
+- - 3075
+  - 1181
+- - 6
+  - 40
+- - 6
+  - 1149
+- - 1031
+  - 3211
+- - 1031
+  - 450
+- - 3081
+  - 2958
+- - 1042
+  - 2019
+- - 1042
+  - 861
+- - 19
+  - 147
+- - 19
+  - 2545
+- - 1045
+  - 559
+- - 1045
+  - 1338
+- - 1045
+  - 2725
+- - 536
+  - 3015
+- - 1560
+  - 2090
+- - 1560
+  - 1182
+- - 2074
+  - 317
+- - 2074
+  - 2949
+- - 3100
+  - 3158
+- - 3100
+  - 1602
+- - 2588
+  - 3015
+- - 2588
+  - 1381
+- - 1566
+  - 1061
+- - 1566
+  - 1324
+- - 1568
+  - 1085
+- - 1568
+  - 1366
+- - 2593
+  - 2106
+- - 2593
+  - 1500
+- - 2082
+  - 556
+- - 2082
+  - 197
+- - 2085
+  - 450
+- - 2085
+  - 2958
+- - 1061
+  - 2452
+- - 551
+  - 2725
+- - 551
+  - 1765
+- - 40
+  - 3195
+- - 3113
+  - 2973
+- - 3113
+  - 614
+- - 2090
+  - 745
+- - 555
+  - 2682
+- - 555
+  - 2282
+- - 556
+  - 2266
+- - 3118
+  - 614
+- - 3118
+  - 3037
+- - 3119
+  - 970
+- - 1583
+  - 2224
+- - 1583
+  - 206
+- - 1587
+  - 1087
+- - 1587
+  - 3195
+- - 1085
+  - 3218
+- - 1087
+  - 66
+- - 1090
+  - 2668
+- - 1090
+  - 3161
+- - 66
+  - 2268
+- - 1604
+  - 1011
+- - 1602
+  - 3051
+- - 582
+  - 3161
+- - 582
+  - 2836
+- - 583
+  - 1303
+- - 583
+  - 2781
+- - 74
+  - 3041
+- - 74
+  - 745
+- - 1107
+  - 2151
+- - 1107
+  - 1011
+- - 3158
+  - 2295
+- - 601
+  - 3051
+- - 601
+  - 908
+- - 94
+  - 2775
+- - 94
+  - 1910
+- - 3167
+  - 2419
+- - 3168
+  - 2682
+- - 3168
+  - 1765
+- - 2654
+  - 1500
+- - 2654
+  - 735
+- - 2151
+  - 1739
+- - 2664
+  - 1173
+- - 2664
+  - 667
+- - 1643
+  - 3040
+- - 1643
+  - 1246
+- - 2668
+  - 660
+- - 2158
+  - 3248
+- - 2158
+  - 2167
+- - 111
+  - 908
+- - 111
+  - 991
+- - 624
+  - 411
+- - 624
+  - 1956
+- - 2677
+  - 1898
+- - 2677
+  - 707
+- - 2167
+  - 393
+- - 2683
+  - 2302
+- - 2683
+  - 163
+- - 123
+  - 948
+- - 123
+  - 746
+- - 1149
+  - 804
+- - 2180
+  - 2223
+- - 2180
+  - 383
+- - 2694
+  - 157
+- - 2694
+  - 1245
+- - 135
+  - 2929
+- - 2185
+  - 2792
+- - 2185
+  - 243
+- - 2185
+  - 828
+- - 3211
+  - 437
+- - 3218
+  - 1523
+- - 147
+  - 2802
+- - 660
+  - 906
+- - 1173
+  - 2395
+- - 1171
+  - 798
+- - 1171
+  - 1870
+- - 667
+  - 2224
+- - 157
+  - 163
+- - 3230
+  - 393
+- - 3230
+  - 211
+- - 1182
+  - 2802
+- - 1181
+  - 2395
+- - 2223
+  - 1237
+- - 3248
+  - 383
+- - 707
+  - 2792
+- - 197
+  - 2973
+- - 1739
+  - 2315
+- - 206
+  - 1513
+- - 211
+  - 1291
+- - 1237
+  - 2836
+- - 2775
+  - 2486
+- - 2266
+  - 762
+- - 2268
+  - 2949
+- - 1245
+  - 1523
+- - 1246
+  - 463
+- - 735
+  - 1347
+- - 2781
+  - 437
+- - 1765
+  - 2557
+- - 746
+  - 411
+- - 2797
+  - 243
+- - 754
+  - 1808
+- - 754
+  - 2385
+- - 2295
+  - 1513
+- - 762
+  - 1910
+- - 1790
+  - 2351
+- - 2302
+  - 1347
+- - 1291
+  - 814
+- - 2315
+  - 828
+- - 1293
+  - 861
+- - 1293
+  - 2023
+- - 1808
+  - 3015
+- - 1303
+  - 804
+- - 798
+  - 991
+- - 1324
+  - 2488
+- - 814
+  - 2906
+- - 2351
+  - 3037
+- - 2870
+  - 948
+- - 2871
+  - 2557
+- - 1338
+  - 463
+- - 317
+  - 1366
+- - 2893
+  - 2385
+- - 2893
+  - 2486
+- - 1870
+  - 1409
+- - 1368
+  - 501
+- - 1368
+  - 975
+- - 2906
+  - 2019
+- - 1381
+  - 970
+- - 1894
+  - 2426
+- - 1894
+  - 481
+- - 2929
+  - 374
+- - 374
+  - 1400
+- - 1400
+  - 2452
+- - 2426
+  - 473
+- - 906
+  - 3041
+- - 1956
+  - 1010
+- - 2488
+  - 501
+- - 3015
+  - 1010
+- - 975
+  - 473
+- - 3040
+  - 2023
+edge_attributes:
+  flags:
+    ? !!python/tuple
+    - 555
+    - 2682
+    : - add
+      - add
+    ? !!python/tuple
+    - 3168
+    - 1765
+    : - add
+      - add
+node_attributes:
+  pos:
+    1536:
+    - 536151.66
+    - 6001334.05
+    - 259.11
+    512:
+    - 536665.93
+    - 6000952.23
+    - 265.5
+    1026:
+    - 536314.75
+    - 6001260.79
+    - 267.78
+    1539:
+    - 536275.17
+    - 6001251.67
+    - 262.97
+    514:
+    - 536370.87
+    - 6001190.38
+    - 265.84
+    3075:
+    - 536543.22
+    - 6001047.84
+    - 265.66
+    6:
+    - 536487.8
+    - 6001120.52
+    - 265.17
+    1031:
+    - 536516.33
+    - 6001067.28
+    - 265.58
+    3081:
+    - 536534.55
+    - 6001048.52
+    - 265.6
+    1042:
+    - 536195.08
+    - 6001302.63
+    - 260.46
+    19:
+    - 536270.02
+    - 6001253.17
+    - 262.44
+    1045:
+    - 536174.22
+    - 6001322.61
+    - 259.43
+    536:
+    - 536290.72
+    - 6001250.62
+    - 267.35
+    1560:
+    - 536258.0
+    - 6001256.6
+    - 262.77
+    2074:
+    - 536456.94
+    - 6001140.75
+    - 265.6
+    3100:
+    - 536572.59
+    - 6000997.07
+    - 266.25
+    2588:
+    - 536291.15
+    - 6001257.13
+    - 267.81
+    1566:
+    - 536721.14
+    - 6000928.88
+    - 265.28
+    1568:
+    - 536433.48
+    - 6001160.74
+    - 265.45
+    2593:
+    - 536364.53
+    - 6001184.45
+    - 265.75
+    2082:
+    - 536352.87
+    - 6001238.72
+    - 265.69
+    2085:
+    - 536531.17
+    - 6001055.89
+    - 265.29
+    1061:
+    - 536719.46
+    - 6000931.98
+    - 265.16
+    551:
+    - 536167.05
+    - 6001327.63
+    - 259.35
+    40:
+    - 536484.58
+    - 6001125.91
+    - 264.83
+    3113:
+    - 536376.27
+    - 6001228.78
+    - 265.65
+    2090:
+    - 536254.09
+    - 6001257.52
+    - 263.5
+    555:
+    - 536155.42
+    - 6001336.17
+    - 262.06
+    556:
+    - 536348.58
+    - 6001243.19
+    - 266.91
+    3118:
+    - 536383.74
+    - 6001211.35
+    - 265.43
+    559:
+    - 536178.02
+    - 6001317.21
+    - 259.66
+    3119:
+    - 536311.48
+    - 6001259.65
+    - 267.6
+    1583:
+    - 536552.06
+    - 6001017.19
+    - 265.16
+    1587:
+    - 536479.55
+    - 6001132.76
+    - 265.59
+    2106:
+    - 536366.89
+    - 6001189.96
+    - 265.6
+    1085:
+    - 536426.76
+    - 6001159.84
+    - 265.64
+    1087:
+    - 536469.36
+    - 6001133.24
+    - 265.48
+    1090:
+    - 536235.36
+    - 6001266.73
+    - 262.34
+    66:
+    - 536466.99
+    - 6001134.8
+    - 265.51
+    1604:
+    - 536144.04
+    - 6001337.81
+    - 256.83
+    1602:
+    - 536582.53
+    - 6000994.02
+    - 265.87
+    582:
+    - 536228.58
+    - 6001269.2
+    - 262.17
+    583:
+    - 536503.24
+    - 6001091.86
+    - 265.62
+    74:
+    - 536250.13
+    - 6001260.18
+    - 263.68
+    1107:
+    - 536136.14
+    - 6001342.8
+    - 256.48
+    3158:
+    - 536563.26
+    - 6000994.98
+    - 265.43
+    3161:
+    - 536230.92
+    - 6001268.38
+    - 261.53
+    601:
+    - 536594.95
+    - 6000984.01
+    - 266.01
+    94:
+    - 536335.26
+    - 6001249.34
+    - 268.52
+    3167:
+    - 536317.44
+    - 6001259.52
+    - 268.14
+    3168:
+    - 536161.11
+    - 6001333.05
+    - 259.83
+    2654:
+    - 536358.98
+    - 6001178.03
+    - 265.58
+    614:
+    - 536380.28
+    - 6001221.74
+    - 265.52
+    2151:
+    - 536134.03
+    - 6001342.83
+    - 254.77
+    2664:
+    - 536548.22
+    - 6001028.97
+    - 265.62
+    1643:
+    - 536183.93
+    - 6001312.96
+    - 260.36
+    2668:
+    - 536237.02
+    - 6001264.68
+    - 262.81
+    2158:
+    - 536215.74
+    - 6001280.55
+    - 261.65
+    111:
+    - 536611.02
+    - 6000976.46
+    - 265.91
+    624:
+    - 536286.26
+    - 6001250.19
+    - 262.63
+    2677:
+    - 536109.62
+    - 6001366.76
+    - 251.06
+    2167:
+    - 536213.33
+    - 6001283.72
+    - 261.19
+    2682:
+    - 536156.9
+    - 6001336.43
+    - 263.61
+    2683:
+    - 536383.38
+    - 6001163.19
+    - 265.83
+    3195:
+    - 536479.9
+    - 6001129.23
+    - 265.49
+    123:
+    - 536280.33
+    - 6001251.67
+    - 263.02
+    1149:
+    - 536500.07
+    - 6001122.11
+    - 264.95
+    2180:
+    - 536220.13
+    - 6001277.41
+    - 264.74
+    2694:
+    - 536397.03
+    - 6001157.32
+    - 265.53
+    135:
+    - 536673.71
+    - 6000946.7
+    - 265.53
+    2185:
+    - 536115.22
+    - 6001359.82
+    - 252.28
+    3211:
+    - 536510.33
+    - 6001068.63
+    - 265.5
+    3218:
+    - 536416.31
+    - 6001163.48
+    - 265.45
+    147:
+    - 536268.29
+    - 6001254.2
+    - 263.68
+    660:
+    - 536240.26
+    - 6001265.64
+    - 264.52
+    1173:
+    - 536548.75
+    - 6001033.31
+    - 265.65
+    1171:
+    - 536631.03
+    - 6000968.07
+    - 265.64
+    667:
+    - 536554.41
+    - 6001025.7
+    - 265.9
+    157:
+    - 536393.0
+    - 6001161.66
+    - 265.61
+    3230:
+    - 536210.1
+    - 6001288.29
+    - 261.19
+    1182:
+    - 536262.81
+    - 6001255.54
+    - 263.55
+    1181:
+    - 536545.72
+    - 6001044.71
+    - 265.82
+    163:
+    - 536385.91
+    - 6001159.1
+    - 265.82
+    2725:
+    - 536171.92
+    - 6001323.29
+    - 259.29
+    2223:
+    - 536221.48
+    - 6001276.52
+    - 264.87
+    3248:
+    - 536216.05
+    - 6001279.83
+    - 263.29
+    2224:
+    - 536555.55
+    - 6001019.56
+    - 265.9
+    707:
+    - 536109.97
+    - 6001366.65
+    - 250.69
+    197:
+    - 536357.04
+    - 6001234.1
+    - 265.71
+    1739:
+    - 536125.0
+    - 6001347.37
+    - 254.95
+    206:
+    - 536560.44
+    - 6001005.64
+    - 265.59
+    211:
+    - 536206.17
+    - 6001292.04
+    - 260.88
+    1237:
+    - 536222.1
+    - 6001275.02
+    - 265.82
+    2775:
+    - 536330.98
+    - 6001249.99
+    - 267.68
+    2266:
+    - 536348.29
+    - 6001243.2
+    - 267.88
+    2268:
+    - 536467.22
+    - 6001137.47
+    - 265.56
+    1245:
+    - 536404.99
+    - 6001163.1
+    - 265.48
+    1246:
+    - 536181.76
+    - 6001314.21
+    - 260.23
+    735:
+    - 536361.43
+    - 6001171.64
+    - 265.59
+    2781:
+    - 536505.65
+    - 6001080.43
+    - 265.84
+    1765:
+    - 536164.0
+    - 6001331.47
+    - 259.15
+    2792:
+    - 536110.03
+    - 6001366.62
+    - 251.23
+    745:
+    - 536253.03
+    - 6001258.8
+    - 263.3
+    746:
+    - 536282.25
+    - 6001250.65
+    - 262.77
+    2282:
+    - 536151.46
+    - 6001336.29
+    - 260.46
+    2797:
+    - 536121.9
+    - 6001356.96
+    - 253.23
+    2802:
+    - 536265.64
+    - 6001253.86
+    - 263.41
+    243:
+    - 536115.55
+    - 6001360.16
+    - 253.47
+    754:
+    - 536302.48
+    - 6001251.33
+    - 267.45
+    2295:
+    - 536562.83
+    - 6001000.17
+    - 265.06
+    762:
+    - 536341.93
+    - 6001248.86
+    - 268.17
+    1790:
+    - 536374.55
+    - 6001193.38
+    - 265.37
+    2302:
+    - 536372.1
+    - 6001161.37
+    - 265.89
+    1291:
+    - 536202.37
+    - 6001294.48
+    - 260.85
+    2315:
+    - 536123.3
+    - 6001351.45
+    - 254.99
+    1293:
+    - 536190.67
+    - 6001306.24
+    - 260.45
+    1808:
+    - 536296.09
+    - 6001249.59
+    - 267.68
+    2836:
+    - 536225.76
+    - 6001273.12
+    - 264.49
+    1303:
+    - 536502.58
+    - 6001101.17
+    - 265.39
+    798:
+    - 536628.37
+    - 6000972.87
+    - 265.71
+    804:
+    - 536501.04
+    - 6001109.38
+    - 265.37
+    1324:
+    - 536719.79
+    - 6000928.74
+    - 265.31
+    814:
+    - 536201.21
+    - 6001295.76
+    - 260.8
+    2351:
+    - 536379.17
+    - 6001202.24
+    - 265.77
+    2870:
+    - 536276.35
+    - 6001252.09
+    - 262.59
+    2871:
+    - 536159.71
+    - 6001335.67
+    - 261.48
+    1338:
+    - 536174.93
+    - 6001320.18
+    - 259.56
+    828:
+    - 536117.17
+    - 6001354.8
+    - 254.13
+    317:
+    - 536452.69
+    - 6001144.61
+    - 265.61
+    1347:
+    - 536368.77
+    - 6001169.04
+    - 265.88
+    2893:
+    - 536313.1
+    - 6001252.74
+    - 267.74
+    1870:
+    - 536647.76
+    - 6000964.48
+    - 265.64
+    2385:
+    - 536307.98
+    - 6001254.94
+    - 267.45
+    1366:
+    - 536445.25
+    - 6001150.64
+    - 265.64
+    1368:
+    - 536729.88
+    - 6000921.7
+    - 265.34
+    2906:
+    - 536198.16
+    - 6001298.21
+    - 259.45
+    2395:
+    - 536543.21
+    - 6001036.63
+    - 265.16
+    861:
+    - 536193.8
+    - 6001304.08
+    - 259.55
+    1381:
+    - 536299.25
+    - 6001262.24
+    - 267.06
+    1894:
+    - 536741.91
+    - 6000919.55
+    - 265.03
+    1898:
+    - 536105.91
+    - 6001371.13
+    - 251.46
+    2929:
+    - 536685.64
+    - 6000948.39
+    - 265.39
+    2419:
+    - 536315.85
+    - 6001261.05
+    - 268.26
+    1910:
+    - 536338.48
+    - 6001250.53
+    - 269.13
+    374:
+    - 536694.65
+    - 6000943.3
+    - 265.26
+    1400:
+    - 536711.73
+    - 6000939.73
+    - 265.5
+    2426:
+    - 536740.53
+    - 6000918.25
+    - 265.68
+    383:
+    - 536217.96
+    - 6001278.13
+    - 264.44
+    1409:
+    - 536658.48
+    - 6000962.06
+    - 265.74
+    2949:
+    - 536464.98
+    - 6001142.04
+    - 265.57
+    393:
+    - 536211.83
+    - 6001287.04
+    - 262.05
+    906:
+    - 536243.45
+    - 6001264.18
+    - 264.47
+    908:
+    - 536600.43
+    - 6000979.81
+    - 266.1
+    2958:
+    - 536533.66
+    - 6001053.66
+    - 265.65
+    2452:
+    - 536716.14
+    - 6000938.65
+    - 265.45
+    411:
+    - 536283.98
+    - 6001250.66
+    - 263.12
+    2973:
+    - 536361.95
+    - 6001236.22
+    - 265.79
+    1956:
+    - 536285.82
+    - 6001251.21
+    - 262.72
+    948:
+    - 536277.99
+    - 6001251.21
+    - 262.9
+    437:
+    - 536506.19
+    - 6001072.76
+    - 265.91
+    2486:
+    - 536315.86
+    - 6001254.84
+    - 267.68
+    2488:
+    - 536721.64
+    - 6000926.43
+    - 265.23
+    450:
+    - 536524.45
+    - 6001061.55
+    - 265.29
+    3015:
+    - 536290.84
+    - 6001250.57
+    - 267.12
+    970:
+    - 536304.68
+    - 6001259.02
+    - 267.72
+    463:
+    - 536179.18
+    - 6001318.01
+    - 260.03
+    975:
+    - 536737.84
+    - 6000920.5
+    - 266.13
+    473:
+    - 536739.26
+    - 6000917.96
+    - 266.1
+    1500:
+    - 536361.93
+    - 6001183.56
+    - 265.74
+    3037:
+    - 536389.41
+    - 6001207.68
+    - 265.51
+    991:
+    - 536613.11
+    - 6000972.86
+    - 265.81
+    3040:
+    - 536185.8
+    - 6001310.85
+    - 260.39
+    3041:
+    - 536247.48
+    - 6001261.98
+    - 263.92
+    481:
+    - 536748.59
+    - 6000916.49
+    - 264.89
+    2019:
+    - 536196.82
+    - 6001301.16
+    - 260.13
+    2023:
+    - 536190.12
+    - 6001307.84
+    - 260.67
+    1513:
+    - 536559.7
+    - 6001004.99
+    - 264.9
+    3051:
+    - 536586.02
+    - 6000988.44
+    - 265.75
+    2545:
+    - 536272.74
+    - 6001253.65
+    - 262.85
+    1010:
+    - 536291.69
+    - 6001246.67
+    - 263.77
+    1011:
+    - 536144.66
+    - 6001338.13
+    - 256.65
+    1523:
+    - 536409.37
+    - 6001160.73
+    - 265.67
+    501:
+    - 536725.27
+    - 6000923.4
+    - 265.19
+    2557:
+    - 536160.15
+    - 6001335.09
+    - 260.6
+  fulladdress:
+    1536:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.16
+    512:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.74
+    1026:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.32
+    1539:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.21
+    514:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.11
+    3075:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.51
+    6:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.38
+    1031:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.46
+    3081:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.50
+    1042:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.20
+    19:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.17
+    1045:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.29
+    536:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.27
+    1560:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.9
+    2074:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.30
+    3100:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.63
+    2588:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.28
+    1566:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.81
+    1568:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.27
+    2593:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.13
+    2082:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.2
+    2085:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.48
+    1061:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.80
+    551:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.31
+    40:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.37
+    3113:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.5
+    2090:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.7
+    555:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.18
+    556:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.1
+    3118:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.7
+    559:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.6
+    3119:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.31
+    1583:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.58
+    1587:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.35
+    2106:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.12
+    1085:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.26
+    1087:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.34
+    1090:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.2
+    66:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.33
+    1604:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.15
+    1602:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.64
+    582:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.4
+    583:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.42
+    74:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.3
+    1107:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.13
+    3158:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.62
+    3161:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.3
+    601:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.66
+    94:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.41
+    3167:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.34
+    3168:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.2
+    2654:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.15
+    614:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.6
+    2151:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.12
+    2664:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.55
+    1643:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.25
+    2668:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.1
+    2158:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.11
+    111:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.68
+    624:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.33
+    2677:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.3
+    2167:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.12
+    2682:
+    - ingleborough-area.whitescar-area.skirwithcave.upper-skirwith-entrance
+    2683:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.19
+    3195:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.36
+    123:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.27
+    1149:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.39
+    2180:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.8
+    2694:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.22
+    135:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.75
+    2185:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.6
+    3211:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.45
+    3218:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.25
+    147:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.15
+    660:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.0
+    1173:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.54
+    1171:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.71
+    667:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.56
+    157:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.21
+    3230:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.14
+    1182:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.11
+    1181:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.52
+    163:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.20
+    2725:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.30
+    2223:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.7
+    3248:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.10
+    2224:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.57
+    707:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.4
+    197:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.3
+    1739:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.11
+    206:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.59
+    211:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.15
+    1237:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.6
+    2775:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.40
+    2266:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.44
+    2268:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.32
+    1245:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.23
+    1246:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.26
+    735:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.16
+    2781:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.43
+    1765:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.32
+    2792:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.5
+    745:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.5
+    746:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.29
+    2282:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.17
+    2797:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.8
+    2802:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.13
+    243:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.7
+    754:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.36
+    2295:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.61
+    762:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.43
+    1790:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.10
+    2302:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.18
+    1291:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.16
+    2315:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.10
+    1293:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.22
+    1808:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.35
+    2836:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.5
+    1303:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.41
+    798:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.70
+    804:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.40
+    1324:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.82
+    814:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.17
+    2351:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.9
+    2870:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.23
+    2871:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.34
+    1338:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.28
+    828:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.9
+    317:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.29
+    1347:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.17
+    2893:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.38
+    1870:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.72
+    2385:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.37
+    1366:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.28
+    1368:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.85
+    2906:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.18
+    2395:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.53
+    861:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.21
+    1381:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.29
+    1894:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.89
+    1898:
+    - ingleborough-area.whitescar-area.skirwithcave.lower-skirwith-entrance
+    2929:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.76
+    2419:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.33
+    1910:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.42
+    374:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.77
+    1400:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.78
+    2426:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.88
+    383:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.9
+    1409:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.73
+    2949:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.31
+    393:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.13
+    906:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.1
+    908:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.67
+    2958:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.49
+    2452:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.79
+    411:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.31
+    2973:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.4
+    1956:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.24
+    948:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.25
+    437:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.44
+    2486:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.39
+    2488:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.83
+    450:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.47
+    3015:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.26
+    970:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.30
+    463:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.27
+    975:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.86
+    473:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.87
+    1500:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.14
+    3037:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.8
+    991:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.69
+    3040:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.24
+    3041:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.2
+    481:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.90
+    2019:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.19
+    2023:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.23
+    1513:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.60
+    3051:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.65
+    2545:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir4.19
+    1010:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-1.25
+    1011:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-lower-entrance.14
+    1523:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.24
+    501:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith-upper-entrance-2.84
+    2557:
+    - ingleborough-area.whitescar-area.skirwithcave.skirwith_jgtslapdash.skir5back.33
+  splays:
+    512:
+    - - 536665.56
+      - 6000951.78
+      - 265.54
+    - - 536665.47
+      - 6000951.71
+      - 265.67
+    - - 536665.56
+      - 6000951.75
+      - 266.01
+    - - 536665.97
+      - 6000952.2
+      - 266.07
+    - - 536666.79
+      - 6000953.13
+      - 266.5
+    - - 536668.21
+      - 6000954.39
+      - 266.05
+    - - 536667.3
+      - 6000953.51
+      - 265.54
+    - - 536667.11
+      - 6000953.28
+      - 265.17
+    - - 536666.47
+      - 6000952.67
+      - 265.1
+    - - 536666.13
+      - 6000952.48
+      - 265.27
+    1539:
+    - - 536275.52
+      - 6001252.5
+      - 262.77
+    - - 536274.8
+      - 6001251.73
+      - 263.96
+    - - 536275.08
+      - 6001251.46
+      - 262.53
+    - - 536275.55
+      - 6001252.46
+      - 262.08
+    514:
+    - - 536370.97
+      - 6001189.88
+      - 266.08
+    - - 536370.88
+      - 6001190.4
+      - 266.07
+    - - 536370.33
+      - 6001191.43
+      - 266.07
+    - - 536370.18
+      - 6001191.69
+      - 265.25
+    - - 536371.06
+      - 6001190.4
+      - 264.59
+    3075:
+    - - 536543.37
+      - 6001047.86
+      - 266.4
+    - - 536543.04
+      - 6001047.48
+      - 266.4
+    - - 536542.9
+      - 6001047.18
+      - 266.26
+    - - 536542.88
+      - 6001046.97
+      - 265.76
+    - - 536542.81
+      - 6001046.53
+      - 264.76
+    - - 536543.09
+      - 6001047.1
+      - 264.43
+    - - 536543.27
+      - 6001047.6
+      - 264.9
+    - - 536543.41
+      - 6001047.94
+      - 265.18
+    6:
+    - - 536488.01
+      - 6001120.63
+      - 266.01
+    - - 536488.32
+      - 6001121.45
+      - 266.01
+    - - 536488.43
+      - 6001121.56
+      - 265.4
+    - - 536488.67
+      - 6001121.9
+      - 264.73
+    - - 536488.66
+      - 6001121.61
+      - 264.42
+    - - 536488.07
+      - 6001120.62
+      - 264.27
+    - - 536487.76
+      - 6001120.35
+      - 264.68
+    1031:
+    - - 536516.38
+      - 6001067.27
+      - 266.07
+    - - 536515.97
+      - 6001066.66
+      - 266.07
+    - - 536515.27
+      - 6001065.58
+      - 266.24
+    - - 536515.55
+      - 6001066.16
+      - 265.61
+    - - 536515.48
+      - 6001065.85
+      - 264.68
+    - - 536515.95
+      - 6001066.53
+      - 264.59
+    - - 536516.32
+      - 6001067.15
+      - 264.67
+    3081:
+    - - 536534.68
+      - 6001048.46
+      - 266.34
+    - - 536535.72
+      - 6001049.28
+      - 266.34
+    - - 536535.58
+      - 6001049.27
+      - 265.93
+    - - 536535.35
+      - 6001049.08
+      - 265.69
+    - - 536535.67
+      - 6001049.46
+      - 264.68
+    - - 536535.03
+      - 6001048.82
+      - 264.44
+    - - 536534.64
+      - 6001048.54
+      - 264.6
+    - - 536534.35
+      - 6001048.28
+      - 264.82
+    1042:
+    - - 536195.26
+      - 6001303.26
+      - 258.94
+    - - 536194.44
+      - 6001302.41
+      - 258.74
+    - - 536195.39
+      - 6001302.92
+      - 260.23
+    - - 536195.53
+      - 6001303.09
+      - 261.77
+    - - 536195.24
+      - 6001302.74
+      - 262.44
+    19:
+    - - 536270.19
+      - 6001253.85
+      - 262.49
+    - - 536270.22
+      - 6001253.78
+      - 263.37
+    - - 536270.23
+      - 6001253.42
+      - 263.68
+    - - 536270.01
+      - 6001252.93
+      - 263.44
+    - - 536271.31
+      - 6001253.51
+      - 262.51
+    1045:
+    - - 536173.59
+      - 6001322.34
+      - 259.28
+    - - 536173.24
+      - 6001322.33
+      - 260.0
+    - - 536173.79
+      - 6001322.59
+      - 260.55
+    - - 536174.29
+      - 6001322.51
+      - 261.46
+    - - 536173.34
+      - 6001324.05
+      - 260.7
+    - - 536172.58
+      - 6001323.93
+      - 260.44
+    - - 536171.82
+      - 6001326.22
+      - 259.74
+    - - 536171.28
+      - 6001325.24
+      - 258.62
+    - - 536171.44
+      - 6001324.47
+      - 260.23
+    - - 536172.09
+      - 6001323.23
+      - 259.37
+    1560:
+    - - 536258.07
+      - 6001256.61
+      - 263.91
+    - - 536257.38
+      - 6001255.48
+      - 263.15
+    - - 536257.32
+      - 6001255.38
+      - 262.24
+    - - 536257.71
+      - 6001255.81
+      - 261.96
+    - - 536257.98
+      - 6001256.49
+      - 262.06
+    - - 536258.67
+      - 6001257.52
+      - 263.74
+    - - 536258.41
+      - 6001256.74
+      - 263.93
+    2074:
+    - - 536456.96
+      - 6001140.69
+      - 265.9
+    - - 536457.57
+      - 6001141.19
+      - 265.87
+    - - 536457.7
+      - 6001141.69
+      - 265.76
+    - - 536458.0
+      - 6001142.33
+      - 264.92
+    - - 536457.73
+      - 6001141.61
+      - 264.35
+    - - 536457.1
+      - 6001140.96
+      - 264.35
+    - - 536457.93
+      - 6001142.44
+      - 264.76
+    1566:
+    - - 536721.95
+      - 6000928.96
+      - 265.31
+    - - 536721.99
+      - 6000928.96
+      - 264.98
+    - - 536721.3
+      - 6000928.85
+      - 264.76
+    - - 536718.62
+      - 6000928.08
+      - 265.04
+    - - 536720.25
+      - 6000928.68
+      - 265.52
+    - - 536720.95
+      - 6000928.87
+      - 265.42
+    - - 536720.79
+      - 6000928.86
+      - 264.95
+    1568:
+    - - 536433.48
+      - 6001160.66
+      - 265.66
+    - - 536433.29
+      - 6001160.01
+      - 266.07
+    - - 536432.65
+      - 6001158.91
+      - 266.01
+    - - 536432.69
+      - 6001158.96
+      - 265.15
+    - - 536433.06
+      - 6001159.57
+      - 264.92
+    - - 536433.47
+      - 6001160.54
+      - 264.76
+    - - 536433.64
+      - 6001161.03
+      - 264.94
+    2593:
+    - - 536364.84
+      - 6001183.79
+      - 266.08
+    - - 536364.63
+      - 6001184.21
+      - 266.17
+    - - 536364.41
+      - 6001184.57
+      - 266.42
+    - - 536363.82
+      - 6001185.38
+      - 266.17
+    - - 536363.92
+      - 6001185.44
+      - 265.87
+    - - 536364.12
+      - 6001185.06
+      - 265.58
+    - - 536363.84
+      - 6001185.52
+      - 265.2
+    - - 536364.04
+      - 6001184.69
+      - 264.57
+    2082:
+    - - 536353.5
+      - 6001239.79
+      - 266.11
+    - - 536353.1
+      - 6001239.15
+      - 266.35
+    - - 536352.64
+      - 6001238.2
+      - 266.36
+    - - 536351.06
+      - 6001236.89
+      - 266.11
+    - - 536351.33
+      - 6001237.13
+      - 265.59
+    - - 536352.62
+      - 6001238.41
+      - 265.5
+    - - 536353.01
+      - 6001238.97
+      - 265.74
+    - - 536351.2
+      - 6001236.54
+      - 265.96
+    2085:
+    - - 536530.97
+      - 6001055.69
+      - 264.59
+    - - 536531.56
+      - 6001056.06
+      - 264.45
+    - - 536531.97
+      - 6001056.36
+      - 264.6
+    - - 536532.2
+      - 6001056.43
+      - 265.3
+    - - 536532.5
+      - 6001056.79
+      - 266.06
+    - - 536532.1
+      - 6001056.37
+      - 266.23
+    - - 536531.67
+      - 6001056.03
+      - 266.4
+    1061:
+    - - 536721.74
+      - 6000932.9
+      - 265.18
+    - - 536720.82
+      - 6000932.41
+      - 265.35
+    - - 536720.3
+      - 6000932.25
+      - 265.41
+    - - 536718.86
+      - 6000931.32
+      - 265.04
+    - - 536719.49
+      - 6000931.83
+      - 264.38
+    551:
+    - - 536169.21
+      - 6001325.82
+      - 258.79
+    - - 536170.17
+      - 6001323.81
+      - 258.6
+    - - 536167.25
+      - 6001327.66
+      - 258.93
+    - - 536167.69
+      - 6001328.27
+      - 259.07
+    - - 536167.54
+      - 6001328.3
+      - 260.29
+    - - 536165.9
+      - 6001328.88
+      - 259.73
+    40:
+    - - 536484.45
+      - 6001125.84
+      - 266.01
+    - - 536483.89
+      - 6001125.39
+      - 266.01
+    - - 536483.91
+      - 6001125.28
+      - 265.54
+    - - 536483.54
+      - 6001124.94
+      - 264.77
+    - - 536483.47
+      - 6001124.85
+      - 264.46
+    - - 536484.55
+      - 6001125.74
+      - 264.2
+    3113:
+    - - 536375.93
+      - 6001228.2
+      - 265.45
+    - - 536374.19
+      - 6001226.83
+      - 265.53
+    - - 536373.91
+      - 6001226.84
+      - 265.95
+    - - 536375.33
+      - 6001228.03
+      - 266.01
+    - - 536376.16
+      - 6001228.67
+      - 266.13
+    - - 536376.67
+      - 6001229.09
+      - 265.95
+    - - 536376.34
+      - 6001228.67
+      - 265.45
+    2090:
+    - - 536254.45
+      - 6001258.9
+      - 263.5
+    - - 536254.5
+      - 6001258.91
+      - 263.89
+    - - 536254.2
+      - 6001257.69
+      - 264.06
+    - - 536254.21
+      - 6001257.72
+      - 262.63
+    - - 536254.18
+      - 6001257.51
+      - 261.91
+    - - 536254.09
+      - 6001256.93
+      - 261.91
+    - - 536253.98
+      - 6001256.89
+      - 262.96
+    556:
+    - - 536349.93
+      - 6001242.9
+      - 266.86
+    - - 536350.48
+      - 6001244.06
+      - 266.06
+    - - 536348.62
+      - 6001243.45
+      - 265.43
+    - - 536347.19
+      - 6001242.46
+      - 266.08
+    - - 536348.09
+      - 6001242.8
+      - 266.76
+    - - 536348.28
+      - 6001242.84
+      - 267.0
+    3118:
+    - - 536387.58
+      - 6001212.79
+      - 265.34
+    - - 536386.89
+      - 6001212.55
+      - 265.6
+    - - 536384.99
+      - 6001211.75
+      - 265.92
+    - - 536383.88
+      - 6001211.42
+      - 265.91
+    - - 536382.96
+      - 6001211.02
+      - 265.78
+    - - 536383.23
+      - 6001211.11
+      - 265.32
+    - - 536383.55
+      - 6001211.23
+      - 265.31
+    - - 536383.25
+      - 6001211.55
+      - 265.94
+    - - 536383.77
+      - 6001210.91
+      - 265.28
+    1583:
+    - - 536553.51
+      - 6001016.76
+      - 265.18
+    - - 536553.14
+      - 6001016.84
+      - 265.94
+    - - 536553.44
+      - 6001016.7
+      - 266.56
+    - - 536552.91
+      - 6001016.87
+      - 266.77
+    - - 536552.35
+      - 6001017.14
+      - 265.75
+    - - 536552.01
+      - 6001017.16
+      - 265.49
+    - - 536552.25
+      - 6001017.01
+      - 264.19
+    - - 536552.77
+      - 6001016.9
+      - 264.34
+    - - 536553.27
+      - 6001016.86
+      - 264.6
+    - - 536552.84
+      - 6001016.84
+      - 266.76
+    1587:
+    - - 536479.61
+      - 6001132.54
+      - 266.37
+    - - 536479.04
+      - 6001131.98
+      - 266.54
+    - - 536478.92
+      - 6001132.02
+      - 265.87
+    - - 536478.91
+      - 6001131.95
+      - 265.47
+    - - 536478.36
+      - 6001131.19
+      - 264.86
+    - - 536479.43
+      - 6001131.94
+      - 264.29
+    - - 536479.71
+      - 6001132.88
+      - 264.75
+    2106:
+    - - 536366.93
+      - 6001189.87
+      - 265.04
+    - - 536367.85
+      - 6001188.66
+      - 265.23
+    - - 536367.62
+      - 6001188.99
+      - 265.55
+    - - 536367.4
+      - 6001189.26
+      - 265.91
+    - - 536366.89
+      - 6001189.73
+      - 266.14
+    - - 536366.84
+      - 6001190.05
+      - 265.81
+    - - 536366.62
+      - 6001190.35
+      - 265.25
+    1087:
+    - - 536469.46
+      - 6001133.21
+      - 265.98
+    - - 536469.69
+      - 6001133.79
+      - 265.97
+    - - 536469.83
+      - 6001134.04
+      - 265.39
+    - - 536470.06
+      - 6001134.32
+      - 264.83
+    - - 536469.6
+      - 6001133.52
+      - 264.24
+    - - 536469.45
+      - 6001132.99
+      - 264.84
+    - - 536469.56
+      - 6001133.44
+      - 264.25
+    1090:
+    - - 536234.45
+      - 6001265.54
+      - 261.17
+    - - 536234.85
+      - 6001266.17
+      - 261.34
+    - - 536235.15
+      - 6001266.74
+      - 261.34
+    - - 536234.94
+      - 6001266.44
+      - 264.01
+    - - 536235.44
+      - 6001266.79
+      - 264.1
+    - - 536235.63
+      - 6001266.97
+      - 264.65
+    - - 536235.87
+      - 6001267.25
+      - 264.49
+    - - 536235.56
+      - 6001267.12
+      - 263.09
+    66:
+    - - 536467.01
+      - 6001134.77
+      - 265.95
+    - - 536467.67
+      - 6001135.02
+      - 265.95
+    - - 536467.92
+      - 6001135.24
+      - 265.35
+    - - 536468.13
+      - 6001135.42
+      - 264.8
+    - - 536466.47
+      - 6001134.47
+      - 264.83
+    - - 536466.9
+      - 6001134.97
+      - 264.28
+    1602:
+    - - 536582.44
+      - 6000993.97
+      - 266.43
+    - - 536582.01
+      - 6000993.67
+      - 266.47
+    - - 536581.07
+      - 6000992.88
+      - 266.66
+    - - 536581.45
+      - 6000993.11
+      - 266.2
+    - - 536581.36
+      - 6000993.05
+      - 265.71
+    - - 536581.45
+      - 6000993.08
+      - 265.24
+    - - 536581.93
+      - 6000993.39
+      - 265.09
+    - - 536582.5
+      - 6000993.87
+      - 265.21
+    582:
+    - - 536227.31
+      - 6001269.33
+      - 260.81
+    - - 536226.28
+      - 6001270.73
+      - 260.9
+    - - 536226.57
+      - 6001270.54
+      - 261.98
+    - - 536227.36
+      - 6001269.22
+      - 261.69
+    - - 536228.71
+      - 6001269.56
+      - 263.19
+    - - 536228.88
+      - 6001269.81
+      - 263.02
+    - - 536228.8
+      - 6001269.87
+      - 262.15
+    - - 536228.93
+      - 6001270.05
+      - 261.57
+    - - 536228.73
+      - 6001269.85
+      - 261.18
+    - - 536228.42
+      - 6001269.44
+      - 261.13
+    - - 536227.83
+      - 6001269.37
+      - 260.8
+    - - 536227.77
+      - 6001270.34
+      - 261.44
+    - - 536227.17
+      - 6001270.98
+      - 261.95
+    - - 536226.7
+      - 6001271.51
+      - 262.52
+    - - 536226.07
+      - 6001272.25
+      - 263.25
+    - - 536225.6
+      - 6001272.74
+      - 263.85
+    583:
+    - - 536503.33
+      - 6001091.71
+      - 266.09
+    - - 536503.78
+      - 6001091.92
+      - 266.11
+    - - 536503.93
+      - 6001091.87
+      - 265.63
+    - - 536504.24
+      - 6001091.79
+      - 264.49
+    - - 536503.43
+      - 6001091.68
+      - 264.19
+    - - 536502.77
+      - 6001091.74
+      - 264.34
+    74:
+    - - 536250.53
+      - 6001260.66
+      - 263.54
+    - - 536250.55
+      - 6001260.47
+      - 264.51
+    - - 536249.19
+      - 6001259.14
+      - 263.29
+    - - 536248.92
+      - 6001259.2
+      - 261.88
+    - - 536249.77
+      - 6001260.56
+      - 262.31
+    - - 536250.07
+      - 6001260.21
+      - 261.89
+    3158:
+    - - 536564.43
+      - 6000996.21
+      - 266.52
+    - - 536564.1
+      - 6000995.62
+      - 266.91
+    - - 536563.8
+      - 6000995.11
+      - 266.94
+    - - 536564.35
+      - 6000996.19
+      - 265.68
+    - - 536564.08
+      - 6000996.28
+      - 264.84
+    - - 536563.71
+      - 6000995.52
+      - 264.64
+    - - 536563.3
+      - 6000995.03
+      - 264.9
+    3161:
+    - - 536231.44
+      - 6001266.26
+      - 260.67
+    - - 536231.39
+      - 6001266.77
+      - 261.81
+    - - 536230.83
+      - 6001267.89
+      - 262.07
+    - - 536231.37
+      - 6001268.8
+      - 261.73
+    - - 536231.19
+      - 6001268.77
+      - 260.59
+    - - 536230.97
+      - 6001268.32
+      - 260.77
+    - - 536230.73
+      - 6001267.82
+      - 260.6
+    - - 536230.29
+      - 6001267.06
+      - 260.59
+    - - 536234.84
+      - 6001265.01
+      - 261.24
+    601:
+    - - 536594.97
+      - 6000984.52
+      - 266.69
+    - - 536594.82
+      - 6000984.01
+      - 266.85
+    - - 536594.42
+      - 6000983.31
+      - 266.81
+    - - 536593.78
+      - 6000982.2
+      - 266.8
+    - - 536593.9
+      - 6000982.55
+      - 266.28
+    - - 536594.04
+      - 6000982.73
+      - 265.88
+    - - 536594.13
+      - 6000982.67
+      - 265.39
+    - - 536594.48
+      - 6000983.08
+      - 265.31
+    - - 536594.91
+      - 6000983.55
+      - 265.37
+    - - 536595.06
+      - 6000983.99
+      - 265.64
+    - - 536593.89
+      - 6000982.37
+      - 266.35
+    2654:
+    - - 536358.73
+      - 6001178.06
+      - 265.9
+    - - 536359.22
+      - 6001177.99
+      - 265.94
+    - - 536359.74
+      - 6001177.94
+      - 265.79
+    - - 536359.83
+      - 6001177.98
+      - 265.47
+    - - 536360.44
+      - 6001177.9
+      - 265.19
+    - - 536359.53
+      - 6001177.96
+      - 264.32
+    - - 536357.22
+      - 6001178.13
+      - 265.17
+    614:
+    - - 536378.95
+      - 6001220.75
+      - 265.47
+    - - 536378.27
+      - 6001220.33
+      - 265.85
+    - - 536379.51
+      - 6001221.17
+      - 266.06
+    - - 536380.22
+      - 6001221.64
+      - 266.05
+    - - 536381.11
+      - 6001222.03
+      - 265.95
+    - - 536382.13
+      - 6001222.28
+      - 265.71
+    - - 536380.69
+      - 6001221.89
+      - 265.43
+    - - 536381.38
+      - 6001222.17
+      - 265.55
+    - - 536382.07
+      - 6001222.63
+      - 265.56
+    2664:
+    - - 536549.25
+      - 6001029.62
+      - 265.52
+    - - 536549.09
+      - 6001029.59
+      - 266.45
+    - - 536548.58
+      - 6001029.26
+      - 266.61
+    - - 536548.34
+      - 6001028.92
+      - 265.05
+    - - 536548.53
+      - 6001029.07
+      - 264.39
+    - - 536549.01
+      - 6001029.47
+      - 264.29
+    - - 536549.37
+      - 6001029.81
+      - 264.55
+    1643:
+    - - 536183.71
+      - 6001312.91
+      - 258.96
+    - - 536183.34
+      - 6001312.45
+      - 259.0
+    - - 536182.97
+      - 6001312.11
+      - 260.19
+    - - 536183.52
+      - 6001312.49
+      - 261.79
+    - - 536184.08
+      - 6001312.72
+      - 262.52
+    - - 536185.68
+      - 6001312.75
+      - 261.87
+    - - 536184.73
+      - 6001312.68
+      - 259.97
+    - - 536182.87
+      - 6001313.91
+      - 258.97
+    2668:
+    - - 536237.85
+      - 6001266.69
+      - 264.06
+    - - 536237.96
+      - 6001266.45
+      - 264.48
+    - - 536237.32
+      - 6001265.71
+      - 264.1
+    - - 536236.71
+      - 6001264.89
+      - 264.11
+    - - 536236.84
+      - 6001264.75
+      - 262.15
+    - - 536236.96
+      - 6001265.32
+      - 261.98
+    - - 536237.15
+      - 6001266.07
+      - 262.15
+    2158:
+    - - 536214.47
+      - 6001280.47
+      - 261.98
+    - - 536214.6
+      - 6001280.48
+      - 262.45
+    - - 536215.31
+      - 6001280.59
+      - 262.5
+    - - 536215.42
+      - 6001280.75
+      - 263.73
+    - - 536216.32
+      - 6001281.25
+      - 263.1
+    - - 536215.95
+      - 6001281.08
+      - 261.68
+    111:
+    - - 536611.09
+      - 6000976.38
+      - 266.2
+    - - 536610.61
+      - 6000975.66
+      - 266.32
+    - - 536609.98
+      - 6000974.11
+      - 266.28
+    - - 536610.17
+      - 6000974.75
+      - 265.91
+    - - 536610.38
+      - 6000975.0
+      - 265.45
+    - - 536610.6
+      - 6000975.61
+      - 265.19
+    - - 536611.09
+      - 6000976.34
+      - 265.39
+    - - 536609.77
+      - 6000974.05
+      - 266.17
+    624:
+    - - 536285.26
+      - 6001251.15
+      - 262.26
+    - - 536286.84
+      - 6001251.03
+      - 262.29
+    - - 536284.33
+      - 6001250.71
+      - 263.18
+    - - 536285.22
+      - 6001250.85
+      - 264.09
+    - - 536286.49
+      - 6001250.44
+      - 264.71
+    - - 536285.99
+      - 6001249.55
+      - 263.54
+    - - 536286.11
+      - 6001249.71
+      - 262.77
+    - - 536287.47
+      - 6001249.88
+      - 264.75
+    - - 536287.21
+      - 6001249.49
+      - 264.63
+    - - 536287.09
+      - 6001249.7
+      - 265.05
+    - - 536291.5
+      - 6001247.93
+      - 268.04
+    - - 536290.64
+      - 6001247.03
+      - 268.05
+    - - 536291.61
+      - 6001248.69
+      - 265.07
+    - - 536291.75
+      - 6001248.72
+      - 264.06
+    - - 536293.08
+      - 6001247.41
+      - 263.4
+    - - 536289.65
+      - 6001250.33
+      - 262.66
+    2167:
+    - - 536214.71
+      - 6001282.39
+      - 261.87
+    - - 536214.94
+      - 6001283.29
+      - 262.21
+    - - 536215.81
+      - 6001283.74
+      - 263.36
+    - - 536214.8
+      - 6001283.87
+      - 261.72
+    - - 536213.68
+      - 6001284.03
+      - 260.62
+    - - 536213.26
+      - 6001283.74
+      - 260.76
+    - - 536213.05
+      - 6001284.34
+      - 260.26
+    - - 536213.51
+      - 6001284.08
+      - 262.22
+    2683:
+    - - 536383.57
+      - 6001163.21
+      - 266.27
+    - - 536383.21
+      - 6001162.43
+      - 266.23
+    - - 536382.56
+      - 6001160.72
+      - 266.22
+    - - 536382.77
+      - 6001161.32
+      - 265.69
+    - - 536382.97
+      - 6001161.67
+      - 265.1
+    - - 536383.53
+      - 6001162.47
+      - 264.86
+    - - 536383.46
+      - 6001163.11
+      - 265.31
+    3195:
+    - - 536479.81
+      - 6001129.08
+      - 265.78
+    - - 536479.93
+      - 6001129.12
+      - 266.01
+    - - 536480.4
+      - 6001129.36
+      - 266.01
+    - - 536480.58
+      - 6001129.5
+      - 265.7
+    - - 536481.28
+      - 6001129.85
+      - 264.83
+    - - 536480.79
+      - 6001129.45
+      - 264.24
+    - - 536480.03
+      - 6001128.96
+      - 264.66
+    123:
+    - - 536281.02
+      - 6001250.57
+      - 262.2
+    - - 536280.97
+      - 6001251.46
+      - 262.16
+    - - 536280.92
+      - 6001252.01
+      - 262.22
+    - - 536280.84
+      - 6001252.24
+      - 262.77
+    - - 536280.49
+      - 6001251.4
+      - 263.38
+    - - 536280.48
+      - 6001250.74
+      - 263.38
+    1149:
+    - - 536500.75
+      - 6001122.62
+      - 265.09
+    - - 536501.02
+      - 6001122.5
+      - 266.01
+    - - 536500.26
+      - 6001121.79
+      - 266.17
+    - - 536499.33
+      - 6001120.91
+      - 267.8
+    - - 536498.98
+      - 6001120.31
+      - 266.2
+    - - 536498.89
+      - 6001120.32
+      - 265.28
+    - - 536499.02
+      - 6001120.62
+      - 264.52
+    - - 536499.79
+      - 6001121.45
+      - 264.46
+    2180:
+    - - 536219.87
+      - 6001276.98
+      - 264.48
+    - - 536219.65
+      - 6001277.13
+      - 265.05
+    - - 536220.12
+      - 6001277.5
+      - 265.42
+    - - 536220.45
+      - 6001277.6
+      - 265.28
+    - - 536219.87
+      - 6001277.17
+      - 264.05
+    2694:
+    - - 536398.17
+      - 6001159.71
+      - 265.82
+    - - 536397.86
+      - 6001158.58
+      - 266.21
+    - - 536397.26
+      - 6001157.38
+      - 266.21
+    - - 536396.89
+      - 6001156.86
+      - 266.21
+    - - 536397.14
+      - 6001157.27
+      - 265.01
+    - - 536397.64
+      - 6001158.11
+      - 264.96
+    135:
+    - - 536673.32
+      - 6000945.14
+      - 265.53
+    - - 536673.59
+      - 6000945.47
+      - 265.79
+    - - 536673.65
+      - 6000946.2
+      - 265.83
+    - - 536673.73
+      - 6000946.85
+      - 265.91
+    - - 536674.0
+      - 6000947.75
+      - 265.91
+    - - 536674.3
+      - 6000948.61
+      - 265.82
+    - - 536674.38
+      - 6000948.93
+      - 265.49
+    - - 536674.25
+      - 6000948.43
+      - 265.11
+    - - 536673.89
+      - 6000947.56
+      - 265.09
+    - - 536673.81
+      - 6000946.98
+      - 265.03
+    3211:
+    - - 536510.2
+      - 6001068.35
+      - 265.8
+    - - 536510.05
+      - 6001068.16
+      - 266.18
+    - - 536510.29
+      - 6001068.58
+      - 266.13
+    - - 536510.67
+      - 6001069.24
+      - 266.15
+    - - 536510.74
+      - 6001069.18
+      - 265.59
+    - - 536510.95
+      - 6001069.48
+      - 264.99
+    - - 536510.91
+      - 6001069.55
+      - 264.48
+    - - 536510.45
+      - 6001068.66
+      - 264.36
+    - - 536510.22
+      - 6001068.26
+      - 264.55
+    3218:
+    - - 536416.37
+      - 6001163.66
+      - 265.46
+    - - 536416.43
+      - 6001163.3
+      - 265.95
+    - - 536416.35
+      - 6001162.73
+      - 265.92
+    - - 536416.27
+      - 6001161.68
+      - 265.85
+    - - 536416.55
+      - 6001161.77
+      - 265.06
+    - - 536416.36
+      - 6001162.83
+      - 265.13
+    147:
+    - - 536268.09
+      - 6001253.43
+      - 263.71
+    - - 536268.1
+      - 6001253.39
+      - 265.16
+    - - 536268.06
+      - 6001252.98
+      - 262.28
+    - - 536268.46
+      - 6001253.97
+      - 261.82
+    - - 536268.88
+      - 6001253.19
+      - 262.24
+    660:
+    - - 536240.15
+      - 6001265.55
+      - 266.12
+    - - 536239.8
+      - 6001264.55
+      - 264.47
+    - - 536240.26
+      - 6001265.27
+      - 263.29
+    - - 536239.48
+      - 6001263.88
+      - 263.24
+    - - 536239.54
+      - 6001263.98
+      - 263.96
+    - - 536240.19
+      - 6001264.92
+      - 265.73
+    - - 536239.3
+      - 6001266.64
+      - 265.22
+    1173:
+    - - 536548.68
+      - 6001033.08
+      - 266.56
+    - - 536548.26
+      - 6001033.05
+      - 266.58
+    - - 536548.07
+      - 6001032.91
+      - 266.36
+    - - 536547.71
+      - 6001032.63
+      - 265.49
+    - - 536547.37
+      - 6001032.34
+      - 264.58
+    - - 536548.0
+      - 6001032.62
+      - 264.39
+    - - 536548.64
+      - 6001032.97
+      - 264.6
+    - - 536548.81
+      - 6001033.23
+      - 265.32
+    1171:
+    - - 536630.8
+      - 6000967.63
+      - 266.18
+    - - 536631.17
+      - 6000967.95
+      - 266.22
+    - - 536631.86
+      - 6000968.91
+      - 266.08
+    - - 536632.37
+      - 6000969.28
+      - 265.96
+    - - 536632.55
+      - 6000969.35
+      - 265.42
+    - - 536632.09
+      - 6000968.9
+      - 264.95
+    - - 536631.32
+      - 6000968.27
+      - 265.21
+    667:
+    - - 536554.31
+      - 6001025.47
+      - 266.61
+    - - 536553.94
+      - 6001025.21
+      - 266.64
+    - - 536553.62
+      - 6001024.82
+      - 266.57
+    - - 536553.56
+      - 6001025.11
+      - 266.19
+    - - 536553.67
+      - 6001025.15
+      - 265.77
+    - - 536553.4
+      - 6001024.76
+      - 264.66
+    - - 536553.63
+      - 6001024.99
+      - 265.2
+    - - 536553.46
+      - 6001024.79
+      - 264.6
+    - - 536554.06
+      - 6001025.06
+      - 264.51
+    - - 536554.58
+      - 6001025.44
+      - 264.47
+    157:
+    - - 536393.34
+      - 6001162.06
+      - 265.77
+    - - 536393.43
+      - 6001162.11
+      - 266.21
+    - - 536393.0
+      - 6001161.56
+      - 266.24
+    - - 536392.16
+      - 6001159.7
+      - 266.22
+    - - 536392.6
+      - 6001160.38
+      - 265.31
+    - - 536392.86
+      - 6001160.6
+      - 265.01
+    - - 536392.81
+      - 6001161.22
+      - 265.01
+    3230:
+    - - 536209.86
+      - 6001288.05
+      - 261.32
+    - - 536209.9
+      - 6001288.9
+      - 261.03
+    - - 536210.39
+      - 6001288.62
+      - 261.06
+    - - 536210.43
+      - 6001288.71
+      - 261.81
+    - - 536210.51
+      - 6001288.44
+      - 262.53
+    - - 536210.77
+      - 6001287.94
+      - 262.14
+    - - 536209.83
+      - 6001288.24
+      - 263.63
+    - - 536209.98
+      - 6001288.88
+      - 264.73
+    - - 536210.45
+      - 6001290.11
+      - 265.49
+    1182:
+    - - 536262.78
+      - 6001255.52
+      - 264.01
+    - - 536263.1
+      - 6001256.42
+      - 264.2
+    - - 536262.37
+      - 6001254.32
+      - 264.03
+    - - 536262.27
+      - 6001254.03
+      - 262.2
+    - - 536260.56
+      - 6001255.45
+      - 261.96
+    - - 536265.09
+      - 6001255.23
+      - 264.94
+    1181:
+    - - 536545.91
+      - 6001044.67
+      - 266.46
+    - - 536545.43
+      - 6001044.56
+      - 266.46
+    - - 536544.9
+      - 6001044.54
+      - 266.51
+    - - 536544.83
+      - 6001044.44
+      - 265.8
+    - - 536544.19
+      - 6001044.17
+      - 264.63
+    - - 536545.02
+      - 6001044.36
+      - 264.51
+    - - 536545.4
+      - 6001044.5
+      - 264.62
+    - - 536545.7
+      - 6001044.63
+      - 265.11
+    163:
+    - - 536385.76
+      - 6001158.76
+      - 266.13
+    - - 536385.94
+      - 6001159.08
+      - 266.27
+    - - 536386.66
+      - 6001160.33
+      - 266.23
+    - - 536387.0
+      - 6001161.16
+      - 266.08
+    - - 536386.98
+      - 6001160.97
+      - 265.45
+    - - 536386.89
+      - 6001160.6
+      - 265.04
+    - - 536386.61
+      - 6001160.09
+      - 264.78
+    - - 536386.18
+      - 6001159.34
+      - 265.06
+    2725:
+    - - 536171.0
+      - 6001323.27
+      - 259.93
+    - - 536171.17
+      - 6001324.89
+      - 259.81
+    - - 536171.79
+      - 6001326.09
+      - 259.86
+    - - 536170.92
+      - 6001324.91
+      - 258.61
+    - - 536170.15
+      - 6001323.93
+      - 258.63
+    - - 536171.03
+      - 6001323.97
+      - 261.15
+    2223:
+    - - 536221.13
+      - 6001276.24
+      - 264.85
+    - - 536221.41
+      - 6001276.62
+      - 265.3
+    - - 536221.96
+      - 6001277.08
+      - 264.77
+    - - 536221.25
+      - 6001276.39
+      - 264.61
+    3248:
+    - - 536215.78
+      - 6001278.53
+      - 263.73
+    - - 536215.98
+      - 6001279.11
+      - 263.93
+    - - 536216.22
+      - 6001279.57
+      - 264.08
+    - - 536216.75
+      - 6001280.18
+      - 263.45
+    - - 536216.59
+      - 6001280.04
+      - 262.87
+    - - 536215.66
+      - 6001279.7
+      - 262.07
+    - - 536215.07
+      - 6001279.61
+      - 262.58
+    - - 536215.76
+      - 6001280.23
+      - 261.53
+    - - 536215.37
+      - 6001280.38
+      - 261.91
+    - - 536215.21
+      - 6001281.09
+      - 262.17
+    2224:
+    - - 536555.57
+      - 6001019.5
+      - 266.78
+    - - 536555.27
+      - 6001019.89
+      - 266.85
+    - - 536555.07
+      - 6001020.46
+      - 266.84
+    - - 536554.5
+      - 6001020.57
+      - 266.61
+    - - 536554.54
+      - 6001020.43
+      - 265.68
+    - - 536554.26
+      - 6001020.33
+      - 264.57
+    - - 536554.8
+      - 6001019.91
+      - 264.37
+    - - 536555.27
+      - 6001019.59
+      - 264.47
+    - - 536555.86
+      - 6001018.99
+      - 265.53
+    - - 536555.52
+      - 6001019.36
+      - 265.33
+    197:
+    - - 536357.07
+      - 6001236.65
+      - 265.8
+    - - 536356.93
+      - 6001236.06
+      - 265.55
+    - - 536356.86
+      - 6001235.4
+      - 266.24
+    - - 536356.93
+      - 6001234.41
+      - 266.26
+    - - 536357.2
+      - 6001233.45
+      - 266.26
+    - - 536357.12
+      - 6001233.59
+      - 265.72
+    - - 536357.08
+      - 6001233.88
+      - 265.56
+    206:
+    - - 536560.55
+      - 6001005.44
+      - 266.66
+    - - 536559.56
+      - 6001005.44
+      - 266.82
+    - - 536558.78
+      - 6001005.23
+      - 266.83
+    - - 536559.33
+      - 6001004.9
+      - 265.85
+    - - 536559.41
+      - 6001004.94
+      - 264.98
+    - - 536559.81
+      - 6001005.09
+      - 264.74
+    - - 536560.52
+      - 6001005.53
+      - 264.89
+    211:
+    - - 536210.07
+      - 6001287.92
+      - 263.17
+    - - 536210.92
+      - 6001288.9
+      - 264.35
+    - - 536211.35
+      - 6001288.34
+      - 265.58
+    - - 536210.89
+      - 6001289.41
+      - 265.42
+    - - 536207.73
+      - 6001292.04
+      - 265.45
+    - - 536207.44
+      - 6001291.79
+      - 265.48
+    - - 536206.58
+      - 6001290.93
+      - 262.82
+    - - 536205.62
+      - 6001291.0
+      - 259.48
+    - - 536206.19
+      - 6001291.82
+      - 259.43
+    - - 536206.37
+      - 6001292.25
+      - 261.4
+    - - 536206.67
+      - 6001292.68
+      - 263.29
+    - - 536206.75
+      - 6001292.87
+      - 264.73
+    - - 536203.09
+      - 6001295.18
+      - 264.11
+    - - 536203.29
+      - 6001295.12
+      - 263.59
+    - - 536204.53
+      - 6001294.07
+      - 263.85
+    - - 536203.26
+      - 6001294.83
+      - 262.34
+    1237:
+    - - 536220.58
+      - 6001275.47
+      - 263.57
+    - - 536220.41
+      - 6001276.62
+      - 263.45
+    - - 536221.48
+      - 6001276.48
+      - 263.9
+    - - 536222.36
+      - 6001276.92
+      - 264.25
+    - - 536221.75
+      - 6001275.48
+      - 263.33
+    - - 536222.68
+      - 6001274.47
+      - 264.57
+    - - 536224.15
+      - 6001274.95
+      - 264.49
+    - - 536224.57
+      - 6001275.02
+      - 266.29
+    - - 536222.91
+      - 6001274.75
+      - 266.77
+    - - 536219.07
+      - 6001278.58
+      - 266.11
+    - - 536219.46
+      - 6001278.58
+      - 265.68
+    - - 536221.48
+      - 6001277.53
+      - 265.95
+    - - 536221.06
+      - 6001278.89
+      - 265.84
+    2268:
+    - - 536466.99
+      - 6001137.28
+      - 265.95
+    - - 536466.44
+      - 6001137.26
+      - 265.96
+    - - 536466.45
+      - 6001137.3
+      - 265.52
+    - - 536465.9
+      - 6001137.11
+      - 264.85
+    - - 536466.88
+      - 6001136.94
+      - 264.2
+    - - 536467.58
+      - 6001137.27
+      - 264.89
+    1245:
+    - - 536405.33
+      - 6001162.46
+      - 264.96
+    - - 536405.28
+      - 6001161.76
+      - 265.03
+    - - 536405.27
+      - 6001160.85
+      - 266.01
+    - - 536405.17
+      - 6001161.98
+      - 266.17
+    - - 536404.96
+      - 6001163.01
+      - 266.15
+    - - 536404.85
+      - 6001163.38
+      - 266.07
+    - - 536404.86
+      - 6001163.48
+      - 265.77
+    - - 536405.02
+      - 6001162.98
+      - 264.91
+    1246:
+    - - 536181.63
+      - 6001314.25
+      - 258.92
+    - - 536181.4
+      - 6001313.89
+      - 259.63
+    - - 536182.37
+      - 6001314.83
+      - 259.36
+    - - 536182.24
+      - 6001314.66
+      - 260.46
+    - - 536182.79
+      - 6001313.78
+      - 261.68
+    - - 536180.16
+      - 6001315.94
+      - 258.91
+    - - 536179.43
+      - 6001315.65
+      - 258.91
+    - - 536178.74
+      - 6001316.38
+      - 258.97
+    735:
+    - - 536361.44
+      - 6001171.42
+      - 266.43
+    - - 536361.25
+      - 6001171.48
+      - 265.78
+    - - 536362.52
+      - 6001172.59
+      - 266.45
+    - - 536362.49
+      - 6001172.8
+      - 265.82
+    - - 536362.71
+      - 6001173.06
+      - 265.16
+    - - 536362.39
+      - 6001172.53
+      - 264.65
+    - - 536361.56
+      - 6001171.7
+      - 264.65
+    2781:
+    - - 536506.12
+      - 6001080.53
+      - 266.29
+    - - 536505.72
+      - 6001080.42
+      - 266.47
+    - - 536505.42
+      - 6001080.37
+      - 267.08
+    - - 536504.81
+      - 6001080.29
+      - 266.88
+    - - 536503.98
+      - 6001080.07
+      - 266.46
+    - - 536504.66
+      - 6001080.12
+      - 265.56
+    - - 536504.17
+      - 6001080.04
+      - 264.59
+    - - 536505.25
+      - 6001080.06
+      - 264.35
+    - - 536505.58
+      - 6001080.14
+      - 264.43
+    1765:
+    - - 536163.56
+      - 6001331.18
+      - 259.32
+    - - 536163.85
+      - 6001331.48
+      - 260.29
+    - - 536164.07
+      - 6001331.78
+      - 261.89
+    - - 536164.28
+      - 6001331.93
+      - 260.19
+    - - 536164.35
+      - 6001331.71
+      - 259.12
+    745:
+    - - 536251.92
+      - 6001258.39
+      - 261.82
+    - - 536252.85
+      - 6001258.56
+      - 263.85
+    - - 536252.45
+      - 6001257.44
+      - 263.41
+    - - 536252.73
+      - 6001257.73
+      - 261.93
+    - - 536252.96
+      - 6001258.3
+      - 261.91
+    746:
+    - - 536282.52
+      - 6001251.8
+      - 262.2
+    - - 536282.3
+      - 6001250.73
+      - 262.24
+    - - 536282.75
+      - 6001252.04
+      - 262.78
+    - - 536282.45
+      - 6001250.92
+      - 263.14
+    - - 536282.36
+      - 6001250.77
+      - 263.34
+    2802:
+    - - 536266.69
+      - 6001255.23
+      - 263.58
+    - - 536266.81
+      - 6001255.34
+      - 264.44
+    - - 536266.02
+      - 6001254.43
+      - 264.16
+    - - 536265.82
+      - 6001253.68
+      - 261.74
+    - - 536266.51
+      - 6001255.45
+      - 262.66
+    2295:
+    - - 536562.46
+      - 6000999.9
+      - 264.71
+    - - 536561.77
+      - 6000999.62
+      - 264.78
+    - - 536561.99
+      - 6000999.79
+      - 265.5
+    - - 536562.17
+      - 6000999.89
+      - 266.38
+    - - 536562.31
+      - 6000999.85
+      - 266.98
+    - - 536562.92
+      - 6000999.93
+      - 267.08
+    - - 536563.23
+      - 6001000.18
+      - 265.48
+    - - 536562.62
+      - 6001000.14
+      - 266.97
+    1790:
+    - - 536375.07
+      - 6001193.2
+      - 265.19
+    - - 536375.03
+      - 6001193.24
+      - 265.58
+    - - 536374.69
+      - 6001193.24
+      - 266.25
+    - - 536372.36
+      - 6001194.46
+      - 266.06
+    - - 536372.43
+      - 6001194.46
+      - 265.27
+    2302:
+    - - 536372.25
+      - 6001161.44
+      - 266.44
+    - - 536372.89
+      - 6001162.96
+      - 266.49
+    - - 536373.14
+      - 6001163.36
+      - 265.56
+    - - 536372.76
+      - 6001162.77
+      - 265.09
+    - - 536372.3
+      - 6001161.61
+      - 264.69
+    1291:
+    - - 536202.37
+      - 6001295.14
+      - 259.17
+    - - 536201.99
+      - 6001294.68
+      - 259.11
+    - - 536201.92
+      - 6001294.41
+      - 259.83
+    - - 536202.93
+      - 6001295.03
+      - 260.68
+    - - 536203.32
+      - 6001294.88
+      - 262.6
+    - - 536202.91
+      - 6001294.71
+      - 262.75
+    - - 536203.63
+      - 6001294.66
+      - 264.44
+    - - 536201.47
+      - 6001294.92
+      - 259.63
+    1293:
+    - - 536190.76
+      - 6001306.61
+      - 259.04
+    - - 536190.35
+      - 6001306.07
+      - 259.07
+    - - 536191.08
+      - 6001306.69
+      - 259.78
+    - - 536191.48
+      - 6001306.82
+      - 261.2
+    - - 536190.83
+      - 6001306.43
+      - 260.9
+    - - 536192.46
+      - 6001305.57
+      - 261.77
+    2836:
+    - - 536225.91
+      - 6001271.49
+      - 262.89
+    - - 536226.66
+      - 6001272.05
+      - 262.96
+    - - 536227.67
+      - 6001270.97
+      - 263.65
+    - - 536227.75
+      - 6001271.14
+      - 264.71
+    - - 536226.38
+      - 6001272.55
+      - 264.95
+    - - 536226.46
+      - 6001273.57
+      - 264.67
+    - - 536226.15
+      - 6001273.35
+      - 265.64
+    - - 536225.75
+      - 6001272.97
+      - 265.64
+    - - 536225.42
+      - 6001272.64
+      - 265.29
+    - - 536225.22
+      - 6001272.44
+      - 264.32
+    - - 536225.46
+      - 6001272.27
+      - 263.56
+    - - 536224.99
+      - 6001272.99
+      - 264.14
+    - - 536224.27
+      - 6001272.85
+      - 264.38
+    1303:
+    - - 536502.4
+      - 6001101.1
+      - 266.12
+    - - 536502.35
+      - 6001101.14
+      - 266.13
+    - - 536501.99
+      - 6001101.14
+      - 266.13
+    - - 536501.86
+      - 6001101.1
+      - 265.68
+    - - 536501.76
+      - 6001101.19
+      - 265.16
+    - - 536501.48
+      - 6001101.09
+      - 264.64
+    - - 536502.48
+      - 6001100.9
+      - 264.24
+    - - 536503.09
+      - 6001101.0
+      - 264.75
+    - - 536502.9
+      - 6001101.15
+      - 265.18
+    798:
+    - - 536628.45
+      - 6000972.99
+      - 266.13
+    - - 536628.29
+      - 6000972.25
+      - 266.15
+    - - 536628.03
+      - 6000970.76
+      - 266.15
+    - - 536627.93
+      - 6000970.94
+      - 265.78
+    - - 536627.96
+      - 6000970.94
+      - 265.38
+    - - 536628.34
+      - 6000972.1
+      - 265.27
+    - - 536628.51
+      - 6000972.67
+      - 265.15
+    804:
+    - - 536501.4
+      - 6001109.26
+      - 266.06
+    - - 536501.42
+      - 6001109.32
+      - 266.12
+    - - 536501.85
+      - 6001109.32
+      - 266.14
+    - - 536501.94
+      - 6001109.38
+      - 265.74
+    - - 536502.03
+      - 6001109.24
+      - 264.65
+    - - 536501.81
+      - 6001109.21
+      - 264.2
+    - - 536500.89
+      - 6001109.25
+      - 264.13
+    - - 536500.48
+      - 6001109.27
+      - 264.52
+    1324:
+    - - 536721.94
+      - 6000929.3
+      - 264.98
+    - - 536721.88
+      - 6000929.27
+      - 265.42
+    - - 536721.35
+      - 6000929.03
+      - 265.39
+    - - 536720.68
+      - 6000928.98
+      - 265.64
+    - - 536719.83
+      - 6000928.8
+      - 265.6
+    - - 536718.03
+      - 6000928.43
+      - 264.78
+    - - 536719.43
+      - 6000928.65
+      - 264.75
+    - - 536720.14
+      - 6000928.35
+      - 265.33
+    814:
+    - - 536201.21
+      - 6001296.29
+      - 259.14
+    - - 536200.79
+      - 6001295.7
+      - 259.08
+    - - 536200.65
+      - 6001295.52
+      - 259.6
+    - - 536201.53
+      - 6001296.14
+      - 260.74
+    - - 536201.89
+      - 6001296.21
+      - 262.52
+    - - 536202.05
+      - 6001296.01
+      - 262.74
+    - - 536200.93
+      - 6001297.28
+      - 262.02
+    2351:
+    - - 536380.42
+      - 6001200.47
+      - 265.9
+    - - 536379.61
+      - 6001201.24
+      - 266.14
+    - - 536379.15
+      - 6001202.13
+      - 266.14
+    - - 536378.96
+      - 6001202.56
+      - 266.03
+    - - 536379.17
+      - 6001202.04
+      - 265.07
+    2870:
+    - - 536276.69
+      - 6001250.97
+      - 262.62
+    - - 536276.56
+      - 6001251.23
+      - 262.19
+    - - 536276.39
+      - 6001252.04
+      - 262.95
+    - - 536277.24
+      - 6001252.33
+      - 262.83
+    1338:
+    - - 536177.11
+      - 6001318.88
+      - 258.96
+    - - 536176.9
+      - 6001319.77
+      - 259.08
+    - - 536176.5
+      - 6001318.84
+      - 259.07
+    - - 536175.47
+      - 6001319.72
+      - 258.94
+    - - 536175.96
+      - 6001320.67
+      - 260.37
+    - - 536174.1
+      - 6001320.76
+      - 258.94
+    - - 536173.22
+      - 6001322.09
+      - 259.67
+    - - 536174.01
+      - 6001321.64
+      - 259.59
+    317:
+    - - 536452.67
+      - 6001144.58
+      - 265.83
+    - - 536452.38
+      - 6001144.18
+      - 265.82
+    - - 536451.78
+      - 6001143.34
+      - 265.81
+    - - 536451.66
+      - 6001143.41
+      - 265.03
+    - - 536452.42
+      - 6001143.91
+      - 264.37
+    - - 536452.83
+      - 6001144.65
+      - 265.35
+    - - 536453.12
+      - 6001144.75
+      - 264.78
+    - - 536452.78
+      - 6001144.49
+      - 264.38
+    1347:
+    - - 536368.9
+      - 6001169.12
+      - 266.4
+    - - 536369.53
+      - 6001169.12
+      - 265.94
+    - - 536368.84
+      - 6001168.96
+      - 264.77
+    - - 536367.53
+      - 6001167.87
+      - 265.16
+    - - 536366.87
+      - 6001167.54
+      - 266.34
+    - - 536368.18
+      - 6001168.55
+      - 266.42
+    1870:
+    - - 536647.81
+      - 6000964.46
+      - 265.95
+    - - 536647.83
+      - 6000963.91
+      - 266.06
+    - - 536647.85
+      - 6000962.26
+      - 266.25
+    - - 536647.72
+      - 6000962.43
+      - 265.76
+    - - 536647.82
+      - 6000962.84
+      - 265.3
+    - - 536647.79
+      - 6000963.18
+      - 265.02
+    - - 536647.88
+      - 6000963.61
+      - 264.9
+    - - 536648.01
+      - 6000964.26
+      - 265.03
+    1366:
+    - - 536445.4
+      - 6001150.74
+      - 265.81
+    - - 536446.02
+      - 6001151.05
+      - 265.8
+    - - 536446.99
+      - 6001151.63
+      - 265.63
+    - - 536446.92
+      - 6001151.58
+      - 264.95
+    - - 536446.04
+      - 6001151.02
+      - 264.71
+    - - 536445.18
+      - 6001150.14
+      - 264.67
+    - - 536445.1
+      - 6001150.17
+      - 265.23
+    2906:
+    - - 536198.59
+      - 6001298.56
+      - 259.02
+    - - 536198.77
+      - 6001298.9
+      - 259.68
+    - - 536199.65
+      - 6001299.53
+      - 264.07
+    - - 536198.81
+      - 6001299.16
+      - 262.15
+    - - 536198.59
+      - 6001298.84
+      - 261.86
+    - - 536197.94
+      - 6001298.12
+      - 260.0
+    - - 536197.94
+      - 6001298.04
+      - 259.27
+    2395:
+    - - 536542.9
+      - 6001036.39
+      - 265.23
+    - - 536543.09
+      - 6001036.4
+      - 265.6
+    - - 536543.76
+      - 6001036.52
+      - 266.56
+    - - 536544.31
+      - 6001037.0
+      - 266.42
+    - - 536544.62
+      - 6001036.73
+      - 265.62
+    - - 536545.08
+      - 6001036.73
+      - 264.7
+    - - 536543.86
+      - 6001036.5
+      - 264.54
+    - - 536543.39
+      - 6001036.55
+      - 264.8
+    - - 536544.83
+      - 6001037.16
+      - 265.15
+    - - 536543.55
+      - 6001036.65
+      - 266.49
+    861:
+    - - 536193.25
+      - 6001303.39
+      - 258.99
+    - - 536193.85
+      - 6001304.08
+      - 258.97
+    - - 536193.28
+      - 6001303.66
+      - 259.67
+    - - 536193.23
+      - 6001303.77
+      - 260.98
+    - - 536193.53
+      - 6001304.72
+      - 262.76
+    - - 536193.64
+      - 6001304.84
+      - 262.6
+    - - 536193.96
+      - 6001304.22
+      - 260.2
+    1894:
+    - - 536742.6
+      - 6000920.32
+      - 264.89
+    - - 536742.54
+      - 6000920.09
+      - 265.56
+    - - 536742.32
+      - 6000919.62
+      - 265.99
+    - - 536741.75
+      - 6000918.83
+      - 265.96
+    - - 536741.65
+      - 6000917.77
+      - 265.94
+    - - 536741.77
+      - 6000917.5
+      - 265.34
+    - - 536741.88
+      - 6000917.95
+      - 264.94
+    - - 536741.81
+      - 6000918.94
+      - 264.86
+    2929:
+    - - 536686.12
+      - 6000949.14
+      - 265.53
+    - - 536685.86
+      - 6000948.84
+      - 265.14
+    - - 536685.81
+      - 6000948.44
+      - 265.96
+    - - 536685.49
+      - 6000947.35
+      - 265.97
+    - - 536685.27
+      - 6000946.56
+      - 265.78
+    - - 536685.2
+      - 6000945.98
+      - 265.53
+    - - 536685.3
+      - 6000946.31
+      - 265.18
+    - - 536685.51
+      - 6000947.06
+      - 265.03
+    - - 536685.59
+      - 6000948.16
+      - 265.06
+    374:
+    - - 536694.64
+      - 6000943.04
+      - 265.09
+    - - 536694.47
+      - 6000942.59
+      - 265.62
+    - - 536694.71
+      - 6000943.29
+      - 265.81
+    - - 536694.95
+      - 6000944.22
+      - 265.83
+    - - 536695.59
+      - 6000945.7
+      - 265.59
+    - - 536695.53
+      - 6000945.38
+      - 265.15
+    - - 536695.09
+      - 6000944.19
+      - 264.99
+    - - 536694.86
+      - 6000943.66
+      - 264.92
+    1400:
+    - - 536711.54
+      - 6000939.25
+      - 265.61
+    - - 536711.34
+      - 6000938.81
+      - 265.43
+    - - 536711.43
+      - 6000938.83
+      - 265.16
+    - - 536711.64
+      - 6000939.18
+      - 265.05
+    - - 536711.77
+      - 6000939.49
+      - 264.99
+    - - 536711.73
+      - 6000939.49
+      - 265.0
+    - - 536712.03
+      - 6000940.59
+      - 264.97
+    - - 536712.95
+      - 6000942.08
+      - 264.98
+    - - 536712.24
+      - 6000940.89
+      - 265.53
+    - - 536711.85
+      - 6000940.09
+      - 265.66
+    2426:
+    - - 536740.48
+      - 6000918.07
+      - 265.37
+    - - 536740.27
+      - 6000917.1
+      - 265.91
+    - - 536740.65
+      - 6000918.14
+      - 266.04
+    - - 536741.35
+      - 6000919.13
+      - 265.97
+    - - 536741.75
+      - 6000919.84
+      - 266.01
+    - - 536742.15
+      - 6000920.32
+      - 265.37
+    - - 536742.39
+      - 6000920.41
+      - 264.9
+    - - 536741.39
+      - 6000919.42
+      - 264.87
+    - - 536740.58
+      - 6000918.33
+      - 265.54
+    - - 536741.85
+      - 6000920.38
+      - 265.32
+    383:
+    - - 536217.83
+      - 6001277.72
+      - 263.61
+    - - 536217.81
+      - 6001277.84
+      - 264.48
+    - - 536218.1
+      - 6001278.39
+      - 264.79
+    - - 536218.5
+      - 6001279.02
+      - 265.18
+    - - 536218.69
+      - 6001279.29
+      - 264.57
+    - - 536218.4
+      - 6001278.9
+      - 264.29
+    - - 536218.62
+      - 6001279.21
+      - 263.56
+    - - 536218.21
+      - 6001278.57
+      - 263.51
+    - - 536217.81
+      - 6001278.22
+      - 263.15
+    - - 536217.22
+      - 6001277.86
+      - 263.33
+    1409:
+    - - 536658.51
+      - 6000961.96
+      - 265.93
+    - - 536658.39
+      - 6000961.43
+      - 266.01
+    - - 536658.15
+      - 6000960.23
+      - 266.16
+    - - 536657.89
+      - 6000959.69
+      - 265.9
+    - - 536657.87
+      - 6000960.15
+      - 265.56
+    - - 536658.01
+      - 6000960.33
+      - 265.24
+    - - 536658.18
+      - 6000961.03
+      - 265.04
+    - - 536658.61
+      - 6000961.9
+      - 264.94
+    393:
+    - - 536211.45
+      - 6001286.86
+      - 262.05
+    - - 536211.74
+      - 6001286.77
+      - 262.95
+    - - 536212.29
+      - 6001286.92
+      - 263.09
+    - - 536211.4
+      - 6001287.06
+      - 260.93
+    - - 536210.97
+      - 6001286.81
+      - 260.12
+    - - 536210.57
+      - 6001286.46
+      - 259.94
+    - - 536210.3
+      - 6001287.78
+      - 260.42
+    - - 536208.9
+      - 6001288.04
+      - 259.53
+    906:
+    - - 536244.13
+      - 6001264.95
+      - 264.33
+    - - 536244.39
+      - 6001265.03
+      - 265.77
+    - - 536243.7
+      - 6001263.99
+      - 265.93
+    - - 536242.96
+      - 6001262.73
+      - 266.02
+    - - 536242.56
+      - 6001261.98
+      - 264.03
+    - - 536242.59
+      - 6001261.92
+      - 263.52
+    - - 536243.15
+      - 6001263.17
+      - 263.41
+    - - 536243.48
+      - 6001263.52
+      - 263.38
+    908:
+    - - 536600.45
+      - 6000978.81
+      - 266.29
+    - - 536600.56
+      - 6000979.12
+      - 266.66
+    - - 536600.53
+      - 6000979.8
+      - 266.77
+    - - 536600.88
+      - 6000980.52
+      - 266.8
+    - - 536601.21
+      - 6000981.41
+      - 266.74
+    - - 536601.25
+      - 6000981.8
+      - 266.35
+    - - 536601.07
+      - 6000981.39
+      - 265.6
+    - - 536600.97
+      - 6000980.76
+      - 265.45
+    - - 536600.37
+      - 6000980.38
+      - 265.32
+    2958:
+    - - 536533.92
+      - 6001053.67
+      - 266.24
+    - - 536533.42
+      - 6001053.38
+      - 266.28
+    - - 536532.64
+      - 6001052.99
+      - 266.49
+    - - 536532.81
+      - 6001053.14
+      - 265.73
+    - - 536532.52
+      - 6001052.91
+      - 265.04
+    - - 536532.53
+      - 6001052.81
+      - 264.66
+    - - 536533.12
+      - 6001053.1
+      - 264.42
+    - - 536533.79
+      - 6001053.38
+      - 264.68
+    2452:
+    - - 536717.62
+      - 6000939.31
+      - 265.18
+    - - 536714.5
+      - 6000936.8
+      - 265.22
+    - - 536717.08
+      - 6000939.05
+      - 265.47
+    - - 536717.43
+      - 6000939.21
+      - 265.03
+    - - 536716.5
+      - 6000938.93
+      - 265.01
+    - - 536715.6
+      - 6000938.21
+      - 264.99
+    - - 536714.27
+      - 6000936.74
+      - 265.18
+    - - 536714.56
+      - 6000936.92
+      - 265.51
+    - - 536715.2
+      - 6000937.61
+      - 265.55
+    - - 536715.57
+      - 6000937.69
+      - 265.57
+    411:
+    - - 536284.04
+      - 6001250.66
+      - 262.22
+    - - 536284.54
+      - 6001251.85
+      - 262.31
+    - - 536284.53
+      - 6001251.92
+      - 262.87
+    - - 536284.07
+      - 6001250.21
+      - 262.83
+    - - 536283.88
+      - 6001250.32
+      - 263.66
+    2973:
+    - - 536362.13
+      - 6001233.74
+      - 266.82
+    - - 536361.96
+      - 6001235.04
+      - 265.84
+    - - 536361.96
+      - 6001236.13
+      - 265.7
+    - - 536361.99
+      - 6001236.17
+      - 266.49
+    - - 536361.92
+      - 6001236.44
+      - 266.21
+    - - 536362.44
+      - 6001237.18
+      - 266.18
+    - - 536363.14
+      - 6001237.53
+      - 265.62
+    - - 536362.78
+      - 6001237.21
+      - 265.54
+    948:
+    - - 536278.33
+      - 6001252.24
+      - 262.9
+    - - 536278.55
+      - 6001252.39
+      - 262.21
+    - - 536278.02
+      - 6001251.2
+      - 262.26
+    - - 536277.91
+      - 6001250.94
+      - 262.64
+    - - 536278.03
+      - 6001251.3
+      - 263.48
+    437:
+    - - 536505.65
+      - 6001072.47
+      - 266.66
+    - - 536505.71
+      - 6001072.52
+      - 267.76
+    - - 536507.01
+      - 6001072.92
+      - 267.74
+    - - 536507.16
+      - 6001073.08
+      - 266.48
+    - - 536507.45
+      - 6001073.25
+      - 266.05
+    - - 536507.08
+      - 6001073.12
+      - 265.51
+    - - 536507.74
+      - 6001073.34
+      - 264.63
+    - - 536506.88
+      - 6001072.73
+      - 264.38
+    - - 536506.43
+      - 6001073.0
+      - 264.69
+    2488:
+    - - 536722.75
+      - 6000927.02
+      - 265.08
+    - - 536721.91
+      - 6000926.87
+      - 265.74
+    - - 536722.47
+      - 6000926.99
+      - 264.8
+    - - 536721.91
+      - 6000926.59
+      - 264.72
+    - - 536719.01
+      - 6000924.69
+      - 265.02
+    - - 536721.52
+      - 6000926.36
+      - 265.24
+    - - 536721.2
+      - 6000926.21
+      - 265.31
+    450:
+    - - 536524.58
+      - 6001061.41
+      - 266.14
+    - - 536524.33
+      - 6001061.01
+      - 266.15
+    - - 536523.87
+      - 6001060.45
+      - 266.2
+    - - 536524.05
+      - 6001060.57
+      - 265.65
+    - - 536524.15
+      - 6001060.36
+      - 264.65
+    - - 536524.57
+      - 6001061.1
+      - 264.37
+    - - 536524.85
+      - 6001061.72
+      - 264.59
+    463:
+    - - 536180.05
+      - 6001316.99
+      - 260.09
+    - - 536179.68
+      - 6001316.95
+      - 260.35
+    - - 536178.97
+      - 6001315.99
+      - 258.93
+    - - 536179.74
+      - 6001316.77
+      - 258.98
+    - - 536179.2
+      - 6001317.72
+      - 261.34
+    - - 536178.61
+      - 6001317.15
+      - 260.1
+    - - 536177.34
+      - 6001317.85
+      - 259.68
+    975:
+    - - 536738.01
+      - 6000921.01
+      - 265.98
+    - - 536737.95
+      - 6000920.95
+      - 265.69
+    - - 536737.99
+      - 6000921.86
+      - 264.59
+    - - 536737.96
+      - 6000920.75
+      - 264.98
+    - - 536737.57
+      - 6000919.37
+      - 265.75
+    - - 536737.29
+      - 6000918.51
+      - 267.0
+    - - 536737.49
+      - 6000919.5
+      - 267.07
+    - - 536737.79
+      - 6000920.06
+      - 266.89
+    - - 536735.3
+      - 6000918.46
+      - 268.03
+    - - 536736.63
+      - 6000918.52
+      - 267.52
+    - - 536735.4
+      - 6000921.9
+      - 267.16
+    - - 536734.53
+      - 6000921.09
+      - 267.48
+    - - 536735.47
+      - 6000920.48
+      - 267.32
+    - - 536736.1
+      - 6000920.67
+      - 267.39
+    473:
+    - - 536739.29
+      - 6000917.97
+      - 266.79
+    - - 536739.12
+      - 6000916.77
+      - 266.79
+    - - 536739.1
+      - 6000918.64
+      - 266.64
+    - - 536740.37
+      - 6000920.6
+      - 265.9
+    - - 536739.78
+      - 6000918.66
+      - 265.24
+    - - 536740.54
+      - 6000919.71
+      - 264.93
+    1500:
+    - - 536363.11
+      - 6001182.21
+      - 265.24
+    - - 536362.71
+      - 6001182.59
+      - 266.1
+    - - 536361.94
+      - 6001183.37
+      - 266.21
+    - - 536361.47
+      - 6001183.82
+      - 266.21
+    - - 536362.09
+      - 6001183.2
+      - 264.4
+    3037:
+    - - 536389.66
+      - 6001207.55
+      - 265.52
+    - - 536389.35
+      - 6001207.64
+      - 265.81
+    - - 536385.99
+      - 6001207.99
+      - 265.89
+    - - 536388.0
+      - 6001207.68
+      - 265.98
+    - - 536386.08
+      - 6001207.62
+      - 265.09
+    991:
+    - - 536612.8
+      - 6000972.37
+      - 266.16
+    - - 536613.14
+      - 6000972.67
+      - 266.48
+    - - 536613.85
+      - 6000973.26
+      - 266.48
+    - - 536614.33
+      - 6000973.92
+      - 266.24
+    - - 536614.19
+      - 6000973.91
+      - 266.24
+    - - 536614.92
+      - 6000974.7
+      - 265.99
+    - - 536614.49
+      - 6000974.5
+      - 265.55
+    - - 536614.07
+      - 6000973.76
+      - 265.35
+    - - 536613.64
+      - 6000973.11
+      - 265.25
+    3040:
+    - - 536185.8
+      - 6001310.48
+      - 259.05
+    - - 536186.28
+      - 6001311.18
+      - 259.15
+    - - 536186.32
+      - 6001311.12
+      - 260.69
+    - - 536186.56
+      - 6001311.27
+      - 261.57
+    - - 536185.96
+      - 6001311.08
+      - 260.96
+    - - 536185.46
+      - 6001310.95
+      - 259.01
+    - - 536185.97
+      - 6001311.52
+      - 259.13
+    3041:
+    - - 536251.62
+      - 6001259.69
+      - 263.34
+    - - 536244.63
+      - 6001262.3
+      - 264.29
+    - - 536248.26
+      - 6001262.77
+      - 265.48
+    - - 536246.84
+      - 6001261.51
+      - 265.76
+    - - 536246.53
+      - 6001261.05
+      - 264.41
+    - - 536246.4
+      - 6001260.95
+      - 263.06
+    - - 536248.88
+      - 6001261.01
+      - 262.54
+    2019:
+    - - 536195.37
+      - 6001300.72
+      - 258.92
+    - - 536196.3
+      - 6001300.97
+      - 258.81
+    - - 536196.29
+      - 6001300.98
+      - 260.9
+    - - 536196.94
+      - 6001301.2
+      - 262.19
+    - - 536199.8
+      - 6001298.4
+      - 263.59
+    - - 536198.87
+      - 6001299.22
+      - 262.23
+    - - 536195.68
+      - 6001301.07
+      - 259.81
+    2023:
+    - - 536188.86
+      - 6001307.72
+      - 258.99
+    - - 536190.25
+      - 6001307.3
+      - 262.22
+    - - 536189.93
+      - 6001307.85
+      - 263.15
+    - - 536188.99
+      - 6001308.78
+      - 263.71
+    - - 536188.64
+      - 6001309.06
+      - 262.32
+    - - 536189.84
+      - 6001308.31
+      - 259.74
+    - - 536188.67
+      - 6001307.93
+      - 258.97
+    1513:
+    - - 536559.4
+      - 6001004.64
+      - 264.91
+    - - 536559.22
+      - 6001004.68
+      - 265.32
+    - - 536559.45
+      - 6001004.85
+      - 266.15
+    - - 536559.63
+      - 6001004.91
+      - 266.81
+    - - 536560.12
+      - 6001005.23
+      - 266.67
+    - - 536560.72
+      - 6001005.48
+      - 266.67
+    - - 536560.5
+      - 6001005.29
+      - 265.69
+    - - 536560.75
+      - 6001005.39
+      - 264.87
+    - - 536560.3
+      - 6001005.16
+      - 264.71
+    3051:
+    - - 536587.41
+      - 6000989.59
+      - 265.81
+    - - 536587.36
+      - 6000989.62
+      - 266.39
+    - - 536586.55
+      - 6000989.05
+      - 266.41
+    - - 536586.26
+      - 6000988.52
+      - 266.54
+    - - 536586.22
+      - 6000988.5
+      - 265.15
+    - - 536586.72
+      - 6000989.07
+      - 265.02
+    - - 536585.63
+      - 6000987.31
+      - 266.51
+    2545:
+    - - 536272.45
+      - 6001251.76
+      - 262.1
+    - - 536272.44
+      - 6001252.02
+      - 264.69
+    - - 536272.12
+      - 6001252.37
+      - 266.87
+    - - 536270.3
+      - 6001253.32
+      - 263.65
+    - - 536271.23
+      - 6001252.62
+      - 266.51
+    - - 536272.64
+      - 6001253.64
+      - 263.28
+    - - 536271.95
+      - 6001252.97
+      - 266.98
+    - - 536272.83
+      - 6001253.64
+      - 262.1
+    - - 536273.15
+      - 6001252.06
+      - 262.11
+    1523:
+    - - 536409.25
+      - 6001160.06
+      - 266.06
+    - - 536409.42
+      - 6001160.79
+      - 266.16
+    - - 536409.85
+      - 6001162.16
+      - 266.17
+    - - 536410.13
+      - 6001162.69
+      - 265.42
+    - - 536409.79
+      - 6001161.89
+      - 265.06
+    - - 536409.65
+      - 6001160.82
+      - 265.09
+    501:
+    - - 536724.63
+      - 6000921.44
+      - 265.15
+    - - 536725.07
+      - 6000922.67
+      - 265.44
+    - - 536725.74
+      - 6000924.58
+      - 265.0
+    2557:
+    - - 536160.0
+      - 6001334.73
+      - 261.44
+    - - 536159.92
+      - 6001334.7
+      - 260.12
+    - - 536160.48
+      - 6001335.44
+      - 261.37
+    - - 536160.69
+      - 6001335.3
+      - 259.48
+    - - 536160.69
+      - 6001333.52
+      - 259.63
+    - - 536161.45
+      - 6001334.23
+      - 259.81
+    - - 536162.19
+      - 6001333.62
+      - 261.61
+  idsql:
+    1536:
+    - 1642
+    512:
+    - 2259
+    1026:
+    - 1652
+    1539:
+    - 67
+    514:
+    - 1744
+    3075:
+    - 2052
+    6:
+    - 1937
+    1031:
+    - 2010
+    3081:
+    - 2043
+    1042:
+    - 98
+    19:
+    - 65
+    1045:
+    - 32
+    536:
+    - 1647
+    1560:
+    - 61
+    2074:
+    - 1883
+    3100:
+    - 2166
+    2588:
+    - 1648
+    1566:
+    - 2328
+    1568:
+    - 1858
+    2593:
+    - 1758
+    2082:
+    - 1672
+    2085:
+    - 2026
+    1061:
+    - 2322
+    551:
+    - 2774
+    40:
+    - 1930
+    3113:
+    - 1698
+    2090:
+    - 60
+    555:
+    - 1644
+    556:
+    - 1665
+    3118:
+    - 1716
+    559:
+    - 55
+    3119:
+    - 1651
+    1583:
+    - 2120
+    1587:
+    - 1914
+    2106:
+    - 1750
+    1085:
+    - 1857
+    1087:
+    - 1906
+    1090:
+    - 80
+    66:
+    - 1899
+    1604:
+    - 1641
+    1602:
+    - 2167
+    582:
+    - 82
+    583:
+    - 1973
+    74:
+    - 58
+    1107:
+    - 1639
+    3158:
+    - 2158
+    3161:
+    - 81
+    601:
+    - 2184
+    94:
+    - 1661
+    3167:
+    - 1654
+    3168:
+    - 35
+    2654:
+    - 1773
+    614:
+    - 1706
+    2151:
+    - 1638
+    2664:
+    - 2090
+    1643:
+    - 103
+    2668:
+    - 79
+    2158:
+    - 89
+    111:
+    - 2206
+    624:
+    - 73
+    2677:
+    - 1629
+    2167:
+    - 90
+    2682:
+    - 36
+    2683:
+    - 1802
+    3195:
+    - 1922
+    123:
+    - 70
+    1149:
+    - 1945
+    2180:
+    - 86
+    2694:
+    - 1827
+    135:
+    - 2270
+    2185:
+    - 1632
+    3211:
+    - 2000
+    3218:
+    - 1850
+    147:
+    - 64
+    660:
+    - 42
+    1173:
+    - 2081
+    1171:
+    - 2233
+    667:
+    - 2098
+    157:
+    - 1819
+    3230:
+    - 92
+    1182:
+    - 62
+    1181:
+    - 2061
+    163:
+    - 1810
+    2725:
+    - 2767
+    2223:
+    - 85
+    3248:
+    - 88
+    2224:
+    - 2109
+    707:
+    - 1630
+    197:
+    - 1681
+    1739:
+    - 1637
+    206:
+    - 2131
+    211:
+    - 93
+    1237:
+    - 84
+    2775:
+    - 1660
+    2266:
+    - 1664
+    2268:
+    - 1892
+    1245:
+    - 1834
+    1246:
+    - 104
+    735:
+    - 1781
+    2781:
+    - 1980
+    1765:
+    - 2781
+    2792:
+    - 1631
+    745:
+    - 59
+    746:
+    - 71
+    2282:
+    - 1643
+    2797:
+    - 1634
+    2802:
+    - 63
+    243:
+    - 1633
+    754:
+    - 1656
+    2295:
+    - 2149
+    762:
+    - 1663
+    1790:
+    - 1738
+    2302:
+    - 1796
+    1291:
+    - 94
+    2315:
+    - 1636
+    1293:
+    - 100
+    1808:
+    - 1655
+    2836:
+    - 83
+    1303:
+    - 1963
+    798:
+    - 2225
+    804:
+    - 1954
+    1324:
+    - 2336
+    814:
+    - 95
+    2351:
+    - 1732
+    2870:
+    - 68
+    2871:
+    - 2795
+    1338:
+    - 106
+    828:
+    - 1635
+    317:
+    - 1874
+    1347:
+    - 1789
+    2893:
+    - 1658
+    1870:
+    - 2241
+    2385:
+    - 1657
+    1366:
+    - 1866
+    1368:
+    - 2357
+    2906:
+    - 96
+    2395:
+    - 2070
+    861:
+    - 99
+    1381:
+    - 1649
+    1894:
+    - 2391
+    1898:
+    - 1628
+    2929:
+    - 2281
+    2419:
+    - 1653
+    1910:
+    - 1662
+    374:
+    - 2291
+    1400:
+    - 2300
+    2426:
+    - 2380
+    383:
+    - 87
+    1409:
+    - 2250
+    2949:
+    - 1891
+    393:
+    - 91
+    906:
+    - 56
+    908:
+    - 2196
+    2958:
+    - 2034
+    2452:
+    - 2311
+    411:
+    - 72
+    2973:
+    - 1689
+    1956:
+    - 74
+    948:
+    - 69
+    437:
+    - 1990
+    2486:
+    - 1659
+    2488:
+    - 2345
+    450:
+    - 2018
+    3015:
+    - 1646
+    970:
+    - 1650
+    463:
+    - 105
+    975:
+    - 2358
+    473:
+    - 2373
+    1500:
+    - 1767
+    3037:
+    - 1726
+    991:
+    - 2215
+    3040:
+    - 102
+    3041:
+    - 57
+    481:
+    - 2392
+    2019:
+    - 97
+    2023:
+    - 101
+    1513:
+    - 2139
+    3051:
+    - 2176
+    2545:
+    - 66
+    1010:
+    - 1645
+    1011:
+    - 1640
+    1523:
+    - 1843
+    501:
+    - 2353
+    2557:
+    - 2787
+  flags:
+    1536:
+    - fix
+    512:
+    - fix
+    1026:
+    - fix
+    1539:
+    - fix
+    514:
+    - fix
+    3075:
+    - fix
+    6:
+    - fix
+    1031:
+    - fix
+    3081:
+    - fix
+    1042:
+    - fix
+    19:
+    - fix
+    1045:
+    - fix
+    536:
+    - fix
+    1560:
+    - fix
+    2074:
+    - fix
+    3100:
+    - fix
+    2588:
+    - fix
+    1566:
+    - fix
+    1568:
+    - fix
+    2593:
+    - fix
+    2082:
+    - fix
+    2085:
+    - fix
+    1061:
+    - fix
+    551:
+    - fix
+    40:
+    - fix
+    3113:
+    - fix
+    2090:
+    - fix
+    555:
+    - fix
+    556:
+    - fix
+    3118:
+    - fix
+    559:
+    - fix
+    3119:
+    - fix
+    1583:
+    - fix
+    1587:
+    - fix
+    2106:
+    - fix
+    1085:
+    - fix
+    1087:
+    - fix
+    1090:
+    - fix
+    66:
+    - fix
+    1604:
+    - fix
+    1602:
+    - fix
+    582:
+    - fix
+    583:
+    - fix
+    74:
+    - fix
+    1107:
+    - fix
+    3158:
+    - fix
+    3161:
+    - fix
+    601:
+    - fix
+    94:
+    - fix
+    3167:
+    - fix
+    3168:
+    - fix
+    2654:
+    - fix
+    614:
+    - fix
+    2151:
+    - fix
+    2664:
+    - fix
+    1643:
+    - fix
+    2668:
+    - fix
+    2158:
+    - fix
+    111:
+    - fix
+    624:
+    - fix
+    2677:
+    - fix
+    2167:
+    - fix
+    2682:
+    - ent
+    - fix
+    2683:
+    - fix
+    3195:
+    - fix
+    123:
+    - fix
+    1149:
+    - fix
+    2180:
+    - fix
+    2694:
+    - fix
+    135:
+    - fix
+    2185:
+    - fix
+    3211:
+    - fix
+    3218:
+    - fix
+    147:
+    - fix
+    660:
+    - fix
+    1173:
+    - fix
+    1171:
+    - fix
+    667:
+    - fix
+    157:
+    - fix
+    3230:
+    - fix
+    1182:
+    - fix
+    1181:
+    - fix
+    163:
+    - fix
+    2725:
+    - fix
+    2223:
+    - fix
+    3248:
+    - fix
+    2224:
+    - fix
+    707:
+    - fix
+    197:
+    - fix
+    1739:
+    - fix
+    206:
+    - fix
+    211:
+    - fix
+    1237:
+    - fix
+    2775:
+    - fix
+    2266:
+    - fix
+    2268:
+    - fix
+    1245:
+    - fix
+    1246:
+    - fix
+    735:
+    - fix
+    2781:
+    - fix
+    1765:
+    - fix
+    2792:
+    - fix
+    745:
+    - fix
+    746:
+    - fix
+    2282:
+    - fix
+    2797:
+    - fix
+    2802:
+    - fix
+    243:
+    - fix
+    754:
+    - fix
+    2295:
+    - fix
+    762:
+    - fix
+    1790:
+    - fix
+    2302:
+    - fix
+    1291:
+    - fix
+    2315:
+    - fix
+    1293:
+    - fix
+    1808:
+    - fix
+    2836:
+    - fix
+    1303:
+    - fix
+    798:
+    - fix
+    804:
+    - fix
+    1324:
+    - fix
+    814:
+    - fix
+    2351:
+    - fix
+    2870:
+    - fix
+    2871:
+    - fix
+    1338:
+    - fix
+    828:
+    - fix
+    317:
+    - fix
+    1347:
+    - fix
+    2893:
+    - fix
+    1870:
+    - fix
+    2385:
+    - fix
+    1366:
+    - fix
+    1368:
+    - fix
+    2906:
+    - fix
+    2395:
+    - fix
+    861:
+    - fix
+    1381:
+    - fix
+    1894:
+    - fix
+    1898:
+    - ent
+    - fix
+    2929:
+    - fix
+    2419:
+    - fix
+    1910:
+    - fix
+    374:
+    - fix
+    1400:
+    - fix
+    2426:
+    - fix
+    383:
+    - fix
+    1409:
+    - fix
+    2949:
+    - fix
+    393:
+    - fix
+    906:
+    - fix
+    908:
+    - fix
+    2958:
+    - fix
+    2452:
+    - fix
+    411:
+    - fix
+    2973:
+    - fix
+    1956:
+    - fix
+    948:
+    - fix
+    437:
+    - fix
+    2486:
+    - fix
+    2488:
+    - fix
+    450:
+    - fix
+    3015:
+    - fix
+    970:
+    - fix
+    463:
+    - fix
+    975:
+    - fix
+    473:
+    - fix
+    1500:
+    - fix
+    3037:
+    - fix
+    991:
+    - fix
+    3040:
+    - fix
+    3041:
+    - fix
+    481:
+    - fix
+    2019:
+    - fix
+    2023:
+    - fix
+    1513:
+    - fix
+    3051:
+    - fix
+    2545:
+    - fix
+    1010:
+    - fix
+    1011:
+    - fix
+    1523:
+    - fix
+    501:
+    - fix
+    2557:
+    - fix
+  csdim:
+    512:
+    - 0.16
+    - 1.36
+    1539:
+    - 0.65
+    - 1.51
+    514:
+    - 0.31
+    - 1.76
+    3075:
+    - 0.25
+    - 2.0
+    6:
+    - 0.3
+    - 1.79
+    1031:
+    - 0.33
+    - 1.76
+    3081:
+    - 0.35
+    - 1.91
+    1042:
+    - 0.62
+    - 2.01
+    19:
+    - 1.17
+    - 1.38
+    1045:
+    - 2.36
+    - 2.36
+    1560:
+    - 0.32
+    - 2.46
+    2074:
+    - 0.57
+    - 1.55
+    1566:
+    - 2.35
+    - 0.77
+    1568:
+    - 0.35
+    - 1.28
+    2593:
+    - 0.45
+    - 1.84
+    2082:
+    - 1.59
+    - 3.71
+    2085:
+    - 0.21
+    - 2.22
+    1061:
+    - 0.31
+    - 2.9
+    551:
+    - 6.62
+    - 1.94
+    40:
+    - 0.2
+    - 1.96
+    3113:
+    - 0.51
+    - 0.68
+    2090:
+    - 0.71
+    - 2.61
+    556:
+    - 3.65
+    - 0.93
+    3118:
+    - 1.67
+    - 0.73
+    1583:
+    - 0.24
+    - 2.46
+    1587:
+    - 0.48
+    - 2.26
+    2106:
+    - 0.15
+    - 1.09
+    1087:
+    - 0.33
+    - 1.75
+    1090:
+    - 0.29
+    - 3.5
+    66:
+    - 0.29
+    - 1.67
+    1602:
+    - 0.53
+    - 1.55
+    582:
+    - 4.6
+    - 2.62
+    583:
+    - 0.21
+    - 1.93
+    74:
+    - 0.83
+    - 3.04
+    3158:
+    - 0.47
+    - 2.3
+    3161:
+    - 3.34
+    - 4.89
+    601:
+    - 0.46
+    - 1.56
+    2654:
+    - 0.06
+    - 1.63
+    614:
+    - 0.55
+    - 0.64
+    2664:
+    - 0.31
+    - 2.34
+    1643:
+    - 2.91
+    - 3.54
+    2668:
+    - 0.87
+    - 2.21
+    2158:
+    - 1.82
+    - 1.45
+    111:
+    - 0.66
+    - 1.13
+    624:
+    - 3.18
+    - 6.81
+    2167:
+    - 2.48
+    - 1.17
+    2683:
+    - 0.44
+    - 1.41
+    3195:
+    - 0.3
+    - 1.72
+    123:
+    - 0.85
+    - 1.44
+    1149:
+    - 0.49
+    - 3.31
+    2180:
+    - 0.53
+    - 1.27
+    2694:
+    - 1.0
+    - 1.26
+    135:
+    - 0.2
+    - 0.9
+    3211:
+    - 0.15
+    - 1.92
+    3218:
+    - 0.28
+    - 0.99
+    147:
+    - 0.95
+    - 2.83
+    660:
+    - 1.61
+    - 1.61
+    1173:
+    - 0.29
+    - 2.15
+    1171:
+    - 0.46
+    - 1.29
+    667:
+    - 0.34
+    - 2.2
+    157:
+    - 0.67
+    - 1.24
+    3230:
+    - 1.04
+    - 1.7
+    1182:
+    - 4.34
+    - 2.0
+    1181:
+    - 0.25
+    - 1.99
+    163:
+    - 0.46
+    - 1.47
+    2725:
+    - 1.86
+    - 2.63
+    2223:
+    - 0.38
+    - 0.7
+    3248:
+    - 2.15
+    - 2.43
+    2224:
+    - 1.04
+    - 2.43
+    197:
+    - 0.82
+    - 0.74
+    206:
+    - 0.96
+    - 2.46
+    211:
+    - 10.72
+    - 6.32
+    1237:
+    - 6.07
+    - 4.05
+    2268:
+    - 0.46
+    - 1.77
+    1245:
+    - 0.42
+    - 1.24
+    1246:
+    - 4.74
+    - 2.77
+    735:
+    - 0.23
+    - 1.84
+    2781:
+    - 0.34
+    - 2.71
+    1765:
+    - 0.36
+    - 1.82
+    745:
+    - 1.04
+    - 2.12
+    746:
+    - 0.19
+    - 1.52
+    2802:
+    - 0.86
+    - 2.24
+    2295:
+    - 0.29
+    - 2.4
+    1790:
+    - 0.77
+    - 1.75
+    2302:
+    - 0.19
+    - 1.81
+    1291:
+    - 1.81
+    - 5.4
+    1293:
+    - 1.88
+    - 2.88
+    2836:
+    - 3.69
+    - 2.59
+    1303:
+    - 0.38
+    - 1.84
+    798:
+    - 0.78
+    - 1.01
+    804:
+    - 0.27
+    - 2.19
+    1324:
+    - 2.31
+    - 0.92
+    814:
+    - 1.54
+    - 1.65
+    2351:
+    - 0.48
+    - 1.16
+    2870:
+    - 0.88
+    - 1.12
+    1338:
+    - 4.96
+    - 1.39
+    317:
+    - 0.25
+    - 1.48
+    1347:
+    - 0.87
+    - 1.68
+    1870:
+    - 0.57
+    - 1.52
+    1366:
+    - 0.7
+    - 1.95
+    2906:
+    - 0.3
+    - 2.15
+    2395:
+    - 0.57
+    - 2.02
+    861:
+    - 1.03
+    - 2.26
+    1894:
+    - 1.45
+    - 1.43
+    2929:
+    - 0.36
+    - 0.94
+    374:
+    - 0.14
+    - 0.92
+    1400:
+    - 0.85
+    - 2.45
+    2426:
+    - 3.45
+    - 1.15
+    383:
+    - 0.55
+    - 2.5
+    1409:
+    - 0.79
+    - 1.29
+    393:
+    - 3.17
+    - 1.38
+    906:
+    - 0.48
+    - 3.02
+    908:
+    - 0.8
+    - 1.53
+    2958:
+    - 0.31
+    - 2.12
+    2452:
+    - 1.01
+    - 0.62
+    411:
+    - 0.49
+    - 2.03
+    2973:
+    - 1.18
+    - 1.38
+    948:
+    - 0.39
+    - 1.22
+    437:
+    - 0.43
+    - 3.36
+    2488:
+    - 0.95
+    - 1.0
+    450:
+    - 0.48
+    - 1.76
+    463:
+    - 2.61
+    - 2.31
+    975:
+    - 3.73
+    - 3.94
+    473:
+    - 0.93
+    - 1.3
+    1500:
+    - 0.2
+    - 1.8
+    3037:
+    - 0.37
+    - 0.9
+    991:
+    - 0.67
+    - 1.24
+    3040:
+    - 0.61
+    - 2.37
+    3041:
+    - 7.38
+    - 3.24
+    2019:
+    - 4.57
+    - 4.54
+    2023:
+    - 2.37
+    - 4.33
+    1513:
+    - 1.15
+    - 2.17
+    3051:
+    - 0.49
+    - 1.65
+    2545:
+    - 3.07
+    - 4.95
+    1523:
+    - 0.72
+    - 1.18
+    501:
+    - 0.61
+    - 0.66
+    2557:
+    - 1.64
+    - 2.18

@@ -1,0 +1,59 @@
+id_dataset: 090
+short_name: Crolles
+id_subset: '001'
+status: ready for cleaning
+type_of_correction: .nan
+last_processing_date: 11 Nov 2025
+license: CC BY-NC-SA 4.0
+citation: Urruty, B. (2025). Base de données topographiques du système karstique de
+  la Dent de Crolles (38, France) [Creative Commons BY-NC-SA 4.0 dataset, Therion
+  project]. https://github.com/BenoitURRUTY/Topo_Dent_Crolles
+thanks: .nan
+sharing_conditions: .nan
+total_length: 40203
+total_depth: 604.4
+percentage_csdim: 94
+number_connected_components: 1
+number_nodes: 7809
+number_edges: 7924
+mean_degree: 2.2
+min_degree: 1.0
+max_degree: 8.0
+cv_degree: 0.474
+number_cycles: 116
+mean_length: 33.09
+cv_length: 1.29
+length_entropy: 0.28
+orientation_3d_entropy: 0.897
+aspl: 38.61
+cpd: 0.42
+correlation_vertex_degree: -0.256
+original_format: Therion
+comments_cave_info: .nan
+full_name: Système karstique de la Dent de Crolles
+geometry: .nan
+units: meter
+country: France
+state: .nan
+area: .nan
+locality: .nan
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+cave_url: .nan
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: '-'
+end_contract: '-'
+cave_survey_owner: .nan
+website: https://github.com/BenoitURRUTY/Topo_Dent_Crolles
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan
