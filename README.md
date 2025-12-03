@@ -25,8 +25,12 @@ We processed and cleaned cave survey data collected by cavers around the world. 
 
 
 ## Data folder architecture
+The datasets have been saved in two different main folder. Since some datasets are composed of multiple individual caves we decided to provide both, the clean complete dataset as we received it [(caves_fulldatasets)](https://github.com/ERC-Karst/KNdata-public/tree/main/caves_fulldatasets), and files for each cave larger than 500m [(caves_individual)](https://github.com/ERC-Karst/KNdata-public/tree/main/caves_individual).
 
-The clean cave network graph data is stored in the [data](https://github.com/ERC-Karst/KNdata-public/tree/main/data) folder, where ach subfolder is a network (ID_Cavename):
+### Full datasets
+The full datasets can contain one or multiple caves. Those caves have been grouped by the caves or caving club in charge of the mapping. Sometimes the caves are combined for practical reason (which has nothing to do with their potential connectivity), for example, Austrian caving club organize their data per map grid cell. Other times the caves are combined because they are suspected to be part of the same network and to eventually connect, as the exploration goes on.
+
+In both folders, the clean cave network graph data is stored in the data folder, where ach subfolder is a network (ID_Cavename):
 
 ```bash
 ID_Cavename
