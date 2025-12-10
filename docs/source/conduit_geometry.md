@@ -1,14 +1,14 @@
-## Cross-sectional dimension measurements and processing
+# Cross-sectional dimension measurements and processing
 
-### Type of dimension measurements:
+## Type of dimension measurements:
 
-#### LRUD (left, right, up, down)
+### LRUD (left, right, up, down)
 
 ![Left,Right,Up,Down description from Toporobot manuel (add citation)](assets/20240716_191947_lrud_toporobot.png)
 
 Figure: Left,Right,Up,Down description from Toporobot manuel (add citation)
 
-#### Splay shots
+### Splay shots
 
 <img src="assets/20240716_191545_splay_shot_example.png" alt="drawing" width="1000"/>
 
