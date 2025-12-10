@@ -148,11 +148,11 @@ Note: the `.S6`, `.csv`, or `.yaml` can be imported in python (usually as a Netw
 - [import sparse6](): 
 
 
----
-Appendix
----
 
-Node flags:
+# Appendix
+
+
+### Node flags:
 - `ent`: entrance, points where the cave intersect with the surface
 - `con` : continuation, cavers identified this last point of a survey session as potentially leading futher
 - `inl`: inlet, points with water input from a un-surveyed side passage (note: will be displayed in sketch)
@@ -169,12 +169,12 @@ Node flags:
 - `smp`: sump
 - `str`: position where a stream is present in the conduit
 
-Edge flags:
+### Edge flags:
 - `dpl`: duplicate
 - `srf`: surface
 - `art`: artificial
 
-## Cave list
+### Cave list:
 
  **id** | short name | total length [m]| total depth [m]| csdim [%]| n° CC | mean degree | country | license
 |---|---|---|---|---|---|---|---|---|
@@ -189,7 +189,7 @@ Edge flags:
 | **009** | Folly | 85481 | 1890.82 | 10 | 131 | 1.96 | France | CC BY-NC-SA 4.0 |
 | **010** | PlaninaPoljana | 25221 | 1144.61 | 89 | 96 | 1.93 | Slovenia | CC BY-NC-SA 4.0 |
 | **011** | BreznoNaToscu | 1870 | 581.27 | 90 | 1 | 1.95 | Slovenia | CC BY-NC-SA 4.0 |
-| **012** | Pokljuskega Grebena | 13364 | 762.25 | 77 | 3 | 2.07 | Slovenia | CC BY-NC-SA 4.0 |
+| **012** | PokljuskegaGrebena | 13364 | 762.25 | 77 | 3 | 2.07 | Slovenia | CC BY-NC-SA 4.0 |
 | **013** | BurringtonCombe | 5334 | 91.04 | 32 | 15 | 2.17 | UK | CC BY-NC-SA 4.0 |
 | **014** | CheddarCatchment | 27414 | 289.55 | 49 | 54 | 2.05 | UK | CC BY-NC-SA 4.0 |
 | **015** | CountyClare | 76613 | 292.5 | 13 | 51 | 2.03 | Ireland | CC BY-NC-SA 4.0 |
