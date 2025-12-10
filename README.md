@@ -256,10 +256,10 @@ Edge flags:
 | **092** | Flaine | 2216 | 906.0 | 29 | 8 | 1.88 | France | CC BY-NC-SA 4.0 |
 | **093** | Larra | 333773 | 2016.0 | 2 | 377 | 1.94 | France | CC BY-NC-SA 4.0 |
 | **095** | Kelmend | 3594 | 1459.6 | 17 | 16 | 1.79 | Albania |  |
-| **C001** | Poteu | 5517 | 323.42 | 99 | 1 | 2.25 | Switzerland | Private dataset - results only can be published |
-| **C002** | FeesVD | 36318 | 227.41 | 99 | 1 | 2.31 | Switzerland | Private dataset - results only can be published |
-| **C003** | FeesVS | 3561 | 253.81 | 100 | 1 | 2.18 | Switzerland | Private dataset - results only can be published |
-| **C004** | GrandCor | 4753 | 589.85 | 99 | 1 | 2.05 | Switzerland | Private dataset - results only can be published |
+| **C001** | Poteu | 5517 | 323.42 | 99 | 1 | 2.25 | Switzerland | Private dataset|
+| **C002** | FeesVD | 36318 | 227.41 | 99 | 1 | 2.31 | Switzerland | Proprietary dataset|
+| **C003** | FeesVS | 3561 | 253.81 | 100 | 1 | 2.18 | Switzerland | Proprietary dataset|
+| **C004** | GrandCor | 4753 | 589.85 | 99 | 1 | 2.05 | Switzerland | Proprietary dataset|
 | **C005** | Bouillon | 3794 | 24.7 | 0 | 1 | 2.15 | France | TBD |
 | **C006** | DiableRouge | 265 | 37.31 | 100 | 1 | 2.0 | France | TBD |
 | **C007** | Escargots | 681 | 73.81 | 90 | 2 | 2.11 | France | TBD |
@@ -276,49 +276,49 @@ Edge flags:
 | **C021** | Carbonniere | 2665 | 134.21 | 84 | 1 | 2.12 | France | TBD |
 | **C022** | RoyReineFou | 5032 | 334.38 | 83 | 10 | 2.0 | France | TBD |
 | **C027** | Shuanghe | 134751 | 767.0 | 95 | 43 | 2.0 | China | TBD |
-| **C028** | OxBelHa | 370057 | 61.57 | 0 | 1 | 2.46 | Mexico | Private dataset - results only can be published |
-| **C029** | Longirod | 5151 | 518.32 | 98 | 1 | 2.04 | Switzerland | Private dataset - results only can be published |
-| **C031** | Baerwies | 7459 | 361.02 | 1 | 1 | 2.11 | Austria | Private dataset - results only can be published |
-| **C032** | DachsteinMammutHoehle | 69878 | 1207.58 | 11 | 1 | 2.12 | Austria | Private dataset - results only can be published |
-| **C033** | Hirschgruben | 5919 | 201.02 | 31 | 1 | 2.09 | Austria | Private dataset - results only can be published |
-| **C034** | Steinbockschacht | 2876 | 1126.39 | 0 | 1 | 2.11 | Austria | Private dataset - results only can be published |
-| **C035** | TrockenesLoch | 4495 | 108.52 | 0 | 1 | 2.1 | Austria | Private dataset - results only can be published |
+| **C028** | OxBelHa | 370057 | 61.57 | 0 | 1 | 2.46 | Mexico | Proprietary dataset|
+| **C029** | Longirod | 5151 | 518.32 | 98 | 1 | 2.04 | Switzerland | Proprietary dataset|
+| **C031** | Baerwies | 7459 | 361.02 | 1 | 1 | 2.11 | Austria | Proprietary dataset|
+| **C032** | Dachstein MammutHoehle | 69878 | 1207.58 | 11 | 1 | 2.12 | Austria | Proprietary dataset|
+| **C033** | Hirschgruben | 5919 | 201.02 | 31 | 1 | 2.09 | Austria | Proprietary dataset|
+| **C034** | Steinbockschacht | 2876 | 1126.39 | 0 | 1 | 2.11 | Austria | Proprietary dataset|
+| **C035** | TrockenesLoch | 4495 | 108.52 | 0 | 1 | 2.1 | Austria | Proprietary dataset|
 | **C036** | Arphidia | 13528 | 635.19 | 96 | 2 | 2.22 | France | TBD |
-| **C037** | Vallorbe | 6759 | 128.28 | 90 | 5 | 2.19 | Switzerland | Private dataset - results only can be published |
-| **C038** | Covatannaz | 5159 | 104.17 | 98 | 2 | 2.09 | Switzerland | Private dataset - results only can be published |
-| **C039** | BlueSpringIndiana | 33628 | 14.92 | 0 | 1 | 2.25 | USA | Private dataset - results only can be published |
-| **C040** | BlueSpringTennessee | 50780 | 74.55 | 0 | 1 | 2.24 | USA | Private dataset - results only can be published |
-| **C042** | AgenAllwedd | 13651 | 122.62 | 0 | 1 | 2.05 | UK | Private dataset - results only can be published |
+| **C037** | Vallorbe | 6759 | 128.28 | 90 | 5 | 2.19 | Switzerland | Proprietary dataset|
+| **C038** | Covatannaz | 5159 | 104.17 | 98 | 2 | 2.09 | Switzerland | Proprietary dataset|
+| **C039** | BlueSpringIndiana | 33628 | 14.92 | 0 | 1 | 2.25 | USA | Proprietary dataset|
+| **C040** | BlueSpring Tennessee | 50780 | 74.55 | 0 | 1 | 2.24 | USA | Proprietary dataset|
+| **C042** | AgenAllwedd | 13651 | 122.62 | 0 | 1 | 2.05 | UK | Proprietary dataset|
 | **C045** | Ceberi | 7175 | 310.77 | 95 | 4 | 2.08 | France | TBD |
 | **C047** | Krubera | 13233 | 2191.0 | 0 | 1 | 2.06 | Georgia | TBD |
-| **C049** | EglwysFaen | 1340 | 18.65 | 0 | 1 | 2.06 | UK | Private dataset - results only can be published |
-| **C050** | DarenCilau | 19951 | 186.15 | 0 | 1 | 2.13 | UK | Private dataset - results only can be published |
+| **C049** | EglwysFaen | 1340 | 18.65 | 0 | 1 | 2.06 | UK | Proprietary dataset|
+| **C050** | DarenCilau | 19951 | 186.15 | 0 | 1 | 2.13 | UK | Proprietary dataset|
 | **C055** | Crevice | 4908 | 0.0 | 0 | 1 | 2.07 | USA | TBD |
 | **C056** | Crossroads | 7781 | 0.0 | 0 | 1 | 2.32 | USA | TBD |
-| **C058** | Jewel | 355242 | 223.83 | 88 | 515 | 2.0 | USA | Private dataset - results only can be published |
+| **C058** | Jewel | 355242 | 223.83 | 88 | 515 | 2.0 | USA | Proprietary dataset|
 | **C059** | Fulfords | 1645 | 79.78 | 0 | 3 | 2.28 | USA | CC BY-NC-SA 4.0 |
-| **C060** | Tonion | 16397 | 580.2 | 0 | 1 | 2.15 | Austria | Private dataset - results only can be published |
-| **C061** | Burgunder | 23503 | 560.71 | 62 | 1 | 2.1 | Austria | Private dataset - results only can be published |
-| **C063** | Wind | 271709 | 191.69 | 0 | 1 | 2.28 | USA | Private dataset - results only can be published |
-| **C064** | Lechugilla | 261889 | 484.91 | 79 | 1 | 2.44 | USA | Private dataset - results only can be published |
+| **C060** | Tonion | 16397 | 580.2 | 0 | 1 | 2.15 | Austria | Proprietary dataset|
+| **C061** | Burgunder | 23503 | 560.71 | 62 | 1 | 2.1 | Austria | Proprietary dataset|
+| **C063** | Wind | 271709 | 191.69 | 0 | 1 | 2.28 | USA | Proprietary dataset|
+| **C064** | Lechugilla | 261889 | 484.91 | 79 | 1 | 2.44 | USA | Proprietary dataset|
 | **C068** | CuevaGuerta | 24011 | 289.52 | 91 | 1 | 2.22 | Spain | TBD |
-| **C069** | HohlaubA1A3 | 1681 | 280.11 | 98 | 1 | 2.1 | Switzerland | Private dataset - results only can be published |
-| **C070** | HohlaubG3 | 1405 | 219.35 | 99 | 1 | 2.04 | Switzerland | Private dataset - results only can be published |
-| **C071** | SacActun | 356871 | 162.82 | 0 | 26 | 2.04 | Mexico | Private dataset - results only can be published |
-| **C072** | Duerrenstein32 | 5196 | 472.99 | 0 | 1 | 2.1 | Austria | Private dataset - results only can be published |
-| **C073** | Duerrenstein211 | 1289 | 248.7 | 0 | 1 | 2.08 | Austria | Private dataset - results only can be published |
-| **C074** | Duerrenstein273 | 1271 | 133.42 | 0 | 1 | 2.12 | Austria | Private dataset - results only can be published |
-| **C075** | FoussoubieEvent | 2624 | 29.86 | 97 | 1 | 2.08 | France | Confidential - not to be published |
-| **C076** | FoussoubieGoule | 20379 | 40.79 | 98 | 1 | 2.29 | France | Confidential - not to be published |
+| **C069** | HohlaubA1A3 | 1681 | 280.11 | 98 | 1 | 2.1 | Switzerland | Proprietary dataset|
+| **C070** | HohlaubG3 | 1405 | 219.35 | 99 | 1 | 2.04 | Switzerland | Proprietary dataset|
+| **C071** | SacActun | 356871 | 162.82 | 0 | 26 | 2.04 | Mexico | Proprietary dataset|
+| **C072** | Duerrenstein32 | 5196 | 472.99 | 0 | 1 | 2.1 | Austria | Proprietary dataset|
+| **C073** | Duerrenstein211 | 1289 | 248.7 | 0 | 1 | 2.08 | Austria | Proprietary dataset|
+| **C074** | Duerrenstein273 | 1271 | 133.42 | 0 | 1 | 2.12 | Austria | Proprietary dataset|
+| **C075** | FoussoubieEvent | 2624 | 29.86 | 97 | 1 | 2.08 | France | Proprietary dataset |
+| **C076** | FoussoubieGoule | 20379 | 40.79 | 98 | 1 | 2.29 | France | Proprietary dataset |
 | **C077** | Kanine | 125743 | 1965.64 | 45 | 71 | 1.98 | Slovenia | CC BY-NC-SA 4.0 |
-| **S001** | AguaAzul | 1821 | 43.91 | 0 | 1 | 2.0 | Brazil | Confidential - not to be published |
-| **S002** | Caieira | 3004 | 43.32 | 0 | 1 | 2.14 | Brazil | Confidential - not to be published |
-| **S003** | CanalDaFumacinha | 811 | 28.45 | 0 | 1 | 2.44 | Brazil | Confidential - not to be published |
-| **S004** | Esconcio | 3117 | 66.47 | 0 | 1 | 2.2 | Brazil | Confidential - not to be published |
-| **S005** | GrutaAzul | 1654 | 16.72 | 0 | 1 | 2.3 | Brazil | Confidential - not to be published |
-| **S006** | Impossivel | 8806 | 51.73 | 0 | 2 | 2.13 | Brazil | Confidential - not to be published |
-| **S007** | LapaDoce | 25888 | 70.91 | 0 | 1 | 2.43 | Brazil | Confidential - not to be published |
-| **S008** | Torrinha | 14195 | 64.46 | 0 | 1 | 2.33 | Brazil | Confidential - not to be published |
+| **S001** | AguaAzul | 1821 | 43.91 | 0 | 1 | 2.0 | Brazil | Proprietary dataset |
+| **S002** | Caieira | 3004 | 43.32 | 0 | 1 | 2.14 | Brazil | Proprietary dataset |
+| **S003** | CanalDaFumacinha | 811 | 28.45 | 0 | 1 | 2.44 | Brazil | Proprietary dataset |
+| **S004** | Esconcio | 3117 | 66.47 | 0 | 1 | 2.2 | Brazil | Proprietary dataset |
+| **S005** | GrutaAzul | 1654 | 16.72 | 0 | 1 | 2.3 | Brazil | Proprietary dataset |
+| **S006** | Impossivel | 8806 | 51.73 | 0 | 2 | 2.13 | Brazil | Proprietary dataset |
+| **S007** | LapaDoce | 25888 | 70.91 | 0 | 1 | 2.43 | Brazil | Proprietary dataset |
+| **S008** | Torrinha | 14195 | 64.46 | 0 | 1 | 2.33 | Brazil | Proprietary dataset |
 | **S010** | Aspirateur | 1905 | 106.47 | 98 | 1 | 2.03 | France | TBD |
 | **S012** | Bret | 1222 | 90.67 | 94 | 1 | 2.23 | France | TBD |
 | **S013** | Everest | 531 | 75.76 | 96 | 1 | 2.0 | France | TBD |
