@@ -176,157 +176,152 @@ Edge flags:
 
 ## Cave list
 
- **id dataset** | short name | total length [m]| total depth [m]| percentage csdim [%]| number of connected components | average degree | country | latitude | longitude | altitude 
----|---|---|---|---|---|---|---|---|---|---
- **001** | GouffreDejaVu | 150 | 32.16 | 100 | 1 | 1.5 | Chile | -50.0861 | -75.1594 | 280 
- **002** | Migovec | 46317 | 968.62 | 13 | 1 | 2.09 | Slovenia | 46.25198 | 13.76394 | 1854 
- **003** | Criou | 31680 | 1669.43 | 28 | 20 | 2.02 | France | 46.0889 | 6.7705 | 1880 
- **004** | Matienzo | 378972 | 843.0 | 1 | 583 | 1.97 | Spain | 43.3067 | -3.6315 | 293 
- **005** | Sakany | 6846 | 140.71 | 94 | 12 | 2.19 | France | 42.8359 | 1.5959 | 138 
- **006** | ReveEveille | 330 | 124.5 | 98 | 1 | 1.5 | Chile | -50.0657 | -75.1592 | 145 
- **007** | Tsanfleuron | 9124 | 667.71 | 99 | 29 | 1.82 | Switzerland | 46.3149 | 7.2739 | 2290 
- **008** | UltimaPatagonia | 38755 | 693.51 | 16 | 101 | 1.92 | Chile | -50.2946 | -75.2895 | 141 
- **009** | Folly | 85481 | 1890.82 | 10 | 131 | 1.96 | France | 46.1022 | 6.7796 | 1836 
- **010** | PlaninaPoljana | 25221 | 1144.61 | 89 | 96 | 1.93 | Slovenia | 46.1451 | 13.5248 | 1256 
- **011** | BreznoNaToscu | 1870 | 581.27 | 90 | 1 | 1.95 | Slovenia | 46.34939 | 13.8619 | 1988 
- **012** | PokljuskegaGrebena | 13364 | 762.25 | 77 | 3 | 2.07 | Slovenia | 46.36131 | 13.90389 | 1,853 
- **013** | BurringtonCombe | 5334 | 91.04 | 32 | 15 | 2.17 | UK | 51.3244 | -2.7531 | 99 
- **014** | CheddarCatchment | 27414 | 289.55 | 49 | 54 | 2.05 | UK | 51.2814 | -2.7642 |  
- **015** | CountyClare | 76613 | 292.5 | 13 | 51 | 2.03 | Ireland | 53.0571 | -9.3057 | 172 
- **016** | CountyMayo | 3792 | 73.3 | 61 | 9 | 2.09 | Ireland | 53.5368 | -9.3385 | 35 
- **017** | LittleNeathRiver | 8633 | 122.43 | 0 | 2 | 2.24 | UK | 51.8111 | -3.5811 | 304 
- **018** | Lathkill | 5099 | 156.0 | 0 | 7 | 1.94 | UK | 53.1904 | -1.7512 | 216.55 
- **019** | Loser | 356868 | 1238.01 | 4 | 259 | 2.17 | Austria | 47.7015 | 13.7723 |  
- **020** | Vanoise | 2592 | 438.06 | 84 | 11 | 2.05 | France | 45.3748 | 6.768 |  
- **021** | Glacier | 4411 | 230.47 | 100 | 1 | 2.38 | Switzerland | 46.43818 | 6.9883 | 1802 
- **022** | CombeBryon | 4198 | 644.16 | 99 | 1 | 2.27 | Switzerland | 46.3719 | 7.022 | 1711 
- **023** | Charbonniere | 116 | 23.72 | 100 | 1 | 1.5 | Switzerland | 47.2349 | 7.2127 | 525 
- **024** | Lajoux | 1305 | 220.16 | 95 | 1 | 1.97 | Switzerland | 47.2844 | 7.1492 | 971 
- **026** | PuitsWilly | 110 | 73.51 | 96 | 1 | 1.5 | Switzerland | 47.2773 | 7.1534 | 975 
- **027** | CreuxDEntier | 1397 | 151.84 | 100 | 1 | 2.15 | Switzerland | 47.2794 | 7.185 | 935 
- **028** | NarinesBoeuf | 700 | 116.72 | 97 | 1 | 2.06 | Switzerland | 47.2499 | 7.1739 | 954 
- **029** | RougeEau | 655 | 131.06 | 98 | 1 | 1.94 | Switzerland | 47.2516 | 7.1838 | 137 
- **031** | DYO | 16385 | 123.46 | 0 | 1 | 2.02 | UK | 51.830165 | -3.686333 | 225 
- **032** | FermanagAndCavan | 1231 | 65.09 | 83 | 1 | 2.06 | Ireland | 54.2083 | -7.7482 | 300 
- **033** | WestKingsdale | 12698 | 166.08 | 1 | 13 | 2.04 | UK | 54.1839 | -2.4675 | 252.81 
- **035** | EastKingsdale | 1035 | 131.24 | 0 | 2 | 1.91 | UK | 54.1811 | -2.46114 | 292 
- **036** | ShkembejtJames | 2808 | 532.54 | 0 | 7 | 1.52 | Albania | 42.504 | 19.7439 | 1810 
- **037** | FountainsFell | 8039 | 198.18 | 0 | 8 | 2.01 | UK | 54.137652 | -2.234087 |  
- **038** | Ingleborough | 7789 | 226.35 | 10 | 12 | 1.86 | UK | 54.146915 | -2.41319 | 415 
- **039** | DunaldMill | 260 | 24.0 | 0 | 1 | 1.78 | UK | 54.1021 | -2.7417 | 86 
- **040** | Nidderdale | 5173 | 90.54 | 80 | 6 | 2.14 | UK | 54.1807 | -1.8486 | 237 
- **041** | ThreeCounties | 90323 | 251.22 | 0 | 39 | 2.12 | UK | 54.23107 | -2.51775 | 330.92 
- **042** | DowProv | 2621 | 75.14 | 0 | 1 | 2.0 | UK | 54.1645 | -2.027533 | 400 
- **043** | HaggBeck | 3222 | 108.84 | 0 | 5 | 2.0 | UK | 54.2094 | -2.1643 | 350 
- **047** | Seefeldhoele | 2240 | 35.71 | 100 | 1 | 2.78 | Switzerland | 46.7573 | 7.8339 | 1792 
- **048** | Banquier | 12838 | 196.36 | 17 | 1 | 2.17 | France | 43.7831 | 3.3933 | 460 
- **049** | Cochon | 4286 | 178.49 | 0 | 1 | 2.06 | France | 43.8024 | 3.4196 | 647 
- **050** | Andara | 64773 | 1826.22 | 33 | 83 | 1.99 | Spain | 43.2161538 | -4.7242563 | 1785 
- **054** | Koytendag | 19527 | 1194.9 | 82 | 20 | 2.14 | Turkmenistan | 37.9454 | 66.6539 | 1300 
- **055** | Tatra | 5476 | 330.37 | 18 | 5 | 1.95 | Poland | 49.2399 | 19.9016 | 1589.7 
- **056** | ClydachGorge | 3197 | 153.04 | 0 | 3 | 1.86 | UK | 51.8065 | -3.1377 | 219 
- **058** | Cavernicole | 2654 | 356.2 | 89 | 1 | 2.06 | France | 45.3837 | 5.8866 | 1625 
- **059** | FontaineNoire | 827 | 62.73 | 55 | 2 | 2.12 | France | 45.3296 | 5.85652 | 1173 
- **060** | ClotAspres | 38258 | 1134.58 | 5 | 15 | 2.07 | France | 45.0265 | 5.5752 | 2017 
- **061** | Moucherotte | 10016 | 843.29 | 0 | 14 | 2.06 | France | 45.1465558 | 5.617285 | 1420 
- **062** | Sornin | 46877 | 1337.32 | 32 | 12 | 2.13 | France | 45.219228 | 5.60482 | 1460 
- **063** | Perthuis | 2264 | 368.34 | 19 | 4 | 1.93 | France |  |  |  
- **066** | Blau | 1336 | 106.93 | 0 | 1 | 1.92 | France | 42.8781 | 2.0421 | 710 
- **067** | Bailleurs | 2138 | 120.47 | 0 | 1 | 2.01 | France | 42.7405 | 2.241 | 750 
- **068** | Mandra | 844 | 94.49 | 0 | 1 | 2.0 | France | 42.9095 | 2.3893 | 625 
- **069** | Argent | 527 | 23.97 | 0 | 1 | 2.0 | France | 43.1359 | 3.0871 | 90 
- **070** | Cheminee | 6364 | 395.14 | 0 | 1 | 2.13 | France | 44.2739 | 3.2764 | 935 
- **071** | Carcabon | 12957 | 212.96 | 79 | 1 | 1.99 | Spain |  |  |  
- **073** | Serreno | 4777 | 179.8 | 5 | 1 | 2.08 | Spain |  |  |  
- **074** | Yeux | 1312 | 263.75 | 30 | 1 | 1.97 | Spain |  |  |  
- **075** | TorcaAitken | 9031 | 271.44 | 0 | 1 | 2.04 | Spain |  |  |  
- **076** | CuevaCarrera | 8490 | 143.75 | 15 | 1 | 2.06 | Spain |  |  |  
- **077** | Pasillo | 5462 | 276.16 | 4 | 1 | 2.04 | Spain |  |  |  
- **079** | CuevaPollita | 2461 | 87.18 | 78 | 1 | 2.13 | Spain |  |  |  
- **080** | Lastrias | 1756 | 144.26 | 74 | 1 | 1.9 | Spain |  |  |  
- **082** | CuevaTonia | 2112 | 170.14 | 84 | 1 | 1.94 | Spain |  |  |  
- **083** | Cubillo | 6536 | 141.31 | 3 | 1 | 2.02 | Spain |  |  |  
- **084** | CuevaHelguera | 2650 | 173.81 | 19 | 1 | 2.0 | Spain |  |  |  
- **085** | Requiem | 2524 | 331.25 | 0 | 1 | 1.89 | Spain |  |  |  
- **087** | CoumeBere | 1734 | 473.34 | 75 | 1 | 1.94 | France |  |  |  
- **088** | PerteYerse | 1640 | 399.27 | 14 | 1 | 1.95 | France |  |  |  
- **089** | Queou | 4769 | 457.65 | 41 | 1 | 2.04 | France |  |  |  
- **090** | Crolles | 45539 | 693.92 | 92 | 26 | 2.13 | France |  |  |  
- **091** | Som | 3343 | 937.0 | 91 | 7 | 1.87 | France |  |  |  
- **092** | Flaine | 2216 | 906.0 | 29 | 8 | 1.88 | France |  |  |  
- **093** | Larra | 333773 | 2016.0 | 2 | 377 | 1.94 | France |  |  |  
- **095** | Kelmend | 3594 | 1459.6 | 17 | 16 | 1.79 | Albania |  |  |  
- **C001** | Poteu | 5517 | 323.42 | 99 | 1 | 2.25 | Switzerland | 46.1712 | 7.1735 | 600 
- **C002** | FeesVD | 36318 | 227.41 | 99 | 1 | 2.31 | Switzerland | 46.6996 | 6.3407 | 866.86 
- **C003** | FeesVS | 3561 | 253.81 | 100 | 1 | 2.18 | Switzerland | 46.2233 | 7.0012 | 497 
- **C004** | GrandCor | 4753 | 589.85 | 99 | 1 | 2.05 | Switzerland | 46.1926 | 7.0841 | 2660 
- **C005** | Bouillon | 3794 | 24.7 | 0 | 1 | 2.15 | France | 47.8504 | 1.9375 | 0 
- **C006** | DiableRouge | 265 | 37.31 | 100 | 1 | 2.0 | France | 43.0363 | 0.2191 | 580 
- **C007** | Escargots | 681 | 73.81 | 90 | 2 | 2.11 | France | 42.9611 | 0.3999 | 810 
- **C009** | Espelugues | 237 | 16.82 | 97 | 1 | 2.0 | France | 43.0959 | -0.0607 | 420 
- **C010** | Sarrazins | 687 | 31.41 | 96 | 2 | 1.93 | France | 43.0921 | -0.0489 | 420 
- **C012** | Labastide | 1507 | 87.39 | 97 | 1 | 2.21 | France | 43.0332 | 0.3462 | 530 
- **C013** | Monachou | 673 | 32.64 | 94 | 1 | 2.2 | France | 42.9286 | 0.3673 | 700 
- **C014** | Bedat | 1633 | 103.15 | 96 | 1 | 2.14 | France | 43.0584 | 0.1409 |  
- **C015** | Cardal | 884 | 71.5 | 95 | 1 | 2.29 | France | 42.735 | 0.0998 | 2130 
- **C016** | Loup | 560 | 64.51 | 95 | 2 | 1.76 | France | 43.0961 | -0.0678 | 400 
- **C017** | PicDuJer | 613 | 67.74 | 95 | 1 | 2.07 | France | 43.0784 | -0.0319 | 909.4 
- **C018** | Tunnel | 920 | 31.29 | 98 | 1 | 2.15 | France | 42.9516 | 0.3777 | 645 
- **C019** | Maraichers | 72 | 14.87 | 93 | 1 | 1.5 | France | 43.0826 | -0.0528 | 410 
- **C021** | Carbonniere | 2665 | 134.21 | 84 | 1 | 2.12 | France | 42.827 | 1.6242 |  
- **C022** | RoyReineFou | 5032 | 334.38 | 83 | 10 | 2.0 | France | 43.0939 | -0.0765 | 420 
- **C027** | Shuanghe | 134751 | 767.0 | 95 | 43 | 2.0 | China | 28.242 | 107.276 | 700 
- **C028** | OxBelHa | 370057 | 61.57 | 0 | 1 | 2.46 | Mexico | 20.1601 | -87.488 |  
- **C029** | Longirod | 5151 | 518.32 | 98 | 1 | 2.04 | Switzerland | 46.5297 | 6.2307 | 1350 
- **C031** | Baerwies | 7459 | 361.02 | 1 | 1 | 2.11 | Austria | 47.6877 | 15.1144 | 1265 
- **C032** | DachsteinMammutHoehle | 69878 | 1207.58 | 11 | 1 | 2.12 | Austria | 47.5353 | 13.7097 |  
- **C033** | Hirschgruben | 5919 | 201.02 | 31 | 1 | 2.09 | Austria | 47.6071 | 15.0953 |  
- **C034** | Steinbockschacht | 2876 | 1126.39 | 0 | 1 | 2.11 | Austria | 47.609 | 15.1137 | 2022 
- **C035** | TrockenesLoch | 4495 | 108.52 | 0 | 1 | 2.1 | Austria | 47.9114 | 15.3743 | 764 
- **C036** | Arphidia | 13528 | 635.19 | 96 | 2 | 2.22 | France | 42.9792 | -0.7961 | 1050 
- **C037** | Vallorbe | 6759 | 128.28 | 90 | 5 | 2.19 | Switzerland | 46.6981 | 6.3458 | 783 
- **C038** | Covatannaz | 5159 | 104.17 | 98 | 2 | 2.09 | Switzerland | 46.8141 | 6.5349 | 730 
- **C039** | BlueSpringIndiana | 33628 | 14.92 | 0 | 1 | 2.25 | USA | 38.8038 | -86.5666 |  
- **C040** | BlueSpringTennessee | 50780 | 74.55 | 0 | 1 | 2.24 | USA | 35.9574 | -85.383 |  
- **C042** | AgenAllwedd | 13651 | 122.62 | 0 | 1 | 2.05 | UK | 51.83548 | -3.18023 | 364 
- **C045** | Ceberi | 7175 | 310.77 | 95 | 4 | 2.08 | France | 43.1017 | -0.18448 | 345 
- **C047** | Krubera | 13233 | 2191.0 | 0 | 1 | 2.06 | Georgia |  |  |  
- **C049** | EglwysFaen | 1340 | 18.65 | 0 | 1 | 2.06 | UK | 51.83383 | -3.17311 | 361 
- **C050** | DarenCilau | 19951 | 186.15 | 0 | 1 | 2.13 | UK | 51.83065 | -3.15478 | 409 
- **C055** | Crevice | 4908 | 0.0 | 0 | 1 | 2.07 | USA |  |  |  
- **C056** | Crossroads | 7781 | 0.0 | 0 | 1 | 2.32 | USA |  |  |  
- **C058** | Jewel | 355242 | 223.83 | 88 | 515 | 2.0 | USA | 43.729444 | -103.829444 | 1650 
- **C059** | Fulfords | 1645 | 79.78 | 0 | 3 | 2.28 | USA | 39.4946 | -106.6539 | 3054 
- **C060** | Tonion | 16397 | 580.2 | 0 | 1 | 2.15 | Austria | 47.7025 | 15.4001 | 1488.58224 
- **C061** | Burgunder | 23503 | 560.71 | 62 | 1 | 2.1 | Austria | 47.6083 | 14.0314 | 1831.56 
- **C063** | Wind | 271709 | 191.69 | 0 | 1 | 2.28 | USA | 43.5667 | -103.4833 |  
- **C064** | Lechugilla | 261889 | 484.91 | 79 | 1 | 2.44 | USA | 32.190556 | -104.503056 | 1414 
- **C068** | CuevaGuerta | 24011 | 289.52 | 91 | 1 | 2.22 | Spain | 43.1239 | -6.0588 |  
- **C069** | HohlaubA1A3 | 1681 | 280.11 | 98 | 1 | 2.1 | Switzerland | 46.7806 | 7.9131 | 1685 
- **C070** | HohlaubG3 | 1405 | 219.35 | 99 | 1 | 2.04 | Switzerland | 46.7932 | 7.9369 | 1648 
- **C071** | SacActun | 356871 | 162.82 | 0 | 26 | 2.04 | Mexico | 20.2464 | -87.4642 |  
- **C072** | Duerrenstein32 | 5196 | 472.99 | 0 | 1 | 2.1 | Austria | 47.8199 | 15.0661 | 1375 
- **C073** | Duerrenstein211 | 1289 | 248.7 | 0 | 1 | 2.08 | Austria | 47.7832 | 15.0584 | 1615 
- **C074** | Duerrenstein273 | 1271 | 133.42 | 0 | 1 | 2.12 | Austria | 47.8221 | 15.0717 | 1070 
- **C075** | FoussoubieEvent | 2624 | 29.86 | 97 | 1 | 2.08 | France | 44.382 | 4.4065 | 88 
- **C076** | FoussoubieGoule | 20379 | 40.79 | 98 | 1 | 2.29 | France | 44.3572 | 4.3812 | 197 
- **C077** | Kanine | 125743 | 1965.64 | 45 | 71 | 1.98 | Slovenia |  |  |  
- **S001** | AguaAzul | 1821 | 43.91 | 0 | 1 | 2.0 | Brazil |  |  |  
- **S002** | Caieira | 3004 | 43.32 | 0 | 1 | 2.14 | Brazil | -12.3338 | -41.6046 |  
- **S003** | CanalDaFumacinha | 811 | 28.45 | 0 | 1 | 2.44 | Brazil | -12.8931 | -41.3236 |  
- **S004** | Esconcio | 3117 | 66.47 | 0 | 1 | 2.2 | Brazil |  |  |  
- **S005** | GrutaAzul | 1654 | 16.72 | 0 | 1 | 2.3 | Brazil | -12.3506 | -41.5429 |  
- **S006** | Impossivel | 8806 | 51.73 | 0 | 2 | 2.13 | Brazil | -12.3932 | -41.554 |  
- **S007** | LapaDoce | 25888 | 70.91 | 0 | 1 | 2.43 | Brazil | -12.3338 | -41.6046 |  
- **S008** | Torrinha | 14195 | 64.46 | 0 | 1 | 2.33 | Brazil | -12.3495 | -41.6038 |  
- **S010** | Aspirateur | 1905 | 106.47 | 98 | 1 | 2.03 | France | 44.2576 | 4.4088 | 217 
- **S012** | Bret | 1222 | 90.67 | 94 | 1 | 2.23 | France | 44.2554 | 4.4136 | 204 
- **S013** | Everest | 531 | 75.76 | 96 | 1 | 2.0 | France | 44.2571 | 4.4083 | 226 
- **S014** | Malaval | 12228 | 228.41 | 96 | 1 | 2.14 | France | 44.4057 | 3.6055 | 993 
- **S015** | Souchon | 569 | 77.95 | 95 | 1 | 1.94 | France | 44.2595 | 4.4055 | 221 
- **S016** | Wakulla | 18170 | 92.0 | 100 | 1 | 2.14 | USA | 30.23333 | -84.305 | 4 
-
-
-
-
-
+ **id dataset** | short name | total length [m]| total depth [m]| csdim [%]| n° CC | mean degree | country | license
+|---|---|---|---|---|---|---|---|---|
+| **001** | GouffreDejaVu | 150 | 32.16 | 100 | 1 | 1.5 | Chile | CC BY-NC-SA 4.0 |
+| **002** | Migovec | 46317 | 968.62 | 13 | 1 | 2.09 | Slovenia | CC BY-NC-SA 4.0 |
+| **003** | Criou | 31680 | 1669.43 | 28 | 20 | 2.02 | France | CC BY-NC-SA 4.0 |
+| **004** | Matienzo | 378972 | 843.0 | 1 | 583 | 1.97 | Spain | CC BY-NC-SA 4.0 |
+| **005** | Sakany | 6846 | 140.71 | 94 | 12 | 2.19 | France | CC BY-NC-SA 4.0 |
+| **006** | ReveEveille | 330 | 124.5 | 98 | 1 | 1.5 | Chile | CC BY-NC-SA 4.0 |
+| **007** | Tsanfleuron | 9124 | 667.71 | 99 | 29 | 1.82 | Switzerland | CC BY-NC-SA 4.0 |
+| **008** | UltimaPatagonia | 38755 | 693.51 | 16 | 101 | 1.92 | Chile | CC BY-NC-SA 4.0 |
+| **009** | Folly | 85481 | 1890.82 | 10 | 131 | 1.96 | France | CC BY-NC-SA 4.0 |
+| **010** | PlaninaPoljana | 25221 | 1144.61 | 89 | 96 | 1.93 | Slovenia | CC BY-NC-SA 4.0 |
+| **011** | BreznoNaToscu | 1870 | 581.27 | 90 | 1 | 1.95 | Slovenia | CC BY-NC-SA 4.0 |
+| **012** | PokljuskegaGrebena | 13364 | 762.25 | 77 | 3 | 2.07 | Slovenia | CC BY-NC-SA 4.0 |
+| **013** | BurringtonCombe | 5334 | 91.04 | 32 | 15 | 2.17 | UK | CC BY-NC-SA 4.0 |
+| **014** | CheddarCatchment | 27414 | 289.55 | 49 | 54 | 2.05 | UK | CC BY-NC-SA 4.0 |
+| **015** | CountyClare | 76613 | 292.5 | 13 | 51 | 2.03 | Ireland | CC BY-NC-SA 4.0 |
+| **016** | CountyMayo | 3792 | 73.3 | 61 | 9 | 2.09 | Ireland | CC BY-NC-SA 4.0 |
+| **017** | LittleNeathRiver | 8633 | 122.43 | 0 | 2 | 2.24 | UK | CC BY-NC-SA 4.0 |
+| **018** | Lathkill | 5099 | 156.0 | 0 | 7 | 1.94 | UK | CC BY-NC-SA 4.0 |
+| **019** | Loser | 356868 | 1238.01 | 4 | 259 | 2.17 | Austria | TBD |
+| **020** | Vanoise | 2592 | 438.06 | 84 | 11 | 2.05 | France | CC BY-NC-SA 4.0 |
+| **021** | Glacier | 4411 | 230.47 | 100 | 1 | 2.38 | Switzerland | CC BY-NC-SA 4.0 |
+| **022** | CombeBryon | 4198 | 644.16 | 99 | 1 | 2.27 | Switzerland | CC BY-NC-SA 4.0 |
+| **023** | Charbonniere | 116 | 23.72 | 100 | 1 | 1.5 | Switzerland | CC BY-NC-SA 4.0 |
+| **024** | Lajoux | 1305 | 220.16 | 95 | 1 | 1.97 | Switzerland | CC BY-NC-SA 4.0 |
+| **026** | PuitsWilly | 110 | 73.51 | 96 | 1 | 1.5 | Switzerland | CC BY-NC-SA 4.0 |
+| **027** | CreuxDEntier | 1397 | 151.84 | 100 | 1 | 2.15 | Switzerland | CC BY-NC-SA 4.0 |
+| **028** | NarinesBoeuf | 700 | 116.72 | 97 | 1 | 2.06 | Switzerland | CC BY-NC-SA 4.0 |
+| **029** | RougeEau | 655 | 131.06 | 98 | 1 | 1.94 | Switzerland | CC BY-NC-SA 4.0 |
+| **031** | DYO | 16385 | 123.46 | 0 | 1 | 2.02 | UK | CC BY-NC-SA 4.0 |
+| **032** | FermanagAndCavan | 1231 | 65.09 | 83 | 1 | 2.06 | Ireland | TBD |
+| **033** | WestKingsdale | 12698 | 166.08 | 1 | 13 | 2.04 | UK | CC BY-NC-SA 4.0 |
+| **035** | EastKingsdale | 1035 | 131.24 | 0 | 2 | 1.91 | UK | CC BY-NC-SA 4.0 |
+| **036** | ShkembejtJames | 2808 | 532.54 | 0 | 7 | 1.52 | Albania | TBD |
+| **037** | FountainsFell | 8039 | 198.18 | 0 | 8 | 2.01 | UK | CC BY-NC-SA 4.0 |
+| **038** | Ingleborough | 7789 | 226.35 | 10 | 12 | 1.86 | UK | CC BY-NC-SA 4.0 |
+| **039** | DunaldMill | 260 | 24.0 | 0 | 1 | 1.78 | UK | CC BY-NC-SA 4.0 |
+| **040** | Nidderdale | 5173 | 90.54 | 80 | 6 | 2.14 | UK | CC BY-NC-SA 4.0 |
+| **041** | ThreeCounties | 90323 | 251.22 | 0 | 39 | 2.12 | UK | CC BY-NC-SA 4.0 |
+| **042** | DowProv | 2621 | 75.14 | 0 | 1 | 2.0 | UK | CC BY-NC-SA 4.0 |
+| **043** | HaggBeck | 3222 | 108.84 | 0 | 5 | 2.0 | UK | CC BY-NC-SA 4.0 |
+| **047** | Seefeldhoele | 2240 | 35.71 | 100 | 1 | 2.78 | Switzerland | CC BY-NC-SA 4.0 |
+| **048** | Banquier | 12838 | 196.36 | 17 | 1 | 2.17 | France | CC BY-NC-SA 4.0 |
+| **049** | Cochon | 4286 | 178.49 | 0 | 1 | 2.06 | France | CC BY-NC-SA 4.0 |
+| **050** | Andara | 64773 | 1826.22 | 33 | 83 | 1.99 | Spain | CC BY-NC-SA 4.0 |
+| **054** | Koytendag | 19527 | 1194.9 | 82 | 20 | 2.14 | Turkmenistan | CC BY-NC-SA 4.0 |
+| **055** | Tatra | 5476 | 330.37 | 18 | 5 | 1.95 | Poland | CC BY-NC-SA 4.0 |
+| **056** | ClydachGorge | 3197 | 153.04 | 0 | 3 | 1.86 | UK | CC BY-NC-SA 4.0 |
+| **058** | Cavernicole | 2654 | 356.2 | 89 | 1 | 2.06 | France | CC BY-NC-SA 4.0 |
+| **059** | FontaineNoire | 827 | 62.73 | 55 | 2 | 2.12 | France | CC BY-NC-SA 4.0 |
+| **060** | ClotAspres | 38258 | 1134.58 | 5 | 15 | 2.07 | France | CC BY-NC-SA 4.0 |
+| **061** | Moucherotte | 10016 | 843.29 | 0 | 14 | 2.06 | France | CC BY-NC-SA 4.0 |
+| **062** | Sornin | 46877 | 1337.32 | 32 | 12 | 2.13 | France | CC BY-NC-SA 4.0 |
+| **063** | Perthuis | 2264 | 368.34 | 19 | 4 | 1.93 | France | CC BY-NC-SA 4.0 |
+| **066** | Blau | 1336 | 106.93 | 0 | 1 | 1.92 | France | CC BY-NC-SA 4.0 |
+| **067** | Bailleurs | 2138 | 120.47 | 0 | 1 | 2.01 | France | CC BY-NC-SA 4.0 |
+| **068** | Mandra | 844 | 94.49 | 0 | 1 | 2.0 | France | CC BY-NC-SA 4.0 |
+| **069** | Argent | 527 | 23.97 | 0 | 1 | 2.0 | France | CC BY-NC |
+| **070** | Cheminee | 6364 | 395.14 | 0 | 1 | 2.13 | France | CC BY-NC-SA 4.0 |
+| **071** | Carcabon | 12957 | 212.96 | 79 | 1 | 1.99 | Spain |  |
+| **073** | Serreno | 4777 | 179.8 | 5 | 1 | 2.08 | Spain |  |
+| **074** | Yeux | 1312 | 263.75 | 30 | 1 | 1.97 | Spain |  |
+| **075** | TorcaAitken | 9031 | 271.44 | 0 | 1 | 2.04 | Spain |  |
+| **076** | CuevaCarrera | 8490 | 143.75 | 15 | 1 | 2.06 | Spain |  |
+| **077** | Pasillo | 5462 | 276.16 | 4 | 1 | 2.04 | Spain |  |
+| **079** | CuevaPollita | 2461 | 87.18 | 78 | 1 | 2.13 | Spain |  |
+| **080** | Lastrias | 1756 | 144.26 | 74 | 1 | 1.9 | Spain |  |
+| **082** | CuevaTonia | 2112 | 170.14 | 84 | 1 | 1.94 | Spain |  |
+| **083** | Cubillo | 6536 | 141.31 | 3 | 1 | 2.02 | Spain |  |
+| **084** | CuevaHelguera | 2650 | 173.81 | 19 | 1 | 2.0 | Spain |  |
+| **085** | Requiem | 2524 | 331.25 | 0 | 1 | 1.89 | Spain |  |
+| **087** | CoumeBere | 1734 | 473.34 | 75 | 1 | 1.94 | France |  |
+| **088** | PerteYerse | 1640 | 399.27 | 14 | 1 | 1.95 | France |  |
+| **089** | Queou | 4769 | 457.65 | 41 | 1 | 2.04 | France |  |
+| **090** | Crolles | 45539 | 693.92 | 92 | 26 | 2.13 | France | CC BY-NC-SA 4.0 |
+| **091** | Som | 3343 | 937.0 | 91 | 7 | 1.87 | France | CC BY-NC-SA 4.0 |
+| **092** | Flaine | 2216 | 906.0 | 29 | 8 | 1.88 | France | CC BY-NC-SA 4.0 |
+| **093** | Larra | 333773 | 2016.0 | 2 | 377 | 1.94 | France | CC BY-NC-SA 4.0 |
+| **095** | Kelmend | 3594 | 1459.6 | 17 | 16 | 1.79 | Albania |  |
+| **C001** | Poteu | 5517 | 323.42 | 99 | 1 | 2.25 | Switzerland | Private dataset - results only can be published |
+| **C002** | FeesVD | 36318 | 227.41 | 99 | 1 | 2.31 | Switzerland | Private dataset - results only can be published |
+| **C003** | FeesVS | 3561 | 253.81 | 100 | 1 | 2.18 | Switzerland | Private dataset - results only can be published |
+| **C004** | GrandCor | 4753 | 589.85 | 99 | 1 | 2.05 | Switzerland | Private dataset - results only can be published |
+| **C005** | Bouillon | 3794 | 24.7 | 0 | 1 | 2.15 | France | TBD |
+| **C006** | DiableRouge | 265 | 37.31 | 100 | 1 | 2.0 | France | TBD |
+| **C007** | Escargots | 681 | 73.81 | 90 | 2 | 2.11 | France | TBD |
+| **C009** | Espelugues | 237 | 16.82 | 97 | 1 | 2.0 | France | TBD |
+| **C010** | Sarrazins | 687 | 31.41 | 96 | 2 | 1.93 | France | TBD |
+| **C012** | Labastide | 1507 | 87.39 | 97 | 1 | 2.21 | France | TBD |
+| **C013** | Monachou | 673 | 32.64 | 94 | 1 | 2.2 | France | TBD |
+| **C014** | Bedat | 1633 | 103.15 | 96 | 1 | 2.14 | France | TBD |
+| **C015** | Cardal | 884 | 71.5 | 95 | 1 | 2.29 | France | TBD |
+| **C016** | Loup | 560 | 64.51 | 95 | 2 | 1.76 | France | TBD |
+| **C017** | PicDuJer | 613 | 67.74 | 95 | 1 | 2.07 | France | TBD |
+| **C018** | Tunnel | 920 | 31.29 | 98 | 1 | 2.15 | France | TBD |
+| **C019** | Maraichers | 72 | 14.87 | 93 | 1 | 1.5 | France | TBD |
+| **C021** | Carbonniere | 2665 | 134.21 | 84 | 1 | 2.12 | France | TBD |
+| **C022** | RoyReineFou | 5032 | 334.38 | 83 | 10 | 2.0 | France | TBD |
+| **C027** | Shuanghe | 134751 | 767.0 | 95 | 43 | 2.0 | China | TBD |
+| **C028** | OxBelHa | 370057 | 61.57 | 0 | 1 | 2.46 | Mexico | Private dataset - results only can be published |
+| **C029** | Longirod | 5151 | 518.32 | 98 | 1 | 2.04 | Switzerland | Private dataset - results only can be published |
+| **C031** | Baerwies | 7459 | 361.02 | 1 | 1 | 2.11 | Austria | Private dataset - results only can be published |
+| **C032** | DachsteinMammutHoehle | 69878 | 1207.58 | 11 | 1 | 2.12 | Austria | Private dataset - results only can be published |
+| **C033** | Hirschgruben | 5919 | 201.02 | 31 | 1 | 2.09 | Austria | Private dataset - results only can be published |
+| **C034** | Steinbockschacht | 2876 | 1126.39 | 0 | 1 | 2.11 | Austria | Private dataset - results only can be published |
+| **C035** | TrockenesLoch | 4495 | 108.52 | 0 | 1 | 2.1 | Austria | Private dataset - results only can be published |
+| **C036** | Arphidia | 13528 | 635.19 | 96 | 2 | 2.22 | France | TBD |
+| **C037** | Vallorbe | 6759 | 128.28 | 90 | 5 | 2.19 | Switzerland | Private dataset - results only can be published |
+| **C038** | Covatannaz | 5159 | 104.17 | 98 | 2 | 2.09 | Switzerland | Private dataset - results only can be published |
+| **C039** | BlueSpringIndiana | 33628 | 14.92 | 0 | 1 | 2.25 | USA | Private dataset - results only can be published |
+| **C040** | BlueSpringTennessee | 50780 | 74.55 | 0 | 1 | 2.24 | USA | Private dataset - results only can be published |
+| **C042** | AgenAllwedd | 13651 | 122.62 | 0 | 1 | 2.05 | UK | Private dataset - results only can be published |
+| **C045** | Ceberi | 7175 | 310.77 | 95 | 4 | 2.08 | France | TBD |
+| **C047** | Krubera | 13233 | 2191.0 | 0 | 1 | 2.06 | Georgia | TBD |
+| **C049** | EglwysFaen | 1340 | 18.65 | 0 | 1 | 2.06 | UK | Private dataset - results only can be published |
+| **C050** | DarenCilau | 19951 | 186.15 | 0 | 1 | 2.13 | UK | Private dataset - results only can be published |
+| **C055** | Crevice | 4908 | 0.0 | 0 | 1 | 2.07 | USA | TBD |
+| **C056** | Crossroads | 7781 | 0.0 | 0 | 1 | 2.32 | USA | TBD |
+| **C058** | Jewel | 355242 | 223.83 | 88 | 515 | 2.0 | USA | Private dataset - results only can be published |
+| **C059** | Fulfords | 1645 | 79.78 | 0 | 3 | 2.28 | USA | CC BY-NC-SA 4.0 |
+| **C060** | Tonion | 16397 | 580.2 | 0 | 1 | 2.15 | Austria | Private dataset - results only can be published |
+| **C061** | Burgunder | 23503 | 560.71 | 62 | 1 | 2.1 | Austria | Private dataset - results only can be published |
+| **C063** | Wind | 271709 | 191.69 | 0 | 1 | 2.28 | USA | Private dataset - results only can be published |
+| **C064** | Lechugilla | 261889 | 484.91 | 79 | 1 | 2.44 | USA | Private dataset - results only can be published |
+| **C068** | CuevaGuerta | 24011 | 289.52 | 91 | 1 | 2.22 | Spain | TBD |
+| **C069** | HohlaubA1A3 | 1681 | 280.11 | 98 | 1 | 2.1 | Switzerland | Private dataset - results only can be published |
+| **C070** | HohlaubG3 | 1405 | 219.35 | 99 | 1 | 2.04 | Switzerland | Private dataset - results only can be published |
+| **C071** | SacActun | 356871 | 162.82 | 0 | 26 | 2.04 | Mexico | Private dataset - results only can be published |
+| **C072** | Duerrenstein32 | 5196 | 472.99 | 0 | 1 | 2.1 | Austria | Private dataset - results only can be published |
+| **C073** | Duerrenstein211 | 1289 | 248.7 | 0 | 1 | 2.08 | Austria | Private dataset - results only can be published |
+| **C074** | Duerrenstein273 | 1271 | 133.42 | 0 | 1 | 2.12 | Austria | Private dataset - results only can be published |
+| **C075** | FoussoubieEvent | 2624 | 29.86 | 97 | 1 | 2.08 | France | Confidential - not to be published |
+| **C076** | FoussoubieGoule | 20379 | 40.79 | 98 | 1 | 2.29 | France | Confidential - not to be published |
+| **C077** | Kanine | 125743 | 1965.64 | 45 | 71 | 1.98 | Slovenia | CC BY-NC-SA 4.0 |
+| **S001** | AguaAzul | 1821 | 43.91 | 0 | 1 | 2.0 | Brazil | Confidential - not to be published |
+| **S002** | Caieira | 3004 | 43.32 | 0 | 1 | 2.14 | Brazil | Confidential - not to be published |
+| **S003** | CanalDaFumacinha | 811 | 28.45 | 0 | 1 | 2.44 | Brazil | Confidential - not to be published |
+| **S004** | Esconcio | 3117 | 66.47 | 0 | 1 | 2.2 | Brazil | Confidential - not to be published |
+| **S005** | GrutaAzul | 1654 | 16.72 | 0 | 1 | 2.3 | Brazil | Confidential - not to be published |
+| **S006** | Impossivel | 8806 | 51.73 | 0 | 2 | 2.13 | Brazil | Confidential - not to be published |
+| **S007** | LapaDoce | 25888 | 70.91 | 0 | 1 | 2.43 | Brazil | Confidential - not to be published |
+| **S008** | Torrinha | 14195 | 64.46 | 0 | 1 | 2.33 | Brazil | Confidential - not to be published |
+| **S010** | Aspirateur | 1905 | 106.47 | 98 | 1 | 2.03 | France | TBD |
+| **S012** | Bret | 1222 | 90.67 | 94 | 1 | 2.23 | France | TBD |
+| **S013** | Everest | 531 | 75.76 | 96 | 1 | 2.0 | France | TBD |
+| **S014** | Malaval | 12228 | 228.41 | 96 | 1 | 2.14 | France | TBD |
+| **S015** | Souchon | 569 | 77.95 | 95 | 1 | 1.94 | France | TBD |
+| **S016** | Wakulla | 18170 | 92.0 | 100 | 1 | 2.14 | USA | TBD |
