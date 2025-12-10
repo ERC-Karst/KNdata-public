@@ -176,7 +176,7 @@ Edge flags:
 
 ## Cave list
 
- **id dataset** | short name | total length [m]| total depth [m]| csdim [%]| n° CC | mean degree | country | license
+ **id** | short name | total length [m]| total depth [m]| csdim [%]| n° CC | mean degree | country | license
 |---|---|---|---|---|---|---|---|---|
 | **001** | GouffreDejaVu | 150 | 32.16 | 100 | 1 | 1.5 | Chile | CC BY-NC-SA 4.0 |
 | **002** | Migovec | 46317 | 968.62 | 13 | 1 | 2.09 | Slovenia | CC BY-NC-SA 4.0 |
@@ -189,7 +189,7 @@ Edge flags:
 | **009** | Folly | 85481 | 1890.82 | 10 | 131 | 1.96 | France | CC BY-NC-SA 4.0 |
 | **010** | PlaninaPoljana | 25221 | 1144.61 | 89 | 96 | 1.93 | Slovenia | CC BY-NC-SA 4.0 |
 | **011** | BreznoNaToscu | 1870 | 581.27 | 90 | 1 | 1.95 | Slovenia | CC BY-NC-SA 4.0 |
-| **012** | PokljuskegaGrebena | 13364 | 762.25 | 77 | 3 | 2.07 | Slovenia | CC BY-NC-SA 4.0 |
+| **012** | Pokljuskega Grebena | 13364 | 762.25 | 77 | 3 | 2.07 | Slovenia | CC BY-NC-SA 4.0 |
 | **013** | BurringtonCombe | 5334 | 91.04 | 32 | 15 | 2.17 | UK | CC BY-NC-SA 4.0 |
 | **014** | CheddarCatchment | 27414 | 289.55 | 49 | 54 | 2.05 | UK | CC BY-NC-SA 4.0 |
 | **015** | CountyClare | 76613 | 292.5 | 13 | 51 | 2.03 | Ireland | CC BY-NC-SA 4.0 |
@@ -279,7 +279,7 @@ Edge flags:
 | **C028** | OxBelHa | 370057 | 61.57 | 0 | 1 | 2.46 | Mexico | Proprietary dataset|
 | **C029** | Longirod | 5151 | 518.32 | 98 | 1 | 2.04 | Switzerland | Proprietary dataset|
 | **C031** | Baerwies | 7459 | 361.02 | 1 | 1 | 2.11 | Austria | Proprietary dataset|
-| **C032** | Dachstein MammutHoehle | 69878 | 1207.58 | 11 | 1 | 2.12 | Austria | Proprietary dataset|
+| **C032** | DachsteinMammutHoehle | 69878 | 1207.58 | 11 | 1 | 2.12 | Austria | Proprietary dataset|
 | **C033** | Hirschgruben | 5919 | 201.02 | 31 | 1 | 2.09 | Austria | Proprietary dataset|
 | **C034** | Steinbockschacht | 2876 | 1126.39 | 0 | 1 | 2.11 | Austria | Proprietary dataset|
 | **C035** | TrockenesLoch | 4495 | 108.52 | 0 | 1 | 2.1 | Austria | Proprietary dataset|
@@ -287,7 +287,7 @@ Edge flags:
 | **C037** | Vallorbe | 6759 | 128.28 | 90 | 5 | 2.19 | Switzerland | Proprietary dataset|
 | **C038** | Covatannaz | 5159 | 104.17 | 98 | 2 | 2.09 | Switzerland | Proprietary dataset|
 | **C039** | BlueSpringIndiana | 33628 | 14.92 | 0 | 1 | 2.25 | USA | Proprietary dataset|
-| **C040** | BlueSpring Tennessee | 50780 | 74.55 | 0 | 1 | 2.24 | USA | Proprietary dataset|
+| **C040** | BlueSpringTennessee | 50780 | 74.55 | 0 | 1 | 2.24 | USA | Proprietary dataset|
 | **C042** | AgenAllwedd | 13651 | 122.62 | 0 | 1 | 2.05 | UK | Proprietary dataset|
 | **C045** | Ceberi | 7175 | 310.77 | 95 | 4 | 2.08 | France | TBD |
 | **C047** | Krubera | 13233 | 2191.0 | 0 | 1 | 2.06 | Georgia | TBD |
@@ -311,17 +311,3 @@ Edge flags:
 | **C075** | FoussoubieEvent | 2624 | 29.86 | 97 | 1 | 2.08 | France | Proprietary dataset |
 | **C076** | FoussoubieGoule | 20379 | 40.79 | 98 | 1 | 2.29 | France | Proprietary dataset |
 | **C077** | Kanine | 125743 | 1965.64 | 45 | 71 | 1.98 | Slovenia | CC BY-NC-SA 4.0 |
-| **S001** | AguaAzul | 1821 | 43.91 | 0 | 1 | 2.0 | Brazil | Proprietary dataset |
-| **S002** | Caieira | 3004 | 43.32 | 0 | 1 | 2.14 | Brazil | Proprietary dataset |
-| **S003** | CanalDaFumacinha | 811 | 28.45 | 0 | 1 | 2.44 | Brazil | Proprietary dataset |
-| **S004** | Esconcio | 3117 | 66.47 | 0 | 1 | 2.2 | Brazil | Proprietary dataset |
-| **S005** | GrutaAzul | 1654 | 16.72 | 0 | 1 | 2.3 | Brazil | Proprietary dataset |
-| **S006** | Impossivel | 8806 | 51.73 | 0 | 2 | 2.13 | Brazil | Proprietary dataset |
-| **S007** | LapaDoce | 25888 | 70.91 | 0 | 1 | 2.43 | Brazil | Proprietary dataset |
-| **S008** | Torrinha | 14195 | 64.46 | 0 | 1 | 2.33 | Brazil | Proprietary dataset |
-| **S010** | Aspirateur | 1905 | 106.47 | 98 | 1 | 2.03 | France | TBD |
-| **S012** | Bret | 1222 | 90.67 | 94 | 1 | 2.23 | France | TBD |
-| **S013** | Everest | 531 | 75.76 | 96 | 1 | 2.0 | France | TBD |
-| **S014** | Malaval | 12228 | 228.41 | 96 | 1 | 2.14 | France | TBD |
-| **S015** | Souchon | 569 | 77.95 | 95 | 1 | 1.94 | France | TBD |
-| **S016** | Wakulla | 18170 | 92.0 | 100 | 1 | 2.14 | USA | TBD |
