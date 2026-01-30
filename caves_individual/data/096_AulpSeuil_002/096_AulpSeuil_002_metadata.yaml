@@ -1,0 +1,61 @@
+id_dataset: 096
+short_name: AulpSeuil
+id_subset: '002'
+status: to process
+type_of_correction: .nan
+last_processing_date: 01 Jan 2026
+license: CC BY-NC-SA 4.0
+citation: Collectif de l’Aulp du Seuil, Spéléoclub de Vienne, Spéléoclub de Savoie,
+  Groupe Catamaran, Furets Jaunes de Seyssins, Cave Diving Group, University of Leeds
+  Speleological Association, & Spéléoclub des Comminges. (2026). Base de données topographiques
+  du système karstique de l’Aulp du Seuil (Chartreuse, 38, France) [Creative Commons
+  BY-NC-SA 4.0 dataset]. https://github.com/Dehautenbas/Aulp-du-Seuil-Therion
+thanks: .nan
+sharing_conditions: .nan
+total_length: 2815
+total_depth: 356.2
+percentage_csdim: 89
+number_connected_components: 1
+number_nodes: 565
+number_edges: 567
+mean_degree: 2.04
+min_degree: 1.0
+max_degree: 7.0
+cv_degree: 0.546
+number_cycles: 3
+mean_length: 27.87
+cv_length: 1.08
+length_entropy: 0.6
+orientation_3d_entropy: 0.86
+aspl: 9.91
+cpd: 0.546
+correlation_vertex_degree: -0.282
+original_format: Therion
+comments_cave_info: .nan
+full_name: Systèmes karstique de l'Aulp du Seuil
+geometry: .nan
+units: meter
+country: France
+state: Isère
+area: Chartreuse
+locality: Plateau-des-Petites-Roches
+grotto_id: .nan
+country_cave_id: .nan
+local_id: .nan
+local_coordinate_system: .nan
+latitude: .nan
+longitude: .nan
+altitude: .nan
+cave_url: .nan
+supplemental_links: .nan
+data_reception_date: .nan
+data_received_by: .nan
+start_contract: .nan
+end_contract: .nan
+cave_survey_owner: .nan
+website: https://github.com/Dehautenbas/Aulp-du-Seuil-Therion
+email_correspondant: .nan
+rawdata_rights: .nan
+clean_graph_rights: .nan
+anonymised_graph_rights: .nan
+comments_dataset: .nan

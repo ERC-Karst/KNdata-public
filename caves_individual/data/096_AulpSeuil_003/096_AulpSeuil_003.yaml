@@ -1,0 +1,5966 @@
+metadata:
+  id_dataset: 096
+  short_name: AulpSeuil
+  id_subset: '003'
+  status: to process
+  type_of_correction: .nan
+  last_processing_date: 01 Jan 2026
+  license: CC BY-NC-SA 4.0
+  citation: "Collectif de l\u2019Aulp du Seuil, Sp\xE9l\xE9oclub de Vienne, Sp\xE9\
+    l\xE9oclub de Savoie, Groupe Catamaran, Furets Jaunes de Seyssins, Cave Diving\
+    \ Group, University of Leeds Speleological Association, & Sp\xE9l\xE9oclub des\
+    \ Comminges. (2026). Base de donn\xE9es topographiques du syst\xE8me karstique\
+    \ de l\u2019Aulp du Seuil (Chartreuse, 38, France) [Creative Commons BY-NC-SA\
+    \ 4.0 dataset]. https://github.com/Dehautenbas/Aulp-du-Seuil-Therion"
+  thanks: .nan
+  sharing_conditions: .nan
+  total_length: 1820
+  total_depth: 357.16
+  percentage_csdim: 96
+  number_connected_components: 1
+  number_nodes: 263
+  number_edges: 262
+  mean_degree: 1.9
+  min_degree: 1.0
+  max_degree: 7.0
+  cv_degree: 0.537
+  number_cycles: 0
+  mean_length: 95.8
+  cv_length: 1.06
+  length_entropy: 0.75
+  orientation_3d_entropy: 0.67
+  aspl: 4.22
+  cpd: 0.446
+  correlation_vertex_degree: -0.407
+  original_format: Therion
+  comments_cave_info: .nan
+  full_name: "Syst\xE8mes karstique de l'Aulp du Seuil"
+  geometry: .nan
+  units: meter
+  country: France
+  state: "Is\xE8re"
+  area: Chartreuse
+  locality: Plateau-des-Petites-Roches
+  grotto_id: .nan
+  country_cave_id: .nan
+  local_id: .nan
+  local_coordinate_system: .nan
+  latitude: .nan
+  longitude: .nan
+  altitude: .nan
+  cave_url: .nan
+  supplemental_links: .nan
+  data_reception_date: .nan
+  data_received_by: .nan
+  start_contract: .nan
+  end_contract: .nan
+  cave_survey_owner: .nan
+  website: https://github.com/Dehautenbas/Aulp-du-Seuil-Therion
+  email_correspondant: .nan
+  rawdata_rights: .nan
+  clean_graph_rights: .nan
+  anonymised_graph_rights: .nan
+  comments_dataset: .nan
+edges:
+- - 1538
+  - 3222
+- - 1538
+  - 1755
+- - 1027
+  - 2194
+- - 1027
+  - 3401
+- - 516
+  - 3266
+- - 516
+  - 2859
+- - 1030
+  - 1755
+- - 1030
+  - 2324
+- - 519
+  - 2947
+- - 519
+  - 3177
+- - 2057
+  - 338
+- - 2057
+  - 2216
+- - 1033
+  - 1621
+- - 1033
+  - 96
+- - 1546
+  - 2684
+- - 1546
+  - 3283
+- - 1035
+  - 2166
+- - 1035
+  - 1678
+- - 1041
+  - 2667
+- - 1041
+  - 2224
+- - 2580
+  - 1773
+- - 2580
+  - 3316
+- - 2585
+  - 361
+- - 2585
+  - 2907
+- - 26
+  - 3430
+- - 26
+  - 433
+- - 1562
+  - 2224
+- - 2076
+  - 294
+- - 2076
+  - 801
+- - 3108
+  - 1740
+- - 3108
+  - 1672
+- - 1062
+  - 2973
+- - 1062
+  - 3119
+- - 2087
+  - 2885
+- - 2087
+  - 1773
+- - 3112
+  - 370
+- - 3112
+  - 471
+- - 553
+  - 491
+- - 553
+  - 692
+- - 42
+  - 191
+- - 42
+  - 3415
+- - 2091
+  - 2683
+- - 2091
+  - 668
+- - 3119
+  - 733
+- - 1076
+  - 2463
+- - 1076
+  - 814
+- - 1077
+  - 873
+- - 1077
+  - 908
+- - 2100
+  - 717
+- - 2100
+  - 1410
+- - 2100
+  - 727
+- - 56
+  - 2666
+- - 56
+  - 1987
+- - 2616
+  - 1410
+- - 2616
+  - 1122
+- - 573
+  - 2251
+- - 573
+  - 397
+- - 2110
+  - 3316
+- - 2110
+  - 3337
+- - 63
+  - 1807
+- - 63
+  - 2666
+- - 1599
+  - 274
+- - 1599
+  - 1147
+- - 1599
+  - 1022
+- - 1089
+  - 2147
+- - 1089
+  - 3273
+- - 2109
+  - 1416
+- - 2109
+  - 1905
+- - 1604
+  - 2695
+- - 1604
+  - 1926
+- - 1092
+  - 1340
+- - 1092
+  - 1621
+- - 1608
+  - 1680
+- - 1608
+  - 2236
+- - 74
+  - 1248
+- - 74
+  - 3430
+- - 1611
+  - 1838
+- - 1611
+  - 1186
+- - 76
+  - 1770
+- - 76
+  - 1272
+- - 3153
+  - 1114
+- - 3153
+  - 2947
+- - 3153
+  - 3054
+- - 2643
+  - 2363
+- - 2643
+  - 323
+- - 1619
+  - 377
+- - 1619
+  - 3050
+- - 595
+  - 2670
+- - 595
+  - 800
+- - 3156
+  - 866
+- - 3156
+  - 1630
+- - 3157
+  - 2223
+- - 601
+  - 2369
+- - 601
+  - 162
+- - 605
+  - 2921
+- - 605
+  - 2918
+- - 1630
+  - 2399
+- - 96
+  - 2670
+- - 1122
+  - 1123
+- - 2147
+  - 497
+- - 2660
+  - 1477
+- - 2660
+  - 2667
+- - 1124
+  - 336
+- - 1124
+  - 413
+- - 1638
+  - 1783
+- - 1638
+  - 1416
+- - 1127
+  - 3283
+- - 1127
+  - 2223
+- - 1123
+  - 2921
+- - 3177
+  - 1703
+- - 105
+  - 1156
+- - 105
+  - 964
+- - 1643
+  - 3064
+- - 1643
+  - 633
+- - 2671
+  - 162
+- - 2671
+  - 671
+- - 2671
+  - 804
+- - 1649
+  - 827
+- - 1649
+  - 287
+- - 1139
+  - 638
+- - 1139
+  - 827
+- - 2166
+  - 2343
+- - 633
+  - 2885
+- - 2683
+  - 860
+- - 2684
+  - 2214
+- - 1147
+  - 214
+- - 3196
+  - 1286
+- - 3196
+  - 360
+- - 638
+  - 433
+- - 638
+  - 2363
+- - 2688
+  - 908
+- - 2688
+  - 1283
+- - 2177
+  - 668
+- - 2177
+  - 235
+- - 1156
+  - 149
+- - 1158
+  - 2882
+- - 1158
+  - 755
+- - 2695
+  - 1331
+- - 1672
+  - 149
+- - 3207
+  - 3425
+- - 3207
+  - 764
+- - 1678
+  - 191
+- - 1680
+  - 802
+- - 2194
+  - 1249
+- - 3222
+  - 1792
+- - 671
+  - 259
+- - 1186
+  - 2271
+- - 2725
+  - 1971
+- - 2725
+  - 1013
+- - 2214
+  - 350
+- - 1703
+  - 370
+- - 2216
+  - 336
+- - 1193
+  - 1462
+- - 1193
+  - 2343
+- - 171
+  - 814
+- - 171
+  - 2004
+- - 1199
+  - 3408
+- - 1199
+  - 873
+- - 2224
+  - 272
+- - 692
+  - 695
+- - 1206
+  - 484
+- - 1206
+  - 1844
+- - 695
+  - 3040
+- - 2236
+  - 361
+- - 3263
+  - 1845
+- - 3263
+  - 1285
+- - 2751
+  - 914
+- - 2751
+  - 2263
+- - 3266
+  - 1283
+- - 1222
+  - 470
+- - 1222
+  - 2909
+- - 1735
+  - 2362
+- - 3273
+  - 1477
+- - 2251
+  - 964
+- - 1740
+  - 848
+- - 1228
+  - 3337
+- - 1228
+  - 1399
+- - 1230
+  - 1238
+- - 1230
+  - 1845
+- - 717
+  - 1772
+- - 1238
+  - 360
+- - 214
+  - 774
+- - 218
+  - 774
+- - 218
+  - 848
+- - 733
+  - 2369
+- - 3294
+  - 454
+- - 3294
+  - 3030
+- - 2271
+  - 2867
+- - 1248
+  - 2891
+- - 1249
+  - 800
+- - 1763
+  - 2463
+- - 1763
+  - 227
+- - 227
+  - 1279
+- - 1770
+  - 413
+- - 235
+  - 3455
+- - 1772
+  - 3433
+- - 237
+  - 323
+- - 237
+  - 897
+- - 1266
+  - 2895
+- - 1266
+  - 2362
+- - 3315
+  - 804
+- - 3315
+  - 2882
+- - 755
+  - 823
+- - 1783
+  - 1488
+- - 1272
+  - 2443
+- - 764
+  - 3000
+- - 1279
+  - 1487
+- - 1792
+  - 1487
+- - 259
+  - 350
+- - 1285
+  - 497
+- - 1286
+  - 3378
+- - 3333
+  - 3050
+- - 3333
+  - 348
+- - 1807
+  - 3455
+- - 272
+  - 860
+- - 1296
+  - 801
+- - 1296
+  - 454
+- - 274
+  - 1987
+- - 2324
+  - 1512
+- - 284
+  - 2541
+- - 284
+  - 470
+- - 287
+  - 294
+- - 802
+  - 2918
+- - 2859
+  - 1009
+- - 1838
+  - 866
+- - 3378
+  - 3033
+- - 1331
+  - 2469
+- - 1844
+  - 3408
+- - 2867
+  - 2463
+- - 823
+  - 866
+- - 1340
+  - 1009
+- - 2371
+  - 3068
+- - 2371
+  - 491
+- - 2891
+  - 3455
+- - 2895
+  - 1022
+- - 338
+  - 3000
+- - 3415
+  - 3068
+- - 2907
+  - 914
+- - 2909
+  - 945
+- - 348
+  - 2973
+- - 2399
+  - 1929
+- - 3425
+  - 397
+- - 1897
+  - 1929
+- - 1897
+  - 1462
+- - 3433
+  - 1512
+- - 1905
+  - 2505
+- - 1399
+  - 1971
+- - 377
+  - 2018
+- - 897
+  - 2541
+- - 386
+  - 945
+- - 386
+  - 2002
+- - 1926
+  - 3064
+- - 2443
+  - 2540
+- - 1931
+  - 2004
+- - 2453
+  - 2540
+- - 2453
+  - 2018
+- - 2469
+  - 475
+- - 3508
+  - 2505
+- - 1488
+  - 3040
+- - 2002
+  - 484
+- - 471
+  - 3033
+- - 3030
+  - 475
+node_attributes:
+  fulladdress:
+    1538:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux227
+    1027:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux115
+    516:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux102
+    1030:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux229
+    519:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux5
+    2057:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux149
+    1033:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux108
+    1546:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux259
+    1035:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux190
+    1041:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux28
+    2580:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux69
+    2585:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux249
+    26:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux43
+    1562:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux30
+    2076:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux51
+    3108:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux135
+    1062:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux167
+    2087:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux67
+    3112:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux9
+    553:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux198
+    42:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux193
+    2091:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux34
+    3119:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux168
+    1076:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux216
+    1077:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux97
+    2100:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux235
+    56:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux120
+    2616:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux238
+    573:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux142
+    2110:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux71
+    63:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux118
+    1599:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux123
+    1089:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux23
+    2109:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux206
+    1604:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux61
+    1092:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux106
+    1608:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux246
+    74:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux41
+    1611:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux211
+    76:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux155
+    3153:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux2
+    2643:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux79
+    1619:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux162
+    1621:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux107
+    595:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux111
+    3156:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux181
+    3157:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux263
+    601:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux171
+    1114:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux1
+    605:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux242
+    1630:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux182
+    96:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux109
+    1122:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux239
+    2147:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux22
+    2660:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux26
+    1124:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux152
+    1638:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux204
+    1127:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux261
+    1123:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux240
+    3177:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux6
+    2666:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux119
+    2667:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux27
+    105:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux139
+    1643:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux64
+    2670:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux110
+    2671:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux173
+    1649:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux48
+    1139:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux46
+    2166:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux189
+    633:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux65
+    2683:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux33
+    2684:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux258
+    1147:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux129
+    3196:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux14
+    638:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux45
+    2688:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux99
+    2177:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux36
+    1156:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux138
+    1158:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux177
+    2695:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux60
+    1672:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux136
+    3207:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux145
+    1678:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux191
+    1680:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux245
+    2194:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux114
+    149:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux137
+    3222:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux226
+    668:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux35
+    671:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux254
+    162:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux172
+    1186:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux212
+    2725:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux76
+    2214:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux257
+    1703:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux7
+    2216:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux150
+    1193:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux187
+    171:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux218
+    1199:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux95
+    2224:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux29
+    2223:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux262
+    692:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux199
+    1206:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux92
+    695:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux200
+    2236:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux247
+    3263:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux19
+    191:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux192
+    2751:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux252
+    3266:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux101
+    1222:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux86
+    1735:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux128
+    3273:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux24
+    2251:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux141
+    1740:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux134
+    1228:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux73
+    1230:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux17
+    717:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux234
+    3283:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux260
+    1238:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux16
+    214:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux130
+    727:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux236
+    2263:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux253
+    218:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux132
+    1755:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux228
+    733:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux169
+    3294:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux55
+    2271:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux213
+    1248:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux40
+    1249:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux113
+    1763:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux221
+    227:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux222
+    1770:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux154
+    235:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux37
+    1772:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux233
+    237:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux81
+    1773:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux68
+    1266:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux126
+    3315:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux175
+    3316:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux70
+    755:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux178
+    1783:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux203
+    1272:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux156
+    764:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux146
+    1279:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux223
+    1792:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux225
+    1283:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux100
+    259:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux255
+    1285:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux20
+    1286:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux13
+    774:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux131
+    3333:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux164
+    3337:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux72
+    1807:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux117
+    272:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux31
+    1296:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux53
+    274:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux122
+    2324:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux230
+    284:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux84
+    287:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux49
+    800:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux112
+    801:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux52
+    802:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux244
+    804:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux174
+    294:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux50
+    2343:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux188
+    2859:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux103
+    1838:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux210
+    814:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux217
+    3378:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux12
+    1331:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux59
+    1844:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux93
+    1845:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux18
+    2867:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux214
+    823:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux179
+    2362:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux127
+    2363:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux78
+    827:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux47
+    1340:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux105
+    2369:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux170
+    2882:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux176
+    323:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux80
+    2371:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux196
+    2885:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux66
+    3401:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux116
+    2891:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux39
+    2895:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux125
+    848:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux133
+    3408:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux94
+    338:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux148
+    336:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux151
+    3415:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux194
+    2907:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux250
+    860:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux32
+    2909:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux87
+    348:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux165
+    350:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux256
+    2399:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux183
+    3425:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux144
+    866:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux180
+    3430:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux42
+    2918:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux243
+    360:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux15
+    873:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux96
+    1897:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux185
+    3433:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux232
+    2921:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux241
+    361:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux248
+    1905:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux207
+    370:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux8
+    1399:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux74
+    377:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux161
+    3455:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux38
+    897:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux82
+    386:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux89
+    2947:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux4
+    1410:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux237
+    1926:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux62
+    1416:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux205
+    1929:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux184
+    2443:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux157
+    908:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux98
+    397:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux143
+    1931:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux220
+    914:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux251
+    2453:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux159
+    413:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux153
+    2973:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux166
+    2463:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux215
+    2469:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux58
+    433:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux44
+    945:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux88
+    1971:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux75
+    3508:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux209
+    1462:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux186
+    3000:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux147
+    1987:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux121
+    964:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux140
+    1477:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux25
+    454:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux54
+    2505:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux208
+    1487:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux224
+    1488:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux202
+    2002:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux90
+    2004:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux219
+    470:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux85
+    471:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux10
+    3030:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux56
+    3033:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux11
+    475:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux57
+    3040:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux201
+    2018:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux160
+    484:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux91
+    1512:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux231
+    3050:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux163
+    491:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux197
+    2540:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux158
+    2541:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux83
+    3054:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux3
+    497:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux21
+    1009:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux104
+    1013:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux77
+    3064:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux63
+    3068:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux195
+    1022:
+    - Aulp_du_seuil.Tenebreux.1990_09_15.tene_1990_09_15.Tenebreux124
+  idsql:
+    1538:
+    - 12314
+    1027:
+    - 12715
+    516:
+    - 12702
+    1030:
+    - 12316
+    519:
+    - 12181
+    2057:
+    - 12241
+    1033:
+    - 12708
+    1546:
+    - 12271
+    1035:
+    - 12452
+    1041:
+    - 12204
+    2580:
+    - 12833
+    2585:
+    - 12335
+    26:
+    - 12675
+    1562:
+    - 12944
+    2076:
+    - 12815
+    3108:
+    - 12227
+    1062:
+    - 12259
+    2087:
+    - 12831
+    3112:
+    - 12185
+    553:
+    - 12460
+    42:
+    - 12455
+    2091:
+    - 12209
+    3119:
+    - 12260
+    1076:
+    - 12416
+    1077:
+    - 12697
+    2100:
+    - 12322
+    56:
+    - 12217
+    2616:
+    - 12324
+    573:
+    - 12234
+    2110:
+    - 12835
+    63:
+    - 12215
+    1599:
+    - 12220
+    1089:
+    - 12199
+    2109:
+    - 12468
+    1604:
+    - 12825
+    1092:
+    - 12706
+    1608:
+    - 12332
+    74:
+    - 12673
+    1611:
+    - 12303
+    76:
+    - 12247
+    3153:
+    - 12179
+    2643:
+    - 12679
+    1619:
+    - 12254
+    1621:
+    - 12707
+    595:
+    - 12711
+    3156:
+    - 12443
+    3157:
+    - 12275
+    601:
+    - 12263
+    1114:
+    - 12178
+    605:
+    - 12328
+    1630:
+    - 12444
+    96:
+    - 12709
+    1122:
+    - 12325
+    2147:
+    - 12198
+    2660:
+    - 12202
+    1124:
+    - 12244
+    1638:
+    - 12466
+    1127:
+    - 12273
+    1123:
+    - 12326
+    3177:
+    - 12182
+    2666:
+    - 12216
+    2667:
+    - 12203
+    105:
+    - 12231
+    1643:
+    - 12828
+    2670:
+    - 12710
+    2671:
+    - 12265
+    1649:
+    - 12812
+    1139:
+    - 12810
+    2166:
+    - 12451
+    633:
+    - 12829
+    2683:
+    - 12208
+    2684:
+    - 12270
+    1147:
+    - 12221
+    3196:
+    - 12190
+    638:
+    - 12677
+    2688:
+    - 12699
+    2177:
+    - 12211
+    1156:
+    - 12230
+    1158:
+    - 12298
+    2695:
+    - 12824
+    1672:
+    - 12228
+    3207:
+    - 12237
+    1678:
+    - 12453
+    1680:
+    - 12331
+    2194:
+    - 12714
+    149:
+    - 12229
+    3222:
+    - 12313
+    668:
+    - 12210
+    671:
+    - 12266
+    162:
+    - 12264
+    1186:
+    - 12304
+    2725:
+    - 12840
+    2214:
+    - 12269
+    1703:
+    - 12183
+    2216:
+    - 12242
+    1193:
+    - 12449
+    171:
+    - 12418
+    1199:
+    - 12695
+    2224:
+    - 12205
+    2223:
+    - 12274
+    692:
+    - 12461
+    1206:
+    - 12692
+    695:
+    - 12462
+    2236:
+    - 12333
+    3263:
+    - 12195
+    191:
+    - 12454
+    2751:
+    - 12338
+    3266:
+    - 12701
+    1222:
+    - 12686
+    1735:
+    - 12643
+    3273:
+    - 12200
+    2251:
+    - 12233
+    1740:
+    - 12226
+    1228:
+    - 12837
+    1230:
+    - 12193
+    717:
+    - 12321
+    3283:
+    - 12272
+    1238:
+    - 12192
+    214:
+    - 12222
+    727:
+    - 12383
+    2263:
+    - 12339
+    218:
+    - 12224
+    1755:
+    - 12315
+    733:
+    - 12261
+    3294:
+    - 12819
+    2271:
+    - 12305
+    1248:
+    - 12672
+    1249:
+    - 12713
+    1763:
+    - 12308
+    227:
+    - 12309
+    1770:
+    - 12246
+    235:
+    - 12212
+    1772:
+    - 12320
+    237:
+    - 12681
+    1773:
+    - 12832
+    1266:
+    - 12641
+    3315:
+    - 12296
+    3316:
+    - 12834
+    755:
+    - 12299
+    1783:
+    - 12465
+    1272:
+    - 12248
+    764:
+    - 12238
+    1279:
+    - 12310
+    1792:
+    - 12312
+    1283:
+    - 12700
+    259:
+    - 12267
+    1285:
+    - 12196
+    1286:
+    - 12189
+    774:
+    - 12223
+    3333:
+    - 12256
+    3337:
+    - 12836
+    1807:
+    - 12214
+    272:
+    - 12206
+    1296:
+    - 12817
+    274:
+    - 12219
+    2324:
+    - 12317
+    284:
+    - 12684
+    287:
+    - 12813
+    800:
+    - 12712
+    801:
+    - 12816
+    802:
+    - 12330
+    804:
+    - 12295
+    294:
+    - 12814
+    2343:
+    - 12450
+    2859:
+    - 12703
+    1838:
+    - 12302
+    814:
+    - 12417
+    3378:
+    - 12188
+    1331:
+    - 12823
+    1844:
+    - 12693
+    1845:
+    - 12194
+    2867:
+    - 12306
+    823:
+    - 12300
+    2362:
+    - 12642
+    2363:
+    - 12678
+    827:
+    - 12811
+    1340:
+    - 12705
+    2369:
+    - 12262
+    2882:
+    - 12297
+    323:
+    - 12680
+    2371:
+    - 12458
+    2885:
+    - 12830
+    3401:
+    - 12716
+    2891:
+    - 12671
+    2895:
+    - 12640
+    848:
+    - 12225
+    3408:
+    - 12694
+    338:
+    - 12240
+    336:
+    - 12243
+    3415:
+    - 12456
+    2907:
+    - 12336
+    860:
+    - 12207
+    2909:
+    - 12687
+    348:
+    - 12257
+    350:
+    - 12268
+    2399:
+    - 12445
+    3425:
+    - 12236
+    866:
+    - 12301
+    3430:
+    - 12674
+    2918:
+    - 12329
+    360:
+    - 12191
+    873:
+    - 12696
+    1897:
+    - 12447
+    3433:
+    - 12319
+    2921:
+    - 12327
+    361:
+    - 12334
+    1905:
+    - 12469
+    370:
+    - 12184
+    1399:
+    - 12838
+    377:
+    - 12253
+    3455:
+    - 12213
+    897:
+    - 12682
+    386:
+    - 12689
+    2947:
+    - 12180
+    1410:
+    - 12323
+    1926:
+    - 12826
+    1416:
+    - 12467
+    1929:
+    - 12446
+    2443:
+    - 12249
+    908:
+    - 12698
+    397:
+    - 12235
+    1931:
+    - 12420
+    914:
+    - 12337
+    2453:
+    - 12251
+    413:
+    - 12245
+    2973:
+    - 12258
+    2463:
+    - 12307
+    2469:
+    - 12822
+    433:
+    - 12676
+    945:
+    - 12688
+    1971:
+    - 12839
+    3508:
+    - 12471
+    1462:
+    - 12448
+    3000:
+    - 12239
+    1987:
+    - 12218
+    964:
+    - 12232
+    1477:
+    - 12201
+    454:
+    - 12818
+    2505:
+    - 12470
+    1487:
+    - 12311
+    1488:
+    - 12464
+    2002:
+    - 12690
+    2004:
+    - 12419
+    470:
+    - 12685
+    471:
+    - 12186
+    3030:
+    - 12820
+    3033:
+    - 12187
+    475:
+    - 12821
+    3040:
+    - 12463
+    2018:
+    - 12252
+    484:
+    - 12691
+    1512:
+    - 12318
+    3050:
+    - 12255
+    491:
+    - 12459
+    2540:
+    - 12250
+    2541:
+    - 12683
+    3054:
+    - 13008
+    497:
+    - 12197
+    1009:
+    - 12704
+    1013:
+    - 12841
+    3064:
+    - 12827
+    3068:
+    - 12457
+    1022:
+    - 12639
+  splays:
+    1538:
+    - - 725920.75
+      - 5028957.33
+      - 1488.19
+    - - 725920.17
+      - 5028958.15
+      - 1485.19
+    1027:
+    - - 726002.57
+      - 5029251.74
+      - 1233.98
+    - - 726003.53
+      - 5029252.02
+      - 1230.98
+    516:
+    - - 725969.49
+      - 5029243.53
+      - 1346.89
+    - - 725969.49
+      - 5029243.53
+      - 1353.89
+    - - 725975.89
+      - 5029240.68
+      - 1350.89
+    - - 725967.66
+      - 5029244.34
+      - 1350.89
+    1030:
+    - - 725917.03
+      - 5028951.03
+      - 1488.18
+    - - 725916.11
+      - 5028950.63
+      - 1485.18
+    519:
+    - - 725943.67
+      - 5029077.45
+      - 1546.52
+    - - 725943.67
+      - 5029077.45
+      - 1554.52
+    - - 725945.76
+      - 5029074.04
+      - 1550.52
+    - - 725941.58
+      - 5029080.86
+      - 1550.52
+    2057:
+    - - 725989.17
+      - 5029122.21
+      - 1459.14
+    - - 725988.27
+      - 5029122.65
+      - 1456.14
+    1033:
+    - - 725982.55
+      - 5029249.58
+      - 1329.47
+    - - 725982.55
+      - 5029249.58
+      - 1338.47
+    - - 725978.04
+      - 5029242.96
+      - 1333.47
+    - - 725983.11
+      - 5029250.41
+      - 1333.47
+    1546:
+    - - 725984.34
+      - 5028965.19
+      - 1490.96
+    - - 725985.06
+      - 5028965.89
+      - 1487.96
+    1035:
+    - - 725928.63
+      - 5029038.75
+      - 1480.75
+    - - 725927.84
+      - 5029039.36
+      - 1477.75
+    1041:
+    - - 725946.85
+      - 5029167.09
+      - 1463.48
+    - - 725946.9
+      - 5029166.09
+      - 1458.48
+    2580:
+    - - 726004.4
+      - 5029277.15
+      - 1428.64
+    - - 725996.06
+      - 5029269.98
+      - 1423.64
+    2585:
+    - - 725933.33
+      - 5028885.46
+      - 1432.8
+    - - 725934.57
+      - 5028882.72
+      - 1427.8
+    - - 725932.09
+      - 5028888.19
+      - 1427.8
+    26:
+    - - 725976.36
+      - 5029215.26
+      - 1447.45
+    - - 725977.35
+      - 5029215.39
+      - 1442.45
+    2076:
+    - - 725984.74
+      - 5029238.33
+      - 1434.44
+    - - 725985.73
+      - 5029238.15
+      - 1429.44
+    3108:
+    - - 725978.05
+      - 5029163.28
+      - 1449.39
+    - - 725977.06
+      - 5029163.36
+      - 1446.39
+    1062:
+    - - 725986.31
+      - 5029022.45
+      - 1485.4
+    - - 725987.3
+      - 5029022.39
+      - 1482.4
+    2087:
+    - - 726002.39
+      - 5029272.72
+      - 1429.57
+    - - 726001.39
+      - 5029272.84
+      - 1424.57
+    3112:
+    - - 725950.29
+      - 5029090.12
+      - 1511.59
+    - - 725950.09
+      - 5029089.14
+      - 1506.59
+    553:
+    - - 725948.59
+      - 5029063.35
+      - 1477.27
+    - - 725948.39
+      - 5029064.33
+      - 1474.27
+    42:
+    - - 725929.64
+      - 5029047.08
+      - 1479.82
+    - - 725929.41
+      - 5029046.11
+      - 1476.82
+    2091:
+    - - 725960.17
+      - 5029185.4
+      - 1453.95
+    - - 725961.16
+      - 5029185.4
+      - 1448.95
+    3119:
+    - - 725985.67
+      - 5029016.0
+      - 1485.64
+    - - 725986.58
+      - 5029015.6
+      - 1482.64
+    1076:
+    - - 725934.56
+      - 5028973.02
+      - 1487.26
+    - - 725935.53
+      - 5028973.26
+      - 1484.26
+    1077:
+    - - 725971.45
+      - 5029233.32
+      - 1358.44
+    - - 725970.79
+      - 5029232.57
+      - 1353.44
+    2100:
+    - - 725912.35
+      - 5028920.43
+      - 1490.29
+    - - 725911.42
+      - 5028920.06
+      - 1487.29
+    - - 725912.35
+      - 5028920.43
+      - 1490.29
+    - - 725912.07
+      - 5028921.39
+      - 1487.29
+    56:
+    - - 725973.08
+      - 5029189.98
+      - 1447.07
+    - - 725973.81
+      - 5029190.67
+      - 1444.07
+    2616:
+    - - 725913.37
+      - 5028917.86
+      - 1492.15
+    - - 725912.53
+      - 5028918.41
+      - 1489.15
+    573:
+    - - 725985.67
+      - 5029141.19
+      - 1452.64
+    - - 725985.39
+      - 5029140.23
+      - 1449.64
+    2110:
+    - - 726001.31
+      - 5029279.01
+      - 1427.25
+    - - 726002.06
+      - 5029278.37
+      - 1422.25
+    63:
+    - - 725969.38
+      - 5029192.72
+      - 1447.07
+    - - 725970.3
+      - 5029192.33
+      - 1444.07
+    1599:
+    - - 725979.62
+      - 5029186.69
+      - 1445.91
+    - - 725980.62
+      - 5029186.73
+      - 1442.91
+    - - 725979.62
+      - 5029186.69
+      - 1441.91
+    - - 725979.62
+      - 5029186.69
+      - 1443.91
+    - - 725980.59
+      - 5029186.45
+      - 1442.91
+    - - 725978.65
+      - 5029186.93
+      - 1442.91
+    1089:
+    - - 725939.1
+      - 5029156.71
+      - 1467.67
+    - - 725939.96
+      - 5029157.23
+      - 1462.67
+    2109:
+    - - 725968.8
+      - 5029089.71
+      - 1464.95
+    - - 725968.65
+      - 5029088.72
+      - 1461.95
+    1604:
+    - - 725996.77
+      - 5029259.33
+      - 1431.89
+    - - 725996.23
+      - 5029260.17
+      - 1426.89
+    1092:
+    - - 725972.14
+      - 5029249.89
+      - 1333.42
+    - - 725972.14
+      - 5029249.89
+      - 1341.42
+    - - 725971.31
+      - 5029241.92
+      - 1337.42
+    - - 725972.24
+      - 5029250.88
+      - 1337.42
+    1608:
+    - - 725917.21
+      - 5028885.58
+      - 1494.72
+    - - 725916.35
+      - 5028885.08
+      - 1491.72
+    74:
+    - - 725972.66
+      - 5029211.76
+      - 1448.15
+    - - 725971.69
+      - 5029211.54
+      - 1443.15
+    1611:
+    - - 725941.32
+      - 5028993.42
+      - 1483.78
+    - - 725942.28
+      - 5028993.13
+      - 1480.78
+    76:
+    - - 725979.63
+      - 5029092.39
+      - 1475.42
+    - - 725980.6
+      - 5029092.63
+      - 1472.42
+    3153:
+    - - 725944.2
+      - 5029072.84
+      - 1559.0
+    - - 725943.25
+      - 5029072.53
+      - 1554.0
+    - - 725944.2
+      - 5029072.84
+      - 1550.0
+    - - 725944.2
+      - 5029072.84
+      - 1558.0
+    - - 725943.41
+      - 5029068.92
+      - 1554.0
+    - - 725944.99
+      - 5029076.76
+      - 1554.0
+    2643:
+    - - 725978.3
+      - 5029220.36
+      - 1403.54
+    - - 725978.18
+      - 5029222.36
+      - 1398.54
+    1619:
+    - - 725974.78
+      - 5029040.48
+      - 1482.86
+    - - 725975.66
+      - 5029040.0
+      - 1479.86
+    1621:
+    - - 725973.89
+      - 5029249.64
+      - 1338.69
+    - - 725973.86
+      - 5029250.64
+      - 1333.69
+    595:
+    - - 725991.2
+      - 5029244.75
+      - 1302.38
+    3156:
+    - - 725939.54
+      - 5029009.36
+      - 1482.61
+    - - 725938.78
+      - 5029008.71
+      - 1479.61
+    601:
+    - - 725973.84
+      - 5029002.07
+      - 1486.56
+    - - 725974.22
+      - 5029001.15
+      - 1483.56
+    1114:
+    - - 725944.0
+      - 5029072.0
+      - 1584.0
+    - - 725944.0
+      - 5029072.0
+      - 1590.0
+    - - 725945.97
+      - 5029071.6
+      - 1587.0
+    - - 725942.03
+      - 5029072.4
+      - 1587.0
+    605:
+    - - 725913.98
+      - 5028906.2
+      - 1494.71
+    - - 725913.64
+      - 5028905.27
+      - 1491.71
+    1630:
+    - - 725932.97
+      - 5029017.7
+      - 1482.14
+    - - 725933.61
+      - 5029016.93
+      - 1479.14
+    96:
+    - - 725983.67
+      - 5029248.76
+      - 1298.79
+    - - 725983.67
+      - 5029248.76
+      - 1306.79
+    - - 725977.74
+      - 5029243.38
+      - 1302.79
+    - - 725985.15
+      - 5029250.1
+      - 1302.79
+    1122:
+    - - 725910.64
+      - 5028914.03
+      - 1493.54
+    - - 725909.64
+      - 5028914.02
+      - 1490.54
+    2147:
+    - - 725942.01
+      - 5029155.37
+      - 1465.64
+    - - 725942.01
+      - 5029155.37
+      - 1473.64
+    - - 725943.56
+      - 5029159.06
+      - 1469.64
+    - - 725940.47
+      - 5029151.68
+      - 1469.64
+    2660:
+    - - 725941.45
+      - 5029164.9
+      - 1465.34
+    - - 725941.62
+      - 5029163.92
+      - 1460.34
+    1124:
+    - - 725986.89
+      - 5029094.61
+      - 1462.87
+    - - 725986.16
+      - 5029093.92
+      - 1459.87
+    1638:
+    - - 725960.62
+      - 5029085.81
+      - 1466.11
+    - - 725960.79
+      - 5029084.83
+      - 1463.11
+    1127:
+    - - 725991.48
+      - 5028959.56
+      - 1491.66
+    - - 725992.38
+      - 5028959.1
+      - 1488.66
+    1123:
+    - - 725910.54
+      - 5028910.56
+      - 1494.24
+    - - 725910.0
+      - 5028909.72
+      - 1491.24
+    3177:
+    - - 725946.71
+      - 5029079.17
+      - 1519.26
+    - - 725945.94
+      - 5029079.81
+      - 1514.26
+    2666:
+    - - 725968.38
+      - 5029190.51
+      - 1447.07
+    - - 725968.45
+      - 5029191.5
+      - 1444.07
+    2667:
+    - - 725944.61
+      - 5029165.31
+      - 1464.41
+    - - 725945.27
+      - 5029164.55
+      - 1459.41
+    105:
+    - - 725983.59
+      - 5029151.38
+      - 1451.48
+    - - 725982.66
+      - 5029151.01
+      - 1448.48
+    1643:
+    - - 725999.83
+      - 5029265.31
+      - 1430.04
+    - - 725999.08
+      - 5029264.64
+      - 1425.04
+    2670:
+    - - 725985.45
+      - 5029246.65
+      - 1303.31
+    2671:
+    - - 725969.3
+      - 5028988.38
+      - 1487.26
+    - - 725969.3
+      - 5028988.38
+      - 1487.26
+    - - 725969.72
+      - 5028987.47
+      - 1484.26
+    1649:
+    - - 725975.65
+      - 5029229.57
+      - 1433.51
+    - - 725976.48
+      - 5029229.02
+      - 1428.51
+    1139:
+    - - 725976.56
+      - 5029225.26
+      - 1443.27
+    - - 725975.59
+      - 5029225.02
+      - 1438.27
+    2166:
+    - - 725929.34
+      - 5029035.08
+      - 1481.45
+    - - 725928.37
+      - 5029034.85
+      - 1478.45
+    633:
+    - - 725997.3
+      - 5029268.42
+      - 1430.04
+    - - 725996.45
+      - 5029268.94
+      - 1425.04
+    2683:
+    - - 725958.72
+      - 5029182.08
+      - 1455.11
+    - - 725959.65
+      - 5029181.71
+      - 1450.11
+    2684:
+    - - 725977.41
+      - 5028965.26
+      - 1490.27
+    - - 725977.38
+      - 5028966.26
+      - 1487.27
+    1147:
+    - - 725979.55
+      - 5029178.3
+      - 1444.75
+    - - 725980.46
+      - 5029177.88
+      - 1441.75
+    3196:
+    - - 725929.74
+      - 5029127.85
+      - 1505.55
+    638:
+    - - 725976.74
+      - 5029220.09
+      - 1436.13
+    - - 725976.74
+      - 5029220.09
+      - 1444.13
+    - - 725975.55
+      - 5029214.2
+      - 1440.13
+    - - 725977.14
+      - 5029222.05
+      - 1440.13
+    - - 725976.74
+      - 5029220.09
+      - 1445.13
+    - - 725975.74
+      - 5029220.01
+      - 1440.13
+    2688:
+    - - 725970.06
+      - 5029238.52
+      - 1356.59
+    - - 725969.2
+      - 5029238.02
+      - 1351.59
+    2177:
+    - - 725963.57
+      - 5029195.28
+      - 1453.26
+    - - 725962.62
+      - 5029195.57
+      - 1448.26
+    1156:
+    - - 725982.36
+      - 5029157.93
+      - 1481.02
+    - - 725981.39
+      - 5029157.7
+      - 1448.02
+    1158:
+    - - 725955.81
+      - 5028999.59
+      - 1484.01
+    - - 725955.72
+      - 5028998.59
+      - 1481.01
+    2695:
+    - - 725996.94
+      - 5029255.75
+      - 1431.66
+    - - 725995.94
+      - 5029255.66
+      - 1426.66
+    1672:
+    - - 725977.66
+      - 5029160.05
+      - 1449.62
+    - - 725977.19
+      - 5029159.16
+      - 1446.62
+    3207:
+    - - 725991.52
+      - 5029139.71
+      - 1457.06
+    - - 725990.65
+      - 5029139.23
+      - 1454.06
+    1678:
+    - - 725929.83
+      - 5029040.18
+      - 1480.75
+    - - 725929.04
+      - 5029039.56
+      - 1477.75
+    1680:
+    - - 725916.78
+      - 5028893.8
+      - 1495.18
+    - - 725915.78
+      - 5028893.7
+      - 1492.18
+    2194:
+    - - 726002.16
+      - 5029250.22
+      - 1250.37
+    - - 726002.16
+      - 5029250.22
+      - 1260.37
+    - - 726005.09
+      - 5029249.54
+      - 1252.37
+    - - 725999.24
+      - 5029250.9
+      - 1252.37
+    149:
+    - - 725980.88
+      - 5029158.2
+      - 1449.86
+    - - 725980.74
+      - 5029157.21
+      - 1446.86
+    3222:
+    - - 725920.78
+      - 5028963.05
+      - 1487.73
+    - - 725919.78
+      - 5028963.02
+      - 1484.73
+    668:
+    - - 725960.41
+      - 5029191.81
+      - 1453.49
+    - - 725961.17
+      - 5029191.17
+      - 1448.49
+    671:
+    - - 725973.79
+      - 5028979.45
+      - 1488.65
+    - - 725974.21
+      - 5028980.37
+      - 1485.65
+    162:
+    - - 725972.03
+      - 5029001.39
+      - 1486.56
+    - - 725973.02
+      - 5029001.22
+      - 1483.56
+    1186:
+    - - 725940.26
+      - 5028990.27
+      - 1483.54
+    - - 725941.16
+      - 5028989.82
+      - 1480.54
+    2725:
+    - - 726005.45
+      - 5029285.09
+      - 1296.88
+    - - 726005.45
+      - 5029285.09
+      - 1311.88
+    - - 726010.14
+      - 5029286.8
+      - 1301.88
+    - - 726000.75
+      - 5029283.38
+      - 1301.88
+    2214:
+    - - 725978.34
+      - 5028968.4
+      - 1489.58
+    - - 725979.31
+      - 5028968.15
+      - 1486.58
+    1703:
+    - - 725950.47
+      - 5029083.35
+      - 1519.03
+    - - 725949.52
+      - 5029083.67
+      - 1514.03
+    2216:
+    - - 725986.3
+      - 5029116.91
+      - 1460.08
+    - - 725985.37
+      - 5029116.54
+      - 1457.08
+    1193:
+    - - 725930.76
+      - 5029029.49
+      - 1481.91
+    - - 725929.77
+      - 5029029.63
+      - 1478.91
+    171:
+    - - 725939.91
+      - 5028969.63
+      - 1489.35
+    - - 725940.45
+      - 5028970.46
+      - 1486.35
+    1199:
+    - - 725973.54
+      - 5029233.63
+      - 1359.14
+    - - 725972.77
+      - 5029232.99
+      - 1354.14
+    2224:
+    - - 725954.16
+      - 5029167.19
+      - 1451.86
+    - - 725955.16
+      - 5029167.12
+      - 1446.86
+    - - 725954.16
+      - 5029167.19
+      - 1443.86
+    - - 725954.16
+      - 5029167.19
+      - 1449.86
+    - - 725955.33
+      - 5029164.42
+      - 1446.86
+    - - 725953.0
+      - 5029169.95
+      - 1446.86
+    2223:
+    - - 725987.8
+      - 5028952.85
+      - 1493.05
+    - - 725988.75
+      - 5028953.18
+      - 1490.05
+    692:
+    - - 725952.13
+      - 5029063.92
+      - 1476.57
+    - - 725953.09
+      - 5029063.64
+      - 1473.57
+    - - 725951.17
+      - 5029064.2
+      - 1473.57
+    1206:
+    - - 725975.67
+      - 5029233.68
+      - 1361.0
+    - - 725976.66
+      - 5029233.53
+      - 1356.0
+    695:
+    - - 725953.08
+      - 5029066.8
+      - 1472.57
+    - - 725953.08
+      - 5029066.8
+      - 1474.57
+    - - 725953.96
+      - 5029066.32
+      - 1473.57
+    - - 725952.19
+      - 5029067.28
+      - 1473.57
+    2236:
+    - - 725918.8
+      - 5028882.66
+      - 1489.41
+    - - 725918.8
+      - 5028882.66
+      - 1495.41
+    - - 725909.69
+      - 5028878.51
+      - 1492.41
+    - - 725920.61
+      - 5028883.49
+      - 1492.41
+    3263:
+    - - 725934.93
+      - 5029146.39
+      - 1482.54
+    - - 725934.76
+      - 5029145.4
+      - 1477.54
+    191:
+    - - 725928.02
+      - 5029042.68
+      - 1480.75
+    - - 725927.07
+      - 5029043.0
+      - 1477.75
+    2751:
+    - - 725931.82
+      - 5028888.91
+      - 1406.33
+    - - 725932.56
+      - 5028891.82
+      - 1401.33
+    - - 725931.08
+      - 5028886.0
+      - 1401.33
+    3266:
+    - - 725969.78
+      - 5029241.69
+      - 1356.82
+    1222:
+    - - 725986.92
+      - 5029228.14
+      - 1363.55
+    - - 725985.92
+      - 5029228.11
+      - 1358.55
+    3273:
+    - - 725935.31
+      - 5029163.57
+      - 1466.27
+    - - 725935.92
+      - 5029162.78
+      - 1461.27
+    2251:
+    - - 725984.41
+      - 5029144.94
+      - 1452.64
+    - - 725983.47
+      - 5029144.59
+      - 1449.64
+    1740:
+    - - 725977.46
+      - 5029168.54
+      - 1448.0
+    - - 725978.46
+      - 5029168.7
+      - 1445.0
+    1228:
+    - - 725998.56
+      - 5029281.57
+      - 1425.39
+    - - 725997.85
+      - 5029282.28
+      - 1420.39
+    1230:
+    - - 725929.45
+      - 5029145.12
+      - 1489.51
+    - - 725929.11
+      - 5029146.06
+      - 1484.51
+    717:
+    - - 725916.09
+      - 5028929.53
+      - 1489.36
+    - - 725915.15
+      - 5028929.88
+      - 1486.36
+    3283:
+    - - 725986.11
+      - 5028963.22
+      - 1491.2
+    - - 725986.64
+      - 5028964.06
+      - 1488.2
+    1238:
+    - - 725926.66
+      - 5029135.83
+      - 1490.2
+    - - 725925.69
+      - 5029136.09
+      - 1485.2
+    214:
+    - - 725978.41
+      - 5029176.07
+      - 1445.91
+    - - 725979.29
+      - 5029176.54
+      - 1442.91
+    218:
+    - - 725978.29
+      - 5029172.87
+      - 1446.84
+    - - 725979.27
+      - 5029173.06
+      - 1443.84
+    1755:
+    - - 725917.47
+      - 5028955.19
+      - 1487.72
+    - - 725916.48
+      - 5028955.25
+      - 1484.72
+    733:
+    - - 725982.73
+      - 5029009.9
+      - 1486.1
+    - - 725983.15
+      - 5029008.99
+      - 1483.1
+    3294:
+    - - 725988.87
+      - 5029246.13
+      - 1432.35
+    - - 725988.06
+      - 5029246.71
+      - 1427.35
+    2271:
+    - - 725936.58
+      - 5028983.57
+      - 1484.01
+    - - 725936.98
+      - 5028982.65
+      - 1481.01
+    1248:
+    - - 725971.18
+      - 5029208.97
+      - 1448.61
+    - - 725970.28
+      - 5029209.41
+      - 1443.61
+    1249:
+    - - 725999.41
+      - 5029246.66
+      - 1257.53
+    1763:
+    - - 725926.12
+      - 5028975.23
+      - 1485.17
+    - - 725927.1
+      - 5028975.01
+      - 1482.17
+    227:
+    - - 725925.03
+      - 5028970.87
+      - 1487.03
+    - - 725925.7
+      - 5028970.12
+      - 1484.03
+    1770:
+    - - 725981.33
+      - 5029098.93
+      - 1472.87
+    - - 725982.3
+      - 5029098.71
+      - 1469.87
+    235:
+    - - 725965.7
+      - 5029201.45
+      - 1451.86
+    - - 725965.08
+      - 5029202.24
+      - 1446.86
+    1772:
+    - - 725920.62
+      - 5028943.35
+      - 1488.42
+    - - 725919.66
+      - 5028943.64
+      - 1485.42
+    237:
+    - - 725984.94
+      - 5029221.99
+      - 1401.22
+    - - 725985.13
+      - 5029222.98
+      - 1396.22
+    1773:
+    - - 726002.74
+      - 5029274.87
+      - 1429.11
+    - - 726001.91
+      - 5029275.43
+      - 1424.11
+    1266:
+    - - 725972.44
+      - 5029199.11
+      - 1430.11
+    - - 725971.46
+      - 5029199.35
+      - 1427.11
+    3315:
+    - - 725961.04
+      - 5028992.99
+      - 1485.41
+    - - 725960.84
+      - 5028992.01
+      - 1482.41
+    3316:
+    - - 726002.91
+      - 5029279.02
+      - 1428.18
+    - - 726002.95
+      - 5029278.02
+      - 1423.18
+    755:
+    - - 725948.55
+      - 5029000.55
+      - 1484.01
+    - - 725947.83
+      - 5028999.85
+      - 1481.01
+    1783:
+    - - 725959.5
+      - 5029080.26
+      - 1466.58
+    - - 725960.49
+      - 5029080.1
+      - 1463.58
+    1272:
+    - - 725984.46
+      - 5029068.73
+      - 1476.35
+    - - 725985.32
+      - 5029068.23
+      - 1473.35
+    764:
+    - - 725993.13
+      - 5029136.52
+      - 1457.52
+    - - 725992.13
+      - 5029136.66
+      - 1454.52
+    1279:
+    - - 725923.42
+      - 5028969.53
+      - 1486.79
+    - - 725924.31
+      - 5028969.98
+      - 1483.79
+    1792:
+    - - 725923.76
+      - 5028963.98
+      - 1487.49
+    - - 725923.44
+      - 5028964.92
+      - 1484.49
+    1283:
+    - - 725969.11
+      - 5029240.31
+      - 1356.59
+    - - 725968.19
+      - 5029240.72
+      - 1351.59
+    259:
+    - - 725977.41
+      - 5028977.64
+      - 1488.88
+    - - 725978.4
+      - 5028977.53
+      - 1485.88
+    1285:
+    - - 725939.28
+      - 5029145.43
+      - 1479.05
+    - - 725940.09
+      - 5029144.84
+      - 1474.05
+    1286:
+    - - 725925.33
+      - 5029123.48
+      - 1506.25
+    - - 725924.59
+      - 5029124.16
+      - 1501.25
+    774:
+    - - 725979.22
+      - 5029174.42
+      - 1446.37
+    - - 725980.1
+      - 5029173.93
+      - 1443.37
+    3333:
+    - - 725976.46
+      - 5029034.9
+      - 1484.48
+    - - 725976.62
+      - 5029035.89
+      - 1481.48
+    3337:
+    - - 725999.97
+      - 5029277.57
+      - 1426.08
+    - - 725999.04
+      - 5029277.2
+      - 1421.08
+    1807:
+    - - 725968.48
+      - 5029197.03
+      - 1446.37
+    - - 725969.45
+      - 5029197.28
+      - 1443.37
+    272:
+    - - 725954.69
+      - 5029171.88
+      - 1454.88
+    - - 725955.69
+      - 5029171.88
+      - 1449.88
+    1296:
+    - - 725985.07
+      - 5029243.81
+      - 1432.58
+    274:
+    - - 725977.49
+      - 5029188.24
+      - 1446.84
+    2324:
+    - - 725918.56
+      - 5028947.16
+      - 1487.72
+    - - 725918.36
+      - 5028946.18
+      - 1484.72
+    284:
+    - - 725992.95
+      - 5029232.25
+      - 1364.49
+    - - 725993.92
+      - 5029232.01
+      - 1359.49
+    287:
+    - - 725979.09
+      - 5029234.38
+      - 1434.21
+    - - 725979.3
+      - 5029233.41
+      - 1429.21
+    800:
+    - - 725996.95
+      - 5029245.91
+      - 1293.75
+    - - 725996.95
+      - 5029245.91
+      - 1300.75
+    - - 726000.19
+      - 5029236.45
+      - 1296.75
+    - - 725996.63
+      - 5029246.86
+      - 1296.75
+    801:
+    - - 725985.7
+      - 5029242.67
+      - 1425.98
+    - - 725985.7
+      - 5029242.67
+      - 1431.98
+    - - 725988.28
+      - 5029244.21
+      - 1428.98
+    - - 725983.13
+      - 5029241.12
+      - 1428.98
+    802:
+    - - 725918.65
+      - 5028898.35
+      - 1494.94
+    - - 725917.72
+      - 5028898.7
+      - 1491.94
+    804:
+    - - 725963.52
+      - 5028985.89
+      - 1486.33
+    - - 725962.59
+      - 5028985.53
+      - 1483.33
+    294:
+    - - 725982.51
+      - 5029234.94
+      - 1434.91
+    - - 725983.36
+      - 5029234.42
+      - 1429.91
+    2343:
+    - - 725931.58
+      - 5029033.94
+      - 1481.91
+    - - 725931.15
+      - 5029033.03
+      - 1478.91
+    2859:
+    - - 725969.83
+      - 5029244.22
+      - 1346.26
+    - - 725969.83
+      - 5029244.22
+      - 1352.26
+    - - 725976.43
+      - 5029241.88
+      - 1349.26
+    - - 725967.94
+      - 5029244.89
+      - 1349.26
+    1838:
+    - - 725939.01
+      - 5028997.08
+      - 1484.01
+    - - 725939.83
+      - 5028997.64
+      - 1481.01
+    814:
+    - - 725935.26
+      - 5028969.49
+      - 1488.42
+    - - 725935.19
+      - 5028970.49
+      - 1485.42
+    3378:
+    - - 725932.12
+      - 5029109.57
+      - 1506.49
+    - - 725931.24
+      - 5029109.11
+      - 1501.49
+    1331:
+    - - 725994.17
+      - 5029254.04
+      - 1432.12
+    - - 725993.61
+      - 5029254.88
+      - 1427.12
+    1844:
+    - - 725975.11
+      - 5029230.84
+      - 1360.3
+    - - 725974.5
+      - 5029230.05
+      - 1355.3
+    1845:
+    - - 725933.34
+      - 5029146.38
+      - 1479.58
+    - - 725933.34
+      - 5029146.38
+      - 1487.58
+    - - 725933.49
+      - 5029142.38
+      - 1483.58
+    - - 725933.19
+      - 5029150.38
+      - 1483.58
+    2867:
+    - - 725933.62
+      - 5028982.38
+      - 1484.01
+    - - 725934.48
+      - 5028981.87
+      - 1481.01
+    823:
+    - - 725945.75
+      - 5029003.64
+      - 1483.54
+    - - 725945.97
+      - 5029002.66
+      - 1480.54
+    2362:
+    - - 725973.96
+      - 5029204.56
+      - 1422.21
+    - - 725972.98
+      - 5029204.77
+      - 1419.21
+    2363:
+    - - 725977.54
+      - 5029219.89
+      - 1409.88
+    - - 725977.54
+      - 5029219.89
+      - 1417.88
+    - - 725981.97
+      - 5029213.22
+      - 1413.88
+    - - 725976.44
+      - 5029221.56
+      - 1413.88
+    827:
+    - - 725975.86
+      - 5029228.66
+      - 1432.71
+    - - 725975.86
+      - 5029228.66
+      - 1438.71
+    - - 725978.76
+      - 5029229.43
+      - 1435.71
+    - - 725972.97
+      - 5029227.88
+      - 1435.71
+    1340:
+    - - 725969.57
+      - 5029248.87
+      - 1343.11
+    2369:
+    - - 725973.88
+      - 5029006.21
+      - 1486.33
+    - - 725974.88
+      - 5029006.24
+      - 1483.33
+    2882:
+    - - 725957.37
+      - 5028993.87
+      - 1484.25
+    - - 725956.42
+      - 5028993.58
+      - 1481.25
+    323:
+    - - 725982.41
+      - 5029220.44
+      - 1400.75
+    - - 725982.96
+      - 5029219.61
+      - 1395.75
+    - - 725981.86
+      - 5029221.28
+      - 1395.75
+    2371:
+    - - 725941.88
+      - 5029060.91
+      - 1478.9
+    - - 725941.88
+      - 5029061.91
+      - 1475.9
+    2885:
+    - - 726000.26
+      - 5029272.8
+      - 1429.81
+    - - 726000.25
+      - 5029273.8
+      - 1424.81
+    2891:
+    - - 725969.28
+      - 5029207.88
+      - 1448.84
+    - - 725968.75
+      - 5029208.72
+      - 1443.84
+    2895:
+    - - 725977.86
+      - 5029191.73
+      - 1436.15
+    - - 725977.08
+      - 5029191.11
+      - 1433.15
+    848:
+    - - 725978.62
+      - 5029170.64
+      - 1447.53
+    - - 725979.51
+      - 5029170.19
+      - 1444.53
+    3408:
+    - - 725973.96
+      - 5029231.81
+      - 1360.07
+    - - 725973.0
+      - 5029231.55
+      - 1355.07
+    338:
+    - - 725992.1
+      - 5029125.26
+      - 1458.68
+    - - 725991.35
+      - 5029125.92
+      - 1455.68
+    336:
+    - - 725992.83
+      - 5029098.31
+      - 1457.94
+    - - 725992.83
+      - 5029098.31
+      - 1459.94
+    - - 725992.27
+      - 5029099.14
+      - 1458.94
+    - - 725993.39
+      - 5029097.49
+      - 1458.94
+    3415:
+    - - 725927.73
+      - 5029047.58
+      - 1479.59
+    - - 725926.81
+      - 5029047.19
+      - 1476.59
+    2907:
+    - - 725948.88
+      - 5028891.85
+      - 1429.57
+    - - 725948.43
+      - 5028894.82
+      - 1424.57
+    - - 725949.33
+      - 5028888.88
+      - 1424.57
+    860:
+    - - 725954.95
+      - 5029178.03
+      - 1455.35
+    - - 725955.7
+      - 5029177.38
+      - 1450.35
+    2909:
+    - - 725986.93
+      - 5029229.61
+      - 1363.32
+    - - 725986.87
+      - 5029228.61
+      - 1358.32
+    348:
+    - - 725980.52
+      - 5029034.06
+      - 1484.48
+    - - 725981.26
+      - 5029034.74
+      - 1481.48
+    350:
+    - - 725976.65
+      - 5028972.51
+      - 1489.34
+    - - 725977.57
+      - 5028972.92
+      - 1486.34
+    2399:
+    - - 725928.23
+      - 5029014.1
+      - 1482.14
+    - - 725927.36
+      - 5029013.6
+      - 1479.14
+    3425:
+    - - 725988.61
+      - 5029137.99
+      - 1455.2
+    - - 725989.14
+      - 5029137.15
+      - 1452.2
+    866:
+    - - 725941.3
+      - 5029002.86
+      - 1483.54
+    - - 725942.24
+      - 5029002.52
+      - 1480.54
+    - - 725941.3
+      - 5029002.86
+      - 1483.54
+    - - 725940.35
+      - 5029002.57
+      - 1480.54
+    3430:
+    - - 725971.89
+      - 5029216.08
+      - 1448.15
+    - - 725972.03
+      - 5029217.07
+      - 1443.15
+    2918:
+    - - 725915.91
+      - 5028905.44
+      - 1494.71
+    - - 725914.99
+      - 5028905.05
+      - 1491.71
+    360:
+    - - 725930.89
+      - 5029128.49
+      - 1491.14
+    - - 725930.04
+      - 5029127.96
+      - 1486.14
+    873:
+    - - 725972.2
+      - 5029235.37
+      - 1358.44
+    - - 725973.15
+      - 5029235.06
+      - 1353.44
+    1897:
+    - - 725926.97
+      - 5029022.5
+      - 1482.14
+    - - 725925.99
+      - 5029022.3
+      - 1479.14
+    3433:
+    - - 725921.81
+      - 5028945.05
+      - 1488.65
+    - - 725920.97
+      - 5028945.59
+      - 1485.65
+    2921:
+    - - 725912.24
+      - 5028909.38
+      - 1494.47
+    - - 725911.38
+      - 5028908.87
+      - 1491.47
+    361:
+    - - 725919.82
+      - 5028880.18
+      - 1446.89
+    - - 725919.82
+      - 5028880.18
+      - 1452.89
+    - - 725923.79
+      - 5028871.01
+      - 1449.89
+    - - 725919.02
+      - 5028882.01
+      - 1449.89
+    1905:
+    - - 725975.43
+      - 5029088.43
+      - 1464.25
+    - - 725975.84
+      - 5029087.51
+      - 1461.25
+    370:
+    - - 725952.31
+      - 5029088.3
+      - 1507.24
+    - - 725952.31
+      - 5029088.3
+      - 1516.24
+    - - 725954.88
+      - 5029091.36
+      - 1511.24
+    - - 725949.74
+      - 5029085.24
+      - 1511.24
+    1399:
+    - - 726000.28
+      - 5029283.18
+      - 1413.3
+    - - 726000.28
+      - 5029283.18
+      - 1428.3
+    - - 725998.85
+      - 5029278.39
+      - 1418.3
+    - - 726001.71
+      - 5029287.97
+      - 1418.3
+    377:
+    - - 725974.56
+      - 5029046.06
+      - 1481.46
+    - - 725975.56
+      - 5029046.13
+      - 1478.46
+    3455:
+    - - 725967.96
+      - 5029203.11
+      - 1446.37
+    - - 725968.95
+      - 5029203.23
+      - 1443.37
+    - - 725967.96
+      - 5029203.11
+      - 1448.37
+    - - 725966.98
+      - 5029203.34
+      - 1443.37
+    897:
+    - - 725989.42
+      - 5029220.92
+      - 1398.89
+    - - 725988.47
+      - 5029221.23
+      - 1393.89
+    386:
+    - - 725982.58
+      - 5029230.69
+      - 1362.4
+    - - 725982.47
+      - 5029229.7
+      - 1357.4
+    2947:
+    - - 725943.82
+      - 5029074.14
+      - 1558.3
+    - - 725942.82
+      - 5029074.05
+      - 1553.3
+    1410:
+    - - 725912.87
+      - 5028919.01
+      - 1491.68
+    - - 725911.96
+      - 5028918.59
+      - 1488.68
+    1926:
+    - - 725999.42
+      - 5029260.89
+      - 1430.73
+    - - 725998.47
+      - 5029260.57
+      - 1425.73
+    1416:
+    - - 725966.01
+      - 5029086.54
+      - 1465.65
+    - - 725966.78
+      - 5029085.91
+      - 1462.65
+    1929:
+    - - 725926.0
+      - 5029018.29
+      - 1482.14
+    - - 725925.02
+      - 5029018.49
+      - 1479.14
+    2443:
+    - - 725982.23
+      - 5029065.21
+      - 1476.58
+    - - 725983.23
+      - 5029065.08
+      - 1473.58
+    908:
+    - - 725970.28
+      - 5029234.42
+      - 1357.28
+    - - 725969.28
+      - 5029234.33
+      - 1352.28
+    397:
+    - - 725987.31
+      - 5029140.67
+      - 1453.34
+    - - 725986.43
+      - 5029140.2
+      - 1450.34
+    914:
+    - - 725934.78
+      - 5028890.23
+      - 1408.79
+    - - 725934.78
+      - 5028890.23
+      - 1414.79
+    - - 725930.37
+      - 5028899.21
+      - 1411.79
+    - - 725935.65
+      - 5028888.44
+      - 1411.79
+    2453:
+    - - 725975.07
+      - 5029054.09
+      - 1479.13
+    - - 725976.03
+      - 5029054.33
+      - 1476.13
+    413:
+    - - 725983.94
+      - 5029097.96
+      - 1471.93
+    - - 725983.62
+      - 5029097.01
+      - 1468.93
+    2973:
+    - - 725984.8
+      - 5029029.11
+      - 1484.71
+    - - 725985.77
+      - 5029029.37
+      - 1481.71
+    2463:
+    - - 725929.74
+      - 5028976.47
+      - 1485.4
+    - - 725930.09
+      - 5028975.53
+      - 1482.4
+    - - 725929.74
+      - 5028976.47
+      - 1485.4
+    - - 725930.29
+      - 5028977.3
+      - 1482.4
+    2469:
+    - - 725992.13
+      - 5029254.53
+      - 1431.89
+    - - 725992.33
+      - 5029255.51
+      - 1426.89
+    433:
+    - - 725976.38
+      - 5029215.0
+      - 1446.29
+    - - 725975.38
+      - 5029215.03
+      - 1441.29
+    945:
+    - - 725983.98
+      - 5029229.88
+      - 1362.63
+    - - 725983.51
+      - 5029229.0
+      - 1357.63
+    1971:
+    - - 726006.86
+      - 5029280.96
+      - 1309.66
+    - - 726009.66
+      - 5029282.03
+      - 1304.66
+    - - 726004.99
+      - 5029280.24
+      - 1304.66
+    1462:
+    - - 725926.42
+      - 5029025.79
+      - 1482.14
+    - - 725925.74
+      - 5029026.53
+      - 1479.14
+    3000:
+    - - 725991.95
+      - 5029130.03
+      - 1458.22
+    - - 725990.95
+      - 5029129.96
+      - 1455.22
+    1987:
+    - - 725975.59
+      - 5029187.14
+      - 1447.07
+    - - 725975.06
+      - 5029187.99
+      - 1444.07
+    964:
+    - - 725985.16
+      - 5029147.0
+      - 1451.95
+    - - 725984.21
+      - 5029147.31
+      - 1448.95
+    1477:
+    - - 725938.94
+      - 5029166.15
+      - 1465.34
+    - - 725938.53
+      - 5029165.23
+      - 1460.34
+    454:
+    - - 725986.16
+      - 5029246.7
+      - 1432.11
+    - - 725986.32
+      - 5029247.69
+      - 1427.11
+    2505:
+    - - 725981.47
+      - 5029090.94
+      - 1463.55
+    - - 725980.9
+      - 5029091.77
+      - 1460.55
+    1487:
+    - - 725924.57
+      - 5028966.97
+      - 1486.79
+    - - 725923.59
+      - 5028967.2
+      - 1483.79
+    1488:
+    - - 725954.64
+      - 5029079.57
+      - 1467.51
+    - - 725954.82
+      - 5029078.59
+      - 1464.51
+    2002:
+    - - 725978.26
+      - 5029231.38
+      - 1361.93
+    - - 725977.43
+      - 5029230.83
+      - 1356.93
+    2004:
+    - - 725945.29
+      - 5028965.83
+      - 1491.44
+    - - 725946.29
+      - 5028965.79
+      - 1488.44
+    470:
+    - - 725992.03
+      - 5029228.98
+      - 1364.26
+    - - 725992.24
+      - 5029228.01
+      - 1359.26
+    471:
+    - - 725946.09
+      - 5029091.09
+      - 1507.64
+    - - 725945.83
+      - 5029090.12
+      - 1502.64
+    3030:
+    - - 725990.18
+      - 5029247.84
+      - 1432.35
+    - - 725989.41
+      - 5029247.21
+      - 1427.35
+    3033:
+    - - 725932.84
+      - 5029095.0
+      - 1506.72
+    - - 725931.84
+      - 5029094.91
+      - 1501.72
+    475:
+    - - 725988.08
+      - 5029250.59
+      - 1432.58
+    - - 725987.35
+      - 5029251.28
+      - 1427.58
+    3040:
+    - - 725955.63
+      - 5029071.14
+      - 1469.37
+    - - 725956.62
+      - 5029071.3
+      - 1466.37
+    2018:
+    - - 725976.15
+      - 5029049.26
+      - 1480.75
+    - - 725977.07
+      - 5029048.84
+      - 1477.75
+    484:
+    - - 725976.87
+      - 5029233.66
+      - 1361.46
+    - - 725976.88
+      - 5029232.66
+      - 1356.46
+    1512:
+    - - 725921.01
+      - 5028946.58
+      - 1488.41
+    - - 725920.14
+      - 5028946.09
+      - 1485.41
+    3050:
+    - - 725972.92
+      - 5029037.39
+      - 1483.32
+    - - 725973.46
+      - 5029038.23
+      - 1480.32
+    491:
+    - - 725947.09
+      - 5029060.7
+      - 1477.97
+    - - 725946.2
+      - 5029061.16
+      - 1474.97
+    2540:
+    - - 725980.72
+      - 5029056.43
+      - 1477.74
+    - - 725981.14
+      - 5029055.52
+      - 1474.74
+    2541:
+    - - 725992.74
+      - 5029230.12
+      - 1385.86
+    - - 725992.74
+      - 5029230.12
+      - 1395.86
+    - - 725997.73
+      - 5029229.81
+      - 1390.86
+    - - 725987.75
+      - 5029230.44
+      - 1390.86
+    497:
+    - - 725942.15
+      - 5029149.13
+      - 1476.5
+    - - 725943.15
+      - 5029149.19
+      - 1471.5
+    1009:
+    - - 725970.16
+      - 5029245.06
+      - 1343.34
+    3064:
+    - - 725998.68
+      - 5029263.35
+      - 1430.73
+    - - 725997.8
+      - 5029263.82
+      - 1425.73
+    3068:
+    - - 725926.02
+      - 5029051.96
+      - 1478.9
+    - - 725925.5
+      - 5029052.81
+      - 1475.9
+    1022:
+    - - 725979.93
+      - 5029187.79
+      - 1440.05
+    - - 725979.93
+      - 5029187.79
+      - 1442.05
+    - - 725980.79
+      - 5029188.28
+      - 1441.05
+    - - 725979.06
+      - 5029187.29
+      - 1441.05
+  flags:
+    1538:
+    - fix
+    1027:
+    - fix
+    516:
+    - fix
+    1030:
+    - fix
+    519:
+    - fix
+    2057:
+    - fix
+    1033:
+    - fix
+    1546:
+    - fix
+    1035:
+    - fix
+    1041:
+    - fix
+    2580:
+    - fix
+    2585:
+    - fix
+    26:
+    - fix
+    1562:
+    - fix
+    2076:
+    - fix
+    3108:
+    - fix
+    1062:
+    - fix
+    2087:
+    - fix
+    3112:
+    - fix
+    553:
+    - fix
+    42:
+    - fix
+    2091:
+    - fix
+    3119:
+    - fix
+    1076:
+    - fix
+    1077:
+    - fix
+    2100:
+    - fix
+    56:
+    - fix
+    2616:
+    - fix
+    573:
+    - fix
+    2110:
+    - fix
+    63:
+    - fix
+    1599:
+    - fix
+    1089:
+    - fix
+    2109:
+    - fix
+    1604:
+    - fix
+    1092:
+    - fix
+    1608:
+    - fix
+    74:
+    - fix
+    1611:
+    - fix
+    76:
+    - fix
+    3153:
+    - fix
+    2643:
+    - fix
+    1619:
+    - fix
+    1621:
+    - fix
+    595:
+    - fix
+    3156:
+    - fix
+    3157:
+    - fix
+    601:
+    - fix
+    1114:
+    - ent
+    - fix
+    605:
+    - fix
+    1630:
+    - fix
+    96:
+    - fix
+    1122:
+    - fix
+    2147:
+    - fix
+    2660:
+    - fix
+    1124:
+    - fix
+    1638:
+    - fix
+    1127:
+    - fix
+    1123:
+    - fix
+    3177:
+    - fix
+    2666:
+    - fix
+    2667:
+    - fix
+    105:
+    - fix
+    1643:
+    - fix
+    2670:
+    - fix
+    2671:
+    - fix
+    1649:
+    - fix
+    1139:
+    - fix
+    2166:
+    - fix
+    633:
+    - fix
+    2683:
+    - fix
+    2684:
+    - fix
+    1147:
+    - fix
+    3196:
+    - fix
+    638:
+    - fix
+    2688:
+    - fix
+    2177:
+    - fix
+    1156:
+    - fix
+    1158:
+    - fix
+    2695:
+    - fix
+    1672:
+    - fix
+    3207:
+    - fix
+    1678:
+    - fix
+    1680:
+    - fix
+    2194:
+    - fix
+    149:
+    - fix
+    3222:
+    - fix
+    668:
+    - fix
+    671:
+    - fix
+    162:
+    - fix
+    1186:
+    - fix
+    2725:
+    - fix
+    2214:
+    - fix
+    1703:
+    - fix
+    2216:
+    - fix
+    1193:
+    - fix
+    171:
+    - fix
+    1199:
+    - fix
+    2224:
+    - fix
+    2223:
+    - fix
+    692:
+    - fix
+    1206:
+    - fix
+    695:
+    - fix
+    2236:
+    - fix
+    3263:
+    - fix
+    191:
+    - fix
+    2751:
+    - fix
+    3266:
+    - fix
+    1222:
+    - fix
+    1735:
+    - fix
+    3273:
+    - fix
+    2251:
+    - fix
+    1740:
+    - fix
+    1228:
+    - fix
+    1230:
+    - fix
+    717:
+    - fix
+    3283:
+    - fix
+    1238:
+    - fix
+    214:
+    - fix
+    727:
+    - fix
+    2263:
+    - fix
+    218:
+    - fix
+    1755:
+    - fix
+    733:
+    - fix
+    3294:
+    - fix
+    2271:
+    - fix
+    1248:
+    - fix
+    1249:
+    - fix
+    1763:
+    - fix
+    227:
+    - fix
+    1770:
+    - fix
+    235:
+    - fix
+    1772:
+    - fix
+    237:
+    - fix
+    1773:
+    - fix
+    1266:
+    - fix
+    3315:
+    - fix
+    3316:
+    - fix
+    755:
+    - fix
+    1783:
+    - fix
+    1272:
+    - fix
+    764:
+    - fix
+    1279:
+    - fix
+    1792:
+    - fix
+    1283:
+    - fix
+    259:
+    - fix
+    1285:
+    - fix
+    1286:
+    - fix
+    774:
+    - fix
+    3333:
+    - fix
+    3337:
+    - fix
+    1807:
+    - fix
+    272:
+    - fix
+    1296:
+    - fix
+    274:
+    - fix
+    2324:
+    - fix
+    284:
+    - fix
+    287:
+    - fix
+    800:
+    - fix
+    801:
+    - fix
+    802:
+    - fix
+    804:
+    - fix
+    294:
+    - fix
+    2343:
+    - fix
+    2859:
+    - fix
+    1838:
+    - fix
+    814:
+    - fix
+    3378:
+    - fix
+    1331:
+    - fix
+    1844:
+    - fix
+    1845:
+    - fix
+    2867:
+    - fix
+    823:
+    - fix
+    2362:
+    - fix
+    2363:
+    - fix
+    827:
+    - fix
+    1340:
+    - fix
+    2369:
+    - fix
+    2882:
+    - fix
+    323:
+    - fix
+    2371:
+    - fix
+    2885:
+    - fix
+    3401:
+    - fix
+    2891:
+    - fix
+    2895:
+    - fix
+    848:
+    - fix
+    3408:
+    - fix
+    338:
+    - fix
+    336:
+    - fix
+    3415:
+    - fix
+    2907:
+    - fix
+    860:
+    - fix
+    2909:
+    - fix
+    348:
+    - fix
+    350:
+    - fix
+    2399:
+    - fix
+    3425:
+    - fix
+    866:
+    - fix
+    3430:
+    - fix
+    2918:
+    - fix
+    360:
+    - fix
+    873:
+    - fix
+    1897:
+    - fix
+    3433:
+    - fix
+    2921:
+    - fix
+    361:
+    - fix
+    1905:
+    - fix
+    370:
+    - fix
+    1399:
+    - fix
+    377:
+    - fix
+    3455:
+    - fix
+    897:
+    - fix
+    386:
+    - fix
+    2947:
+    - fix
+    1410:
+    - fix
+    1926:
+    - fix
+    1416:
+    - fix
+    1929:
+    - fix
+    2443:
+    - fix
+    908:
+    - fix
+    397:
+    - fix
+    1931:
+    - fix
+    914:
+    - fix
+    2453:
+    - fix
+    413:
+    - fix
+    2973:
+    - fix
+    2463:
+    - fix
+    2469:
+    - fix
+    433:
+    - fix
+    945:
+    - fix
+    1971:
+    - fix
+    3508:
+    - fix
+    1462:
+    - fix
+    3000:
+    - fix
+    1987:
+    - fix
+    964:
+    - fix
+    1477:
+    - fix
+    454:
+    - fix
+    2505:
+    - fix
+    1487:
+    - fix
+    1488:
+    - fix
+    2002:
+    - fix
+    2004:
+    - fix
+    470:
+    - fix
+    471:
+    - fix
+    3030:
+    - fix
+    3033:
+    - fix
+    475:
+    - fix
+    3040:
+    - fix
+    2018:
+    - fix
+    484:
+    - fix
+    1512:
+    - fix
+    3050:
+    - fix
+    491:
+    - fix
+    2540:
+    - fix
+    2541:
+    - fix
+    3054:
+    - fix
+    497:
+    - fix
+    1009:
+    - fix
+    1013:
+    - fix
+    3064:
+    - fix
+    3068:
+    - fix
+    1022:
+    - fix
+  csdim:
+    1538:
+    - 0.44
+    - 2.94
+    1027:
+    - 1.0
+    - 2.31
+    516:
+    - 4.88
+    - 6.75
+    1030:
+    - 0.27
+    - 3.13
+    519:
+    - 3.02
+    - 7.2
+    2057:
+    - 0.15
+    - 2.96
+    1033:
+    - 7.34
+    - 6.33
+    1546:
+    - 0.37
+    - 3.01
+    1035:
+    - 0.41
+    - 2.93
+    1041:
+    - 0.39
+    - 3.78
+    2580:
+    - 6.96
+    - 5.0
+    2585:
+    - 6.01
+    - 2.81
+    26:
+    - 0.09
+    - 4.44
+    2076:
+    - 0.22
+    - 5.0
+    3108:
+    - 0.21
+    - 2.34
+    1062:
+    - 0.13
+    - 3.13
+    2087:
+    - 0.69
+    - 4.99
+    3112:
+    - 0.79
+    - 4.76
+    553:
+    - 0.4
+    - 3.0
+    42:
+    - 0.76
+    - 3.03
+    2091:
+    - 0.34
+    - 4.21
+    3119:
+    - 0.13
+    - 2.99
+    1076:
+    - 0.32
+    - 3.0
+    1077:
+    - 0.77
+    - 4.89
+    2100:
+    - 2.0
+    - 2.0
+    56:
+    - 0.33
+    - 3.0
+    2616:
+    - 0.48
+    - 2.99
+    573:
+    - 0.41
+    - 2.76
+    2110:
+    - 0.42
+    - 5.0
+    63:
+    - 0.31
+    - 3.14
+    1599:
+    - 1.33
+    - 1.33
+    1089:
+    - 0.92
+    - 3.72
+    2109:
+    - 0.47
+    - 3.05
+    1604:
+    - 0.43
+    - 4.96
+    1092:
+    - 6.13
+    - 7.01
+    1608:
+    - 0.21
+    - 2.58
+    74:
+    - 0.38
+    - 5.08
+    1611:
+    - 0.4
+    - 3.02
+    76:
+    - 0.4
+    - 2.44
+    3153:
+    - 3.67
+    - 3.67
+    2643:
+    - 2.0
+    - 4.36
+    1619:
+    - 0.28
+    - 3.13
+    1621:
+    - 1.0
+    - 2.8
+    595:
+    - 0.0
+    - 3.9
+    3156:
+    - 0.26
+    - 3.14
+    601:
+    - 0.54
+    - 3.04
+    1114:
+    - 4.02
+    - 0.16
+    605:
+    - 0.36
+    - 3.08
+    1630:
+    - 0.73
+    - 3.02
+    96:
+    - 9.99
+    - 7.5
+    1122:
+    - 0.36
+    - 3.11
+    2147:
+    - 0.26
+    - 6.48
+    2660:
+    - 0.27
+    - 4.91
+    1124:
+    - 0.24
+    - 2.4
+    1638:
+    - 0.55
+    - 3.0
+    1127:
+    - 0.65
+    - 2.99
+    1123:
+    - 0.52
+    - 3.07
+    3177:
+    - 1.0
+    - 3.45
+    2666:
+    - 0.83
+    - 3.0
+    2667:
+    - 0.3
+    - 5.05
+    105:
+    - 0.1
+    - 2.94
+    1643:
+    - 0.64
+    - 5.04
+    2670:
+    - 0.0
+    - 2.66
+    2671:
+    - 2.33
+    - 2.33
+    1649:
+    - 0.99
+    - 3.29
+    1139:
+    - 0.58
+    - 3.08
+    2166:
+    - 0.4
+    - 3.0
+    633:
+    - 0.56
+    - 5.03
+    2683:
+    - 0.06
+    - 4.54
+    2684:
+    - 0.83
+    - 2.99
+    1147:
+    - 0.01
+    - 1.87
+    3196:
+    - 0.0
+    - 3.58
+    638:
+    - 3.67
+    - 3.67
+    2688:
+    - 0.28
+    - 5.01
+    2177:
+    - 0.19
+    - 4.64
+    1156:
+    - 0.66
+    - 29.19
+    1158:
+    - 0.59
+    - 3.03
+    2695:
+    - 0.55
+    - 5.07
+    1672:
+    - 0.59
+    - 3.0
+    3207:
+    - 0.74
+    - 2.9
+    1678:
+    - 0.65
+    - 3.0
+    1680:
+    - 0.27
+    - 3.14
+    2194:
+    - 5.38
+    - 7.7
+    149:
+    - 0.37
+    - 1.67
+    3222:
+    - 0.62
+    - 3.0
+    668:
+    - 0.31
+    - 5.03
+    671:
+    - 0.36
+    - 2.98
+    162:
+    - 0.51
+    - 3.04
+    1186:
+    - 0.05
+    - 2.4
+    2725:
+    - 9.99
+    - 12.97
+    2214:
+    - 0.27
+    - 2.92
+    1703:
+    - 0.09
+    - 3.28
+    2216:
+    - 0.45
+    - 3.06
+    1193:
+    - 0.37
+    - 3.05
+    171:
+    - 0.24
+    - 2.96
+    1199:
+    - 0.38
+    - 5.02
+    2224:
+    - 3.0
+    - 3.0
+    2223:
+    - 0.58
+    - 2.77
+    692:
+    - 1.12
+    - 3.1
+    1206:
+    - 0.69
+    - 5.05
+    695:
+    - 1.82
+    - 0.97
+    2236:
+    - 11.97
+    - 3.64
+    3263:
+    - 0.99
+    - 4.28
+    191:
+    - 0.43
+    - 3.12
+    2751:
+    - 5.66
+    - 4.78
+    3266:
+    - 0.0
+    - 3.46
+    1222:
+    - 0.74
+    - 5.01
+    3273:
+    - 0.63
+    - 5.0
+    2251:
+    - 0.42
+    - 3.1
+    1740:
+    - 0.33
+    - 3.08
+    1228:
+    - 0.33
+    - 4.87
+    1230:
+    - 0.41
+    - 5.08
+    717:
+    - 0.03
+    - 3.16
+    3283:
+    - 0.16
+    - 2.99
+    1238:
+    - 0.37
+    - 4.99
+    214:
+    - 0.53
+    - 2.94
+    218:
+    - 0.36
+    - 3.05
+    1755:
+    - 0.47
+    - 2.9
+    733:
+    - 0.32
+    - 3.05
+    3294:
+    - 0.56
+    - 4.98
+    2271:
+    - 0.31
+    - 3.07
+    1248:
+    - 0.3
+    - 4.99
+    1249:
+    - 0.0
+    - 3.1
+    1763:
+    - 0.44
+    - 3.1
+    227:
+    - 0.38
+    - 2.9
+    1770:
+    - 0.75
+    - 3.01
+    235:
+    - 0.34
+    - 4.24
+    1772:
+    - 0.18
+    - 2.57
+    237:
+    - 0.23
+    - 4.46
+    1773:
+    - 0.21
+    - 4.98
+    1266:
+    - 0.07
+    - 3.16
+    3315:
+    - 0.48
+    - 2.95
+    3316:
+    - 0.35
+    - 4.67
+    755:
+    - 0.3
+    - 3.11
+    1783:
+    - 0.62
+    - 2.99
+    1272:
+    - 0.34
+    - 3.0
+    764:
+    - 0.29
+    - 3.0
+    1279:
+    - 0.64
+    - 3.06
+    1792:
+    - 0.47
+    - 2.97
+    1283:
+    - 0.42
+    - 4.93
+    259:
+    - 0.55
+    - 3.0
+    1285:
+    - 0.63
+    - 4.94
+    1286:
+    - 0.54
+    - 5.05
+    774:
+    - 0.45
+    - 3.0
+    3333:
+    - 0.33
+    - 2.52
+    3337:
+    - 0.86
+    - 4.88
+    1807:
+    - 0.0
+    - 2.62
+    272:
+    - 0.95
+    - 2.0
+    1296:
+    - 0.0
+    - 3.96
+    274:
+    - 0.0
+    - 2.93
+    2324:
+    - 0.46
+    - 2.77
+    284:
+    - 1.0
+    - 3.77
+    287:
+    - 0.32
+    - 5.07
+    800:
+    - 10.9
+    - 5.45
+    801:
+    - 0.38
+    - 4.35
+    802:
+    - 0.34
+    - 3.02
+    804:
+    - 0.71
+    - 3.0
+    294:
+    - 0.44
+    - 4.98
+    2343:
+    - 0.62
+    - 2.97
+    2859:
+    - 8.92
+    - 5.8
+    1838:
+    - 0.48
+    - 2.97
+    814:
+    - 0.69
+    - 2.99
+    3378:
+    - 0.23
+    - 5.0
+    1331:
+    - 0.42
+    - 4.75
+    1844:
+    - 0.84
+    - 4.99
+    1845:
+    - 7.43
+    - 5.62
+    2867:
+    - 0.31
+    - 3.15
+    823:
+    - 0.53
+    - 3.08
+    2362:
+    - 1.0
+    - 1.97
+    2363:
+    - 8.67
+    - 8.0
+    827:
+    - 5.98
+    - 5.17
+    1340:
+    - 0.0
+    - 4.95
+    2369:
+    - 0.58
+    - 3.02
+    2882:
+    - 0.51
+    - 2.91
+    323:
+    - 1.15
+    - 3.53
+    2371:
+    - 0.21
+    - 3.16
+    2885:
+    - 0.44
+    - 5.05
+    2891:
+    - 0.34
+    - 5.07
+    2895:
+    - 0.98
+    - 2.34
+    848:
+    - 0.32
+    - 3.11
+    3408:
+    - 0.14
+    - 4.92
+    338:
+    - 0.35
+    - 3.01
+    336:
+    - 1.18
+    - 2.0
+    3415:
+    - 0.42
+    - 3.03
+    2907:
+    - 5.96
+    - 4.91
+    860:
+    - 0.31
+    - 4.93
+    2909:
+    - 0.7
+    - 4.99
+    348:
+    - 0.29
+    - 3.0
+    350:
+    - 0.3
+    - 2.99
+    2399:
+    - 0.74
+    - 3.0
+    3425:
+    - 0.76
+    - 3.02
+    866:
+    - 2.0
+    - 2.0
+    3430:
+    - 0.8
+    - 5.03
+    2918:
+    - 0.37
+    - 3.03
+    360:
+    - 1.0
+    - 3.78
+    873:
+    - 0.9
+    - 5.0
+    1897:
+    - 0.23
+    - 3.0
+    3433:
+    - 0.49
+    - 2.92
+    2921:
+    - 0.2
+    - 2.99
+    361:
+    - 11.95
+    - 5.76
+    1905:
+    - 0.31
+    - 3.01
+    370:
+    - 1.97
+    - 8.14
+    1399:
+    - 4.38
+    - 13.61
+    377:
+    - 0.26
+    - 3.08
+    3455:
+    - 2.5
+    - 2.5
+    897:
+    - 0.72
+    - 5.05
+    386:
+    - 0.24
+    - 5.07
+    2947:
+    - 0.46
+    - 4.47
+    1410:
+    - 0.98
+    - 1.76
+    1926:
+    - 0.68
+    - 5.01
+    1416:
+    - 0.37
+    - 3.09
+    1929:
+    - 0.33
+    - 3.0
+    2443:
+    - 0.22
+    - 3.13
+    908:
+    - 0.55
+    - 4.27
+    397:
+    - 0.26
+    - 3.14
+    914:
+    - 10.34
+    - 5.21
+    2453:
+    - 0.64
+    - 3.05
+    413:
+    - 0.95
+    - 2.16
+    2973:
+    - 0.2
+    - 2.97
+    2463:
+    - 2.0
+    - 2.0
+    2469:
+    - 0.45
+    - 4.86
+    433:
+    - 1.0
+    - 4.23
+    945:
+    - 0.22
+    - 4.9
+    1971:
+    - 5.0
+    - 4.45
+    1462:
+    - 0.46
+    - 3.03
+    3000:
+    - 0.15
+    - 3.04
+    1987:
+    - 0.66
+    - 2.99
+    964:
+    - 0.25
+    - 3.15
+    1477:
+    - 0.5
+    - 5.07
+    454:
+    - 0.62
+    - 4.92
+    2505:
+    - 0.09
+    - 2.92
+    1487:
+    - 0.27
+    - 3.15
+    1488:
+    - 0.67
+    - 3.01
+    2002:
+    - 0.37
+    - 5.06
+    2004:
+    - 0.48
+    - 3.07
+    470:
+    - 0.49
+    - 5.05
+    471:
+    - 0.99
+    - 2.0
+    3030:
+    - 0.63
+    - 5.03
+    3033:
+    - 0.55
+    - 5.0
+    475:
+    - 0.63
+    - 5.06
+    3040:
+    - 0.86
+    - 2.15
+    2018:
+    - 0.35
+    - 3.12
+    484:
+    - 0.46
+    - 4.9
+    1512:
+    - 0.41
+    - 2.96
+    3050:
+    - 0.7
+    - 3.06
+    491:
+    - 0.55
+    - 3.0
+    2540:
+    - 0.43
+    - 2.99
+    2541:
+    - 9.55
+    - 7.85
+    497:
+    - 0.48
+    - 4.77
+    1009:
+    - 0.0
+    - 3.52
+    3064:
+    - 0.31
+    - 5.02
+    3068:
+    - 0.63
+    - 2.98
+    1022:
+    - 0.65
+    - 2.0
+  pos:
+    1538:
+    - 725920.75
+    - 5028957.33
+    - 1485.19
+    1027:
+    - 726002.57
+    - 5029251.74
+    - 1230.98
+    516:
+    - 725969.49
+    - 5029243.53
+    - 1350.89
+    1030:
+    - 725917.03
+    - 5028951.03
+    - 1485.18
+    519:
+    - 725943.67
+    - 5029077.45
+    - 1550.52
+    2057:
+    - 725989.17
+    - 5029122.21
+    - 1456.14
+    1033:
+    - 725982.55
+    - 5029249.58
+    - 1333.47
+    1546:
+    - 725984.34
+    - 5028965.19
+    - 1487.96
+    1035:
+    - 725928.63
+    - 5029038.75
+    - 1477.75
+    1041:
+    - 725946.85
+    - 5029167.09
+    - 1458.48
+    2580:
+    - 726004.4
+    - 5029277.15
+    - 1423.64
+    2585:
+    - 725933.33
+    - 5028885.46
+    - 1427.8
+    26:
+    - 725976.36
+    - 5029215.26
+    - 1442.45
+    1562:
+    - 725955.06
+    - 5029167.53
+    - 1445.47
+    2076:
+    - 725984.74
+    - 5029238.33
+    - 1429.44
+    3108:
+    - 725978.05
+    - 5029163.28
+    - 1446.39
+    1062:
+    - 725986.31
+    - 5029022.45
+    - 1482.4
+    2087:
+    - 726002.39
+    - 5029272.72
+    - 1424.57
+    3112:
+    - 725950.29
+    - 5029090.12
+    - 1506.59
+    553:
+    - 725948.59
+    - 5029063.35
+    - 1474.27
+    42:
+    - 725929.64
+    - 5029047.08
+    - 1476.82
+    2091:
+    - 725960.17
+    - 5029185.4
+    - 1448.95
+    3119:
+    - 725985.67
+    - 5029016.0
+    - 1482.64
+    1076:
+    - 725934.56
+    - 5028973.02
+    - 1484.26
+    1077:
+    - 725971.45
+    - 5029233.32
+    - 1353.44
+    2100:
+    - 725912.35
+    - 5028920.43
+    - 1487.29
+    56:
+    - 725973.08
+    - 5029189.98
+    - 1444.07
+    2616:
+    - 725913.37
+    - 5028917.86
+    - 1489.15
+    573:
+    - 725985.67
+    - 5029141.19
+    - 1449.64
+    2110:
+    - 726001.31
+    - 5029279.01
+    - 1422.25
+    63:
+    - 725969.38
+    - 5029192.72
+    - 1444.07
+    1599:
+    - 725979.62
+    - 5029186.69
+    - 1442.91
+    1089:
+    - 725939.1
+    - 5029156.71
+    - 1462.67
+    2109:
+    - 725968.8
+    - 5029089.71
+    - 1461.95
+    1604:
+    - 725996.77
+    - 5029259.33
+    - 1426.89
+    1092:
+    - 725972.14
+    - 5029249.89
+    - 1337.42
+    1608:
+    - 725917.21
+    - 5028885.58
+    - 1491.72
+    74:
+    - 725972.66
+    - 5029211.76
+    - 1443.15
+    1611:
+    - 725941.32
+    - 5028993.42
+    - 1480.78
+    76:
+    - 725979.63
+    - 5029092.39
+    - 1472.42
+    3153:
+    - 725944.2
+    - 5029072.84
+    - 1554.0
+    2643:
+    - 725978.3
+    - 5029220.36
+    - 1398.54
+    1619:
+    - 725974.78
+    - 5029040.48
+    - 1479.86
+    1621:
+    - 725973.89
+    - 5029249.64
+    - 1333.69
+    595:
+    - 725991.2
+    - 5029244.75
+    - 1298.38
+    3156:
+    - 725939.54
+    - 5029009.36
+    - 1479.61
+    3157:
+    - 725988.17
+    - 5028951.7
+    - 1498.18
+    601:
+    - 725973.84
+    - 5029002.07
+    - 1483.56
+    1114:
+    - 725944.0
+    - 5029072.0
+    - 1587.0
+    605:
+    - 725913.98
+    - 5028906.2
+    - 1491.71
+    1630:
+    - 725932.97
+    - 5029017.7
+    - 1479.14
+    96:
+    - 725983.67
+    - 5029248.76
+    - 1302.79
+    1122:
+    - 725910.64
+    - 5028914.03
+    - 1490.54
+    2147:
+    - 725942.01
+    - 5029155.37
+    - 1469.64
+    2660:
+    - 725941.45
+    - 5029164.9
+    - 1460.34
+    1124:
+    - 725986.89
+    - 5029094.61
+    - 1459.87
+    1638:
+    - 725960.62
+    - 5029085.81
+    - 1463.11
+    1127:
+    - 725991.48
+    - 5028959.56
+    - 1488.66
+    1123:
+    - 725910.54
+    - 5028910.56
+    - 1491.24
+    3177:
+    - 725946.71
+    - 5029079.17
+    - 1514.26
+    2666:
+    - 725968.38
+    - 5029190.51
+    - 1444.07
+    2667:
+    - 725944.61
+    - 5029165.31
+    - 1459.41
+    105:
+    - 725983.59
+    - 5029151.38
+    - 1448.48
+    1643:
+    - 725999.83
+    - 5029265.31
+    - 1425.04
+    2670:
+    - 725985.45
+    - 5029246.65
+    - 1299.31
+    2671:
+    - 725969.3
+    - 5028988.38
+    - 1484.26
+    1649:
+    - 725975.65
+    - 5029229.57
+    - 1428.51
+    1139:
+    - 725976.56
+    - 5029225.26
+    - 1438.27
+    2166:
+    - 725929.34
+    - 5029035.08
+    - 1478.45
+    633:
+    - 725997.3
+    - 5029268.42
+    - 1425.04
+    2683:
+    - 725958.72
+    - 5029182.08
+    - 1450.11
+    2684:
+    - 725977.41
+    - 5028965.26
+    - 1487.27
+    1147:
+    - 725979.55
+    - 5029178.3
+    - 1441.75
+    3196:
+    - 725929.74
+    - 5029127.85
+    - 1500.55
+    638:
+    - 725976.74
+    - 5029220.09
+    - 1440.13
+    2688:
+    - 725970.06
+    - 5029238.52
+    - 1351.59
+    2177:
+    - 725963.57
+    - 5029195.28
+    - 1448.26
+    1156:
+    - 725982.36
+    - 5029157.93
+    - 1448.02
+    1158:
+    - 725955.81
+    - 5028999.59
+    - 1481.01
+    2695:
+    - 725996.94
+    - 5029255.75
+    - 1426.66
+    1672:
+    - 725977.66
+    - 5029160.05
+    - 1446.62
+    3207:
+    - 725991.52
+    - 5029139.71
+    - 1454.06
+    1678:
+    - 725929.83
+    - 5029040.18
+    - 1477.75
+    1680:
+    - 725916.78
+    - 5028893.8
+    - 1492.18
+    2194:
+    - 726002.16
+    - 5029250.22
+    - 1252.37
+    149:
+    - 725980.88
+    - 5029158.2
+    - 1446.86
+    3222:
+    - 725920.78
+    - 5028963.05
+    - 1484.73
+    668:
+    - 725960.41
+    - 5029191.81
+    - 1448.49
+    671:
+    - 725973.79
+    - 5028979.45
+    - 1485.65
+    162:
+    - 725972.03
+    - 5029001.39
+    - 1483.56
+    1186:
+    - 725940.26
+    - 5028990.27
+    - 1480.54
+    2725:
+    - 726005.45
+    - 5029285.09
+    - 1301.88
+    2214:
+    - 725978.34
+    - 5028968.4
+    - 1486.58
+    1703:
+    - 725950.47
+    - 5029083.35
+    - 1514.03
+    2216:
+    - 725986.3
+    - 5029116.91
+    - 1457.08
+    1193:
+    - 725930.76
+    - 5029029.49
+    - 1478.91
+    171:
+    - 725939.91
+    - 5028969.63
+    - 1486.35
+    1199:
+    - 725973.54
+    - 5029233.63
+    - 1354.14
+    2224:
+    - 725954.16
+    - 5029167.19
+    - 1446.86
+    2223:
+    - 725987.8
+    - 5028952.85
+    - 1490.05
+    692:
+    - 725952.13
+    - 5029063.92
+    - 1473.57
+    1206:
+    - 725975.67
+    - 5029233.68
+    - 1356.0
+    695:
+    - 725953.08
+    - 5029066.8
+    - 1473.57
+    2236:
+    - 725918.8
+    - 5028882.66
+    - 1492.41
+    3263:
+    - 725934.93
+    - 5029146.39
+    - 1477.54
+    191:
+    - 725928.02
+    - 5029042.68
+    - 1477.75
+    2751:
+    - 725931.82
+    - 5028888.91
+    - 1401.33
+    3266:
+    - 725969.78
+    - 5029241.69
+    - 1351.82
+    1222:
+    - 725986.92
+    - 5029228.14
+    - 1358.55
+    1735:
+    - 725976.43
+    - 5029214.48
+    - 1414.09
+    3273:
+    - 725935.31
+    - 5029163.57
+    - 1461.27
+    2251:
+    - 725984.41
+    - 5029144.94
+    - 1449.64
+    1740:
+    - 725977.46
+    - 5029168.54
+    - 1445.0
+    1228:
+    - 725998.56
+    - 5029281.57
+    - 1420.39
+    1230:
+    - 725929.45
+    - 5029145.12
+    - 1484.51
+    717:
+    - 725916.09
+    - 5028929.53
+    - 1486.36
+    3283:
+    - 725986.11
+    - 5028963.22
+    - 1488.2
+    1238:
+    - 725926.66
+    - 5029135.83
+    - 1485.2
+    214:
+    - 725978.41
+    - 5029176.07
+    - 1442.91
+    727:
+    - 725908.31
+    - 5028919.42
+    - 1489.15
+    2263:
+    - 725927.59
+    - 5028890.14
+    - 1398.31
+    218:
+    - 725978.29
+    - 5029172.87
+    - 1443.84
+    1755:
+    - 725917.47
+    - 5028955.19
+    - 1484.72
+    733:
+    - 725982.73
+    - 5029009.9
+    - 1483.1
+    3294:
+    - 725988.87
+    - 5029246.13
+    - 1427.35
+    2271:
+    - 725936.58
+    - 5028983.57
+    - 1481.01
+    1248:
+    - 725971.18
+    - 5029208.97
+    - 1443.61
+    1249:
+    - 725999.41
+    - 5029246.66
+    - 1253.53
+    1763:
+    - 725926.12
+    - 5028975.23
+    - 1482.17
+    227:
+    - 725925.03
+    - 5028970.87
+    - 1484.03
+    1770:
+    - 725981.33
+    - 5029098.93
+    - 1469.87
+    235:
+    - 725965.7
+    - 5029201.45
+    - 1446.86
+    1772:
+    - 725920.62
+    - 5028943.35
+    - 1485.42
+    237:
+    - 725984.94
+    - 5029221.99
+    - 1396.22
+    1773:
+    - 726002.74
+    - 5029274.87
+    - 1424.11
+    1266:
+    - 725972.44
+    - 5029199.11
+    - 1427.11
+    3315:
+    - 725961.04
+    - 5028992.99
+    - 1482.41
+    3316:
+    - 726002.91
+    - 5029279.02
+    - 1423.18
+    755:
+    - 725948.55
+    - 5029000.55
+    - 1481.01
+    1783:
+    - 725959.5
+    - 5029080.26
+    - 1463.58
+    1272:
+    - 725984.46
+    - 5029068.73
+    - 1473.35
+    764:
+    - 725993.13
+    - 5029136.52
+    - 1454.52
+    1279:
+    - 725923.42
+    - 5028969.53
+    - 1483.79
+    1792:
+    - 725923.76
+    - 5028963.98
+    - 1484.49
+    1283:
+    - 725969.11
+    - 5029240.31
+    - 1351.59
+    259:
+    - 725977.41
+    - 5028977.64
+    - 1485.88
+    1285:
+    - 725939.28
+    - 5029145.43
+    - 1474.05
+    1286:
+    - 725925.33
+    - 5029123.48
+    - 1501.25
+    774:
+    - 725979.22
+    - 5029174.42
+    - 1443.37
+    3333:
+    - 725976.46
+    - 5029034.9
+    - 1481.48
+    3337:
+    - 725999.97
+    - 5029277.57
+    - 1421.08
+    1807:
+    - 725968.48
+    - 5029197.03
+    - 1443.37
+    272:
+    - 725954.69
+    - 5029171.88
+    - 1449.88
+    1296:
+    - 725985.07
+    - 5029243.81
+    - 1427.58
+    274:
+    - 725977.49
+    - 5029188.24
+    - 1443.84
+    2324:
+    - 725918.56
+    - 5028947.16
+    - 1484.72
+    284:
+    - 725992.95
+    - 5029232.25
+    - 1359.49
+    287:
+    - 725979.09
+    - 5029234.38
+    - 1429.21
+    800:
+    - 725996.95
+    - 5029245.91
+    - 1296.75
+    801:
+    - 725985.7
+    - 5029242.67
+    - 1428.98
+    802:
+    - 725918.65
+    - 5028898.35
+    - 1491.94
+    804:
+    - 725963.52
+    - 5028985.89
+    - 1483.33
+    294:
+    - 725982.51
+    - 5029234.94
+    - 1429.91
+    2343:
+    - 725931.58
+    - 5029033.94
+    - 1478.91
+    2859:
+    - 725969.83
+    - 5029244.22
+    - 1349.26
+    1838:
+    - 725939.01
+    - 5028997.08
+    - 1481.01
+    814:
+    - 725935.26
+    - 5028969.49
+    - 1485.42
+    3378:
+    - 725932.12
+    - 5029109.57
+    - 1501.49
+    1331:
+    - 725994.17
+    - 5029254.04
+    - 1427.12
+    1844:
+    - 725975.11
+    - 5029230.84
+    - 1355.3
+    1845:
+    - 725933.34
+    - 5029146.38
+    - 1483.58
+    2867:
+    - 725933.62
+    - 5028982.38
+    - 1481.01
+    823:
+    - 725945.75
+    - 5029003.64
+    - 1480.54
+    2362:
+    - 725973.96
+    - 5029204.56
+    - 1419.21
+    2363:
+    - 725977.54
+    - 5029219.89
+    - 1413.88
+    827:
+    - 725975.86
+    - 5029228.66
+    - 1435.71
+    1340:
+    - 725969.57
+    - 5029248.87
+    - 1338.11
+    2369:
+    - 725973.88
+    - 5029006.21
+    - 1483.33
+    2882:
+    - 725957.37
+    - 5028993.87
+    - 1481.25
+    323:
+    - 725982.41
+    - 5029220.44
+    - 1395.75
+    2371:
+    - 725941.88
+    - 5029060.91
+    - 1475.9
+    2885:
+    - 726000.26
+    - 5029272.8
+    - 1424.81
+    3401:
+    - 726003.56
+    - 5029247.96
+    - 1230.52
+    2891:
+    - 725969.28
+    - 5029207.88
+    - 1443.84
+    2895:
+    - 725977.86
+    - 5029191.73
+    - 1433.15
+    848:
+    - 725978.62
+    - 5029170.64
+    - 1444.53
+    3408:
+    - 725973.96
+    - 5029231.81
+    - 1355.07
+    338:
+    - 725992.1
+    - 5029125.26
+    - 1455.68
+    336:
+    - 725992.83
+    - 5029098.31
+    - 1458.94
+    3415:
+    - 725927.73
+    - 5029047.58
+    - 1476.59
+    2907:
+    - 725948.88
+    - 5028891.85
+    - 1424.57
+    860:
+    - 725954.95
+    - 5029178.03
+    - 1450.35
+    2909:
+    - 725986.93
+    - 5029229.61
+    - 1358.32
+    348:
+    - 725980.52
+    - 5029034.06
+    - 1481.48
+    350:
+    - 725976.65
+    - 5028972.51
+    - 1486.34
+    2399:
+    - 725928.23
+    - 5029014.1
+    - 1479.14
+    3425:
+    - 725988.61
+    - 5029137.99
+    - 1452.2
+    866:
+    - 725941.3
+    - 5029002.86
+    - 1480.54
+    3430:
+    - 725971.89
+    - 5029216.08
+    - 1443.15
+    2918:
+    - 725915.91
+    - 5028905.44
+    - 1491.71
+    360:
+    - 725930.89
+    - 5029128.49
+    - 1486.14
+    873:
+    - 725972.2
+    - 5029235.37
+    - 1353.44
+    1897:
+    - 725926.97
+    - 5029022.5
+    - 1479.14
+    3433:
+    - 725921.81
+    - 5028945.05
+    - 1485.65
+    2921:
+    - 725912.24
+    - 5028909.38
+    - 1491.47
+    361:
+    - 725919.82
+    - 5028880.18
+    - 1449.89
+    1905:
+    - 725975.43
+    - 5029088.43
+    - 1461.25
+    370:
+    - 725952.31
+    - 5029088.3
+    - 1511.24
+    1399:
+    - 726000.28
+    - 5029283.18
+    - 1418.3
+    377:
+    - 725974.56
+    - 5029046.06
+    - 1478.46
+    3455:
+    - 725967.96
+    - 5029203.11
+    - 1443.37
+    897:
+    - 725989.42
+    - 5029220.92
+    - 1393.89
+    386:
+    - 725982.58
+    - 5029230.69
+    - 1357.4
+    2947:
+    - 725943.82
+    - 5029074.14
+    - 1553.3
+    1410:
+    - 725912.87
+    - 5028919.01
+    - 1488.68
+    1926:
+    - 725999.42
+    - 5029260.89
+    - 1425.73
+    1416:
+    - 725966.01
+    - 5029086.54
+    - 1462.65
+    1929:
+    - 725926.0
+    - 5029018.29
+    - 1479.14
+    2443:
+    - 725982.23
+    - 5029065.21
+    - 1473.58
+    908:
+    - 725970.28
+    - 5029234.42
+    - 1352.28
+    397:
+    - 725987.31
+    - 5029140.67
+    - 1450.34
+    1931:
+    - 725944.43
+    - 5028955.77
+    - 1490.53
+    914:
+    - 725934.78
+    - 5028890.23
+    - 1411.79
+    2453:
+    - 725975.07
+    - 5029054.09
+    - 1476.13
+    413:
+    - 725983.94
+    - 5029097.96
+    - 1468.93
+    2973:
+    - 725984.8
+    - 5029029.11
+    - 1481.71
+    2463:
+    - 725929.74
+    - 5028976.47
+    - 1482.4
+    2469:
+    - 725992.13
+    - 5029254.53
+    - 1426.89
+    433:
+    - 725976.38
+    - 5029215.0
+    - 1441.29
+    945:
+    - 725983.98
+    - 5029229.88
+    - 1357.63
+    1971:
+    - 726006.86
+    - 5029280.96
+    - 1304.66
+    3508:
+    - 725986.76
+    - 5029094.32
+    - 1459.62
+    1462:
+    - 725926.42
+    - 5029025.79
+    - 1479.14
+    3000:
+    - 725991.95
+    - 5029130.03
+    - 1455.22
+    1987:
+    - 725975.59
+    - 5029187.14
+    - 1444.07
+    964:
+    - 725985.16
+    - 5029147.0
+    - 1448.95
+    1477:
+    - 725938.94
+    - 5029166.15
+    - 1460.34
+    454:
+    - 725986.16
+    - 5029246.7
+    - 1427.11
+    2505:
+    - 725981.47
+    - 5029090.94
+    - 1460.55
+    1487:
+    - 725924.57
+    - 5028966.97
+    - 1483.79
+    1488:
+    - 725954.64
+    - 5029079.57
+    - 1464.51
+    2002:
+    - 725978.26
+    - 5029231.38
+    - 1356.93
+    2004:
+    - 725945.29
+    - 5028965.83
+    - 1488.44
+    470:
+    - 725992.03
+    - 5029228.98
+    - 1359.26
+    471:
+    - 725946.09
+    - 5029091.09
+    - 1502.64
+    3030:
+    - 725990.18
+    - 5029247.84
+    - 1427.35
+    3033:
+    - 725932.84
+    - 5029095.0
+    - 1501.72
+    475:
+    - 725988.08
+    - 5029250.59
+    - 1427.58
+    3040:
+    - 725955.63
+    - 5029071.14
+    - 1466.37
+    2018:
+    - 725976.15
+    - 5029049.26
+    - 1477.75
+    484:
+    - 725976.87
+    - 5029233.66
+    - 1356.46
+    1512:
+    - 725921.01
+    - 5028946.58
+    - 1485.41
+    3050:
+    - 725972.92
+    - 5029037.39
+    - 1480.32
+    491:
+    - 725947.09
+    - 5029060.7
+    - 1474.97
+    2540:
+    - 725980.72
+    - 5029056.43
+    - 1474.74
+    2541:
+    - 725992.74
+    - 5029230.12
+    - 1390.86
+    3054:
+    - 725944.62
+    - 5029072.74
+    - 1536.34
+    497:
+    - 725942.15
+    - 5029149.13
+    - 1471.5
+    1009:
+    - 725970.16
+    - 5029245.06
+    - 1338.34
+    1013:
+    - 726004.36
+    - 5029288.44
+    - 1229.84
+    3064:
+    - 725998.68
+    - 5029263.35
+    - 1425.73
+    3068:
+    - 725926.02
+    - 5029051.96
+    - 1475.9
+    1022:
+    - 725979.93
+    - 5029187.79
+    - 1441.05
