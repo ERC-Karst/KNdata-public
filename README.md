@@ -1,3 +1,6 @@
+$${\color{red}** Disclosure ** }$$ this is a work in progress. An official version of this repository will be published on Zenodo once its related data paper is published. It is possible that some of the cave networks in this repository might change until then.
+For questions, contact celia.trunz@unine.ch
+
 
 
 # KARST NETWORKS DATASETS FOR THE ERC-KARST PROJECT
@@ -175,6 +178,7 @@ Note: the `.S6`, `.csv`, or `.yaml` can be imported in python (usually as a Netw
 - `art`: artificial
 
 ### Cave list:
+This lists all the cave from our database. The cave with number starting with a C are stored on a private database and are here just as information.
 
  **id** | short name | total length [m]| total depth [m]| csdim [%]| n° CC | mean degree | country | license
 |---|---|---|---|---|---|---|---|---|
