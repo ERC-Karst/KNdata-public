@@ -145,17 +145,3 @@ C074;Duerrenstein273;000;clean;semi-automatic correction;11 Nov 2025;1271;133.42
 C075;FoussoubieEvent;000;clean;manual correction;11 Nov 2025;2624;29.86;97;1;321;324;2.08;1.0;4.0;0.505;4;35.47;1.55;0.36;0.655;7.41;0.517;-0.34;France;44.382;4.4065;88;Confidential - not to be published;TBD;
 C076;FoussoubieGoule;000;clean;no correction;11 Nov 2025;20379;40.79;98;1;2306;2351;2.29;1.0;4.0;0.423;46;59.94;1.38;0.53;0.688;25.6;0.445;-0.202;France;44.3572;4.3812;197;Confidential - not to be published;TBD;
 C077;Kanine;000;ready for cleaning;no correction;11 Nov 2025;125743;1965.64;45;71;17260;17214;1.98;1.0;69.0;1.792;25;28.89;2.89;0.08;0.925;20.42;0.051;-0.364;Slovenia;;;;CC BY-NC-SA 4.0;;
-S001;AguaAzul;000;clean;no correction;11 Nov 2025;1821;43.91;0;1;91;91;2.0;1.0;5.0;0.588;1;45.54;0.84;0.71;0.607;5.84;0.57;-0.413;Brazil;;;;Confidential - not to be published;confidential;
-S002;Caieira;000;clean;manual correction;11 Nov 2025;3004;43.32;0;1;237;244;2.14;1.0;6.0;0.534;8;30.04;0.96;0.56;0.768;11.65;0.511;-0.287;Brazil;-12.3338;-41.6046;;Confidential - not to be published;confidential;
-S003;CanalDaFumacinha;000;clean;no correction;11 Nov 2025;811;28.45;0;1;134;151;2.44;1.0;4.0;0.437;18;8.55;0.94;0.54;0.729;6.84;0.426;-0.24;Brazil;-12.8931;-41.3236;;Confidential - not to be published;confidential;
-S004;Esconcio;000;clean;automatic correction;11 Nov 2025;3117;66.47;0;1;266;276;2.2;1.0;5.0;0.556;11;28.6;0.94;0.62;0.797;10.23;0.444;-0.196;Brazil;;;;Confidential - not to be published;confidential;
-S005;GrutaAzul;000;clean;manual correction;11 Nov 2025;1654;16.72;0;1;145;156;2.3;1.0;5.0;0.484;12;20.43;0.92;0.73;0.723;8.02;0.473;-0.22;Brazil;-12.3506;-41.5429;;Confidential - not to be published;confidential;
-S006;Impossivel;000;clean;manual correction;11 Nov 2025;8806;51.73;0;2;587;598;2.13;1.0;5.0;0.507;13;51.8;1.38;0.41;0.731;10.29;0.319;-0.275;Brazil;-12.3932;-41.554;;Confidential - not to be published;confidential;
-S007;LapaDoce;000;clean;semi-automatic correction;11 Nov 2025;25888;70.91;0;1;1926;2082;2.43;1.0;6.0;0.472;157;30.1;1.06;0.38;0.82;27.14;0.453;-0.159;Brazil;-12.3338;-41.6046;;Confidential - not to be published;confidential;
-S008;Torrinha;000;clean;automatic correction;11 Nov 2025;14195;64.46;0;1;946;1018;2.33;1.0;7.0;0.512;73;29.39;1.06;0.54;0.79;20.58;0.419;-0.221;Brazil;-12.3495;-41.6038;;Confidential - not to be published;confidential;
-S010;Aspirateur;000;clean;manual correction;11 Nov 2025;1905;106.47;98;1;270;271;2.03;1.0;4.0;0.516;2;24.75;0.89;0.69;0.883;8.24;0.558;-0.323;France;44.2576;4.4088;217;TBD;;
-S012;Bret;000;clean;manual correction;11 Nov 2025;1222;90.67;94;1;237;245;2.23;1.0;4.0;0.543;9;16.31;1.25;0.41;0.847;6.96;0.517;-0.326;France;44.2554;4.4136;204;TBD;;
-S013;Everest;000;clean;no correction;11 Nov 2025;531;75.76;96;1;94;94;2.0;1.0;5.0;0.564;1;15.62;0.86;0.67;0.761;5.41;0.428;-0.316;France;44.2571;4.4083;226;TBD;;
-S014;Malaval;000;clean;manual correction;11 Nov 2025;12228;228.41;96;1;2255;2281;2.14;1.0;5.0;0.496;27;32.87;1.73;0.21;0.847;27.1;0.431;-0.341;France;44.4057;3.6055;993;TBD;;
-S015;Souchon;000;clean;no correction;11 Nov 2025;569;77.95;95;1;133;132;1.94;1.0;3.0;0.521;0;16.28;0.91;0.79;0.814;5.68;0.507;-0.373;France;44.2595;4.4055;221;TBD;;
-S016;Wakulla;000;clean;no correction;11 Nov 2025;18170;92.0;100;1;474;478;2.14;1.0;4.0;0.471;5;324.46;1.54;0.43;0.736;8.25;0.427;-0.361;USA;30.23333;-84.305;4;TBD;TBD;
