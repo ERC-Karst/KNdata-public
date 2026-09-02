@@ -2,7 +2,7 @@ version: 0.0-beta <img width="193" height="20" alt="image" src="https://github.c
 
 If you use this version of the database, please cite it as below:
 
-*Trunz, C., Racine, T., Brissemoret, C., Renard, P., Preliminary version of the KNdata-public graph dataset, github.com/ERC-Karst/KNdata-public: preliminary dataset, DOI: 10.5281/zenodo.22234319 , version: v0.0-beta, date-released: 2026-09-01.*
+*Trunz, C., Racine, T., Brissemoret, C., Renard, P., KNdata-public graph dataset, github.com/ERC-Karst/KNdata-public: preliminary dataset, DOI: 10.5281/zenodo.22234319 , version: v0.0-beta, date-released: 2026-09-01.*
 
 $${\color{red}** Disclosure ** }$$ this is a work in progress. An official version of this repository will be published on Zenodo once its related data paper is published. It is possible that some of the cave networks in this repository might change until then.
 For questions, contact celia.trunz@unine.ch
